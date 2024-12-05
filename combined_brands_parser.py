@@ -17,7 +17,8 @@ import re
 # ... существующий код настройки Chrome ...
 
 class BrandParser:
-    def __init__(self):
+    def __init__(self, storage: BrandStorage):
+        self.storage = storage
         self.chrome_options = Options()
         self.chrome_options.add_argument("--headless")
         self.chrome_options.add_argument("--no-sandbox")
@@ -30,10 +31,6 @@ class BrandParser:
         
         self.chrome_options.binary_location = self.chrome_binary_path
         self.service = Service(self.chromedriver_path)
-        
-        # Создаем директории для данных
-        if not os.path.exists("brand_data"):
-            os.makedirs("brand_data")
 
     def collect_unique_brand_links(self):
         """Сбор уникальных ссылок на бренды с использованием stealth"""
@@ -71,13 +68,13 @@ class BrandParser:
                     print(f"Ошибка при обработке {url}: {e}")
 
         # Сохраняем собранные ссылки
-        self._save_links_to_csv(brand_links)
+        self.storage.save_brand_links(brand_links)
         return brand_links
 
     def process_brand_data(self, brand_links=None):
         """Получение JSON данных для каждого бренда"""
         if brand_links is None:
-            brand_links = self._read_links_from_csv()
+            brand_links = self.storage.load_brand_links()
 
         print("Начинаем получение JSON данных для брендов...")
         for brand_url in brand_links:
@@ -90,8 +87,7 @@ class BrandParser:
                 if json_data:
                     # Сохраняем данные
                     brand_name = brand_url.split('/')[-1]
-                    filename = os.path.join("brand_data", f"{brand_name}.json")
-                    self._save_json_data(json_data, filename)
+                    self.storage.save_brand_data(brand_name, json_data)
                 
             except Exception as e:
                 print(f"Ошибка при обработке бренда {brand_url}: {str(e)}")
@@ -175,31 +171,5 @@ class BrandParser:
                 print(f"Попытка {attempt + 1} из {max_retries} не удалась для {url}: {str(e)}")
                 continue
                 
-        print(f"Не удалось получить хэш после {max_retries} попыток для {url}")
+        print(f"Не удалось полу��ить хэш после {max_retries} попыток для {url}")
         return None
-
-    def _save_links_to_csv(self, links, filename="unique_brand_links.csv"):
-        """Сохранение ссылок в CSV"""
-        with open(filename, 'w', newline='', encoding='utf-8') as file:
-            writer = csv.writer(file)
-            writer.writerow(["Brand URL"])
-            for link in links:
-                writer.writerow([link])
-
-    def _read_links_from_csv(self, filename="unique_brand_links.csv"):
-        """Чтение ссылок из CSV"""
-        links = []
-        with open(filename, 'r', encoding='utf-8') as file:
-            reader = csv.reader(file)
-            next(reader)
-            links = [row[0] for row in reader if row]
-        return links
-
-    def _save_json_data(self, data, filename):
-        """Сохранение JSON данных"""
-        with open(filename, 'w', encoding='utf-8') as file:
-            json.dump(data, file, ensure_ascii=False, indent=4)
-
-if __name__ == "__main__":
-    parser = BrandParser()
-    parser.run_full_process()

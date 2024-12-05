@@ -137,7 +137,7 @@ if __name__ == "__main__":
     # Получение сводки о бренде
     summary = processor.get_brand_summary(brand_name)
     if summary:
-        print("\nСводка о бренде:")
+        print(f"\nСводка о бренде: {brand_name}")
         print(json.dumps(summary, indent=2, ensure_ascii=False))
     
     # Поиск продуктов по категории
@@ -149,5 +149,5 @@ if __name__ == "__main__":
     # Получение статистики
     stats = processor.get_brand_statistics(brand_name)
     if stats:
-        print("\nСтатистика бренда:")
+        print(f"\nСтатистика бренда:{brand_name}")
         print(json.dumps(stats, indent=2, ensure_ascii=False)) 

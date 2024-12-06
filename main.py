@@ -2,6 +2,7 @@ from brand_storage import BrandStorage
 from brand_data_processor import BrandDataProcessor
 from brand_service import BrandService
 from combined_brands_parser import BrandParser
+import json
 
 def main():
     # Инициализация компонентов

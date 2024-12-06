@@ -53,4 +53,4 @@ class BrandStorage:
             return [f.replace('.json', '') for f in files if f.endswith('.json')]
         except Exception as e:
             print(f"Ошибка при получении списка брендов: {str(e)}")
-            return [] 
+            return []

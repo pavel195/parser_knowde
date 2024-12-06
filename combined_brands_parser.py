@@ -13,8 +13,7 @@ from selenium.common.exceptions import TimeoutException, WebDriverException
 import requests
 from requests_html import HTMLSession
 import re
-
-# ... существующий код настройки Chrome ...
+from brand_storage import BrandStorage
 
 class BrandParser:
     def __init__(self, storage: BrandStorage):
@@ -33,7 +32,7 @@ class BrandParser:
         self.service = Service(self.chromedriver_path)
 
     def collect_unique_brand_links(self):
-        """Сбор уникальных ссылок на бренды с использованием stealth"""
+        """Сбор уникальных ссылок на бренды"""
         print("Начинаем сбор уникальных ссылок на бренды...")
         brand_links = set()
 
@@ -92,18 +91,6 @@ class BrandParser:
             except Exception as e:
                 print(f"Ошибка при обработке бренда {brand_url}: {str(e)}")
                 continue
-
-    def run_full_process(self):
-        """Запуск полного процесса сбора данных"""
-        print("Запуск полного процесса сбора данных...")
-        
-        # Шаг 1: Сбор уникальных ссылок
-        brand_links = self.collect_unique_brand_links()
-        
-        # Шаг 2: Получение JSON данных
-        self.process_brand_data(brand_links)
-        
-        print("Процесс завершен!")
 
     # Вспомогательные методы
     def _extract_category_links(self, browser):

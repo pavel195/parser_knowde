@@ -3,48 +3,47 @@ import json
 from typing import Dict, List, Optional, Union
 
 class BrandDataProcessor:
-    def __init__(self, data_directory: str = "brand_data"):
-        self.data_directory = data_directory
+    def __init__(self, storage):
+        self.storage = storage
         
     def get_brand_summary(self, brand_name: str) -> Optional[Dict]:
         """
         Получение краткой сводки о бренде
         """
-        brand_data = self._load_brand_data(brand_name)
+        brand_data = self.storage.load_brand_data(brand_name)
         if not brand_data:
             return None
             
-        company_info = brand_data.get('pageProps', {}).get('company', {})
-        products = brand_data.get('pageProps', {}).get('products', [])
+        # Получаем основную информацию о компании
+        company_info = brand_data.get('pageProps', {})
+        products = company_info.get('most_viewed_products', {}).get('data', [])
         
         return {
             'name': company_info.get('name'),
             'description': company_info.get('description'),
             'total_products': len(products),
             'categories': self._get_unique_categories(products),
-            'website': company_info.get('website'),
-            'location': company_info.get('location')
+            'website': company_info.get('social_links', [{}])[0].get('url'),
+            'location': company_info.get('hq_address')
         }
     
     def get_product_details(self, brand_name: str, product_id: str) -> Optional[Dict]:
         """
         Получение детальной информации о продукте
         """
-        brand_data = self._load_brand_data(brand_name)
+        brand_data = self.storage.load_brand_data(brand_name)
         if not brand_data:
             return None
             
-        products = brand_data.get('pageProps', {}).get('products', [])
+        products = brand_data.get('pageProps', {}).get('most_viewed_products', {}).get('data', [])
         for product in products:
-            if product.get('id') == product_id:
+            if str(product.get('id')) == product_id:
                 return {
                     'id': product.get('id'),
                     'name': product.get('name'),
                     'description': product.get('description'),
-                    'category': product.get('category'),
-                    'specifications': product.get('specifications', {}),
-                    'applications': product.get('applications', []),
-                    'features': product.get('features', [])
+                    'properties': product.get('properties', []),
+                    'summary': product.get('summary', [])
                 }
         return None
     
@@ -54,24 +53,36 @@ class BrandDataProcessor:
         """
         Поиск продуктов по категории и/или ключевому слову
         """
-        brand_data = self._load_brand_data(brand_name)
+        brand_data = self.storage.load_brand_data(brand_name)
         if not brand_data:
             return []
             
-        products = brand_data.get('pageProps', {}).get('products', [])
+        products = brand_data.get('pageProps', {}).get('most_viewed_products', {}).get('data', [])
         filtered_products = []
         
         for product in products:
-            matches_category = True if category is None else product.get('category', '').lower() == category.lower()
-            matches_keyword = True if keyword is None else keyword.lower() in product.get('name', '').lower() or \
-                                                        keyword.lower() in product.get('description', '').lower()
-                                                        
+            matches_category = True
+            if category:
+                product_categories = []
+                for prop in product.get('properties', []):
+                    if prop.get('name') == 'Product Families':
+                        product_categories.extend(prop.get('items', []))
+                matches_category = category in product_categories
+                
+            matches_keyword = True
+            if keyword:
+                keyword = keyword.lower()
+                matches_keyword = (
+                    keyword in product.get('name', '').lower() or
+                    keyword in product.get('description', '').lower()
+                )
+                
             if matches_category and matches_keyword:
                 filtered_products.append({
                     'id': product.get('id'),
                     'name': product.get('name'),
-                    'category': product.get('category'),
-                    'short_description': product.get('description', '')[:100] + '...'
+                    'short_description': product.get('description', '')[:100] + '...' if product.get('description') else '',
+                    'categories': [prop.get('items', []) for prop in product.get('properties', []) if prop.get('name') == 'Product Families'][0] if product.get('properties') else []
                 })
                 
         return filtered_products
@@ -80,74 +91,38 @@ class BrandDataProcessor:
         """
         Получение статистики по бренду
         """
-        brand_data = self._load_brand_data(brand_name)
+        brand_data = self.storage.load_brand_data(brand_name)
         if not brand_data:
             return None
             
-        products = brand_data.get('pageProps', {}).get('products', [])
-        categories = self._get_unique_categories(products)
+        products = brand_data.get('pageProps', {}).get('most_viewed_products', {}).get('data', [])
+        
+        # Собираем категории
+        categories = set()
+        categories_distribution = {}
+        
+        for product in products:
+            for prop in product.get('properties', []):
+                if prop.get('name') == 'Product Families':
+                    for category in prop.get('items', []):
+                        categories.add(category)
+                        categories_distribution[category] = categories_distribution.get(category, 0) + 1
         
         return {
             'total_products': len(products),
             'categories_count': len(categories),
-            'categories_distribution': self._get_categories_distribution(products),
-            'has_specifications': sum(1 for p in products if p.get('specifications')),
-            'has_applications': sum(1 for p in products if p.get('applications'))
+            'categories_distribution': categories_distribution,
+            'has_specifications': sum(1 for p in products if any(s.get('name') == 'Features' for s in p.get('summary', []))),
+            'has_applications': sum(1 for p in products if any(prop.get('name') == 'Applications' for prop in p.get('properties', [])))
         }
-    
-    def _load_brand_data(self, brand_name: str) -> Optional[Dict]:
-        """
-        Загрузка данных бренда из JSON файла
-        """
-        try:
-            file_path = os.path.join(self.data_directory, f"{brand_name}.json")
-            if not os.path.exists(file_path):
-                return None
-                
-            with open(file_path, 'r', encoding='utf-8') as file:
-                return json.load(file)
-        except Exception as e:
-            print(f"Ошибка при загрузке данных бренда {brand_name}: {str(e)}")
-            return None
     
     def _get_unique_categories(self, products: List[Dict]) -> List[str]:
         """
         Получение списка уникальных категорий
         """
-        return list(set(p.get('category') for p in products if p.get('category')))
-    
-    def _get_categories_distribution(self, products: List[Dict]) -> Dict[str, int]:
-        """
-        Получение распределения продуктов по категориям
-        """
-        distribution = {}
+        categories = set()
         for product in products:
-            category = product.get('category')
-            if category:
-                distribution[category] = distribution.get(category, 0) + 1
-        return distribution
-
-# Пример использования
-if __name__ == "__main__":
-    processor = BrandDataProcessor()
-    
-    # Пример работы с брендом
-    brand_name = "accor"
-    
-    # Получение сводки о бренде
-    summary = processor.get_brand_summary(brand_name)
-    if summary:
-        print(f"\nСводка о бренде: {brand_name}")
-        print(json.dumps(summary, indent=2, ensure_ascii=False))
-    
-    # Поиск продуктов по категории
-    products = processor.search_products(brand_name, category="Polymers")
-    if products:
-        print("\nНайденные продукты в категории 'Polymers':")
-        print(json.dumps(products[:3], indent=2, ensure_ascii=False))
-    
-    # Получение статистики
-    stats = processor.get_brand_statistics(brand_name)
-    if stats:
-        print(f"\nСтатистика бренда:{brand_name}")
-        print(json.dumps(stats, indent=2, ensure_ascii=False)) 
+            for prop in product.get('properties', []):
+                if prop.get('name') == 'Product Families':
+                    categories.update(prop.get('items', []))
+        return list(categories)

@@ -26,4 +26,4 @@ class BrandService:
 
     def list_available_brands(self) -> List[str]:
         """Получение списка доступных брендов"""
-        return self.storage.list_brands() 
+        return self.storage.list_brands()

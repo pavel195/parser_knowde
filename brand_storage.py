@@ -1,3 +1,8 @@
+"""
+Модуль для управления хранением данных о брендах.
+Отвечает за сохранение и загрузку JSON-файлов брендов и списка ссылок.
+"""
+
 import os
 import json
 import csv
@@ -5,12 +10,22 @@ from typing import List, Dict, Optional, Set
 
 class BrandStorage:
     def __init__(self, data_directory: str = "brand_data"):
+        """
+        Инициализация хранилища данных.
+        Args:
+            data_directory: Путь к директории для хранения данных брендов
+        """
         self.data_directory = data_directory
         if not os.path.exists(data_directory):
             os.makedirs(data_directory)
 
     def save_brand_data(self, brand_name: str, data: Dict) -> None:
-        """Сохранение данных бренда"""
+        """
+        Сохранение JSON-данных бренда в файл.
+        Args:
+            brand_name: Название бренда
+            data: Словарь с данными бренда
+        """
         file_path = os.path.join(self.data_directory, f"{brand_name}.json")
         with open(file_path, 'w', encoding='utf-8') as file:
             json.dump(data, file, ensure_ascii=False, indent=4)

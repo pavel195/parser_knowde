@@ -1,14 +1,28 @@
+"""
+Модуль для обработки и анализа данных брендов.
+Предоставляет методы для получения сводной информации и статистики.
+"""
+
 import os
 import json
 from typing import Dict, List, Optional, Union
 
 class BrandDataProcessor:
     def __init__(self, storage):
+        """
+        Инициализация процессора данных.
+        Args:
+            storage: Экземпляр BrandStorage для доступа к данным
+        """
         self.storage = storage
         
     def get_brand_summary(self, brand_name: str) -> Optional[Dict]:
         """
-        Получение краткой сводки о бренде
+        Формирование краткой сводки о бренде.
+        Args:
+            brand_name: Название бренда
+        Returns:
+            Dict: Сводная информация о бренде или None
         """
         brand_data = self.storage.load_brand_data(brand_name)
         if not brand_data:

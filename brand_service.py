@@ -1,9 +1,20 @@
+"""
+Сервисный слой для работы с брендами.
+Объединяет функционал хранения и обработки данных.
+"""
+
 from typing import Optional, List, Dict
 from brand_storage import BrandStorage
 from brand_data_processor import BrandDataProcessor
 
 class BrandService:
     def __init__(self, storage: BrandStorage, processor: BrandDataProcessor):
+        """
+        Инициализация сервиса.
+        Args:
+            storage: Экземпляр BrandStorage
+            processor: Экземпляр BrandDataProcessor
+        """
         self.storage = storage
         self.processor = processor
 

@@ -1,3 +1,8 @@
+"""
+Модуль для парсинга данных о брендах с сайта Knowde.
+Использует Selenium для сбора ссылок и requests для получения JSON-данных.
+"""
+
 import os
 import time
 import json
@@ -17,6 +22,11 @@ from brand_storage import BrandStorage
 
 class BrandParser:
     def __init__(self, storage: BrandStorage):
+        """
+        Инициализация парсера.
+        Args:
+            storage: Экземпляр BrandStorage для сохранения данных
+        """
         self.storage = storage
         self.chrome_options = Options()
         self.chrome_options.add_argument("--headless")
@@ -32,7 +42,11 @@ class BrandParser:
         self.service = Service(self.chromedriver_path)
 
     def collect_unique_brand_links(self):
-        """Сбор уникальных ссылок на бренды"""
+        """
+        Сбор уникальных ссылок на бренды с помощью Selenium.
+        Returns:
+            Set[str]: Множество уникальных ссылок на бренды
+        """
         print("Начинаем сбор уникальных ссылок на бренды...")
         brand_links = set()
 
@@ -110,7 +124,14 @@ class BrandParser:
         return links
 
     def _get_json_data_for_brand(self, brand_url, max_retries=3):
-        """Получение JSON данных для бренда с повторными попытками"""
+        """
+        Получение JSON-данных для конкретного бренда.
+        Args:
+            brand_url: URL бренда
+            max_retries: Количество попыток получения данных
+        Returns:
+            Dict: JSON-данные бренда или None при ошибке
+        """
         for attempt in range(max_retries):
             try:
                 hash_value = self._get_hash_from_brand_page(brand_url)
@@ -158,5 +179,5 @@ class BrandParser:
                 print(f"Попытка {attempt + 1} из {max_retries} не удалась для {url}: {str(e)}")
                 continue
                 
-        print(f"Не удалось полу��ить хэш после {max_retries} попыток для {url}")
+        print(f"Не удалось получить хэш после {max_retries} попыток для {url}")
         return None

@@ -1,8 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
 .venv/
+venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+
+# Project specific
+
+unique_brand_links.csv
+
+# Logs
+*.log
+
+# Local development settings
+.env
+.env.local
+
+# System files
+.DS_Store
+Thumbs.db
+
 brand_links.csv 
 getting_json_brands.py
 hash.py
-unique_brand_links.csv
-__pycache__/
-brand_data/
 

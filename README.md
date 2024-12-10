@@ -14,7 +14,43 @@ source .venv/bin/activate  # Linux/Mac
 pip install -r requirements.txt
 ```
 
-### 2. Запуск парсера
+### 2. Установка Chrome и ChromeDriver
+
+#### Linux
+```bash
+# Создание директорий
+mkdir -p ~/chrome-linux64
+mkdir -p ~/chromedriver-linux64
+
+# Скачивание и распаковка Chrome
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+sudo dpkg -i google-chrome-stable_current_amd64.deb
+sudo apt-get install -f
+
+# Скачивание и установка ChromeDriver
+# Замените VERSION на актуальную версию с https://chromedriver.chromium.org/downloads
+wget https://chromedriver.storage.googleapis.com/VERSION/chromedriver_linux64.zip
+unzip chromedriver_linux64.zip -d ~/chromedriver-linux64/
+chmod +x ~/chromedriver-linux64/chromedriver
+```
+
+#### MacOS
+```bash
+# Установка через Homebrew
+brew install --cask google-chrome
+brew install --cask chromedriver
+```
+
+#### Windows
+1. Скачайте Chrome с официального сайта: https://www.google.com/chrome/
+2. Скачайте ChromeDriver с: https://chromedriver.chromium.org/downloads
+   - Версия ChromeDriver должна соответствовать версии Chrome
+3. Распакуйте chromedriver.exe в удобную директорию
+4. Добавьте путь к ChromeDriver в переменную PATH
+
+
+
+### 3. Запуск парсера
 ```bash
 # Запуск парсера для сбора данных
 python main.py
@@ -24,7 +60,7 @@ python main.py
 - Получение данных о каждом бренде
 - Сохранение в JSON файлы в директории data/brand_data/
 
-### 3. Запуск API сервера
+### 4. Запуск API сервера
 ```bash
 # Запуск API сервера
 python scripts/run_api.py
@@ -33,7 +69,6 @@ python scripts/run_api.py
 API будет доступен по адресу: http://localhost:8000
 
 ## API Endpoints
-
 
 # Список всех брендов
 GET /brands/
@@ -49,8 +84,9 @@ GET /brands/{brand_name}/summary
 GET /brands/{brand_name}/products
 GET /brands/{brand_name}/products?category=Surfactants&keyword=natural
 
-
 Swagger документация доступна по адресу: http://localhost:8000/docs
 
-## Примечание
-Перед использованием API необходимо собрать данные с помощью парсера.
+## Примечания
+- Перед использованием API необходимо собрать данные с помощью парсера
+- Убедитесь, что версии Chrome и ChromeDriver совпадают
+- При проблемах с доступом к ChromeDriver проверьте права доступа к файлу

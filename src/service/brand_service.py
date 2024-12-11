@@ -2,11 +2,13 @@
 from typing import Dict, List, Optional
 from src.storage.brand_storage import BrandStorage
 from src.processor.brand_processor import BrandProcessor
+from src.processor.product_extractor import ProductExtractor
 
 class BrandService:
     def __init__(self, storage: BrandStorage, processor: BrandProcessor):
         self.storage = storage
         self.processor = processor
+        self.product_extractor = ProductExtractor(storage)
 
     def get_brand_data(self, brand_name: str, include_products: bool = False) -> Optional[Dict]:
         """Получение данных бренда"""
@@ -26,4 +28,15 @@ class BrandService:
 
     def list_available_brands(self) -> List[str]:
         """Получение списка брендов"""
-        return self.storage.list_brands() 
+        return self.storage.list_brands()
+
+    def extract_brand_products(self, brand_name: str) -> List[Dict]:
+        """
+        Извлекает все продукты бренда в отдельные файлы.
+        
+        Args:
+            brand_name: Название бренда
+        Returns:
+            List[Dict]: Список обработанных продуктов
+        """
+        return self.product_extractor.extract_products_from_brand(brand_name) 

@@ -1,7 +1,14 @@
+.venv/
+__pycache__/
 
-brand_links.csv 
-getting_json_brands.py
-hash.py
-unique_brand_links.csv
+*.py[cod]
+data/
+*.log
+
+.env.example
+
+.env
+
+
 
 

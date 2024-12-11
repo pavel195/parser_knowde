@@ -25,18 +25,28 @@ class ProductExtractor:
 
         all_products = []
         
-        # Получаем данные из most_viewed_products
-        most_viewed = brand_data.get('pageProps', {}).get('most_viewed_products', {}).get('data', [])
-        
-        if most_viewed:
-            print(f"Найдено {len(most_viewed)} продуктов в most_viewed_products для бренда {brand_name}")
-            
-            for product in most_viewed:
-                processed_product = self._process_product(product, brand_name)
-                if processed_product:
-                    all_products.append(processed_product)
-                    self._save_product(processed_product)
-                    print(f"Обработан продукт: {processed_product['name']}")
+        # Получаем данные по правильному пути
+        try:
+            queries = brand_data.get('pageProps', {}).get('dehydratedState', {}).get('queries', [])
+            if len(queries) > 1:
+                most_viewed = queries[1].get('state', {}).get('data', {}).get('most_viewed_products', {}).get('data', [])
+                
+                if most_viewed:
+                    print(f"Найдено {len(most_viewed)} продуктов в most_viewed_products для бренда {brand_name}")
+                    
+                    for product in most_viewed:
+                        processed_product = self._process_product(product, brand_name)
+                        if processed_product:
+                            all_products.append(processed_product)
+                            self._save_product(processed_product)
+                            print(f"Обработан продукт: {processed_product['name']}")
+                else:
+                    print(f"Продукты не найдены для бренда {brand_name}")
+            else:
+                print(f"Недостаточно queries в данных бренда {brand_name}")
+                
+        except Exception as e:
+            print(f"Ошибка при извлечении продуктов для бренда {brand_name}: {str(e)}")
 
         return all_products
 
@@ -77,13 +87,21 @@ class ProductExtractor:
                 prop_items = prop.get('items', [])
                 processed['properties'][prop_name] = prop_items
 
+            # Обработка summary если есть
+            if 'summary' in product:
+                processed['summary'] = {}
+                for summary_item in product.get('summary', []):
+                    summary_name = summary_item.get('name', '')
+                    summary_items = summary_item.get('items', [])
+                    processed['summary'][summary_name] = summary_items
+
             # Добавляем документы, если есть
             if 'documents' in product:
                 processed['documents'] = product['documents']
 
             # Добавляем дополнительные поля, если они есть
             additional_fields = [
-                'manufacturer', 'summary', 'specifications',
+                'manufacturer', 'specifications',
                 'features', 'applications', 'certifications'
             ]
             

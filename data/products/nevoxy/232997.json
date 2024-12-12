@@ -1,0 +1,56 @@
+{
+    "id": 232997,
+    "brand": "nevoxy",
+    "name": "NEVOXY® EPX-L",
+    "slug": "nevoxy-epx-l",
+    "description": "NEVOXY®EPX-L is a low molecular weight, methyl styrenated phenol liquid hydrocarbon resin produced by catalytic polymerization of petroleum derived feedstocks.",
+    "company_name": "Neville",
+    "company_slug": "neville",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112425/production/Company/16401/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608422/production/CategoryImage/558/category_image/BuildingConstruction_02.jpg",
+    "properties": {
+        "Applications": [
+            "Coatings & Finishes",
+            "Flooring & Surfaces",
+            "Automotive & Transportation",
+            "Building & Construction",
+            "Industrial Coatings",
+            "Packaging Coatings",
+            "Marine",
+            "Floor Coatings",
+            "Industrial Maintenance",
+            "Primers & Lacquers",
+            "Marine Coatings",
+            "Transportation"
+        ],
+        "Product Families": [
+            "Other Resins & Binders",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Hydrocarbons"
+        ],
+        "End Uses": [
+            "Primer",
+            "Epoxy Coating"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Hydrocarbons"
+        ],
+        "End Uses": [
+            "Primer",
+            "Epoxy Coating"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Concrete"
+        ],
+        "Features": [
+            "Improves Adhesion",
+            "Low VOC",
+            "Low Viscosity",
+            "Improved Flexibility"
+        ]
+    }
+}

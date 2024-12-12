@@ -1,0 +1,47 @@
+{
+    "id": 325911,
+    "brand": "vemor",
+    "name": "Cremex 300",
+    "slug": "cremex-300",
+    "description": "Cremex 300 our range of branded of ice cream fats for use in aerated foods such as ice creams, frozen desserts, shakes and smoothies. At the heart of ice cream, Cremex delivers a creamy texture, excellent melting characteristic and good overrun and reduced saturated fat (as low as 40% SAFA).",
+    "company_name": "Sime Darby Unimills",
+    "company_slug": "sime-darby-unimills",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686104267/production/Company/31032/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607009/production/CategoryImage/509/category_image/FoodNutrition_10.jpg",
+    "properties": {
+        "Applications": [
+            "Food",
+            "Dairy",
+            "Desserts & Fruit Preparations",
+            "Other Food Applications",
+            "Dairy Substitutes",
+            "Cooking Oils & Fat Products"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Edible Oils & Fats"
+        ],
+        "End Uses": [
+            "Frozen Soft Serve",
+            "Plant Based Dairy Alternatives",
+            "Frozen Desserts",
+            "Desserts"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Coconut Oil"
+        ],
+        "Labeling Claims": [
+            "Sustainable",
+            "Dairy-free",
+            "Plant-Based",
+            "Naturally Derived"
+        ],
+        "Features": [
+            "Improves Flavor Release",
+            "Excellent Melting Properties",
+            "Creamy Texture"
+        ]
+    }
+}

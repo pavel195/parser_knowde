@@ -1,0 +1,39 @@
+{
+    "id": 361150,
+    "brand": "coolube",
+    "name": "Coolube® 2210",
+    "slug": "coolube-2210",
+    "description": "Coolube® 2210 lubricants are formulated from 100% natural, non-toxic, non-staining ingredients. Coolube® lubricants will not oxidize (become sticky or leave a residue) and are biodegradable. Primarily for non-ferrous materials.",
+    "company_name": "UNIST",
+    "company_slug": "unist",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680108762/production/Brand/27004/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical & Industrial Manufacturing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Lubricants & Oils",
+            "Fluids & Lubricants"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cutting Oils"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Elastomers & Rubbers",
+            "Aluminum",
+            "Metal",
+            "Wood"
+        ],
+        "Features": [
+            "Non-Toxic",
+            "Service Life Extension",
+            "Stain Resistant",
+            "Excellent Performance",
+            "Oxidation Resistant"
+        ]
+    }
+}

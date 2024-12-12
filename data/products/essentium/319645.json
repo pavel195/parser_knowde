@@ -1,0 +1,51 @@
+{
+    "id": 319645,
+    "brand": "essentium",
+    "name": "ESSENTIUM TPU 95A LOW FRICTION",
+    "slug": "essentium-tpu-95a-low-friction",
+    "description": "Essentium’s TPU 95A Low Friction is the medium durometer filament in our broad flexible portfolio. It balances high elongation with impressive impact resistance and tensile strength. This filament has a low friction surface that allows for easier feeding while printing.",
+    "company_name": "Essentium",
+    "company_slug": "essentium",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691742462/production/Product/319645/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Pipes & Plumbing",
+            "Fuel Systems",
+            "Other Industrial Applications",
+            "Structural Components",
+            "Sports & Recreation",
+            "Other Automotive Applications",
+            "Footwear",
+            "Building Materials",
+            "Chemical & Industrial Manufacturing",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Thermoplastic Filament",
+            "3D Printing Polymers"
+        ],
+        "Chemical Family": [
+            "Thermoplastic Polyurethanes (TPU)",
+            "Polyurethanes (PU)"
+        ],
+        "Polymer Name": [
+            "Thermoplastic Polyurethane (unspecified)"
+        ],
+        "End Uses": [
+            "Sporting Goods",
+            "Protective Coverings",
+            "Hoses",
+            "Grommets",
+            "Footwear",
+            "Flexible Grips",
+            "Exhaust Duct Systems",
+            "Bushings"
+        ]
+    },
+    "summary": {
+        "Density": [
+            "1150.0 - 1150.0 kg/m³"
+        ]
+    }
+}

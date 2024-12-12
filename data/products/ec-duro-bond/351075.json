@@ -1,0 +1,59 @@
+{
+    "id": 351075,
+    "brand": "ec-duro-bond",
+    "name": "Duro-Bond PVC Lining",
+    "slug": "duro-bond-pvc-lining",
+    "description": "Duro-Bond PVC Lining is a flexible lining material of extruded plasticized polyvinyl chloride (PVC) specifically developed for corrosion resistance and adhesive bonding to metals, concrete, and FRP. PVC is a thermoplastic resin that is melt flow processible.",
+    "company_name": "Electro Chemical Engineering",
+    "company_slug": "electro-chemical-engineering",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686150368/production/Brand/26190/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical & Industrial Manufacturing",
+            "Other Industrial Applications",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Vinyls, Vinylics & Vinyl Derivatives"
+        ],
+        "Polymer Name": [
+            "Polyvinyl Chloride (PVC)"
+        ],
+        "End Uses": [
+            "Industrial Applications",
+            "Chemical Process",
+            "Tanks"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyvinyl Chloride (PVC)"
+        ],
+        "Physical Form": [
+            "Sheets"
+        ],
+        "Features": [
+            "Electrically Insulating",
+            "Chemical Resistant",
+            "Corrosion Resistant",
+            "Good Abrasion Resistance",
+            "High Purity",
+            "Acid Resistant"
+        ],
+        "End Uses": [
+            "Industrial Applications",
+            "Tanks",
+            "Chemical Process"
+        ],
+        "Color": [
+            "Transparent"
+        ],
+        "Tensile Strength": [
+            "45.0 - 55.0 MPa"
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "id": 241303,
+    "brand": "best-special-x",
+    "name": "BEST Heidelberg Wheat Malt",
+    "slug": "best-heidelberg-wheat-malt",
+    "description": "BEST Heidelberg Wheat Malt is a particularly pale wheat malt that emphasizes the effervescent freshness and typical top-fermented flavor of wheat beer. BEST Heidelberg Wheat Malt is produced exclusively from high-quality, selected brewing wheat varieties that do not tend to add color during the malting process. The protein content is slightly more moderate than in BEST Wheat Malt due to the properties of the raw material.",
+    "company_name": "BESTMALZ",
+    "company_slug": "bestmalz",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686104741/production/Company/16830/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1686104741/production/Company/16830/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Beverage",
+            "Liquor & Spirits",
+            "Beer Brewing"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Flours & Grains Products"
+        ],
+        "End Uses": [
+            "Beer"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Wheat Malt"
+        ],
+        "Labeling Claims": [
+            "Kosher",
+            "Plant-Based",
+            "GMO-free",
+            "Naturally Derived"
+        ],
+        "Certifications & Compliance": [
+            "Hazard Analysis Critical Control Point (HACCP)",
+            "Kosher",
+            "ISO 9001",
+            "ISO 50001"
+        ],
+        "Features": [
+            "Imparts color",
+            "Improved Flavour Stability"
+        ]
+    }
+}

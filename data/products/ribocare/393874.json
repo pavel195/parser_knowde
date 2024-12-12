@@ -1,0 +1,41 @@
+{
+    "id": 393874,
+    "brand": "ribocare",
+    "name": "RIBOCARE",
+    "slug": "ribocare",
+    "description": "RIBOCARE is an excellent source of individual natural nucleotides. It is a customized premix of individual nucleotides for each specific application for infant milk or dietary supplements are manufactured in high care clean rooms, following the strictest procedures to guarantee the highest safety standards. Prosol guarantees the quality level and the accuracy of each individual nucleotide profile in the recipe.",
+    "company_name": "Prosol spa",
+    "company_slug": "prosol-spa",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708516620/production/Brand/29726/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606961/production/CategoryImage/506/category_image/FoodNutrition_07.jpg",
+    "properties": {
+        "Applications": [
+            "Other Nutrition Applications",
+            "Nutraceuticals & Supplements",
+            "Early Life Nutrition",
+            "Infant & Baby Food",
+            "Food",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Dietary Supplements",
+            "Infant Milk Formula"
+        ]
+    },
+    "summary": {
+        "Benefit Claims (Health)": [
+            "Supports Immune System",
+            "Promotes Healthy Gut Microflora"
+        ],
+        "Features": [
+            "Stimulates Immune System",
+            "Promotes Healthy Gut Microflora"
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "id": 396183,
+    "brand": "ultrafloc",
+    "name": "NCP Chlorchem FERROUS CHLORIDE",
+    "slug": "ncp-chlorchem-ferrous-chloride",
+    "description": "NCP Chlorchem Ferrous Chloride is a liquid inorganic coagulant primarily used in a wide range of applications including coagulation of raw and effluent waters, precipitation of phosphate in sewage treatment, precipitation of heavy metals and chrome (VI) reduction.",
+    "company_name": "NCP Chlorchem",
+    "company_slug": "ncp-chlorchem",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708688380/production/Company/50309/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Water Treatment",
+            "Power, Water & Utilities"
+        ],
+        "Product Families": [
+            "Water Treatment Additives",
+            "Water Treatment Chemicals"
+        ],
+        "Chemical Family": [
+            "Chlorides"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Chlorides"
+        ],
+        "Functions": [
+            "Coagulant"
+        ],
+        "Applicable Processes": [
+            "Sewage Treatment"
+        ],
+        "Features": [
+            "Good Metal Precipitation"
+        ]
+    }
+}

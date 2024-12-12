@@ -1,0 +1,46 @@
+{
+    "id": 368146,
+    "brand": "ura-zen",
+    "name": "Ura-Zen™ AP",
+    "slug": "ura-zen-ap",
+    "description": "Ura-Zen™ AP is a high-solids, 3.5 VOC, HAPS-free, single stage two component acrylic urethane topcoat that features outstanding durability, excellent gloss retention, high DOI and ease of application. Available in a wide variety of colors, including metallic and pearls.",
+    "company_name": "Hentzen Coatings",
+    "company_slug": "hentzen-coatings",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1666072002/production/Brand/27273/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608621/production/CategoryImage/570/category_image/PaintingsCoatings_06.jpg",
+    "properties": {
+        "Applications": [
+            "Coatings & Finishes",
+            "Industrial Coatings",
+            "Marine",
+            "Marine Coatings",
+            "Agricultural & Construction Equipment",
+            "Transportation",
+            "Off Road & Recreational Vehicle (RV)"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Top Coats"
+        ],
+        "Chemical Family": [
+            "Urethanes"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "2K (2 component) Coating",
+            "Top Coat",
+            "Solventless & High Solids Coating"
+        ],
+        "Features": [
+            "UV Resistant",
+            "Excellent Flexibility",
+            "High Gloss",
+            "Mar Resistant",
+            "Chemical Resistant"
+        ],
+        "Chemical Family": [
+            "Urethanes"
+        ]
+    }
+}

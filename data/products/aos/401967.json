@@ -1,0 +1,54 @@
+{
+    "id": 401967,
+    "brand": "aos",
+    "name": "AOS® 340 LR 52054",
+    "slug": "aos-340-lr-52054",
+    "description": "AOS® 340 LR 52054(lowest resistance) is a non-silicone thermal grease with the current lowest thermal resistance on the market (for thin bond line applications*). It is also extremely durable and will not pump-out making it ideal for applications requiring extended life and no degradation.",
+    "company_name": "AOS Thermal Compounds",
+    "company_slug": "aos-thermal-compounds",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1682593016/production/Brand/30631/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607454/production/CategoryImage/519/category_image/ElectricalElectronics_04.jpg",
+    "properties": {
+        "Applications": [
+            "Parts & Components",
+            "Displays",
+            "Devices & Assemblies",
+            "Semiconductor Manufacturing"
+        ],
+        "Product Families": [
+            "Greases",
+            "Fluids & Lubricants"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Thermal Grease"
+        ],
+        "Application Area": [
+            "Semiconductors",
+            "Electrical Components",
+            "LEDs"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Plastics"
+        ],
+        "Features": [
+            "Cost Effective",
+            "Cleanable",
+            "Thixotropic",
+            "Low Creep",
+            "Low Outgassing",
+            "Non Abrasive",
+            "Good Thermal Stability",
+            "Improved Heat Transfer Efficiency",
+            "Excellent Wetting Behaviour",
+            "Highly Efficient",
+            "High Dielectric Strength",
+            "Service Life Extension",
+            "Tacky",
+            "Controlled Rheology",
+            "Durable"
+        ]
+    }
+}

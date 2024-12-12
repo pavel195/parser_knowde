@@ -1,0 +1,35 @@
+{
+    "id": 329897,
+    "brand": "quali-pro-propiconazole",
+    "name": "PENDANT™ 50 WDG",
+    "slug": "pendant-50-wdg",
+    "description": "Pendant™ 50 WDG helps you maximize efficacy and investment in your snow mold management program with its strong disease control.",
+    "company_name": "Quali-Pro",
+    "company_slug": "quali-pro",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672754/production/Brand/23839/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608215/production/CategoryImage/550/category_image/AgricultureFeed_06.jpg",
+    "properties": {
+        "Applications": [
+            "Fodder & Forage",
+            "Residential Pest Control",
+            "Commercial Pest Control",
+            "Turf Management",
+            "Agricultural Pest Control",
+            "Agricultural Crops",
+            "Pest Control",
+            "Turf, Ornamentals & Landscape"
+        ],
+        "Product Families": [
+            "Fungicides",
+            "Crop Protection & Pest Control"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Fungicide"
+        ],
+        "FRAC Code": [
+            "12"
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": 361898,
+    "brand": "flameaway-iv",
+    "name": "FlameAway III™ 170",
+    "slug": "flameaway-iii-170",
+    "description": "FlameAway III™ 170 is a flame retardant additive for water based paints.",
+    "company_name": "Zeller International",
+    "company_slug": "zeller-international",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708687313/production/Brand/27100/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608640/production/CategoryImage/572/category_image/PaintingsCoatings_08.jpg",
+    "properties": {
+        "Applications": [
+            "Electronics Coatings",
+            "Wood Coatings & Finishes",
+            "Packaging & Assembly",
+            "Building & Construction",
+            "Specialty Coatings"
+        ],
+        "Product Families": [
+            "Functional Additives",
+            "Additives"
+        ],
+        "End Uses": [
+            "Waterborne Coating"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Flame Retardant"
+        ],
+        "End Uses": [
+            "Waterborne Coating"
+        ]
+    }
+}

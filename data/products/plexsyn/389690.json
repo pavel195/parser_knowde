@@ -1,0 +1,22 @@
+{
+    "id": 389690,
+    "brand": "plexsyn",
+    "name": "FILMSEC 1010",
+    "slug": "filmsec-1010",
+    "description": "IKV FILMSEC 1010 (MIL spec 9150-14-528-0001) is a dispersion of PTFE (tetrafluoroethylene telomers) in isopropyl alcohol.",
+    "company_name": "IKV Tribology",
+    "company_slug": "ikv-tribology",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697223347/production/Brand/29307/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608779/production/CategoryImage/578/category_image/AutomotiveTransportation_06.jpg",
+    "properties": {
+        "Applications": [
+            "Aerospace Fluids & Lubricants",
+            "Lubricants & Functional Fluids"
+        ],
+        "Product Families": [
+            "Lubricants & Oils",
+            "Fluids & Lubricants"
+        ]
+    },
+    "summary": {}
+}

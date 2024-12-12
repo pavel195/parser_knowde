@@ -1,0 +1,43 @@
+{
+    "id": 335141,
+    "brand": "tri-z",
+    "name": "Andersons Inc Zinc 9% 9.0 Zn",
+    "slug": "andersons-inc-zinc-9-9-0-zn",
+    "description": null,
+    "company_name": "Andersons Inc",
+    "company_slug": "andersons-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672295/production/Company/32472/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608215/production/CategoryImage/550/category_image/AgricultureFeed_06.jpg",
+    "properties": {
+        "Applications": [
+            "Trees & Woodlands",
+            "Nuts",
+            "Fruits",
+            "Vegetables",
+            "Other Agricultural Crops",
+            "Agricultural Crops",
+            "Turf, Ornamentals & Landscape"
+        ],
+        "Product Families": [
+            "Fertilizers & Nutrients",
+            "Plant Health, Nutrients & Soil Management"
+        ],
+        "Chemical Family": [
+            "Zinc & Zinc Compounds"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Micronutrient",
+            "Fertilizer"
+        ],
+        "Chemical Family": [
+            "Zinc & Zinc Compounds"
+        ],
+        "Application Technique": [
+            "Sprayers",
+            "Ground Soil Applied",
+            "Foliage Applied"
+        ]
+    }
+}

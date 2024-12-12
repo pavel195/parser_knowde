@@ -1,0 +1,30 @@
+{
+    "id": 375165,
+    "brand": "amph",
+    "name": "Amphi VET-HPT",
+    "slug": "amphi-vet-hpt",
+    "description": "Amphi VET-HPT is a dietetic liquid supplement for correcting fatty liver conditions, preventing liver dysfunctions and digestive disturbances.",
+    "company_name": "AMPHARMA",
+    "company_slug": "ampharma",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708531436/production/Brand/28098/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608150/production/CategoryImage/545/category_image/AgricultureFeed_01.jpg",
+    "properties": {
+        "Applications": [
+            "Birds & Poultry",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Feed Supplements",
+            "Nutritional Ingredients"
+        ]
+    },
+    "summary": {
+        "Features": [
+            "Fatty Liver Inhibition",
+            "Improve Liver Function",
+            "Improves Hatchability",
+            "Promotes Healthy Gastrointestinal Environment",
+            "Maintaining Egg Production"
+        ]
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "id": 404880,
+    "brand": "alnochromix",
+    "name": "Tergazyme® Enzyme-Active Powdered Detergent",
+    "slug": "tergazyme-enzyme-active-powdered-detergent",
+    "description": "Tergazyme is a concentrated, anionic detergent with protease enzyme for manual and ultrasonic cleaning. Excellent for removal of proteinaceous soils, tissue, blood and body fluids from glassware, metals, plastic, ceramic, porcelain, rubber and fiberglass with no interfering residues. Ideal as a cleaning agent in Reverse Osmosis and Ultra-Filtration Systems. USDA authorized. Dilute: 1:100. pH 9.5\r\n\r\n\r\n\tConcentrated to save you money\r\n\tBiodegradable and readily disposable\r\n\tReplaces corrosive acids and hazardous solvents\r\n\tProtease enzyme removes proteinaceous soils, tissue, blood and body fluids\r\n\tFree rinsing to give you reliable results and no interfering residues\r\n\tUse to pass your cleaning validation tests for lab accreditation and plant inspection approval\r\n\r\n",
+    "company_name": "Alconox Inc.",
+    "company_slug": "alconox",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709127799/production/Company/20119/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1709127799/production/Product/404880/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Food & Beverage Manufacturing",
+            "Food Facility Cleaning & Sanitization",
+            "Industrial Cleaning",
+            "Surface Care",
+            "Institutional & Catering",
+            "Fluids & Lubricants",
+            "Processing & Packaging",
+            "Chemical & Industrial Manufacturing",
+            "Home Care",
+            "Institutional & Industrial Care"
+        ],
+        "Product Families": [
+            "Commercial Cleaners",
+            "Industrial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Product Type": [
+            "Detergents",
+            "Cleaner"
+        ],
+        "Certifications & Compliance": [
+            "FDA Compliant",
+            "USDA Certified"
+        ],
+        "Application Area": [
+            "Ultrasonic Cleaner",
+            "Machine Parts",
+            "Electronic Components",
+            "Tanks",
+            "Medical Devices",
+            "Equipment",
+            "Pipes"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Ceramic",
+            "Steel",
+            "Plastics",
+            "Elastomers & Rubbers",
+            "Fiberglass",
+            "Glass",
+            "Zinc",
+            "Copper",
+            "Magnesium",
+            "Metal",
+            "Aluminum"
+        ],
+        "Features": [
+            "Low Residuals",
+            "Effective Particle Removal",
+            "Degreasing",
+            "Good Hard Water Stability",
+            "Free Rinsing",
+            "Effective Soil Removal",
+            "Excellent Wetting Behaviour",
+            "Disposable"
+        ]
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "id": 344279,
+    "brand": "mnl-group-delphinol",
+    "name": "Futerpenol®",
+    "slug": "futerpenol",
+    "description": "Futerpenol® is an innovative proposal for a functional ingredient based on standardized natural components that enhances any diet at any time during the production cycle.",
+    "company_name": "MNL group",
+    "company_slug": "mnl-group",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708532360/production/Brand/25612/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606846/production/CategoryImage/500/category_image/FoodNutrition_01.jpg",
+    "properties": {
+        "Applications": [
+            "Other Animal Health & Nutrition",
+            "Aquaculture",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Feed Supplements",
+            "Nutritional Ingredients"
+        ]
+    },
+    "summary": {
+        "Animal Species": [
+            "Fish"
+        ],
+        "Features": [
+            "Improves Immunity",
+            "Decreases Pathogen Load"
+        ]
+    }
+}

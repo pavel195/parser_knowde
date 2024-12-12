@@ -1,0 +1,45 @@
+{
+    "id": 333669,
+    "brand": "aries",
+    "name": "Aquarius® Red Lake C",
+    "slug": "aquarius-red-lake-c",
+    "description": "Aquarius® Red Lake C offer enhanced performance developed specifically for the water flexographic ink and dispersions market. Our unique manufacturing processes result in consistent high pigment solids press cake without the additional processing steps that can lead to product degradationand performance deficiencies.",
+    "company_name": "Apollo Colors",
+    "company_slug": "apollo-colors",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708519038/production/Brand/24574/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609103/production/CategoryImage/595/category_image/PrintingPackaging_06.jpg",
+    "properties": {
+        "Applications": [
+            "Offset & Lithographic Printing",
+            "Flexography",
+            "Printing & Inks"
+        ],
+        "Product Families": [
+            "Organic Pigments",
+            "Color Pigments",
+            "Pigments & Colorants"
+        ],
+        "Chemical Family": [
+            "Azo Compounds"
+        ],
+        "End Uses": [
+            "Lithographic Ink",
+            "Flexography Ink"
+        ]
+    },
+    "summary": {
+        "Color": [
+            "Red"
+        ],
+        "Pigment Type": [
+            "Organic Pigments"
+        ],
+        "Chemical Family": [
+            "Azo Compounds"
+        ],
+        "End Uses": [
+            "Lithographic Ink",
+            "Flexography Ink"
+        ]
+    }
+}

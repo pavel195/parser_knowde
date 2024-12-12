@@ -1,0 +1,45 @@
+{
+    "id": 427184,
+    "brand": "polyquik",
+    "name": "POLYQuik® Aluminum Primer (SB)",
+    "slug": "polyquik-aluminum-primer-sb",
+    "description": "POLYQuik® Aluminum Primer (SB) is an ULTRA-LOW VOC primer that dries quickly to provide excellent spray elastomer adhesion to aluminum surfaces. Aluminum Primer (SB) is easy to apply with a HVLP spray gun to prepared aluminum surface prior to applying a spray elastomer topcoat.",
+    "company_name": "PolyQuick (WVCO)",
+    "company_slug": "polyquick-wvco",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520353/production/Brand/33841/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608557/production/CategoryImage/565/category_image/PaintingsCoatings_01.jpg",
+    "properties": {
+        "Applications": [
+            "Coatings & Finishes",
+            "Flooring & Surfaces",
+            "Automotive OEM Coatings",
+            "Floor Coatings"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Primer"
+        ],
+        "Application Area": [
+            "Floor",
+            "Wall"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Aluminum",
+            "Metal"
+        ],
+        "Features": [
+            "Cost Effective",
+            "Fast Drying",
+            "Low VOC",
+            "Excellent Substrate Adhesion"
+        ],
+        "Application Method": [
+            "Spray"
+        ]
+    }
+}

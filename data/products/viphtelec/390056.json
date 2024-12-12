@@ -1,0 +1,53 @@
+{
+    "id": 390056,
+    "brand": "viphtelec",
+    "name": "VIPHTelec SF75-T3",
+    "slug": "viphtelec-sf75-t3",
+    "description": "VIPHTelec SF75-T3 uses thermoplastic polyester sizing and thermoplastic resin for coating. It is used for ABS and SAN.\r\n",
+    "company_name": "VIP Kunststoff-Vertrieb",
+    "company_slug": "vip-kunststoff-vertrieb",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680108839/production/Brand/29348/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608779/production/CategoryImage/578/category_image/AutomotiveTransportation_06.jpg",
+    "properties": {
+        "Applications": [
+            "Parts & Components",
+            "Fuel Systems",
+            "Consumer Electronics",
+            "Housings & Enclosures",
+            "Electrical & Electronic Systems",
+            "Other Devices & Assemblies",
+            "Devices & Assemblies",
+            "Chemical & Industrial Manufacturing",
+            "Automotive ",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Masterbatches",
+            "Polymer Additives",
+            "Additive Masterbatches",
+            "Fillers & Extenders"
+        ],
+        "Chemical Family": [
+            "Steel Fiber"
+        ],
+        "End Uses": [
+            "Pumps",
+            "Filters",
+            "Electrical Housing",
+            "Automotive Electronics"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Steel Fiber"
+        ],
+        "Compatible Polymers & Resins": [
+            "Acrylonitrile Butadiene Styrene (ABS)",
+            "Styrene Acrylonitrile (SAN)"
+        ],
+        "Features": [
+            "Electrically Conductive",
+            "Electromagnetic Shielding (EMI)"
+        ]
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "id": 393263,
+    "brand": "c-ram-flx",
+    "name": "C-RAM FLX Silicone FLX-1.0",
+    "slug": "c-ram-flx-silicone-flx-1-0",
+    "description": "C-RAM FLX Silicone FLX-1.0 has excellent heat resistance, good flexibility at low temperature, excellent ozone and sunlight.",
+    "company_name": "Cuming Microwave",
+    "company_slug": "cuming-microwave",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686149964/production/Brand/29646/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608779/production/CategoryImage/578/category_image/AutomotiveTransportation_06.jpg",
+    "properties": {
+        "Applications": [
+            "Parts & Components",
+            "Housings & Enclosures"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Silicones"
+        ],
+        "Polymer Name": [
+            "Silicone Elastomer"
+        ],
+        "End Uses": [
+            "Electrical Housing"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Silicone Elastomer"
+        ],
+        "Physical Form": [
+            "Sheets"
+        ],
+        "Features": [
+            "Thin Wall Thickness",
+            "Very Good Heat Resistance",
+            "Wide Temperature Operating Range",
+            "Good Weather Stability",
+            "Flexible",
+            "High Thermo-Oxidative Stability",
+            "High Flexibility",
+            "Ozone Resistant"
+        ]
+    }
+}

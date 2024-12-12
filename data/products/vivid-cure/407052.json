@@ -1,0 +1,50 @@
+{
+    "id": 407052,
+    "brand": "vivid-cure",
+    "name": "CIM® 1061",
+    "slug": "cim-1061",
+    "description": "CIM® 1061 is a tough, abrasion, corrosion and chemical resistant, liquid applied coating specifically for use in water and wastewater applications including those which require ANSI/NSF 61 potable water certification. Typical applications for this two component elastomeric urethane coating include tank and reservoir liners, joint seals, tank repairs, and chemical containment.",
+    "company_name": "Chase Corporation",
+    "company_slug": "chase-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1672225351/production/Brand/31395/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608630/production/CategoryImage/571/category_image/PaintingsCoatings_07.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial Coatings"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ],
+        "End Uses": [
+            "Tanks"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Elastomeric Coating",
+            "2K (2 component) Coating"
+        ],
+        "Features": [
+            "Chemical Resistant",
+            "Wear Resistant",
+            "Good UV Stability",
+            "Abrasion Resistant",
+            "Good Toughness"
+        ],
+        "Application Areas": [
+            "Tanks"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Concrete",
+            "Steel",
+            "Wood",
+            "Glass"
+        ],
+        "Application Method": [
+            "Trowel",
+            "Roller"
+        ]
+    }
+}

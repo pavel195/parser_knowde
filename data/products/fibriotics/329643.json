@@ -1,0 +1,42 @@
+{
+    "id": 329643,
+    "brand": "fibriotics",
+    "name": "Ferzinger™",
+    "slug": "ferzinger",
+    "description": "Ferzinger™ contains bioactive ginger. It’s produced by fermenting ginger with Aspergillus oryzae. Ginger is the common name for the root of Zingiber officinale Roscoe, a spice traditionally used in both Traditional Chinese Medicine and Ayurveda. The most valuable part of ginger is the root. Ginger contains many bioactive compounds, including 6-gingerol, 6-shogaol, and 6-paradol.",
+    "company_name": "Fermedics",
+    "company_slug": "fermedics",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708690551/production/Brand/23805/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708690551/production/Product/329643/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Functional Foods",
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Plant & Herb Products & Extracts",
+            "Nutrition & Fortification",
+            "Whole Foods, Extracts & Premixes",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Functional Foods"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Ginger, Fermented"
+        ],
+        "Functions": [
+            "Supplement",
+            "Dietary Supplement"
+        ],
+        "Physical Form": [
+            "Solid",
+            "Powder"
+        ]
+    }
+}

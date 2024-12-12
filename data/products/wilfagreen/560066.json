@@ -1,0 +1,31 @@
+{
+    "id": 560066,
+    "brand": "wilfagreen",
+    "name": "Rice Bran Wax",
+    "slug": "rice-bran-wax",
+    "description": "<p>Rice Bran Wax is a high melt point vegetable wax which produces a non tacky and silky sensorial feel and improves overall spreadability in finished products</p><p></p>",
+    "company_name": "wilmar",
+    "company_slug": "wilmar",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1722416674/production/Company/33927/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,c_crop,x_0,y_10,w_480,h_150/v1733469974/production/Product/560066/card_banner/image",
+    "properties": {
+        "Product Families": [
+            "Fats, Butters & Waxes",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Oryza Sativa (Rice) Bran Wax"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Oryza Sativa (Rice) Bran Wax"
+        ],
+        "Benefit Claims": [
+            "Silky Feel",
+            "Spreadability",
+            "High Melting Point",
+            "Non-Tacky"
+        ]
+    }
+}

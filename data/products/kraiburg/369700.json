@@ -1,0 +1,43 @@
+{
+    "id": 369700,
+    "brand": "kraiburg",
+    "name": "KRAIBURG FVMQ",
+    "slug": "kraiburg-fvmq",
+    "description": "KRAIBURG FVMQ is a fluoro-silicone is used in applications such as special seals for the automotive and aeronautics industry with fuel contact, which require excellent low temperature properties.",
+    "company_name": "GUMMIWERK KRAIBURG",
+    "company_slug": "gummiwerk-kraiburg",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697222576/production/Brand/27507/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608769/production/CategoryImage/577/category_image/AutomotiveTransportation_05.jpg",
+    "properties": {
+        "Applications": [
+            "Powertrain & UTH",
+            "Interior",
+            "Exterior & Body",
+            "Chassis & Brake",
+            "Aerospace & Aviation",
+            "Other Automotive Applications",
+            "Automotive",
+            "Transportation"
+        ],
+        "Product Families": [
+            "Fluoroelastomers",
+            "Silicone Elastomers",
+            "Specialty Elastomers"
+        ],
+        "Chemical Family": [
+            "Silicones",
+            "Fluoropolymers"
+        ],
+        "Polymer Name": [
+            "Fluorosilicone"
+        ],
+        "End Uses": [
+            "Automotive Under The Hood",
+            "Automotive Interior Parts",
+            "Automotive Exterior Parts",
+            "Aerospace Seals",
+            "Automotive Applications"
+        ]
+    },
+    "summary": {}
+}

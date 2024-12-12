@@ -1,0 +1,45 @@
+{
+    "id": 431485,
+    "brand": "roggipan",
+    "name": "Hefe Schweiz AG Maltol",
+    "slug": "hefe-schweiz-ag-maltol",
+    "description": "Hefe Schweiz AG Maltol is a liquid malt.Thanks to the high proportion of directly fermentable sugar (over 50% malt sugar), liquid malt has a strong fermentation-promoting effect as a direct yeast food. Liquid malt is also suitable for dough production via freezer, fermentation delay and fermentation interruption. The dosage is then reduced by half of the normal production (enzyme activity).",
+    "company_name": "Hefe Schweiz AG",
+    "company_slug": "hefe-schweiz-ag",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708685367/production/Company/23720/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607305/production/CategoryImage/515/category_image/FoodNutrition_15.jpg",
+    "properties": {
+        "Applications": [
+            "Convenience Foods",
+            "Bakery",
+            "Food"
+        ],
+        "Product Families": [
+            "Sweeteners & Syrups",
+            "Taste & Flavor"
+        ],
+        "End Uses": [
+            "Bread",
+            "Dough"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Maltol"
+        ],
+        "Functions": [
+            "Nutritive Sweetener"
+        ],
+        "Labeling Claims": [
+            "Halal",
+            "Kosher"
+        ],
+        "Physical Form": [
+            "Liquid"
+        ],
+        "End Uses": [
+            "Dough",
+            "Bread"
+        ]
+    }
+}

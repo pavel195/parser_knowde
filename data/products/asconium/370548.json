@@ -1,0 +1,69 @@
+{
+    "id": 370548,
+    "brand": "asconium",
+    "name": "ASCONIUM® 143",
+    "slug": "asconium-143",
+    "description": "ASCONIUM® 143 are organic liquid-type additives which can provide excellent long-term anticorrosion performance to pigmented or clear coatings. ASCONIUM® additives can be used in waterborne, as well as in solventborne coatings, either as single products or in combination with active pigments.",
+    "company_name": "ASCOTEC",
+    "company_slug": "ascotec",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1710313938/production/Brand/27597/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608557/production/CategoryImage/565/category_image/PaintingsCoatings_01.jpg",
+    "properties": {
+        "Applications": [
+            "Aerospace & Aviation",
+            "Primers & Lacquers",
+            "Aerospace Coatings",
+            "Coil Coatings",
+            "Metal Coatings",
+            "Coatings & Finishes",
+            "Transportation",
+            "Automotive & Transportation",
+            "Industrial Coatings",
+            "Packaging Coatings"
+        ],
+        "Product Families": [
+            "Functional Additives",
+            "Additives"
+        ],
+        "End Uses": [
+            "Waterborne Coating",
+            "Top Coat",
+            "Solventborne Coating",
+            "Primer",
+            "Lacquers",
+            "Clearcoat",
+            "2K (2 component) Coating",
+            "1K (1 component) Coating"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Corrosion Inhibitor"
+        ],
+        "End Uses": [
+            "Clearcoat",
+            "Top Coat",
+            "2K (2 component) Coating",
+            "Primer",
+            "1K (1 component) Coating",
+            "Lacquers",
+            "Waterborne Coating",
+            "Solventborne Coating"
+        ],
+        "Compatible Polymers & Resins": [
+            "Epoxies (EP)",
+            "Polyesters",
+            "Acrylics",
+            "Alkyds",
+            "Polyurethanes (PU)"
+        ],
+        "Features": [
+            "Improved Cohesion",
+            "Low Blistering",
+            "Water Resistance",
+            "Improves Adhesion",
+            "High Gloss",
+            "High Performance"
+        ]
+    }
+}

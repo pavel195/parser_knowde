@@ -1,0 +1,39 @@
+{
+    "id": 326636,
+    "brand": "par-way",
+    "name": "Par-Way® Classic Trough Release",
+    "slug": "par-way-classic-trough-release",
+    "description": "Par-Way® Classic Trough Release is all Vegetable Oil blend for troughs that holds to surfaces without running or pulling. Provides exceptional lubricity for proper dough expansion. Thixotropic solution",
+    "company_name": "Par-Way Tryson",
+    "company_slug": "par-way-tryson",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708687692/production/Company/31045/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606996/production/CategoryImage/508/category_image/FoodNutrition_09.jpg",
+    "properties": {
+        "Applications": [
+            "Other Food Applications",
+            "Bakery",
+            "Food"
+        ],
+        "Product Families": [
+            "Processing Aids",
+            "Functional Additives"
+        ],
+        "End Uses": [
+            "Cakes",
+            "Bread"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Vegetable Oil"
+        ],
+        "Functions": [
+            "Release Agent",
+            "Anti-Sticking Agent"
+        ],
+        "End Uses": [
+            "Cakes",
+            "Bread"
+        ]
+    }
+}

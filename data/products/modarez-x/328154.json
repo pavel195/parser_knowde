@@ -1,0 +1,39 @@
+{
+    "id": 328154,
+    "brand": "modarez-x",
+    "name": "ACTIRON® DMSA 18",
+    "slug": "actiron-dmsa-18",
+    "description": "Special highly reactive non yellowing catalyst absorbed on silica.",
+    "company_name": "ProxChem America",
+    "company_slug": "proxchem-america",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708686874/production/Brand/23593/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608630/production/CategoryImage/571/category_image/PaintingsCoatings_07.jpg",
+    "properties": {
+        "Product Families": [
+            "Catalysts & Initiators",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Silica"
+        ],
+        "End Uses": [
+            "Powder Coating"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Catalyst"
+        ],
+        "Chemical Family": [
+            "Silica"
+        ],
+        "End Uses": [
+            "Powder Coating"
+        ],
+        "Compatible Polymers & Resins": [
+            "Polyamides",
+            "Epoxies (EP)",
+            "Polyesters"
+        ]
+    }
+}

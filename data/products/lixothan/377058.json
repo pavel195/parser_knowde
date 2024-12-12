@@ -1,0 +1,38 @@
+{
+    "id": 377058,
+    "brand": "lixothan",
+    "name": "LIXOGLYP 03 84 00",
+    "slug": "lixoglyp-03-84-00",
+    "description": "LIXOGLYP 03 84 00 is a resin for building paint with high solids content with good brush application.\r\n",
+    "company_name": "LIXOL",
+    "company_slug": "lixol",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704101869/production/Brand/28198/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608557/production/CategoryImage/565/category_image/PaintingsCoatings_01.jpg",
+    "properties": {
+        "Applications": [
+            "Other Paints & Coatings Applications",
+            "Other Industrial Coatings",
+            "Industrial Coatings"
+        ],
+        "Product Families": [
+            "Alkyds",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Alkyds",
+            "Fatty Acids"
+        ],
+        "End Uses": [
+            "Solventless & High Solids Coating"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Fatty Acids",
+            "Alkyds"
+        ],
+        "End Uses": [
+            "Solventless & High Solids Coating"
+        ]
+    }
+}

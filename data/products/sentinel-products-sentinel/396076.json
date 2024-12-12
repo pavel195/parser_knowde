@@ -1,0 +1,33 @@
+{
+    "id": 396076,
+    "brand": "sentinel-products-sentinel",
+    "name": "Sentinel 301 Ready To Use EnviroWash Peroxide Cleaner",
+    "slug": "sentinel-301-ready-to-use-envirowash-peroxide-cleaner",
+    "description": "Sentinel 301 Ready To Use EnviroWash Peroxide Cleaner is a professional strength, biodegradable peroxide based cleaner that is designed to clean and remove organic stains, soils and odors such as mold, mildew, carbon, soot, urine, feces and vomit.",
+    "company_name": "Sentinel Products",
+    "company_slug": "sentinel-products",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1670414850/production/Company/50293/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515671/production/CategoryImage/1057/category_image/HII_09.jpg",
+    "properties": {
+        "Applications": [
+            "Institutional & Industrial Care",
+            "Surface Care",
+            "Industrial Cleaning",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Industrial Cleaners",
+            "Commercial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Multipurpose Cleaners"
+        ],
+        "Features": [
+            "Stain Removing",
+            "Facilitates Mold Removal"
+        ]
+    }
+}

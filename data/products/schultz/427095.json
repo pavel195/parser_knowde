@@ -1,0 +1,37 @@
+{
+    "id": 427095,
+    "brand": "schultz",
+    "name": "Schultz® S700",
+    "slug": "schultz-s700",
+    "description": "Schultz® S700 is a heat transfer fluid with long life and excellent heat stability characteristics, heat resistance, and oxidation resistance. It also features high cleanness and no carbon deposition, contributing to a clean system. It also has excellent low-temperature viscosity and good low-temperature pumping ability.",
+    "company_name": "Schultz Canada Chemicals",
+    "company_slug": "schultz-canada-chemicals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1682593270/production/Brand/33830/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Lubricants & Functional Fluids",
+            "Automotive Fluids & Lubricants",
+            "Chemical & Industrial Manufacturing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Heat Transfer Fluids",
+            "Fluids & Lubricants"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Heat Transfer Fluid"
+        ],
+        "Features": [
+            "Good Thermal Stability",
+            "Pumpable",
+            "Service Life Extension",
+            "Heat Resistance",
+            "Low Temperature Performance",
+            "High Performance",
+            "Oxidation Resistant"
+        ]
+    }
+}

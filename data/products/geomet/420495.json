@@ -1,0 +1,50 @@
+{
+    "id": 420495,
+    "brand": "geomet",
+    "name": "Geomet® 321",
+    "slug": "geomet-321",
+    "description": "Geomet® 321 is the most widely used product in zinc flake technology. This chrome-free, high-performance, functional zinc flake coating is designed to protect fasteners, stampings, and a variety of metallic hardware from corrosion. When combined with our specialized Plus® topcoats, Geomet® 321 provides a broad range of friction coefficients.",
+    "company_name": "NOF Metal Coatings Group",
+    "company_slug": "nof-metal-coatings-group",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520362/production/Brand/33004/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608744/production/CategoryImage/575/category_image/AutomotiveTransportation_03.jpg",
+    "properties": {
+        "Applications": [
+            "Coatings & Finishes",
+            "Automotive OEM Coatings"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Base Coats & Undercoats",
+            "Protective Coatings"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Waterborne Coating",
+            "Base Coat",
+            "Coating"
+        ],
+        "Application Area": [
+            "Fasteners",
+            "Stamping"
+        ],
+        "Application Method": [
+            "Dip Coating",
+            "Spray"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Aluminum"
+        ],
+        "Features": [
+            "Water-based",
+            "Corrosion Resistant",
+            "Good Mechanical Properties",
+            "Non-Electrolytic",
+            "High Performance",
+            "Chemical Resistant",
+            "Electrically Conductive"
+        ]
+    }
+}

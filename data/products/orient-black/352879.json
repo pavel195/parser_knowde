@@ -1,0 +1,54 @@
+{
+    "id": 352879,
+    "brand": "orient-black",
+    "name": "Orient Black® N234",
+    "slug": "orient-black-n234",
+    "description": "Orient Black® N234 is an Intermediate Super Abrasion Furnace (ISAF) grade with high structure and high surface area offers high reinforcement and excellent extrusion properties.",
+    "company_name": "Phillips Carbon Black",
+    "company_slug": "phillips-carbon-black",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708687993/production/Brand/26317/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608760/production/CategoryImage/576/category_image/AutomotiveTransportation_04.jpg",
+    "properties": {
+        "Applications": [
+            "Powertrain & UTH",
+            "Commercial",
+            "Tires",
+            "Automotive",
+            "Transportation"
+        ],
+        "Product Families": [
+            "Fillers & Extenders",
+            "Elastomer Additives"
+        ],
+        "Chemical Family": [
+            "Carbon Blacks"
+        ],
+        "End Uses": [
+            "Tires",
+            "Belts/Belt Repair"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Reinforcement"
+        ],
+        "Chemical Family": [
+            "Carbon Blacks"
+        ],
+        "Processing Methods": [
+            "Extrusion"
+        ],
+        "Features": [
+            "Wear Resistant",
+            "Good Abrasion Resistance",
+            "Good Extrusion Properties",
+            "High Performance",
+            "High Surface Area",
+            "Excellent Traction",
+            "Good Tensile Properties"
+        ],
+        "Synonyms": [
+            "Acetylene Black, Furnace Black, Lamp Black, Thermal Black"
+        ]
+    }
+}

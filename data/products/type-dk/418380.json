@@ -1,0 +1,49 @@
+{
+    "id": 418380,
+    "brand": "type-dk",
+    "name": "Type 5GP™",
+    "slug": "type-5gp",
+    "description": "Type 5GP™ cementitious fireproofing is spray-applied to structural components of buildings for fire resistance when standard density protection is desired. Underwriters Laboratories fire test results have qualified it for use in over 100 designs.",
+    "company_name": "Southwest Fireproofing Products",
+    "company_slug": "southwest-fireproofing-products",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520280/production/Brand/32766/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608490/production/CategoryImage/563/category_image/BuildingConstruction_07.jpg",
+    "properties": {
+        "Applications": [
+            "Building & Construction",
+            "Architectural Coatings",
+            "Concrete Coatings & Stains",
+            "Building Envelope"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ],
+        "Chemical Family": [
+            "Calcium & Calcium Compounds"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Coating"
+        ],
+        "Features": [
+            "Combustion Resistant",
+            "Corrosion Resistant",
+            "Fungus Resistant",
+            "High Fire Retardancy",
+            "Fire Proof"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Concrete",
+            "Steel"
+        ],
+        "Application Method": [
+            "Spray"
+        ],
+        "Chemical Family": [
+            "Calcium & Calcium Compounds"
+        ]
+    }
+}

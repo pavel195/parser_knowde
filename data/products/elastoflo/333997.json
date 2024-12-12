@@ -1,0 +1,46 @@
+{
+    "id": 333997,
+    "brand": "elastoflo",
+    "name": "Elastoprene S1075A",
+    "slug": "elastoprene-s1075a",
+    "description": "Elastoprene S1070A is a styrenic elastomer intended for injection molding and extrusion applications, offering good tensile strength, rubbery look and feel, and easy processing.",
+    "company_name": "KMI Group",
+    "company_slug": "kmi-group",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691740497/production/Brand/24602/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608502/production/CategoryImage/564/category_image/BuildingConstruction_08.jpg",
+    "properties": {
+        "Applications": [
+            "Other Building Materials",
+            "Equipment & Parts",
+            "Housewares",
+            "Footwear",
+            "Structural Components",
+            "Building Materials",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Styrenic Thermoplastic Elastomers (TPE-S)",
+            "Thermoplastic Elastomers"
+        ],
+        "Chemical Family": [
+            "Styrenics"
+        ],
+        "Polymer Name": [
+            "Styrenic Thermoplastic Elastomer"
+        ],
+        "End Uses": [
+            "Industrial Parts",
+            "Housewares",
+            "Footwear",
+            "Construction Applications"
+        ]
+    },
+    "summary": {
+        "Tear Strength": [
+            "39.375 - 39.375 kN/m"
+        ],
+        "Strain at Break": [
+            "475.0 - 475.0 %"
+        ]
+    }
+}

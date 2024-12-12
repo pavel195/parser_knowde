@@ -1,0 +1,45 @@
+{
+    "id": 381080,
+    "brand": "jowapur",
+    "name": "Jowapur® 687.22",
+    "slug": "jowapur-687-22",
+    "description": "Jowapur® 687.22 is a adhesive for soft wood species, also with high moisture content, for bonding mineral aggregate panels, fiberboard and pur foam, compound elements and timber which is used for instance for the manufacture of wooden windowframes and garden furniture.",
+    "company_name": "Jowat Corporation",
+    "company_slug": "jowat-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520012/production/Brand/28506/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608929/production/CategoryImage/584/category_image/AdhesivesSealants_01.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Construction Chemicals",
+            "Adhesives",
+            "Other Adhesives & Sealants Applications",
+            "Construction Adhesives"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Structural Adhesives"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "1K (1 component) Adhesive",
+            "Solvent free (100% Solids) Adhesive"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Wood"
+        ],
+        "Cure Method": [
+            "Moisture Cure"
+        ],
+        "Application Method": [
+            "Roller"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ]
+    }
+}

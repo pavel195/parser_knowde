@@ -1,0 +1,30 @@
+{
+    "id": 302660,
+    "brand": "luxcor",
+    "name": "Luxcor 300",
+    "slug": "luxcor-300",
+    "description": "Luxcor 300 is suggested for aqueous pigment dispersions used primarily in textiles. It has excellent coverage and pigmenting power. Indicated where solvent resistance is not required.",
+    "company_name": "Fluorcolors Pigmentos industria e comercio",
+    "company_slug": "fluorcolors-pigmentos-industria-e-comercio",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708525169/production/Company/24204/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609091/production/CategoryImage/594/category_image/PrintingPackaging_05.jpg",
+    "properties": {
+        "Applications": [
+            "Textile Manufacturing",
+            "Leather & Textiles"
+        ],
+        "Product Families": [
+            "Photoluminescent Pigments",
+            "Color Pigments",
+            "Pigments & Colorants"
+        ]
+    },
+    "summary": {
+        "Pigment Type": [
+            "Fluorescent"
+        ],
+        "Particle Size": [
+            "5.0 - 6.0 microns"
+        ]
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "id": 301510,
+    "brand": "fenopol",
+    "name": "FENOPOL 90 100",
+    "slug": "fenopol-90-100",
+    "description": "FENOPOL 90 100 is a rosin modified phenolic resin.",
+    "company_name": "Polidur San Luis",
+    "company_slug": "polidur-san-luis",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112498/production/Company/24298/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609091/production/CategoryImage/594/category_image/PrintingPackaging_05.jpg",
+    "properties": {
+        "Applications": [
+            "Coatings & Finishes",
+            "Automotive & Transportation",
+            "Building & Construction",
+            "Packaging Coatings",
+            "Marine",
+            "Primers & Lacquers",
+            "Marine Coatings",
+            "Wood Coatings & Finishes",
+            "Other Paints & Coatings Applications",
+            "Transportation"
+        ],
+        "Product Families": [
+            "Other Resins & Binders",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Phenols & Phenolics",
+            "Modified Rosins"
+        ],
+        "End Uses": [
+            "Primer",
+            "Enamel"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Modified Rosins",
+            "Phenols & Phenolics"
+        ],
+        "End Uses": [
+            "Primer",
+            "Enamel"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal"
+        ],
+        "Features": [
+            "Water Resistance",
+            "Corrosion Resistance",
+            "High Gloss"
+        ]
+    }
+}

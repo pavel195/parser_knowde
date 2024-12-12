@@ -1,0 +1,33 @@
+{
+    "id": 360821,
+    "brand": "moulex",
+    "name": "Moulex® WD8",
+    "slug": "moulex-wd8",
+    "description": "Moulex® WD8 is external semi permanent water based release agent. It exhibits high gliding effect. It possesses highly abrasive resistant.",
+    "company_name": "Additek",
+    "company_slug": "additek",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708688516/production/Brand/26967/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608760/production/CategoryImage/576/category_image/AutomotiveTransportation_04.jpg",
+    "properties": {
+        "Applications": [
+            "Tooling & Moldmaking",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Performance Additives",
+            "Elastomer Additives"
+        ],
+        "End Uses": [
+            "Mold Making"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Release Agent",
+            "Mold Release Agent"
+        ],
+        "End Uses": [
+            "Mold Making"
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "id": 411655,
+    "brand": "alumazite",
+    "name": "Tiodize T8E-H GREASE",
+    "slug": "tiodize-t8e-h-grease",
+    "description": "T8E-H Grease is an anti-seize products having unique inorganic pigment and is designed to be used as an aid for the installation and removal of threaded fasteners which are exposed to temperatures up to 1400°F for long periods of time. T8E-H Grease is completely inorganic and do not contain any sulfur producing materials, nor any metallics, such as silver or nickel. T8E-H Grease is approved by aircraft engine manufactures, gas turbine, and steam turbine companies. T8E-H Grease is a heavier grease and is designed to replace graphite petrolatum grease (GE Spec A50TF201), especially for use at temperatures to 1400°F.",
+    "company_name": "Tiodize",
+    "company_slug": "tiodize",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680108970/production/Company/54854/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Aerospace & Aviation",
+            "Chemical & Industrial Manufacturing",
+            "Transportation",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Greases",
+            "Fluids & Lubricants"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Grease"
+        ],
+        "Application Area": [
+            "Aerospace Engines"
+        ],
+        "Features": [
+            "High Temperature Performance",
+            "Water-based",
+            "Excellent Lubricity"
+        ]
+    }
+}

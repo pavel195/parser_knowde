@@ -1,0 +1,41 @@
+{
+    "id": 371220,
+    "brand": "aqua-flame-block",
+    "name": "AquaCote WC20",
+    "slug": "aquacote-wc20",
+    "description": "AquaCote WC20 is used for Low-gloss aqueous coating for vinyl. It has excellent scuff, stain and water-resistance. It has excellent coating for wall coverings and related applications.",
+    "company_name": "Aqua Based Technologies",
+    "company_slug": "aqua-based-technologies",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709127574/production/Brand/27692/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608982/production/CategoryImage/589/category_image/AdhesivesSealants_06.jpg",
+    "properties": {
+        "Applications": [
+            "Wallcoverings & Decorative Laminates",
+            "Wallcovering & Decorative Laminates",
+            "Flooring & Surfaces",
+            "Decorative Materials & Finishes"
+        ],
+        "Product Families": [
+            "Protective Coatings",
+            "Paints & Coatings"
+        ]
+    },
+    "summary": {
+        "Product Type": [
+            "Waterborne Coating"
+        ],
+        "Features": [
+            "Excellent Stain Resistance",
+            "Excellent Water Resistance",
+            "Excellent Scuff Resistance",
+            "Low Gloss"
+        ],
+        "Application Method": [
+            "Flexography",
+            "Air Knife Coating",
+            "Rod Coating",
+            "Roll Coater",
+            "Gravure Coating"
+        ]
+    }
+}

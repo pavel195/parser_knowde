@@ -1,0 +1,78 @@
+{
+    "id": 470598,
+    "brand": "alperform",
+    "name": "ALTECH® PC A 1000/608 WT1005-17LWA",
+    "slug": "altech-pc-a-1000-608-wt1005-17lwa",
+    "description": "MOCOM Compounds ALTECH® PC A 1000/608 WT1005-17LWA is a polycarbonate injection molding grade with laser optimization, easy release (demolding), good flow, and processing stabilized special features. It is used in the automotive, electrical, and electronic market segments, typically in lighting and electrical components applications. Pre-drying conditions should include 120°C in a dry air (dessiccant) dryer for 2-3 hours, and in an air circulating dryer 100-120°C for 4-12 hours depending on the moisture content, with a maximum moisture content of less than 0.02%. Processing injection molding should be done with a melt temperature of 270-310°C and a mold temperature of 80-110°C.",
+    "company_name": "MOCOM Compounds",
+    "company_slug": "mocom",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1713790311/production/Company/50276/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1713790311/production/Company/50276/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Automotive Lighting",
+            "Exterior & Body",
+            "Aftermarket Parts & Components",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Polycarbonates",
+            "Engineering & Specialty Polymers"
+        ],
+        "Chemical Family": [
+            "Polycarbonate (PC)"
+        ],
+        "Polymer Name": [
+            "Polycarbonate (PC)"
+        ],
+        "End Uses": [
+            "Reflectors",
+            "Electrical/Electronic Applications",
+            "Electrical Components",
+            "Automotive Exterior Parts",
+            "Automotive Applications"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polycarbonate (PC)"
+        ],
+        "Processing Methods": [
+            "Injection Molding"
+        ],
+        "Functions": [
+            "Resin"
+        ],
+        "Additives Included": [
+            "Laser Optimization Additive",
+            "Processing Stabilizer"
+        ],
+        "Chemical Family": [
+            "Polycarbonate (PC)"
+        ],
+        "Labeling Claims": [
+            "Azo Colorants-free",
+            "Persistent Organic Pollutants (POP)-free",
+            "Conflict minerals-free",
+            "Azo Dyes-free",
+            "PAH-free",
+            "PFOS-free",
+            "PFOA-free"
+        ],
+        "Certifications & Compliance": [
+            "RoHS Compliant",
+            "ISO 14001",
+            "ISO 9001",
+            "IATF 16949",
+            "SVHC Compliant",
+            "REACH (Europe)",
+            "Directive 2011/65/EC amended through EU/2015/863 (RoHS)",
+            "ISO 17025",
+            "ISO 45001",
+            "EC No.1907/2006",
+            "REACH (UK)",
+            "ISO 50001",
+            "ISO 13485"
+        ]
+    }
+}

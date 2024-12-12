@@ -1,0 +1,30 @@
+{
+    "id": 393404,
+    "brand": "zappa",
+    "name": "Eureka™",
+    "slug": "crosby-hops-eureka",
+    "description": "Eureka!™ is a blast of herbaceous pine gives way to blackcurrant and tropical undertones, all wrapped up in a powerfully bitter package. It’s no surprise this modern hop was once known as “Experimental Pine Fruit,” given its robust, resinous character.\r\n",
+    "company_name": "CROSBY HOPS",
+    "company_slug": "crosby-hops",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686109653/production/Brand/29659/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606846/production/CategoryImage/500/category_image/FoodNutrition_01.jpg",
+    "properties": {
+        "Applications": [
+            "Beverage",
+            "Beer Brewing"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Plant & Herb Products & Extracts"
+        ],
+        "Flavor Family": [
+            "Herb Flavors",
+            "Fruit Flavors"
+        ]
+    },
+    "summary": {
+        "Features": [
+            "Imparts Flavor"
+        ]
+    }
+}

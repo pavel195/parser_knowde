@@ -1,0 +1,41 @@
+{
+    "id": 371226,
+    "brand": "aqua-flame-block",
+    "name": "Santel® Toridex 6103",
+    "slug": "santel-toridex-6103",
+    "description": "Santel® Toridex 6103 is used for for aluminum foil and metalized packaging substrates. It can also be used for paper, board and product packaging. It is Repulpable with excellent resistance to oil, grease and moisture. Produces a clear, smooth coating for a wide range of demanding paper packaging applications including dry food, dairy, bakery, powder, meat, ice cream, and frozen food. It is FDA compliant for direct food contact.",
+    "company_name": "Aqua Based Technologies",
+    "company_slug": "aqua-based-technologies",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709127571/production/Brand/27696/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608982/production/CategoryImage/589/category_image/AdhesivesSealants_06.jpg",
+    "properties": {
+        "Applications": [
+            "Other Packaging Coatings",
+            "Packaging Coatings"
+        ],
+        "Product Families": [
+            "Protective Coatings",
+            "Paints & Coatings"
+        ]
+    },
+    "summary": {
+        "Product Type": [
+            "Waterborne Coating"
+        ],
+        "Features": [
+            "Oil Resistant",
+            "Moisture Resistant",
+            "Grease Resistant"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Paper"
+        ],
+        "Application Method": [
+            "Flexography",
+            "Air Knife Coating",
+            "Rod Coating",
+            "Roll Coater",
+            "Gravure Coating"
+        ]
+    }
+}

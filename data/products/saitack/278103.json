@@ -1,0 +1,57 @@
+{
+    "id": 278103,
+    "brand": "saitack",
+    "name": "Saitack® 970",
+    "slug": "saitack-970",
+    "description": "Saitack® 970 is a high solids acrylic emulsion with formulating base ideally suited for vinyl flooring adhesives, pressure-sensitive label adhesives as well as packaging adhesives.",
+    "company_name": "STI Polymer",
+    "company_slug": "sti-polymer",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112021/production/Company/22069/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609103/production/CategoryImage/595/category_image/PrintingPackaging_06.jpg",
+    "properties": {
+        "Applications": [
+            "Tapes & Labels",
+            "Building & Construction",
+            "Packaging & Paper",
+            "Building Materials",
+            "Construction Chemicals",
+            "Tapes, Labels & Adhesives",
+            "Construction Adhesives",
+            "Adhesives",
+            "Flexible Packaging Adhesives",
+            "Tape & Label Adhesives"
+        ],
+        "Product Families": [
+            "Resins & Binders",
+            "Acrylics"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ],
+        "End Uses": [
+            "Pressure Sensitive Adhesive",
+            "Solvent Free (100% Solids) Adhesive",
+            "Waterborne Adhesive"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ],
+        "End Uses": [
+            "Pressure Sensitive Adhesive",
+            "Waterborne Adhesive",
+            "Solvent Free (100% Solids) Adhesive"
+        ],
+        "Glass Transition Temperature (Tg)": [
+            "-43.0 - -43.0 °C"
+        ],
+        "Features": [
+            "Improved Water Retention",
+            "High Shear Contribution",
+            "Low Migration",
+            "Good Balance of Properties",
+            "Excellent Tack Stability"
+        ]
+    }
+}

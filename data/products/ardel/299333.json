@@ -1,0 +1,52 @@
+{
+    "id": 299333,
+    "brand": "ardel",
+    "name": "ABSYLUX® SD-A",
+    "slug": "absylux-sd-a",
+    "description": "Absylux® SD-A is a permanently antistatic Acrylonitrile Butadiene Styrene (ABS) with Surface Resistivity of 109 – 1011 ohm/sq). The material is a non-carbon filled product, available in both natural and black color. It is ideal for protection against static discharge in electronic applications where contamination from potential sloughing of carbon powder would be concern. Absylux® SD-A is easy to machine and fabricate.",
+    "company_name": "Westlake Plastics",
+    "company_slug": "westlake-plastics",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686150071/production/Company/22836/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Parts & Components",
+            "Other Electrical & Electronics Applications",
+            "Other Printing & Packaging Applications",
+            "Chemical & Industrial Manufacturing",
+            "Other Parts & Components",
+            "Other Industrial Applications"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Acrylonitrile Butadiene Styrene (ABS)",
+            "Styrenics"
+        ],
+        "Polymer Name": [
+            "Acrylonitrile Butadiene Styrene (ABS)"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Acrylonitrile Butadiene Styrene (ABS)"
+        ],
+        "Physical Form": [
+            "Slab",
+            "Film",
+            "Rods",
+            "Sheets"
+        ],
+        "Features": [
+            "Good Machinability",
+            "Excellent Dielectric Properties",
+            "Stiffness",
+            "Impact Resistance"
+        ],
+        "Color": [
+            "Black",
+            "Natural"
+        ]
+    }
+}

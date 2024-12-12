@@ -1,0 +1,45 @@
+{
+    "id": 191226,
+    "brand": "golden-granulated",
+    "name": "Dri-Flo® Special 75 Molasses",
+    "slug": "dri-flo-special-75-molasses",
+    "description": "A free-flowing sprayed dried ingredient with a robust flavor and dark brown caramel color. This product is manufactured by dehydrating a high quality molasses in combination with maltodextrin as a drying aid. Flow agents have not been added. This uniformly blended product is ideal for dry and liquid blending. Attributes include dispersability, solubility, and effective masking of undesirable flavors.",
+    "company_name": "Domino Specialty Ingredients",
+    "company_slug": "domino-specialty-ingredients",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708691011/production/Company/11170/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708691011/production/Company/11170/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Cereals & Snacks",
+            "Other Food Applications",
+            "Confectionery",
+            "Bakery",
+            "Savory & Culinary",
+            "Convenience Foods",
+            "Meat, Poultry & Seafood",
+            "Food"
+        ],
+        "Product Families": [
+            "Alternates & Replacements",
+            "Sweeteners & Syrups",
+            "Taste & Flavor",
+            "Whole Foods, Extracts & Premixes"
+        ],
+        "End Uses": [
+            "RTE Dough",
+            "Processed Meat Products"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Molasses"
+        ],
+        "Functions": [
+            "Sugar Substitute",
+            "Nutritive Sweetener"
+        ],
+        "Certifications & Compliance": [
+            "Kosher"
+        ]
+    }
+}

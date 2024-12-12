@@ -1,0 +1,72 @@
+{
+    "id": 304838,
+    "brand": "equibiotics",
+    "name": "SynerSHIELD Pro",
+    "slug": "synershield-pro",
+    "description": "Patented high molecular weight silk protein\r\n",
+    "company_name": "ROELMI HPC",
+    "company_slug": "roelmi-hpc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708671906/production/Product/304838/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708671906/production/Company/1386/card_banner/image",
+    "properties": {
+        "Product Families": [
+            "Sensory Modifiers",
+            "Film Formers",
+            "Conditioners & Emollients",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Sericin"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Sericin"
+        ],
+        "Functions": [
+            "Smoothing Agent",
+            "Film Former",
+            "Conditioner"
+        ],
+        "Labeling Claims": [
+            "BSE-free",
+            "Nanomaterials-free",
+            "Amine-free",
+            "Clean at Sephora",
+            "TSE-free",
+            "VOC-free",
+            "Not Tested on Animals",
+            "Ethylene Oxide-free",
+            "Allergen-free",
+            "Formaldehyde-free",
+            "Chelate-free",
+            "Protein-free",
+            "Animal Products-free",
+            "Ulta Beauty's Conscious Beauty",
+            "Ethanol-free",
+            "Phthalates-free",
+            "Stabilizers-free",
+            "GMO-free",
+            "Antioxidants-free",
+            "Glycol ether-free"
+        ],
+        "Benefit Claims": [
+            "Restoring",
+            "Calming",
+            "Silky Feel",
+            "Irritation Reduction",
+            "Moisturizing",
+            "Redness Reduction",
+            "Suitable for Sensitive Skin",
+            "Skin Conditioning",
+            "Soothing",
+            "Regenerating",
+            "Film Forming",
+            "Sensitive",
+            "Hair Conditioning",
+            "Static Reduction",
+            "Smoothing",
+            "Skin Protection"
+        ]
+    }
+}

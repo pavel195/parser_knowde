@@ -1,0 +1,48 @@
+{
+    "id": 420505,
+    "brand": "geomet",
+    "name": "Plus® M",
+    "slug": "plus-m",
+    "description": "Plus® M topcoats are lubricated sealers specially engineered for application over Geomet® basecoats. These topcoats provide controlled friction coefficient of threaded parts and increase the resistance to corrosion. The controlled sacrificial corrosion protection mechanism of Geomet® basecoats is further improved with the addition of Plus® topcoats.",
+    "company_name": "NOF Metal Coatings Group",
+    "company_slug": "nof-metal-coatings-group",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520433/production/Brand/33005/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608744/production/CategoryImage/575/category_image/AutomotiveTransportation_03.jpg",
+    "properties": {
+        "Applications": [
+            "Coatings & Finishes",
+            "Automotive OEM Coatings"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Top Coats",
+            "Primers & Sealers"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Waterborne Coating",
+            "Sealer",
+            "Top Coat",
+            "Coating"
+        ],
+        "Application Method": [
+            "Dip Coating",
+            "Spray"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Magnesium",
+            "Elastomers & Rubbers",
+            "Metal",
+            "Aluminum"
+        ],
+        "Features": [
+            "Water-based",
+            "Corrosion Resistant",
+            "Lubricated",
+            "Low Coefficient of Friction",
+            "Excellent Solvent Resistance",
+            "Good Fuel Resistance"
+        ]
+    }
+}

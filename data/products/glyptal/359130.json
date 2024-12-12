@@ -1,0 +1,59 @@
+{
+    "id": 359130,
+    "brand": "glyptal",
+    "name": "Glyptal® 1201A",
+    "slug": "glyptal-1201a",
+    "description": "Glyptal® 1201A is a aerosol-spray version of 1201 is packed for con-venience and greater econonomy in a large, 361-gram can. Pressurant is non-fluorocarbon.",
+    "company_name": "Glyptal",
+    "company_slug": "glyptal",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520160/production/Company/30765/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608557/production/CategoryImage/565/category_image/PaintingsCoatings_01.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial Coatings",
+            "Industrial Maintenance"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Primer",
+            "Enamel",
+            "Sealer"
+        ],
+        "Features": [
+            "Excellent Water Resistance",
+            "Corrosion Resistant",
+            "Acid Resistant",
+            "Oil Resistant",
+            "Heat Resistance",
+            "Excellent Salt Spray Resistance",
+            "Good Toughness",
+            "Excellent Flexibility",
+            "Arc Resistant",
+            "Good Aging Behavior",
+            "Moisture Resistant",
+            "Fast Drying",
+            "High Dielectric Strength",
+            "Low Gloss"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Fibers & Fabrics",
+            "Ceramic",
+            "Masonry",
+            "Iron",
+            "Metal",
+            "Concrete",
+            "Steel",
+            "Wood"
+        ],
+        "Application Method": [
+            "Brush",
+            "Spray",
+            "Dip Coating"
+        ]
+    }
+}

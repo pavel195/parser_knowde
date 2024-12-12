@@ -1,0 +1,34 @@
+{
+    "id": 346392,
+    "brand": "nativa",
+    "name": "La Veronese Marano corn polenta -Bramata- Finely ground",
+    "slug": "la-veronese-marano-corn-polenta-bramata-finely-ground",
+    "description": "La Veronese Marano corn polenta -Bramata- Finely Ground is The fragrant and tasty Marano yellow corn polenta is particularly suitable for dishes that recall the flavors of the forest: mushrooms and game.",
+    "company_name": "La Veronese",
+    "company_slug": "la-veronese",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686104618/production/Company/37432/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606934/production/CategoryImage/504/category_image/FoodNutrition_05.jpg",
+    "properties": {
+        "Applications": [
+            "Food",
+            "Bakery",
+            "Savory & Culinary"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Flours & Grains Products"
+        ],
+        "End Uses": [
+            "Sauces"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Corn"
+        ],
+        "Labeling Claims": [
+            "Gluten-free",
+            "Hypoallergenic"
+        ]
+    }
+}

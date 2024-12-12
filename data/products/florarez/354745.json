@@ -1,0 +1,38 @@
+{
+    "id": 354745,
+    "brand": "florarez",
+    "name": "Florachem Atralone",
+    "slug": "florachem-atralone",
+    "description": "Florachem Atralone is a fragrance ingredient containing methyl dihydroxy dimethylbenzoate. It is a versatile fragrance component. It finds application in the formulation of various fragrances and perfumes. This ingredient is available in liquid form, allowing for easy incorporation into fragrance blends.",
+    "company_name": "FLORACHEM",
+    "company_slug": "florachem",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708687332/production/Company/1228/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708687332/production/Company/1228/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Fragrances & Perfumes",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Aroma Ingredients",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Methyl Dihydroxy Dimethylbenzoate"
+        ],
+        "End Uses": [
+            "Fragrances & Perfumes"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Methyl Dihydroxy Dimethylbenzoate"
+        ],
+        "Functions": [
+            "Fragrance"
+        ],
+        "Synonyms": [
+            "Methyl 2,4-Dihydroxy-3,6-Dimethylbenzoate, Methyl 3-Methylorsellinate"
+        ]
+    }
+}

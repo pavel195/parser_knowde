@@ -1,0 +1,39 @@
+{
+    "id": 301173,
+    "brand": "rank-add",
+    "name": "Rank Add AFC170",
+    "slug": "rank-add-afc170",
+    "description": "Rank Add AFC170 is an additive as a nonionic surfactant and wetting agent that is designed to be use as a color acceptance and dispersing agent in base paint.",
+    "company_name": "Rank Additives Pvt",
+    "company_slug": "rank-additives",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672682/production/Company/24319/logo/image",
+    "banner_url": "https://static.knowde.com/card-banners/knowde-card-for-raw-materials-8.jpg",
+    "properties": {
+        "Applications": [
+            "Other Printing & Packaging Applications",
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Dispersing & Wetting Additives",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Phenols & Phenolics",
+            "Ethoxylates",
+            "Alkylphenols"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Wetting Agent",
+            "Dispersant",
+            "Surfactant",
+            "Surfactant (Nonionic)"
+        ],
+        "Chemical Family": [
+            "Phenols & Phenolics",
+            "Alkylphenols",
+            "Ethoxylates"
+        ]
+    }
+}

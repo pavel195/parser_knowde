@@ -1,0 +1,37 @@
+{
+    "id": 399008,
+    "brand": "setworx",
+    "name": "EPOXIBOND™ EB-316TC-2",
+    "slug": "epoxibond-eb-316tc-2",
+    "description": "EB-316TC-2 is a two component, thermally conductive, electrically insulating epoxy designed for heat sinking electronics and semiconductors. It may be used as an adhesive, potting, or encapsulation material, for industries such as consumer, medical or optics.",
+    "company_name": "EpoxySet Inc.",
+    "company_slug": "epoxyset",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292117/production/Brand/23613/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608972/production/CategoryImage/588/category_image/AdhesivesSealants_05.jpg",
+    "properties": {
+        "Applications": [
+            "Parts & Components",
+            "Printed Circuit Boards (PCBs)",
+            "Semiconductor Manufacturing"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Structural Adhesives"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Structural Adhesive"
+        ],
+        "Application Areas": [
+            "Printed Circuit Boards",
+            "Semiconductors"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    }
+}

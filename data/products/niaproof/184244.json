@@ -1,0 +1,40 @@
+{
+    "id": 184244,
+    "brand": "niaproof",
+    "name": "Niacet Anhydrous HCl (High Purity/Electronic Grade)",
+    "slug": "niacet-anhydrous-hcl-high-purity-electronic-grade",
+    "description": "Anhydrous Hydrogen Chloride (AHCl) is a colorless gas which plays an important role in various technologies and in pharmaceutical/chemical industries. The majority of Anhydrous Hydrogen Chloride is used to produce hydrochloric acid, a solution of AHCl in water. Concentrations range from less than 1% up to 38%. The latter is referred to as “concentrated” or “fuming” hydrochloric acid.",
+    "company_name": "Niacet",
+    "company_slug": "niacet",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704100448/production/Product/184244/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1704100448/production/Product/184244/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Chemical Manufacturing",
+            "Other Pharmaceutical Manufacturing Applications",
+            "Pharmaceutical Manufacturing",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Inorganic Acids",
+            "Technical Salts & Inorganics"
+        ],
+        "Chemical Family": [
+            "Inorganic Acids"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Hydrochloric Acid (HCl)"
+        ],
+        "CAS Number": [
+            "7647-01-0"
+        ],
+        "Features": [
+            "Colorless"
+        ],
+        "Synonyms": [
+            "Anhydrous hydrochloric acid, Chloridric acid, Chlorohydric acid, Dilute hydrochloric acid, Hydrochloric acid, Hydrochloric acid gas, Hydrogen chloride, Hydrogen chloride (HCl), Muriatic acid, NSC 77365"
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "id": 405292,
+    "brand": "di-solv",
+    "name": "Di-SOLV™",
+    "slug": "di-solv",
+    "description": "Di-SOLV™ is a heavy-duty solvent for extra-strength tough-to-clean applications for dissolving, removing, remediation &amp; cleanup.",
+    "company_name": "i-SOLV International Chemicals",
+    "company_slug": "i-solv-international-chemicals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292126/production/Brand/31062/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515575/production/CategoryImage/1049/category_image/HII_01.jpg",
+    "properties": {
+        "Applications": [
+            "Home Care",
+            "Institutional & Industrial Care",
+            "Surface Care",
+            "Industrial Cleaning",
+            "Technical Cleaning"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Industrial Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner"
+        ],
+        "Application Areas": [
+            "Tanks",
+            "Printed Circuit Boards"
+        ],
+        "Features": [
+            "Heavy Duty"
+        ]
+    }
+}

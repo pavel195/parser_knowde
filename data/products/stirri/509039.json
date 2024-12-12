@@ -1,0 +1,41 @@
+{
+    "id": 509039,
+    "brand": "stirri",
+    "name": "STIRRI RA",
+    "slug": "stirri-ra-no-clean-solder-paste-tacky-paste-flux",
+    "description": "STIRRI RA™ is a versatile no-clean solder paste and tacky flux characterized by excellent printability and compatibility, making it suitable for stencil applications and defense-related tasks. It belongs to the rosin chemical family, ensuring reliability and adherence to industry standards for soldering needs.",
+    "company_name": "STIRRI® USA",
+    "company_slug": "stirri",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto/v1719483200/production/Company/110213/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607618/production/CategoryImage/522/category_image/ElectricalElectronics_07.jpg",
+    "properties": {
+        "Applications": [
+            "Other Military & Defense Applications",
+            "Aerospace & Aviation",
+            "Transportation",
+            "Military & Defense"
+        ],
+        "Product Families": [
+            "Other Ready-to-Use Products"
+        ],
+        "Chemical Family": [
+            "Rosins"
+        ]
+    },
+    "summary": {
+        "Product Type": [
+            "Solder Paste"
+        ],
+        "Application Area": [
+            "Defense",
+            "Stencil"
+        ],
+        "Features": [
+            "Excellent Compatibility",
+            "Excellent Printability"
+        ],
+        "Chemical Family": [
+            "Rosins"
+        ]
+    }
+}

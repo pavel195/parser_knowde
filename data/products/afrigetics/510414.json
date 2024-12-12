@@ -1,0 +1,31 @@
+{
+    "id": 510414,
+    "brand": "afrigetics",
+    "name": "Pharm-Rx Magnesium Aluminum Silicate",
+    "slug": "pharm-rx-chemical-corp-magnesium-aluminum-silicate",
+    "description": "Pharm-Rx Magnesium Aluminum Silicate functions as an absorbent, viscosity modifier, anti-caking agent, and opacifier in cosmetic formulations.",
+    "company_name": "Pharm-Rx Chemical Corp.",
+    "company_slug": "pharm-rx",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto/v1724132458/production/Company/102900/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1724132458/production/Company/102900/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Color Cosmetics",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Visual Modifiers",
+            "Rheology Modifiers",
+            "Texturizers & Fillers",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Magnesium Aluminum Silicate"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Magnesium Aluminum Silicate"
+        ]
+    }
+}

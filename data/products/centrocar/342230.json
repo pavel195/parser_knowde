@@ -1,0 +1,58 @@
+{
+    "id": 342230,
+    "brand": "centrocar",
+    "name": "CENTROCAR CENTROCARB GF / PC GF 30",
+    "slug": "centrocar-centrocarb-gf-pc-gf-30",
+    "description": "CENTROCAR CENTROCARB GF / PC GF 30 is reinforced with 30% short-glass-fibers. This leads to stiffness of the composite material and an increased heat distortion resistance at the same time. The effect of tension tears is reduced. The maximum short-term highest applicable temperature is increased to 140 °C. Due to the outstanding electrical properties, PC GF 30-plastics are often used as insulation parts in the electronics industry.",
+    "company_name": "Centroplast",
+    "company_slug": "centroplast",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686150360/production/Brand/25297/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608730/production/CategoryImage/574/category_image/AutomotiveTransportation_02.jpg",
+    "properties": {
+        "Applications": [
+            "Wire & Cable",
+            "Chassis & Brake",
+            "Exterior & Body",
+            "Jacketing & Insulation",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Parts & Shapes",
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Polycarbonate (PC)"
+        ],
+        "Polymer Name": [
+            "Polycarbonate (PC)"
+        ],
+        "End Uses": [
+            "Structural Parts",
+            "Electronic Insulation"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polycarbonate (PC)"
+        ],
+        "Reinforcement Material": [
+            "Glass Fibers"
+        ],
+        "Color": [
+            "Black"
+        ],
+        "Physical Form": [
+            "Rods",
+            "Plates"
+        ],
+        "Density": [
+            "1430.0 - 1430.0 kg/m³"
+        ],
+        "Features": [
+            "Good Electrical Properties",
+            "High Heat Distortion Temperature",
+            "High Tensile Strength",
+            "Stiffness"
+        ]
+    }
+}

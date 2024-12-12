@@ -1,0 +1,44 @@
+{
+    "id": 378747,
+    "brand": "eisfix",
+    "name": "Anona GmbH Milk Base CMB 50",
+    "slug": "anona-gmbh-milk-base-cmb-50",
+    "description": "Anona Milk Base CMB 50 is creamy. It has neutral flavor, good volume increase &amp; good shelf life. It is for warm and cold use, suitable for use with all types. The Ingredients includes 50 g milk base CMB 50 + 1 l whole milk (3.5 %) + 250 g sugar + flavoring components..",
+    "company_name": "Anona GmbH",
+    "company_slug": "anona-gmbh",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686108829/production/Company/45218/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607098/production/CategoryImage/501/category_image/FoodNutrition_02.jpg",
+    "properties": {
+        "Applications": [
+            "Food",
+            "Dairy",
+            "Desserts & Fruit Preparations"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Dairy Products",
+            "Food Premixes"
+        ],
+        "End Uses": [
+            "Ice Cream",
+            "Dessert Premixes",
+            "Frozen Soft Serve"
+        ]
+    },
+    "summary": {
+        "Labeling Claims": [
+            "Gluten-free"
+        ],
+        "Features": [
+            "High Quality",
+            "Enhanced Shelf Life",
+            "Creamy Mouthfeel",
+            "Ready-To-Use"
+        ],
+        "End Uses": [
+            "Frozen Soft Serve",
+            "Dessert Premixes",
+            "Ice Cream"
+        ]
+    }
+}

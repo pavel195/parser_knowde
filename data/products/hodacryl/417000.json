@@ -1,0 +1,44 @@
+{
+    "id": 417000,
+    "brand": "hodacryl",
+    "name": "Hodisol® JR 00-4",
+    "slug": "hodisol-jr-00-4",
+    "description": "Hodisol® JR 00-4 is single-layer alkyd urethane semi-matt paint intended for application on steel and cast iron surfaces or surfaces provided with the original coating system. Thanks to the content of anti-corrosion inhibitors based on zinc phosphate, it actively suppresses the formation or course of corrosion. The paint also serves as a top coat to protect the substrate from the weather. It is characterized by high yield and high utility properties. The paint is designed for common outdoor environments or for indoor applications.",
+    "company_name": "Color Spectrum",
+    "company_slug": "color-spectrum",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520331/production/Brand/32597/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608640/production/CategoryImage/572/category_image/PaintingsCoatings_08.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial Coatings",
+            "Agricultural & Construction Equipment",
+            "Chemical & Industrial Manufacturing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Other Paints & Coatings"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Paint"
+        ],
+        "Application Area": [
+            "Tanks"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Steel",
+            "Iron"
+        ],
+        "Features": [
+            "Matte Finish"
+        ],
+        "Application Method": [
+            "Roller",
+            "Brush",
+            "Spray"
+        ]
+    }
+}

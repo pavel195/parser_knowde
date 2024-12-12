@@ -1,0 +1,43 @@
+{
+    "id": 301214,
+    "brand": "kellomer",
+    "name": "KELLOMER VK-421",
+    "slug": "kellomer-vk-421",
+    "description": "KELLOMER VK-421 is a aliphatic urethane acrylate oligomer. It is characterized by low odor, and high molecular weight. The cured films exhibit excellent flexibility, non yellowing, and good adhesion to substrates.",
+    "company_name": "Kellon",
+    "company_slug": "kellon",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686148390/production/Company/24233/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608621/production/CategoryImage/570/category_image/PaintingsCoatings_06.jpg",
+    "properties": {
+        "Applications": [
+            "Packaging & Paper",
+            "Paper & Pulp",
+            "Building & Construction",
+            "Other Adhesives & Sealants Applications",
+            "Other Printing & Packaging Applications",
+            "Wood Coatings & Finishes",
+            "Other Paints & Coatings Applications",
+            "Other Paper & Pulp Applications",
+            "Other Packaging & Paper Applications"
+        ],
+        "Product Families": [
+            "Oligomers",
+            "Monomers & Intermediates"
+        ],
+        "Chemical Family": [
+            "Urethanes",
+            "Acrylics & Acrylates",
+            "Aliphatics"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Aliphatics",
+            "Acrylics & Acrylates",
+            "Urethanes"
+        ],
+        "Molecular Weight": [
+            "65000.0 - 65000.0 g/mol"
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "id": 399419,
+    "brand": "cacide",
+    "name": "CACIDE 101",
+    "slug": "cacide-101",
+    "description": "CACIDE 101 (Biocide - Amine Type) is a quaternary amine based bactericide. The surfactant included increases the effectiveness for a broad sustained action with good penetrating qualities.",
+    "company_name": "PETROBLEND Middle East",
+    "company_slug": "petroblend-middle-east",
+    "logo_url": null,
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Exploration & Upstream",
+            "Oil, Gas & Mining"
+        ],
+        "Product Families": [
+            "Lubricant Protective Additives",
+            "Other Additives",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Quaternary Ammonium Compounds"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Antibacterial Agent",
+            "Microbial Control",
+            "Biocide"
+        ],
+        "Chemical Family": [
+            "Quaternary Ammonium Compounds"
+        ],
+        "Features": [
+            "Good Penetration"
+        ]
+    }
+}

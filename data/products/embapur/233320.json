@@ -1,0 +1,42 @@
+{
+    "id": 233320,
+    "brand": "embapur",
+    "name": "Silicopaste Red Oxide SIL1/440.55052",
+    "slug": "silicopaste-red-oxide-sil1-440-55052",
+    "description": "Silicopaste Red Oxide SIL1/440.55052 is a pigment preparation based on silicone oil.",
+    "company_name": "Sioen",
+    "company_slug": "sioen",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708521317/production/Company/16455/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608422/production/CategoryImage/558/category_image/BuildingConstruction_02.jpg",
+    "properties": {
+        "Applications": [
+            "Textile Manufacturing",
+            "Other Adhesives & Sealants Applications",
+            "Leather & Textiles"
+        ],
+        "Product Families": [
+            "Inorganic Pigments",
+            "Color Dispersions",
+            "Dispersions & Masterbatches",
+            "Pigments & Colorants",
+            "Color Pigments"
+        ],
+        "Chemical Family": [
+            "Silicones"
+        ]
+    },
+    "summary": {
+        "Color": [
+            "Red"
+        ],
+        "Pigment Type": [
+            "Inorganic Pigments"
+        ],
+        "Chemical Family": [
+            "Silicones"
+        ],
+        "Carrier": [
+            "Oil-based"
+        ]
+    }
+}

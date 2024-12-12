@@ -1,0 +1,48 @@
+{
+    "id": 411855,
+    "brand": "ultra-illumina",
+    "name": "Ultra-Illumina™ 3511",
+    "slug": "ultra-illumina-3511",
+    "description": "Ultra-Illumina™ 3511 is a UV light curable conformal coating made entirely of solids that is used on PCB assembly. It does not clog valves and is intended for use in high volume spray systems. When fully cured, Incure 3511 forms a glossy, hard, and resilient protective coating with a thickness of up to 5mm that acts as a moisture barrier even at high altitudes. Because of the fluorescing properties, quick in-process and quality inspection of coating coverage is possible. Secondary heat-cure is used to cure shadowed areas under components. UL 746C compliant, rated indoor/outdoor to 120°C, and flame class 94V-0.",
+    "company_name": "Incure",
+    "company_slug": "incure",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520475/production/Brand/32126/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607546/production/CategoryImage/524/category_image/ElectricalElectronics_09.jpg",
+    "properties": {
+        "Applications": [
+            "Packaging & Assembly",
+            "Parts & Components",
+            "Electronics Coatings",
+            "Printed Circuit Boards (PCBs)"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "1K (1 component) Coating"
+        ],
+        "Features": [
+            "Consistent High Quality",
+            "Glossy Surface Aspects",
+            "Low Shrinkage",
+            "Resilient",
+            "Tack-free",
+            "Low Viscosity",
+            "High Gloss",
+            "Moisture Barrier",
+            "UV Curable"
+        ],
+        "Application Method": [
+            "Spray"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    }
+}

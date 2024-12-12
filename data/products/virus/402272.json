@@ -1,0 +1,40 @@
+{
+    "id": 402272,
+    "brand": "virus",
+    "name": "Virus® GEO PREVIEW WHITE",
+    "slug": "virus-geo-preview-white",
+    "description": "Virus® GEO PREVIEW WHITE is the total white for cotton suitable for any kind of printing even pricewise.",
+    "company_name": "Virus",
+    "company_slug": "virus",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680110837/production/Brand/30679/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Textiles & Nonwovens",
+            "Leather & Textiles",
+            "Textile Coatings & Inks",
+            "Textile Manufacturing"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Screen Printing Inks",
+            "Other Paints & Coatings",
+            "Inks & Pastes"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Screen Printing Ink",
+            "Waterborne Ink"
+        ],
+        "Color": [
+            "White"
+        ],
+        "Application Method": [
+            "Screen Coating"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Cotton"
+        ]
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "id": 331007,
+    "brand": "optinox",
+    "name": "NovaClear® Polyimide",
+    "slug": "novaclear-polyimide",
+    "description": "NovaClear® Polyimide High temperature colorless polyimide with low yellowness index \nNovaClear® Polyimide is a transparent, colorless polyimide with temperature durability comparable to many traditional amber polyimides. NovaClear® has a low yellowness index and high Tg which make this material suitable for use in display applications with high temperatures. NovaClear® is available as a film, liquid resin, or raw polymer powder. Liquid NovaClear® resin can be direct coated onto many substrates; however, unlike traditional polyimide resins, no high temperature cure is required for this material. NovaClear® can be custom formulated with pigments, dyes and many other additive chemistries to meet the needs of many applications. Contact NeXolve today to learn how NovaClear® can work for you.",
+    "company_name": "NeXolve",
+    "company_slug": "nexolve",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686149890/production/Brand/24095/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607422/production/CategoryImage/517/category_image/ElectricalElectronics_02.jpg",
+    "properties": {
+        "Applications": [
+            "Consumer Electronics",
+            "Displays",
+            "Aerospace & Aviation",
+            "Devices & Assemblies",
+            "Transportation"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Polyimides (PI)"
+        ],
+        "Polymer Name": [
+            "Polyimide (PI)"
+        ],
+        "End Uses": [
+            "Film",
+            "Aerospace Applications"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyimide (PI)"
+        ],
+        "Physical Form": [
+            "Liquid",
+            "Film",
+            "Powder"
+        ],
+        "Features": [
+            "High Glass Transition Temperature",
+            "Low Moisture Absorption",
+            "Low Yellowing Properties"
+        ],
+        "Density": [
+            "1400.0 - 1400.0 kg/m³"
+        ],
+        "Tensile Modulus": [
+            "4800.0 - 4800.0 MPa"
+        ],
+        "Color": [
+            "Transparent"
+        ]
+    }
+}

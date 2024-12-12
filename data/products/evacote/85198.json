@@ -1,0 +1,46 @@
+{
+    "id": 85198,
+    "brand": "evacote",
+    "name": "MICROSERE® 5806A",
+    "slug": "the-international-group-inc-microsere-5806a",
+    "description": "MICROSERE® 5806A is a high-melt, amber-colored microcrystalline that is used in a variety of applications.",
+    "company_name": "The International Group Inc",
+    "company_slug": "the-international-group-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709127354/production/Product/85198/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1709127354/production/Product/85198/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Other Paints & Coatings Applications",
+            "Industrial & Transport Packaging",
+            "Non-Food Consumer Packaging",
+            "Packaging"
+        ],
+        "Product Families": [
+            "Surface Modifiers",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Waxes"
+        ],
+        "End Uses": [
+            "Cosmetic Packaging"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Surface Modifier"
+        ],
+        "Chemical Family": [
+            "Waxes"
+        ],
+        "End Uses": [
+            "Cosmetic Packaging"
+        ],
+        "Labeling Claims": [
+            "Food Contact Acceptable"
+        ],
+        "Features": [
+            "Food Contact Acceptable"
+        ]
+    }
+}

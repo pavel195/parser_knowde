@@ -1,0 +1,52 @@
+{
+    "id": 405738,
+    "brand": "cor-ban",
+    "name": "Cor-Ban® D-5035NS",
+    "slug": "cor-ban-d-5035ns",
+    "description": "Cor-Ban® D-5035NS is a heat resistant corrosion preventive used for high temperature areas.",
+    "company_name": "Zip-Chem",
+    "company_slug": "zip-chem",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520392/production/Brand/31145/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608611/production/CategoryImage/569/category_image/PaintingsCoatings_05.jpg",
+    "properties": {
+        "Applications": [
+            "Coatings & Finishes",
+            "Lubricants & Functional Fluids",
+            "Packaging & Assembly",
+            "Wire & Cable",
+            "Aerospace Fluids & Lubricants",
+            "Jacketing & Insulation",
+            "Electronics Coatings",
+            "Automotive Fluids & Lubricants",
+            "Aerospace Coatings",
+            "Aerospace & Aviation",
+            "Transportation"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Lubricant"
+        ],
+        "Features": [
+            "Corrosion Resistant",
+            "Electrically Insulating",
+            "Low Toxicity",
+            "Electrical Corrosion Resistant"
+        ],
+        "Application Area": [
+            "Wire Cables",
+            "Electrical Components"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Steel",
+            "Metal"
+        ],
+        "Application Method": [
+            "Spray"
+        ]
+    }
+}

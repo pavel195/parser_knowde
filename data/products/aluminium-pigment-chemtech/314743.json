@@ -1,0 +1,45 @@
+{
+    "id": 314743,
+    "brand": "aluminium-pigment-chemtech",
+    "name": "Pearlescent Pigment ChemTech SC1325",
+    "slug": "pearlescent-pigment-chemtech-sc1325",
+    "description": "Silky and bright lush golden effects with a wide spectrum of colors provide everything with a royal sophisticated elegance. Extensive materials flourish sumptuously and create an impressive accent of beauty for the design. A gold series of Pearlescent Pigments ChemTech is characterized by intense color and bright luster.",
+    "company_name": "Chemical Technologies",
+    "company_slug": "chemical-technologies",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708525354/production/Company/19429/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708525354/production/Product/314743/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Decorative Paints, Coatings & Stains",
+            "Industrial Coatings",
+            "Decorative Paints",
+            "Building Materials",
+            "Building & Construction",
+            "Decorative Materials & Finishes"
+        ],
+        "Product Families": [
+            "Pearlescent",
+            "Effects Pigments",
+            "Pigments & Colorants"
+        ],
+        "Chemical Family": [
+            "Titanium Compounds",
+            "Mixtures & Blends"
+        ]
+    },
+    "summary": {
+        "Color": [
+            "Gold"
+        ],
+        "Pigment Type": [
+            "Pearlescent"
+        ],
+        "Chemical Family": [
+            "Mixtures & Blends",
+            "Titanium Compounds"
+        ],
+        "Particle Size": [
+            "10.0 - 60.0 microns"
+        ]
+    }
+}

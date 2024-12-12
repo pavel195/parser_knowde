@@ -1,0 +1,54 @@
+{
+    "id": 121131,
+    "brand": "filter-bond",
+    "name": "STERalloy™ FDG 2036-5",
+    "slug": "steralloy-fdg-2036-5",
+    "description": "STERalloy FDG is the first Liquid Molding Polymer Alloy Series that has been specifically designed for food and drug applications. All of the products in the STERalloy FDG Series exhibit unique physical and chemical properties and have been used in numerous applications where biocompatibility is required.Key Advantages: Approvable Materials Wide range of hardnesses ROHS compliant Very high physical properties Low moisture sensitivity Easy to use The food, drug, pharmaceutical, wine, beer, juice, dairy, hospital equipment, and prosthetic industries are just some examples of applications that utilize special products such as STERalloy FDG.STERalloy FDG Elastomeric Series: various hardness elastomers, shore 20A - 72D clear in color available in 2 speeds - fast and slow STERalloy FDG Rigid Series: rigid, tough polymer alloy plastics high heat distortion high physical properties",
+    "company_name": "Hapco Inc.",
+    "company_slug": "hapco-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708516553/production/Company/2788/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708516553/production/Company/2788/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Equipment & Parts",
+            "Food & Beverage Packaging",
+            "Implants & Prosthetics",
+            "Other Processing & Packaging Applications",
+            "Other Medical Applications",
+            "Processing & Packaging",
+            "Medical",
+            "Chemical & Industrial Manufacturing",
+            "Packaging"
+        ],
+        "Product Families": [
+            "Polyurethane Rubbers",
+            "Specialty Elastomers"
+        ],
+        "Polymer Name": [
+            "Polyurethane Thermoset Elastomer (unspecified)"
+        ],
+        "End Uses": [
+            "Food Preparation Equipment",
+            "Prosthetics",
+            "Medical/Healthcare Applications",
+            "Food Containers",
+            "Non Specific Food Applications"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyurethane Thermoset Elastomer (unspecified)"
+        ],
+        "End Uses": [
+            "Medical/Healthcare Applications",
+            "Non Specific Food Applications",
+            "Food Preparation Equipment",
+            "Prosthetics",
+            "Food Containers"
+        ],
+        "Features": [
+            "Food Contact Acceptable",
+            "Good Processability"
+        ]
+    }
+}

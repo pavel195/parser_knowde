@@ -1,0 +1,45 @@
+{
+    "id": 275921,
+    "brand": "12-cobalt-cem-all",
+    "name": "Borchi® Gen 0451",
+    "slug": "borchi-gen-0451",
+    "description": "Dispersing Agent for Carbon Black Pigments and Difficult to Disperse Organic PigmentsBorchi® Gen 0451 is a high molecular weight non-ionic and VOC-free dispersing agent for carbon black pigments . This dispersant provides better jetness in carbon black pigment dispersions and also improves color development in difficult to disperse organic pigments in both water- and solvent-based systems. It provides shorter grind times, higher gloss performance, high jetness, low viscosity dispersions, and long-term viscosity.",
+    "company_name": "Borchers: A Milliken Brand",
+    "company_slug": "borchers",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1715133753/production/Brand/18991/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608611/production/CategoryImage/569/category_image/PaintingsCoatings_05.jpg",
+    "properties": {
+        "Applications": [
+            "Marine",
+            "Automotive OEM Coatings",
+            "Decorative Paints, Coatings & Stains",
+            "Industrial Coatings",
+            "Marine Coatings",
+            "Coatings & Finishes",
+            "Transportation",
+            "Automotive & Transportation",
+            "Decorative Materials & Finishes"
+        ],
+        "Product Families": [
+            "Dispersing & Wetting Additives",
+            "Additives"
+        ],
+        "End Uses": [
+            "Waterborne Coating",
+            "Solventborne Coating"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Dispersant"
+        ],
+        "End Uses": [
+            "Solventborne Coating",
+            "Waterborne Coating"
+        ],
+        "Labeling Claims": [
+            "VOC-free",
+            "APEO-Free"
+        ]
+    }
+}

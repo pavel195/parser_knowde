@@ -1,0 +1,47 @@
+{
+    "id": 420419,
+    "brand": "verila",
+    "name": "VERILA® Lithium EP 2 LL",
+    "slug": "verila-lithium-ep-2-ll",
+    "description": "Verila® Lithium EP 2 LL is lubricating grease based on lithium 12-hydroxystearate soap and high-quality base oil blend. The grease contains perfectly balanced antioxidants, rust and corrosion inhibitors and EP/AW additives as well as water resistance and mechanical stability improvers. The product is an high performance, long life, multi-purpose, extreme pressure [EP] grease which can be used in wide variety of industrial and automotive applications.",
+    "company_name": "Verila Lubricants",
+    "company_slug": "verila-lubricants",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292820/production/Brand/32971/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608760/production/CategoryImage/576/category_image/AutomotiveTransportation_04.jpg",
+    "properties": {
+        "Applications": [
+            "Lubricants & Functional Fluids",
+            "Transportation",
+            "Automotive Fluids & Lubricants",
+            "Off Road & Recreational Vehicle (RV)"
+        ],
+        "Product Families": [
+            "Fluids & Lubricants",
+            "Greases"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Grease"
+        ],
+        "Application Areas": [
+            "Bearings"
+        ],
+        "Features": [
+            "Water Resistant",
+            "Wear Resistant",
+            "Mechanical Stability",
+            "High Loading Absorption Capability",
+            "High Performance",
+            "Extreme Pressure Performance",
+            "Oxidation Resistant",
+            "Long Shelf Life",
+            "Corrosion Resistant",
+            "Wide Temperature Operating Range",
+            "Improved Surface Quality"
+        ],
+        "Thickener Type": [
+            "Lithium Complex"
+        ]
+    }
+}

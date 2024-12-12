@@ -1,0 +1,47 @@
+{
+    "id": 406778,
+    "brand": "spectonite",
+    "name": "ACRYCOTE",
+    "slug": "acrycote",
+    "description": "ACRYCOTE is an isocyanate-free alternative to urethane. It is a two-component, cross-linked acrylic coating designed to incorporate all the desirable characteristics that have made urethane popular, such as, gloss retention, excellent exterior durability, and good chemical and solvent resistance. ACRYCOTE is recommended for all exposed metals.",
+    "company_name": "A.R. Monteith Corporation",
+    "company_slug": "a-r-monteith-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1670413794/production/Brand/31351/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608490/production/CategoryImage/563/category_image/BuildingConstruction_07.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Fence, Decks & Rails"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Other Paints & Coatings"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "2K (2 component) Coating"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal"
+        ],
+        "Features": [
+            "Outdoor Durability",
+            "Chemical Resistant",
+            "Solvent Resistance",
+            "Fast Drying",
+            "Long Potlife",
+            "High Flexibility",
+            "Good Color Stability",
+            "Crosslinkable",
+            "Excellent Gloss Retention",
+            "Good Toughness"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    }
+}

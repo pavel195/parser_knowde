@@ -1,0 +1,49 @@
+{
+    "id": 318753,
+    "brand": "stretch-vac",
+    "name": "Northern Composites PVC Film",
+    "slug": "northern-composites-pvc-film",
+    "description": "PVC Film is specifically selected for low temperature debulking and compaction operations on composite laminates for removal of volatiles and air prior to the final cure.",
+    "company_name": "Northern Composites",
+    "company_slug": "northern-composites",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686150304/production/Company/29321/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608769/production/CategoryImage/577/category_image/AutomotiveTransportation_05.jpg",
+    "properties": {
+        "Applications": [
+            "Flooring & Surfaces",
+            "Packaging & Assembly",
+            "Medical",
+            "Marine",
+            "Other Medical Applications",
+            "Aerospace & Aviation",
+            "Transportation",
+            "Other Flooring & Surface Applications",
+            "Other Packaging & Assembly Applications"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Vinyls, Vinylics & Vinyl Derivatives"
+        ],
+        "Polymer Name": [
+            "Polyvinyl Chloride (PVC) Film"
+        ],
+        "End Uses": [
+            "Film",
+            "Vacuum Bagging Film"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyvinyl Chloride (PVC) Film"
+        ],
+        "Physical Form": [
+            "Film"
+        ],
+        "Features": [
+            "Chemical Resistant",
+            "High Stiffness"
+        ]
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "id": 404303,
+    "brand": "skinbrite-30",
+    "name": "MacPeptide™ AH8",
+    "slug": "macpeptide-ah8",
+    "description": "MacPeptide™ AH8 is an anti-wrinkle peptide solution that improves skin elasticity by restoring the skin’s natural water barrier. It helps bind water to the skin improving dry skin. MacPeptide™ AH8 penetrates skin’s layers to reduce the appearance of wrinkles on the face. It is considered a neurotransmitter-inhibiting peptide because it may have the ability to target expression wrinkles.",
+    "company_name": "McKinley Resources, Inc.",
+    "company_slug": "mckinley-resources-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1717004050/production/Company/2908/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,c_crop,x_0,y_174,w_708,h_221/v1717004050/production/Brand/30893/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Skin Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Skin Actives",
+            "Cosmetic Actives"
+        ],
+        "INCI Name": [
+            "Caprylyl Glycol",
+            "Acetyl Hexapeptide-8"
+        ],
+        "End Uses": [
+            "Moisturizers",
+            "Skin Gel",
+            "Skin Serums"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Caprylyl Glycol",
+            "Acetyl Hexapeptide-8"
+        ],
+        "Functions": [
+            "Anti-Wrinkle Agent",
+            "Anti-Aging Agent"
+        ],
+        "Ingredient Origin": [
+            "Synthetic"
+        ],
+        "Labeling Claims": [
+            "1,4-Dioxane-free",
+            "CMR Substances-free",
+            "Not Tested on Animals",
+            "SVHC Chemicals-free",
+            "Butylated Hydroxyanisole-free",
+            "Phthalates-free",
+            "Sulfate-free",
+            "Butylated Hydroxytoluene (BHT)-Free",
+            "Formaldehyde-free",
+            "Clean at Sephora",
+            "TSE-free",
+            "Paraben-free",
+            "GMO-free",
+            "Credo Clean Standard",
+            "Bisphenol A-free",
+            "Petrochemical-free",
+            "Non-Phenolic",
+            "Nanomaterials-free",
+            "Soy-free",
+            "Talc-free",
+            "Silicone-free",
+            "Palm free",
+            "Hormones-free",
+            "Ulta Beauty's Conscious Beauty",
+            "Gluten-free",
+            "Glycol ether-free",
+            "Not Listed In California Proposition 65",
+            "Fragrance allergen-free",
+            "Palm Oil-free",
+            "Latex-free",
+            "Nitrosamines-free",
+            "BSE-free"
+        ],
+        "Benefit Claims": [
+            "Anti-Wrinkle",
+            "Skin Barrier",
+            "Penetrating",
+            "Anti-Aging",
+            "Improves Skin Elasticity",
+            "Enhanced Water Binding",
+            "Thermal Stability",
+            "Wrinkle Prevention",
+            "Provides Dry Appearance",
+            "Compatibility",
+            "Restoring"
+        ]
+    }
+}

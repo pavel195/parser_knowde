@@ -1,0 +1,49 @@
+{
+    "id": 420683,
+    "brand": "gatorfill",
+    "name": "PAVESHIELD®",
+    "slug": "paveshield",
+    "description": "PaveShield® is a polypetrol resin emulsion specifically formulated as a weather protective, water resistant coating for all asphalt surfaces.",
+    "company_name": "Neyra Industries",
+    "company_slug": "neyra-industries",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520372/production/Brand/33026/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608410/production/CategoryImage/557/category_image/BuildingConstruction_01.jpg",
+    "properties": {
+        "Applications": [
+            "Infrastructure, Roads & Paving",
+            "Coatings & Markings",
+            "Pavement, Highways, Roads & Bridges"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Sealer"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Asphalt"
+        ],
+        "Features": [
+            "Excellent Seal Properties",
+            "Durable",
+            "Good Weather Stability",
+            "Cost Effective",
+            "Good Adhesion",
+            "Good Flexibility",
+            "High Molecular Weight",
+            "Low VOC",
+            "Water Resistant",
+            "Service Life Extension",
+            "Good Sunlight Resistance",
+            "Excellent Toughness"
+        ],
+        "Application Method": [
+            "Spray",
+            "Brush",
+            "Wipe"
+        ]
+    }
+}

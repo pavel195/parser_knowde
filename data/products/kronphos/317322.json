@@ -1,0 +1,46 @@
+{
+    "id": 317322,
+    "brand": "kronphos",
+    "name": "KRONPHOS CP",
+    "slug": "kronphos-cp",
+    "description": "Kronphos CP is an inorganic white pigment; it is used in paintwork products to enhances anti-corrosion properties and adhesion strength. Thanks to the lamellar structure of the pigment particles, the barrier-layer effect of the coating is enhanced on the anodic area.",
+    "company_name": "Zavod Kronakril",
+    "company_slug": "zavod-kronakril",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708688138/production/Product/317322/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608557/production/CategoryImage/565/category_image/PaintingsCoatings_01.jpg",
+    "properties": {
+        "Applications": [
+            "Primers & Lacquers",
+            "Other Paints & Coatings Applications",
+            "Coil Coatings",
+            "Industrial Coatings",
+            "Packaging Coatings"
+        ],
+        "Product Families": [
+            "Corrosion Inhibiting Pigments",
+            "Functional Pigments",
+            "Inorganic Pigments",
+            "Functional Additives",
+            "Additives",
+            "Pigments & Colorants",
+            "Color Pigments"
+        ],
+        "End Uses": [
+            "Waterborne Coating",
+            "Solventborne Coating",
+            "Primer"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Corrosion Inhibitor",
+            "Colorant"
+        ],
+        "Pigment Type": [
+            "Inorganic Pigments"
+        ],
+        "Color": [
+            "White"
+        ]
+    }
+}

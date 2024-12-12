@@ -1,0 +1,43 @@
+{
+    "id": 79000,
+    "brand": "dk-pearl",
+    "name": "SACRAN 05BG",
+    "slug": "sacran-05bg",
+    "description": "SACRAN-05BG is a butylene glycol and water dispersion, polysaccharide extracted from “Suizenji nori\" which is single-celled organisms that only live together in the pure spring water in Kyusyu, Japan. This product has a very high molecular weight which gives it superior water retaining effects. It keeps anti-freezing water, which never evaporates; therefore, even in dry conditions, it has a superior moisturizing effect. In addition, it may make a film on the skin; however, its thixotropy property, fluid is thick under normal conditions but flows once shaken or stressed. When SACRAN is applied on the skin, it become smooth.",
+    "company_name": "DAITO KASEI",
+    "company_slug": "daito-kasei-kogyo",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708691775/production/Company/1194/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708691775/production/Company/1194/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Skin Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Sensory Modifiers",
+            "Film Formers",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Aphanothece Sacrum Exopolysaccharides"
+        ],
+        "End Uses": [
+            "Moisturizers"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Aphanothece Sacrum Exopolysaccharides"
+        ],
+        "Functions": [
+            "Film Former",
+            "Moisturizing Agent",
+            "Smoothing Agent"
+        ],
+        "Benefit Claims": [
+            "Film Forming",
+            "Smoothing",
+            "Moisturizing"
+        ]
+    }
+}

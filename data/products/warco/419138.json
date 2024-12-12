@@ -1,0 +1,43 @@
+{
+    "id": 419138,
+    "brand": "warco",
+    "name": "Warco® AW-68 Anti-Wear Hydraulic Oil",
+    "slug": "warco-aw-68-anti-wear-hydraulic-oil",
+    "description": "Warco® AW-68 Anti-Wear Hydraulic Oil is a premium quality general purpose anti-wear hydraulic fluid containing a zinc/phosphorous additive to minimize wear and provides superior thermal stability, anti-foam, rust, corrosion and oxidation protection in high-speed, high-pressure vane, gear, and piston pumps operating over a wide temperature range. It is formulated according to the ISO viscosity grade classifications to perform in extended service intervals to reduce downtime and increase time between equipment service. WARCO Anti-Wear Hydraulic Oil meets, exceeds, or match the performance specifications and complies with most industrial, marine and mobile applications where service requirements are normal to moderate and long-term, heavy-duty wear protection is not critical including: Cincinnati Fives P-68, P-69, P-70, Parker Hannifin HF-0, HF-1, HF-2, Vickers 35VQ25A, Eaton/Vickers M-2950-S, I-286-S, Ford M6C32, Chrysler, General Motors LS-2, DIN 51524 Part 1 and 2, ASTM D6158, ISO 11158 and US Steel 136 specifications for stability and durability.",
+    "company_name": "Warco Products",
+    "company_slug": "warco-products",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1682593201/production/Brand/32870/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical & Industrial Manufacturing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Lubricants & Oils",
+            "Fluids & Lubricants"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Hydraulic Oils"
+        ],
+        "Application Area": [
+            "Hydraulic Pumps",
+            "Valves",
+            "Electric Motors"
+        ],
+        "Features": [
+            "Wear Resistant",
+            "General Purpose",
+            "Oxidation Resistant",
+            "Sludge Build-up Prevention",
+            "Good Thermal Stability",
+            "Corrosion Resistant",
+            "Wide Temperature Operating Range",
+            "Deposit Prevention",
+            "Service Life Extension",
+            "Non-Foaming"
+        ]
+    }
+}

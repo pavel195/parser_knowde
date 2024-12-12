@@ -1,0 +1,55 @@
+{
+    "id": 218814,
+    "brand": "agitan",
+    "name": "TAFIGEL® PUR 80",
+    "slug": "tafigel-pur-80",
+    "description": "TAFIGEL PUR 80 is designed as an “associative thickener” which builds up and stabilizes viscosity by forming a network between polyurethane, binder molecules and other paint ingredients. TAFIGEL PUR 80 can be used alone or in combination with other TAFIGEL thickeners, as well as with further thickener technologies. Aqueous gloss paints, thickened with TAFIGEL PUR 80 show minimal pseudoplasticity, similar to the rheology of solvent borne systems. TAFIGEL PUR 80 is recommended for use in following systems: Interior and exterior paints, latex paints, anticorrosive paints, adhesives, and printing inks.",
+    "company_name": "Munzing",
+    "company_slug": "munzing",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708683567/production/Company/8817/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708683567/production/Company/8817/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Decorative Paints, Coatings & Stains",
+            "Decorative Paints",
+            "Other Adhesives & Sealants Applications",
+            "Other Paints & Coatings Applications",
+            "Building Materials",
+            "Building & Construction",
+            "Decorative Materials & Finishes"
+        ],
+        "Product Families": [
+            "Rheology Modifiers & Stabilizers",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Bentonite",
+            "Urethanes",
+            "Polyurethanes (PU)"
+        ],
+        "End Uses": [
+            "Waterborne Adhesive",
+            "Waterborne Ink",
+            "Waterborne Coating"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Thickener",
+            "Rheology Modifier"
+        ],
+        "Chemical Family": [
+            "Urethanes",
+            "Bentonite",
+            "Polyurethanes (PU)"
+        ],
+        "End Uses": [
+            "Waterborne Adhesive",
+            "Waterborne Ink",
+            "Waterborne Coating"
+        ],
+        "Physical Form": [
+            "Liquid"
+        ]
+    }
+}

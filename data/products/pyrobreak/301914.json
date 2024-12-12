@@ -1,0 +1,53 @@
+{
+    "id": 301914,
+    "brand": "pyrobreak",
+    "name": "PyroBreak EX-2",
+    "slug": "pyrobreak-ex-2",
+    "description": "PyroBreak EX-2 is a water based flame retardant system containing a wetting agent designed to increase the rate and depth at which the fire retardant will penetrate paper, paperboard, wood, and fabric substrates. The flame retardant saturant works by reducing the threshold ignition temperature and completely dehydrating the cellulose fibers. This alters the decomposition favoring the formation of non-flammable char and significantly reducing the formation of combustible tars.",
+    "company_name": "Pyrotech",
+    "company_slug": "pyrotech",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680110648/production/Company/24316/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608490/production/CategoryImage/563/category_image/BuildingConstruction_07.jpg",
+    "properties": {
+        "Applications": [
+            "Construction Chemicals",
+            "Paper & Pulp",
+            "Textiles & Nonwovens",
+            "Building & Construction",
+            "Flame Retardants & Fire Protection",
+            "Leather & Textiles",
+            "Wood Coatings & Finishes",
+            "Other Paints & Coatings Applications",
+            "Textile Coatings & Inks",
+            "Coated Paper & Paperboard",
+            "Textile Manufacturing"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Waterborne Coating"
+        ],
+        "Features": [
+            "Flame Retardant"
+        ],
+        "Application Area": [
+            "Textiles"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Wood",
+            "Paper",
+            "Textiles"
+        ],
+        "Application Method": [
+            "Spray",
+            "Roller",
+            "Size Press",
+            "Brush",
+            "Dip Coating"
+        ]
+    }
+}

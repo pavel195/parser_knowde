@@ -1,0 +1,53 @@
+{
+    "id": 351487,
+    "brand": "bucknat",
+    "name": "BuckNat®",
+    "slug": "bucknat",
+    "description": "BuckNat® is an alternative carrier to maltodextrin, it’s a gluten-free pseudo cereal (Fagopyrum esculentum). BuckNat® is a nutrient-rich healthy food clinically tested for its low glycemic index. It’s 100 % soluble powder obtained with our unique DEFS® technology system that doesn’t use chemical solvents.",
+    "company_name": "Nating Italia Srl",
+    "company_slug": "nating-italia-srl",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708687146/production/Brand/26231/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606934/production/CategoryImage/504/category_image/FoodNutrition_05.jpg",
+    "properties": {
+        "Applications": [
+            "Savory & Culinary",
+            "Bakery",
+            "Cereals & Snacks",
+            "Energy Drinks",
+            "Nutraceuticals & Supplements",
+            "Beverage",
+            "Food",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Nut & Seed Products",
+            "Flours & Grains Products",
+            "Carriers & Bulking Aids",
+            "Functional Additives",
+            "Whole Foods, Extracts & Premixes"
+        ],
+        "End Uses": [
+            "Snacks",
+            "Energy Drinks",
+            "Functional Beverages",
+            "Pasta",
+            "Cookies",
+            "Bread",
+            "Nutraceuticals"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Buckwheat"
+        ],
+        "Functions": [
+            "Carrier",
+            "Supplement",
+            "Dietary Supplement"
+        ],
+        "Labeling Claims": [
+            "Allergen-free",
+            "Gluten-free"
+        ]
+    }
+}

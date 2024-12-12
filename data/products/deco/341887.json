@@ -1,0 +1,33 @@
+{
+    "id": 341887,
+    "brand": "deco",
+    "name": "PERLAC NASTRI",
+    "slug": "perlac-nastri",
+    "description": "PERLAC NASTRI is Lubricant for conveyor belts with cleaning and sequestering properties. Vital in order to keep bottling and packaging lines working efficiently",
+    "company_name": "Perdomini IOC",
+    "company_slug": "perdomini-ioc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664290367/production/Brand/25254/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608045/production/CategoryImage/542/category_image/HomePersonalCare_08.jpg",
+    "properties": {
+        "Applications": [
+            "Processing & Packaging",
+            "Food & Beverage Manufacturing",
+            "Institutional & Industrial Care",
+            "Industrial Cleaning",
+            "Food Facility Cleaning & Sanitization"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Industrial Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Industrial Cleaners"
+        ],
+        "Features": [
+            "Contamination Protection",
+            "Excellent Lubricity"
+        ]
+    }
+}

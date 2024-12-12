@@ -1,0 +1,32 @@
+{
+    "id": 374088,
+    "brand": "essential-water-solutions-essential",
+    "name": "Oxy Natural™ 50",
+    "slug": "oxy-natural-50",
+    "description": "Oxy Natural™ 50 is our purest form of product with no additional formulas, and has the added mark of NSF Certification for those who require it.",
+    "company_name": "Essential Water Solutions",
+    "company_slug": "essential-water-solutions",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664291356/production/Brand/27962/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Power, Water & Utilities",
+            "Water Treatment"
+        ],
+        "Product Families": [
+            "Water Treatment Chemicals ",
+            "Water Treatment Additives"
+        ],
+        "Chemical Family": [
+            "Peroxides"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Peroxides"
+        ],
+        "Applicable Processes": [
+            "Sewage Treatment"
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "id": 402444,
+    "brand": "carotec",
+    "name": "Carotec TOS",
+    "slug": "carotec-tos",
+    "description": "CAROTEC TOS is a technical oleo stearine, a blend of fully hydrogenated and partially hydrogenated animal fats.",
+    "company_name": "The Seydel Companies",
+    "company_slug": "the-seydel-companies",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686132476/production/Brand/30704/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608224/production/CategoryImage/551/category_image/AgricultureFeed_07.jpg",
+    "properties": {
+        "Applications": [
+            "Animal Health & Nutrition",
+            "Other Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Nutritional Ingredients",
+            "Fats & Oils"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Oleo Stearine"
+        ],
+        "Certifications & Compliance": [
+            "ISO 9001"
+        ]
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "id": 75323,
+    "brand": "jarace-specialty-salts",
+    "name": "Actique™ Hyal Mini",
+    "slug": "actique-hyal-mini",
+    "description": "Actique™ Hyal Mini is a fermentation-derived low molecular weight sodium hyaluronate powder. As HA is mostly used in anti-aging skin care formulations, low molecular weight HA has been shown to increase the moisture level of damaged skin and accelerate damage repair. Actique™ Hyal Mini is an oligosaccharide of HA with excellent skin absorption, hydration and anti-wrinkle benefits. With a MW &lt;10,000 Da., Actique™ Hyal Mini penetrates into the stratum corneum, keeping water inside to sustain the hydration effect for 3 days or longer after application. Actique™ Hyal Mini is also known to provide a “double hydration” effect from the outside in when used with high MW sodium hyaluronate powder.",
+    "company_name": "Aurorium",
+    "company_slug": "aurorium",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709833895/production/Company/1461/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1709833895/production/Company/1461/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Color Cosmetics",
+            "Skin Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Conditioners & Emollients",
+            "Texturizers & Fillers",
+            "Skin Actives",
+            "Rheology Modifiers",
+            "Cosmetic Actives",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Sodium Hyaluronate"
+        ],
+        "End Uses": [
+            "Skin Serums",
+            "Body Cream",
+            "Body Lotion",
+            "Anti-Aging Products",
+            "Foundation",
+            "Lip Balm",
+            "Moisturizers"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Sodium Hyaluronate"
+        ],
+        "Ingredient Origin": [
+            "Synthetic",
+            "Fermentation",
+            "Non-Animal Origin"
+        ],
+        "Functions": [
+            "Absorbent",
+            "Anti-Aging Agent",
+            "Skin Barrier Protectant",
+            "Thickener",
+            "Viscosity Modifier",
+            "Moisturizing Agent"
+        ],
+        "Labeling Claims": [
+            "Credo Clean Standard",
+            "Clean at Sephora",
+            "Natural",
+            "Organic",
+            "Non-GMO",
+            "Animal Products-free",
+            "Ulta Beauty's Conscious Beauty"
+        ],
+        "Certifications & Compliance": [
+            "Organic Certified",
+            "COSMOS",
+            "ECOCERT"
+        ],
+        "Benefit Claims": [
+            "Hydrating",
+            "Skin Barrier",
+            "Anti-Aging",
+            "Anti-Wrinkle",
+            "Improves Skin Appearance",
+            "Barrier Function Improvement"
+        ]
+    }
+}

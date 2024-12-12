@@ -1,0 +1,39 @@
+{
+    "id": 318160,
+    "brand": "eurovac",
+    "name": "Eurocryl ST 2662",
+    "slug": "eurocryl-st-2662",
+    "description": "Eurocryl ST 2662 is universal binder for low-emission interior and exterior wall paints, dispersion-based plasters, concrete coatings.",
+    "company_name": "Cebra Chemie",
+    "company_slug": "cebra-chemie",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112398/production/Company/29925/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608611/production/CategoryImage/569/category_image/PaintingsCoatings_05.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Building & Construction",
+            "Decorative Paints",
+            "Architectural Coatings",
+            "Decorative Paints, Coatings & Stains",
+            "Building Envelope & Roofing",
+            "Decorative Materials & Finishes",
+            "Concrete Coatings & Stains",
+            "Building Envelope"
+        ],
+        "Product Families": [
+            "Resins & Binders",
+            "Acrylics"
+        ],
+        "Chemical Family": [
+            "Styrene-Acrylic Copolymer"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Styrene-Acrylic Copolymer"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Concrete"
+        ]
+    }
+}

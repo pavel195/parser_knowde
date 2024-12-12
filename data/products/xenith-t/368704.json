@@ -1,0 +1,32 @@
+{
+    "id": 368704,
+    "brand": "xenith-t",
+    "name": "Local™ Luo Han Guo",
+    "slug": "local-luo-han-guo",
+    "description": null,
+    "company_name": "Creative Compounds",
+    "company_slug": "creative-compounds",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672171/production/Brand/27389/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607247/production/CategoryImage/513/category_image/FoodNutrition_13.jpg",
+    "properties": {
+        "Applications": [
+            "Desserts & Fruit Preparations",
+            "Food"
+        ],
+        "Product Families": [
+            "Sweeteners & Syrups",
+            "Taste & Flavor"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Luo Han Guo"
+        ],
+        "Functions": [
+            "Nutritive Sweetener"
+        ],
+        "Labeling Claims": [
+            "Natural"
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "id": 427888,
+    "brand": "aquadry",
+    "name": "Avitoxin®",
+    "slug": "avitoxin",
+    "description": "Avitoxin is a nutritional supplement for poultry. Avitoxin is a blend of acids and yeast extracts for a full security of the digestive tract of poultry. The acid combination in AVITOXIN will lower the pH in the gastrointestinal tract, limiting the proliferation of harmful bacteria.",
+    "company_name": "Aquavial",
+    "company_slug": "aquavial",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708529837/production/Brand/34120/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608161/production/CategoryImage/546/category_image/AgricultureFeed_02.jpg",
+    "properties": {
+        "Applications": [
+            "Birds & Poultry",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Feed Supplements",
+            "Nutritional Ingredients"
+        ]
+    },
+    "summary": {
+        "Features": [
+            "Promotes Digestive Health",
+            "Improves Body Weight Gain",
+            "Promotes Healthy Gastrointestinal Environment",
+            "Improves Feed Conversion Ratio"
+        ]
+    }
+}

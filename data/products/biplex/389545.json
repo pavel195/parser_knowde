@@ -1,0 +1,40 @@
+{
+    "id": 389545,
+    "brand": "biplex",
+    "name": "Bicell®",
+    "slug": "bicell",
+    "description": "Bicell® is an extruded polypropylene sheet, consisting of several layers. The cell structure is the core of this sheet. Its main characteristics are high flexural resistance and a high compression strength.",
+    "company_name": "Industrial Plastics Belgium (IPB NV)",
+    "company_slug": "industrial-plastics-belgium-ipb-nv",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691739940/production/Brand/29286/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607422/production/CategoryImage/517/category_image/ElectricalElectronics_02.jpg",
+    "properties": {
+        "Applications": [
+            "Equipment & Parts",
+            "Non-Food Consumer Packaging",
+            "Industrial & Transport Packaging",
+            "Other Flooring & Surface Applications",
+            "Furniture",
+            "Exterior & Body",
+            "Structural Components",
+            "Building Materials",
+            "Flooring & Surfaces",
+            "Packaging",
+            "Chemical & Industrial Manufacturing",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Polymer Name": [
+            "Polypropylene Copolymer"
+        ],
+        "End Uses": [
+            "Structural Parts",
+            "Protective Coverings",
+            "Furniture",
+            "Flooring"
+        ]
+    },
+    "summary": {}
+}

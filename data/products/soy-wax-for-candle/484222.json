@@ -1,0 +1,39 @@
+{
+    "id": 484222,
+    "brand": "soy-wax-for-candle",
+    "name": "Concession Oils Golden Canola",
+    "slug": "concession-oils-golden-canola",
+    "description": "Concession Oils Golden Canola is a premium and versatile fat and oil ingredient that is widely used in the food and nutrition industry, particularly in bakery applications. This canola oil serves as a healthier alternative to traditional fats and oils, offering a rich buttery flavor that enhances the taste of various products. With its allergen-free and GMO-free labeling claims, Golden Canola meets the requirements of health-conscious consumers. It is also certified kosher and complies with The Food Allergen Labeling and Consumer Protection Act of 2004 (FALCPA) regulations. Golden Canola is available in a variety of packaging options, including boxes, bags, bulk, drums, totes, and pails, providing convenience and flexibility in storage and usage. The ingredient list includes canola oil, beta-carotene, natural and artificial flavors, as well as tertiary butylhydroquinone (TBHQ) and polydimethylsiloxane.",
+    "company_name": "Gateway Food Products Company",
+    "company_slug": "gateway-food-products-company",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708108089/production/Company/46005/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708108089/production/Brand/38611/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Bakery",
+            "Food"
+        ],
+        "Product Families": [
+            "Edible Oils & Fats",
+            "Whole Foods, Extracts & Premixes"
+        ],
+        "Flavor Family": [
+            "Butter & Fat Flavors"
+        ],
+        "End Uses": [
+            "Popcorn"
+        ]
+    },
+    "summary": {
+        "Labeling Claims": [
+            "Allergen-free",
+            "Kosher",
+            "GMO-free"
+        ],
+        "Certifications & Compliance": [
+            "SQF Certified",
+            "The Food Allergen Labeling & Consumer Protection Act of 2004 (FALCPA)",
+            "Kosher"
+        ]
+    }
+}

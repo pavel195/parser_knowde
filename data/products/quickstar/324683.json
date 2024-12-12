@@ -1,0 +1,49 @@
+{
+    "id": 324683,
+    "brand": "quickstar",
+    "name": "Quickstar™ 750H",
+    "slug": "quickstar-750h",
+    "description": "Quickstar™ 750H is low molecular weight dendrimeric polyol with aliphatic derivatization. Excellent for high solids or 100% solids systems. Excellent chemical resistance, hardness and abrasion resistance.",
+    "company_name": "Instrumental Polymer Technologies",
+    "company_slug": "instrumental-polymer-technologies",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686148600/production/Brand/23183/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608630/production/CategoryImage/571/category_image/PaintingsCoatings_07.jpg",
+    "properties": {
+        "Applications": [
+            "Packaging Coatings",
+            "Primers & Lacquers",
+            "Other Adhesives & Sealants Applications",
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Monomers & Intermediates",
+            "Prepolymers & Polyols"
+        ],
+        "Chemical Family": [
+            "Polyols"
+        ],
+        "End Uses": [
+            "Solventborne Coating",
+            "Solventless & High Solids Coating"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Polyols"
+        ],
+        "End Uses": [
+            "Solventborne Coating",
+            "Solventless & High Solids Coating"
+        ],
+        "Viscosity": [
+            "2000.0 - 2000.0 cps"
+        ],
+        "Features": [
+            "Improved Hardness",
+            "Water Resistance",
+            "Excellent Adhesion",
+            "Abrasion Resistance",
+            "Chemical Resistance"
+        ]
+    }
+}

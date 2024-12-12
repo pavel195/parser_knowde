@@ -1,0 +1,31 @@
+{
+    "id": 509693,
+    "brand": "bio-active-a50c869c-32e4-473d-85b9-56a7e0214232",
+    "name": "Pharm-Rx Cat’s Claw Extract",
+    "slug": "pharm-rx-chemical-corp-cat-s-claw-extract",
+    "description": null,
+    "company_name": "Pharm-Rx Chemical Corp.",
+    "company_slug": "pharm-rx",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto/v1724132456/production/Company/102900/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1724132456/production/Company/102900/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Phytochemicals",
+            "Phytochemicals & Plant Extracts",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "Ingredient Name": [
+            "Cat's Claw Extract"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Cat's Claw Extract"
+        ]
+    }
+}

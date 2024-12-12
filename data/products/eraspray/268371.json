@@ -1,0 +1,37 @@
+{
+    "id": 268371,
+    "brand": "eraspray",
+    "name": "Eralease W",
+    "slug": "eralease-w",
+    "description": "Eralease W is a paste product extensively used in the conditioning of molds prior to mold release application. Its hard dry film is an excellent base for any conventional solvent borne release agents on all mold surfaces.",
+    "company_name": "Era Polymers",
+    "company_slug": "era-polymers",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708691462/production/Company/20716/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Other Industrial Applications",
+            "Other Electrical & Electronics Applications",
+            "Other Consumer Goods Applications",
+            "Other Building & Construction Applications"
+        ],
+        "Product Families": [
+            "Performance Additives",
+            "Processing Aids",
+            "Polymer Additives",
+            "Elastomer Additives"
+        ],
+        "Chemical Family": [
+            "Waxes"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Mold Release Agent",
+            "Release Agent"
+        ],
+        "Chemical Family": [
+            "Waxes"
+        ]
+    }
+}

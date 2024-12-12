@@ -1,0 +1,39 @@
+{
+    "id": 412329,
+    "brand": "adhere",
+    "name": "IntraCrop Inferno",
+    "slug": "intracrop-inferno",
+    "description": "Inferno improves the deposition and retention of spray droplets, and is an effective pH buffer, water conditioner and anti-foam. Inferno significantly reduces the number of spray droplets under 100 microns, reducing spray drift by up to 75%. Additional studies demonstrated less glyphosate drift at 70cm with Inferno compared with glyphosate alone at 50cm (Source: Silsoe trials 2019), improving product performance and environmental profile. Inferno softens hard water by effective and rapid sequestration of Ca2+ and Mg2+. These hard water cations are bound and rendered unavailable in a soluble form.",
+    "company_name": "IntraCrop",
+    "company_slug": "intracrop",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708688308/production/Company/54991/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608150/production/CategoryImage/545/category_image/AgricultureFeed_01.jpg",
+    "properties": {
+        "Applications": [
+            "Other Agricultural Crops",
+            "Agricultural Crops"
+        ],
+        "Product Families": [
+            "pH Control",
+            "Drift Control, Foam Markers & Thickeners",
+            "Water Conditioners & Softeners",
+            "Defoamers",
+            "Adjuvants & Formulation Ingredients",
+            "Plant Health, Nutrients & Soil Management"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Defoamer",
+            "Water Conditioner",
+            "Drift Control Agent",
+            "Buffers & pH Stabilizer"
+        ],
+        "Application Technique": [
+            "Sprayers"
+        ],
+        "Labeling Claims": [
+            "Non-Flammable"
+        ]
+    }
+}

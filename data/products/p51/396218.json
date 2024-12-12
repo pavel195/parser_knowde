@@ -1,0 +1,44 @@
+{
+    "id": 396218,
+    "brand": "p51",
+    "name": "P50™",
+    "slug": "p50",
+    "description": "P50™ is a metalized diamond like carbon based proprietary coating.",
+    "company_name": "United Protective",
+    "company_slug": "united-protective",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664291983/production/Company/50320/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Automotive ",
+            "Powertrain & UTH",
+            "Military & Defense",
+            "Advanced Materials",
+            "Decorative Materials & Finishes",
+            "Decorative Paints, Coatings & Stains"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Other Paints & Coatings"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Coating"
+        ],
+        "Application Areas": [
+            "Firearms",
+            "Rollers",
+            "Bearings",
+            "Valves"
+        ],
+        "Features": [
+            "Ductile",
+            "Excellent Lubricity",
+            "High Elasticity"
+        ],
+        "Application Method": [
+            "PVD (Physical Vapour Deposition)"
+        ]
+    }
+}

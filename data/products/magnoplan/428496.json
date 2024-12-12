@@ -1,0 +1,34 @@
+{
+    "id": 428496,
+    "brand": "magnoplan",
+    "name": "Plan Arom®",
+    "slug": "plan-arom",
+    "description": "Plan Arom® contains natural and nature-identical aroma oils that are distinguished by their antimicrobial and antifungal effects. It has a positive effect on feed intake and conversion and strengthens the immune system.",
+    "company_name": "Agraplan Farmaca B.V.",
+    "company_slug": "agraplan-farmaca-b-v",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708684225/production/Brand/34008/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608173/production/CategoryImage/547/category_image/AgricultureFeed_03.jpg",
+    "properties": {
+        "Applications": [
+            "Birds & Poultry",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Antifungals & Antimicrobials",
+            "Feed Preservation"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Anti-Microbial Agent",
+            "Anti-Fungal Agent"
+        ],
+        "Labeling Claims": [
+            "Natural"
+        ],
+        "Features": [
+            "Improves Feed Intake",
+            "Improves Immunity"
+        ]
+    }
+}

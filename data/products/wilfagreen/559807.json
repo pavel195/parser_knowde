@@ -1,0 +1,52 @@
+{
+    "id": 559807,
+    "brand": "wilfagreen",
+    "name": "Ercanol C 16 V",
+    "slug": "ercanol-c-16-v-3m0080",
+    "description": "<p>Ercanol C 16 V (3M0080) is a flake-form ingredient used in various application formats, including creams, masks, leave-on products, rinse-off formulations, and wipes. It functions as an emulsion stabilizer and viscosity promoter, enhancing both the stability and thickness of formulations.</p>",
+    "company_name": "wilmar",
+    "company_slug": "wilmar",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1722416674/production/Company/33927/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625604505/production/CategoryImage/418/category_image/AnimalFeed_01.jpg",
+    "properties": {
+        "Applications": [
+            "Other Personal Hygiene Applications",
+            "Baby Care",
+            "Wipes, Tissue & Towel",
+            "Skin Care",
+            "AP/Deo",
+            "Hand Hygiene",
+            "Sun Care",
+            "Hair Care",
+            "Beauty & Care",
+            "Personal Hygiene"
+        ],
+        "Product Families": [
+            "Stabilizers",
+            "Rheology Modifiers",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Cetyl Alcohol"
+        ],
+        "End Uses": [
+            "Facial Mask",
+            "Wet Wipes",
+            "Hair Color",
+            "Deodorants",
+            "Hair Removal Products",
+            "Moisturizers",
+            "Hair Creams",
+            "Hair Conditioner"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Cetyl Alcohol"
+        ],
+        "Benefit Claims": [
+            "Emulsion Stabilizer",
+            "Viscosity Boosting"
+        ]
+    }
+}

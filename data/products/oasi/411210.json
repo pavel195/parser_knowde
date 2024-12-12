@@ -1,0 +1,32 @@
+{
+    "id": 411210,
+    "brand": "oasi",
+    "name": "OASI N 11 S 15",
+    "slug": "oasi-n-11-s-15",
+    "description": "OASI N 11 S 15 contains 3 forms of nitrogen which are mixed in a balanced ratio (organic, urea, ammoniacal) to obtain a very efficient fertilizer for the stimulation of vegetative growth. It also contains organic carbon and vegetal peptides for better plant development and yield increase. The sulfur content improves the quality of the harvest and the presence of both organic and chemical nitrogen reduces the number of applications. This fertilizer guarantees quick absorption at both the foliar and the root levels.",
+    "company_name": "HELLO NATURE",
+    "company_slug": "hello-nature",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672512/production/Brand/31992/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608200/production/CategoryImage/549/category_image/AgricultureFeed_05.jpg",
+    "properties": {
+        "Applications": [
+            "Sugar & Starch Crops",
+            "Fruits",
+            "Vegetables",
+            "Agricultural Crops"
+        ],
+        "Product Families": [
+            "Fertilizers & Nutrients",
+            "Plant Health, Nutrients & Soil Management"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Fertilizer"
+        ],
+        "Application Technique": [
+            "Foliage Applied",
+            "Chemigation"
+        ]
+    }
+}

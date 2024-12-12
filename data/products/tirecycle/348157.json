@@ -1,0 +1,46 @@
+{
+    "id": 348157,
+    "brand": "tirecycle",
+    "name": "Tirecycle™ MBS-800",
+    "slug": "tirecycle-mbs-800",
+    "description": "Tirecycle™ MBS-800 is Particulate for thermoplastic applications. An upcycled, rejuvenated crumb rubber. It is impermeable to water or oxygen. It has good tensile strength, excellent aging/weather resistance, low stain, low electrical conductivity. It is odorless and highly stable.",
+    "company_name": "NorthStar Elastomers",
+    "company_slug": "northstar-elastomers",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704100317/production/Brand/25993/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608962/production/CategoryImage/587/category_image/AdhesivesSealants_04.jpg",
+    "properties": {
+        "Applications": [
+            "Tape & Label Adhesives",
+            "Pavement, Highways, Roads & Bridges",
+            "Tapes & Labels",
+            "Other Adhesives & Sealants Applications",
+            "Packaging & Paper",
+            "Infrastructure, Roads & Paving",
+            "Tapes, Labels & Adhesives"
+        ],
+        "Product Families": [
+            "Other Resins & Binders",
+            "Resins & Binders"
+        ],
+        "End Uses": [
+            "Asphalt",
+            "Pressure Sensitive Adhesive",
+            "Hot Melt Adhesive"
+        ]
+    },
+    "summary": {
+        "End Uses": [
+            "Pressure Sensitive Adhesive",
+            "Hot Melt Adhesive",
+            "Asphalt"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Asphalt",
+            "Elastomers & Rubbers"
+        ],
+        "Features": [
+            "High Impact Resistance",
+            "Good Elongation"
+        ]
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "id": 384797,
+    "brand": "par-group-peek",
+    "name": "Nylon 6 Flame Retardant Sheet",
+    "slug": "nylon-6-flame-retardant-sheet",
+    "description": "PAR Group Nylon 6 Flame Retardant Sheet retains the same mechanical properties of regular nylon 6 while adding the benefit of being flame retardant. It has been tested to the new EU rail vehicle standard (DIN EN 45545-2:2013) and is rated to UL94 V-0. It's low density also provides significant weight benefits in comparison to other materials such as steel.",
+    "company_name": "PAR Group",
+    "company_slug": "par-group",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686150135/production/Brand/28822/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Parts & Components",
+            "Marine",
+            "Rail & Mass Transit",
+            "Conduits & Cable Management",
+            "Aerospace & Aviation",
+            "Transportation"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Polyamides"
+        ],
+        "Polymer Name": [
+            "Polyamide 6 (PA 6)"
+        ],
+        "End Uses": [
+            "Marine Applications",
+            "Conduit",
+            "Aerospace Applications"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyamide 6 (PA 6)"
+        ],
+        "Physical Form": [
+            "Sheets"
+        ],
+        "Features": [
+            "Low Density",
+            "Flame Retardant"
+        ],
+        "Density": [
+            "1170.0 - 1170.0 kg/m³"
+        ],
+        "Tensile Modulus": [
+            "3800.0 - 3800.0 MPa"
+        ]
+    }
+}

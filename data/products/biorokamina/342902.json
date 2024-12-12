@@ -1,0 +1,83 @@
+{
+    "id": 342902,
+    "brand": "biorokamina",
+    "name": "BioROKAMINA K40HC MB (Cocamidopropyl Betaine)",
+    "slug": "biorokamina-k40hc-mb-cocamidopropyl-betaine",
+    "description": "BioROKAMINA K40HC MB (Cocamidopropyl Betaine) is a Personal care product, Detergent.",
+    "company_name": "PCC Exol SA",
+    "company_slug": "pcc-exol-sa",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708684441/production/Brand/25356/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515713/production/CategoryImage/1060/category_image/PersonalCare_02.jpg",
+    "properties": {
+        "Applications": [
+            "Hand Hygiene",
+            "Bath & Shower",
+            "Skin Care",
+            "Hair Care",
+            "Oral Care",
+            "Baby Care",
+            "Beauty & Care",
+            "Personal Hygiene"
+        ],
+        "Product Families": [
+            "Amphoteric Surfactants",
+            "Surfactants & Cleansers"
+        ],
+        "Chemical Family": [
+            "Vegetable Oils"
+        ],
+        "INCI Name": [
+            "Cocamidopropyl Betaine"
+        ],
+        "End Uses": [
+            "Hand Soap",
+            "Facial Cleanser",
+            "Hair Conditioner",
+            "Shampoos & Rinses",
+            "Shower Gels",
+            "Bubble Bath",
+            "Baby Shampoo"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Cocamidopropyl Betaine"
+        ],
+        "Functions": [
+            "Surfactant",
+            "Surfactant (Amphoteric)"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin"
+        ],
+        "Labeling Claims": [
+            "Halal",
+            "Environmentally Friendly",
+            "Vegan",
+            "Bio-based",
+            "Paraben-free",
+            "Credo Clean Standard",
+            "Organic",
+            "GMO-free",
+            "Biodegradable",
+            "Natural",
+            "Confirms to ECO-Label",
+            "Clean at Sephora",
+            "Kosher",
+            "Naturally Derived",
+            "Ulta Beauty's Conscious Beauty"
+        ],
+        "Certifications & Compliance": [
+            "Halal",
+            "EFfCI GMP Certified",
+            "ISO 45001",
+            "ISO 14001",
+            "COSMOS",
+            "ISO 9001",
+            "ECOCERT",
+            "ISO 50001",
+            "Organic Certified",
+            "Kosher"
+        ]
+    }
+}

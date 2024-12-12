@@ -1,0 +1,50 @@
+{
+    "id": 347866,
+    "brand": "cablefill",
+    "name": "SuperOhm® 3753",
+    "slug": "superohm-3753",
+    "description": "Off-white colorable, flame retardant, low voltage composition in pellet form, EPDM-rubber based and  containing peroxide curing agent, ready for extrusion in a conventional CV line. ",
+    "company_name": "Electric Cable Compounds",
+    "company_slug": "electric-cable-compounds",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112967/production/Brand/23151/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1686112967/production/Brand/23151/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Wire & Cable",
+            "Power, Water & Utilities",
+            "Jacketing & Insulation",
+            "Exploration & Upstream",
+            "Electrical Protection",
+            "Power Transmission & Distribution",
+            "Oil, Gas & Mining"
+        ],
+        "Product Families": [
+            "Thermoset Elastomers",
+            "EP Rubbers (EPDM)"
+        ],
+        "Chemical Family": [
+            "Ethylene-Propylene Copolymers (EPR)"
+        ],
+        "Polymer Name": [
+            "Ethylene Propylene Copolymer"
+        ],
+        "End Uses": [
+            "Industrial Cable Jacketing",
+            "Cables",
+            "Wires",
+            "Medium Voltage Insulation",
+            "Industrial Cable Insulation"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Ethylene Propylene Copolymer"
+        ],
+        "Processing Methods": [
+            "Extrusion"
+        ],
+        "Density": [
+            "1200.0 - 1240.0 kg/m³"
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "id": 218349,
+    "brand": "resafen-phenolics",
+    "name": "EPOTUF® 38-690",
+    "slug": "epotuf-38-690",
+    "description": "EPOTUF® 38-690 is an epoxy ester solution which, when neutralized with an organic amine, can be formulated into VOC-compliant, water-based primers and enamels for air dry and bake applications",
+    "company_name": "Reichhold",
+    "company_slug": "reichhold",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1703114374/production/Company/8897/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608640/production/CategoryImage/572/category_image/PaintingsCoatings_08.jpg",
+    "properties": {
+        "Applications": [
+            "Primers & Lacquers",
+            "Metal Coatings",
+            "Industrial Maintenance",
+            "Industrial Coatings",
+            "Packaging Coatings"
+        ],
+        "Product Families": [
+            "Epoxies",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal"
+        ],
+        "Features": [
+            "Excellent Adhesion",
+            "Improved Hardness"
+        ]
+    }
+}

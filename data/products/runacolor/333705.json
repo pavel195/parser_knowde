@@ -1,0 +1,30 @@
+{
+    "id": 333705,
+    "brand": "runacolor",
+    "name": "RUNACOLOR® WU",
+    "slug": "runacolor-wu",
+    "description": "Runacolor® WU is the range is characterized by the universal compatibility of the pigment preparations and consists of high-quality aqueous, solvent-free and solvent-containing pigment preparations for paints, adhesives, sealants and construction chemical products. RUNACOLOR -WU is for aqueous systems..",
+    "company_name": "ISL-Chemie",
+    "company_slug": "isl-chemie",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697222671/production/Brand/24582/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608760/production/CategoryImage/576/category_image/AutomotiveTransportation_04.jpg",
+    "properties": {
+        "Applications": [
+            "Architectural Coatings",
+            "Industrial Coatings",
+            "Other Building & Construction Applications",
+            "Building Envelope",
+            "Building & Construction",
+            "Building Envelope & Roofing"
+        ],
+        "Product Families": [
+            "Color Pigments",
+            "Pigments & Colorants"
+        ],
+        "End Uses": [
+            "Waterborne Coating",
+            "Solventborne Coating"
+        ]
+    },
+    "summary": {}
+}

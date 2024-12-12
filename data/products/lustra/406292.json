@@ -1,0 +1,41 @@
+{
+    "id": 406292,
+    "brand": "lustra",
+    "name": "Lustra® Specialty Cleaner 280",
+    "slug": "lustra-specialty-cleaner-280",
+    "description": "Lustra® Specialty Cleaner 280 is an ultra-concentrated liquid component of alkaline cleaners for any type of car washes. Intended to use together with Ultraflex® Alkaline Bases, but can be used alone as a specialty cleaner in friction applications. Contains highly effective surfactants, solvents and pine oil for maximum cleaning of car surfaces. The product is optimized for quick penetration of road film and emulsification of oil components in the dirt on the car surface.",
+    "company_name": "NCS Chemistry by CSI",
+    "company_slug": "ncs-chemistry-by-csi",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292313/production/Brand/31270/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515575/production/CategoryImage/1049/category_image/HII_01.jpg",
+    "properties": {
+        "Applications": [
+            "Home Care",
+            "Institutional & Industrial Care",
+            "Auto Care",
+            "Surface Care",
+            "Vehicle & Machinery"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Commercial Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Alkaline Cleaners",
+            "Cleaner"
+        ],
+        "Application Areas": [
+            "Car"
+        ],
+        "Certifications & Compliance": [
+            "SARA 313",
+            "California Proposition 65"
+        ],
+        "Features": [
+            "High Foaming",
+            "Good Penetration"
+        ]
+    }
+}

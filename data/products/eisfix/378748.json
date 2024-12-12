@@ -1,0 +1,47 @@
+{
+    "id": 378748,
+    "brand": "eisfix",
+    "name": "Anona GmbH Milk base CPB 100",
+    "slug": "anona-gmbh-milk-base-cpb-100",
+    "description": "Anona Milk base CPB 100 is creamy, with vegetable fat &amp; is neutrally flavored. It has good volume increase &amp; shelf life. It is for warm and cold applications. Suitable for Bergeis in warm applications &amp; suitable for all types. The Ingredients includes 100 gram milk base CPB 100 + 1 liter whole milk (3.5 %) + 250 gram sugar + flavoring agents..",
+    "company_name": "Anona GmbH",
+    "company_slug": "anona-gmbh",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686108875/production/Company/45218/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607098/production/CategoryImage/501/category_image/FoodNutrition_02.jpg",
+    "properties": {
+        "Applications": [
+            "Food",
+            "Dairy",
+            "Desserts & Fruit Preparations"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Dairy Products",
+            "Food Premixes"
+        ],
+        "End Uses": [
+            "Ice Cream",
+            "Dessert Premixes",
+            "Frozen Soft Serve"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Vegetable Fat"
+        ],
+        "Labeling Claims": [
+            "Gluten-free"
+        ],
+        "Features": [
+            "High Quality",
+            "Enhanced Shelf Life",
+            "Creamy Mouthfeel",
+            "Ready-To-Use"
+        ],
+        "End Uses": [
+            "Frozen Soft Serve",
+            "Dessert Premixes",
+            "Ice Cream"
+        ]
+    }
+}

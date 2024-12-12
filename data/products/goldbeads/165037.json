@@ -1,0 +1,98 @@
+{
+    "id": 165037,
+    "brand": "goldbeads",
+    "name": "MASCID® 1802",
+    "slug": "mascid-1802",
+    "description": "MASCID® 1802 stearic acid is derived from sustainable palm oil and is COSMOS-approved, vegan, non-GMO, and non-allergenic. Applications include emollients, emulsifiers, stabilizers, and conditioners (in creams, lotions, shampoos, and body washes). With excellent refatting, smoothing, and anti-irritating properties, it makes perfect applications in skin, sun, hair, and lip care. Other applications include a rheology modifier for high-quality formulation creations.\r\n",
+    "company_name": "Musim Mas Group",
+    "company_slug": "musim-mas-group",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1710921494/production/Brand/11174/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1710921494/production/Product/165037/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Chemical Manufacturing",
+            "Hair Care",
+            "Skin Care",
+            "Sun Care",
+            "Wipes, Tissue & Towel",
+            "Bath & Shower",
+            "Chemical & Industrial Manufacturing",
+            "Beauty & Care",
+            "Personal Hygiene"
+        ],
+        "Product Families": [
+            "Skin Actives",
+            "Conditioners & Emollients",
+            "Stabilizers",
+            "Solvents & Carriers",
+            "Sensory Modifiers",
+            "Rheology Modifiers",
+            "Emulsifiers, Solubilizers & Dispersants",
+            "Cosmetic Actives",
+            "Functionals"
+        ],
+        "Chemical Family": [
+            "Fatty Acids",
+            "Acids"
+        ],
+        "INCI Name": [
+            "Stearic Acid"
+        ],
+        "End Uses": [
+            "Body Cream",
+            "Body Lotion",
+            "Baby Sunscreen",
+            "Baby Wipes",
+            "Bar Soaps",
+            "Shampoos & Rinses"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Stearic Acid"
+        ],
+        "Functions": [
+            "Conditioner",
+            "Stabilizer",
+            "Anti-Irritant",
+            "Emulsion Stabilizer",
+            "Carrier",
+            "Softener",
+            "Emollient",
+            "Emulsifier",
+            "Anti-Static Agent",
+            "Viscosity Modifier"
+        ],
+        "Ingredient Origin": [
+            "Oleochemical",
+            "Synthetic"
+        ],
+        "Labeling Claims": [
+            "Credo Clean Standard",
+            "Clean at Sephora",
+            "Kosher",
+            "Organic",
+            "Ulta Beauty's Conscious Beauty",
+            "Halal"
+        ],
+        "Certifications & Compliance": [
+            "EU Cosmetic Regulation 1223/2009 Compliant",
+            "Gluten-free",
+            "RSPO MassBalance Certified",
+            "ISO 9001",
+            "Organic Certified",
+            "ISO 14001",
+            "Kosher",
+            "COSMOS",
+            "EFfCI GMP Certified",
+            "Prop 65 Compliant",
+            "Vegan",
+            "FSSC 22000",
+            "REACH (Europe)",
+            "IECIC (China)",
+            "ECOCERT",
+            "Halal",
+            "United States Pharmacopeia (USP)"
+        ]
+    }
+}

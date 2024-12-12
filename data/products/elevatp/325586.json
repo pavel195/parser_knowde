@@ -1,0 +1,43 @@
+{
+    "id": 325586,
+    "brand": "elevatp",
+    "name": "ModCarb®",
+    "slug": "modcarb",
+    "description": "ModCarb® is formulated from six organic, gluten free grains — oats, amaranth, buckwheat, chia, millet and quinoa. ModCarb® is unique from other grains because it undergoes a unique, mechanical (non-enzymatic) process that shatters the tough cell wall and liberates the highly soluble matrix of nutrients, creating a free-flowing hydrocolloid-like material.",
+    "company_name": "VDF/FutureCeuticals",
+    "company_slug": "vdf-futureceuticals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697222556/production/Company/29429/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606961/production/CategoryImage/506/category_image/FoodNutrition_07.jpg",
+    "properties": {
+        "Applications": [
+            "Dairy Substitutes",
+            "Cereals & Snacks",
+            "Other Food Applications",
+            "Other Non-Alcoholic Beverages",
+            "Convenience Foods",
+            "Sports Drinks",
+            "Functional Foods",
+            "Sports Nutrition",
+            "Beverage",
+            "Food",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Flours & Grains Products",
+            "Whole Foods, Extracts & Premixes"
+        ],
+        "End Uses": [
+            "Protein Bars",
+            "Nutritional Bars",
+            "Snacks",
+            "Cereal Bars",
+            "Breakfast Cereals",
+            "Plant Based Dairy Alternatives",
+            "Meal Replacers",
+            "Sports Nutrition",
+            "Sports Drinks",
+            "Energy Bars"
+        ]
+    },
+    "summary": {}
+}

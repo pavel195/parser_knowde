@@ -1,0 +1,91 @@
+{
+    "id": 208618,
+    "brand": "seboclear",
+    "name": "DEFENSIL® PLUS First Aid for Inflamed Skin",
+    "slug": "defensil-plus-first-aid-for-inflamed-skin",
+    "description": "DEFENSIL®-PLUS is a highly effective first-aid kit to alleviate stressed, sensitive and irritable skin. The outstanding properties of blackcurrant seed oil and balloon vine extract in combination with sunflower oil concentrate effectively reduce inflammatory processes and replenish the damaged skin barrier.\nDEFENSIL®-PLUS soothes various forms of skin irritation; acute irritation as a result of razor burn, or from mosquito bites are both significantly reduced. Chemically irritated skin also is protected and gently regenerated. In summary, DEFENSIL®-PLUS markedly relieves dry, itchy, allergy-prone\nskin and gives those plagued by eczema a new lease of life. ",
+    "company_name": "RAHN",
+    "company_slug": "rahn",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708698646/production/Product/208618/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708698646/production/Product/208618/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Skin Care",
+            "Treatment Products",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Botanical Ingredients & Extracts",
+            "Skin Actives",
+            "Sensory Modifiers",
+            "Cosmetic Actives",
+            "Vitamins, Extracts & Oils",
+            "Functionals"
+        ],
+        "Chemical Family": [
+            "Plant Extracts"
+        ],
+        "INCI Name": [
+            "Cardiospermum Halicacabum Flower/Leaf/Vine Extract",
+            "Helianthus Annuus (Sunflower) Seed Oil Unsaponifiables",
+            "Octyldodecanol",
+            "Ribes Nigrum (Black Currant) Seed Oil",
+            "Rosmarinus Officinalis (Rosemary) Leaf Extract",
+            "Tocopherol"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Helianthus Annuus (Sunflower) Seed Oil Unsaponifiables",
+            "Ribes Nigrum (Black Currant) Seed Oil",
+            "Tocopherol",
+            "Cardiospermum Halicacabum Flower/Leaf/Vine Extract",
+            "Rosmarinus Officinalis (Rosemary) Leaf Extract",
+            "Octyldodecanol"
+        ],
+        "Ingredient Origin": [
+            "Plant Origin",
+            "Natural Origin",
+            "Non-Animal Origin"
+        ],
+        "Functions": [
+            "Anti-Inflammatory",
+            "Protective Agent",
+            "Soothing Agent",
+            "Anti-Aging Agent"
+        ],
+        "Labeling Claims": [
+            "BSE-free",
+            "Nanomaterials-free",
+            "Credo Clean Standard",
+            "Clean at Sephora",
+            "Biodegradable",
+            "Naturally Derived",
+            "Non-Irritant",
+            "Natural",
+            "Vegan",
+            "Non-Carcinogenic",
+            "Organic",
+            "Non-GMO",
+            "Non-Mutagenic",
+            "Non-Toxic",
+            "Gluten-free",
+            "Non-Phototoxic"
+        ],
+        "Certifications & Compliance": [
+            "ISO 22716",
+            "Organic Certified",
+            "COSMOS",
+            "NaTrue",
+            "ECOCERT",
+            "Halal"
+        ],
+        "Benefit Claims": [
+            "Anti-Aging",
+            "Soothing",
+            "Anti-Inflammatory",
+            "Non-Sensitizing",
+            "Barrier Function Improvement"
+        ]
+    }
+}

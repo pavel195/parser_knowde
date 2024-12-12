@@ -1,0 +1,33 @@
+{
+    "id": 375046,
+    "brand": "oleobiotec",
+    "name": "Veo®",
+    "slug": "veo",
+    "description": "Veo® is a plant extract blend used to regulate animal appetite.",
+    "company_name": "Probiotech International",
+    "company_slug": "probiotech-international",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708529664/production/Brand/28084/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608224/production/CategoryImage/551/category_image/AgricultureFeed_07.jpg",
+    "properties": {
+        "Applications": [
+            "Swine",
+            "Ruminants",
+            "Birds & Poultry",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Feed Supplements",
+            "Nutritional Ingredients"
+        ],
+        "Chemical Family": [
+            "Plant Extracts"
+        ]
+    },
+    "summary": {
+        "Animal Species": [
+            "Piglets",
+            "Swine",
+            "Sows"
+        ]
+    }
+}

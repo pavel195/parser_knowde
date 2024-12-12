@@ -1,0 +1,35 @@
+{
+    "id": 379691,
+    "brand": "nutrispar",
+    "name": "DLG Food Oil FreshFoss",
+    "slug": "dlg-food-oil-freshfoss",
+    "description": "DLG Food Oil FreshFoss decreases heat build-up in the feed ration. This is especially true when adding water to the ration and during hot weather. In hot summer, Make sure you're using high-quality feed, and add FreshFoss before the temperature of the feed starts to climb.",
+    "company_name": "DLG Food Oil",
+    "company_slug": "dlg-food-oil",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686126432/production/Company/45689/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608150/production/CategoryImage/545/category_image/AgricultureFeed_01.jpg",
+    "properties": {
+        "Applications": [
+            "Animal Health & Nutrition",
+            "Ruminants",
+            "Feed Preservation"
+        ],
+        "Product Families": [
+            "Sequestrants",
+            "Feed Preservation"
+        ]
+    },
+    "summary": {
+        "Labeling Claims": [
+            "Non-Toxic"
+        ],
+        "Physical Form": [
+            "Powder",
+            "Solid"
+        ],
+        "Features": [
+            "Reduces Heat Stress",
+            "Improve Feed Palatability "
+        ]
+    }
+}

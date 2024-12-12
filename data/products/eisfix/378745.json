@@ -1,0 +1,43 @@
+{
+    "id": 378745,
+    "brand": "eisfix",
+    "name": "Eisfix PREMIUM",
+    "slug": "eisfix-premium",
+    "description": "Eisfix Premium is a dark brown and creamy premium soft ice cream with an intense chocolate flavor (dark chocolate) and a creamy premium white soft ice cream with a milk and cream flavor (white cream). It is ideal for all soft ice cream machines. The Ingredients includes 1 sachet at 1.5 kg + 3 liter of drinking water.",
+    "company_name": "Anona GmbH",
+    "company_slug": "anona-gmbh",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686108942/production/Brand/28300/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607098/production/CategoryImage/501/category_image/FoodNutrition_02.jpg",
+    "properties": {
+        "Applications": [
+            "Food",
+            "Dairy",
+            "Desserts & Fruit Preparations"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Food Premixes"
+        ],
+        "Flavor Family": [
+            "Chocolate Flavors",
+            "Dairy Flavors"
+        ],
+        "End Uses": [
+            "Ice Cream",
+            "Dessert Premixes",
+            "Frozen Soft Serve"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Cream Mix"
+        ],
+        "Features": [
+            "Soft Texture",
+            "High Quality",
+            "Enhanced Shelf Life",
+            "Ready-To-Use",
+            "Creamy Mouthfeel"
+        ]
+    }
+}

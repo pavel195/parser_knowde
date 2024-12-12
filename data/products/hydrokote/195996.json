@@ -1,0 +1,47 @@
+{
+    "id": 195996,
+    "brand": "hydrokote",
+    "name": "Capmul® GMO-50 EP/NF",
+    "slug": "capmul-gmo-50-ep-nf",
+    "description": "Capmul® GMO-50 EP/NF (Glyceryl Monooleate) is a mixture of monoglycerides, mainly glyceryl monooleate, together with variable quantities of diglycerides and triglycerides. The nominal content of monoglycerides is 60%. It is obtained by partial glycerolysis of vegetable oil that consists mainly of triglycerides of oleic acid, or by esterification of glycerol with oleic acid of vegetable origin. A suitable antioxidant may be added. Capmul® GMO-50 EP/NF is a multi-functional emulsifier useful in the production of pharmaceutical and food products. It is manufactured in USA.",
+    "company_name": "ABITEC Corporation",
+    "company_slug": "abitec-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709127584/production/Company/1126/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1709127584/production/Product/195996/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Oral",
+            "Topical",
+            "Transdermal",
+            "Drug Delivery & Care Solutions"
+        ],
+        "Product Families": [
+            "Emulsifiers",
+            "Emulsifiers & Stabilizers",
+            "Solvents & Solubilizers",
+            "Excipients",
+            "Texture & Consistency"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Glyceryl Monooleate"
+        ],
+        "Functions": [
+            "Bioavailability Enhancer",
+            "Solubilizer",
+            "Emulsifier",
+            "Emulsifier"
+        ],
+        "CAS Number": [
+            "25496-72-4"
+        ],
+        "Dosage Form": [
+            "Ointments",
+            "Tablets",
+            "Creams",
+            "Capsules",
+            "Lotions"
+        ]
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "id": 321466,
+    "brand": "fiberstar",
+    "name": "GlucoStar® 1748N",
+    "slug": "glucostar-1748n",
+    "description": "GlucoStar® 1748N is a cold-water soluble, high viscosity polymer for use in industrial applications. This polymer is a modified, high molecular weight, natural polysaccharide designed to impart enhanced functional properties including: viscosity, rheology modification, solution stability, salt tolerance, surface activity and water retention. The ultra-high viscosity and high solubility of GlucoStar 1748N make it particularly suited for use as a viscosifier and binder in adhesive formulations. In addition, it has excellent tack and film clarity. GlucoStar 1748N is particularly suited for use in wallcovering, outdoor advertising and paper bag adhesives. GlucoStar 1748N is not treated with a preservative",
+    "company_name": "Chemstar",
+    "company_slug": "chemstar",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1685601161/production/Company/21262/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608939/production/CategoryImage/585/category_image/AdhesivesSealants_02.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial & Assembly Adhesives",
+            "Packaging & Paper",
+            "Flooring & Surfaces",
+            "Other Industrial & Assembly Applications",
+            "Wallcovering & Decorative Laminates",
+            "Other Printing & Packaging Applications",
+            "Decorative Materials & Finishes",
+            "Wallcoverings & Decorative Laminates",
+            "Industrial Adhesives & Sealants",
+            "Chemical & Industrial Manufacturing",
+            "Other Packaging & Paper Applications"
+        ],
+        "Chemical Family": [
+            "Polysaccharides"
+        ],
+        "End Uses": [
+            "Waterborne Adhesive"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Polysaccharides"
+        ],
+        "Physical Form": [
+            "Flakes",
+            "Solid"
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "id": 304831,
+    "brand": "equibiotics",
+    "name": "Plerasan® Re-balance",
+    "slug": "plerasan-re-balance",
+    "description": "purified oyster mushroom polysaccharides (Pleorotus ostreatus) isolated chain",
+    "company_name": "ROELMI HPC",
+    "company_slug": "roelmi-hpc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672199/production/Product/304831/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708672199/production/Company/1386/card_banner/image",
+    "properties": {
+        "Product Families": [
+            "Skin Actives",
+            "Conditioners & Emollients",
+            "Functionals",
+            "Cosmetic Actives"
+        ],
+        "INCI Name": [
+            "Beta-Glucan"
+        ],
+        "End Uses": [
+            "Wound Treatment",
+            "After Shaves"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Beta-Glucan"
+        ],
+        "Functions": [
+            "Conditioner",
+            "Healing Agent",
+            "Skin Barrier Protectant"
+        ],
+        "Labeling Claims": [
+            "Glycol ether-free",
+            "BSE-free",
+            "Nanomaterials-free",
+            "Amine-free",
+            "Credo Clean Standard",
+            "Clean at Sephora",
+            "TSE-free",
+            "VOC-free",
+            "Not Tested on Animals",
+            "Ethylene Oxide-free",
+            "Allergen-free",
+            "Formaldehyde-free",
+            "Chelate-free",
+            "Protein-free",
+            "Vegan",
+            "Animal Products-free",
+            "Ethanol-free",
+            "Phthalates-free",
+            "Stabilizers-free",
+            "GMO-free",
+            "Antioxidants-free",
+            "PAH-Free"
+        ],
+        "Benefit Claims": [
+            "Skin Protection",
+            "Healing",
+            "Redness Reduction",
+            "Suitable for Sensitive Skin",
+            "Anti-Inflammatory",
+            "Repairing",
+            "Stress Reducing"
+        ]
+    }
+}

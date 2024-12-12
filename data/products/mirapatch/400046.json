@@ -1,0 +1,45 @@
+{
+    "id": 400046,
+    "brand": "mirapatch",
+    "name": "MiraFlor Metallux System",
+    "slug": "miraflor-metallux-system",
+    "description": "Miraflor Metallux System is a unique architectural, high-solids, resinous floor coating that utilizes metallic and pearlescent powder integral pigments to produce brilliant and dynamic designer effects for illumination and beautification of concrete floors and other surfaces. Although suitable for the metallic pigmentation any clear, high-solids MiraFlor polymeric flooring resin, MiraFlor Metallux integral pigments are most frequently used in conjunction with MiraFlor CQ Clear Epoxy for economy and ease of use. Depending on specific service conditions and owner requirements, MiraFlor Glazetop and MiraFlor Glazetop FC are also excellent choices for use with MiraFlor Metallux pigments.",
+    "company_name": "Miracote",
+    "company_slug": "miracote",
+    "logo_url": null,
+    "banner_url": "https://media.knowde.com/image/upload/v1625608566/production/CategoryImage/566/category_image/PaintingsCoatings_02.jpg",
+    "properties": {
+        "Applications": [
+            "Floor Coatings",
+            "Concrete Coatings & Stains",
+            "Flooring & Surfaces",
+            "Building & Construction"
+        ],
+        "Product Families": [
+            "Other Paints & Coatings",
+            "Paints & Coatings"
+        ]
+    },
+    "summary": {
+        "Product Type": [
+            "Coating"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Concrete"
+        ],
+        "Features": [
+            "Good Color Stability",
+            "Light Reflecting",
+            "Low Odor",
+            "Good UV Stability",
+            "Fast Cure",
+            "Chemical Resistant",
+            "Good Surface Finish",
+            "Abrasion Resistant",
+            "Long Shelf Life",
+            "High Solids Content",
+            "Consistent Performance",
+            "Clarity"
+        ]
+    }
+}

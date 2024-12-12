@@ -1,0 +1,39 @@
+{
+    "id": 298961,
+    "brand": "hi-prene",
+    "name": "Kixx Machine PM ISO VG 220",
+    "slug": "kixx-machine-pm-iso-vg-220",
+    "description": "Kixx Machine PM is a premium performance circulating oil specifically designed for use in the centralized lubrication system of paper machines, including wet-end system, dryer bearing and calendar stacks.",
+    "company_name": "GS-Caltex",
+    "company_slug": "gs-caltex",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680109025/production/Company/23716/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical & Industrial Manufacturing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Lubricants & Oils",
+            "Fluids & Lubricants"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Lubricant"
+        ],
+        "Application Area": [
+            "Pulp And Paper Mills",
+            "Bearings",
+            "Vacuum Pumps",
+            "Gears",
+            "Paper Machine"
+        ],
+        "Features": [
+            "Easy Product Filterability",
+            "Service Life Extension",
+            "High Performance",
+            "Oxidation Resistant"
+        ]
+    }
+}

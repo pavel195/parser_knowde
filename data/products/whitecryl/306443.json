@@ -1,0 +1,36 @@
+{
+    "id": 306443,
+    "brand": "whitecryl",
+    "name": "TEXCOLA VM 30",
+    "slug": "texcola-vm-30",
+    "description": "TEXCOLA VM 30 is a Copolymer in emulsion of Vinyl Acetate with protective colloid.",
+    "company_name": "Brancotex",
+    "company_slug": "brancotex",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664289375/production/Product/306443/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Other Building Materials"
+        ],
+        "Product Families": [
+            "Construction Chemicals",
+            "Cement & Concrete Additives",
+            "Mortar & Gypsum Additives"
+        ],
+        "Chemical Family": [
+            "Acetates"
+        ],
+        "End Uses": [
+            "Cement"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Acetates"
+        ],
+        "End Uses": [
+            "Cement"
+        ]
+    }
+}

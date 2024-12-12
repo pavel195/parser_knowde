@@ -1,0 +1,52 @@
+{
+    "id": 427909,
+    "brand": "polybrite",
+    "name": "PolyBrite® 76",
+    "slug": "polybrite-76",
+    "description": "PolyBrite® 76 Base Coat is a premium, specially formulated water-based elastomeric base coat specifically designed to serve as a stain-blocking coating and offers enhanced resistance to areas subject to standing water conditions. PolyBrite® 76 cures to form a seamless membrane when applied over the entire roof area.",
+    "company_name": "Polyglass",
+    "company_slug": "polyglass",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292773/production/Brand/33932/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608454/production/CategoryImage/560/category_image/BuildingConstruction_04.jpg",
+    "properties": {
+        "Applications": [
+            "Waterproofing & Weatherproofing",
+            "Building Envelope & Roofing"
+        ],
+        "Product Families": [
+            "Base Coats & Undercoats",
+            "Paints & Coatings"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Elastomeric Coating",
+            "Waterborne Coating",
+            "Base Coat"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Concrete",
+            "Metal",
+            "Masonry"
+        ],
+        "Features": [
+            "High Durability",
+            "Crack Resistant",
+            "Good Weather Stability",
+            "High Flexibility",
+            "Stain Resistant",
+            "Peel Resistance",
+            "Low Permeability",
+            "Water-based",
+            "Low VOC",
+            "Water Resistant",
+            "Fungus Resistant",
+            "Blister Resistance"
+        ],
+        "Application Method": [
+            "Spray",
+            "Roller",
+            "Brush"
+        ]
+    }
+}

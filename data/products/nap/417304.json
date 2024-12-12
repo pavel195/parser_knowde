@@ -1,0 +1,64 @@
+{
+    "id": 417304,
+    "brand": "nap",
+    "name": "NAP Allspice Leaf Oil",
+    "slug": "nap-allspice-leaf-oil",
+    "description": "Allspice, also known as Jamaica Pepper or Pimento, is a large evergreen tree that features fragrant bark, leaves, flowers and berries. It is native to the West Indies, Caribbean and Central and South America. It is now grown commercially in Jamaica, Mexico and Trinidad amongst others. The oil comes in two varieties, Allspice Leaf and Allspice Berry, both steam distilled. Allspice Berry Oil has a lower Eugenol content than the leaf oil. It is the more expensive of the two oils, and is considered a safer oil due to its lower Eugenol content, and has a more pleasant aroma. With a yellow to brown color and a warm, sweet yet spicy aroma, it is similar in smell to clove and cinnamon, and reminiscent of fall/winter. It has antifungal and antiseptic qualities, and the aroma compliments masculine fragrances.",
+    "company_name": "Naturally Australian Products",
+    "company_slug": "naturally-australian-products",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709127808/production/Company/45312/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515647/production/CategoryImage/1055/category_image/HII_07.jpg",
+    "properties": {
+        "Applications": [
+            "Skin Care",
+            "Fragrances & Perfumes",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Essential Oils",
+            "Vitamins, Extracts & Oils"
+        ],
+        "Chemical Family": [
+            "Essential Oils"
+        ],
+        "End Uses": [
+            "Fragrances & Perfumes"
+        ]
+    },
+    "summary": {
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Non-Animal Origin",
+            "Plant Origin"
+        ],
+        "Benefit Claims": [
+            "Antiseptic",
+            "Revitalizing",
+            "Anti-Fungal",
+            "Non-Irradiated"
+        ],
+        "Labeling Claims": [
+            "Nanomaterials-free",
+            "Non-Toxic",
+            "Phthalates-free",
+            "Non-GMO",
+            "Cruelty-Free",
+            "Natural",
+            "Plant-Based",
+            "TSE-free",
+            "Not Tested on Animals",
+            "Not Listed In California Proposition 65",
+            "CMR Substances-free",
+            "Naturally Derived",
+            "BSE-free",
+            "Organic",
+            "PEG-free"
+        ],
+        "Certifications & Compliance": [
+            "Organic Certified",
+            "FDA Compliant",
+            "Nagoya Compliant",
+            "USDA Certified"
+        ]
+    }
+}

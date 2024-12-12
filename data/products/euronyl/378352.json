@@ -1,0 +1,35 @@
+{
+    "id": 378352,
+    "brand": "euronyl",
+    "name": "Euronox® BfR",
+    "slug": "euronox-bfr",
+    "description": "Euronox® BfR is applied in the field of aqueous printing inks, tissue, coloring of paper with food contact. It's special features are that it has particularly good retention properties in decor applications.",
+    "company_name": "Harold Scholz",
+    "company_slug": "harold-scholz",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708521276/production/Brand/28247/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Other Printing Applications",
+            "Decorative Paints, Coatings & Stains",
+            "Printing & Inks",
+            "Decorative Materials & Finishes"
+        ],
+        "Product Families": [
+            "Organic Pigments",
+            "Color Pigments",
+            "Pigments & Colorants"
+        ],
+        "End Uses": [
+            "Waterborne Ink"
+        ]
+    },
+    "summary": {
+        "Pigment Type": [
+            "Organic Pigments"
+        ],
+        "End Uses": [
+            "Waterborne Ink"
+        ]
+    }
+}

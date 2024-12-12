@@ -1,0 +1,57 @@
+{
+    "id": 329257,
+    "brand": "pw-1",
+    "name": "VF 20™",
+    "slug": "vf-20",
+    "description": "VF 20™ is a versatile two-component urethane based primer designed for a variety of substrates. It’s unique formulation allows for dilution with acetone by 33-50% for improved penetration, coverage, and adhesion. VF-20 may be applied at temperatures greater than 0˚ F by airless sprayer, roller, squeegee, or broom. VF-20 may be used with all VersaFlex rapid curing sealants and coatings for interior and exterior application. VF-20 has been designed along with VF-15 to offer versatility and flexibility in primer selection. VF-20 is ideal for use when longer working time is needed. While VF-20 will cure down to 0˚ F it is ideal at temperatures above 75˚ F. VF-15 is typically preferred at temperatures between 40—75˚ F or at elevated temperatures when a faster re-coat is required such as smaller projects or where quick return to service is needed.",
+    "company_name": "Versaflex",
+    "company_slug": "versaflex",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520415/production/Company/32382/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608566/production/CategoryImage/566/category_image/PaintingsCoatings_02.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Packaging Coatings",
+            "Primers & Lacquers",
+            "Architectural Coatings",
+            "Decorative Paints, Coatings & Stains",
+            "Building Envelope & Roofing",
+            "Decorative Materials & Finishes",
+            "Building Envelope"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers"
+        ],
+        "Chemical Family": [
+            "Isocyanates"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "2K (2 component) Coating",
+            "Primer"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Plastics",
+            "Metal",
+            "Steel",
+            "Concrete"
+        ],
+        "Features": [
+            "Rapid Curing Speed",
+            "Highly Versatile",
+            "Low Foaming",
+            "Adhesion Modified"
+        ],
+        "Application Method": [
+            "Spray",
+            "Broom",
+            "Roller",
+            "Brush"
+        ],
+        "Chemical Family": [
+            "Isocyanates"
+        ]
+    }
+}

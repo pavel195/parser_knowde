@@ -1,0 +1,54 @@
+{
+    "id": 339453,
+    "brand": "capros",
+    "name": "Ayuflex®",
+    "slug": "ayuflex",
+    "description": "Ayuflex® is a clinically studied, water‐soluble, vegetarian, product for joint support. It is derived from the edible fruits of Terminalia chebula, an ancient Ayurvedic plant, and standardized to high levels of bioactives.  It can be used in either solid or liquid dosage forms and is ideal for incorporation into sports nutrition and joint support products.",
+    "company_name": "Natreon",
+    "company_slug": "natreon",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708688729/production/Brand/24981/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606914/production/CategoryImage/502/category_image/FoodNutrition_03.jpg",
+    "properties": {
+        "Applications": [
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Antioxidants",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Dietary Supplements"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Triphala Extract"
+        ],
+        "Functions": [
+            "Supplement",
+            "Dietary Supplement",
+            "Antioxidant"
+        ],
+        "Labeling Claims": [
+            "Vegetarian",
+            "Organic",
+            "Non-GMO",
+            "Kosher",
+            "Halal"
+        ],
+        "Physical Form": [
+            "Liquid",
+            "Solid"
+        ],
+        "Benefit Claims (Health)": [
+            "Cardioprotective",
+            "Joint Support"
+        ],
+        "Features": [
+            "Promotes Lipid Metabolism",
+            "Improved Bone Health"
+        ]
+    }
+}

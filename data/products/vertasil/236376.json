@@ -1,0 +1,48 @@
+{
+    "id": 236376,
+    "brand": "vertasil",
+    "name": "Gelest PTT-1117",
+    "slug": "gelest-tetrachlorophenyl-t-branched-polydimethylsiloxane-70-75-cst-ptt-1117",
+    "description": "Gelest TETRACHLOROPHENYL-T-BRANCHED-POLYDIMETHYLSILOXANE, 70-75 cSt (PTT-1117) has good damping properties. This product is used in bearings, gears, and optical applications.",
+    "company_name": "Gelest",
+    "company_slug": "gelest",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1675919708/production/Product/236376/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1675919708/production/Product/236376/card_banner/image",
+    "properties": {
+        "Product Families": [
+            "Greases",
+            "Heat Transfer Fluids",
+            "Lubricants & Oils",
+            "Fluids & Lubricants"
+        ],
+        "Chemical Family": [
+            "Silicones"
+        ],
+        "End Uses": [
+            "Gears",
+            "Optical Applications",
+            "Bearings"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Silicones"
+        ],
+        "Ready to Use Product Type": [
+            "Grease",
+            "Hydraulic Fluids",
+            "Heat Transfer Fluid",
+            "Lubricant",
+            "Dielectric Fluid",
+            "Coolant"
+        ],
+        "Application Areas": [
+            "Optical Applications",
+            "Gears",
+            "Bearings"
+        ],
+        "Features": [
+            "Good Damping"
+        ]
+    }
+}

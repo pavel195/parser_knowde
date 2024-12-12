@@ -1,0 +1,56 @@
+{
+    "id": 330527,
+    "brand": "clambp",
+    "name": "EuBone®",
+    "slug": "eubone",
+    "description": "EuBone® is a specially fomulated botanical blend with three traditional Asian herbs: Eucommia ulmoides, Drynaria fortunei and Cuscuta chinensis.",
+    "company_name": "Chenland Nutritionals",
+    "company_slug": "chenland-nutritionals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709127856/production/Product/330527/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515647/production/CategoryImage/1055/category_image/HII_07.jpg",
+    "properties": {
+        "Applications": [
+            "Oral",
+            "Drug Delivery & Care Solutions"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Phytochemicals & Plant Extracts",
+            "Phytochemicals",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "Labeling Claims": [
+            "Natural",
+            "Naturally Derived",
+            "Halal",
+            "Kosher",
+            "Allergen-free"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Botanical Blend"
+        ],
+        "Functions": [
+            "Phytochemical"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin"
+        ],
+        "Labeling Claims": [
+            "Halal",
+            "Allergen-free",
+            "Kosher",
+            "Naturally Derived",
+            "Natural"
+        ],
+        "Certifications & Compliance": [
+            "Halal",
+            "EFSA (European Food Safety Authority) Certified",
+            "FDA Compliant",
+            "Kosher"
+        ]
+    }
+}

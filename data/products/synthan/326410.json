@@ -1,0 +1,45 @@
+{
+    "id": 326410,
+    "brand": "synthan",
+    "name": "Synthel PE-3015",
+    "slug": "synthel-pe-3015",
+    "description": "Synthel PE-3015 is solvent-free moisture curing prepolymer based on aromatic polyisocyanate.",
+    "company_name": "Synthecoat",
+    "company_slug": "synthecoat",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708692165/production/Company/31011/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608600/production/CategoryImage/568/category_image/PaintingsCoatings_04.jpg",
+    "properties": {
+        "Applications": [
+            "EIFS & Insulation",
+            "Other Paints & Coatings Applications",
+            "Insulation",
+            "Marine",
+            "Other Adhesives & Sealants Applications",
+            "Transportation",
+            "Building Envelope",
+            "Building Envelope & Roofing"
+        ],
+        "Product Families": [
+            "Mortar & Gypsum Additives",
+            "Intermediates",
+            "Prepolymers & Polyols",
+            "Monomers & Intermediates",
+            "Construction Chemicals"
+        ],
+        "End Uses": [
+            "2K (2 Component) Adhesive",
+            "1K (1 Component) Adhesive",
+            "Primer"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Intermediate",
+            "Binder"
+        ],
+        "Compatible Polymers & Resins": [
+            "Polyurethanes (PU)",
+            "Cement"
+        ]
+    }
+}

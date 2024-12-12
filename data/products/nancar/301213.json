@@ -1,0 +1,39 @@
+{
+    "id": 301213,
+    "brand": "nancar",
+    "name": "Nancar® NBR 3345",
+    "slug": "nancar-nbr-3345",
+    "description": "Nancar® NBR 3345 is a medium high acrylonitrile butadiene copolymer with good oil resistance. It is polymerized at low temperature and contains sufficient antioxidant for normal aging conditions. It has low Mooney viscosity, superior processing characteristics, fast curing rate, low mold fouling, superior resilience properties and superior flowability..",
+    "company_name": "Nantex Industry",
+    "company_slug": "nantex-industry",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691738795/production/Company/24268/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Equipment & Parts",
+            "Other Printing & Packaging Applications",
+            "Footwear",
+            "Belts & Conveyers",
+            "Fuel Systems",
+            "Other Automotive Applications",
+            "Other Industrial Applications",
+            "Chemical & Industrial Manufacturing",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Nitrile Rubbers",
+            "Specialty Elastomers"
+        ],
+        "Chemical Family": [
+            "Nitrile Rubbers"
+        ],
+        "Polymer Name": [
+            "Acrylonitrile Butadiene Rubber (NBR)"
+        ],
+        "End Uses": [
+            "Footwear",
+            "Gaskets"
+        ]
+    },
+    "summary": {}
+}

@@ -1,0 +1,32 @@
+{
+    "id": 379694,
+    "brand": "nutrispar",
+    "name": "DLG Food Oil ProtiSpar",
+    "slug": "dlg-food-oil-protispar",
+    "description": "DLG Food Oil ProtiSpar is a combination of essential oils, reducing selectively the bacterial protein degradation in the rumen. The degradation of protein in the rumen is affected by a great many of different factors.",
+    "company_name": "DLG Food Oil",
+    "company_slug": "dlg-food-oil",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708688527/production/Company/45689/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608150/production/CategoryImage/545/category_image/AgricultureFeed_01.jpg",
+    "properties": {
+        "Applications": [
+            "Ruminants",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Feed Supplements",
+            "Fats & Oils",
+            "Nutritional Ingredients"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Supplement"
+        ],
+        "Features": [
+            "Improved Fertility",
+            "Antibacterial",
+            "Optimizes Ruminal Health"
+        ]
+    }
+}

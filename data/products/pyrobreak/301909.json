@@ -1,0 +1,47 @@
+{
+    "id": 301909,
+    "brand": "pyrobreak",
+    "name": "PyroCoat EX-16",
+    "slug": "pyrocoat-ex-16",
+    "description": "PyroCoat EX-16 is a clear, water based liquid that can be used either as a coating or saturant for paper, paperboard or wood based products. EX-16 dries to a clear, hard, fire resistant ceramic like coating or if impregnated into paper or paperboard produces a higher compressive strength and somewhat brittle product.",
+    "company_name": "Pyrotech",
+    "company_slug": "pyrotech",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664289294/production/Company/24316/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608490/production/CategoryImage/563/category_image/BuildingConstruction_07.jpg",
+    "properties": {
+        "Applications": [
+            "Wood Coatings & Finishes",
+            "Flame Retardants & Fire Protection",
+            "Other Paints & Coatings Applications",
+            "Coated Paper & Paperboard",
+            "Other Paper & Pulp Applications",
+            "Construction Chemicals",
+            "Paper & Pulp",
+            "Building & Construction"
+        ],
+        "Product Families": [
+            "Protective Coatings",
+            "Paints & Coatings"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Waterborne Coating"
+        ],
+        "Features": [
+            "Flame Retardant",
+            "Water Resistant"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Wood",
+            "Paper"
+        ],
+        "Application Method": [
+            "Roller",
+            "Brush",
+            "Dip Coating",
+            "Roll Coater",
+            "Spray"
+        ]
+    }
+}

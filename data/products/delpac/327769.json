@@ -1,0 +1,57 @@
+{
+    "id": 327769,
+    "brand": "delpac",
+    "name": "USALCO Dry Aluminum Sulfate (Purified Grade)",
+    "slug": "usalco-dry-aluminum-sulfate-purified-grade",
+    "description": "USALCO Dry Aluminum Sulfate (Purified Grade) is manufactured to meet high-quality standards using advanced processes and premium raw materials. It comes in various grades, including low-iron, iron-free, and FCC grades, and in special granular sizes to meet diverse needs. It is utilized in industries such as water treatment, dye production, leather tanning, papermaking, and others. This dry alum meets the American Water Works Association Standard B403-16 and follows NSF/ANSI/CAN 60: Drinking Water Treatment Chemicals - Health Effects with a maximum recommended dosage of 150 mg/L.",
+    "company_name": "USALCO",
+    "company_slug": "usalco",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1719843447/production/Company/32175/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Pulping & Processing",
+            "Leather Manufacturing",
+            "Water Treatment",
+            "Paper & Pulp",
+            "Power, Water & Utilities",
+            "Leather & Textiles"
+        ],
+        "Product Families": [
+            "Inorganics",
+            "Water Treatment Additives",
+            "Finishing Additives & Treatments",
+            "Technical Salts & Inorganics",
+            "Paper & Pulp Chemicals",
+            "Textile & Leather Chemicals",
+            "Water Treatment Chemicals"
+        ],
+        "Chemical Family": [
+            "Sulfates",
+            "Aluminum Salts",
+            "Aluminum Compounds"
+        ],
+        "End Uses": [
+            "Paper & Pulp"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Aluminum Sulfate"
+        ],
+        "CAS Number": [
+            "10043-01-3"
+        ],
+        "Chemical Family": [
+            "Aluminum Salts",
+            "Sulfates",
+            "Aluminum Compounds"
+        ],
+        "Grade": [
+            "Food Grade"
+        ],
+        "Synonyms": [
+            "Al2(SO4)3, Aluminum Sesquisulfate, Aluminum(III) sulfate, Dialuminium Trisulfate, Dialuminum Sulfate, Dialuminum Trisulfate, Sulfatodialuminium Disulfate, Sulfatodialuminum Disulfate"
+        ]
+    }
+}

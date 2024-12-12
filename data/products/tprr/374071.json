@@ -1,0 +1,32 @@
+{
+    "id": 374071,
+    "brand": "tprr",
+    "name": "TPRR® 450",
+    "slug": "tprr-450",
+    "description": "TPRR® 450 is a TPRR (Thermoplastic recycled rubber) material consisting mainly of recycled plastics and recycled rubber. It consists good replacement for polyolefin materials with food flowability.",
+    "company_name": "EcoRub",
+    "company_slug": "ecorub",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691737815/production/Brand/27959/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608769/production/CategoryImage/577/category_image/AutomotiveTransportation_05.jpg",
+    "properties": {
+        "Applications": [
+            "Powertrain & UTH",
+            "Cooling & Climate",
+            "Fuel Systems",
+            "Appliances & Electronics",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Other Thermoplastic Elastomers",
+            "Thermoplastic Elastomers"
+        ],
+        "Polymer Name": [
+            "Thermoplastic Elastomer (unspecified)"
+        ],
+        "End Uses": [
+            "Damping Bands",
+            "Tubing"
+        ]
+    },
+    "summary": {}
+}

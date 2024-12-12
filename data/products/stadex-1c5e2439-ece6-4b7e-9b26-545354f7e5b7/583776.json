@@ -1,0 +1,64 @@
+{
+    "id": 583776,
+    "brand": "stadex-1c5e2439-ece6-4b7e-9b26-545354f7e5b7",
+    "name": "STALEYDEX® 130 Liquid Dextrose",
+    "slug": "staleydex-130",
+    "description": "STALEYDEX® 130 Liquid Dextrose is valued for its complete fermentability, the ease with which it may be handled, and for its clean, balanced sweetness. In food applications it may be blended with corn or sucrose syrups, or used alone as the sole sweetener in baked goods, STALEYDEX® 130 is a clear, colorless liquid of high purity produced from pure crystalline dextrose, made under a patented Primient process. Unique manufacturing conditions involving enzyme conversion, carbon decolorization, resin refining, and “controlled crystallization” ensure its blandness, clarity, and low ash content. Special processing also eliminates unwanted trace minerals and elements that, if present, could adversely affect fermentation reactions and shelf life.",
+    "company_name": "Primient",
+    "company_slug": "primient",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1729086403/production/Company/50022/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606996/production/CategoryImage/508/category_image/FoodNutrition_09.jpg",
+    "properties": {
+        "Applications": [
+            "Other Food Applications",
+            "Confectionery",
+            "Bakery",
+            "Food"
+        ],
+        "Product Families": [
+            "Sweeteners & Syrups",
+            "Taste & Flavor"
+        ],
+        "Ingredient Name": [
+            "Dextrose"
+        ],
+        "End Uses": [
+            "Fermented Foods",
+            "Bread",
+            "Confectionery Products"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Dextrose"
+        ],
+        "Labeling Claims": [
+            "Odor-free",
+            "Animal Products-free",
+            "Allergen-free",
+            "Irradiation-free",
+            "Azo Dyes-free",
+            "Kosher",
+            "Not Listed In California Proposition 65",
+            "Ethylene Oxide-free",
+            "Halal",
+            "TSE-free",
+            "BSE-free"
+        ],
+        "Calories (Energy)": [
+            "258.0 - 258.0 Cal/100 g"
+        ],
+        "Certifications & Compliance": [
+            "Hazard Analysis Critical Control Point (HACCP)",
+            "FDA 21 CFR 184.1865",
+            "The Food Allergen Labeling & Consumer Protection Act of 2004 (FALCPA)",
+            "FDA 21 CFR 168.120",
+            "Directive 852/2004/EC",
+            "FDA 21 CFR 117",
+            "cGMP"
+        ],
+        "Physical Form": [
+            "Liquid"
+        ]
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "id": 407941,
+    "brand": "protal",
+    "name": "PROTAL 7200™",
+    "slug": "protal-7200",
+    "description": "Protal 7200™ is a VOC free, 100% solids, 2 part epoxy coating specially formulated to compliment FBE coated pipe. It is a high build liquid coating that is brush or spray applied in one coat in the field or shop. It cures very fast to allow quick handling and backfill times.",
+    "company_name": "Denso North America",
+    "company_slug": "denso-north-america",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1682593222/production/Brand/31540/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608422/production/CategoryImage/558/category_image/BuildingConstruction_02.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Exploration & Upstream",
+            "Oil, Gas & Mining",
+            "Pipes & Plumbing"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Other Paints & Coatings"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Solventless & High Solids Coating",
+            "Epoxy Coating",
+            "2K (2 component) Coating"
+        ],
+        "Application Area": [
+            "Boring Applications",
+            "Pipes"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Painted Surfaces"
+        ],
+        "Features": [
+            "Good Adhesion",
+            "Fast Setting",
+            "Abrasion Resistant",
+            "Good Leveling Properties",
+            "Fast Cure"
+        ],
+        "Application Method": [
+            "Spray",
+            "Roller",
+            "Brush"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    }
+}

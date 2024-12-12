@@ -1,0 +1,37 @@
+{
+    "id": 336272,
+    "brand": "storflam",
+    "name": "Storflam® MNB 9684",
+    "slug": "storflam-mnb-9684",
+    "description": "Storflam® MNB 9684 has its applications in drier for printing inks.",
+    "company_name": "Specialty Chemicals Lardello",
+    "company_slug": "specialty-chemicals-lardello",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708691613/production/Brand/24867/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607403/production/CategoryImage/516/category_image/ElectricalElectronics_01.jpg",
+    "properties": {
+        "Applications": [
+            "Digital Printing",
+            "Inkjet Printing",
+            "Printing & Inks"
+        ],
+        "Product Families": [
+            "Flame Retardants",
+            "Polymer Additives"
+        ],
+        "Chemical Family": [
+            "Borates",
+            "Calcium & Calcium Compounds",
+            "Boron-based Compounds"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Boron-based Compounds",
+            "Borates",
+            "Calcium & Calcium Compounds"
+        ],
+        "Functions": [
+            "Flame Retardant"
+        ]
+    }
+}

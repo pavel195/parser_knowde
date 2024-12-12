@@ -1,0 +1,64 @@
+{
+    "id": 384803,
+    "brand": "par-group-peek",
+    "name": "PEEK Carbon Filled Sheet",
+    "slug": "peek-carbon-filled-sheet",
+    "description": "PAR Group Peek Carbon Filled Sheet maintains all the significant benefits of standard PEEK material such as excellent chemical and radiation resistance, high dimensional stability and high resistance to creep. The carbon fiber reinforcement helps to improve the wear properties of the material as they are typically less abrasive than the fibers used in the glass filled alternative. Carbon filled PEEK sheet is also flame retardant, self-extinguishing and electrically conductive, making for an extremely versatile material.",
+    "company_name": "PAR Group",
+    "company_slug": "par-group",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686150125/production/Brand/28824/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Other Electrical & Electronics Applications",
+            "Other Oil, Gas & Mining Applications",
+            "Aerospace & Aviation",
+            "Chemical & Industrial Manufacturing",
+            "Oil, Gas & Mining",
+            "Transportation",
+            "Other Industrial Applications",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Polyether Ether Ketone (PEEK)"
+        ],
+        "Polymer Name": [
+            "Polyetheretherketone (PEEK)"
+        ],
+        "End Uses": [
+            "Aerospace Applications",
+            "Oil/Gas Applications"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyetheretherketone (PEEK)"
+        ],
+        "Physical Form": [
+            "Sheets"
+        ],
+        "Features": [
+            "Good Abrasion Resistance",
+            "Electrically Conductive",
+            "Good Rigidity",
+            "Radiation Resistant",
+            "Wear Resistant",
+            "Dimensional Stability",
+            "Flame Retardant",
+            "Chemical Resistant",
+            "Creep Resistant",
+            "High Strength",
+            "Self Extinguishing",
+            "Hydrolysis Resistant"
+        ],
+        "Density": [
+            "1420.0 - 1420.0 kg/m³"
+        ],
+        "Tensile Modulus": [
+            "10000.0 - 10000.0 MPa"
+        ]
+    }
+}

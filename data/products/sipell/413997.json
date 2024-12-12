@@ -1,0 +1,60 @@
+{
+    "id": 413997,
+    "brand": "sipell",
+    "name": "HDK® H21",
+    "slug": "hdk-h21",
+    "description": "HDK® H21 is a synthetic, hydrophobic, amorphous silica produced via flame hydrolysis. It is a white colloidal powder of high purity. HDK® H21 is used as a thickening and thixotropic agent in various applications such as composites, coatings, adhesives, and sealants, particularly in vinylester, epoxy, and polyurethane systems.",
+    "company_name": "Wacker Chemie AG",
+    "company_slug": "wacker-chemie-ag",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1713789571/production/Brand/32274/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1713789571/production/Brand/32274/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Sensors & Actuators",
+            "Renewable Energy",
+            "Floor Coatings",
+            "Industrial Coatings",
+            "Power & Utilities",
+            "Flooring & Surfaces",
+            "Parts & Components",
+            "Power, Water & Utilities",
+            "Building & Construction"
+        ],
+        "Product Families": [
+            "Thixotropes",
+            "Rheology Modifiers & Stabilizers",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Silica"
+        ],
+        "End Uses": [
+            "Sensors",
+            "Wind Turbine Blades"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Pyrogenic Silica"
+        ],
+        "CAS Number": [
+            "112945-52-5"
+        ],
+        "Functions": [
+            "Thickener",
+            "Thixotrope",
+            "Rheology Modifier"
+        ],
+        "Chemical Family": [
+            "Silica"
+        ],
+        "Compatible Polymers & Resins": [
+            "Epoxies (EP)",
+            "Vinyl Esters",
+            "Polyurethanes (PU)"
+        ],
+        "Synonyms": [
+            "Fumed Silica, Silica, Silicon Dioxide"
+        ]
+    }
+}

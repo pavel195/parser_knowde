@@ -1,0 +1,45 @@
+{
+    "id": 442991,
+    "brand": "spl100",
+    "name": "Prolong® EP 2",
+    "slug": "prolong-ep-2",
+    "description": "Prolong® EP 2 is a calcium sulfonate grease, which is characterized by exceptional corrosion protection, high dropping point and mechanical stability. It provides superior protection against corrosion in harsh, corrosive environments, due to its unique chemistry.",
+    "company_name": "Prolong",
+    "company_slug": "prolong",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680108933/production/Company/64839/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical & Industrial Manufacturing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Greases",
+            "Fluids & Lubricants"
+        ],
+        "Chemical Family": [
+            "Calcium & Calcium Compounds"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Grease"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal"
+        ],
+        "Features": [
+            "Mechanical Stability",
+            "Oxidation Resistant",
+            "Extreme Pressure Performance",
+            "High Performance",
+            "Corrosion Resistant",
+            "Wide Temperature Operating Range",
+            "Friction Resistant",
+            "Water Resistant"
+        ],
+        "Chemical Family": [
+            "Calcium & Calcium Compounds"
+        ]
+    }
+}

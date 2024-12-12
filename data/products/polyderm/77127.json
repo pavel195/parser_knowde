@@ -1,0 +1,48 @@
+{
+    "id": 77127,
+    "brand": "polyderm",
+    "name": "Dermol™ SCLL-L",
+    "slug": "dermol-scll-l",
+    "description": "Dermol SCLL-L is a unique liquid surfactant derived from sodium lauroyl lactylate. It functions as an emulsifier and cleanser with excellent conditioning properties for hair and skin and adds moisturizing, anti-static and viscosity boosting benefits.",
+    "company_name": "ALZO International Inc.",
+    "company_slug": "alzo-international-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708699951/production/Brand/6405/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708699951/production/Product/77127/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Sun Care",
+            "Hair Care",
+            "Skin Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Anionic Surfactants",
+            "Emulsifiers, Solubilizers & Dispersants",
+            "Blends & Other Cleansers",
+            "Functionals",
+            "Surfactants & Cleansers"
+        ],
+        "INCI Name": [
+            "Sodium Caproyl Lactylate"
+        ],
+        "End Uses": [
+            "Hair Conditioner"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Sodium Caproyl Lactylate"
+        ],
+        "Functions": [
+            "Emulsifier",
+            "Surfactant",
+            "Surfactant (Anionic)"
+        ],
+        "Labeling Claims": [
+            "Ulta Beauty's Conscious Beauty"
+        ],
+        "Synonyms": [
+            "Decanoic Acid, 1-carboxyethyl Ester, Sodium Salt, Lactic Acid, Decanoate, Sodium Salt"
+        ]
+    }
+}

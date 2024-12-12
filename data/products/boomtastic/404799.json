@@ -1,0 +1,35 @@
+{
+    "id": 404799,
+    "brand": "boomtastic",
+    "name": "Boomtastic™ Industrial Strength Multi-Purpose Cleaner (lavender)",
+    "slug": "boomtastic-industrial-strength-multi-purpose-cleaner-lavender",
+    "description": "Boomtastic™ Industrial Strength Multi-Purpose Cleaner (lavender) is a safe water-based and non-abrasive, a non-corrosive formula designed to dissolve the heaviest grease and grime from any common surface.",
+    "company_name": "Boomtastic",
+    "company_slug": "boomtastic",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292141/production/Brand/30962/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515575/production/CategoryImage/1049/category_image/HII_01.jpg",
+    "properties": {
+        "Applications": [
+            "Home Care",
+            "Institutional & Industrial Care",
+            "Surface Care",
+            "Industrial Cleaning"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Industrial Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Multipurpose Cleaners",
+            "Degreasers"
+        ],
+        "Features": [
+            "Non Abrasive",
+            "Degreasing",
+            "Foamable",
+            "Grime Cleaning"
+        ]
+    }
+}

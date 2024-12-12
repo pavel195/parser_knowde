@@ -1,0 +1,34 @@
+{
+    "id": 392278,
+    "brand": "elcozine",
+    "name": "Elcoment Yellow LK-L",
+    "slug": "elcoment-yellow-lk-l",
+    "description": "Elcoment Yellow LK-L belong to ChromaScape's full line of pigment dispersions formulated with a range of dispersants. Dispersant choice is critical for the intended end-use application. We offer organic, inorganic, synthetic and basic dyes. Our pigment lines are intended for laminate base papers, parchment papers, museum boards, high-quality printing papers, tinting whites and various non-woven applications.",
+    "company_name": "ChromaScape",
+    "company_slug": "chromascape",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1682592949/production/Company/23528/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Paper & Pulp",
+            "Textiles & Nonwovens",
+            "Pulping & Processing",
+            "Leather & Textiles",
+            "Other Textile Applications",
+            "Textile Manufacturing"
+        ],
+        "Product Families": [
+            "Pigments & Colorants",
+            "Dispersions & Masterbatches",
+            "Color Dispersions"
+        ]
+    },
+    "summary": {
+        "Color": [
+            "Yellow"
+        ],
+        "Carrier": [
+            "Water"
+        ]
+    }
+}

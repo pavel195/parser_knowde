@@ -1,0 +1,46 @@
+{
+    "id": 307701,
+    "brand": "gemophene",
+    "name": "GEMALKYD 367 S/I",
+    "slug": "gemalkyd-367-s-i",
+    "description": null,
+    "company_name": "Gem Synthetics & Polymer",
+    "company_slug": "gem-synthetics-polymer",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708690946/production/Product/307701/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609128/production/CategoryImage/597/category_image/PrintingPackaging_08.jpg",
+    "properties": {
+        "Applications": [
+            "Textile Manufacturing",
+            "Screen Printing",
+            "Letterpress",
+            "Offset & Lithographic Printing",
+            "Printing & Inks",
+            "Leather & Textiles"
+        ],
+        "Product Families": [
+            "Surface Modifiers",
+            "Alkyds",
+            "Additives",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Alkyds",
+            "Alkyds (Long Oil)"
+        ],
+        "End Uses": [
+            "Offset Ink",
+            "Screen Printing Ink",
+            "Letterpress Ink"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Gloss Enhancer",
+            "Binder & Resin"
+        ],
+        "Chemical Family": [
+            "Alkyds (Long Oil)",
+            "Alkyds"
+        ]
+    }
+}

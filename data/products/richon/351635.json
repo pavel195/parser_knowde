@@ -1,0 +1,54 @@
+{
+    "id": 351635,
+    "brand": "richon",
+    "name": "Richon® Vulcanizing Agent DTDC",
+    "slug": "richon-chem-richon-vulcanizing-agent-dtdc",
+    "description": "Richon® Vulcanizing Agent DTDC is mainly used for curing agent of natural rubber, styrene butadiene rubber, acrylonitrile butadiene rubber, which can partially or completely replace the sulfur. Applicable to the manufacture of cables, wires, heat-resistant products, thick products and medical rubber plug..It has good performance on mechanical properties, heat resistance, aging resistance, small compression permanent deformation, no blooming, long scorching time, fast curing, etc. It is best for tire, heat-resistant rubber products, health and color rubber products, and could replace of DTDM due to there is none nitrosamines release..",
+    "company_name": "Richon Chem",
+    "company_slug": "richon-chem",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672829/production/Company/38227/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608693/production/CategoryImage/573/category_image/AutomotiveTransportation_01.jpg",
+    "properties": {
+        "Applications": [
+            "Other Medical Applications",
+            "Other Wire & Cable Applications",
+            "Building Wires & Power Cables",
+            "Terminal Blocks, Plugs & Sockets",
+            "Parts & Components",
+            "Wire & Cable",
+            "Medical"
+        ],
+        "Product Families": [
+            "Catalysts, Initiators & Crosslinkers",
+            "Elastomer Additives"
+        ],
+        "End Uses": [
+            "Plugs"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "1,1'-dithiobis[hexahydro-2H-azepin-2-one]"
+        ],
+        "CAS Number": [
+            "23847-08-7"
+        ],
+        "Functions": [
+            "Vulcanizing Agent"
+        ],
+        "Compatible Polymers & Resins": [
+            "Nitrile Butadiene Rubber (NBR)",
+            "Natural Rubbers (NR)",
+            "Styrene Butadiene Rubber (SBR)"
+        ],
+        "Features": [
+            "Heat Aging Resistant",
+            "Good Mechanical Properties",
+            "Non Blooming",
+            "Fast Curing",
+            "Heat Resistance",
+            "Scorch Resistant",
+            "High Performance"
+        ]
+    }
+}

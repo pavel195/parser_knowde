@@ -1,0 +1,101 @@
+{
+    "id": 193177,
+    "brand": "cosm-oil",
+    "name": "COSM’OIL® KD-S",
+    "slug": "cosmact-cosm-oil-kd-s",
+    "description": "COSM’OIL® KD-S** is Organic Virgin Pongamia Glabra Seed oil. It is obtained from the crushing and pressing of the seeds of Pongamia Glabra, followed by a Deodorization.",
+    "company_name": "CosmAct",
+    "company_slug": "cosmact",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708687164/production/Product/193177/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708687164/production/Product/193177/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Bath & Shower",
+            "Skin Care",
+            "Sun Care",
+            "Hair Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Skin Actives",
+            "Antioxidants & Preservatives",
+            "Conditioners & Emollients",
+            "Film Formers",
+            "Sunscreen Agents",
+            "Cosmetic Actives",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Pongamia Glabra Seed Oil"
+        ],
+        "End Uses": [
+            "Sunscreen Cream",
+            "Sunscreen Lotion",
+            "Body Lotion",
+            "Hair Treatment & Repair",
+            "Massage Products",
+            "Shower Gels"
+        ],
+        "Labeling Claims": [
+            "Ulta Beauty's Conscious Beauty",
+            "Clean at Sephora",
+            "Organic",
+            "Natural",
+            "Non-Phototoxic",
+            "Non-Photoallergenic"
+        ],
+        "Benefit Claims": [
+            "Emolliency",
+            "Film Forming",
+            "Anti-Aging",
+            "Anti-Inflammatory",
+            "Antimicrobial",
+            "Anti-Fungal",
+            "UV Protection",
+            "Water Repellency",
+            "Anti-Bacterial"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Pongamia Glabra Seed Oil"
+        ],
+        "Functions": [
+            "Water Repellent",
+            "Emollient",
+            "Anti-Aging Agent",
+            "Film Former",
+            "UV Absorber",
+            "Anti-Microbial Agent",
+            "Protective Agent",
+            "Anti-Inflammatory"
+        ],
+        "Ingredient Origin": [
+            "Plant Origin"
+        ],
+        "Labeling Claims": [
+            "Clean at Sephora",
+            "Non-Photoallergenic",
+            "Natural",
+            "Non-Phototoxic",
+            "Organic",
+            "Ulta Beauty's Conscious Beauty"
+        ],
+        "Certifications & Compliance": [
+            "Organic Certified",
+            "COSMOS",
+            "ECOCERT"
+        ],
+        "Benefit Claims": [
+            "UV Protection",
+            "Anti-Aging",
+            "Anti-Fungal",
+            "Anti-Bacterial",
+            "Emolliency",
+            "Antimicrobial",
+            "Film Forming",
+            "Water Repellency",
+            "Anti-Inflammatory"
+        ]
+    }
+}

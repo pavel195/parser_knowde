@@ -1,0 +1,47 @@
+{
+    "id": 343605,
+    "brand": "auroren",
+    "name": "VANIOL HDL-100",
+    "slug": "vaniol-hdl-100",
+    "description": "VANIOL HDL-100 is high performance synthetic dispersant .It is more applicable as dye dispersant than lignin dispersant, because of its stronger dispersing performance and the light colors.",
+    "company_name": "Nippon Paper Industries",
+    "company_slug": "nippon-paper-industries",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708689981/production/Brand/25451/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609103/production/CategoryImage/595/category_image/PrintingPackaging_06.jpg",
+    "properties": {
+        "Applications": [
+            "Ceramics & Refractory",
+            "Mortars & Plasters",
+            "Flooring & Surfaces",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Glass & Ceramic Additives",
+            "Processing Aids"
+        ],
+        "Chemical Family": [
+            "Sulfonic Acids & Derivatives",
+            "Sulfonates",
+            "Naphthenics & Naphthalenes"
+        ],
+        "End Uses": [
+            "Ceramics"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Dispersant"
+        ],
+        "Chemical Family": [
+            "Naphthenics & Naphthalenes",
+            "Sulfonic Acids & Derivatives",
+            "Sulfonates"
+        ],
+        "End Uses": [
+            "Ceramics"
+        ],
+        "Features": [
+            "Excellent Dispersibility"
+        ]
+    }
+}

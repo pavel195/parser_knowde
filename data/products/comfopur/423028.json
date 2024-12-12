@@ -1,0 +1,42 @@
+{
+    "id": 423028,
+    "brand": "comfopur",
+    "name": "ComfoPUR® W 50",
+    "slug": "comfopur-w-50",
+    "description": "ComfoPUR® W 50 range comprises different types of fluorocarbon-free PUR flexible foam systems that meet the most stringent fire protection standards for comfort products, such as seats, child car seats or headrests used in automotive, rail and aviation industries.",
+    "company_name": "Foam Partner",
+    "company_slug": "foam-partner",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1702444517/production/Brand/33281/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608760/production/CategoryImage/576/category_image/AutomotiveTransportation_04.jpg",
+    "properties": {
+        "Applications": [
+            "Aerospace & Aviation",
+            "Rail & Mass Transit",
+            "Interior",
+            "Automotive",
+            "Transportation"
+        ],
+        "Product Families": [
+            "Foams"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ],
+        "End Uses": [
+            "Headrest",
+            "Seats"
+        ]
+    },
+    "summary": {
+        "Foam Type": [
+            "Flexible Foam"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ],
+        "End Uses": [
+            "Seats",
+            "Headrest"
+        ]
+    }
+}

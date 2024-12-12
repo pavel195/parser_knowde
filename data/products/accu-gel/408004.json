@@ -1,0 +1,77 @@
+{
+    "id": 408004,
+    "brand": "accu-gel",
+    "name": "Accu-Gel™ Pea Starch",
+    "slug": "nutripea-accu-gel-pea-starch",
+    "description": "Accu-Gel™ Pea Starch is derived from Canadian yellow peas, Accu-Gel a solvent-free, allergen-free, gluten-free, GMO-free and vegan-friendly native starch with a broad range of food applications.",
+    "company_name": "NutriPea",
+    "company_slug": "nutripea",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686109441/production/Brand/31557/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606984/production/CategoryImage/507/category_image/FoodNutrition_08.jpg",
+    "properties": {
+        "Applications": [
+            "Animal Health & Nutrition",
+            "Food",
+            "Bakery",
+            "Confectionery",
+            "Convenience Foods",
+            "Desserts & Fruit Preparations",
+            "Meat, Poultry & Seafood",
+            "Savory & Culinary",
+            "Pets"
+        ],
+        "Product Families": [
+            "Texture & Consistency",
+            "Starches & Thickeners"
+        ],
+        "End Uses": [
+            "Candies",
+            "Cookies",
+            "Food Coatings",
+            "Processed Meat Products",
+            "Puddings",
+            "Bread",
+            "Cakes",
+            "Muffins",
+            "Cheese Analogues"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Pea Starch"
+        ],
+        "Labeling Claims": [
+            "Sustainable",
+            "Vegan",
+            "Halal",
+            "Plant-Based",
+            "Allergen-free",
+            "Solvent-free",
+            "Additive-free",
+            "Clean Label",
+            "Non-GMO",
+            "Kosher",
+            "Gluten-free",
+            "GMO-free",
+            "Naturally Derived"
+        ],
+        "Physical Form": [
+            "Solid",
+            "Powder"
+        ],
+        "Features": [
+            "Low Glycemic Index"
+        ],
+        "End Uses": [
+            "Food Coatings",
+            "Bread",
+            "Candies",
+            "Processed Meat Products",
+            "Muffins",
+            "Puddings",
+            "Cheese Analogues",
+            "Cakes",
+            "Cookies"
+        ]
+    }
+}

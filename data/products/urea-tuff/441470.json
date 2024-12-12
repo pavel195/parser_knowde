@@ -1,0 +1,43 @@
+{
+    "id": 441470,
+    "brand": "urea-tuff",
+    "name": "TUFF-POXY Primer #1",
+    "slug": "tuff-poxy-primer-1",
+    "description": "TUFF-POXY PRIMER #1 is a two (2) component, 100% solids, solvent-free liquid applied, epoxy-polyamine primer. The special polyamine gives unique penetrating characteristics and a rapid cure. It has low viscosity and excellent adhesion to various surfaces and basecoats.",
+    "company_name": "Tufflex Polymers",
+    "company_slug": "tufflex-polymers",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664569222/production/Company/64339/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608502/production/CategoryImage/564/category_image/BuildingConstruction_08.jpg",
+    "properties": {
+        "Applications": [
+            "Architectural Coatings",
+            "Building Envelope & Roofing"
+        ],
+        "Product Families": [
+            "Primers & Sealers",
+            "Paints & Coatings"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Primer",
+            "2K (2 component) Coating",
+            "Epoxy Coating",
+            "Solventless & High Solids Coating"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Wood",
+            "Concrete"
+        ],
+        "Features": [
+            "Low Odor",
+            "Low Viscosity",
+            "Excellent Substrate Adhesion",
+            "High Solids Content"
+        ],
+        "Application Method": [
+            "Roller",
+            "Brush"
+        ]
+    }
+}

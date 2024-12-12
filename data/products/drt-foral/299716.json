@@ -1,0 +1,40 @@
+{
+    "id": 299716,
+    "brand": "drt-foral",
+    "name": "Staybelite Ester 3",
+    "slug": "drt-staybelite-ester-3",
+    "description": "Staybelite Ester 3 rosin, the triethylene glycol ester of partially hydrogenated wood rosin, is a pale, viscous, balsamic liquid with the resistance to oxidation and discoloration characteristic of the Staybelite series of rosin esters.",
+    "company_name": "DRT",
+    "company_slug": "drt",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1703849543/production/Company/22776/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609091/production/CategoryImage/594/category_image/PrintingPackaging_05.jpg",
+    "properties": {
+        "Applications": [
+            "Other Adhesives & Sealants Applications"
+        ],
+        "Product Families": [
+            "Surface Modifiers",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Polyesters",
+            "Rosins",
+            "Esters"
+        ],
+        "End Uses": [
+            "Hot Melt Adhesive",
+            "Pressure Sensitive Adhesive"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Rosins",
+            "Esters",
+            "Polyesters"
+        ],
+        "End Uses": [
+            "Hot Melt Adhesive",
+            "Pressure Sensitive Adhesive"
+        ]
+    }
+}

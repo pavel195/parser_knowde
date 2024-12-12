@@ -1,0 +1,32 @@
+{
+    "id": 332629,
+    "brand": "eggtek",
+    "name": "EggTek™ For Swine",
+    "slug": "eggtek-for-swine",
+    "description": "EggTek™ is specifically formulated to blanket piglets during the most critical time in their life. Fed in a daily feed regime during times of stress EggTek™ For Swine can help maintain healthy weight gain, and support the overall immune system.",
+    "company_name": "Arkion Life Sciences",
+    "company_slug": "arkion-life-sciences",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686126977/production/Brand/24474/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1686126977/production/Product/332629/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Animal Health & Nutrition",
+            "Swine"
+        ],
+        "Product Families": [
+            "Formulated Feeds & Premixes",
+            "Formulated Feeds, Whole Foods and Extracts"
+        ]
+    },
+    "summary": {
+        "Animal Species": [
+            "Swine"
+        ],
+        "Features": [
+            "Improves Body Weight Gain",
+            "Supports Immunity",
+            "Improves Immunity",
+            "Improving Stress Tolerance"
+        ]
+    }
+}

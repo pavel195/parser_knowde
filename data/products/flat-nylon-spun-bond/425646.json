@@ -1,0 +1,47 @@
+{
+    "id": 425646,
+    "brand": "flat-nylon-spun-bond",
+    "name": "Spectralon®",
+    "slug": "thermal-nylon-spun-bond-spectralon",
+    "description": "Spectralon® products are thermally bonded nonwoven fabrics available in custom colors. The coloring of the fabric is achieved by encapsulating the colors in the fibers and, therefore, is less likely to bleach, fade or wash out of the fabric.",
+    "company_name": "Cerex Advanced Fabrics, Inc",
+    "company_slug": "cerex-advanced-fabrics",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704106647/production/Company/29183/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1704106647/production/Product/425646/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Apparel",
+            "Technical Fabrics",
+            "Leather & Textiles"
+        ],
+        "Product Families": [
+            "Technical Fibers & Fabrics",
+            "Textile & Leather Chemicals"
+        ],
+        "Chemical Family": [
+            "Polyamides"
+        ]
+    },
+    "summary": {
+        "Fiber Type": [
+            "Polyamide"
+        ],
+        "Chemical Family": [
+            "Polyamides"
+        ],
+        "Features": [
+            "Good Toughness",
+            "High Durability",
+            "Good Thermal Stability",
+            "Good Tear Strength",
+            "Solvent Resistance",
+            "Alkali Resistant",
+            "High Color Strength",
+            "Acid Resistance",
+            "High Tensile Strength",
+            "High Melting Point",
+            "Chemical Resistance",
+            "Improved Uniformity"
+        ]
+    }
+}

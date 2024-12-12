@@ -1,0 +1,56 @@
+{
+    "id": 251327,
+    "brand": "floractiv",
+    "name": "Amino Selenit",
+    "slug": "amino-selenit",
+    "description": "AminoSelenit – an innovative growth stimulant from the Arkop FoliarLab series of specialized products intended for application in field, orchard and vegetable cultivation. Owing to the proprietary technology based on the use of amino acids, selenium and other active components, AminoSelenit Bio provides effective stimulation of the plant, acting concurrently at the following three levels: Stress Protection Tech, Molecular Action and Growth Stimulation.",
+    "company_name": "Arkop",
+    "company_slug": "arkop",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672051/production/Product/251327/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708672051/production/Product/251327/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Ornamentals",
+            "Trees & Woodlands",
+            "Other Agricultural Crops",
+            "Residential Pest Control",
+            "Commercial Pest Control",
+            "Agricultural Pest Control",
+            "Vegetables",
+            "Sugar & Starch Crops",
+            "Oilseeds",
+            "Nuts",
+            "Legumes",
+            "Herbs & Spice Crops",
+            "Fruits",
+            "Fodder & Forage",
+            "Fiber Crops",
+            "Cereals",
+            "Agricultural Crops",
+            "Pest Control",
+            "Turf, Ornamentals & Landscape"
+        ],
+        "Product Families": [
+            "Other Plant Health, Nutrients & Soil Management Products",
+            "Plant Growth Regulators (PGR) & Harvest Aids",
+            "Abiotic Stress Mitigators",
+            "Plant Health, Nutrients & Soil Management"
+        ],
+        "Chemical Family": [
+            "Proteins, Peptides & Amino Acid Derivatives"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Plant Growth Regulator (PGR)",
+            "Growth Stimulant",
+            "Abiotic Stress Mitigator"
+        ],
+        "Chemical Family": [
+            "Proteins, Peptides & Amino Acid Derivatives"
+        ],
+        "Features": [
+            "Enhanced Crop Yield & Quality"
+        ]
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "id": 300202,
+    "brand": "xecarb-sl",
+    "name": "XECARB® 11-C20-HP",
+    "slug": "xecarb-11-c20-hp",
+    "description": "XECARB® 11-C20-HP is a 20% carbon fiber reinforced PP",
+    "company_name": "Xenia",
+    "company_slug": "xenia",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708530046/production/Company/24102/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708530046/production/Product/300202/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Equipment & Parts",
+            "Sports & Recreation",
+            "Footwear",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Polyolefins",
+            "Thermoplastic Resins",
+            "Polymers & Resins",
+            "Basic Thermoplastics"
+        ],
+        "Chemical Family": [
+            "Polypropylenes (PP)",
+            "Polyolefins"
+        ],
+        "Polymer Name": [
+            "Polypropylene Homopolymer (HPP)"
+        ],
+        "End Uses": [
+            "Mountaineering Boots",
+            "Structural Parts",
+            "Sporting Goods",
+            "Industrial Applications",
+            "Gears"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polypropylene Homopolymer (HPP)"
+        ],
+        "Chemical Family": [
+            "Polypropylenes (PP)",
+            "Polyolefins"
+        ],
+        "Reinforcement Material": [
+            "Carbon Fibers"
+        ],
+        "Fillers Included": [
+            "Carbon Fiber"
+        ],
+        "Processing Methods": [
+            "Injection Molding"
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "id": 163188,
+    "brand": "omacide",
+    "name": "Bardac® 2280",
+    "slug": "bardac-2280",
+    "description": "Bardac® 2280 Antimicrobial contains the active substance Didecyldimethyl- ammonium chloride (DDAC). The active is a cationic molecule offering good surfactant properties and can be formulated together with non- ionic and/or amphoteric surfactants. DDAC has antimicrobial efficacy against gram-positive and gram-negative bacteria, yeast, algae and enveloped viruses. High antimicrobial efficacy is maintained even at low temperatures and in the presence of organic soil, such as blood and protein. In formulated products, DDAC is stable over a wide range of pH levels and can be used in a number of applications such as food processing, institutional, veterinary, healthcare areas, home care, product preservation and laundry sanitisers. This “fourth” generation quaternary ammonium compound shows excellent tolerance to hard water and different pH levels.",
+    "company_name": "Arxada",
+    "company_slug": "arxada",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709824470/production/Company/408/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1709824470/production/Product/163188/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Other Home Care Applications",
+            "Food Facility Cleaning & Sanitization",
+            "Technical Cleaning",
+            "Laundry & Fabric Care",
+            "Auto Care",
+            "Institutional & Catering",
+            "Other Institutional & Industrial Care",
+            "Surface Care",
+            "Industrial Cleaning",
+            "Food & Beverage Manufacturing",
+            "Processing & Packaging",
+            "Home Care",
+            "Institutional & Industrial Care"
+        ],
+        "Product Families": [
+            "Cationic Surfactants",
+            "Microbial Control & Preservatives",
+            "Soaps & Surfactants",
+            "Functional Additives"
+        ],
+        "Chemical Family": [
+            "Quaternary Ammonium Compounds"
+        ],
+        "End Uses": [
+            "Sanitizers",
+            "Disinfectant Products"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Didecyl Dimethyl Ammonium Chloride"
+        ],
+        "CAS Number": [
+            "7173-51-5"
+        ],
+        "Functions": [
+            "Biocide",
+            "Surfactant (Cationic)",
+            "Anti-Microbial Agent",
+            "Surfactant",
+            "Antibacterial Agent",
+            "Anti-Algal Agent"
+        ],
+        "Chemical Family": [
+            "Quaternary Ammonium Compounds"
+        ],
+        "Certifications & Compliance": [
+            "BPR Supported",
+            "REACH (Europe)"
+        ],
+        "Synonyms": [
+            "DDAC, Di-n-decyl-dimethylammonium chloride, Didecyldimethylammonium chloride, Didecyldimethylammounium chloride, Dimethyldidecylammonium chloride, N,N-Didecyl-N,N-dimethylammonium chloride"
+        ]
+    }
+}

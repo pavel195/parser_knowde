@@ -1,0 +1,38 @@
+{
+    "id": 405285,
+    "brand": "wilclear",
+    "name": "ChitoRem® Chitin Complex",
+    "slug": "chitorem-chitin-complex",
+    "description": "CHITOREM® is a 100% natural product that is comprised of chitin (a natural polysaccharide), proteinaceousmaterial, and calcium carbonate. This product is used in bioremediation as a carbon source and subsequent electron donor for the microbial degradation of chlorinated solvents, heavy metals, perchlorates, and acid mine drainage in contaminated aquifers.\r\n",
+    "company_name": "JRW Bioremediation",
+    "company_slug": "jrw-bioremediation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708689163/production/Brand/31055/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Product Families": [
+            "Other Processing Additives",
+            "Processing Aids"
+        ],
+        "Chemical Family": [
+            "Calcium Salts",
+            "Carbonates"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Carbonates",
+            "Calcium Salts"
+        ],
+        "Functions": [
+            "Buffers & pH Stabilizer"
+        ],
+        "Applicable Processes": [
+            "Metal Recovery",
+            "Bioremediation",
+            "Groundwater Treatment"
+        ],
+        "Features": [
+            "Low Alkalinity"
+        ]
+    }
+}

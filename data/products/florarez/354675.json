@@ -1,0 +1,63 @@
+{
+    "id": 354675,
+    "brand": "florarez",
+    "name": "FloraRez® PR",
+    "slug": "florachem-florarez-pr",
+    "description": "FloraRez® PR is gum rosin that has undergone partial hydrogenation. It is a pale-colored resin with excellent thermal and oxidative stability characteristics due to the hydrogenation process. Compared to unmodified gum, wood, and tall oil rosins, it offers a higher degree of color and solubility stability for the derivative products produced from it.",
+    "company_name": "FLORACHEM",
+    "company_slug": "florachem",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708698998/production/Company/1228/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708698998/production/Company/1228/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Tires",
+            "Exterior & Body",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Rheology Modifiers & Stabilizers",
+            "Other Resins & Binders",
+            "Surface Modifiers",
+            "Functional Additives",
+            "Performance Additives",
+            "Additives",
+            "Resins & Binders",
+            "Polymer Additives",
+            "Elastomer Additives"
+        ],
+        "Chemical Family": [
+            "Hydrogenated Rosin"
+        ],
+        "End Uses": [
+            "Hot Melt Adhesive",
+            "Tires",
+            "Automotive Exterior Parts"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Hydrogenated Rosin"
+        ],
+        "Functions": [
+            "Binder & Resin",
+            "Tackifier",
+            "Tackifier",
+            "Plasticizer"
+        ],
+        "Labeling Claims": [
+            "Sustainable"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Elastomers & Rubbers"
+        ],
+        "Compatible Polymers & Resins": [
+            "Other Thermosets",
+            "Other Rubbers",
+            "Alkyds",
+            "Other Thermoplastics"
+        ],
+        "Synonyms": [
+            "Rosin, hydrogenated"
+        ]
+    }
+}

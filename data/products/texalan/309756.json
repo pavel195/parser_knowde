@@ -1,0 +1,72 @@
+{
+    "id": 309756,
+    "brand": "texalan",
+    "name": "TEXALAN® 290A",
+    "slug": "texalan-290a",
+    "description": "TEXALAN® 290A This product is safe and environmentally friendly, has excellent abrasion resistance, solvent resistance, good hand feeling, repeated benefits High utilization rate, high strength and excellent processing performance",
+    "company_name": "Austin Novel Materials",
+    "company_slug": "austin-novel-materials",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708526789/production/Product/309756/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608769/production/CategoryImage/577/category_image/AutomotiveTransportation_05.jpg",
+    "properties": {
+        "Applications": [
+            "Other Packaging Materials",
+            "Equipment & Parts",
+            "Other Paints & Coatings Applications",
+            "Footwear",
+            "Furniture",
+            "Other Automotive Applications",
+            "Building Wires & Power Cables",
+            "Other Industrial Applications",
+            "Pipes & Tanks",
+            "Belts & Conveyers",
+            "Automotive",
+            "Wire & Cable",
+            "Chemical & Industrial Manufacturing",
+            "Packaging"
+        ],
+        "Product Families": [
+            "Polyurethanes",
+            "Thermoset Resins"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ],
+        "Polymer Name": [
+            "Polyurethane (unspecified)"
+        ],
+        "End Uses": [
+            "Automotive Exterior Parts",
+            "Film",
+            "Flexible Packaging",
+            "Automotive Applications",
+            "Cables",
+            "Pipes",
+            "Belts/Belt Repair"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyurethane (unspecified)"
+        ],
+        "Processing Methods": [
+            "Extrusion",
+            "Injection Molding"
+        ],
+        "End Uses": [
+            "Cables",
+            "Pipes",
+            "Belts/Belt Repair",
+            "Film",
+            "Flexible Packaging",
+            "Automotive Applications",
+            "Automotive Exterior Parts"
+        ],
+        "Density": [
+            "1180.0 - 1220.0 kg/m³"
+        ],
+        "Tensile Strength": [
+            "40.0 - 40.0 MPa"
+        ]
+    }
+}

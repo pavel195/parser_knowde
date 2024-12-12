@@ -1,0 +1,44 @@
+{
+    "id": 340002,
+    "brand": "roseodaat",
+    "name": "AMLADAAT",
+    "slug": "amladaat",
+    "description": "AMLADAAT is a botanical ingredient used for bone-joint support and sport nutrition.",
+    "company_name": "Lodaat Pharma",
+    "company_slug": "lodaat-pharma",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708690653/production/Brand/25030/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607098/production/CategoryImage/501/category_image/FoodNutrition_02.jpg",
+    "properties": {
+        "Applications": [
+            "Sports Nutrition",
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Plant & Herb Products & Extracts",
+            "Nutrition & Fortification",
+            "Whole Foods, Extracts & Premixes",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Nutraceuticals",
+            "Sports Nutrition"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Supplement",
+            "Dietary Supplement"
+        ],
+        "Ingredient Origin": [
+            "Plant Origin",
+            "Natural Origin"
+        ],
+        "Labeling Claims": [
+            "Naturally Derived",
+            "Plant-Based"
+        ]
+    }
+}

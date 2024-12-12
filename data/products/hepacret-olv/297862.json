@@ -1,0 +1,39 @@
+{
+    "id": 297862,
+    "brand": "hepacret-olv",
+    "name": "EPACRETE EPAPOX BUS",
+    "slug": "epacrete-epapox-bus",
+    "description": "EPACRETE EPAPOX BUS is a solvent-free three-component system, particularly suitable as an adhesion promoter and impregnating agent for damp cementitious surfaces.",
+    "company_name": "Epaflex",
+    "company_slug": "epaflex",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664289087/production/Company/23690/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608490/production/CategoryImage/563/category_image/BuildingConstruction_07.jpg",
+    "properties": {
+        "Applications": [
+            "Building & Construction",
+            "Concrete Coatings & Stains",
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Solventless & High Solids Coating",
+            "2K (2 component) Coating",
+            "Epoxy Coating",
+            "Primer"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Concrete"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    }
+}

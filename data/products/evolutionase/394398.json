@@ -1,0 +1,30 @@
+{
+    "id": 394398,
+    "brand": "evolutionase",
+    "name": "Atomes CHERRY",
+    "slug": "atomes-cherry",
+    "description": "Atomes Cherry is a cherry-scented deodorant. CHERRY is extremely effective against microbes and has a pleasant long-lasting scent.",
+    "company_name": "Atomes",
+    "company_slug": "atomes",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1682593061/production/Company/49452/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515647/production/CategoryImage/1055/category_image/HII_07.jpg",
+    "properties": {
+        "Applications": [
+            "Institutional & Industrial Care",
+            "Institutional & Catering"
+        ],
+        "Product Families": [
+            "Commercial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Sanitizers",
+            "Deodorizers"
+        ],
+        "Features": [
+            "Neutralizes Odor"
+        ]
+    }
+}

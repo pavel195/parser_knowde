@@ -1,0 +1,31 @@
+{
+    "id": 389767,
+    "brand": "repelacoat",
+    "name": "REPELACOAT™ ANTI-MICROBIAL COATING",
+    "slug": "repelacoat-anti-microbial-coating",
+    "description": "REPELACOAT™ ANTI-MICROBIAL COATING prevents growth of commonly occurring organisms such as E.coli, S.aureus, and P.aeruginosa.",
+    "company_name": "AST Products",
+    "company_slug": "ast-products",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664291714/production/Brand/29323/logo/image.png",
+    "banner_url": "https://static.knowde.com/card-banners/knowde-card-for-raw-materials-8.jpg",
+    "properties": {
+        "Applications": [
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Waterborne Coating"
+        ],
+        "Features": [
+            "Excellent Lubricity",
+            "Microbe Resistant",
+            "Durable",
+            "Long Shelf Life"
+        ]
+    }
+}

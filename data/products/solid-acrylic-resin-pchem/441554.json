@@ -1,0 +1,45 @@
+{
+    "id": 441554,
+    "brand": "solid-acrylic-resin-pchem",
+    "name": "Solid Acrylic Resin PChem® BM260",
+    "slug": "solid-acrylic-resin-pchem-bm260",
+    "description": "Solid Acrylic Resin PChem® BM260 is a copolymer of methyl methacrylate and butyl methacrylate. It is also good for 2K system coating since it can react with amino and polyisocyanate resins to form crosslinked structures. BM260 is excellent binder for adhesion of aluminum and polystyrene. It is also good for applications of pigmented lacquer. BM260 is soluble in esters, ketones, aromatic, glycol ethers, glycol ether acetates and chlorinated hydrocarbons. BM260 is compatible with alkyd resins.",
+    "company_name": "Pioneer Solutions Americas",
+    "company_slug": "pioneer-solutions-americas",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112343/production/Company/64341/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608621/production/CategoryImage/570/category_image/PaintingsCoatings_06.jpg",
+    "properties": {
+        "Applications": [
+            "Printing & Inks",
+            "Other Printing Applications"
+        ],
+        "Product Families": [
+            "Resins & Binders",
+            "Acrylics"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ],
+        "End Uses": [
+            "Lacquers",
+            "2K (2 component) Coating"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ],
+        "End Uses": [
+            "2K (2 component) Coating",
+            "Lacquers"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Aluminum",
+            "Metal",
+            "Plastics"
+        ],
+        "Glass Transition Temperature (Tg)": [
+            "50.0 - 50.0 °C"
+        ]
+    }
+}

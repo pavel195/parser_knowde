@@ -1,0 +1,51 @@
+{
+    "id": 424398,
+    "brand": "cucina-andolina",
+    "name": "Cheese Merchants Pure Parmesan Cheese",
+    "slug": "cheese-merchants-pure-parmesan-cheese",
+    "description": null,
+    "company_name": "Cheese Merchants",
+    "company_slug": "cheese-merchants",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1703231634/production/Company/32534/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608173/production/CategoryImage/547/category_image/AgricultureFeed_03.jpg",
+    "properties": {
+        "Applications": [
+            "Savory & Culinary",
+            "Bakery",
+            "Convenience Foods",
+            "Food"
+        ],
+        "Product Families": [
+            "Dairy Products",
+            "Whole Foods, Extracts & Premixes"
+        ],
+        "End Uses": [
+            "Pasta Sauces",
+            "Toppings",
+            "Pasta",
+            "Pizza",
+            "Packaged Salads"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Parmesan Cheese"
+        ],
+        "Labeling Claims": [
+            "Gluten-free",
+            "rBGH-free",
+            "GMO-free",
+            "Halal"
+        ],
+        "Certifications & Compliance": [
+            "FFDCA",
+            "Halal"
+        ],
+        "Features": [
+            "High Purity"
+        ],
+        "Sugar Content": [
+            "0.0 - 0.0 %"
+        ]
+    }
+}

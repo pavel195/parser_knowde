@@ -1,0 +1,46 @@
+{
+    "id": 318201,
+    "brand": "orient-chemical-industries-bonjet",
+    "name": "Orient Chemical Industries OIL YELLOW 107",
+    "slug": "orient-chemical-industries-oil-yellow-107",
+    "description": "Orient Chemical Industries Oil Yellow 107 are organic dyes that have excellent solubility in many organic solvents. They have brilliant color in various applications. They have been used for gasoline, shoe polish, felt pen ink, and in many other applications.",
+    "company_name": "Orient Chemical Industries",
+    "company_slug": "orient-chemical-industries",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708522855/production/Company/29929/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609078/production/CategoryImage/593/category_image/PrintingPackaging_04.jpg",
+    "properties": {
+        "Applications": [
+            "Leather Manufacturing",
+            "Textile Manufacturing",
+            "Overprint Varnishes",
+            "Primers & Lacquers",
+            "Inkjet Printing",
+            "Packaging Coatings",
+            "Printing & Inks",
+            "Leather & Textiles"
+        ],
+        "Product Families": [
+            "Acid Dyes",
+            "Dyes",
+            "Pigments & Colorants"
+        ],
+        "End Uses": [
+            "Varnishes",
+            "Inkjet Ink",
+            "Lacquers"
+        ]
+    },
+    "summary": {
+        "Color": [
+            "Yellow"
+        ],
+        "Dye Type": [
+            "Acid Dyes"
+        ],
+        "End Uses": [
+            "Varnishes",
+            "Lacquers",
+            "Inkjet Ink"
+        ]
+    }
+}

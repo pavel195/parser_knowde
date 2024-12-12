@@ -1,0 +1,39 @@
+{
+    "id": 304644,
+    "brand": "00137-grande-ricotta-prima-dolce",
+    "name": "Grande Cheese 00143-Grande Ricotta Tenera",
+    "slug": "grande-cheese-00143-grande-ricotta-tenera",
+    "description": "Grande Cheese 00143-Grande Ricotta Tenera has an unmatched flavor, with consistent performance. The tiny, tender curds give it a slightly textured mouthfeel and is ideal in a wide variety of recipes including lasagna, baked ziti and other applications prepared in advance.",
+    "company_name": "Grande Cheese",
+    "company_slug": "grande-cheese",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686634763/production/Company/18916/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607305/production/CategoryImage/515/category_image/FoodNutrition_15.jpg",
+    "properties": {
+        "Applications": [
+            "Food",
+            "Bakery",
+            "Convenience Foods",
+            "Meat, Poultry & Seafood",
+            "Savory & Culinary"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Dairy Products"
+        ],
+        "End Uses": [
+            "Pasta",
+            "Packaged Wraps",
+            "Packaged Salads",
+            "Pizza",
+            "Packaged Sandwiches"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Ricotta Cheese"
+        ],
+        "Labeling Claims": [
+            "Additive-free"
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "id": 84271,
+    "brand": "dub",
+    "name": "DUB™ B1215",
+    "slug": "dub-b1215",
+    "description": "Hair lubricant, sun and perfum solubilizer, suspension agent for anti-perspirants, good solvent",
+    "company_name": "Stearinerie Dubois",
+    "company_slug": "stearinerie-dubois",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708686668/production/Company/1426/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708686668/production/Company/1426/card_banner/image",
+    "properties": {
+        "Applications": [
+            "AP/Deo",
+            "Baby Care",
+            "Bath & Shower",
+            "Color Cosmetics",
+            "Hair Care",
+            "Skin Care",
+            "Sun Care",
+            "Treatment Products",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Solvents & Carriers",
+            "Emulsifiers, Solubilizers & Dispersants",
+            "Functionals"
+        ],
+        "Chemical Family": [
+            "Esters"
+        ],
+        "INCI Name": [
+            "C12-15 Alkyl Benzoate"
+        ],
+        "End Uses": [
+            "Body Wash",
+            "Antiperspirants",
+            "Body Oil",
+            "Foot Cleansers",
+            "Fragrances & Perfumes",
+            "Body Firming Lotion",
+            "Baby Sunscreen",
+            "Anti-Dandruff Products",
+            "BB Creams",
+            "CC Cream",
+            "Baby Oil",
+            "Foundation",
+            "Facial Cleanser",
+            "Face Powder",
+            "Eye Shadow",
+            "Diaper Cream",
+            "Concealer",
+            "Blush",
+            "Beard Oil",
+            "Anti-Aging Products",
+            "Foot Moisturizer",
+            "Facial Moisturizer",
+            "After Shaves",
+            "Shampoos & Rinses"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "C12-15 Alkyl Benzoate"
+        ],
+        "Functions": [
+            "Solvent",
+            "Solubilizer"
+        ],
+        "Ingredient Origin": [
+            "Synthetic"
+        ],
+        "Labeling Claims": [
+            "Credo Clean Standard",
+            "Ulta Beauty's Conscious Beauty"
+        ]
+    }
+}

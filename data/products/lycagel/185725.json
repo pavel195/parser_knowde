@@ -1,0 +1,83 @@
+{
+    "id": 185725,
+    "brand": "lycagel",
+    "name": "LYCASIN® 80/55 non-GMO Maltitol Syrup",
+    "slug": "lycasin-80-55-non-gmo",
+    "description": "LYCASIN® 80/55 non-GMO maltitol syrup is a toothfriendly sweetener used in confectionery and baking applications.\n\nBenefits\n\n\nNon-GMO\nSugar-free\n\n\nFeatures\n\n\nAnti-crystallization \nEnhanced shelf life\nNon-cariogenic \n",
+    "company_name": "Roquette",
+    "company_slug": "roquette",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1581766246/production/Brand/12175/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1581766742/production/Product/185725/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Oral",
+            "Nutraceuticals & Supplements",
+            "Other Food Applications",
+            "Savory & Culinary",
+            "Desserts & Fruit Preparations",
+            "Confectionery",
+            "Cereals & Snacks",
+            "Bakery",
+            "Food",
+            "Nutrition & Well Being",
+            "Drug Delivery & Care Solutions"
+        ],
+        "Product Families": [
+            "Functional Ingredients",
+            "Supplements & Functional Ingredients",
+            "Other Excipients",
+            "Flavors & Taste Maskers",
+            "Carriers & Bulking Agents",
+            "Sweeteners & Syrups",
+            "Other Functional Additives",
+            "Binders & Disintegrants",
+            "Taste & Flavor",
+            "Functional Additives",
+            "Nutrition & Fortification",
+            "Excipients",
+            "Nutraceuticals & Supplements"
+        ],
+        "Ingredient Name": [
+            "Maltitol"
+        ],
+        "End Uses": [
+            "Nutraceuticals",
+            "Filling Applications",
+            "Hard Boiled Candy",
+            "Candies",
+            "Toppings",
+            "Icing",
+            "Custard",
+            "Confectionery Products",
+            "Confectionery Coatings",
+            "Marshmallow",
+            "Chewy Sweets",
+            "Chewing Gum",
+            "Snacks",
+            "Pastries",
+            "Cakes",
+            "Breakfast Cereals",
+            "Biscuits & Cookies"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Maltitol"
+        ],
+        "Chemical Name": [
+            "Maltitol"
+        ],
+        "CAS Number": [
+            "585-88-6"
+        ],
+        "Dosage Form": [
+            "Syrups",
+            "Suspension",
+            "Lozenges"
+        ],
+        "Labeling Claims": [
+            "Non-Cariogenic",
+            "Sugar-free"
+        ]
+    }
+}

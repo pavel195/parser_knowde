@@ -1,0 +1,35 @@
+{
+    "id": 428501,
+    "brand": "magnoplan",
+    "name": "Enterosol®",
+    "slug": "enterosol",
+    "description": "Enterosol® is a probiotic supplement for use in drinking water. It contains a high concentration of lactic acid-producing bacteria (Lactobacillus farciminis).",
+    "company_name": "Agraplan Farmaca B.V.",
+    "company_slug": "agraplan-farmaca-b-v",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708691026/production/Brand/34013/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608173/production/CategoryImage/547/category_image/AgricultureFeed_03.jpg",
+    "properties": {
+        "Applications": [
+            "Birds & Poultry",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Feed Supplements",
+            "Prebiotics, Probiotics & Postbiotics",
+            "Health & Well-Being",
+            "Nutritional Ingredients"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Supplement",
+            "Probiotic"
+        ],
+        "Features": [
+            "Improves Growth Performance",
+            "Maintains Gastrointestinal Integrity & Stability",
+            "Antibacterial",
+            "Improving Stress Tolerance"
+        ]
+    }
+}

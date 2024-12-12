@@ -1,0 +1,41 @@
+{
+    "id": 376905,
+    "brand": "aquaprim",
+    "name": "AQUARYL IMPRESS+",
+    "slug": "aquaryl-impress",
+    "description": "AQUARYL IMPRESS+ is a Opacifying impression based on acrylic resin in aqueous phase. Which is good filling power, good glide, VOC&lt; 1g/L. Indoors on usual building substrates such as plasterboard with cardboard skin, paint coatings, cement and hydraulic coatings, normally absorbent, bare or coated with old adherent paints in good condition. Interior: Temperature between 8° and 35°C - Hygrometry &lt; 70% RH. Do not apply on condensing substrates. Masonry moisture content &lt; 5%. The supports must comply with the DTU concerning them and in particular with NF DTU 59.1. Prior recognition necessary to determine the most suitable preparation for their condition and nature (cleaning, washing/rinsing, sanding, scraping, degreasing, roughening, dusting, etc.). In general, after preparation, the substrates must be healthy, cohesive, clean and dry to receive a coat of AQUARYL IMPRESS+.",
+    "company_name": "SCSO UNIKALO",
+    "company_slug": "scso-unikalo",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520271/production/Brand/28173/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608410/production/CategoryImage/557/category_image/BuildingConstruction_01.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Decorative Paints, Coatings & Stains",
+            "Decorative Materials & Finishes"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Top Coats"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Top Coat",
+            "Waterborne Coating"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Painted Surfaces",
+            "Concrete"
+        ],
+        "Application Method": [
+            "Brush"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "id": 387360,
+    "brand": "trimafloor",
+    "name": "Trimafloor 94",
+    "slug": "trimafloor-94",
+    "description": "Trimafloor 94 is a high quality epoxy ester, single pack, gloss floor paint.",
+    "company_name": "Trimite",
+    "company_slug": "trimite",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520295/production/Brand/29076/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608490/production/CategoryImage/563/category_image/BuildingConstruction_07.jpg",
+    "properties": {
+        "Applications": [
+            "Flooring & Surfaces",
+            "Floor Coatings"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "1K (1 component) Coating"
+        ],
+        "Features": [
+            "Good Grease Resistance",
+            "Anti-Slip",
+            "Water Resistant",
+            "Oil Resistant",
+            "High Gloss"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Concrete",
+            "Steel",
+            "Painted Surfaces",
+            "Wood"
+        ],
+        "Application Method": [
+            "Roller",
+            "Brush"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    }
+}

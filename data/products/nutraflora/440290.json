@@ -1,0 +1,61 @@
+{
+    "id": 440290,
+    "brand": "nutraflora",
+    "name": "VITESSENCE® TEX Crumbles 1651 - 70000698",
+    "slug": "vitessence-tex-crumbles-1651-70000698",
+    "description": "VITESSENCE® TEX Crumbles 1651 - 70000698 is a plant-based textured protein crumble made from pea protein. Produced through extrusion, it offers a crumbly texture that is ideal for a variety of food applications. This ingredient is derived from plant sources, making it suitable for plant-based and vegan products. It carries multiple labeling claims, including being halal, plant-based, non-GMO, kosher, gluten-free, and naturally derived. Additionally, it meets various certifications and compliance standards, such as Generally Recognized As Safe (GRAS) status, Kosher certification, Non-GMO Project verification, FDA approval, and Halal certification, ensuring its safety and quality for use in food products.",
+    "company_name": "Ingredion",
+    "company_slug": "ingredion",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709127911/production/Brand/31241/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1709127911/production/Company/46412/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Meat, Poultry & Seafood",
+            "Bakery",
+            "Meat Substitutes",
+            "Convenience Foods",
+            "Food"
+        ],
+        "Product Families": [
+            "Proteins & Amino Acids",
+            "Alternates & Replacements",
+            "Plant Proteins",
+            "Nutrition & Fortification",
+            "Whole Foods, Extracts & Premixes"
+        ],
+        "Ingredient Name": [
+            "Pea Protein, Texturized"
+        ],
+        "End Uses": [
+            "Meat Substitutes",
+            "Plant-based Meat"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Pea Protein, Texturized"
+        ],
+        "Ingredient Origin": [
+            "Plant Origin"
+        ],
+        "Labeling Claims": [
+            "Naturally Derived",
+            "Plant-Based",
+            "Gluten-free",
+            "Non-GMO",
+            "Kosher",
+            "Halal"
+        ],
+        "Certifications & Compliance": [
+            "Generally Recognized As Safe (GRAS)",
+            "Kosher",
+            "Non-GMO Project Verified",
+            "FDA Compliant",
+            "Halal"
+        ],
+        "Physical Form": [
+            "Solid",
+            "Crumbs"
+        ]
+    }
+}

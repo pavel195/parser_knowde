@@ -1,0 +1,42 @@
+{
+    "id": 361099,
+    "brand": "ktisofloor",
+    "name": "Ktisepox Piscine",
+    "slug": "ktisepox-piscine",
+    "description": "Ktisepox Piscine is an Epoxy pool coating  (two-components) that protects surfaces swimming pools and water reservoirs from water ingress and chemical abrasion.",
+    "company_name": "Ktisis",
+    "company_slug": "ktisis",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520282/production/Brand/26999/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608422/production/CategoryImage/558/category_image/BuildingConstruction_02.jpg",
+    "properties": {
+        "Applications": [
+            "Flooring & Surfaces",
+            "Floor Coatings"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Other Paints & Coatings"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Epoxy Coating",
+            "2K (2 component) Coating"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Concrete"
+        ],
+        "Features": [
+            "Acid Resistant",
+            "Oil Resistant",
+            "Abrasion Resistant",
+            "Alkali Resistant"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    }
+}

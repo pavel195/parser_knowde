@@ -1,0 +1,51 @@
+{
+    "id": 412408,
+    "brand": "geo-flo",
+    "name": "GEO-FLO SAFE",
+    "slug": "geo-flo-safe",
+    "description": "GEO-FLO™ SAFE includes a specially formulated inhibitor package to help prevent corrosion and extend the life of the fluid, promoting long-term Geothermal system operation. It meets ASTM D1384 corrosion protection performance requirements and as a PG based fluid, GEO-FLO™ SAFE is compatible with all materials in geothermal installation including plastic pipes and metal components. Since it is propylene glycol based, GEO-FLO™ SAFE is nonflammable, resulting in improved safety, both for system installation and operation compared to alcohol-based fluids. s GEO-FLOTM SAFE, a premium propylene glycol based geothermal heat transfer fluid designed for use in all residential geothermal installation systems.",
+    "company_name": "Recochem",
+    "company_slug": "recochem",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1703115031/production/Brand/32187/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Pipes & Plumbing",
+            "Equipment & Parts",
+            "Building Materials",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Heat Transfer Fluids",
+            "Fluids & Lubricants"
+        ],
+        "Chemical Family": [
+            "Polyglycols",
+            "Glycols",
+            "Propylene Glycols"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Heat Transfer Fluid"
+        ],
+        "Application Area": [
+            "Pipes"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Plastics"
+        ],
+        "Features": [
+            "Low Viscosity",
+            "Low Toxicity",
+            "Service Life Extension",
+            "Corrosion Resistant"
+        ],
+        "Chemical Family": [
+            "Propylene Glycols",
+            "Polyglycols",
+            "Glycols"
+        ]
+    }
+}

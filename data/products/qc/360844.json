@@ -1,0 +1,52 @@
+{
+    "id": 360844,
+    "brand": "qc",
+    "name": "Cera-Lube™ Nano Ceramic Grease",
+    "slug": "cera-lube-nano-ceramic-grease",
+    "description": "Cera-Lube™ Nano Ceramic Grease is a high-performance, highly stable lubricant that delivers unmatched performance, durability, and wear resistance. It outlasts PTFE greases in the same applications by ten times due to its lower friction coefficient and its ability to operate in a wider range of temperatures. Cera-Lube has high load-bearing properties; a low dielectric constant; does not contain metal or silicone; and is resistant to water, steam, acids, and most chemical products, giving the lubricant greater longevity, even under intense pressures and temperatures.",
+    "company_name": "Nanoplas",
+    "company_slug": "nanoplas",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680109054/production/Brand/26976/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Paper & Pulp",
+            "Power, Water & Utilities",
+            "Other Transportation Applications",
+            "Pulping & Processing",
+            "Water Treatment",
+            "Chemical & Industrial Manufacturing",
+            "Transportation",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Lubricants & Oils",
+            "Fluids & Lubricants"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Grease"
+        ],
+        "Application Area": [
+            "Bearings"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Steel"
+        ],
+        "Features": [
+            "High Loading Absorption Capability",
+            "High Performance",
+            "Good Adhesion",
+            "Corrosion Resistant",
+            "Long-term Lubricity",
+            "Reduced Friction",
+            "Extreme Pressure Performance",
+            "Improved Shear Stability",
+            "Low Dielectric Constant",
+            "Wear Resistant",
+            "High Dropping Point"
+        ]
+    }
+}

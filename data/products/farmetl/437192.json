@@ -1,0 +1,43 @@
+{
+    "id": 437192,
+    "brand": "farmetl",
+    "name": "FAR Chemical t-Butyl Nitrite (540-80-7)",
+    "slug": "far-chemical-t-butyl-nitrite-540-80-7",
+    "description": null,
+    "company_name": "FAR Chemical, Inc.",
+    "company_slug": "far-chemical",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709127875/production/Company/46012/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1626797274/production/CategoryImage/957/category_image/BaseChemicals_05.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical Manufacturing",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Esters",
+            "Solvents"
+        ],
+        "Chemical Family": [
+            "Esters",
+            "Nitrites",
+            "Nitriles"
+        ],
+        "End Uses": [
+            "Organic Synthesis"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "T-Butyl Nitrite"
+        ],
+        "CAS Number": [
+            "540-80-7"
+        ],
+        "Purity (Assay)": [
+            "90.0 - 97.0 %"
+        ],
+        "Synonyms": [
+            "α,α-Dimethylethyl nitrite"
+        ]
+    }
+}

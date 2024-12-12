@@ -1,0 +1,56 @@
+{
+    "id": 183712,
+    "brand": "demo-name",
+    "name": "Demo-brand® Superior",
+    "slug": "demo-brand-superior",
+    "description": "Demo-brand® Superior is a cationic emulsifying wax specially formulated for use in the preparation of elegant creme rinse conditioners. A custom blend of conditioning and viscosity building agents, this formulated concentrate readily disperses in hot water to form attractive, hair conditioner systems. It gently conditions hair, leaving it soft and manageable without building up deposits that can weigh down hair.",
+    "company_name": "Demo Inc",
+    "company_slug": "demo-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708687972/production/Company/7127/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708687972/production/Company/7127/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Hair Care",
+            "Sun Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Rheology Modifiers",
+            "Conditioners & Emollients",
+            "Functionals"
+        ],
+        "Chemical Family": [
+            "Waxes"
+        ],
+        "INCI Name": [
+            "Cetrimonium Bromide",
+            "Cetearyl Alcohol"
+        ],
+        "End Uses": [
+            "Baby Sunscreen",
+            "Shampoos & Rinses",
+            "Hair Treatment & Repair",
+            "Hair Conditioner"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Cetrimonium Bromide",
+            "Cetearyl Alcohol"
+        ],
+        "Functions": [
+            "Conditioner",
+            "Viscosity Modifier"
+        ],
+        "Labeling Claims": [
+            "Ulta Beauty's Conscious Beauty",
+            "Clean at Sephora"
+        ],
+        "Benefit Claims": [
+            "Texturizing",
+            "Volumizing",
+            "Manageability",
+            "Fly Away Reducing"
+        ]
+    }
+}

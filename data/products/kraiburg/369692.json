@@ -1,0 +1,38 @@
+{
+    "id": 369692,
+    "brand": "kraiburg",
+    "name": "KRAIBURG NBR",
+    "slug": "kraiburg-nbr",
+    "description": "KRAIBURG NBR is a nitrile rubber used in applications such as oil- and fuel-resistant seals, membranes, hoses, conveyor belts, rubber-metal bonds, plastic-to-rubber bonded parts and friction linings.",
+    "company_name": "GUMMIWERK KRAIBURG",
+    "company_slug": "gummiwerk-kraiburg",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697222854/production/Brand/27507/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608769/production/CategoryImage/577/category_image/AutomotiveTransportation_05.jpg",
+    "properties": {
+        "Applications": [
+            "Equipment & Parts",
+            "Other Industrial Applications",
+            "Pipes & Plumbing",
+            "Cooling & Climate",
+            "Fuel Systems",
+            "Automotive",
+            "Building Materials",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Nitrile Rubbers",
+            "Specialty Elastomers"
+        ],
+        "Chemical Family": [
+            "Nitrile Rubbers"
+        ],
+        "Polymer Name": [
+            "Acrylonitrile Butadiene Rubber (NBR)"
+        ],
+        "End Uses": [
+            "Hoses",
+            "Conveyor Parts"
+        ]
+    },
+    "summary": {}
+}

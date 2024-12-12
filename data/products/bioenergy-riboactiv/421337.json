@@ -1,0 +1,79 @@
+{
+    "id": 421337,
+    "brand": "bioenergy-riboactiv",
+    "name": "Bioenergy RiaGev®",
+    "slug": "bioenergy-riagev",
+    "description": "RiaGev is next-generation technology for more radiant, youthful, healthy- looking skin. It is a proprietary ingredient formulation that uniquely combines Bioenergy Ribose and Nicotinamide, and is clinically proven to directly enter the salvage pathway. A breakthrough ingredient that simultaneously boosts NAD+, ATP and glutathione, RiaGev uniquely boosts cellular energy while balancing the stress associated with energy production.",
+    "company_name": "Bioenergy Life Science, Inc. (BLS)",
+    "company_slug": "bioenergy-life-science-inc-bls",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708517648/production/Company/56913/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607247/production/CategoryImage/513/category_image/FoodNutrition_13.jpg",
+    "properties": {
+        "Applications": [
+            "Cereals & Snacks",
+            "Dairy Substitutes",
+            "Other Food Applications",
+            "Convenience Foods",
+            "Sports Nutrition",
+            "Functional Foods",
+            "Energy Drinks",
+            "Topical",
+            "Oral",
+            "Nutraceuticals & Supplements",
+            "Beverage",
+            "Food",
+            "Nutrition & Well Being",
+            "Drug Delivery & Care Solutions"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Meal Replacers",
+            "Powder Shakes",
+            "Nutritional Snacks",
+            "Plant Based Dairy Alternatives",
+            "Sports Nutrition",
+            "Dietary Supplements",
+            "Functional Foods",
+            "Functional Beverages"
+        ]
+    },
+    "summary": {
+        "Labeling Claims": [
+            "Keto",
+            "Natural",
+            "Plant-Based",
+            "Sustainable",
+            "Clean Label",
+            "Non-GMO"
+        ],
+        "Certifications & Compliance": [
+            "Non-GMO Project Verified"
+        ],
+        "Benefit Claims (Health)": [
+            "Reduces Oxidative Stress Level",
+            "Prevents Neurodegeneration",
+            "Improves Cellular Repair",
+            "Enhances Mitochondrial Health",
+            "Stimulates Immune System",
+            "Assists Menopausal Discomforts"
+        ],
+        "Features": [
+            "Reduction in Cholesterol",
+            "Antioxidant Properties",
+            "Healthy Ageing",
+            "Anti-Fatigue",
+            "Free Radical Scavenging",
+            "Stress Reduction",
+            "Improved Cognitive Function",
+            "Promotes Healthy Gut Microflora",
+            "Rejuvenating",
+            "Negative Glycemic Value",
+            "Excellent Browning aid"
+        ]
+    }
+}

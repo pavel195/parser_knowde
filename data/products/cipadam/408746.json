@@ -1,0 +1,51 @@
+{
+    "id": 408746,
+    "brand": "cipadam",
+    "name": "CIPADAM® S-40",
+    "slug": "cipadam-s-40",
+    "description": "CIPADAM® S-40 is a clear, penetrating, breathable sealer that contains a 40 percent solution of Silane in an alcohol carrier. CIPADAM S-40 chemically reacts with the concrete substrate and most masonry surfaces to produce a long lasting water repellent effect. This material's small molecular structure allows for maximum penetration into any siliceous material to form an alkali resistant polysiloxane.",
+    "company_name": "CPD Construction Products",
+    "company_slug": "cpd-construction-products",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520303/production/Brand/31632/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608465/production/CategoryImage/561/category_image/BuildingConstruction_05.jpg",
+    "properties": {
+        "Applications": [
+            "Flooring & Surfaces",
+            "Building & Construction",
+            "Architectural Coatings",
+            "Concrete Coatings & Stains",
+            "Floor Coatings",
+            "Building Envelope"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers"
+        ],
+        "Chemical Family": [
+            "Silanes"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Sealer"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Concrete"
+        ],
+        "Features": [
+            "Low VOC",
+            "Water Resistant",
+            "Alkali Resistant",
+            "Stain Resistant",
+            "Breathable",
+            "Efflorescence Control",
+            "Mildew Resistant"
+        ],
+        "Application Method": [
+            "Spray"
+        ],
+        "Chemical Family": [
+            "Silanes"
+        ]
+    }
+}

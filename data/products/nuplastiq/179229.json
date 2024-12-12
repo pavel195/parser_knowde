@@ -1,0 +1,63 @@
+{
+    "id": 179229,
+    "brand": "nuplastiq",
+    "name": "BioBlend® XP 24550",
+    "slug": "bioblend-xp-24550",
+    "description": "• One of the BioBlend® XP family of high performance BioPolymers designed for blown film applications.• BioBlend® XP 24550 is a masterbatch that contains 50% NuPlastiQ GP BioPolymer compounded with butene LLDPE.• Made from 50% annually renewable agricultural resources.• Supplied in pellet form.",
+    "company_name": "BiologiQ",
+    "company_slug": "biologiq",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672032/production/Product/179229/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515647/production/CategoryImage/1055/category_image/HII_07.jpg",
+    "properties": {
+        "Applications": [
+            "Food & Beverage Packaging",
+            "Industrial & Transport Packaging",
+            "Non-Food Consumer Packaging",
+            "Food Films & Packaging",
+            "Flexible Packaging",
+            "Packaging"
+        ],
+        "Product Families": [
+            "Blends & Alloys",
+            "Additive Masterbatches",
+            "Engineering & Specialty Polymers",
+            "Masterbatches"
+        ],
+        "Chemical Family": [
+            "Polyolefins",
+            "Polyethylenes",
+            "Modifed Starches"
+        ],
+        "Polymer Name": [
+            "TPS/LLDPE Alloy"
+        ],
+        "End Uses": [
+            "Flexible Packaging",
+            "Film",
+            "Heavy Duty Bags"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "TPS/LLDPE Alloy"
+        ],
+        "Functions": [
+            "Resin"
+        ],
+        "Compatible Polymers & Resins": [
+            "Linear Low Density Polyethylene (LLDPE) "
+        ],
+        "Processing Methods": [
+            "Film Extrusion",
+            "Extrusion",
+            "Blown Film Extrusion"
+        ],
+        "Carrier": [
+            "Resin-based",
+            "Linear Low Density Polyethylene (LLDPE)"
+        ],
+        "Density": [
+            "1160.0 - 1160.0 kg/m³"
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "id": 380715,
+    "brand": "katoun-kalipe",
+    "name": "VITALIM®",
+    "slug": "vitalim",
+    "description": "VITALIM® control of calcium and magnesium intakes. Resulting from the association of various micro and macro-elements 100% of marine origin, VITALI M ® is a liquid formulation based on Calcium and Magnesium.\nVITALIM ® can be used in organic farming.",
+    "company_name": "JADE (Jardin & Agriculture Developpement)",
+    "company_slug": "jade-jardin-agriculture-developpement",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708686577/production/Brand/28518/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608224/production/CategoryImage/551/category_image/AgricultureFeed_07.jpg",
+    "properties": {
+        "Applications": [
+            "Fiber Crops",
+            "Agricultural Crops"
+        ],
+        "Product Families": [
+            "Abiotic Stress Mitigators",
+            "Other Plant Health, Nutrients & Soil Management Products",
+            "Plant Health, Nutrients & Soil Management"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Abiotic Stress Mitigator"
+        ],
+        "Features": [
+            "Approved For Organic Farming",
+            "Stress Tolerant",
+            "Abiotic Resistant"
+        ]
+    }
+}

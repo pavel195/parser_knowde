@@ -1,0 +1,67 @@
+{
+    "id": 403415,
+    "brand": "nature-s-ingredients-pisiva",
+    "name": "Pisiva® Pea Protein",
+    "slug": "natures-ingredients-pisiva-pea-protein",
+    "description": "Pisiva® Pea Protein is an affordable, allergen free, sustainable and earth-friendly alternative to animal proteins. Its excellent solubility and neutral flavor profile allows Pisiva® Pea Protein to be incorporated into a wide range of food and beverage products. It provides manufacturers with a clean label, protein rich, Non-GMO, and Organic ingredient option – appealing to an ever growing market of health-conscious individuals.",
+    "company_name": "Nature's Ingredients",
+    "company_slug": "nature-s-ingredients",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686109629/production/Brand/30849/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606934/production/CategoryImage/504/category_image/FoodNutrition_05.jpg",
+    "properties": {
+        "Applications": [
+            "Food",
+            "Nutrition & Well Being",
+            "Cereals & Snacks",
+            "Other Food Applications",
+            "Functional Foods",
+            "Sports Nutrition",
+            "Dairy Substitutes"
+        ],
+        "Product Families": [
+            "Nutrition & Fortification",
+            "Plant Proteins",
+            "Nutraceuticals & Supplements",
+            "Proteins & Amino Acids"
+        ],
+        "End Uses": [
+            "Nutritional Snacks",
+            "Sports Nutrition",
+            "Snacks",
+            "Breakfast Cereals",
+            "Plant Based Dairy Alternatives",
+            "Energy Bars"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Pea Protein"
+        ],
+        "Ingredient Origin": [
+            "Plant Origin",
+            "Natural Origin"
+        ],
+        "Labeling Claims": [
+            "Sustainable",
+            "Environmentally Friendly",
+            "Vegan",
+            "Plant-Based",
+            "Allergen-free",
+            "Clean Label",
+            "Non-GMO",
+            "Dairy-free",
+            "Kosher",
+            "Gluten-free",
+            "Natural",
+            "Naturally Derived",
+            "Organic"
+        ],
+        "Features": [
+            "Balanced Amino Acids Profile",
+            "Protein Enrichment",
+            "Reduction in Blood Glucose Level",
+            "Iron Rich",
+            "Heat Stability"
+        ]
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "id": 401012,
+    "brand": "insea2",
+    "name": "InSea2®",
+    "slug": "insea2",
+    "description": "InSea2 is the only dietary ingredient having a double- action on carbs and sugar to help reduce glycemic stress by up to 48%! InSea2 is also an effective way to maintain and improve long-term glycemic health.Product HighlightsAvoids high sugar concentration of glucose in the blood after mealPrevents Food coma",
+    "company_name": "innoVactiv",
+    "company_slug": "innovactiv",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708527903/production/Brand/27162/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607247/production/CategoryImage/513/category_image/FoodNutrition_13.jpg",
+    "properties": {
+        "Applications": [
+            "Oral",
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being",
+            "Drug Delivery & Care Solutions"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Nutraceuticals"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Seaweed Extract"
+        ],
+        "Ingredient Origin": [
+            "Plant Origin",
+            "Natural Origin"
+        ],
+        "Labeling Claims": [
+            "Organic",
+            "Natural",
+            "Non-GMO",
+            "Keto"
+        ],
+        "Certifications & Compliance": [
+            "USDA Organic",
+            "Non-GMO Project Verified",
+            "Organic Certified",
+            "ECOCERT",
+            "Generally Recognized As Safe (GRAS)"
+        ],
+        "Benefit Claims (Health)": [
+            "Regulates Metabolism",
+            "Lowers Basal Glycemia",
+            "Improves Cognitive Health",
+            "Cardioprotective",
+            "Reduce Blood Sugar Levels"
+        ],
+        "Features": [
+            "Controls Food Cravings",
+            "Amylase Inhibition",
+            "Reduction in Blood Glucose Level",
+            "Supports Cardiovascular Health",
+            "Starch Blocker",
+            "Regulates Glycemic Index",
+            "Pre-Meal Blood Glucose Management",
+            "Reduce Blood Sugar Levels",
+            "Low Glycemic Index",
+            "Post-Meal Blood Glucose Management",
+            "Glucosidase Inhibition",
+            "Sustained Energy",
+            "Free Radical Scavenging",
+            "Blood Glucose Management",
+            "Carbohydrate Control",
+            "Improved Cognitive Function",
+            "Heat Stability",
+            "Reduces Sugar Rush",
+            "Insulin Sensitivity",
+            "Helps In Weight Management",
+            "Sugar Blocker",
+            "Provides Satiety",
+            "Enzyme Inhibitor"
+        ]
+    }
+}

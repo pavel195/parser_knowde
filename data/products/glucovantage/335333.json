@@ -1,0 +1,59 @@
+{
+    "id": 335333,
+    "brand": "glucovantage",
+    "name": "MitoBurn™",
+    "slug": "mitoburn",
+    "description": "MitoBurn™ is the body’s signal for high intensity exercise so you can get more out of every rep and every step. Increased levels of L-BAIBA are associated with many of exercise’s numerous benefits.",
+    "company_name": "NNB Nutrition USA",
+    "company_slug": "nnb-nutrition-usa",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708523952/production/Brand/24778/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606924/production/CategoryImage/503/category_image/FoodNutrition_04.jpg",
+    "properties": {
+        "Applications": [
+            "Powdered Beverages",
+            "Nutraceuticals & Supplements",
+            "Beverage",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Dietary Supplements",
+            "Powdered Beverages",
+            "Weight Management Products"
+        ]
+    },
+    "summary": {
+        "Labeling Claims": [
+            "Natural",
+            "Non-GMO",
+            "Allergen-free",
+            "Kosher",
+            "Vegan"
+        ],
+        "Certifications & Compliance": [
+            "Vegan",
+            "Non-GMO Project Verified",
+            "NSF Approved",
+            "Hazard Analysis Critical Control Point (HACCP)",
+            "Kosher",
+            "ISO 9001",
+            "GMP"
+        ],
+        "Benefit Claims (Health)": [
+            "Anti-Aging",
+            "Cognition"
+        ],
+        "Features": [
+            "Healthy Ageing",
+            "Improved Cognitive Function",
+            "Fat Reduction",
+            "Superior Performance",
+            "High Purity"
+        ]
+    }
+}

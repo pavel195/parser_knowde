@@ -1,0 +1,43 @@
+{
+    "id": 300693,
+    "brand": "antiskin",
+    "name": "Organo Pb 24",
+    "slug": "organo-pb-24",
+    "description": "Organo Pb 24 is a high viscous yellow colored solution of lead metallic soap with 2 – ethyl hexanoic acid in mineral spirit.",
+    "company_name": "Organometal SA",
+    "company_slug": "organometal-sa",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708686959/production/Company/24279/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608621/production/CategoryImage/570/category_image/PaintingsCoatings_06.jpg",
+    "properties": {
+        "Applications": [
+            "Other Industrial Coatings",
+            "Other Printing & Packaging Applications",
+            "Other Paints & Coatings Applications",
+            "Industrial Coatings"
+        ],
+        "Product Families": [
+            "Functional Additives",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Lead Compounds (Pb)",
+            "Organometallics"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Drying Agent"
+        ],
+        "Chemical Family": [
+            "Organometallics",
+            "Lead Compounds (Pb)"
+        ],
+        "Features": [
+            "Water Resistance",
+            "Corrosion Resistance",
+            "Salt Spray Resistance",
+            "High Durability",
+            "Improved Flexibility"
+        ]
+    }
+}

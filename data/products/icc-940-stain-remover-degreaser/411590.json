@@ -1,0 +1,35 @@
+{
+    "id": 411590,
+    "brand": "icc-940-stain-remover-degreaser",
+    "name": "ICC 940 Stain Remover/Degreaser™",
+    "slug": "icc-940-stain-remover-degreaser",
+    "description": "ICC 940 Stain Remover/Degreaser™ is an exceptional product for all types of screen mesh.  It will destain and degrease screen mesh for improved adhesion of stencil films and emulsions.  it will also remove dust, grease and oils, thus improving rinsability.",
+    "company_name": "Intercontinental Chemical",
+    "company_slug": "intercontinental-chemical",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292600/production/Brand/32062/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515602/production/CategoryImage/1051/category_image/HII_03.jpg",
+    "properties": {
+        "Applications": [
+            "Home Care",
+            "Institutional & Industrial Care",
+            "Surface Care",
+            "Industrial Cleaning"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Other Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Ink Cleaner",
+            "Stain Removers",
+            "Degreasers"
+        ],
+        "Features": [
+            "Stain Removing",
+            "Degreasing",
+            "Excellent Rinsability"
+        ]
+    }
+}

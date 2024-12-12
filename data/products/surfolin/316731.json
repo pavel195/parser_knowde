@@ -1,0 +1,33 @@
+{
+    "id": 316731,
+    "brand": "surfolin",
+    "name": "SURFOLIN EL 80",
+    "slug": "surfolin-el-80",
+    "description": "SURFOLIN EL 80 ALKALINE ELECTROLYTIC Cleaners",
+    "company_name": "Artek Surfin Chemicals",
+    "company_slug": "artek-surfin-chemicals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664289704/production/Product/316731/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608058/production/CategoryImage/543/category_image/HomePersonalCare_09.jpg",
+    "properties": {
+        "Applications": [
+            "Home Care",
+            "Institutional & Industrial Care",
+            "Surface Care",
+            "Industrial Cleaning"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Industrial Cleaners",
+            "Commercial Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner",
+            "Alkaline Cleaners"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal"
+        ]
+    }
+}

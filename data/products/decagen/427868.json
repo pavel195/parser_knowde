@@ -1,0 +1,34 @@
+{
+    "id": 427868,
+    "brand": "decagen",
+    "name": "Decazym®",
+    "slug": "decazym",
+    "description": "Decazym® is a foaming enzymatic detergent for breeding that is easy to use and risk-free. The tri-enzymatic formulation (proteases, lipases and amylases) of DECAZYM® makes it possible to attack the biofilm in depth.",
+    "company_name": "Synthese Elevage",
+    "company_slug": "synthese-elevage",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664293060/production/Brand/33927/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515684/production/CategoryImage/1058/category_image/HII_10.jpg",
+    "properties": {
+        "Applications": [
+            "Institutional & Industrial Care",
+            "Technical Cleaning"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Industrial Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Detergents",
+            "Disinfectant Products"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Concrete",
+            "Metal"
+        ],
+        "Features": [
+            "High Foaming"
+        ]
+    }
+}

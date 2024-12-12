@@ -1,0 +1,73 @@
+{
+    "id": 313918,
+    "brand": "thanecure",
+    "name": "Millathane® 76",
+    "slug": "millathane-76",
+    "description": "Millathane® 76 is a sulfur or peroxide curable polyester millable polyurethane rubber, used in many applications because of its excellent oil resistance, high damping characteristics, and high strength and abrasion resistant properties.",
+    "company_name": "TSE Industries Inc.",
+    "company_slug": "tse-industries-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112366/production/Product/313918/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1686112366/production/Product/313918/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Exterior & Body",
+            "Tires",
+            "Chemical & Industrial Manufacturing",
+            "Automotive",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Specialty Elastomers",
+            "Polyurethane Rubbers"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ],
+        "Polymer Name": [
+            "Thermoplastic Polyurethane (Polyester based)"
+        ],
+        "End Uses": [
+            "Gaskets",
+            "Automotive Bumpers",
+            "Tires",
+            "O Rings",
+            "Diaphragms",
+            "Belts/Belt Repair",
+            "Wheels",
+            "Bushings"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Thermoplastic Polyurethane (Polyester based)"
+        ],
+        "End Uses": [
+            "Tires",
+            "Automotive Bumpers",
+            "Wheels",
+            "O Rings",
+            "Diaphragms",
+            "Gaskets",
+            "Bushings",
+            "Belts/Belt Repair"
+        ],
+        "Features": [
+            "Vibration Damping",
+            "Good Abrasion Resistance",
+            "High Strength",
+            "Low Resilience",
+            "Excellent Strength",
+            "Good Tear Strength",
+            "Low Gas Permeability",
+            "Low Temperature Flexibility",
+            "High Hydrolytic Stability",
+            "Oil Resistant",
+            "Ozone Resistant",
+            "Good Processability",
+            "Excellent Long Term Heat Aging Properties",
+            "Fuel Resistant",
+            "Good Compression Set",
+            "Good Damping"
+        ]
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "id": 470212,
+    "brand": "alfater-xl",
+    "name": "ALCOM® PC 740/4 UV CC1063-11LD",
+    "slug": "mocom-alcom-pc-740-4-uv-cc1063-11ld",
+    "description": "MOCOM Compounds ALCOM® PC 740/4 UV CC1063-11LD is a polycarbonate base polymer with a special filler/additive system that is UV stabilized and provides high light transmission and light scattering. It has excellent flow and is suitable for automotive and lighting applications, such as lamp covers, display elements, and operating elements.",
+    "company_name": "MOCOM Compounds",
+    "company_slug": "mocom",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1713790292/production/Company/50276/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1713790292/production/Company/50276/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Displays",
+            "Consumer Electronics",
+            "Automotive Lighting",
+            "Appliances & Electronics",
+            "Automotive",
+            "Devices & Assemblies"
+        ],
+        "Product Families": [
+            "Polycarbonates",
+            "Engineering & Specialty Polymers"
+        ],
+        "Chemical Family": [
+            "Polycarbonate (PC)"
+        ],
+        "Polymer Name": [
+            "Polycarbonate (PC)"
+        ],
+        "End Uses": [
+            "Lamp Covers",
+            "Displays",
+            "Automotive Applications"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polycarbonate (PC)"
+        ],
+        "Processing Methods": [
+            "Injection Molding"
+        ],
+        "Fillers Included": [
+            "Proprietary"
+        ],
+        "Additives Included": [
+            "UV Stabilizer"
+        ],
+        "Flexural Modulus": [
+            "2450.0 - 2450.0 MPa"
+        ]
+    }
+}

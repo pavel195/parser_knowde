@@ -1,0 +1,39 @@
+{
+    "id": 351123,
+    "brand": "carotex",
+    "name": "curQmin®",
+    "slug": "curqmin",
+    "description": "curQmin® is an extract of the rhizomes of the spice herb curcuma longa L. (Zingiberaceae), a perennial herb widely cultivated in tropical regions of Asia. The rhizome, primarily known as a culinary spice, imparts an orange color and is extensively appreciated for its fine flavor not only in India but the world over. As a food, the rhizome imparts some specific beneficial effects due to the presence of bioactive compounds like curcumin, demethoxycurcumin and bisdemethoxycurcumin.",
+    "company_name": "Josh Naturals GmbH",
+    "company_slug": "josh-naturals-gmbh",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708689515/production/Brand/26196/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607009/production/CategoryImage/509/category_image/FoodNutrition_10.jpg",
+    "properties": {
+        "Applications": [
+            "Other Nutrition Applications",
+            "Nutraceuticals & Supplements",
+            "Savory & Culinary",
+            "Food",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Phytochemicals & Plant Extracts",
+            "Plant & Herb Products & Extracts",
+            "Nutrition & Fortification",
+            "Whole Foods, Extracts & Premixes",
+            "Nutraceuticals & Supplements"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Turmeric Rhizome Extract"
+        ],
+        "Functions": [
+            "Anti-Inflammatory",
+            "Dietary Supplement",
+            "Antioxidant"
+        ]
+    }
+}

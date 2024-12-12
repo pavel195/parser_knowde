@@ -1,0 +1,30 @@
+{
+    "id": 344028,
+    "brand": "kd-pur",
+    "name": "Omevital 0525 TG Tuna",
+    "slug": "omevital-0525-tg-tuna",
+    "description": "Omevital 0525 TG Tuna is a Natural Oil with 50 EPA content and 225 DHA content.",
+    "company_name": "KD Nutra",
+    "company_slug": "kd-nutra",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708671818/production/Brand/25554/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607305/production/CategoryImage/515/category_image/FoodNutrition_15.jpg",
+    "properties": {
+        "Applications": [
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Fatty Acids, Specialty Lipids & Oils",
+            "Nutrition & Fortification"
+        ],
+        "End Uses": [
+            "Dietary Supplements"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Supplement",
+            "Dietary Supplement"
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": 344100,
+    "brand": "big-gain",
+    "name": "Elite 40:14",
+    "slug": "elite-40-14",
+    "description": "Elite 40:14 is a low urea level product containing a wide array of protein sources to optimize rumen bacteria output for the growing animal. This supplement is well-suited to back-grounding operations.",
+    "company_name": "Big Gain Wisconsin",
+    "company_slug": "big-gain-wisconsin",
+    "logo_url": null,
+    "banner_url": "https://media.knowde.com/image/upload/v1625608238/production/CategoryImage/552/category_image/AgricultureFeed_08.jpg",
+    "properties": {
+        "Applications": [
+            "Ruminants",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Feed Supplements",
+            "Plant Proteins",
+            "Amino Acids & Proteins",
+            "Nutrition & Fortification",
+            "Nutritional Ingredients"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Urea"
+        ],
+        "Functions": [
+            "Supplement"
+        ],
+        "Animal Species": [
+            "Calves"
+        ]
+    }
+}

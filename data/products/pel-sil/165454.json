@@ -1,0 +1,59 @@
+{
+    "id": 165454,
+    "brand": "pel-sil",
+    "name": "PEL-PHOS™ LP-300",
+    "slug": "pel-phos-lp-300",
+    "description": "PEL-PHOS™ LP-300 Is a low-foaming aromatic phosphate ester with hydrotrope properties. It is a highly efficient agent for coupling nonionic surfactants into built hard surface cleaners. It is useful for cleaning formulations intended for metal & bottle-washing. When incorporated into metal cutting formulations, PEL-PHOS™ LP-300 provides extreme pressure lubricity due to its phosphate functionality.",
+    "company_name": "Ele Corporation",
+    "company_slug": "ele-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672773/production/Product/165454/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708672773/production/Product/165454/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Surface Care",
+            "Institutional & Catering",
+            "Home Care",
+            "Institutional & Industrial Care"
+        ],
+        "Product Families": [
+            "Wetting & Dispersion Aids",
+            "Anionic Surfactants",
+            "Other Functional Additives",
+            "Soaps & Surfactants",
+            "Functional Additives",
+            "Cleaning Aids"
+        ],
+        "Chemical Family": [
+            "Phosphorous-based Compounds",
+            "Organophosphates",
+            "Phosphate Esters"
+        ],
+        "End Uses": [
+            "Bottle Wash",
+            "Metal Cleaners",
+            "Hard Surface Cleaners"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Poly(oxy-1,2-ethanediyl), .alpha.-phenyl-.omega.-hydroxy-, phosphate"
+        ],
+        "CAS Number": [
+            "39464-70-5"
+        ],
+        "Functions": [
+            "Hydrotrope",
+            "Surfactant (Anionic)",
+            "Coupling Agent",
+            "Surfactant"
+        ],
+        "Chemical Family": [
+            "Organophosphates",
+            "Phosphorous-based Compounds",
+            "Phosphate Esters"
+        ],
+        "Synonyms": [
+            "Ethoxylated phenol phosphate, Polyethylene glycol phenyl ether phosphate"
+        ]
+    }
+}

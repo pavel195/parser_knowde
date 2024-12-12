@@ -1,0 +1,58 @@
+{
+    "id": 79182,
+    "brand": "galshield",
+    "name": "Galaxy™ SunBeat",
+    "slug": "galaxy-sunbeat",
+    "description": "Galaxy™ SunBeat is a versatile cosmetic ingredient with multiple applications in personal care. It offers UV protection, making it suitable for use in products like bar soaps, hair care items, skin creams, lotions, and rinse-off products. This non-greasy, water-soluble formulation includes Methoxycinnamidopropyl Hydroxysultaine, ensuring non-irritant and non-greasy properties. It's an excellent choice for beauty and care products, providing UV protection and compatibility across various applications. Available in liquid form, it can be used in body lotions and after-sun products, meeting a range of skin and hair care needs.",
+    "company_name": "Galaxy Surfactants Ltd.",
+    "company_slug": "galaxy-surfactants",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1727236829/production/Company/1476/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1727236829/production/Company/1476/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Sun Care",
+            "Skin Care",
+            "Hair Care",
+            "Bath & Shower",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Soaps & Soap Bases",
+            "Sunscreen Agents",
+            "Cosmetic Actives",
+            "Surfactants & Cleansers"
+        ],
+        "INCI Name": [
+            "Methoxycinnamidopropyl Hydroxysultaine"
+        ],
+        "End Uses": [
+            "After Sun Products",
+            "Body Lotion",
+            "Shampoos & Rinses",
+            "Hair Creams",
+            "Hair Conditioner",
+            "Hair Color",
+            "Conditioning Hair Lotion",
+            "Bar Soaps"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Methoxycinnamidopropyl Hydroxysultaine"
+        ],
+        "Functions": [
+            "Soap Base",
+            "UV Filter"
+        ],
+        "Labeling Claims": [
+            "Non-Irritant"
+        ],
+        "Benefit Claims": [
+            "Water Soluble",
+            "Color Protection",
+            "Compatibility",
+            "Non-Greasy Feel",
+            "UV Protection"
+        ]
+    }
+}

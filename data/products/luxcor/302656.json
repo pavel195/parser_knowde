@@ -1,0 +1,36 @@
+{
+    "id": 302656,
+    "brand": "luxcor",
+    "name": "Fluorplast 410",
+    "slug": "fluorplast-410",
+    "description": "Fluorplast 410 is fluorescent pigment of excellent thermic resistance. It is indicated for use in polyolefin's, polystyrene, EVA, etc. Can be used in temperatures up to 250ºC, depending on cycle duration, keeping the fluorescence and the color stable. The colors can be mixed to achieve intermediate tonalities. The product has a polymeric matrix based on polyamide/ polyester and do not release formaldehyde smell when heated.",
+    "company_name": "Fluorcolors Pigmentos industria e comercio",
+    "company_slug": "fluorcolors-pigmentos-industria-e-comercio",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708521475/production/Company/24204/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609091/production/CategoryImage/594/category_image/PrintingPackaging_05.jpg",
+    "properties": {
+        "Applications": [
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Photoluminescent Pigments",
+            "Color Pigments",
+            "Pigments & Colorants"
+        ]
+    },
+    "summary": {
+        "Pigment Type": [
+            "Fluorescent"
+        ],
+        "Compatible Polymers & Resins": [
+            "Polyesters",
+            "Ethylene Vinyl Acetate (EVA)",
+            "Polyolefins",
+            "Polystyrenes (PS)",
+            "Polyamides"
+        ],
+        "Particle Size": [
+            "150.0 - 150.0 microns"
+        ]
+    }
+}

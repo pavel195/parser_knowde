@@ -1,0 +1,39 @@
+{
+    "id": 326635,
+    "brand": "par-way",
+    "name": "Bak-klene® Bread Classic",
+    "slug": "bak-klene-bread-classic",
+    "description": "Bak-klene® Bread Classic is a blend of Soybean and Mineral Oil specifically proportioned for bread pans, can be applied with brush or spray equipment, extends glaze life up to one year.",
+    "company_name": "Par-Way Tryson",
+    "company_slug": "par-way-tryson",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708687026/production/Company/31045/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606996/production/CategoryImage/508/category_image/FoodNutrition_09.jpg",
+    "properties": {
+        "Applications": [
+            "Other Food Applications",
+            "Bakery",
+            "Food"
+        ],
+        "Product Families": [
+            "Processing Aids",
+            "Functional Additives"
+        ],
+        "End Uses": [
+            "Cakes",
+            "Bread"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Bread Mix"
+        ],
+        "Functions": [
+            "Release Agent",
+            "Anti-Sticking Agent"
+        ],
+        "End Uses": [
+            "Cakes",
+            "Bread"
+        ]
+    }
+}

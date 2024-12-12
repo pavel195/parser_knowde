@@ -1,0 +1,55 @@
+{
+    "id": 415943,
+    "brand": "cynatine",
+    "name": "MELATINE®",
+    "slug": "melatine",
+    "description": "Melatine® is a hydrolyzate of keratin naturally rich in melaline, responsible for hair pigmentation. Our knowledge of the mechanisms of melanocyte biogenesis has enabled us to develop Melatine® a peptide complex of bio-assimilable and bioactive melanin keratin fighting against canities. Melatine® is clinically proven to recolor salt-and-pepper hair by giving it back its natural glow.\r\n",
+    "company_name": "LC Ingredients",
+    "company_slug": "lc-ingredients",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708516630/production/Brand/32475/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708516630/production/Product/415943/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Functional Foods",
+            "Energy Drinks",
+            "Confectionery",
+            "Nutraceuticals & Supplements",
+            "Beverage",
+            "Food",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Functional Foods",
+            "Functional Beverages",
+            "Candies",
+            "Dietary Supplements"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Keratin Hydrolysate"
+        ],
+        "Ingredient Origin": [
+            "Animal Origin"
+        ],
+        "Labeling Claims": [
+            "Halal",
+            "Kosher"
+        ],
+        "Certifications & Compliance": [
+            "Halal",
+            "Kosher"
+        ],
+        "Benefit Claims (Health)": [
+            "Melanin Stimulating",
+            "Increases Hair Pigmentation",
+            "Antioxidant Properties"
+        ]
+    }
+}

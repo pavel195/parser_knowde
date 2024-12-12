@@ -1,0 +1,33 @@
+{
+    "id": 375044,
+    "brand": "oleobiotec",
+    "name": "Probiotech International Entero-Chick",
+    "slug": "probiotech-international-entero-chick",
+    "description": "Probiotech International Entero-Chick is an animal health product that helps to maintain healthy intestinal microflora. Contributes to healthy digestive functions and metabolism in general. To encourage positive and calm behavior during stressful situations.",
+    "company_name": "Probiotech International",
+    "company_slug": "probiotech-international",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686132754/production/Company/44640/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608224/production/CategoryImage/551/category_image/AgricultureFeed_07.jpg",
+    "properties": {
+        "Applications": [
+            "Animal Health & Nutrition",
+            "Ruminants",
+            "Birds & Poultry"
+        ],
+        "Product Families": [
+            "Health & Well-Being",
+            "Other Health & Well-Being Products"
+        ]
+    },
+    "summary": {
+        "Animal Species": [
+            "Ducks, Geese & Game Birds",
+            "Laying Hens",
+            "Broilers",
+            "Turkey"
+        ],
+        "Features": [
+            "Improves Gut Microflora"
+        ]
+    }
+}

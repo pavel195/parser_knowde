@@ -1,0 +1,31 @@
+{
+    "id": 394568,
+    "brand": "goldswaen",
+    "name": "SWAEN® WHEAT DARK",
+    "slug": "swaen-wheat-dark",
+    "description": "SWAEN® WHEAT DARK is richer in flavor with a flimsy, more sparkling beer with a typical ale aroma. Perfect for making wheat beers but also used in barley malt-based beers. Gives the beer fuller body and head stability. Cured at 100 to 110 °C. Dark wheat malt is used predominantly for dark wheat beers, alt beers, and dark low alcohol beers. Best pick for outstanding wheat &amp; other special beers.",
+    "company_name": "The Swaen",
+    "company_slug": "the-swaen",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686109410/production/Brand/29830/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606846/production/CategoryImage/500/category_image/FoodNutrition_01.jpg",
+    "properties": {
+        "Applications": [
+            "Beverage",
+            "Liquor & Spirits",
+            "Beer Brewing"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Flours & Grains Products",
+            "Other Whole Foods & Extracts"
+        ],
+        "End Uses": [
+            "Beer"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Malt"
+        ]
+    }
+}

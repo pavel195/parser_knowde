@@ -1,0 +1,28 @@
+{
+    "id": 339450,
+    "brand": "capros",
+    "name": "Sensoril®",
+    "slug": "sensoril",
+    "description": "Sensoril® Ashwagandha is a powerful adaptogen derived from a unique blend of both leaves and roots of the Withania somnifera plant to provide optimal efficacy and bioactive diversity. The proprietary blend has been studied in more than ten human clinical trials. Sensoril® has excellent applications in supplements, foods, beverages, and personal care products.",
+    "company_name": "Natreon",
+    "company_slug": "natreon",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697222875/production/Brand/24978/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606914/production/CategoryImage/502/category_image/FoodNutrition_03.jpg",
+    "properties": {
+        "Applications": [
+            "Nutraceuticals & Supplements",
+            "Powdered Beverages",
+            "Beverage",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Plant & Herb Products & Extracts",
+            "Whole Foods, Extracts & Premixes"
+        ],
+        "End Uses": [
+            "Beverage Mixes",
+            "Dietary Supplements"
+        ]
+    },
+    "summary": {}
+}

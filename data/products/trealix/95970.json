@@ -1,0 +1,53 @@
+{
+    "id": 95970,
+    "brand": "trealix",
+    "name": "Prolix® RB",
+    "slug": "prolix-rb",
+    "description": "Prolix® RB is Non-ionic polyglyceryl derived from fatty acids from rice bran oil obtained by M.O.R.E. Technique (which reduces the enviromental impact of the manufacturing processes). The specific linkage between the hydrophilic and the lipophilic chain gives a perfect stability to the emulsion. 100% renewable sources.",
+    "company_name": "Sinerga S.p.A.",
+    "company_slug": "sinerga-s-p-a",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708673263/production/Product/95970/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708673263/production/Product/95970/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Skin Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Emulsifiers, Solubilizers & Dispersants",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Polyglyceryl-3 Rice Branate"
+        ],
+        "End Uses": [
+            "Body Lotion",
+            "Body Cream"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Polyglyceryl-3 Rice Branate"
+        ],
+        "Functions": [
+            "Emulsifier"
+        ],
+        "Ingredient Origin": [
+            "Plant Origin"
+        ],
+        "Labeling Claims": [
+            "Ulta Beauty's Conscious Beauty",
+            "Preservative-free",
+            "Clean at Sephora",
+            "From Renewable Resources",
+            "Organic"
+        ],
+        "HLB Value": [
+            "9.5 - 9.5 "
+        ],
+        "Certifications & Compliance": [
+            "COSMOS",
+            "Halal"
+        ]
+    }
+}

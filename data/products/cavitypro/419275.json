@@ -1,0 +1,44 @@
+{
+    "id": 419275,
+    "brand": "cavitypro",
+    "name": "ProBlend 77",
+    "slug": "problend-77",
+    "description": "ProBlend 77 from SWT group is a specially formulated bitumen-based high solids rust preventative which will provide years of underbody corrosion protection for all types of vehicles in any environment. This latest offering from SWT Groups’ wide range of rust preventive products provides the additional benefit of superior chip resistance while minimizing road and powertrain noise incursion to the vehicle passenger compartment. ProBlend 77 exhibits superior durability against road salts and most automotive chemicals while standing up well to power washer spray and extreme weather conditions.",
+    "company_name": "SWT Group",
+    "company_slug": "swt-group",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520238/production/Brand/32889/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608611/production/CategoryImage/569/category_image/PaintingsCoatings_05.jpg",
+    "properties": {
+        "Applications": [
+            "Coatings & Finishes",
+            "Powertrain & UTH",
+            "Automotive OEM Coatings",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Solventborne Coating",
+            "Solventless & High Solids Coating"
+        ],
+        "Features": [
+            "High Solids Content",
+            "Chemical Resistant",
+            "Corrosion Resistant",
+            "Road Salt Resistant",
+            "Chipping Resistance",
+            "Good Weather Stability",
+            "Low Temperature Strength",
+            "Salt Water/Spray Resistant",
+            "High Durability"
+        ],
+        "Application Method": [
+            "Spray",
+            "Brush"
+        ]
+    }
+}

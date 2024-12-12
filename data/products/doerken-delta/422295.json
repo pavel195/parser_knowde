@@ -1,0 +1,46 @@
+{
+    "id": 422295,
+    "brand": "doerken-delta",
+    "name": "Delta® AntiCor 1K Intensiv-Grund",
+    "slug": "delta-anticor-1k-intensiv-grund",
+    "description": "Delta® AntiCor 1K Intensiv-Grund is a matt universal primer based on a special combination of binding agents.",
+    "company_name": "DOERKEN",
+    "company_slug": "doerken",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520409/production/Brand/33211/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608640/production/CategoryImage/572/category_image/PaintingsCoatings_08.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial Coatings",
+            "Chemical & Industrial Manufacturing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Coating",
+            "Primer"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Iron",
+            "Copper",
+            "Polyvinyl Chloride (PVC)",
+            "Aluminum",
+            "Metal",
+            "Steel",
+            "Zinc"
+        ],
+        "Features": [
+            "Corrosion Resistant",
+            "Easier Processing"
+        ],
+        "Application Method": [
+            "Spray",
+            "Roller",
+            "Brush"
+        ]
+    }
+}

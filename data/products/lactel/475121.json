@@ -1,0 +1,70 @@
+{
+    "id": 475121,
+    "brand": "lactel",
+    "name": "AEROSIL® R 812 S",
+    "slug": "aerosil-r-812-s",
+    "description": "AEROSIL® R 812 S is hydrophobic fumed silica grade treated with HMDS (Hexamethyldisilazane). It is even more hydrophobic than AEROSIL® R 812 and convenient for stabilizing a defoamer and well suitable as a component of foam control agents.",
+    "company_name": "Evonik",
+    "company_slug": "evonik",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1727236841/production/Company/16227/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1727236841/production/Product/475121/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Skin Care",
+            "Hair Care",
+            "AP/Deo",
+            "Potting Compounds",
+            "Other Automotive Applications",
+            "Electrical & Electronic Systems",
+            "Aerospace & Aviation",
+            "Automotive",
+            "Transportation",
+            "Packaging & Assembly",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Rheology Modifiers",
+            "Texturizers & Fillers",
+            "Rheology Modifiers & Stabilizers",
+            "Foam Control",
+            "Thixotropes",
+            "Processing Aids",
+            "Fillers & Extenders",
+            "Additives",
+            "Functionals",
+            "Polymer Additives"
+        ],
+        "Chemical Family": [
+            "Silica"
+        ],
+        "INCI Name": [
+            "Silica Silylate"
+        ],
+        "End Uses": [
+            "Antiperspirants",
+            "Electronic Insulation",
+            "Electrical Insulation",
+            "Cables"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Silica Silylate"
+        ],
+        "Chemical Name": [
+            "Silica gel, pptd., cryst.-free"
+        ],
+        "Functions": [
+            "Viscosity Modifier",
+            "Thickener",
+            "Anti-Caking Agent",
+            "Rheology Modifier"
+        ],
+        "CAS Number": [
+            "112926-00-8"
+        ],
+        "Chemical Family": [
+            "Silica"
+        ]
+    }
+}

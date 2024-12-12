@@ -1,0 +1,42 @@
+{
+    "id": 330049,
+    "brand": "verbasnol",
+    "name": "Osteosine™",
+    "slug": "osteosine",
+    "description": "Osteosine™ is NuLiv Science's proprietary bone health nutraceutical composed of extracts from Astragalus membranaceus, Cuscuta chinensis, Eucommia ulmoides, and Rehmannia glutinosa produced by a proprietary extraction technology.",
+    "company_name": "NuLiv Science USA",
+    "company_slug": "nuliv-science-usa",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708690845/production/Brand/23879/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607247/production/CategoryImage/513/category_image/FoodNutrition_13.jpg",
+    "properties": {
+        "Applications": [
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Plant & Herb Products & Extracts",
+            "Nutrition & Fortification",
+            "Whole Foods, Extracts & Premixes",
+            "Nutraceuticals & Supplements"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Supplement",
+            "Dietary Supplement"
+        ],
+        "Labeling Claims": [
+            "Gluten-free",
+            "Kosher",
+            "Halal",
+            "Vegan",
+            "Non-GMO"
+        ],
+        "Certifications & Compliance": [
+            "Kosher",
+            "Halal"
+        ]
+    }
+}

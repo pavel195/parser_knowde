@@ -1,0 +1,48 @@
+{
+    "id": 431484,
+    "brand": "panatura",
+    "name": "Hefe Schweiz AG RogoNew",
+    "slug": "hefe-schweiz-ag-rogonew",
+    "description": "Hefe Schweiz AG RogoNew is a specially dark roasted malt extract, you can achieve excellent results and complete your range of dark natural breads. This malt extract is an absolutely natural product and is guaranteed free of additives. Also suitable for smoked and special breads.\r\n",
+    "company_name": "Hefe Schweiz AG",
+    "company_slug": "hefe-schweiz-ag",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686110021/production/Company/23720/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607305/production/CategoryImage/515/category_image/FoodNutrition_15.jpg",
+    "properties": {
+        "Applications": [
+            "Food",
+            "Bakery"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Flours & Grains Products"
+        ],
+        "End Uses": [
+            "Bread",
+            "Bread Crumb"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Barley Malt Extract"
+        ],
+        "Physical Form": [
+            "Liquid"
+        ],
+        "Labeling Claims": [
+            "Halal",
+            "Kosher",
+            "Natural",
+            "Additive-free"
+        ],
+        "Certifications & Compliance": [
+            "Kosher",
+            "IFS Certified",
+            "Halal"
+        ],
+        "Features": [
+            "Long Lasting Freshness",
+            "Excellent Browning aid"
+        ]
+    }
+}

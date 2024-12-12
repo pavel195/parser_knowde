@@ -1,0 +1,30 @@
+{
+    "id": 312695,
+    "brand": "wolin",
+    "name": "ROSHEEN RZ F1 (10-121)",
+    "slug": "rosheen-rz-f1-10-121",
+    "description": "ROSHEEN RZ F1 (10-121) is oval type for heated greenhouses.",
+    "company_name": "Rijk Zwaan (Nederland)",
+    "company_slug": "rijk-zwaan-nederland",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686125546/production/Product/312695/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608224/production/CategoryImage/551/category_image/AgricultureFeed_07.jpg",
+    "properties": {
+        "Applications": [
+            "Agricultural Crops",
+            "Fruits",
+            "Vegetables"
+        ],
+        "Product Families": [
+            "Seeds & Traits",
+            "Conventional Seeds"
+        ]
+    },
+    "summary": {
+        "Crop & Plant Type": [
+            "Eggplant"
+        ],
+        "Features": [
+            "Enhanced Crop Yield & Quality"
+        ]
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "id": 330888,
+    "brand": "pektron",
+    "name": "Petroz™ 390",
+    "slug": "petroz-390",
+    "description": "Petroz™ 390 durometer FFKM with unsurpassed compression set properties while maintaining excellent chemical resistance.",
+    "company_name": "Material and Design Solutions",
+    "company_slug": "material-and-design-solutions",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691737727/production/Brand/24085/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608465/production/CategoryImage/561/category_image/BuildingConstruction_05.jpg",
+    "properties": {
+        "Applications": [
+            "Semiconductor Manufacturing",
+            "Equipment & Parts",
+            "Other Industrial Applications",
+            "Pipes & Tanks",
+            "Pumps, Turbines & Compressors",
+            "Other Oil, Gas & Mining Applications",
+            "Pipes & Plumbing",
+            "Other Parts & Components",
+            "Appliances & Electronics",
+            "Building Materials",
+            "Parts & Components",
+            "Chemical & Industrial Manufacturing",
+            "Oil, Gas & Mining"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Fluoropolymers"
+        ],
+        "Polymer Name": [
+            "Perfluoroelastomer (FFKM)"
+        ],
+        "End Uses": [
+            "Gaskets",
+            "Valves",
+            "Pumps",
+            "Semiconductor Applications",
+            "Oil/Gas Applications",
+            "Pipe Seals"
+        ]
+    },
+    "summary": {
+        "Density": [
+            "1990.0 - 1990.0 kg/m³"
+        ]
+    }
+}

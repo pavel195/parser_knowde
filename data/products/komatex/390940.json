@@ -1,0 +1,57 @@
+{
+    "id": 390940,
+    "brand": "komatex",
+    "name": "KömaPri® 346472",
+    "slug": "komapri-346472",
+    "description": "KömaPri® 346472 has been developed specifically for the needs of the printing industry. An innovative material with special properties for the perfect coverage of all printing and display design requirements. The finely textured surface and the shining white material (similar to RAL 9003) present the perfect base for an excellent printed image. This material shows to advantage especially in screen and digital printing as well as laminations. For display design, the combination of fine-celled structure and highly stabilizing makeup makes KömaPrint a durable, yet lightweight material. In addition, it is moisture-resistant, and therefore suitable for indoor and outdoor applications to an equal degree. Whether series or custom production, punching, trimming, sawing, or cutting: KömaPri® 346472 offers the best product properties for a wide range of further processing options.",
+    "company_name": "Profine",
+    "company_slug": "profine",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686149909/production/Brand/29386/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608454/production/CategoryImage/560/category_image/BuildingConstruction_04.jpg",
+    "properties": {
+        "Applications": [
+            "Textiles & Nonwovens",
+            "Printing & Inks",
+            "Displays",
+            "Leather & Textiles",
+            "Screen Printing",
+            "Devices & Assemblies",
+            "Textile Coatings & Inks",
+            "Digital Printing",
+            "Textile Manufacturing"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Vinyls, Vinylics & Vinyl Derivatives"
+        ],
+        "Polymer Name": [
+            "Polyvinyl Chloride (PVC)"
+        ],
+        "End Uses": [
+            "Decorative Displays",
+            "Displays",
+            "Screen Printing",
+            "Signage",
+            "3D Printing Applications"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyvinyl Chloride (PVC)"
+        ],
+        "Physical Form": [
+            "Sheets"
+        ],
+        "Features": [
+            "Recyclable",
+            "Bondability",
+            "Good Printability",
+            "Light Weight",
+            "Uniform Distribution",
+            "Flame Resistant",
+            "Moisture Resistant"
+        ]
+    }
+}

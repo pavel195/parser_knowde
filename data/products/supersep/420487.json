@@ -1,0 +1,52 @@
+{
+    "id": 420487,
+    "brand": "supersep",
+    "name": "BIOBLAST™",
+    "slug": "bioblast",
+    "description": "BioBlast™ Concentrated Biochemical Cleaner and Grout Treatment breaks down organic residue and keeps grout lines clear with continuous, non-stop cleaning action for up to 72 hours. EATOILS™ BioBlast™ is a great cleaner/degreaser for general purpose cleaning that also provides cost effective grease trap and drain maintenance for smaller restaurants and facilities.",
+    "company_name": "EatOils",
+    "company_slug": "eatoils",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292765/production/Brand/32983/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515657/production/CategoryImage/1056/category_image/HII_08.jpg",
+    "properties": {
+        "Applications": [
+            "Surface Care",
+            "Industrial Cleaning",
+            "Institutional & Catering",
+            "Institutional & Industrial Care",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Industrial Cleaners",
+            "Commercial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner",
+            "Degreasers"
+        ],
+        "Certifications & Compliance": [
+            "CFIA Amenable"
+        ],
+        "Application Areas": [
+            "Grout Cleaner",
+            "Grease Trap",
+            "Kitchen",
+            "Septic Tanks",
+            "Drains",
+            "Hard Surfaces",
+            "Bathrooms",
+            "Floor"
+        ],
+        "Features": [
+            "Degreasing",
+            "Biodegradable",
+            "Neutralizes Odor",
+            "Cost Effective",
+            "Facilitates Mold Removal",
+            "Mildew Resistant"
+        ]
+    }
+}

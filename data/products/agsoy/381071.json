@@ -1,0 +1,33 @@
+{
+    "id": 381071,
+    "brand": "agsoy",
+    "name": "Ag Processing Soy Hulls",
+    "slug": "ag-processing-soy-hulls",
+    "description": "Ag Processing Soy Hulls are a valuable co-product and highly digestible fiber source used in livestock feed rations, specifically for dairy cows and as a supplement to forage diets for growing beef cattle. Soy hulls are often pelleted to enhance the ease of handling and bulk density. AGP merchandises soy hulls both domestically and internationally.",
+    "company_name": "Ag Processing",
+    "company_slug": "ag-processing",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708692144/production/Company/46008/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608150/production/CategoryImage/545/category_image/AgricultureFeed_01.jpg",
+    "properties": {
+        "Applications": [
+            "Ruminants",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Whole Foods & Extracts",
+            "Formulated Feeds, Whole Foods and Extracts"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Soybean Hulls"
+        ],
+        "Features": [
+            "Increased Digestibility",
+            "Easy To Handle"
+        ],
+        "Functions": [
+            "Whole Food Ingredient"
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "id": 309378,
+    "brand": "sacryl",
+    "name": "Sacryl 320L",
+    "slug": "sacryl-320l",
+    "description": "Sacryl 320L is a solid water base acrylic resin. It is used as water-base ink, overprinting varnish, synthetic emulsion.",
+    "company_name": "Suny Chem",
+    "company_slug": "suny-chem",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112306/production/Product/309378/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609049/production/CategoryImage/590/category_image/PrintingPackaging_01.jpg",
+    "properties": {
+        "Applications": [
+            "Packaging Coatings",
+            "Overprint Varnishes",
+            "Other Printing & Packaging Applications"
+        ],
+        "Product Families": [
+            "Resins & Binders",
+            "Acrylics"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ],
+        "End Uses": [
+            "Waterborne Ink",
+            "Varnishes"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ],
+        "End Uses": [
+            "Varnishes",
+            "Waterborne Ink"
+        ],
+        "Molecular Weight": [
+            "12000.0 - 12000.0 g/mol"
+        ],
+        "Glass Transition Temperature (Tg)": [
+            "85.0 - 85.0 °C"
+        ],
+        "Features": [
+            "Water Resistance",
+            "Heat Resistance"
+        ]
+    }
+}

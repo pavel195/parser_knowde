@@ -1,0 +1,39 @@
+{
+    "id": 358482,
+    "brand": "mighty-lube-wearmaster",
+    "name": "Mighty Lube® Type MX",
+    "slug": "mighty-lube-type-mx",
+    "description": "Mighty Lube® Type MX Lubricants are heavy duty, anti-wear lubricants, which have been formulated to withstand the most extreme industrial conveyor applications. The use of the Mighty Lube Systematic Lubrication will result in a conveyor system that is protected against wear and corrosion over temperature ranges of -55°F to 550°F.",
+    "company_name": "Mighty Lube",
+    "company_slug": "mighty-lube",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680108769/production/Brand/26728/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical & Industrial Manufacturing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Lubricants & Oils",
+            "Fluids & Lubricants"
+        ],
+        "Chemical Family": [
+            "Mixtures & Blends"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Industrial Lubricants"
+        ],
+        "Features": [
+            "Extreme Pressure Performance",
+            "High Flash Point",
+            "Corrosion Resistant",
+            "Long Potlife",
+            "Anti-Wear Properties"
+        ],
+        "Chemical Family": [
+            "Mixtures & Blends"
+        ]
+    }
+}

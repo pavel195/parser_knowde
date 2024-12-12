@@ -1,0 +1,43 @@
+{
+    "id": 326404,
+    "brand": "synthan",
+    "name": "Synthan 2060",
+    "slug": "synthan-2060",
+    "description": "Synthan 2060 is the polyurethane resin and water are added to rubber granules and are mixed till homogenizing. The mixture is applied in a mold and putsin oven at 180 ºC during 15 minutes. After that the pieces are demoulded.",
+    "company_name": "Synthecoat",
+    "company_slug": "synthecoat",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686148599/production/Company/31011/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608600/production/CategoryImage/568/category_image/PaintingsCoatings_04.jpg",
+    "properties": {
+        "Applications": [
+            "Building & Construction",
+            "Other Adhesives & Sealants Applications",
+            "Other Building & Construction Applications"
+        ],
+        "Product Families": [
+            "Monomers & Intermediates",
+            "Prepolymers & Polyols"
+        ],
+        "Chemical Family": [
+            "Polyisocyanates"
+        ],
+        "End Uses": [
+            "1K (1 Component) Adhesive"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Polyisocyanates"
+        ],
+        "End Uses": [
+            "1K (1 Component) Adhesive"
+        ],
+        "Viscosity": [
+            "3000.0 - 5000.0 cps"
+        ],
+        "Features": [
+            "Excellent Adhesion",
+            "Multi-Substrate Adhesion"
+        ]
+    }
+}

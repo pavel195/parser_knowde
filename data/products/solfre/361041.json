@@ -1,0 +1,30 @@
+{
+    "id": 361041,
+    "brand": "solfre",
+    "name": "Sabatack 780",
+    "slug": "sabatack-780",
+    "description": "Sabatack 780 principle application is bonding with high green strength (stability) and high tensile strength.",
+    "company_name": "Chemique Adhesives",
+    "company_slug": "chemique-adhesives",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664815971/production/Brand/26996/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608502/production/CategoryImage/564/category_image/BuildingConstruction_08.jpg",
+    "properties": {
+        "Applications": [
+            "Maintenance, Repair & Overhaul",
+            "Other Building & Construction Applications"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Caulks & Sealants"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Sealant"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Aluminum",
+            "Metal"
+        ]
+    }
+}

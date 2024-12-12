@@ -1,0 +1,45 @@
+{
+    "id": 391048,
+    "brand": "riasorb",
+    "name": "U-pack® UV-7315",
+    "slug": "u-pack-uv-7315",
+    "description": null,
+    "company_name": "Rianlon Corporation",
+    "company_slug": "rianlon-chemical",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708699098/production/Company/27542/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607403/production/CategoryImage/516/category_image/ElectricalElectronics_01.jpg",
+    "properties": {
+        "Product Families": [
+            "Antioxidants & Stabilizers",
+            "Additive Masterbatches",
+            "Polymer Additives",
+            "Masterbatches"
+        ],
+        "Chemical Family": [
+            "Hindered Amine Light Stabilizer (HALS)"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Hindered Amine Light Stabilizer (HALS)"
+        ],
+        "Functions": [
+            "Light Stabilizer",
+            "Stabilizer"
+        ],
+        "Compatible Polymers & Resins": [
+            "Thermoplastic Polyolefins (TPO)",
+            "Polyethylenes (PE)",
+            "Styrene Acrylics"
+        ],
+        "Carrier": [
+            "Resin-based",
+            "Polyethylenes (PE)"
+        ],
+        "Features": [
+            "Minimum Agglomeration",
+            "Excellent Compatibility",
+            "Ease of Handling"
+        ]
+    }
+}

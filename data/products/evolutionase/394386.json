@@ -1,0 +1,39 @@
+{
+    "id": 394386,
+    "brand": "evolutionase",
+    "name": "EVOLUTIONASE A",
+    "slug": "evolutionase-a",
+    "description": "EVOLUTIONASE A is a patented surfactant blend with wetting, penetrating, and cleaning properties. It works well for removing grease from hard surfaces. Because of the presence of stable-amylase enzyme in the formulation, EVOLUTIONASE A is extremely effective at removing starch deposits. EVOLUTIONASE A's efficacy can be seen within a few minutes of application.",
+    "company_name": "Atomes",
+    "company_slug": "atomes",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1682592967/production/Brand/29806/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515647/production/CategoryImage/1055/category_image/HII_07.jpg",
+    "properties": {
+        "Applications": [
+            "Institutional & Industrial Care",
+            "Surface Care",
+            "Industrial Cleaning",
+            "Institutional & Catering",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Industrial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Degreasers",
+            "Detergents",
+            "Cleaner"
+        ],
+        "Application Area": [
+            "Hard Surfaces"
+        ],
+        "Features": [
+            "Ease of Handling",
+            "Degreasing",
+            "Neutral pH"
+        ]
+    }
+}

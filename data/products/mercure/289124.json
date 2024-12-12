@@ -1,0 +1,40 @@
+{
+    "id": 289124,
+    "brand": "mercure",
+    "name": "Mernox SP",
+    "slug": "mernox-sp",
+    "description": "Mernox SP is N (1,3-dimethylbutyl)-N’ phenyl-p-phenylenediamine compound which is used as staining antidegradants in rubber industry.",
+    "company_name": "Merchem",
+    "company_slug": "merchem",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672514/production/Company/22803/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608769/production/CategoryImage/577/category_image/AutomotiveTransportation_05.jpg",
+    "properties": {
+        "Applications": [
+            "Tires",
+            "Other Industrial Applications",
+            "Maintenance, Repair & Overhaul",
+            "Other Automotive & Transportation Applications",
+            "Automotive",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Antioxidants & Stabilizers",
+            "Polymer Additives",
+            "Elastomer Additives"
+        ],
+        "Chemical Family": [
+            "Phenols & Phenolics",
+            "Phenols"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Primary Antioxidant",
+            "Antioxidant"
+        ],
+        "Chemical Family": [
+            "Phenols",
+            "Phenols & Phenolics"
+        ]
+    }
+}

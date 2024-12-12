@@ -1,0 +1,34 @@
+{
+    "id": 302658,
+    "brand": "luxcor",
+    "name": "Fluorplast 420",
+    "slug": "fluorplast-420",
+    "description": "Fluorplast 420 is fluorescent pigment of excellent thermic resistance. It is indicated for use in polyolefin's, polystyrene, polyamide, etc. Can be used in temperatures up to 270ºC, depending on cycle duration, keeping the fluorescence and the color stable. The colors can be mixed to achieve intermediate tonalities. Due to its polymers combination, it has a low “plate out” and it is easily incorporated to polymers.",
+    "company_name": "Fluorcolors Pigmentos industria e comercio",
+    "company_slug": "fluorcolors-pigmentos-industria-e-comercio",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708520788/production/Company/24204/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609091/production/CategoryImage/594/category_image/PrintingPackaging_05.jpg",
+    "properties": {
+        "Applications": [
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Photoluminescent Pigments",
+            "Color Pigments",
+            "Pigments & Colorants"
+        ]
+    },
+    "summary": {
+        "Pigment Type": [
+            "Fluorescent"
+        ],
+        "Compatible Polymers & Resins": [
+            "Polyolefins",
+            "Polystyrenes (PS)",
+            "Polyamides"
+        ],
+        "Particle Size": [
+            "150.0 - 150.0 microns"
+        ]
+    }
+}

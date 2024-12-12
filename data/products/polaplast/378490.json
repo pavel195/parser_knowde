@@ -1,0 +1,41 @@
+{
+    "id": 378490,
+    "brand": "polaplast",
+    "name": "POLYSPORT STUCCO 1050-Polyurethane pore filler",
+    "slug": "polysport-stucco-1050-polyurethane-pore-filler",
+    "description": "POLYSPORT STUCCO 1050-Polyurethane pore filler is elastic solvent-free, two component polyurethane based sealant for outdoor sport surfaces.",
+    "company_name": "Kataskeves Dapedon",
+    "company_slug": "kataskeves-dapedon",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664291628/production/Brand/28262/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608490/production/CategoryImage/563/category_image/BuildingConstruction_07.jpg",
+    "properties": {
+        "Applications": [
+            "Infrastructure, Roads & Paving",
+            "Other Infrastructure Applications",
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Caulks & Sealants"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "2K (2 component) Sealant",
+            "Solvent free (100% Solids) Sealant"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Concrete",
+            "Asphalt"
+        ],
+        "Application Method": [
+            "Trowel"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ]
+    }
+}

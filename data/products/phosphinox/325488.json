@@ -1,0 +1,55 @@
+{
+    "id": 325488,
+    "brand": "phosphinox",
+    "name": "NOVINOX ACE20",
+    "slug": "novinox-ace20",
+    "description": "Novinox®ACE20 is a corrosion inhibiting pigment suitable for a wide range of applications, from DIY to more demanding ones such as coil coatings. It is a stable and non-hygroscopic white powder with a low tinting strength, it is easily dispersed. Novinox®ACE20 is a modified Zinc phosphate designed to be non toxic for the environment. As it contains more than 90% of PZ20, the replacement of Zinc phosphate by Novinox®ACE20 in formulations is straightforward. Like PZ20, Novinox®ACE20 is compatible with a wide range of solvent and water based resins.",
+    "company_name": "SNCZ",
+    "company_slug": "sncz",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708687779/production/Company/31010/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608630/production/CategoryImage/571/category_image/PaintingsCoatings_07.jpg",
+    "properties": {
+        "Applications": [
+            "Primers & Lacquers",
+            "Coil Coatings",
+            "Industrial Coatings",
+            "Packaging Coatings"
+        ],
+        "Product Families": [
+            "Inorganic Pigments",
+            "Corrosion Inhibiting Pigments",
+            "Functional Pigments",
+            "Functional Additives",
+            "Additives",
+            "Pigments & Colorants",
+            "Color Pigments"
+        ],
+        "Chemical Family": [
+            "Phosphates"
+        ],
+        "End Uses": [
+            "Waterborne Coating",
+            "Solventborne Coating",
+            "Primer",
+            "Coil Coating"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Phosphates"
+        ],
+        "Functions": [
+            "Colorant",
+            "Corrosion Inhibitor"
+        ],
+        "Pigment Type": [
+            "Inorganic Pigments"
+        ],
+        "Color": [
+            "White"
+        ],
+        "Synonyms": [
+            "Zinc(II) Phosphate"
+        ]
+    }
+}

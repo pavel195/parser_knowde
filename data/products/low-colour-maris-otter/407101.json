@@ -1,0 +1,33 @@
+{
+    "id": 407101,
+    "brand": "low-colour-maris-otter",
+    "name": "Finest Pale Ale Golden Promise® ASBC",
+    "slug": "finest-pale-ale-golden-promise-asbc",
+    "description": "Finest Pale Ale Golden Promise® ASBC is a beautiful heritage variety chosen for its taste, diversity and processability.",
+    "company_name": "Simpsons Malt",
+    "company_slug": "simpsons-malt",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686109796/production/Brand/31403/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606945/production/CategoryImage/505/category_image/FoodNutrition_06.jpg",
+    "properties": {
+        "Applications": [
+            "Beverage",
+            "Liquor & Spirits",
+            "Beer Brewing"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Flours & Grains Products"
+        ],
+        "Flavor Family": [
+            "Beverage Inspired Flavors"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Base Malt"
+        ],
+        "Certifications & Compliance": [
+            "B-Corp Certified"
+        ]
+    }
+}

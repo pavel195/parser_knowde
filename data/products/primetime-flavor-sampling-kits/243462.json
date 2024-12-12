@@ -1,0 +1,85 @@
+{
+    "id": 243462,
+    "brand": "primetime-flavor-sampling-kits",
+    "name": "PRIMETIME Nat Raspberry Flavor WONF (BD-10357)",
+    "slug": "primetime-nat-raspberry-flavor-wonf-bd-10357",
+    "description": "\r\nSensory Profile:\r\nCarbonated Soft Drinks: Raspberry, juice, seed, pasteurised/cooked, floral fruity, red berries, powdery, raspberry candy, ripe estery, juicinessFlavoured Alcoholic Beverages: Raspberry, seed, raspberry candy, lemon candy, woody, hay likeJuice &amp; Juice Drinks: Raspberry, Hibiscus, floral, green, floral fruity, green melon, light hibiscus, tartSpirits: Raspberry, raspberry candy, red berries, lemon candy, woody, hay likeTea (RTD): Raspberry, juice, floral fruity, red berries, sulphury berry, ripe estery, violet, sweetWater (Beverages): Raspberry, juice, floral fruity, red berries, ripe estery, violet, sulphury berry, sweetMilk Drinks: Raspberry, ripe, seed, floral, floral fruity, ripe estery, red berriesConvenience Bars: Raspberry, ripe, seed, jammy raspberry",
+    "company_name": "Givaudan",
+    "company_slug": "givaudan",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1723098074/production/Brand/15807/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1723098074/production/Product/243462/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Other Nutrition Applications",
+            "Other Food Applications",
+            "Nutraceuticals & Supplements",
+            "Convenience Foods",
+            "Bakery",
+            "Carbonated Drinks",
+            "Oenology",
+            "Functional & Flavored Water",
+            "Desserts & Fruit Preparations",
+            "Savory & Culinary",
+            "Functional Foods",
+            "Energy Drinks",
+            "Tea, Cocoa & Coffee",
+            "Dairy",
+            "Confectionery",
+            "Cereals & Snacks",
+            "Other Non-Alcoholic Beverages",
+            "Liquor & Spirits",
+            "Beverage",
+            "Food",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Flavor Ingredients",
+            "Taste & Flavor"
+        ],
+        "Flavor Family": [
+            "Fruit Flavors"
+        ],
+        "End Uses": [
+            "Filling Applications",
+            "Chocolates",
+            "Yogurt",
+            "Wine",
+            "Flavored Water",
+            "Tea",
+            "Snacks",
+            "Non Alcoholic Beverages",
+            "Sorbet",
+            "Savory Products",
+            "Sauces",
+            "Protein Rtd Formulas",
+            "Juices",
+            "Ice Cream",
+            "Functional Beverages",
+            "Alcoholic Beverages",
+            "Dairy Drinks",
+            "Dairy Products",
+            "Confectionery Products",
+            "Breakfast Cereals",
+            "Carbonated Drinks"
+        ]
+    },
+    "summary": {
+        "Physical Form": [
+            "Liquid"
+        ],
+        "Soluble In": [
+            "Water Soluble"
+        ],
+        "Certifications & Compliance": [
+            "TTB Approved",
+            "Kosher",
+            "Halal"
+        ],
+        "Labeling Claims": [
+            "Natural",
+            "Allergen-free",
+            "Gluten-free",
+            "Vegan"
+        ]
+    }
+}

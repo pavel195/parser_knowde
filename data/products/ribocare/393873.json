@@ -1,0 +1,55 @@
+{
+    "id": 393873,
+    "brand": "ribocare",
+    "name": "Ribodiet®",
+    "slug": "ribodiet",
+    "description": "Ribodiet® is a new natural product extracted from yeast cells with a standardized and highly controlled process which is organic solvent free. It is a source of nucleotides, nucleosides, oligo nucleotides, ribonucleic acids fragments, aminoacids, minerals and group B vitamins. All these naturally occurring nutrients represent a pool of active and beneficial ingredients.",
+    "company_name": "Prosol spa",
+    "company_slug": "prosol-spa",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708690693/production/Brand/29725/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606961/production/CategoryImage/506/category_image/FoodNutrition_07.jpg",
+    "properties": {
+        "Applications": [
+            "Oral",
+            "Other Nutrition Applications",
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being",
+            "Drug Delivery & Care Solutions"
+        ],
+        "Product Families": [
+            "Enzymes & Starter Cultures",
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Other Functional Additives",
+            "Functional Additives",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Tablets",
+            "Dietary Supplements"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Yeast Extract"
+        ],
+        "Functions": [
+            "Supplement",
+            "Yeast Nutrient",
+            "Dietary Supplement"
+        ],
+        "Labeling Claims": [
+            "Kosher",
+            "Halal"
+        ],
+        "Certifications & Compliance": [
+            "Halal",
+            "Kosher"
+        ],
+        "Physical Form": [
+            "Liquid",
+            "Capsules"
+        ]
+    }
+}

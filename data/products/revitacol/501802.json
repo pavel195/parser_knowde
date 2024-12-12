@@ -1,0 +1,62 @@
+{
+    "id": 501802,
+    "brand": "revitacol",
+    "name": "Bifidobacterium animalis subsp. lactis CP-9",
+    "slug": "bioflag-bifidobacterium-animalis-subsp-lactis-cp-9",
+    "description": "Bifidobacterium animalis subsp. lactis CP-9 is a product with benefits including fat reduction, antioxidant properties, stimulating the immune system, anti-aging effects, and improvements in urinary health. Labeling claims highlight that it is non-toxic, non-hazardous, and biodegradable. The production process involves fermentation, centrifuging, freeze-drying, and packaging. This product finds end uses in weight management products, dietary supplements, powdered beverages, and infant formula.\r\n",
+    "company_name": "Pharm-Rx Chemical Corp.",
+    "company_slug": "pharm-rx",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1724132543/production/Brand/40159/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1724132543/production/Company/102900/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Nutraceuticals & Supplements",
+            "Powdered Beverages",
+            "Infant & Baby Food",
+            "Beverage",
+            "Food",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Prebiotics, Probiotics & Postbiotics",
+            "Functional Ingredients",
+            "Supplements & Functional Ingredients",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "Ingredient Name": [
+            "Bifidobacterium Lactis"
+        ],
+        "End Uses": [
+            "Weight Management Products",
+            "Dietary Supplements",
+            "Powdered Beverages",
+            "Infant Formula"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Bifidobacterium Lactis"
+        ],
+        "Functions": [
+            "Probiotic"
+        ],
+        "Labeling Claims": [
+            "Biodegradable",
+            "Non-Hazardous",
+            "Non-Toxic",
+            "Halal"
+        ],
+        "Certifications & Compliance": [
+            "EFSA (European Food Safety Authority) Certified",
+            "FDA Compliant"
+        ],
+        "Benefit Claims (Health)": [
+            "Improves Urinary Health",
+            "Antioxidant Properties",
+            "Anti-Aging",
+            "Stimulates Immune System",
+            "Fat Reduction"
+        ]
+    }
+}

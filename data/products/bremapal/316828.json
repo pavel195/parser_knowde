@@ -1,0 +1,39 @@
+{
+    "id": 316828,
+    "brand": "bremapal",
+    "name": "BREMAPAL 1025",
+    "slug": "bremapal-1025",
+    "description": "BREMAPAL 1025 is applied in oil-/alkyd lacquers, printing inks.",
+    "company_name": "Rokra Kraemer",
+    "company_slug": "rokra-kraemer",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112125/production/Product/316828/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609067/production/CategoryImage/592/category_image/PrintingPackaging_03.jpg",
+    "properties": {
+        "Applications": [
+            "Packaging Coatings",
+            "Printing & Inks",
+            "Primers & Lacquers",
+            "Gravure Printing"
+        ],
+        "Product Families": [
+            "Other Resins & Binders",
+            "Resins & Binders"
+        ],
+        "End Uses": [
+            "Gravure Ink",
+            "Lacquers"
+        ]
+    },
+    "summary": {
+        "End Uses": [
+            "Gravure Ink",
+            "Lacquers"
+        ],
+        "Features": [
+            "Improved Hardness",
+            "Good Pigment Wetting",
+            "Weather Resistance",
+            "High Gloss"
+        ]
+    }
+}

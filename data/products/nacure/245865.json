@@ -1,0 +1,51 @@
+{
+    "id": 245865,
+    "brand": "nacure",
+    "name": "NA-SUL® 729",
+    "slug": "na-sul-729",
+    "description": "NA-SUL® 729 is a premium rust inhibitor for petroleum and synthetic lubricants, greases, rust preventive fluids and metalworking specialties. It provides excellent demulsibility and filterability, both dry and wet, and is compatible with a wide range of additives and base stocks. It is also a good dispersant for solids used in lubricants.",
+    "company_name": "King Industries",
+    "company_slug": "king-industries",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708691210/production/Company/7448/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708691210/production/Company/7448/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Fluids & Lubricants",
+            "Automotive Fluids & Lubricants",
+            "Lubricants & Functional Fluids",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Performance Additives",
+            "Surface Protective Additives",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Organometallics"
+        ],
+        "End Uses": [
+            "Gear Oils",
+            "Circulating Oils",
+            "Hydraulic Fluids"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Organometallics"
+        ],
+        "Functions": [
+            "Dispersant",
+            "Corrosion Inhibitor"
+        ],
+        "Features": [
+            "Good Thermal Stability",
+            "Corrosion Resistant",
+            "Hydrolytic Stability"
+        ],
+        "End Uses": [
+            "Hydraulic Fluids",
+            "Gear Oils",
+            "Circulating Oils"
+        ]
+    }
+}

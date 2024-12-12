@@ -1,0 +1,44 @@
+{
+    "id": 358496,
+    "brand": "terrazzco",
+    "name": "TERRAZZCO® Bonding Agent 159",
+    "slug": "terrazzco-bonding-agent-159",
+    "description": "TERRAZZCO® Bonding Agent 159 is a 100% solid (VOC free) epoxy resin system designed to promote adhesion between concrete and terrazzo flooring. Bonding Agent 159 promotes the longevity of a terrazzo while controlling potential cracking during the flooring life-cycle.",
+    "company_name": "Concord Terrazzo Company",
+    "company_slug": "concord-terrazzo-company",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112597/production/Brand/26730/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608454/production/CategoryImage/560/category_image/BuildingConstruction_04.jpg",
+    "properties": {
+        "Applications": [
+            "Flooring & Surfaces",
+            "Other Flooring & Surface Applications"
+        ],
+        "Product Families": [
+            "Resins & Binders",
+            "Epoxies"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ],
+        "End Uses": [
+            "Epoxy Sealant",
+            "Solvent Free (100% Solids) Sealant"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ],
+        "End Uses": [
+            "Solvent Free (100% Solids) Sealant",
+            "Epoxy Sealant"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Terrazzo",
+            "Concrete"
+        ],
+        "Features": [
+            "Improves Adhesion"
+        ]
+    }
+}

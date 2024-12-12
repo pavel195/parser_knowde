@@ -1,0 +1,30 @@
+{
+    "id": 395310,
+    "brand": "ecopur",
+    "name": "PurGreen™ Bio-XL",
+    "slug": "purgreen-bio-xl",
+    "description": "PurGreen™ Bio-XL formulation increases the surface wetting ability, reduces the surface tension of hydrophobic contaminants, increases the permeability of clay soils, and normalizes the conversion of urea to ammonia. In wastewater processes, odor reduction in the sludge material is generally attributed to activity against the anaerobic bacteria. By changing the surface tension and a disruption of the metabolic process, enough changes are induced to cause a reduction or elimination of unwanted byproducts. Additional lignin's and heterogeneous modifiers catalyze the biological activity. Glycoside formation provides the sugars to the process to encourage aerobic bacteria growth.",
+    "company_name": "Rex-Bac-T",
+    "company_slug": "rex-bac-t",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664291955/production/Company/49460/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515636/production/CategoryImage/1054/category_image/HII_06.jpg",
+    "properties": {
+        "Applications": [
+            "Institutional & Industrial Care",
+            "Institutional & Catering"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Food Grade Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Degreasers",
+            "Cleaner"
+        ],
+        "Application Areas": [
+            "Drains"
+        ]
+    }
+}

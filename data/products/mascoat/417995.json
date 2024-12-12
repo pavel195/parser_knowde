@@ -1,0 +1,46 @@
+{
+    "id": 417995,
+    "brand": "mascoat",
+    "name": "Mascoat® Transportation-DTA",
+    "slug": "mascoat-transportation-dta",
+    "description": "Mascoat® Transportation-DTA is a composite ceramic insulation coating that provides an insulating barrier, protects personnel and blocks corrosion all in one application. The coating is specifically designed to be a multiple-purpose coating, solving painting and insulating issues.",
+    "company_name": "Mascoat",
+    "company_slug": "mascoat",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520208/production/Brand/32716/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608611/production/CategoryImage/569/category_image/PaintingsCoatings_05.jpg",
+    "properties": {
+        "Applications": [
+            "Coatings & Finishes",
+            "Industrial Coatings",
+            "Automotive OEM Coatings"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Waterborne Coating",
+            "Insulating Coating"
+        ],
+        "Features": [
+            "Corrosion Resistant",
+            "Fast Cure",
+            "Low VOC",
+            "Moisture Resistant",
+            "Thermally Insulating"
+        ],
+        "Application Method": [
+            "Spray",
+            "Roller",
+            "Brush"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    }
+}

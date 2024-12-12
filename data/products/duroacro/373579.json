@@ -1,0 +1,38 @@
+{
+    "id": 373579,
+    "brand": "duroacro",
+    "name": "DuroAcro® DP820",
+    "slug": "duroacro-dp820",
+    "description": "DuroAcro® DP820 is a pure acrylate emulsion.",
+    "company_name": "Dukepolytech Corporation",
+    "company_slug": "dukepolytech-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520210/production/Brand/27885/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608566/production/CategoryImage/566/category_image/PaintingsCoatings_02.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial Coatings"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers",
+            "Protective Coatings"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ],
+        "Ready-to-Use Product Type": [
+            "Primer"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal"
+        ],
+        "Features": [
+            "Corrosion Resistant"
+        ]
+    }
+}

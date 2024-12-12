@@ -1,0 +1,32 @@
+{
+    "id": 393387,
+    "brand": "detrex-ultramax",
+    "name": "Detrex® BP Grade - 22° Baume Hydrochloric Acid",
+    "slug": "detrex-bp-grade-22-baume-hydrochloric-acid",
+    "description": "Detrex® BP Grade - 22° Baume Hydrochloric Acidisthe only global FDA registered and inspected high purity hydrochloric acid for the pharmaceutical APIs and Excipients.",
+    "company_name": "Detrex Corporation",
+    "company_slug": "detrex-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709127686/production/Brand/29649/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608841/production/CategoryImage/581/category_image/HealthcarePharma_03.jpg",
+    "properties": {
+        "Applications": [
+            "Other Pharmaceutical Manufacturing Applications",
+            "Pharmaceutical Manufacturing"
+        ],
+        "Product Families": [
+            "Inorganic Acids",
+            "Technical Salts & Inorganics"
+        ],
+        "Chemical Family": [
+            "Inorganic Acids"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Hydrochloric Acid (HCl)"
+        ],
+        "Purity (Assay)": [
+            "34.2 - 36.2 %"
+        ]
+    }
+}

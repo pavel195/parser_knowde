@@ -1,0 +1,39 @@
+{
+    "id": 387304,
+    "brand": "tipp-enripro",
+    "name": "Tipperary-Operative Creamery Unsalted Butter",
+    "slug": "tipperary-operative-creamery-unsalted-butter",
+    "description": "Unsalted Butter is characterized by a fresh flavor and is a typical Continental European Butter. It is produced from fresh pasteurized cream. This butter is ideal for use as a table butter, in food ingredients and in confectionery. The creamy and flavored unsalted sweet cream butter is produced by fresh Irish milk from grass fed cows.",
+    "company_name": "Tipperary-Operative Creamery",
+    "company_slug": "tipperary-operative-creamery",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686105140/production/Company/47139/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606914/production/CategoryImage/502/category_image/FoodNutrition_03.jpg",
+    "properties": {
+        "Applications": [
+            "Food",
+            "Confectionery",
+            "Convenience Foods",
+            "Savory & Culinary",
+            "Cooking Oils & Fat Products"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Edible Oils & Fats"
+        ],
+        "End Uses": [
+            "Soups",
+            "Ready Meals",
+            "Sauces",
+            "Frying Oil"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Unsalted Butter"
+        ],
+        "Features": [
+            "Creamy Texture",
+            "Creamy Mouthfeel"
+        ]
+    }
+}

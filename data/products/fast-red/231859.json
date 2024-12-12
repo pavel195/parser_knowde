@@ -1,0 +1,47 @@
+{
+    "id": 231859,
+    "brand": "fast-red",
+    "name": "Benzidine Yellow G",
+    "slug": "benzidine-yellow-g",
+    "description": "PIGMENTS FOR COATING",
+    "company_name": "Dyrox Chemicals",
+    "company_slug": "dyrox-chemicals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708521222/production/Company/16399/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609091/production/CategoryImage/594/category_image/PrintingPackaging_05.jpg",
+    "properties": {
+        "Applications": [
+            "Textile Manufacturing",
+            "Other Paints & Coatings Applications",
+            "Offset & Lithographic Printing",
+            "Printing & Inks",
+            "Leather & Textiles"
+        ],
+        "Product Families": [
+            "Organic Pigments",
+            "Color Pigments",
+            "Pigments & Colorants"
+        ],
+        "Chemical Family": [
+            "Azo Compounds"
+        ],
+        "End Uses": [
+            "Offset Ink",
+            "Waterborne Ink"
+        ]
+    },
+    "summary": {
+        "Color": [
+            "Yellow"
+        ],
+        "Pigment Type": [
+            "Organic Pigments"
+        ],
+        "Chemical Family": [
+            "Azo Compounds"
+        ],
+        "End Uses": [
+            "Offset Ink",
+            "Waterborne Ink"
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "id": 419272,
+    "brand": "basecaps",
+    "name": "CavityPro 300",
+    "slug": "cavitypro-300",
+    "description": "CavityPro 300 solvent-based corrosion protection wax from SWT Group is a long lasting, air cure coating which can be spray or dip applied. CP 300 is formulated to exhibit excellent film forming properties while providing superior corrosion protection for direct to metal automotive and industrial applications.",
+    "company_name": "SWT Group",
+    "company_slug": "swt-group",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520440/production/Brand/32888/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608611/production/CategoryImage/569/category_image/PaintingsCoatings_05.jpg",
+    "properties": {
+        "Applications": [
+            "Coatings & Finishes",
+            "Industrial Coatings",
+            "Automotive OEM Coatings"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ],
+        "Chemical Family": [
+            "Waxes"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Solventborne Coating"
+        ],
+        "Features": [
+            "Corrosion Resistant",
+            "Easy Film Formation"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal"
+        ],
+        "Application Method": [
+            "Dip Coating",
+            "Spray"
+        ],
+        "Chemical Family": [
+            "Waxes"
+        ]
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "id": 347220,
+    "brand": "macropac-a",
+    "name": "Chamilen®",
+    "slug": "chamilen",
+    "description": "Chamilen® is a innovative extract characterized by its Terpene Fraction and Apigenin-Free.",
+    "company_name": "Biosfered S.r.l",
+    "company_slug": "biosfered-s-r-l",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708689379/production/Brand/25877/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606934/production/CategoryImage/504/category_image/FoodNutrition_05.jpg",
+    "properties": {
+        "Applications": [
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Phytochemicals & Plant Extracts",
+            "Phytochemicals",
+            "Plant & Herb Products & Extracts",
+            "Nutrition & Fortification",
+            "Whole Foods, Extracts & Premixes",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Dietary Supplements"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Chamomile Extract"
+        ],
+        "Functions": [
+            "Phytochemical"
+        ],
+        "Active Component": [
+            "Terpenes",
+            "Alpha-Bisabolol"
+        ],
+        "Physical Form": [
+            "Powder",
+            "Liquid",
+            "Solid"
+        ]
+    }
+}

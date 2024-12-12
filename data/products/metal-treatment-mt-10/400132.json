@@ -1,0 +1,54 @@
+{
+    "id": 400132,
+    "brand": "metal-treatment-mt-10",
+    "name": "Metal Treatment MT-10®",
+    "slug": "metal-treatment-mt-10",
+    "description": "Metal Treatment MT-10® lubrication technology is based on tribologic methods that improve lubricity and load-carrying capacity by improving metal surface characteristics and creating a stable, chemical, corrosion-controlled, halide boundary film. MT-10® is a blend of highly refined oils and proprietary additives and contains no solid lubricants, chlorinated solvents or phosphate compounds. It is engineered to treat the metal not the oil using tribologic methods that improve metal surface characteristics to increase lubricity and load-carrying capacity.",
+    "company_name": "Muscle Products",
+    "company_slug": "muscle-products",
+    "logo_url": null,
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Fluids & Lubricants",
+            "Transmission Fluids",
+            "Automotive Fluids & Lubricants",
+            "Lubricants & Functional Fluids",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Surface Protective Additives",
+            "Additives"
+        ],
+        "End Uses": [
+            "Manual/Automatic Transmissions Fluids",
+            "Hydraulic Fluids",
+            "Gear Oils",
+            "Gasoline Engine Oils",
+            "Diesel Engine Oils"
+        ]
+    },
+    "summary": {
+        "End Uses": [
+            "Manual/Automatic Transmissions Fluids",
+            "Gear Oils",
+            "Hydraulic Fluids",
+            "Diesel Engine Oils",
+            "Gasoline Engine Oils"
+        ],
+        "Functions": [
+            "Friction Modifier"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal"
+        ],
+        "Features": [
+            "Residue Buildup Reduction",
+            "Corrosion Resistant",
+            "Low Operation Temperature",
+            "Low Maintenance Cost",
+            "Improved Wear Protection",
+            "High Load Carrying Capacity"
+        ]
+    }
+}

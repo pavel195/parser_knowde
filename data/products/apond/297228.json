@@ -1,0 +1,42 @@
+{
+    "id": 297228,
+    "brand": "apond",
+    "name": "ACROTEK® AP-2025",
+    "slug": "acrotek-ap-2025",
+    "description": "ACROTEK® AP-2025 is a 1-part and has excellent Adhesion.",
+    "company_name": "Advanced Polymer Emulsions",
+    "company_slug": "advanced-polymer-emulsions-company",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112154/production/Company/23612/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608929/production/CategoryImage/584/category_image/AdhesivesSealants_01.jpg",
+    "properties": {
+        "Applications": [
+            "Packaging & Paper",
+            "Tapes, Labels & Adhesives",
+            "Flexible Packaging Adhesives"
+        ],
+        "Product Families": [
+            "Resins & Binders",
+            "Acrylics"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ],
+        "End Uses": [
+            "1K (1 component) Coating"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ],
+        "End Uses": [
+            "1K (1 component) Coating"
+        ],
+        "Glass Transition Temperature (Tg)": [
+            "-5.0 - -5.0 °C"
+        ],
+        "Features": [
+            "Excellent Adhesion"
+        ]
+    }
+}

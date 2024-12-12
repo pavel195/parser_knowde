@@ -1,0 +1,50 @@
+{
+    "id": 427707,
+    "brand": "veriphy",
+    "name": "FortiPhy℠ PVD Coating",
+    "slug": "fortiphy-pvd-coating",
+    "description": "FortiPhy℠ PVD Coating is a PVD based chromium Nitride (CrN) tool coating, is a patented Physical Vapor Deposition (PVD) coating technology based upon the principles of plasma acceleration. This process results in higher plasma density and an intense, low energy ion bombardment during coating deposition. Coatings formed by this process exhibit unprecedented toughness and lubricity, as well as outstanding uniformity.",
+    "company_name": "Phygen Coatings",
+    "company_slug": "phygen-coatings",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1681139318/production/Brand/33903/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical & Industrial Manufacturing",
+            "Other Industrial Applications",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Coating"
+        ],
+        "Features": [
+            "Low Friction",
+            "Chemical Resistant",
+            "High Performance",
+            "Wear Resistant",
+            "High Density",
+            "Corrosion Resistant",
+            "Good Thermal Stability",
+            "Good Toughness",
+            "High Hardness",
+            "Excellent Lubricity",
+            "High Cohesive Strength"
+        ],
+        "Application Area": [
+            "Tools"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Steel"
+        ],
+        "Application Method": [
+            "PVD (Physical Vapour Deposition)"
+        ]
+    }
+}

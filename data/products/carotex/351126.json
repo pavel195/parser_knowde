@@ -1,0 +1,44 @@
+{
+    "id": 351126,
+    "brand": "carotex",
+    "name": "FenuJOSH",
+    "slug": "fenujosh",
+    "description": "Fenugreek (Trigonella foenum graecum) FenuJOSH contains steroidal saponins which are the major components in the fenugreek seeds with health benefits for both men and women. Fenugreek extract standardized to furostanol saponins and steroidal saponins helps increase performance due to its testosterone increasing ability thus making it a choice ingredient for all sports nutrition formulations. Increased testosterone levels means increased deposition of protein in the muscles, thereby providing muscle mass and strength. Fenugreek has widely studied clinically and has been established to be safe.",
+    "company_name": "Josh Naturals GmbH",
+    "company_slug": "josh-naturals-gmbh",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708671626/production/Brand/26198/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607009/production/CategoryImage/509/category_image/FoodNutrition_10.jpg",
+    "properties": {
+        "Applications": [
+            "Other Nutrition Applications",
+            "Nutraceuticals & Supplements",
+            "Sports Nutrition",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Phytochemicals",
+            "Phytochemicals & Plant Extracts",
+            "Plant & Herb Products & Extracts",
+            "Nutrition & Fortification",
+            "Whole Foods, Extracts & Premixes",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Dietary Supplements"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Fenugreek Extract"
+        ],
+        "Functions": [
+            "Phytochemical",
+            "Dietary Supplement"
+        ],
+        "Active Component": [
+            "Saponins"
+        ]
+    }
+}

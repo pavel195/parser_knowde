@@ -1,0 +1,44 @@
+{
+    "id": 328356,
+    "brand": "millerplex",
+    "name": "Millerplex® 3-3-3",
+    "slug": "millerplex-3-3-3",
+    "description": "Millerplex® 3-3-3 is a kelp-based balanced fertilizer nutrient formula designed for soil or foliar use on crops. Millerplex is a complement to a well-balanced crop fertility plan. It contains 3% nitrogen, phosphorous and potassium and has been found to assist in plant health and vigor. Millerplex contains Miller’s proprietary Express Technology and exclusive Transcuticular Delivery System® (TDS) designed to increase absorption and translocation of the product into the plants with minimal loss from leaf surfaces.",
+    "company_name": "Miller Chemical & Fertilizer Corporation",
+    "company_slug": "miller-chemical-fertilizer-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664448803/production/Brand/23625/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608173/production/CategoryImage/547/category_image/AgricultureFeed_03.jpg",
+    "properties": {
+        "Applications": [
+            "Oilseeds",
+            "Sugar & Starch Crops",
+            "Legumes",
+            "Fiber Crops",
+            "Fodder & Forage",
+            "Fruits",
+            "Trees & Woodlands",
+            "Nuts",
+            "Turf, Ornamentals & Landscape",
+            "Agricultural Crops"
+        ],
+        "Product Families": [
+            "Fertilizers & Nutrients",
+            "Plant Health, Nutrients & Soil Management"
+        ],
+        "Chemical Family": [
+            "Potassium Salts",
+            "Phosphorous-based Compounds",
+            "Nitrogen"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Phosphorous-based Compounds",
+            "Nitrogen",
+            "Potassium Salts"
+        ],
+        "Application Technique": [
+            "Foliage Applied"
+        ]
+    }
+}

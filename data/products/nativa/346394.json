@@ -1,0 +1,42 @@
+{
+    "id": 346394,
+    "brand": "nativa",
+    "name": "La Veronese Quinoa flour",
+    "slug": "la-veronese-quinoa-flour",
+    "description": "La Veronese Quinoa Flour is type that is obtained from the processing of the seeds of Quinoa, Chenopodium quinoa, a herbaceous plant native to South America, belonging to the same family as spinach and beets.",
+    "company_name": "La Veronese",
+    "company_slug": "la-veronese",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686104596/production/Company/37432/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606934/production/CategoryImage/504/category_image/FoodNutrition_05.jpg",
+    "properties": {
+        "Applications": [
+            "Food",
+            "Bakery",
+            "Convenience Foods",
+            "Desserts & Fruit Preparations",
+            "Savory & Culinary"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Nut & Seed Products",
+            "Flours & Grains Products"
+        ],
+        "End Uses": [
+            "Pasta",
+            "Desserts",
+            "Bread",
+            "Biscuits"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Quinoa Flour"
+        ],
+        "Labeling Claims": [
+            "Gluten-free"
+        ],
+        "Features": [
+            "High Protein Content"
+        ]
+    }
+}

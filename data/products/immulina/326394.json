@@ -1,0 +1,35 @@
+{
+    "id": 326394,
+    "brand": "immulina",
+    "name": "IMMULINA®",
+    "slug": "immulina",
+    "description": "Immulina® is a spirulina extract and the predominant active compounds are Braun-type lipoproteins which are useful for improving human immune function. These lipoproteins are present at much greater levels than those found within commonly used immune enhancing botanicals such as Echinacea and ginseng.",
+    "company_name": "ChromaDex",
+    "company_slug": "chromadex",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708687907/production/Company/31053/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608831/production/CategoryImage/580/category_image/HealthcarePharma_02.jpg",
+    "properties": {
+        "Applications": [
+            "Oral",
+            "Drug Delivery & Care Solutions"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Phytochemicals & Plant Extracts",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Spirulina Extract"
+        ],
+        "Functions": [
+            "Dietary Supplement"
+        ],
+        "Labeling Claims": [
+            "Natural"
+        ]
+    }
+}

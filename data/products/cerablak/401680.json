@@ -1,0 +1,56 @@
+{
+    "id": 401680,
+    "brand": "cerablak",
+    "name": "Cerablak® HTP",
+    "slug": "cerablak-htp",
+    "description": "Cerablak® HTP is a high-emissivity spray-on coating that provides thermal insulation and environmental protection. Utilizing a conventional off-the-shelf spray gun and a proprietary slurry feedstock solution, Cerablak® HTP is deposited as an inorganic coating with a brief thermal treatment after deposition. The black version of Cerablak® HTP is particularly unique in blocking radiant heat. Thermal conduction by radiation becomes critical above 700°C and Cerablak® HTP can provide durable thermal protection in oxidizing, reducing, and even vacuum environments such as in semiconductor manufacturing or space exploration.",
+    "company_name": "Applied Thin Films",
+    "company_slug": "applied-thin-films",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680108893/production/Brand/30610/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Parts & Components",
+            "Ceramics & Refractory",
+            "Aerospace & Aviation",
+            "Chemical & Industrial Manufacturing",
+            "Transportation",
+            "Semiconductor Manufacturing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Coating"
+        ],
+        "Features": [
+            "Oxidation Resistant",
+            "High Temperature Performance",
+            "High Temperature Insulation Properties",
+            "Corrosion Resistant",
+            "Electrically Insulating",
+            "Good Scratch Resistance"
+        ],
+        "Application Area": [
+            "Furnace",
+            "Heat Exchangers"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Stainless Steel",
+            "Aluminum",
+            "Metal",
+            "Titanium",
+            "Concrete",
+            "Steel",
+            "Glass"
+        ],
+        "Application Method": [
+            "Spray",
+            "Gun"
+        ]
+    }
+}

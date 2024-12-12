@@ -1,0 +1,44 @@
+{
+    "id": 354797,
+    "brand": "bstw",
+    "name": "BIB2 CH227",
+    "slug": "bib2-ch227",
+    "description": "A tinctorially strong fluorescent ink base for use in sheetfed, heatset and UV ink systems that prints in one pass at equivalent strength of a typical fluorescent ink base in two passes. BIB2 contains no traditional ink oils, which can attack rollers on UV presses.",
+    "company_name": "Brilliant Group, Inc.",
+    "company_slug": "brilliant-group",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708526858/production/Brand/26441/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708526858/production/Product/354797/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Flexography",
+            "Offset & Lithographic Printing",
+            "Printing & Inks"
+        ],
+        "Product Families": [
+            "Photoluminescent Pigments",
+            "Dispersions & Masterbatches",
+            "Pigments & Colorants",
+            "Color Pigments"
+        ],
+        "End Uses": [
+            "Lithographic Ink",
+            "Radiation Curable Coating",
+            "Flexography Ink",
+            "Radiation Curable Ink"
+        ]
+    },
+    "summary": {
+        "Color": [
+            "Green (Fluorescent)"
+        ],
+        "Pigment Type": [
+            "Fluorescent"
+        ],
+        "End Uses": [
+            "Radiation Curable Ink",
+            "Radiation Curable Coating",
+            "Lithographic Ink",
+            "Flexography Ink"
+        ]
+    }
+}

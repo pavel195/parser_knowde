@@ -1,0 +1,40 @@
+{
+    "id": 475094,
+    "brand": "spersestab",
+    "name": "SperseStab™ 1081",
+    "slug": "spersestab-1081",
+    "description": "SperseStab™ 1081 is a highly effective and low-volatility solid amine-class antioxidant ideal for a variety of rubber polymers, olefins, α-olefins, and lubricant applications. SperseStab-1081 is well-suited for neoprene, EPDM, and nitrile rubbers. It is also used in lubricants, including greases, compressor oils, turbine oils, and hydraulic fluids. SperseStab™ 1081 may be used alone or in combination with other antioxidants, including phenolics and phosphites.",
+    "company_name": "Interspersal, Inc",
+    "company_slug": "interspersal",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708683831/production/Brand/22915/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708683831/production/Company/30781/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Cold-Chain & Insulation",
+            "Appliances & Electronics"
+        ],
+        "Product Families": [
+            "Antioxidants & Stabilizers",
+            "Lubricant Protective Additives",
+            "Additives",
+            "Elastomer Additives"
+        ],
+        "End Uses": [
+            "Hydraulic Fluids",
+            "Turbine Oils",
+            "Compressor Oils"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Antioxidant"
+        ],
+        "Compatible Polymers & Resins": [
+            "Ethylene Propylene Diene Monomer (EPDM)",
+            "Chloroprene Rubber (CR)"
+        ],
+        "Synonyms": [
+            "4-Octyl-N-(4-octylphenyl)benzenamine, 4,4′-Dioctyldiphenylamine, Antioxidant ODA, Bis(p-octylphenyl)amine, DAT, NSC 79268"
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "id": 401409,
+    "brand": "crackbond",
+    "name": "CRACKBOND® 2100 MV Class B",
+    "slug": "crackbond-2100-mv-class-b",
+    "description": "CRACKBOND® 2100 MV Class B and 2100 MVLPL (Long Pot Life) products are two-component, high strength epoxy adhesives that are ideal for bonding fresh to hardened concrete or perfect for use in a variety of repair projects. CRACKBOND 2100 MV may be used in temperatures between 40°F and 100°F (4°C and 38°C), while CRACKBOND 2100 MV-LPL, with its slower cure rate, may be used in temperatures between 60°F and 110°F (16°C and 43°C).",
+    "company_name": "Adhesives Technology",
+    "company_slug": "adhesives-technology",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1685601170/production/Brand/30579/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608465/production/CategoryImage/561/category_image/BuildingConstruction_05.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial & Assembly Adhesives",
+            "Infrastructure, Roads & Paving",
+            "Industrial Coatings",
+            "Industrial Manufacturing",
+            "Repair & Rehabilitation",
+            "Industrial Adhesives & Sealants",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Structural Adhesives"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Structural Adhesive",
+            "Epoxy Adhesive",
+            "2K (2 component) Adhesive"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Concrete",
+            "Metal",
+            "Steel"
+        ]
+    }
+}

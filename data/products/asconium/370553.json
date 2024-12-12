@@ -1,0 +1,36 @@
+{
+    "id": 370553,
+    "brand": "asconium",
+    "name": "ASCOTRAN® BW",
+    "slug": "ascotran-bw",
+    "description": "ASCOTRAN® BW is an anticorrosion additive for metal working.",
+    "company_name": "ASCOTEC",
+    "company_slug": "ascotec",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1710313939/production/Brand/27598/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608557/production/CategoryImage/565/category_image/PaintingsCoatings_01.jpg",
+    "properties": {
+        "Applications": [
+            "Fluids & Lubricants",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Surface Protective Additives",
+            "Additives"
+        ],
+        "End Uses": [
+            "Metalworking Fluids"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Corrosion Inhibitor"
+        ],
+        "End Uses": [
+            "Metalworking Fluids"
+        ],
+        "Features": [
+            "Corrosion Resistant",
+            "Excellent Ferrous or Yellow Metal Protection"
+        ]
+    }
+}

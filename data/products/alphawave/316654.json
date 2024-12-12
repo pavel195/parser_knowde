@@ -1,0 +1,41 @@
+{
+    "id": 316654,
+    "brand": "alphawave",
+    "name": "Cranberex® Cranberry Extract",
+    "slug": "cranberex-cranberry-extract",
+    "description": "Cranberex® Cranberry Extract is extracted by Distilled Water with extract ratio of approximate 200-250:1 (fresh fruit basis).Non-GMO Ethanol is used at elution step; no excipient or carrier is used.",
+    "company_name": "Ethical Naturals, Inc.",
+    "company_slug": "ethical-naturals-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708690383/production/Product/316654/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708690383/production/Product/316654/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Pharmaceutical Processing",
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being",
+            "Pharmaceutical Manufacturing"
+        ],
+        "Product Families": [
+            "Formulation & Processing Aids",
+            "Phytochemicals & Plant Extracts",
+            "Fruit Products & Extracts",
+            "Phytochemicals",
+            "Nutrition & Fortification",
+            "Whole Foods, Extracts & Premixes",
+            "Excipients",
+            "Nutraceuticals & Supplements"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Cranberry Extract Powder"
+        ],
+        "Functions": [
+            "Phytochemical",
+            "Anti-Adhesion Promoter"
+        ],
+        "Active Component": [
+            "Proanthocyanidins"
+        ]
+    }
+}

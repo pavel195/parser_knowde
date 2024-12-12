@@ -1,0 +1,43 @@
+{
+    "id": 598037,
+    "brand": "clin-cat",
+    "name": "Pet Fibersol®",
+    "slug": "pet-fibersol",
+    "description": "<p>Pet Fibersol® has been shown to support intestinal regularity, fiber-related digestion, improved stool consistency and the intestinal microbiota. Pet Fibersol® intake with a meal has demonstrated delayed feelings of hunger, stimulation of appetite-regulating hormones, reduction in the rise of blood sugar levels and minimized blood sugar spikes after a meal.</p><p></p>",
+    "company_name": "ADM",
+    "company_slug": "adm",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1674525838/production/Company/4182/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1671125277/production/Company/4182/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Pets",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Prebiotics, Probiotics & Postbiotics",
+            "Health & Well-Being"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Prebiotic"
+        ],
+        "Animal Species": [
+            "Pets",
+            "Dogs",
+            "Cats"
+        ],
+        "Labeling Claims": [
+            "Non-GMO"
+        ],
+        "Features": [
+            "Improves Fiber Digestion",
+            "Improves Gut Microflora",
+            "Suppresses Appetite",
+            "Improves Digestability & Intestinal Health",
+            "Improves Stool Consistency",
+            "Optimizing Gut Health",
+            "High In Fiber"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "id": 423105,
+    "brand": "polytec-pu",
+    "name": "Polytec TC 351",
+    "slug": "polytec-tc-351",
+    "description": "Polytec TC 351 is a single component, thermally conductive epoxy with good thermal conductivity and excellent resistance towards moisture and chemicals. It was designed for all applications where electrically insulating and thermally conductive bonds are desirable. Polytec TC 351 has a conveniently long pot and shelf life. Typical applications are bonding of sensors in metal holders and fixation of single devices on PCBs. Due to the long pot and shelf life it is ideal for high volume dispensing techniques. The material can be applied by dispensing, screen or stencil printing.",
+    "company_name": "Polytec PT",
+    "company_slug": "polytec-pt",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697222747/production/Brand/33283/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608953/production/CategoryImage/586/category_image/AdhesivesSealants_03.jpg",
+    "properties": {
+        "Applications": [
+            "Adhesives & Sealants",
+            "Appliances & Electronics",
+            "Printed Circuit Boards (PCBs)",
+            "Packaging & Assembly",
+            "Parts & Components"
+        ],
+        "Product Families": [
+            "Other Adhesives & Sealants",
+            "Adhesives & Sealants"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    },
+    "summary": {}
+}

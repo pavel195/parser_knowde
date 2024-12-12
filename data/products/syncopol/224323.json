@@ -1,0 +1,36 @@
+{
+    "id": 224323,
+    "brand": "syncopol",
+    "name": "Surmax® CS-586",
+    "slug": "surmax-cs-586",
+    "description": "Surmax® CS-586 is an alkaline stable surfactant that imparts high foaming characteristics in liquid cleaner concentrates.",
+    "company_name": "PCC Chemax",
+    "company_slug": "pcc-chemax",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708527305/production/Company/6826/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Fluids & Lubricants",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Surface Protective Additives",
+            "Other Additives",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Mixtures & Blends"
+        ],
+        "End Uses": [
+            "Metalworking Fluids"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Mixtures & Blends"
+        ],
+        "End Uses": [
+            "Metalworking Fluids"
+        ]
+    }
+}

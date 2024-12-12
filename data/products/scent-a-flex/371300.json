@@ -1,0 +1,28 @@
+{
+    "id": 371300,
+    "brand": "scent-a-flex",
+    "name": "BCM Inks U.S.A. Conductive Black",
+    "slug": "bcm-inks-u-s-a-conductive-black",
+    "description": "BCM Inks U.S.A. Conductive Black is a unique water-based flexographic ink for corrugated printing applications. It is used in printing boxes for shipping electronic components because the conductive ink eliminates build-up of static electricity. This ink is used on a box’s exterior as well as interior to dissipate static electrical charges that may damage sensitive electronic equipment, parts and components.",
+    "company_name": "BCM Inks U.S.A.",
+    "company_slug": "bcm-inks-u-s-a",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520448/production/Company/43503/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609103/production/CategoryImage/595/category_image/PrintingPackaging_06.jpg",
+    "properties": {
+        "Applications": [
+            "Packaging & Assembly",
+            "Printing & Inks",
+            "Electronics Coatings",
+            "Flexography"
+        ],
+        "Product Families": [
+            "Flexography Inks",
+            "Inks & Pastes"
+        ]
+    },
+    "summary": {
+        "Features": [
+            "Conductive"
+        ]
+    }
+}

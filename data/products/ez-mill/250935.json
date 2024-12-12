@@ -1,0 +1,37 @@
+{
+    "id": 250935,
+    "brand": "ez-mill",
+    "name": "Pel-Aid® Gelatin Binder and Lubricant",
+    "slug": "pel-aid-gelatin-binder-and-lubricant",
+    "description": "Pel-Aid® Gelatin Binder and Lubricant is a unique pelleting aid(technical gelatin)that serves as both a lubricant and binder.The typical use rate ofPel-Aidis 1to 2lb per ton of feed but can go as high as 10 lb per ton.The heat and moisture in the conditioning chamber liquifies Pel-Aid. As a liquid, it lubricates the entire feed mixture and makes faster pelleting possible. When it cools, Pel-Aidsolidifies, binding each pellet throughout.Pel-Aidis a high quality porcine gelatin.Pel-Aidis a high protein source an contains over 85% crude proteinPel-Aidingredients have AAFCO approval and are safe to use in animal feed.",
+    "company_name": "Uniscope",
+    "company_slug": "uniscope",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672483/production/Company/19216/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708672483/production/Company/19216/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Feed Production & Processing",
+            "Other Animal Health & Nutrition",
+            "Birds & Poultry",
+            "Aquaculture",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Plant Proteins",
+            "Amino Acids & Proteins",
+            "Adsorbents & Binders",
+            "Nutrition & Fortification",
+            "Nutritional Ingredients",
+            "Production Aids and Processing Additives"
+        ],
+        "Chemical Family": [
+            "Waxes"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Protein Source",
+            "Binder"
+        ]
+    }
+}

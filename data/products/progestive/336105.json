@@ -1,0 +1,39 @@
+{
+    "id": 336105,
+    "brand": "progestive",
+    "name": "Progestive® 15 Billion",
+    "slug": "progestive-15-billion",
+    "description": "Progestive® 15 Billion is an off white dry powder with characteristic odor. It is used in the food and beverage and nutraceutical industry as a raw ingredient.",
+    "company_name": "Nutraceuticals International Group",
+    "company_slug": "nutraceuticals-international-group",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708691247/production/Brand/24850/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606945/production/CategoryImage/505/category_image/FoodNutrition_06.jpg",
+    "properties": {
+        "Applications": [
+            "Nutraceuticals & Supplements",
+            "Other Non-Alcoholic Beverages",
+            "Powdered Beverages",
+            "Beverage",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Prebiotics, Probiotics & Postbiotics",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Nutraceuticals",
+            "Beverage Mixes"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Bacillus Coagulans"
+        ],
+        "Functions": [
+            "Supplement",
+            "Dietary Supplement",
+            "Probiotic"
+        ]
+    }
+}

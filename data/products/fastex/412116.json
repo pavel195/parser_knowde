@@ -1,0 +1,39 @@
+{
+    "id": 412116,
+    "brand": "fastex",
+    "name": "FASTEX® FBOH46",
+    "slug": "fastex-fboh46",
+    "description": "FASTEX® FBOH46 is a premium quality HYDRAULIC FLUID designed for service in every type of hydraulic system. This product is formulated with a Fastex® Surface Modifier that provides advanced anti-wear (AW) and extreme pressure (EP) features to offer superior wear protection, performance and service life. Effective foam resistance and outstanding oxidation resistance ensure effective and long equipment service life together with a wide operating temperature range.",
+    "company_name": "Glenveigh Distribution",
+    "company_slug": "glenveigh-distribution",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1682593150/production/Brand/32160/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical & Industrial Manufacturing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Lubricants & Oils",
+            "Fluids & Lubricants"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Hydraulic Oils"
+        ],
+        "Application Area": [
+            "Hydraulic Pumps",
+            "Valves"
+        ],
+        "Features": [
+            "Extreme Pressure Performance",
+            "Oxidation Resistant",
+            "Wide Temperature Operating Range",
+            "Corrosion Resistant",
+            "Service Life Extension",
+            "Low Friction",
+            "Anti-Wear Properties"
+        ]
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "id": 323445,
+    "brand": "gehr-peek",
+    "name": "GEHR PPS® 40 GF",
+    "slug": "gehr-pps-40-gf",
+    "description": "GEHR PPS® 40 GF is a variant of PPS modified with 40 % glass fibers. Due to the high glass fiber content, strength ranges comparable to light metals can be achieved. This material owes its significantly increased dimensional stability to its very low coefficient of linear expansion.",
+    "company_name": "GEHR",
+    "company_slug": "gehr",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691742241/production/Brand/23066/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Other Devices & Assemblies",
+            "Other Industrial Applications",
+            "Other Parts & Components",
+            "Housings & Enclosures",
+            "Pipes & Plumbing",
+            "Fuel Systems",
+            "Sports & Recreation",
+            "Building Materials",
+            "Parts & Components",
+            "Devices & Assemblies",
+            "Chemical & Industrial Manufacturing",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Parts & Shapes",
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Polyphenylene Sulfide (PPS)"
+        ],
+        "Polymer Name": [
+            "Polyphenylene Sulfide (PPS)"
+        ],
+        "End Uses": [
+            "Housings",
+            "Flanges",
+            "Electrical Components"
+        ]
+    },
+    "summary": {
+        "Density": [
+            "1340.0 - 1650.0 kg/m³"
+        ]
+    }
+}

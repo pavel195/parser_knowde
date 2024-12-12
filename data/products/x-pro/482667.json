@@ -1,0 +1,53 @@
+{
+    "id": 482667,
+    "brand": "x-pro",
+    "name": "X-Pro® 10% GF PP",
+    "slug": "x-pro-10-gf-pp",
+    "description": "X-Pro® 10% GF PP is a polypropylene (unspecified) material with 10% glass fiber reinforcement. It is commonly used in various applications such as automotive, construction, consumer, and industrial. The material is suitable for injection molding processing method. It features general purpose properties and has a black color. Additionally, it contains PCR and PIR resin and includes glass fiber as a filler.",
+    "company_name": "CTC Plastics",
+    "company_slug": "ctc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1723197540/production/Company/15217/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1723197540/production/Product/482667/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Lawn & Garden"
+        ],
+        "Product Families": [
+            "Recycled Polymers",
+            "Polyolefins",
+            "Basic Thermoplastics"
+        ],
+        "Chemical Family": [
+            "Polypropylenes (PP)",
+            "Polyolefins"
+        ],
+        "Polymer Name": [
+            "Polypropylene (unspecified)"
+        ],
+        "End Uses": [
+            "Industrial Applications",
+            "Consumer Applications",
+            "Construction Applications",
+            "Automotive Applications"
+        ],
+        "Labeling Claims": [
+            "Contains PIR Resin",
+            "Contains PCR Resin"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polypropylene (unspecified)"
+        ],
+        "Fillers Included": [
+            "Glass Fiber"
+        ],
+        "Labeling Claims": [
+            "Contains PIR Resin",
+            "Contains PCR Resin"
+        ],
+        "Processing Methods": [
+            "Injection Molding"
+        ]
+    }
+}

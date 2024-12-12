@@ -1,0 +1,47 @@
+{
+    "id": 426829,
+    "brand": "rivolta",
+    "name": "Rivolta® B.R.X. 637",
+    "slug": "rivolta-b-r-x-637",
+    "description": "Rivolta® B.R.X. 637 is a low-foaming, high-performance cleaner. It is very energy efficient and delivers its full power already at low temperatures, corrosion preventive. This product is VOC-free.",
+    "company_name": "Bremer & Leguil",
+    "company_slug": "bremer-leguil",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292970/production/Brand/33799/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515625/production/CategoryImage/1053/category_image/HII_05.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial Cleaning",
+            "Institutional & Catering",
+            "Institutional & Industrial Care"
+        ],
+        "Product Families": [
+            "Commercial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Degreasers",
+            "Cleaner"
+        ],
+        "Application Areas": [
+            "Floor",
+            "Ultrasonic Cleaner"
+        ],
+        "Certifications & Compliance": [
+            "ISO 21469",
+            "NSF Approved",
+            "ISO 14001",
+            "ISO 50001",
+            "ISO 9001"
+        ],
+        "Features": [
+            "Degreasing",
+            "Stain Removing",
+            "Corrosion Resistant",
+            "High Performance",
+            "Low Foaming",
+            "Easy Product Filterability"
+        ]
+    }
+}

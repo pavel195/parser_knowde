@@ -1,0 +1,28 @@
+{
+    "id": 351785,
+    "brand": "frau-pharma-neuropeak",
+    "name": "Frau Pharma Fenfluramine",
+    "slug": "frau-pharma-fenfluramine",
+    "description": "Frau Pharma Fenfluramine is developed initially to treat obesity, Fenfluramine is currently undergoing Phase III clinical trials as an anticonvulsant agent to treat refractory generalized tonic-clonic seizures in Dravet syndrome.",
+    "company_name": "Frau Pharma",
+    "company_slug": "frau-pharma",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708685337/production/Company/38029/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607009/production/CategoryImage/509/category_image/FoodNutrition_10.jpg",
+    "properties": {
+        "Applications": [
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Active Pharmaceutical Ingredients (APIs)",
+            "Pharmaceutical Actives & Precursors"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Supplement",
+            "Anti-Convulsant",
+            "Dietary Supplement"
+        ]
+    }
+}

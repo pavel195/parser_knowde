@@ -1,0 +1,48 @@
+{
+    "id": 426827,
+    "brand": "rivolta",
+    "name": "Rivolta® B.R.X. 611",
+    "slug": "rivolta-b-r-x-611",
+    "description": "Rivolta® B.R.X. 611 is a low-foaming degreasing concentrate. It is user-friendly, highly active, versatile and VOC-free.",
+    "company_name": "Bremer & Leguil",
+    "company_slug": "bremer-leguil",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292876/production/Brand/33799/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515625/production/CategoryImage/1053/category_image/HII_05.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial Cleaning",
+            "Institutional & Catering",
+            "Institutional & Industrial Care"
+        ],
+        "Product Families": [
+            "Industrial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Degreasers"
+        ],
+        "Application Areas": [
+            "Floor",
+            "Ultrasonic Cleaner"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Plastics"
+        ],
+        "Certifications & Compliance": [
+            "ISO 14001",
+            "ISO 21469",
+            "ISO 50001",
+            "NSF Approved",
+            "ISO 9001"
+        ],
+        "Features": [
+            "Non Corrosive",
+            "Degreasing",
+            "Cost Effective",
+            "Low Foaming",
+            "Highly Versatile"
+        ]
+    }
+}

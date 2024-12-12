@@ -1,0 +1,49 @@
+{
+    "id": 315476,
+    "brand": "bredol",
+    "name": "Armid DM810",
+    "slug": "armid-dm810",
+    "description": "Armid DM810 is a dimethylamide solvent. It and solvents like it offer sustainable alternatives to aromatic solvents. It is excellent at solubilizing triazole fungicides and some other agricultural activities. Armid DM810 may also inhibit crystallization of the active from the organic phase upon dilution into water for spray application.\r\n",
+    "company_name": "Nouryon",
+    "company_slug": "nouryon",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1722940455/production/Product/315476/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1722940455/production/Product/315476/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Agricultural Pest Control",
+            "Pest Control"
+        ],
+        "Product Families": [
+            "Stickers, Surfactants & Wetting Agents",
+            "Carriers, Diluents, Solvents & Solubilizers",
+            "Adjuvants & Formulation Ingredients"
+        ],
+        "Chemical Family": [
+            "Fatty Amines",
+            "Quaternary Ammonium Compounds"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "N,N-dimethyloctanamide",
+            "Dimethylamide",
+            "N,N-Dimethyl Decanamide"
+        ],
+        "Functions": [
+            "Solvent",
+            "Surfactant (Cationic)",
+            "Surfactant"
+        ],
+        "Chemical Family": [
+            "Fatty Amines",
+            "Quaternary Ammonium Compounds"
+        ],
+        "Labeling Claims": [
+            "Low VOC",
+            "Biodegradable"
+        ],
+        "Application Technique": [
+            "Sprayers"
+        ]
+    }
+}

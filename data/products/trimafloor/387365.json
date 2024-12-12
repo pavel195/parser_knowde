@@ -1,0 +1,48 @@
+{
+    "id": 387365,
+    "brand": "trimafloor",
+    "name": "Trimafloor 2504",
+    "slug": "trimafloor-2504",
+    "description": "Trimafloor 2504 is a water based acrylic, single pack, clear floor sealer.",
+    "company_name": "Trimite",
+    "company_slug": "trimite",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520320/production/Brand/29076/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608490/production/CategoryImage/563/category_image/BuildingConstruction_07.jpg",
+    "properties": {
+        "Applications": [
+            "Flooring & Surfaces",
+            "Floor Coatings"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "1K (1 component) Coating",
+            "Waterborne Coating",
+            "Sealer"
+        ],
+        "Features": [
+            "Excellent Stain Resistance",
+            "Abrasion Resistant"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Stone",
+            "Concrete",
+            "Painted Surfaces",
+            "Wood"
+        ],
+        "Application Method": [
+            "Roller",
+            "Brush"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    }
+}

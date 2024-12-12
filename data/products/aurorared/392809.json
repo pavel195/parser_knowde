@@ -1,0 +1,30 @@
+{
+    "id": 392809,
+    "brand": "aurorared",
+    "name": "AuroraRed®",
+    "slug": "aurorared",
+    "description": "AuroraRed® is a proprietary blend of whole rose hips (including the fleshy outer portion of hypanthium, along with seeds, sepals, and base) hand-gathered and dried by Refractance Window® drying technology), which preserves their bioactive constituents.",
+    "company_name": "Denali BioTechnologies",
+    "company_slug": "denali-biotechnologies",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686109652/production/Company/48863/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606984/production/CategoryImage/507/category_image/FoodNutrition_08.jpg",
+    "properties": {
+        "Applications": [
+            "Food",
+            "Other Food Applications"
+        ],
+        "Product Families": [
+            "Nutrition & Fortification",
+            "Whole Foods, Extracts & Premixes",
+            "Fruit Products & Extracts",
+            "Nutraceuticals & Supplements",
+            "Phytochemicals",
+            "Phytochemicals & Plant Extracts"
+        ]
+    },
+    "summary": {
+        "Active Component": [
+            "Catechins"
+        ]
+    }
+}

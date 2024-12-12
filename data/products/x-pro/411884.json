@@ -1,0 +1,53 @@
+{
+    "id": 411884,
+    "brand": "x-pro",
+    "name": "X-Pro® PP 4910",
+    "slug": "x-pro-pp-4910",
+    "description": "X-Pro® PP 4910 is a general-purpose, lower melt flow, no break, 98% recycled content, polypropylene copolymer suitable for injection molding applications. It provides a low-cost alternative to virgin resin while maintaining comparable quality and processability. \r\n\r\nProduced from: post industrial recycled polypropylene \r\n\r\nColor: Black \r\n\r\nApplications: \r\n\r\n\r\n\tComposite Wheels \r\n\tprotective guarding \r\n\tlawn and garden \r\n\tautomotive \r\n\tindustrial \r\n\tconstruction \r\n\r\n\r\nProcessing Method: Injection molding \r\n\r\n\r\n\tMelt Flow: 8 -12 g/10 min \r\n\tIzod Impact - 44 min KJ/M2 \r\n\tTensile @ Yield - 21 min MPa \r\n\tFlexural Modulus 0.05 in / min - 828 min \r\n\tAsh Content - &lt;5% \r\n\r\n",
+    "company_name": "CTC Plastics",
+    "company_slug": "ctc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1723197541/production/Company/15217/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1723197541/production/Product/411884/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Housewares",
+            "Lawn & Garden"
+        ],
+        "Product Families": [
+            "Recycled Polymers",
+            "Polyolefins",
+            "Basic Thermoplastics"
+        ],
+        "Chemical Family": [
+            "Polypropylenes (PP)",
+            "Polyolefins"
+        ],
+        "Polymer Name": [
+            "Polypropylene Copolymer"
+        ],
+        "End Uses": [
+            "Housewares",
+            "General Purpose",
+            "Industrial Applications",
+            "Construction Applications"
+        ],
+        "Labeling Claims": [
+            "Recycled",
+            "Contains PIR Resin",
+            "Contains PCR Resin"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polypropylene Copolymer"
+        ],
+        "Labeling Claims": [
+            "Contains PIR Resin",
+            "Recycled",
+            "Contains PCR Resin"
+        ],
+        "Processing Methods": [
+            "Injection Molding"
+        ]
+    }
+}

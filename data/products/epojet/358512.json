@@ -1,0 +1,45 @@
+{
+    "id": 358512,
+    "brand": "epojet",
+    "name": "Mapei Spa Dursilite",
+    "slug": "mapei-spa-dursilite",
+    "description": "Mapei Spa Dursilite is washable water-based paint with low dirt pick-up and excellent workability for internal walls.",
+    "company_name": "Mapei Spa",
+    "company_slug": "mapei-spa",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112424/production/Company/41278/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608939/production/CategoryImage/585/category_image/AdhesivesSealants_02.jpg",
+    "properties": {
+        "Applications": [
+            "Other Building & Construction Applications",
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Resins & Binders",
+            "Acrylics"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ],
+        "End Uses": [
+            "Waterborne Coating"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ],
+        "End Uses": [
+            "Waterborne Coating"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Painted Surfaces",
+            "Gypsum"
+        ],
+        "Features": [
+            "Excellent Whiteness",
+            "Less Dirt Pick Up Potential",
+            "Improved Workability",
+            "Matting"
+        ]
+    }
+}

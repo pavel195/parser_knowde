@@ -1,0 +1,33 @@
+{
+    "id": 407163,
+    "brand": "super-cal-8",
+    "name": "Excel™",
+    "slug": "excel",
+    "description": "Excel is a multi-purpose non-ionic adjuvant and compatibility agent designed to increase the performance and effectiveness of foliar fertilizer, herbicides, insecticides, or other chemicals. It delivers better wetting, sticking, and absorption of spray material.",
+    "company_name": "UAS of America",
+    "company_slug": "uas-of-america",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708684861/production/Company/48822/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608173/production/CategoryImage/547/category_image/AgricultureFeed_03.jpg",
+    "properties": {
+        "Applications": [
+            "Agricultural Pest Control",
+            "Pest Control"
+        ],
+        "Product Families": [
+            "Carriers, Diluents, Solvents & Solubilizers",
+            "Stickers, Surfactants & Wetting Agents",
+            "Adjuvants & Formulation Ingredients"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Surfactant (Nonionic)",
+            "Solubilizer",
+            "Surfactant"
+        ],
+        "Application Technique": [
+            "Sprayers",
+            "Foliage Applied"
+        ]
+    }
+}

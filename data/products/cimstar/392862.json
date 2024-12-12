@@ -1,0 +1,38 @@
+{
+    "id": 392862,
+    "brand": "cimstar",
+    "name": "CIMTECH® 627",
+    "slug": "cimtech-627",
+    "description": "CIMTECH® 627 is a \"hybrid synthetic\" lubricant that combines patented Milacron and specialty lubricants in an unrivaled blend for unrivaled grinding and machining performance.",
+    "company_name": "Cimcool Fluid Technology",
+    "company_slug": "cimcool-fluid-technology",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680108896/production/Brand/29596/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical & Industrial Manufacturing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Metalworking Fluids",
+            "Fluids & Lubricants"
+        ]
+    },
+    "summary": {
+        "Application Area": [
+            "Machining Operations",
+            "Tapping Operations"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Steel",
+            "Metal",
+            "Aluminum"
+        ],
+        "Features": [
+            "Service Life Extension"
+        ],
+        "Metalworking Fluid Type": [
+            "Synthetic"
+        ]
+    }
+}

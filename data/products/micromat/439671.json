@@ -1,0 +1,34 @@
+{
+    "id": 439671,
+    "brand": "micromat",
+    "name": "DuraCore®",
+    "slug": "duracore",
+    "description": "DuraCore® is a lightweight, highly resilient, blanket-type insulation made from borosilicate glass fibers. Its insulation blanket is fiberglass bonded with a thermosetting phenolic resin and is designed to provide this product with excellent core strength.",
+    "company_name": "Pacor",
+    "company_slug": "pacor",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691738072/production/Company/63759/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608502/production/CategoryImage/564/category_image/BuildingConstruction_08.jpg",
+    "properties": {
+        "Applications": [
+            "Consumer Electronics",
+            "Appliances & Electronics",
+            "EIFS & Insulation",
+            "Building Envelope & Roofing",
+            "Devices & Assemblies"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films",
+            "Parts & Shapes"
+        ],
+        "Chemical Family": [
+            "Phenols & Phenolics"
+        ],
+        "Polymer Name": [
+            "Phenolic Compound"
+        ],
+        "End Uses": [
+            "HVAC Components"
+        ]
+    },
+    "summary": {}
+}

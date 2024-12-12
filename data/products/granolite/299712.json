@@ -1,0 +1,51 @@
+{
+    "id": 299712,
+    "brand": "granolite",
+    "name": "Foral 85",
+    "slug": "drt-foral-85",
+    "description": "Foral 85 resin is the glycerol ester of highly hydrogenated wood rosin. It is an exceptionally pale thermoplastic resin that has outstanding resistance to oxidation and to discoloration caused by heat and aging.",
+    "company_name": "DRT",
+    "company_slug": "drt",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1703849623/production/Company/22776/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609091/production/CategoryImage/594/category_image/PrintingPackaging_05.jpg",
+    "properties": {
+        "Applications": [
+            "Other Packaging & Paper Applications",
+            "Tape & Label Adhesives",
+            "Other Medical Adhesives",
+            "Medical Tapes",
+            "Other Printing & Packaging Applications",
+            "Medical Tapes & Adhesives",
+            "Other Tapes, Labels & Adhesives",
+            "Tapes & Labels",
+            "Other Adhesives & Sealants Applications",
+            "Other Paints & Coatings Applications",
+            "Medical Adhesives",
+            "Packaging & Paper",
+            "Medical",
+            "Tapes, Labels & Adhesives"
+        ],
+        "Product Families": [
+            "Other Resins & Binders",
+            "Functional Additives",
+            "Surface Modifiers",
+            "Additives",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Esters"
+        ],
+        "End Uses": [
+            "Hot Melt Adhesive",
+            "Pressure Sensitive Adhesive"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Esters"
+        ],
+        "Synonyms": [
+            "Glycerol ester of partially hydrogenated wood rosin, Hydrogenated rosin glycerides"
+        ]
+    }
+}

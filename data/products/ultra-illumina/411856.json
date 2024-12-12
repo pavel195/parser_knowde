@@ -1,0 +1,48 @@
+{
+    "id": 411856,
+    "brand": "ultra-illumina",
+    "name": "Ultra-Illumina™ 3511B",
+    "slug": "ultra-illumina-3511b",
+    "description": "Ultra-Illumina™ 3511B is a UL-compliant, 100% solids true UV light curable black conformal coating for PCB assembly. It is suitable for use in high-volume spray systems, does not clog valves due to the absence of volatiles, and is environmentally friendly. When fully cured, Incure 3511B forms a glossy, hard, and resilient protective opaque coating with a thickness of up to 600 microns, acting as a moisture barrier with excellent adhesion in harsh environments. UL 746C compliant, rated indoor/outdoor to 120°C, and flame class 94V-0.",
+    "company_name": "Incure",
+    "company_slug": "incure",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520511/production/Brand/32126/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607546/production/CategoryImage/524/category_image/ElectricalElectronics_09.jpg",
+    "properties": {
+        "Applications": [
+            "Packaging & Assembly",
+            "Parts & Components",
+            "Electronics Coatings",
+            "Printed Circuit Boards (PCBs)"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "1K (1 component) Coating"
+        ],
+        "Features": [
+            "Consistent High Quality",
+            "Glossy Surface Aspects",
+            "Low Shrinkage",
+            "Resilient",
+            "Tack-free",
+            "Low Viscosity",
+            "High Gloss",
+            "Moisture Barrier",
+            "UV Curable"
+        ],
+        "Application Method": [
+            "Spray"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    }
+}

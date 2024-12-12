@@ -1,0 +1,92 @@
+{
+    "id": 494000,
+    "brand": "soltellus",
+    "name": "Soltellus™ 2101S",
+    "slug": "soltellus-2101s",
+    "description": "Soltellus™ 2101S is a biodegradable, anionic polymer derived from aspartic acid. Designed with versatile benefits, it serves as a polyacrylate substitute in laundry detergent. Beyond its anti-redeposition and soil removal properties, Soltellus™ 2101S offers dissolution, ion sequestering, and antiscaling capabilities. Its performance excels in cold water and all water hardness conditions.",
+    "company_name": "Lygos",
+    "company_slug": "lygos",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1727236837/production/Company/95115/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1727236837/production/Product/494000/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Dish Care",
+            "Institutional & Catering",
+            "Surface Care",
+            "Commercial Laundry",
+            "Laundry & Fabric Care",
+            "Home Care",
+            "Institutional & Industrial Care"
+        ],
+        "Product Families": [
+            "Chelating Agents",
+            "Wetting & Dispersion Aids",
+            "Performance Additives",
+            "Functional Additives",
+            "Builders & Chelators",
+            "Cleaning Aids"
+        ],
+        "End Uses": [
+            "Bathroom Cleaners",
+            "Dishwash Detergents",
+            "Automatic Dishwash",
+            "Window Cleaners",
+            "Liquid Laundry Detergents",
+            "Powder Laundry Detergents",
+            "Multipurpose Surface Cleaners",
+            "Multisurface Cleaners",
+            "Alkaline Cleaners",
+            "Floor Cleaners",
+            "Glass Cleaners",
+            "Shower Cleaners",
+            "Multipurpose Detergents",
+            "Equipment Cleaners",
+            "Fabric Cleaners",
+            "Commercial Laundry Detergents",
+            "Detergents",
+            "Laundry Detergents"
+        ],
+        "Labeling Claims": [
+            "Cold Processable",
+            "Environmentally Friendly",
+            "Sustainable",
+            "Biodegradable"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Anti-Stain Agent",
+            "Anti-Scaling Agent",
+            "Anti-Redeposition Agent",
+            "Chelating Agent",
+            "Dispersant"
+        ],
+        "CAS Number": [
+            "3792-50-5"
+        ],
+        "Certifications & Compliance": [
+            "EPA Registered",
+            "OECD Certified"
+        ],
+        "End Uses": [
+            "Window Cleaners",
+            "Commercial Laundry Detergents",
+            "Alkaline Cleaners",
+            "Multipurpose Detergents",
+            "Bathroom Cleaners",
+            "Liquid Laundry Detergents",
+            "Automatic Dishwash",
+            "Equipment Cleaners",
+            "Shower Cleaners",
+            "Multisurface Cleaners",
+            "Floor Cleaners",
+            "Powder Laundry Detergents",
+            "Dishwash Detergents",
+            "Glass Cleaners",
+            "Fabric Cleaners",
+            "Laundry Detergents",
+            "Multipurpose Surface Cleaners",
+            "Detergents"
+        ]
+    }
+}

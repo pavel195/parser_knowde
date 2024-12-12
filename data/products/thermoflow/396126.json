@@ -1,0 +1,50 @@
+{
+    "id": 396126,
+    "brand": "thermoflow",
+    "name": "Muehlmeier E-Glass - emulsion bonded E-CSM 225",
+    "slug": "muehlmeier-e-glass-emulsion-bonded-e-csm-225",
+    "description": "Muehlmeier E-Glass - emulsion bonded E-CSM 225 consists of cut and non-oriented e-glass strands which have silane size. The binding of the strands amongst each other happens by a liquid mat binder on PVAc base which is easily soluble in styrene. Working happens in the well-known contact- or continuous processes. The mat is suitable for UP, EP and vinyl ester resins.",
+    "company_name": "Muehlmeier",
+    "company_slug": "muehlmeier",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686148902/production/Company/50305/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608769/production/CategoryImage/577/category_image/AutomotiveTransportation_05.jpg",
+    "properties": {
+        "Applications": [
+            "Interior",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Reinforcements",
+            "Glass Fiber"
+        ],
+        "Chemical Family": [
+            "Glass Beads & Fibers"
+        ]
+    },
+    "summary": {
+        "Reinforcement Material": [
+            "Glass Fibers"
+        ],
+        "Reinforcement Form": [
+            "Mat"
+        ],
+        "Compatible Polymers & Resins": [
+            "Epoxies (EP)",
+            "Unsaturated Polyester (UPE)",
+            "Vinyl Esters"
+        ],
+        "Processing Methods": [
+            "Injection Molding",
+            "Pultrusion",
+            "Compression Molding",
+            "Hand Lay-up",
+            "Resin Transfer Molding (RTM)"
+        ],
+        "Features": [
+            "Excellent Compatibility",
+            "Translucent",
+            "Excellent Flexibility",
+            "High Tensile Strength"
+        ]
+    }
+}

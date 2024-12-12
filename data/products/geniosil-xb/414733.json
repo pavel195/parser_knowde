@@ -1,0 +1,73 @@
+{
+    "id": 414733,
+    "brand": "geniosil-xb",
+    "name": "WACKER® AK 1000",
+    "slug": "wacker-ak-1000",
+    "description": "WACKER® AK 1000 is a linear, non-reactive polydimethylsiloxane with a viscosity of approximately 1000 mm²/s. Its chemical structure gives it an exceptional property profile that distinguishes it from organic materials like mineral oils. It exhibits low surface tension, resulting in high surface activity. Additionally, it is chemically highly unreactive and has a low solidifying point.",
+    "company_name": "Wacker Chemie AG",
+    "company_slug": "wacker-chemie-ag",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1713789601/production/Brand/32267/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1713789601/production/Brand/32267/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Textile Manufacturing",
+            "Chemical Manufacturing",
+            "Surface Care",
+            "Chemical & Industrial Manufacturing",
+            "Textiles & Nonwovens",
+            "Home Care",
+            "Leather & Textiles"
+        ],
+        "Product Families": [
+            "Lubricants & Oils",
+            "Heat Transfer Fluids",
+            "Processing Aids",
+            "Finishing Additives & Treatments",
+            "Rheology Modifiers",
+            "Solvents & Carriers",
+            "Performance Additives",
+            "Other Functional Additives",
+            "Foam Control Agents",
+            "Functional Additives",
+            "Polymer Additives",
+            "Fluids & Lubricants",
+            "Textile & Leather Chemicals"
+        ],
+        "Chemical Family": [
+            "Siloxanes"
+        ],
+        "End Uses": [
+            "Textiles",
+            "Polishes"
+        ]
+    },
+    "summary": {
+        "CAS Number": [
+            "9006-65-9"
+        ],
+        "Functions": [
+            "Release Agent",
+            "Anti-Foaming Agent",
+            "Lubricant",
+            "Lubricant (Internal)",
+            "Lubricant (External)",
+            "Solvent",
+            "Polishing Agent",
+            "Water Repellent"
+        ],
+        "Chemical Family": [
+            "Siloxanes"
+        ],
+        "Product Type": [
+            "Hydraulic Fluids",
+            "Heat Transfer Fluid"
+        ],
+        "Certifications & Compliance": [
+            "EC No.1907/2006",
+            "REACH Exempt (Europe)"
+        ],
+        "Synonyms": [
+            "Dimethicone"
+        ]
+    }
+}

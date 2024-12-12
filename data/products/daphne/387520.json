@@ -1,0 +1,32 @@
+{
+    "id": 387520,
+    "brand": "daphne",
+    "name": "MASTERDRAW® SOL 3950",
+    "slug": "masterdraw-sol-3950",
+    "description": "MASTERDRAW® SOL 3950 is a water miscible oil used for drawing and stamping ferrous metals with thicknesses up to .250”.",
+    "company_name": "Etna Products Inc.",
+    "company_slug": "etna-products-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664291621/production/Brand/29088/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608769/production/CategoryImage/577/category_image/AutomotiveTransportation_05.jpg",
+    "properties": {
+        "Applications": [
+            "Lubricants & Functional Fluids",
+            "Automotive Fluids & Lubricants",
+            "Aerospace Fluids & Lubricants"
+        ],
+        "Product Families": [
+            "Fluids & Lubricants",
+            "Metalworking Fluids"
+        ]
+    },
+    "summary": {
+        "Application Areas": [
+            "Drawing Operations",
+            "Stamping"
+        ],
+        "Features": [
+            "Excellent Miscibility",
+            "Water-Miscible"
+        ]
+    }
+}

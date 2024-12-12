@@ -1,0 +1,42 @@
+{
+    "id": 373659,
+    "brand": "soudabond",
+    "name": "Soudaseal SL",
+    "slug": "soudaseal-sl",
+    "description": "Soudaseal SL is a SMX® sealant designed to offer superior adhesion to concrete as well as a wide variety of substrates with a smooth finish, which allows installation without tooling.",
+    "company_name": "Soudal USA",
+    "company_slug": "soudal",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520047/production/Brand/27899/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608438/production/CategoryImage/559/category_image/BuildingConstruction_03.jpg",
+    "properties": {
+        "Applications": [
+            "Bonding & Assembly",
+            "Building Materials",
+            "Construction Chemicals",
+            "Infrastructure, Roads & Paving",
+            "Roofing",
+            "Sealants",
+            "Fence, Decks & Rails",
+            "Sealants & Caulks",
+            "Pavement, Highways, Roads & Bridges"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Caulks & Sealants"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Solvent free (100% Solids) Sealant"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Concrete"
+        ],
+        "Cure Method": [
+            "Moisture Cure"
+        ],
+        "Application Method": [
+            "Pneumatic Gun"
+        ]
+    }
+}

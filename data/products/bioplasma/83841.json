@@ -1,0 +1,67 @@
+{
+    "id": 83841,
+    "brand": "bioplasma",
+    "name": "ORAMIX™ CG110",
+    "slug": "oramix-cg110",
+    "description": "ORAMIX™ CG 110, non ionic surfactant derived from sugar, is very respectful of the skin and the environment. It brings a green touch to all foaming formulas.",
+    "company_name": "SEPPIC INC",
+    "company_slug": "seppic-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708699153/production/Company/1405/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708699153/production/Product/83841/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Bath & Shower",
+            "Hair Care",
+            "Skin Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Nonionic Surfactants",
+            "Emulsifiers, Solubilizers & Dispersants",
+            "Functionals",
+            "Surfactants & Cleansers"
+        ],
+        "INCI Name": [
+            "Caprylyl/Capryl Glucoside"
+        ],
+        "End Uses": [
+            "Bubble Bath",
+            "Facial Cleanser",
+            "Shampoos & Rinses",
+            "Shower Gels"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Caprylyl/Capryl Glucoside"
+        ],
+        "Ingredient Origin": [
+            "Plant Origin"
+        ],
+        "Functions": [
+            "Foaming Agent",
+            "Surfactant",
+            "Solubilizer",
+            "Surfactant (Nonionic)",
+            "Cleansing Agent",
+            "Co-Emulsifier"
+        ],
+        "Labeling Claims": [
+            "Ulta Beauty's Conscious Beauty",
+            "Credo Clean Standard",
+            "Clean at Sephora",
+            "Sulfate-free",
+            "Biodegradable",
+            "Natural",
+            "Preservative-free",
+            "Organic"
+        ],
+        "Certifications & Compliance": [
+            "NaTrue",
+            "RSPO MassBalance Certified",
+            "Organic Certified",
+            "COSMOS",
+            "ECOCERT"
+        ]
+    }
+}

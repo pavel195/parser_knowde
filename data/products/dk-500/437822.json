@@ -1,0 +1,41 @@
+{
+    "id": 437822,
+    "brand": "dk-500",
+    "name": "SureCrete E2U 100% Solids Epoxy",
+    "slug": "surecrete-e2u-100-solids-epoxy",
+    "description": "UPI Sealant Products E2U 100% Solids Epoxy is a 2-component modified cycloaliphatic high-performance epoxy. It features solvent-free low odor and high gloss floor coating. It is applied at 12-30 mil for high industrial and commercial demands.\r\n",
+    "company_name": "SureCrete",
+    "company_slug": "surecrete",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520352/production/Company/64844/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608454/production/CategoryImage/560/category_image/BuildingConstruction_04.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Flooring & Surfaces",
+            "Architectural Coatings",
+            "Decorative Paints, Coatings & Stains",
+            "Building Envelope & Roofing",
+            "Decorative Materials & Finishes",
+            "Floor Coatings",
+            "Building Envelope"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Other Paints & Coatings"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Solventless & High Solids Coating",
+            "2K (2 component) Coating",
+            "Epoxy Coating"
+        ],
+        "Application Area": [
+            "Floor"
+        ],
+        "Features": [
+            "High Gloss",
+            "High Performance"
+        ]
+    }
+}

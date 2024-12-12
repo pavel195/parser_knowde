@@ -1,0 +1,45 @@
+{
+    "id": 427092,
+    "brand": "schultz",
+    "name": "Schultz® S730",
+    "slug": "schultz-s730",
+    "description": "Schultz® S730 has excellent heat stability characteristics and oxidation resistance with a long lifecycle. It prevents corrosion in metal industrial production machinery. It is a highly purified aromatic synthetic heat transfer fluid and is ideal for low-pressure applications.",
+    "company_name": "Schultz Canada Chemicals",
+    "company_slug": "schultz-canada-chemicals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1682593301/production/Brand/33830/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Lubricants & Functional Fluids",
+            "Pharmaceutical Manufacturing",
+            "Other Pharmaceutical Manufacturing Applications",
+            "Automotive Fluids & Lubricants",
+            "Chemical & Industrial Manufacturing",
+            "Oil, Gas & Mining",
+            "Equipment & Parts",
+            "Refining & Gas Processing"
+        ],
+        "Product Families": [
+            "Heat Transfer Fluids",
+            "Fluids & Lubricants"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Heat Transfer Fluid"
+        ],
+        "Application Area": [
+            "Machining Operations"
+        ],
+        "Features": [
+            "Oxidation Resistant",
+            "Corrosion Resistant",
+            "Cost Effective",
+            "Good Thermal Stability",
+            "High Temperature Performance",
+            "High Reliability",
+            "Low Pressure Application",
+            "Excellent Productivity"
+        ]
+    }
+}

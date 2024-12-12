@@ -1,0 +1,36 @@
+{
+    "id": 275632,
+    "brand": "syntholux",
+    "name": "LIOPUR PFL 1154",
+    "slug": "liopur-pfl-1154",
+    "description": "Aqueous, Aliphatic polyurethane dispersion based on a polyester / polycarbonate combination",
+    "company_name": "Synthopol",
+    "company_slug": "synthopol",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691739844/production/Company/22068/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608630/production/CategoryImage/571/category_image/PaintingsCoatings_07.jpg",
+    "properties": {
+        "Applications": [
+            "Architectural Coatings",
+            "Furniture",
+            "Industrial Coatings",
+            "Wood Coatings & Finishes",
+            "Wood Flooring",
+            "Furniture Coatings",
+            "Flooring & Surfaces",
+            "Building & Construction",
+            "Building Envelope & Roofing",
+            "Building Envelope"
+        ],
+        "Product Families": [
+            "Polyurethanes (PU)",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ],
+        "End Uses": [
+            "2K (2 component) Coating"
+        ]
+    },
+    "summary": {}
+}

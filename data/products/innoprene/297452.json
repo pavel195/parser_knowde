@@ -1,0 +1,48 @@
+{
+    "id": 297452,
+    "brand": "innoprene",
+    "name": "KEP® 435",
+    "slug": "kumho-polychem-kep435",
+    "description": "KEP® 435 produced by Kumho Polychem is a highly functional special synthetic rubber that is mainly used for automotive parts and has excellent resistance to heat, ozone, and chemicals. With a lower specific gravity compared with other synthetic rubbers, it can be applicable for high-filling mixing, meaning it has a high economic feasibility.",
+    "company_name": "Kumho Polychem",
+    "company_slug": "kumho-polychem",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686113207/production/Company/23746/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608779/production/CategoryImage/578/category_image/AutomotiveTransportation_06.jpg",
+    "properties": {
+        "Applications": [
+            "Roofing",
+            "Roofing Sheets",
+            "Belts & Conveyers",
+            "Building Envelope & Roofing",
+            "Waterproofing & Weatherproofing",
+            "Tires",
+            "Chemical & Industrial Manufacturing",
+            "Automotive",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Thermoset Elastomers",
+            "EP Rubbers (EPDM)"
+        ],
+        "Chemical Family": [
+            "Polyolefins",
+            "Ethylene-Propylene Copolymers (EPR)"
+        ],
+        "Polymer Name": [
+            "Ethylene Propylene Diene Terpolymer (EPDM)"
+        ],
+        "End Uses": [
+            "Tires",
+            "Belts/Belt Repair",
+            "Tubes"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Ethylene Propylene Diene Terpolymer (EPDM)"
+        ],
+        "Additives Included": [
+            "Scorch Resistant"
+        ]
+    }
+}

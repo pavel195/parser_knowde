@@ -1,0 +1,37 @@
+{
+    "id": 361037,
+    "brand": "sabatack",
+    "name": "Solfre 2",
+    "slug": "solfre-2",
+    "description": "Solfre 2 is a two component solvent-free polyurethane adhesive that offers a unique alternative to epoxies, one part polyurethanes, solvented adhesives and hot melts.",
+    "company_name": "Chemique Adhesives",
+    "company_slug": "chemique-adhesives",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664290981/production/Brand/26995/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608502/production/CategoryImage/564/category_image/BuildingConstruction_08.jpg",
+    "properties": {
+        "Applications": [
+            "Other Building & Construction Applications"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Structural Adhesives"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "2K (2 component) Adhesive",
+            "Structural Adhesive",
+            "Solvent free (100% Solids) Adhesive"
+        ],
+        "Application Method": [
+            "Spray",
+            "Roller"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ]
+    }
+}

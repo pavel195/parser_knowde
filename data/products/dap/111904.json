@@ -1,0 +1,45 @@
+{
+    "id": 111904,
+    "brand": "dap",
+    "name": "Cosmic Epoxy CP7311",
+    "slug": "cosmic-epoxy-cp7311",
+    "description": "Cosmic Epoxy CP7311 is a long-glass reinforced epoxy molding compound that comes in a flake form. It is designed to be an ideal replacement for various aircraft and heavy metal parts, providing a durable and high-strength material suitable for demanding applications in these industries.",
+    "company_name": "Cosmic Plastics Inc.",
+    "company_slug": "cosmic-plastics",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1723495796/production/Company/2760/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,c_crop,x_0,y_270,w_3000,h_938/v1723495796/production/Company/2760/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Aerospace & Aviation",
+            "Transportation"
+        ],
+        "Product Families": [
+            "Epoxies",
+            "Thermoset Resins"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ],
+        "Polymer Name": [
+            "Epoxy Resins & Compounds"
+        ],
+        "End Uses": [
+            "Aircraft Applications"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Epoxy Resins & Compounds"
+        ],
+        "Processing Methods": [
+            "Compression Molding",
+            "Transfer Molding"
+        ],
+        "End Uses": [
+            "Aircraft Applications"
+        ],
+        "Flexural Strength": [
+            "0.24115 - 310.05 MPa"
+        ]
+    }
+}

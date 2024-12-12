@@ -1,0 +1,47 @@
+{
+    "id": 344281,
+    "brand": "axivite",
+    "name": "aXiphen-feed®",
+    "slug": "axiphen-feed",
+    "description": "aXiphen-feed® is an innovative, natural analog capsaicin solution for improved health for chickens, hens, pigs and piglets, in a natural way. It promotes growth,reduces stress levels and has the potential to prevent health conditions like salmonella without any antibiotics. Based on extensive research and with well documented results, aXiphen-feed® is the future in animal feed for the modern farmer seeking to secure a sustainable ethical value chain, from the farm to the table. Due to its high purity, a more sustainable, cost-effective alternative for better animal health is possible.",
+    "company_name": "Axichem",
+    "company_slug": "axichem",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708688749/production/Brand/25614/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608161/production/CategoryImage/546/category_image/AgricultureFeed_02.jpg",
+    "properties": {
+        "Applications": [
+            "Swine",
+            "Birds & Poultry",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Feed Supplements",
+            "Formulated Feeds & Premixes",
+            "Metabolism Modifiers",
+            "Health & Well-Being",
+            "Nutritional Ingredients",
+            "Formulated Feeds, Whole Foods and Extracts"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Phenylcapsaicin"
+        ],
+        "Functions": [
+            "Supplement",
+            "Feed Premix",
+            "Bioenhancer"
+        ],
+        "Animal Species": [
+            "Piglets",
+            "Swine",
+            "Broilers"
+        ],
+        "Labeling Claims": [
+            "Sustainable"
+        ],
+        "Features": [
+            "Reduces Feed Cost"
+        ]
+    }
+}

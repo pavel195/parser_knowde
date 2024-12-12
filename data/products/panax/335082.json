@@ -1,0 +1,48 @@
+{
+    "id": 335082,
+    "brand": "panax",
+    "name": "Panax Red CL-304 (P.R.53:1)",
+    "slug": "panax-red-cl-304-p-r-53-1",
+    "description": "Panax Red CL-304 (P.R.53:1) is a Opaque, good flow properties\n",
+    "company_name": "UK SEUNG Europe",
+    "company_slug": "uk-seung-europe",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708519592/production/Brand/24746/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609078/production/CategoryImage/593/category_image/PrintingPackaging_04.jpg",
+    "properties": {
+        "Applications": [
+            "Flexography",
+            "Offset & Lithographic Printing",
+            "Printing & Inks"
+        ],
+        "Product Families": [
+            "Color Pigments",
+            "Organic Pigments",
+            "Pigments & Colorants"
+        ],
+        "Chemical Family": [
+            "Azo Compounds"
+        ],
+        "End Uses": [
+            "Offset Ink",
+            "Waterborne Ink",
+            "Flexography Ink"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Azo Compounds"
+        ],
+        "Pigment Type": [
+            "Organic Pigments"
+        ],
+        "CI Name": [
+            "Pigment Red 53:1"
+        ],
+        "CI Number": [
+            "15585:1"
+        ],
+        "Color": [
+            "Red"
+        ]
+    }
+}

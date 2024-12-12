@@ -1,0 +1,50 @@
+{
+    "id": 429795,
+    "brand": "nyladur",
+    "name": "EnviroPC ABS 5080",
+    "slug": "enviropc-abs-5080",
+    "description": null,
+    "company_name": "West Michigan Compounding",
+    "company_slug": "west-michigan-compounding",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708529656/production/Company/27031/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608760/production/CategoryImage/576/category_image/AutomotiveTransportation_04.jpg",
+    "properties": {
+        "Applications": [
+            "Interior",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Blends & Alloys",
+            "Engineering & Specialty Polymers"
+        ],
+        "Chemical Family": [
+            "Acrylonitrile Butadiene Styrene (ABS)",
+            "Polycarbonate (PC)"
+        ],
+        "Polymer Name": [
+            "PC/ABS Alloy"
+        ],
+        "End Uses": [
+            "Cup Holders",
+            "Speakers",
+            "Car Radio Fascia"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "PC/ABS Alloy"
+        ],
+        "Processing Methods": [
+            "Injection Molding"
+        ],
+        "Density": [
+            "1120.0 - 1150.0 kg/m³"
+        ],
+        "Flexural Modulus": [
+            "1.9 - 2.2 MPa"
+        ],
+        "Tensile Strength": [
+            "48.0 - 48.0 MPa"
+        ]
+    }
+}

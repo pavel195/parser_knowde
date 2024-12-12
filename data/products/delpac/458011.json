@@ -1,0 +1,51 @@
+{
+    "id": 458011,
+    "brand": "delpac",
+    "name": "USALCO Ferrous Sulfate (7%)",
+    "slug": "usalco-ferrous-sulfate-7",
+    "description": "USALCO Ferrous Sulfate (7%) is a liquid coagulant that contains 7% bivalent iron (Fe2+). It is produced through the reaction of high-purity iron ore and metallic iron with sulfuric acid. This product is used in the treatment of municipal and industrial water and wastewater. It has various applications, including reducing hydrogen sulfide, controlling chromate and cyanide, de-chlorination, conditioning sludge, and precipitating phosphate with aeration.",
+    "company_name": "USALCO",
+    "company_slug": "usalco",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1719843443/production/Company/32175/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Water Treatment",
+            "Power, Water & Utilities"
+        ],
+        "Product Families": [
+            "Water Treatment Additives",
+            "Water Treatment Chemicals"
+        ],
+        "Chemical Family": [
+            "Sulfates",
+            "Iron & Iron Compounds"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Sulfates",
+            "Iron & Iron Compounds"
+        ],
+        "Functions": [
+            "Coagulant",
+            "Flocculant"
+        ],
+        "Applicable Processes": [
+            "Chromate Reduction",
+            "Wastewater Treatment",
+            "Cyanide Complexation",
+            "Chloride Removal",
+            "Hydrogen Sulfide Control",
+            "Phosphate Precipitation With Aeration",
+            "Drinking Water Treatment",
+            "Industrial Water Treatment",
+            "Chlorite Removal",
+            "Sludge Treatment",
+            "Phosphorus Removal"
+        ],
+        "Synonyms": [
+            "Ferrous Sulphate, FeSO4, Iron(II) Sulfate, Iron(II) Sulphate"
+        ]
+    }
+}

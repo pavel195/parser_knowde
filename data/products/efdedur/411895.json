@@ -1,0 +1,42 @@
+{
+    "id": 411895,
+    "brand": "efdedur",
+    "name": "EFDEDUR -UHS Singlelayer UR1422",
+    "slug": "efdedur-uhs-singlelayer-ur1422",
+    "description": "EFDEDUR-UHS Singlelayer UR1422 is used for Ultra-High-Solid singlelayer with solvent, Very high corrosion protection, Very good light and weather resistance, high-quality industrial coatings, such as agricultural and construction machines.",
+    "company_name": "FreiLacke",
+    "company_slug": "freilacke",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292351/production/Brand/32127/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608640/production/CategoryImage/572/category_image/PaintingsCoatings_08.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial Coatings",
+            "Agricultural & Construction Equipment"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Other Paints & Coatings"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Coating"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Steel"
+        ],
+        "Features": [
+            "Sunlight Resistant",
+            "High Solids Content",
+            "Good Weather Stability",
+            "Corrosion Resistant"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    }
+}

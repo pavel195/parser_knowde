@@ -1,0 +1,45 @@
+{
+    "id": 411999,
+    "brand": "oil-stop",
+    "name": "Tread-Shield® Primer WB",
+    "slug": "tread-shield-primer-wb",
+    "description": "Tread-Shield® Primer WB is a multi-functional, water-based, VOC compliant, epoxy primer and finishes coat for concrete floors. This two-component epoxy product is designed for use as a primer for either urethane or epoxy finish coats. Tread-Shield Primer WB can also be used as a stand-alone product for low to medium traffic situations. This can be used as a safe, low odor, non-flammable primer in conjunction with all urethane and roller-applied epoxy concrete floor coatings.",
+    "company_name": "Garland Floor",
+    "company_slug": "garland-floor",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520364/production/Brand/32141/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608454/production/CategoryImage/560/category_image/BuildingConstruction_04.jpg",
+    "properties": {
+        "Applications": [
+            "Packaging Coatings",
+            "Primers & Lacquers"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "2K (2 component) Coating",
+            "Primer"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Concrete"
+        ],
+        "Features": [
+            "Low Odor",
+            "Water-based"
+        ],
+        "Application Method": [
+            "Spray",
+            "Roller",
+            "Brush"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    }
+}

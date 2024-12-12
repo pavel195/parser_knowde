@@ -1,0 +1,49 @@
+{
+    "id": 416624,
+    "brand": "seamstitch",
+    "name": "EnergyGuard Silicone Roof Coating",
+    "slug": "energyguard-silicone-roof-coating",
+    "description": "EnergyGuard Silicone Roof Coating is a solvent-based, single component, moisture cure, high solids, silicone roof coating. Containers are filled with dry nitrogen gas to prevent premature cure.",
+    "company_name": "Lexis Coatings",
+    "company_slug": "lexis-coatings",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520353/production/Brand/32539/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608490/production/CategoryImage/563/category_image/BuildingConstruction_07.jpg",
+    "properties": {
+        "Applications": [
+            "Roofing",
+            "Roof Coatings"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Top Coats"
+        ],
+        "Chemical Family": [
+            "Silicones"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Solventborne Coating",
+            "1K (1 component) Coating",
+            "Top Coat"
+        ],
+        "Application Area": [
+            "Rainwater Harvesting"
+        ],
+        "Features": [
+            "Breathable",
+            "High Solids Content",
+            "Moisture Resistant",
+            "Good Weather Stability",
+            "Cost Effective"
+        ],
+        "Application Method": [
+            "Brush",
+            "Spray",
+            "Roller"
+        ],
+        "Chemical Family": [
+            "Silicones"
+        ]
+    }
+}

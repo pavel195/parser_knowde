@@ -1,0 +1,37 @@
+{
+    "id": 310405,
+    "brand": "min-u-gel",
+    "name": "MIN-U-GEL® 200",
+    "slug": "min-u-gel-200",
+    "description": "MIN-U-GEL® 200 coarse grade is used in agricultural suspensions, such as liquid animal feed supplements, liquid suspension fertilizer, foliar sprays, and various ag chemicals such as wettable powders (WP), water-dispersible granules (WDG) and water-reducible (WR) pesticides. It is an EPA approved inert pesticide ingredient.",
+    "company_name": "Active Minerals",
+    "company_slug": "active-minerals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708688682/production/Product/310405/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608422/production/CategoryImage/558/category_image/BuildingConstruction_02.jpg",
+    "properties": {
+        "Applications": [
+            "Feed Production & Processing",
+            "Other Agricultural Crops",
+            "Animal Health & Nutrition",
+            "Agricultural Crops"
+        ],
+        "Product Families": [
+            "Emulsifiers, Stabilizers & Thickeners",
+            "Adsorbents & Binders",
+            "Drift Control, Foam Markers & Thickeners",
+            "Other Formulation Ingredients",
+            "Production Aids and Processing Additives",
+            "Adjuvants & Formulation Ingredients"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Thickener",
+            "Binder",
+            "Anti-Settling Agent"
+        ],
+        "Certifications & Compliance": [
+            "EPA Registered"
+        ]
+    }
+}

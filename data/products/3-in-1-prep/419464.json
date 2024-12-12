@@ -1,0 +1,49 @@
+{
+    "id": 419464,
+    "brand": "3-in-1-prep",
+    "name": "Graf-X Cleaner™",
+    "slug": "graf-x-cleaner",
+    "description": "Graf-X Cleaner™ is an effective water-based formula that attacks paint so it can be easily be sprayed or wiped away. It is biodegradable and is safe for people and the environment. The formula breaks down the molecular bond between the paint and the surface and is effective for removing graffiti from all types of surfaces including: stucco, concrete, metal or brick.",
+    "company_name": "Newlook International",
+    "company_slug": "newlook-international",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292542/production/Brand/32909/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515625/production/CategoryImage/1053/category_image/HII_05.jpg",
+    "properties": {
+        "Applications": [
+            "Auto Care",
+            "Surface Care",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Commercial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Graffiti Remover",
+            "Cleaner",
+            "Paint Remover"
+        ],
+        "Application Areas": [
+            "Wall",
+            "Car"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Tile",
+            "Metal",
+            "Fiberglass",
+            "Stainless Steel",
+            "Glass",
+            "Concrete",
+            "Plastics"
+        ],
+        "Features": [
+            "Water-based",
+            "Abrasion Resistant",
+            "Long Term Protection",
+            "Good Penetration",
+            "Good Non-Yellowing Properties"
+        ]
+    }
+}

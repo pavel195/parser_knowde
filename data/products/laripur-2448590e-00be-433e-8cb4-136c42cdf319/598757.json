@@ -1,0 +1,38 @@
+{
+    "id": 598757,
+    "brand": "laripur-2448590e-00be-433e-8cb4-136c42cdf319",
+    "name": "P.A.T. Products LCS 1173",
+    "slug": "p-a-t-products-lcs-1173",
+    "description": "P.A.T. Products LCS 1173 is a polyester-based TPU allowing for fast cycle times and ease of demoulding of the final item. This makes this product particularly indicated for injection moulding.",
+    "company_name": "P.A.T. Products",
+    "company_slug": "p-a-t-products",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1707769580/production/Company/16620/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608779/production/CategoryImage/578/category_image/AutomotiveTransportation_06.jpg",
+    "properties": {
+        "Product Families": [
+            "Thermoplastic Urethanes (TPU)",
+            "Thermoplastic Elastomers"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)",
+            "Thermoplastic Polyurethanes (TPU)"
+        ],
+        "Polymer Name": [
+            "Thermoplastic Polyurethane (Polyester based)"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Thermoplastic Polyurethane (Polyester based)"
+        ],
+        "Processing Methods": [
+            "Injection Molding"
+        ],
+        "Density:": [
+            "1250.0 - 1250.0 kg/m³"
+        ],
+        "Strain at Break": [
+            "480.0 - 480.0 %"
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "id": 358872,
+    "brand": "hempadur",
+    "name": "Hempel A/S Galvosil Fibre 15750",
+    "slug": "hempel-a-s-galvosil-fibre-15750",
+    "description": "Hempel A/S Galvosil Fiber 15750 is a solvent-borne, self-curing, fiber reinforced, inorganic zinc silicate primer with outstanding resistance against weathering and abrasion. Provides expanded tolerance to high film thicknesses and offers excellent galvanic protection of local mechanical damage. The product is in compliance with the compositional requirements of SSPC Paint 20 level 2 and ISO 12944 Part 5, 2018. In full compliance with ISO 3549 and ASTM D520 type II.",
+    "company_name": "Hempel A/S",
+    "company_slug": "hempel-a-s",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520246/production/Company/26488/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Coatings & Finishes",
+            "Infrastructure, Roads & Paving",
+            "Maintenance, Repair & Overhaul",
+            "Power, Water & Utilities",
+            "Marine",
+            "Other Infrastructure Applications",
+            "Exploration & Upstream",
+            "Renewable Energy",
+            "Other Oil, Gas & Mining Applications",
+            "Marine Coatings",
+            "Oil, Gas & Mining",
+            "Transportation",
+            "Pavement, Highways, Roads & Bridges"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Primer",
+            "Solventborne Coating"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Steel"
+        ],
+        "Features": [
+            "Corrosion Resistant",
+            "Good Weather Fastness",
+            "Good Abrasion Resistance",
+            "Self Curing Capable"
+        ]
+    }
+}

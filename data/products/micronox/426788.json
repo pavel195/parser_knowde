@@ -1,0 +1,44 @@
+{
+    "id": 426788,
+    "brand": "micronox",
+    "name": "MICRONOX® R02",
+    "slug": "micronox-r02",
+    "description": "MICRONOX® R02 is a pigment that finds application in anticorrosive pigments, construction, decorative paints, fertilizers, glass, and industrial paints.",
+    "company_name": "PROMINDSA",
+    "company_slug": "promindsa",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708684055/production/Brand/33796/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608611/production/CategoryImage/569/category_image/PaintingsCoatings_05.jpg",
+    "properties": {
+        "Applications": [
+            "Decorative Paints, Coatings & Stains",
+            "Shingles & Tiles",
+            "Industrial Coatings",
+            "Decorative Paints",
+            "Ceramics & Refractory",
+            "Building Materials",
+            "Chemical & Industrial Manufacturing",
+            "Building & Construction",
+            "Building Envelope & Roofing"
+        ],
+        "Product Families": [
+            "Functional Pigments",
+            "Glass & Ceramic Additives",
+            "Asphalt Additives",
+            "Pigments & Colorants",
+            "Construction Chemicals",
+            "Processing Aids"
+        ],
+        "End Uses": [
+            "Asphalt"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Pigment",
+            "Colorant"
+        ],
+        "Color": [
+            "Red"
+        ]
+    }
+}

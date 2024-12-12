@@ -1,0 +1,37 @@
+{
+    "id": 411498,
+    "brand": "klinosept",
+    "name": "ALCHOSEPT™ Hand and skin disinfectant",
+    "slug": "alchosept-hand-and-skin-disinfectant",
+    "description": "Alchosept is a hydro alcoholic solution used for disinfecting and maintaining hygiene for the purpose of skin disinfection by rubbing.",
+    "company_name": "Klintensiv SRL",
+    "company_slug": "klintensiv-srl",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292323/production/Brand/32044/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515647/production/CategoryImage/1055/category_image/HII_07.jpg",
+    "properties": {
+        "Applications": [
+            "Institutional & Industrial Care",
+            "Industrial Cleaning",
+            "Institutional & Catering"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Food Grade Cleaners",
+            "Industrial Cleaners",
+            "Commercial Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Disinfectant Products",
+            "Hand Cleansers"
+        ],
+        "Features": [
+            "Non Stick",
+            "Bacteria Resistant",
+            "Fungus Resistant",
+            "Contamination Protection",
+            "Fast Drying"
+        ]
+    }
+}

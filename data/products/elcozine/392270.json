@@ -1,0 +1,30 @@
+{
+    "id": 392270,
+    "brand": "elcozine",
+    "name": "Elcozine Red 4G-L",
+    "slug": "elcozine-red-4g-l",
+    "description": "Elcozine Red 4G-L is ChromaScape Basic Liquid Dye. These dyes are used in virtually all areas of paper manufacturing due to their physical form, ease of handling, elimination of dusting and suitability for systems with on-line color control.",
+    "company_name": "ChromaScape",
+    "company_slug": "chromascape",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708516307/production/Company/23528/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Pulping & Processing",
+            "Paper & Pulp"
+        ],
+        "Product Families": [
+            "Basic Dyes",
+            "Dyes",
+            "Pigments & Colorants"
+        ]
+    },
+    "summary": {
+        "Color": [
+            "Red"
+        ],
+        "Dye Type": [
+            "Basic Dyes"
+        ]
+    }
+}

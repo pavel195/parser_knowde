@@ -1,0 +1,50 @@
+{
+    "id": 356568,
+    "brand": "acti-min",
+    "name": "Acti-Min® RG",
+    "slug": "acti-min-rg",
+    "description": "Acti-Min® RG is a high quality, low residue, air floated sedimentary hard kaolin clay. Strict attention to production and quality control assures a high degree of product uniformity. Acti-Min RG is classified to a very low 325 mesh residue, making it suitable for any customers who may be sensitive to fine, non-kaolin residue.\r\n\r\n\r\nHard Clays are very fine in their natural particle size. They provide high modules, tensile strength, abrasion resistance, green strength and stiffness to elasometric compounds.\r\n",
+    "company_name": "Active Minerals",
+    "company_slug": "active-minerals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708688391/production/Company/27020/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608422/production/CategoryImage/558/category_image/BuildingConstruction_02.jpg",
+    "properties": {
+        "Applications": [
+            "Equipment & Parts",
+            "Footwear",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Fillers & Extenders",
+            "Elastomer Additives"
+        ],
+        "Chemical Family": [
+            "Kaolins",
+            "Clays"
+        ],
+        "End Uses": [
+            "Footwear",
+            "Belts/Belt Repair"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Filler",
+            "Reinforcement"
+        ],
+        "Chemical Family": [
+            "Clays",
+            "Kaolins"
+        ],
+        "Features": [
+            "Good Green Strength",
+            "Good Stiffness",
+            "Uniform Distribution",
+            "High Tensile Strength",
+            "Low Residuals",
+            "High Modulus",
+            "Good Abrasion Resistance",
+            "Consistent High Quality"
+        ]
+    }
+}

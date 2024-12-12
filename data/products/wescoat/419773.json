@@ -1,0 +1,31 @@
+{
+    "id": 419773,
+    "brand": "wescoat",
+    "name": "WESCOAT® MA01P6",
+    "slug": "wescoat-ma01p6",
+    "description": "WESCOAT® MA01P6 is a coating product that will guarantee performance and longer lifespans. WESCOAT® MA01P6 addresses the chemical problems.",
+    "company_name": "White Engineering Surfaces Corporation",
+    "company_slug": "white-engineering-surfaces-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520240/production/Brand/32925/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608600/production/CategoryImage/568/category_image/PaintingsCoatings_04.jpg",
+    "properties": {
+        "Applications": [
+            "Coatings & Finishes",
+            "Marine",
+            "Marine Coatings",
+            "Transportation"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ]
+    },
+    "summary": {
+        "Features": [
+            "Chemical Resistant"
+        ],
+        "Application Method": [
+            "Spray"
+        ]
+    }
+}

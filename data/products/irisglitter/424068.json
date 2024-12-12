@@ -1,0 +1,59 @@
+{
+    "id": 424068,
+    "brand": "irisglitter",
+    "name": "SipFast YELLOW (TRW)",
+    "slug": "sipfast-yellow-trw",
+    "description": "SipFast YELLOW (TRW) is a line of organic and inorganic powder pigments with applications in various sectors such as architectural and industrial paints, wood coatings, plastics, synthetic fibers, inks, textiles, tanning industry.",
+    "company_name": "Iris Green",
+    "company_slug": "iris-green",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708698862/production/Brand/20287/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708698862/production/Product/424068/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Decorative Paints, Coatings & Stains",
+            "Architectural Coatings",
+            "Leather Manufacturing",
+            "Coated Paper & Paperboard",
+            "Decorative Paints",
+            "Textile Manufacturing",
+            "Wood Coatings & Finishes",
+            "Stationery, Art & Office Supplies",
+            "Industrial Coatings",
+            "Building Envelope",
+            "Building Materials",
+            "Paper & Pulp",
+            "Building & Construction",
+            "Building Envelope & Roofing",
+            "Decorative Materials & Finishes",
+            "Leather & Textiles"
+        ],
+        "Product Families": [
+            "Organic Pigments",
+            "Finishing Additives & Treatments",
+            "Color Pigments",
+            "Pigments & Colorants",
+            "Polymer Additives",
+            "Textile & Leather Chemicals"
+        ],
+        "End Uses": [
+            "Waterborne Ink",
+            "Paper & Pulp",
+            "Powder Coating"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Colorant",
+            "Pigment"
+        ],
+        "Pigment Type": [
+            "Organic Pigments"
+        ],
+        "Color": [
+            "Yellow"
+        ],
+        "Synonyms": [
+            "Bis(acetyl-N-o-tolylcarbamylmethyl)-4,4′-bisazo-3,3′-dichlorobiphenyl, C.I. Pigment Yellow 14, Sunfast Yellow 14, C.I. 21095, NSC 15087, PY 14"
+        ]
+    }
+}

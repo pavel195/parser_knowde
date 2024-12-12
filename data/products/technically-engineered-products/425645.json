@@ -1,0 +1,58 @@
+{
+    "id": 425645,
+    "brand": "technically-engineered-products",
+    "name": "Technically Engineered Products N-Fusion™",
+    "slug": "technically-engineered-products-n-fusion",
+    "description": "N-Fusion™ surfacing veils create advantages in manufacturing and the final product. N-Fusion™ delivers uniformity, no linting or loose fibers, and unmatched strength.",
+    "company_name": "Cerex Advanced Fabrics, Inc",
+    "company_slug": "cerex-advanced-fabrics",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704106377/production/Company/29183/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1704106377/production/Product/425645/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Technical Fabrics",
+            "Power Transmission & Distribution",
+            "Sports & Recreation",
+            "Wire & Cable",
+            "Leather & Textiles"
+        ],
+        "Product Families": [
+            "Technical Fibers & Fabrics",
+            "Parts, Shapes & Films",
+            "Textile & Leather Chemicals"
+        ],
+        "Chemical Family": [
+            "Polyamides"
+        ],
+        "Polymer Name": [
+            "Polyamide 66 (PA 66)"
+        ],
+        "End Uses": [
+            "Sporting Goods"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyamide 66 (PA 66)"
+        ],
+        "Chemical Family": [
+            "Polyamides"
+        ],
+        "Fiber Type": [
+            "Polyamide"
+        ],
+        "Physical Form": [
+            "Solid",
+            "Fabric"
+        ],
+        "Features": [
+            "Good UV Protection",
+            "Excellent Gloss Retention",
+            "UV Resistance",
+            "Good Surface Appearance",
+            "Service Life Extension",
+            "Uniform Distribution",
+            "High Gloss"
+        ]
+    }
+}

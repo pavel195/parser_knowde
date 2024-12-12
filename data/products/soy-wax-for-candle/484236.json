@@ -1,0 +1,32 @@
+{
+    "id": 484236,
+    "brand": "soy-wax-for-candle",
+    "name": "Gateway Food Products Company Powdered Sugar",
+    "slug": "gateway-food-products-company-powdered-sugar",
+    "description": "Gateway Food Products Company Powdered Sugar is a food ingredient. It falls under the product families of food ingredients, taste and flavor, and sweeteners and syrups. It is primarily targeted for the food and nutrition market. The main application of Gateway Food Products Company Powdered Sugar is in the food industry, particularly in confectionery products.",
+    "company_name": "Gateway Food Products Company",
+    "company_slug": "gateway-food-products-company",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708104771/production/Company/46005/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708104771/production/Company/46005/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Confectionery",
+            "Food"
+        ],
+        "Product Families": [
+            "Sweeteners & Syrups",
+            "Taste & Flavor"
+        ],
+        "Ingredient Name": [
+            "Sugar"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Sugar"
+        ],
+        "Physical Form": [
+            "Powder"
+        ]
+    }
+}

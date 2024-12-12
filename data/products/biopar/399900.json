@@ -1,0 +1,47 @@
+{
+    "id": 399900,
+    "brand": "biopar",
+    "name": "BIOPAR® 1015",
+    "slug": "biopar-1015",
+    "description": "BIOPAR® 1015 is ideal for bags of all kinds, secondary packaging, as well as paper coating applications.",
+    "company_name": "United Biopolymers",
+    "company_slug": "united-biopolymers",
+    "logo_url": null,
+    "banner_url": "https://media.knowde.com/image/upload/v1625608173/production/CategoryImage/547/category_image/AgricultureFeed_03.jpg",
+    "properties": {
+        "Applications": [
+            "Non-Food Consumer Packaging",
+            "Food & Beverage Packaging",
+            "Mulch & Fumigation Films",
+            "Agricultural Films",
+            "Packaging"
+        ],
+        "Product Families": [
+            "Biodegradable Polymers",
+            "Engineering & Specialty Polymers"
+        ],
+        "Chemical Family": [
+            "Modifed Starches"
+        ],
+        "Polymer Name": [
+            "Thermoplastic Starch (TPS)"
+        ],
+        "End Uses": [
+            "Film",
+            "Shopping Bags",
+            "Mulch Film"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Thermoplastic Starch (TPS)"
+        ],
+        "Labeling Claims": [
+            "Biodegradable",
+            "Sustainable",
+            "Recyclable",
+            "From Renewable Resources",
+            "Bio-based"
+        ]
+    }
+}

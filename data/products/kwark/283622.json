@@ -1,0 +1,30 @@
+{
+    "id": 283622,
+    "brand": "kwark",
+    "name": "Kwark® XP200",
+    "slug": "kwark-xp200",
+    "description": "Kwark® XP200 is used as an additive / raw material and mixed in various formulations in order to improve key properties of the final product. Kwark® is available under several particle size distributions to match various applications.",
+    "company_name": "ENERSENS",
+    "company_slug": "enersens",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708695782/production/Company/21379/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608769/production/CategoryImage/577/category_image/AutomotiveTransportation_05.jpg",
+    "properties": {
+        "Applications": [
+            "Other Paints & Coatings Applications",
+            "Other Building & Construction Applications"
+        ],
+        "Product Families": [
+            "Fillers & Extenders",
+            "Additives"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Colorant",
+            "Filler"
+        ],
+        "Particle Size": [
+            "10.0 - 200.0 microns"
+        ]
+    }
+}

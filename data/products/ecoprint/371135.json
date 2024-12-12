@@ -1,0 +1,57 @@
+{
+    "id": 371135,
+    "brand": "ecoprint",
+    "name": "AQUADHES® 6102",
+    "slug": "aquadhes-6102",
+    "description": "Aquadhes® 6102 is a a water-based rosin ester dispersion and solvent free.",
+    "company_name": "PINO PINE",
+    "company_slug": "pino-pine",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708692073/production/Brand/27681/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609067/production/CategoryImage/592/category_image/PrintingPackaging_03.jpg",
+    "properties": {
+        "Applications": [
+            "Tape & Label Adhesives",
+            "Tapes & Labels",
+            "Packaging & Paper",
+            "Tapes, Labels & Adhesives"
+        ],
+        "Product Families": [
+            "Rheology Modifiers & Stabilizers",
+            "Surface Modifiers",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Rosins"
+        ],
+        "End Uses": [
+            "Waterborne Adhesive",
+            "Pressure Sensitive Adhesive"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Rheology Modifier",
+            "Tackifier"
+        ],
+        "Chemical Family": [
+            "Rosins"
+        ],
+        "Labeling Claims": [
+            "Solvent-free",
+            "APEO-free",
+            "Halal"
+        ],
+        "Compatible Polymers & Resins": [
+            "Polyvinyl Acetate (PVA)",
+            "Ethylene Vinyl Acetate (EVA)",
+            "Acrylics",
+            "Styrene Butadiene Rubber (SBR)"
+        ],
+        "Physical Form": [
+            "Dispersion"
+        ],
+        "Features": [
+            "Improves Adhesion"
+        ]
+    }
+}

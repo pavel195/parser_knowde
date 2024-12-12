@@ -1,0 +1,42 @@
+{
+    "id": 399322,
+    "brand": "aldac",
+    "name": "ALDAC EC-333",
+    "slug": "aldac-ec-333",
+    "description": "ALDAC EC-333 is a dustless alkaline powder containing a biodegradable surfactant system that works as a heavyduty electrocleaner on ferrous metals.",
+    "company_name": "Aldoa Company",
+    "company_slug": "aldoa-company",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292120/production/Company/50866/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515589/production/CategoryImage/1050/category_image/HII_02.jpg",
+    "properties": {
+        "Applications": [
+            "Home Care",
+            "Institutional & Industrial Care",
+            "Surface Care",
+            "Industrial Cleaning"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Industrial Cleaners",
+            "Commercial Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Alkaline Cleaners",
+            "Cleaner"
+        ],
+        "Certifications & Compliance": [
+            "ISO 9001"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Steel",
+            "Iron",
+            "Metal"
+        ],
+        "Features": [
+            "Dust-Free",
+            "Heavy Duty"
+        ]
+    }
+}

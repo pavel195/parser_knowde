@@ -1,0 +1,37 @@
+{
+    "id": 360593,
+    "brand": "one-step",
+    "name": "Dual Purpose™",
+    "slug": "dual-purpose",
+    "description": "Dual Purpose™ is Non-Sag Formula, Excellent Open Time, Easy Clean Up, Exceeds ANSI A136.1 Type I &amp; II Standards, Adhesive for Interior Installation of Ceramic Tile on Walls and Floors is high performance Type 1 ceramic tile adhesive for interior installation of all types of vitreous and non-vitreous ceramic wall and floor tile. Dual Purpose exceeds ANSI 136.1 Type 1 requirements for areas requiring “Prolonged Water Resistance”.",
+    "company_name": "Super-Tek Products",
+    "company_slug": "super-tek-products",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664290840/production/Brand/27082/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608477/production/CategoryImage/562/category_image/BuildingConstruction_06.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Flooring & Surfaces",
+            "Adhesives",
+            "Construction Adhesives"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Other Adhesives & Sealants"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Adhesive"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Tile",
+            "Wood",
+            "Concrete",
+            "Ceramic"
+        ],
+        "Application Method": [
+            "Trowel"
+        ]
+    }
+}

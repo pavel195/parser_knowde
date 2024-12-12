@@ -1,0 +1,42 @@
+{
+    "id": 370142,
+    "brand": "el-dorado",
+    "name": "MILL 95 CASHMERE US",
+    "slug": "mill-95-cashmere-us",
+    "description": "MILL 95 CASHMERE US is Known for being a late addition stunner, Cashmere's aromas of coconut, melon and lemon-lime citrus don’t disappoint. Since it's release in 2013 by Washington State University it has rapidly grown in popularity.",
+    "company_name": "MILL 95",
+    "company_slug": "mill-95",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686104980/production/Company/43198/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607098/production/CategoryImage/501/category_image/FoodNutrition_02.jpg",
+    "properties": {
+        "Applications": [
+            "Beverage",
+            "Liquor & Spirits",
+            "Beer Brewing"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Plant & Herb Products & Extracts"
+        ],
+        "End Uses": [
+            "Alcoholic Beverages",
+            "Beer"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Hops"
+        ],
+        "Physical Form": [
+            "Pellets",
+            "Solid"
+        ],
+        "Labeling Claims": [
+            "Natural",
+            "Naturally Derived"
+        ],
+        "Features": [
+            "Fruity Aroma"
+        ]
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "id": 309100,
+    "brand": "disvipol",
+    "name": "Disvipol 203",
+    "slug": "disvipol-203",
+    "description": "Disvipol 203 is used in anticorrosive paints, marine finishes, fillers, sealants &amp; primers, insulating varnishes and oil varnishes.",
+    "company_name": "D.S.V. Chemicals",
+    "company_slug": "d-s-v-chemicals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112277/production/Product/309100/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609103/production/CategoryImage/595/category_image/PrintingPackaging_06.jpg",
+    "properties": {
+        "Applications": [
+            "Coatings & Finishes",
+            "Flooring & Surfaces",
+            "Automotive & Transportation",
+            "Industrial Coatings",
+            "Packaging Coatings",
+            "Marine",
+            "Fillers, Levellers & Joints",
+            "Other Industrial Coatings",
+            "Overprint Varnishes",
+            "Primers & Lacquers",
+            "Other Adhesives & Sealants Applications",
+            "Marine Coatings",
+            "Transportation"
+        ],
+        "Product Families": [
+            "Other Resins & Binders",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Phenols & Phenolics",
+            "Rosins"
+        ],
+        "End Uses": [
+            "Primer",
+            "Varnishes"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Rosins",
+            "Phenols & Phenolics"
+        ],
+        "End Uses": [
+            "Primer",
+            "Varnishes"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal"
+        ]
+    }
+}

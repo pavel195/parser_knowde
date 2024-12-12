@@ -1,0 +1,37 @@
+{
+    "id": 411698,
+    "brand": "airoil",
+    "name": "AirOil™ (For treat respiratory disease)",
+    "slug": "airoil-for-treat-respiratory-disease",
+    "description": "AirOil™ (for treat respiratory disease) is a unique blend of natural essential oils designed with strong effect on respiratory system.",
+    "company_name": "A.W.P. srl",
+    "company_slug": "a-w-p-srl",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686133486/production/Brand/32096/logo/image",
+    "banner_url": "https://static.knowde.com/card-banners/knowde-card-for-raw-materials-8.jpg",
+    "properties": {
+        "Applications": [
+            "Animal Health & Nutrition",
+            "Birds & Poultry"
+        ],
+        "Product Families": [
+            "Nutritional Ingredients",
+            "Fats & Oils"
+        ]
+    },
+    "summary": {
+        "Features": [
+            "Antimicrobial",
+            "Antibacterial",
+            "Reduces Inflammation",
+            "Improves Respiratory Function"
+        ],
+        "Labeling Claims": [
+            "Natural"
+        ],
+        "Certifications & Compliance": [
+            "FAMI-QS",
+            "ISO 22000",
+            "ISO 9001"
+        ]
+    }
+}

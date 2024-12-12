@@ -1,0 +1,52 @@
+{
+    "id": 335631,
+    "brand": "alba",
+    "name": "ALBA 7L",
+    "slug": "alba-7l",
+    "description": "ALBA 7L is a solvent-based, standard leafing aluminum paste with a super finesse. It is recommended for paper coatings, spray cans, and for printing inks.",
+    "company_name": "Alba Aluminiu",
+    "company_slug": "alba-aluminiu",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708519316/production/Brand/24584/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Other Printing Applications",
+            "Coated Paper & Paperboard",
+            "Paper & Pulp",
+            "Printing & Inks"
+        ],
+        "Product Families": [
+            "Inorganic Pigments",
+            "Color Pigments",
+            "Pigments & Colorants"
+        ],
+        "Chemical Family": [
+            "Aluminum Compounds"
+        ],
+        "End Uses": [
+            "Solventborne Ink",
+            "Solventborne Coating"
+        ]
+    },
+    "summary": {
+        "Color": [
+            "Grey"
+        ],
+        "Pigment Type": [
+            "Inorganic Pigments"
+        ],
+        "Chemical Family": [
+            "Aluminum Compounds"
+        ],
+        "End Uses": [
+            "Solventborne Ink",
+            "Solventborne Coating"
+        ],
+        "Particle Size": [
+            "9.0 - 9.0 microns"
+        ],
+        "Synonyms": [
+            "Al"
+        ]
+    }
+}

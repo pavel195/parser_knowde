@@ -1,0 +1,74 @@
+{
+    "id": 323459,
+    "brand": "gehr-pa",
+    "name": "GEHR PA® 6 C",
+    "slug": "gehr-pa-6-c",
+    "description": "GEHR PA® 6 C is a high-molecular and stress-reduced PA 6, which shows a very tough behavior and which was produced by casting. Our round rods and sheets in natural color comply with the food contact regulations according to 10/2011/EC.",
+    "company_name": "GEHR",
+    "company_slug": "gehr",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686150080/production/Brand/23075/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Parts & Components",
+            "Powertrain & UTH",
+            "Other Automotive Applications",
+            "Automotive Electronics",
+            "Other Devices & Assemblies",
+            "Devices & Assemblies",
+            "Chemical & Industrial Manufacturing",
+            "Automotive",
+            "Other Parts & Components",
+            "Pipes & Plumbing",
+            "Structural Components",
+            "Pumps, Turbines & Compressors",
+            "Other Industrial Applications",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Polyamides"
+        ],
+        "Polymer Name": [
+            "Polyamide 6 (PA 6)"
+        ],
+        "End Uses": [
+            "Bearings",
+            "Fittings",
+            "Gears",
+            "Pump Parts"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyamide 6 (PA 6)"
+        ],
+        "Physical Form": [
+            "Custom",
+            "Rods",
+            "Sheets"
+        ],
+        "Features": [
+            "High Stiffness",
+            "Excellent Toughness",
+            "Good Impact Strength",
+            "High Heat Deflection Temperature",
+            "Good Sliding Properties",
+            "Dimensional Stability",
+            "Chemical Resistant",
+            "Shock Absorbent",
+            "High Strength",
+            "Humidity Resistant"
+        ],
+        "Density": [
+            "1150.0 - 1150.0 kg/m³"
+        ],
+        "Color": [
+            "Natural",
+            "Black"
+        ]
+    }
+}

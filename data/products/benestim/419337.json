@@ -1,0 +1,31 @@
+{
+    "id": 419337,
+    "brand": "benestim",
+    "name": "Osmo Feathermeal 13N",
+    "slug": "osmo-feathermeal-13n",
+    "description": "Osmo Feathermeal 13N is an organic fertilizer that will contribute to soil organic matter and soil fertility. The type of raw material makes an organic fertilizer with a controlled release of nutrients over time. The period of releasing nutrients is minimum 90 to 120 days.",
+    "company_name": "BENEFERT",
+    "company_slug": "benefert",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708689512/production/Brand/32899/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608238/production/CategoryImage/552/category_image/AgricultureFeed_08.jpg",
+    "properties": {
+        "Applications": [
+            "Other Agricultural Crops",
+            "Trees & Woodlands",
+            "Agricultural Crops",
+            "Turf, Ornamentals & Landscape"
+        ],
+        "Product Families": [
+            "Fertilizers & Nutrients",
+            "Plant Health, Nutrients & Soil Management"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Fertilizer"
+        ],
+        "Labeling Claims": [
+            "Organic"
+        ]
+    }
+}

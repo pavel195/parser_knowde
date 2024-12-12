@@ -1,0 +1,50 @@
+{
+    "id": 299339,
+    "brand": "styron-hi",
+    "name": "POMALUX® SD-A",
+    "slug": "pomalux-sd-a",
+    "description": "Pomalux® SD-A is non-carbon-filled, non-migratory, permanently antistatic acetal co-polymer offering surface resistivity of 109 – 1011 ohms/sq which is non-humidity dependent. Natural in color, this material offers enhanced lubricity, provides superior wear resistance, and ease of machining. Exhibiting low outgassing and non-sloughing characteristics, it is optimal for ESD applications where carbon sloughing cannot be accepted.",
+    "company_name": "Westlake Plastics",
+    "company_slug": "westlake-plastics",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686149745/production/Company/22836/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Other Industrial Applications"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Polymer Name": [
+            "Polyacetal Copolymer (POM)"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyacetal Copolymer (POM)"
+        ],
+        "Physical Form": [
+            "Slab",
+            "Film",
+            "Rods",
+            "Sheets"
+        ],
+        "Features": [
+            "Low Outgassing",
+            "Good Machinability",
+            "Excellent Dielectric Properties",
+            "Wear Resistant",
+            "Chemical Resistant",
+            "Low Moisture Absorption",
+            "Excellent Lubricity",
+            "Non Sloughing"
+        ],
+        "Density": [
+            "1330.0 - 1330.0 kg/m³"
+        ],
+        "Color": [
+            "Natural",
+            "Beige"
+        ]
+    }
+}

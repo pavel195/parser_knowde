@@ -1,0 +1,36 @@
+{
+    "id": 371237,
+    "brand": "aqua-flame-block",
+    "name": "AquaTack 6200",
+    "slug": "aquatack-6200",
+    "description": "AquaTack 6200 is Economical laminating adhesive for hard to laminate substrates such as plastics, non-wovens and films. Excellent water resistance properties. Does not contain any organic solvents or phthalates. It is FDA compliant for direct food contact.",
+    "company_name": "Aqua Based Technologies",
+    "company_slug": "aqua-based-technologies",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709127576/production/Brand/27697/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608982/production/CategoryImage/589/category_image/AdhesivesSealants_06.jpg",
+    "properties": {
+        "Applications": [
+            "Flexible Packaging Adhesives",
+            "Tapes, Labels & Adhesives"
+        ],
+        "Product Families": [
+            "Pressure Sensitive Adhesives & Tapes",
+            "Adhesives & Sealants"
+        ]
+    },
+    "summary": {
+        "Product Type": [
+            "Waterborne Adhesive"
+        ],
+        "Application Method": [
+            "Roll Coater",
+            "Rod Coating",
+            "Gravure Coating",
+            "Air Knife Coating",
+            "Flexography"
+        ],
+        "Features": [
+            "Excellent Water Resistance"
+        ]
+    }
+}

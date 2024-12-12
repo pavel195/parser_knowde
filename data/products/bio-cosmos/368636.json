@@ -1,0 +1,85 @@
+{
+    "id": 368636,
+    "brand": "bio-cosmos",
+    "name": "ARDALAT VEG TEA WHITE 011905",
+    "slug": "ardalat-veg-tea-white-011905",
+    "description": "ArdaLat Veg White Tea has remarkable moisturizing and antioxidant properties against damage caused by free radicals.",
+    "company_name": "ARDA NATURA",
+    "company_slug": "arda-natura",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708673301/production/Brand/27370/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515751/production/CategoryImage/1063/category_image/PersonalCare_05.jpg",
+    "properties": {
+        "Applications": [
+            "Bath & Shower",
+            "Treatment Products",
+            "Hair Care",
+            "Skin Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Conditioners & Emollients",
+            "Skin Actives",
+            "Cosmetic Actives",
+            "Functionals"
+        ],
+        "Chemical Family": [
+            "Proteins, Peptides & Amino Acid Derivatives"
+        ],
+        "INCI Name": [
+            "Hydrolyzed Rice Protein",
+            "Phenylpropanol",
+            "Xanthan Gum",
+            "Oryza Sativa (Rice) Bran Oil",
+            "Methylpropanediol",
+            "Pentylene Glycol",
+            "Oryza Sativa (Rice) Starch",
+            "Camellia Sinensis Leaf Extract"
+        ],
+        "End Uses": [
+            "Rosacea (Redness) Treatment",
+            "Moisturizers",
+            "Facial Cleanser",
+            "Anti-Aging Products",
+            "Shampoos & Rinses",
+            "Hair Conditioner"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Phenylpropanol",
+            "Oryza Sativa (Rice) Starch",
+            "Methylpropanediol",
+            "Oryza Sativa (Rice) Bran Oil",
+            "Hydrolyzed Rice Protein",
+            "Camellia Sinensis Leaf Extract",
+            "Xanthan Gum",
+            "Pentylene Glycol"
+        ],
+        "Functions": [
+            "Moisturizing Agent",
+            "Antioxidant"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Non-Animal Origin",
+            "Plant Origin"
+        ],
+        "Labeling Claims": [
+            "Ulta Beauty's Conscious Beauty",
+            "Credo Clean Standard",
+            "Clean at Sephora",
+            "Plant-Based",
+            "Naturally Derived",
+            "Palm Oil-free",
+            "Preservative-free"
+        ],
+        "Benefit Claims": [
+            "Toning",
+            "Anti-Inflammatory",
+            "Hydrating",
+            "Improves Skin Elasticity",
+            "Purifying",
+            "Nourishing"
+        ]
+    }
+}

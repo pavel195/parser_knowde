@@ -1,0 +1,41 @@
+{
+    "id": 414958,
+    "brand": "prp",
+    "name": "PRP® POWDER",
+    "slug": "prp-powder",
+    "description": "PRP® Powder is for hydrocarbon spill clean up on oil, fuel and other liquid petroleums. PRP® Powder is especially well adapted for land, water and hard surface petroleum spills in areas such as industrial plant settings (such as cooling ponds and tanks), shorelines – whether rocky or sandy – marinas, railroad tracks, oil wells/oil fields, maintenance facilities, truck roll-overs, and marshes/wetlands remediation where PRP® can mitigate the collateral damage to the ecosystem caused by clean up crews.",
+    "company_name": "United Remediation Technology",
+    "company_slug": "united-remediation-technology",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292449/production/Brand/32306/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Auto Care",
+            "Surface Care",
+            "Industrial Cleaning",
+            "Vehicle & Machinery",
+            "Other Oil, Gas & Mining Applications",
+            "Oil, Gas & Mining",
+            "Institutional & Industrial Care",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Industrial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Automotive Cleaners",
+            "Cleaner"
+        ],
+        "Application Areas": [
+            "Marine Applications",
+            "Tanks",
+            "Car"
+        ],
+        "Certifications & Compliance": [
+            "EPA Registered"
+        ]
+    }
+}

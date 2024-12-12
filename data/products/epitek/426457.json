@@ -1,0 +1,49 @@
+{
+    "id": 426457,
+    "brand": "epitek",
+    "name": "Epitek Paint",
+    "slug": "epitek-paint",
+    "description": "Minchem Epitek Paint is a high-performance epoxy-based acid and abrasion-resistant material designed to provide chemical resistance to aggressive chemical environments. They are typically provided in two-component formats comprising, an epoxy solution and an epoxy-based hardener, with the option of an inert filler powder with varying granulometry to suit the required thickness and application.",
+    "company_name": "Minchem Ltd (ACCS Ltd)",
+    "company_slug": "minchem-ltd-accs-ltd",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664436021/production/Brand/33760/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608600/production/CategoryImage/568/category_image/PaintingsCoatings_04.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial Coatings"
+        ],
+        "Product Families": [
+            "Protective Coatings",
+            "Paints & Coatings"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Epoxy Coating",
+            "2K (2 component) Coating"
+        ],
+        "Features": [
+            "Salt Resistance",
+            "Alkali Resistant",
+            "Corrosion Resistant",
+            "Acid Resistant",
+            "Flexible",
+            "Oil Resistant",
+            "Abrasion Resistant",
+            "Fat Resistant",
+            "Water Resistant",
+            "Chemical Resistant"
+        ],
+        "Application Method": [
+            "Trowel",
+            "Roller",
+            "Brush"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    }
+}

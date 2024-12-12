@@ -1,0 +1,53 @@
+{
+    "id": 321246,
+    "brand": "iso-len",
+    "name": "ISO TECH Kunststoff GmbH ISO-MID PA 12",
+    "slug": "iso-tech-kunststoff-gmbh-iso-mid-pa-12",
+    "description": "ISO TECH Kunststoff GmbH ISO-MID PA 12 is a thermoplastic, partially crystalline plastic, which is characterized by its low water absorption and high toughness. It also has good chemical resistance. Due to its dimensional stability, ISO-MID PA 12 is used for parts with particularly tight tolerances, such as sealing rings, support rings or even gear wheels.",
+    "company_name": "ISO TECH Kunststoff GmbH",
+    "company_slug": "iso-tech-kunststoff-gmbh",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697221784/production/Product/321246/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Other Industrial Applications",
+            "Equipment & Parts",
+            "Other Parts & Components",
+            "Other Devices & Assemblies",
+            "Automotive Electronics",
+            "Structural Components",
+            "Powertrain & UTH",
+            "Other Automotive Applications",
+            "Interior",
+            "Exterior & Body",
+            "Automotive",
+            "Building Materials",
+            "Devices & Assemblies",
+            "Parts & Components",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Polyamides"
+        ],
+        "Polymer Name": [
+            "Polyamide 12 (PA 12)"
+        ],
+        "End Uses": [
+            "Fenders",
+            "Machine/Mechanical Parts",
+            "Gears",
+            "Automotive Components"
+        ]
+    },
+    "summary": {
+        "Density": [
+            "1020.0 - 1020.0 kg/m³"
+        ],
+        "Tensile Modulus": [
+            "1800.0 - 1800.0 MPa"
+        ]
+    }
+}

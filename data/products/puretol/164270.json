@@ -1,0 +1,48 @@
+{
+    "id": 164270,
+    "brand": "puretol",
+    "name": "PURETOL™ 10",
+    "slug": "puretol-10",
+    "description": "PURETOL™ 10 is an odorless and colorless white mineral oil with a Saybolt viscosity of 100 and a specific gravity of 0.857. This material meets National Formulary (NF) - Light Mineral Oil requirements which is used for a variety of applications such as blending food grade lubricants and in the production of cosmetics and pharmaceuticals.",
+    "company_name": "Petro-Canada",
+    "company_slug": "petro-canada",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1693577655/production/Company/3236/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1693577655/production/Company/3236/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Industrial Manufacturing",
+            "Industrial Adhesives & Sealants",
+            "Leather Manufacturing",
+            "Textile Manufacturing",
+            "Baby Care",
+            "Hair Care",
+            "Skin Care",
+            "Sun Care",
+            "Color Cosmetics",
+            "Industrial Cleaning",
+            "Feed Production & Processing",
+            "Other Textile Applications",
+            "Other Leather Applications",
+            "Industrial Coatings",
+            "Fluids & Lubricants",
+            "Industrial & Assembly Adhesives",
+            "Animal Health & Nutrition",
+            "Chemical & Industrial Manufacturing",
+            "Leather",
+            "Textiles & Nonwovens",
+            "Institutional & Industrial Care",
+            "Beauty & Care",
+            "Leather & Textiles"
+        ],
+        "Product Families": [
+            "API Group III",
+            "API Group II",
+            "API Group I",
+            "Base Stocks & Oils"
+        ],
+        "End Uses": [
+            "Lipstick"
+        ]
+    },
+    "summary": {}
+}

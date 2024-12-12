@@ -1,0 +1,43 @@
+{
+    "id": 301518,
+    "brand": "smartir",
+    "name": "SMARTHID™",
+    "slug": "smarthid",
+    "description": "Smarthid™ is a low cost substitute for titanium dioxide (TiO2) in paints and coatings. SmartHide has been exhaustively demonstrated to reduce TiO2 use by up to 30% while maintaining all other paint properties – including color, brightness, opacity, durability and sheen. This results in significant raw material savings for manufacturers.",
+    "company_name": "ShayoNano USA",
+    "company_slug": "shayonano-usa",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708516899/production/Company/24326/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608465/production/CategoryImage/561/category_image/BuildingConstruction_05.jpg",
+    "properties": {
+        "Applications": [
+            "Architectural Coatings",
+            "Other Paints & Coatings Applications",
+            "Building Envelope",
+            "Building & Construction",
+            "Building Envelope & Roofing"
+        ],
+        "Product Families": [
+            "Color Pigments",
+            "Pigments & Colorants"
+        ],
+        "Chemical Family": [
+            "Metallic Salts"
+        ],
+        "End Uses": [
+            "Solventborne Coating",
+            "Clearcoat"
+        ]
+    },
+    "summary": {
+        "Color": [
+            "White"
+        ],
+        "Chemical Family": [
+            "Metallic Salts"
+        ],
+        "End Uses": [
+            "Clearcoat",
+            "Solventborne Coating"
+        ]
+    }
+}

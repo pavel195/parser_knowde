@@ -1,0 +1,51 @@
+{
+    "id": 314666,
+    "brand": "ginkgoselect",
+    "name": "Indena Boldine",
+    "slug": "indena-boldine",
+    "description": "Indena Boldine is a pure molecule obtained from the bark of the trunk of Peumus boldus Molina. This product is used as a choleretic API in the pharmaceutical industry. It has more than 98.5% active content, as determined using HPLC. This product is halal-certified and CEP-granted.",
+    "company_name": "Indena",
+    "company_slug": "indena",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708695688/production/Company/1265/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708695688/production/Company/1265/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Phytochemicals & Plant Extracts",
+            "Phytochemicals",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "Ingredient Name": [
+            "Peumus Boldus Molina Bark Extract"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Peumus Boldus Molina Bark Extract"
+        ],
+        "Active Component": [
+            "Boldine"
+        ],
+        "Functions": [
+            "Phytochemical"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Plant Origin"
+        ],
+        "Labeling Claims": [
+            "Halal",
+            "Naturally Derived",
+            "Plant-Based"
+        ],
+        "Certifications & Compliance": [
+            "Halal"
+        ]
+    }
+}

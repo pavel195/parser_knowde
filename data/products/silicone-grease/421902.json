@@ -1,0 +1,42 @@
+{
+    "id": 421902,
+    "brand": "silicone-grease",
+    "name": "SILICONE GREASE®",
+    "slug": "silicone-grease",
+    "description": "Silicone Grease® is used for applications with high temperatures up to +200°C. Our silicone based translucent grease is typically used for dielectric insulation, surface protection, release and specialized lubrication. It shows a very good resistance against tracking and corona discharge and makes surfaces resistant to water. In addition, it prevents that machined surfaces stick to gaskets and acts as electrical insulator.\r\n",
+    "company_name": "Freudenberg Sealing Technologies",
+    "company_slug": "freudenberg-sealing-technologies",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1682593294/production/Brand/33156/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical & Industrial Manufacturing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Greases",
+            "Fluids & Lubricants"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Grease"
+        ],
+        "Application Area": [
+            "Insulators",
+            "Seals"
+        ],
+        "Features": [
+            "High Temperature Performance",
+            "Excellent Lubricity",
+            "Water Resistant",
+            "Excellent Mold Release",
+            "High Voltage Insulation",
+            "Corona Resistant",
+            "Odorless",
+            "Tracking Resistant",
+            "Excellent Dielectric Properties",
+            "Incidental Food Contact Acceptable"
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": 371292,
+    "brand": "scent-a-flex",
+    "name": "BCM Inks U.S.A. Eekoflex Inks",
+    "slug": "bcm-inks-u-s-a-eekoflex-inks",
+    "description": "BCM Inks U.S.A. Eekoflex inks and varnishes provide outstanding environmental solutions for customers seeking a more sustainable printed product. They print the same as other water-based flexo inks, with the added benefits of improved lay and minimal bronzing.",
+    "company_name": "BCM Inks U.S.A.",
+    "company_slug": "bcm-inks-u-s-a",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520439/production/Company/43503/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609103/production/CategoryImage/595/category_image/PrintingPackaging_06.jpg",
+    "properties": {
+        "Applications": [
+            "Packaging Coatings",
+            "Overprint Varnishes"
+        ],
+        "Product Families": [
+            "Flexography Inks",
+            "Inks & Pastes"
+        ]
+    },
+    "summary": {
+        "Features": [
+            "Low VOC"
+        ]
+    }
+}

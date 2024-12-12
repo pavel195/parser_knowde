@@ -1,0 +1,48 @@
+{
+    "id": 347700,
+    "brand": "braggadocio",
+    "name": "Braggadocio Organic White Rice Flour",
+    "slug": "braggadocio-organic-white-rice-flour",
+    "description": "Braggadocio Organic White Rice Flour.  No additives or preservatives - just stone ground rice flour made from our delicious organic long grain white rice!",
+    "company_name": "McKaskle Family Farm/Braggadocio",
+    "company_slug": "mckaskle-family-farm-braggadocio",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704796065/production/Brand/25943/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607305/production/CategoryImage/515/category_image/FoodNutrition_15.jpg",
+    "properties": {
+        "Applications": [
+            "Nutraceuticals & Supplements",
+            "Savory & Culinary",
+            "Bakery",
+            "Cereals & Snacks",
+            "Food",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Flours & Grains Products",
+            "Whole Foods, Extracts & Premixes"
+        ],
+        "End Uses": [
+            "Weight Management Products"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "White Rice Flour"
+        ],
+        "Labeling Claims": [
+            "Gluten-free",
+            "Kosher",
+            "Preservative-free",
+            "Vegan",
+            "Additive-free",
+            "Organic",
+            "Non-GMO"
+        ],
+        "Certifications & Compliance": [
+            "Kosher",
+            "Non-GMO Project Verified",
+            "USDA Organic",
+            "Organic Certified"
+        ]
+    }
+}

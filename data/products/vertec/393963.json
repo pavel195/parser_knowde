@@ -1,0 +1,44 @@
+{
+    "id": 393963,
+    "brand": "vertec",
+    "name": "Vertec™ 5020",
+    "slug": "vertec-5020",
+    "description": "Vertec™ 5020 is a bearing grade carbon fiber reinforced PEEK (polyetheretherketone) material. It offers higher modulus, mechanical strength and resistance to deformation under load than VERTEC 5010. Due to the presence of carbon fibers, thermal conductivity of this material is 3.5 times higher than VERTEC 5000 (unreinforced PEEK), thus it dissipates heat at a faster rate. It also gives stable and reliable ESD performance providing maximum protection from static charge build-up.",
+    "company_name": "Vertec Polymers",
+    "company_slug": "vertec-polymers",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708518130/production/Brand/29755/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Other Devices & Assemblies",
+            "Equipment & Parts",
+            "Devices & Assemblies",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "High Performance Thermoplastics",
+            "Engineering & Specialty Polymers"
+        ],
+        "Chemical Family": [
+            "Polyether Ether Ketone (PEEK)"
+        ],
+        "Polymer Name": [
+            "Polyetheretherketone (PEEK)"
+        ],
+        "End Uses": [
+            "Electrical/Electronic Applications",
+            "Bearings"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyetheretherketone (PEEK)"
+        ],
+        "Fillers Included": [
+            "Carbon Fiber"
+        ],
+        "Flexural Modulus": [
+            "8268.0 - 8268.0 MPa"
+        ]
+    }
+}

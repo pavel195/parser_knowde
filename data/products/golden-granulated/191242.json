@@ -1,0 +1,51 @@
+{
+    "id": 191242,
+    "brand": "golden-granulated",
+    "name": "Millhouse® Molasses",
+    "slug": "millhouse-molasses",
+    "description": "A molasses made directly from pure cane sugar. This unsulphured rich amber brown molasses is mildly sweet and is refined through a unique process which lends a distinctive golden brown color.",
+    "company_name": "Domino Specialty Ingredients",
+    "company_slug": "domino-specialty-ingredients",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708688809/production/Company/11170/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708688809/production/Company/11170/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Cereals & Snacks",
+            "Other Food Applications",
+            "Confectionery",
+            "Bakery",
+            "Savory & Culinary",
+            "Convenience Foods",
+            "Meat, Poultry & Seafood",
+            "Food"
+        ],
+        "Product Families": [
+            "Sweeteners & Syrups",
+            "Carriers & Bulking Aids",
+            "Taste & Flavor",
+            "Functional Additives"
+        ],
+        "End Uses": [
+            "RTE Dough",
+            "Processed Meat Products"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Molasses"
+        ],
+        "Functions": [
+            "Bulking Agent",
+            "Nutritive Sweetener"
+        ],
+        "Labeling Claims": [
+            "Kosher"
+        ],
+        "Certifications & Compliance": [
+            "Kosher"
+        ],
+        "Physical Form": [
+            "Liquid"
+        ]
+    }
+}

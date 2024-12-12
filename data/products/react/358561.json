@@ -1,0 +1,42 @@
+{
+    "id": 358561,
+    "brand": "react",
+    "name": "TuffBond® 304",
+    "slug": "tuffbond-304",
+    "description": "Hernon Tuffbond® 304 is a modified epoxy adhesive that provides a very fast room temperature cure. Tuffbond® 304 exhibits very good moisture chemical and heat resistance. This very fast cure epoxy adhesive is specially formulated for rapid in-line assembly of loud speakers. Tuffbond® 304 is also recommended for bonding metals, wood, ceramics, etc., and can be used for potting and encapsulation of electrical and electronic components.",
+    "company_name": "Hernon Manufacturing",
+    "company_slug": "hernon-manufacturing",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664290928/production/Brand/26740/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608939/production/CategoryImage/585/category_image/AdhesivesSealants_02.jpg",
+    "properties": {
+        "Applications": [
+            "Other Electrical & Electronics Applications"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Structural Adhesives"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Gelcoat",
+            "Reactive Adhesive",
+            "Epoxy Adhesive",
+            "Structural Adhesive"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Ceramic",
+            "Wood"
+        ],
+        "Cure Method": [
+            "Air Dry"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    }
+}

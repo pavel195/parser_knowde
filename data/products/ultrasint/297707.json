@@ -1,0 +1,40 @@
+{
+    "id": 297707,
+    "brand": "ultrasint",
+    "name": "Farsoon Technologies FS 4100PA",
+    "slug": "farsoon-technologies-fs-4100pa",
+    "description": "Farsoon Technologies FS 4100PA provides excellent mechanical properties and toughness with good heat and corrosion resistance. Farsoon considers material to part of its core competency. Farsoon’s experienced material department has independently developed a portfolio of polymer materials for additive manufacturing. In addition Farsoon’s fully capable material manufacturing is able to vertically control the production of the material from raw material to finished product, ensuring quality and stability. With excellent color stability, oxidation resistance, Farsoon polymer materials produce high quality parts which provide both detailed surface precision and high mechanical properties. In addition Farsoon partners with many material suppliers to bring new and advanced materials to the users through Farsoon’s open material policy.",
+    "company_name": "Farsoon Technologies",
+    "company_slug": "farsoon-technologies",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691742068/production/Company/23698/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608769/production/CategoryImage/577/category_image/AutomotiveTransportation_05.jpg",
+    "properties": {
+        "Applications": [
+            "Sports & Recreation",
+            "Interior",
+            "Medical Devices & Assemblies",
+            "Medical",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Thermoplastic Powder",
+            "3D Printing Polymers"
+        ],
+        "Chemical Family": [
+            "Polyamides"
+        ],
+        "Polymer Name": [
+            "Polyamide 11 (PA 11)"
+        ],
+        "End Uses": [
+            "Sporting Goods",
+            "Automotive Interior Parts",
+            "Medical Devices"
+        ]
+    },
+    "summary": {
+        "Tensile Strength": [
+            "49.0 - 49.0 MPa"
+        ]
+    }
+}

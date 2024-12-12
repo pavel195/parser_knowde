@@ -1,0 +1,53 @@
+{
+    "id": 325600,
+    "brand": "elevatp",
+    "name": "Spectra™",
+    "slug": "spectra",
+    "description": "Spectra™ is a plant based, scientifically validated formula of 29 fruits, vegetables, and herbs shown to inhibit free radical production and optimize cellular metabolic activity within the human body.* There are five major types of free radicals within the body — Spectra™ targets all five, making it a complete, full spectrum antioxidant formula in a low dose of just 100mg. \nSpectra™ is the new standard in antioxidant health, providing an understanding of how fruits, vegetables and herbs positively impact physiological functions in the human body, combining nature and science into one.",
+    "company_name": "VDF/FutureCeuticals",
+    "company_slug": "vdf-futureceuticals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672456/production/Company/29429/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606961/production/CategoryImage/506/category_image/FoodNutrition_07.jpg",
+    "properties": {
+        "Applications": [
+            "Confectionery",
+            "Nutraceuticals & Supplements",
+            "Other Non-Alcoholic Beverages",
+            "Beverage",
+            "Food",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Antioxidants",
+            "Vegetable Products & Extracts",
+            "Fruit Products & Extracts",
+            "Plant & Herb Products & Extracts",
+            "Nutrition & Fortification",
+            "Whole Foods, Extracts & Premixes",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Tablets",
+            "Gummies"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Fruit Vegetable Blend"
+        ],
+        "Functions": [
+            "Antioxidant"
+        ],
+        "Labeling Claims": [
+            "Gluten-free",
+            "Clean Label",
+            "Natural",
+            "Non-GMO",
+            "Naturally Derived",
+            "Plant-Based"
+        ],
+        "Certifications & Compliance": [
+            "Non-GMO Project Verified"
+        ]
+    }
+}

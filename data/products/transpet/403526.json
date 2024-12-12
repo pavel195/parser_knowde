@@ -1,0 +1,43 @@
+{
+    "id": 403526,
+    "brand": "transpet",
+    "name": "TRANS-PHARMA® TRA290",
+    "slug": "trans-pharma-tra290",
+    "description": "TRANS-PHARMA® TRA290 is a monolayer film comprised of an ultra-low density polyethylene with varying levels of antiblock, tailored to customer requirements. It is a film designed specifically for use in the transport and processing of pharmaceutical materials. It is available as single wound sheeting, tube, or in bag form.",
+    "company_name": "Transcendia",
+    "company_slug": "transcendia",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709127663/production/Brand/30870/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609128/production/CategoryImage/597/category_image/PrintingPackaging_08.jpg",
+    "properties": {
+        "Applications": [
+            "Healthcare Packaging",
+            "Industrial & Transport Packaging",
+            "Packaging"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Polyolefins",
+            "Polyethylenes"
+        ],
+        "Polymer Name": [
+            "Ultra Low Density Polyethylene (ULDPE)"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Ultra Low Density Polyethylene (ULDPE)"
+        ],
+        "Physical Form": [
+            "Film"
+        ],
+        "Features": [
+            "Highly Flexible",
+            "Enhanced Physical Properties",
+            "Good Processability",
+            "Clarity",
+            "Anti-Blocking"
+        ]
+    }
+}

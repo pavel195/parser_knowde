@@ -1,0 +1,41 @@
+{
+    "id": 411499,
+    "brand": "klinosept",
+    "name": "Ambiocide® RTU Microaeroflora disinfectant",
+    "slug": "ambiocide-rtu-microaeroflora-disinfectant",
+    "description": "Ambiocide® – RTU Microaeroflora disinfectant is a solution with detergent and disinfectant properties, without aldehydes, with a wide spectrum of biocidal action, created according to the regulations of the harmonized European norms on disinfection. The active substances are quaternary ammonium salts.",
+    "company_name": "Klintensiv SRL",
+    "company_slug": "klintensiv-srl",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292320/production/Brand/32045/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515647/production/CategoryImage/1055/category_image/HII_07.jpg",
+    "properties": {
+        "Applications": [
+            "Air Care",
+            "Industrial Cleaning",
+            "Institutional & Catering",
+            "Food & Beverage Manufacturing",
+            "Food Facility Cleaning & Sanitization",
+            "Processing & Packaging",
+            "Institutional & Industrial Care",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Industrial Cleaners",
+            "Commercial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Disinfectant Products"
+        ],
+        "Application Areas": [
+            "Immersion Cleaner"
+        ],
+        "Features": [
+            "Cost Effective",
+            "Bacteria Resistant",
+            "Fungus Resistant"
+        ]
+    }
+}

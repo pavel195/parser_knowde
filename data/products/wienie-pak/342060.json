@@ -1,0 +1,41 @@
+{
+    "id": 342060,
+    "brand": "wienie-pak",
+    "name": "FIBROUS ST",
+    "slug": "fibrous-st",
+    "description": "ST is our standard fibrous casing; our workhorse. It’s available in the world's most comprehensive range of calibers, and, with its multiple features and options, it can be fine-tuned to suit the specific needs of wide-ranging applications. Our standard fibrous casing is often used for products that consumers associate with the reliable quality of established brands.",
+    "company_name": "ViskoTeepak",
+    "company_slug": "viskoteepak",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686109255/production/Company/29437/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607009/production/CategoryImage/509/category_image/FoodNutrition_10.jpg",
+    "properties": {
+        "Applications": [
+            "Food",
+            "Dairy",
+            "Meat, Poultry & Seafood"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Other Whole Foods & Extracts"
+        ],
+        "End Uses": [
+            "Cured Meats",
+            "Sausage Rolls",
+            "Cheese"
+        ]
+    },
+    "summary": {
+        "Labeling Claims": [
+            "Biodegradable"
+        ],
+        "Features": [
+            "Excellent Adhesive Properties",
+            "Good Transparency"
+        ],
+        "End Uses": [
+            "Cheese",
+            "Cured Meats",
+            "Sausage Rolls"
+        ]
+    }
+}

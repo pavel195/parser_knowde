@@ -1,0 +1,33 @@
+{
+    "id": 308290,
+    "brand": "puranol",
+    "name": "Puranol D 210",
+    "slug": "puranol-d-210",
+    "description": "Puranol D 210 is synthesized with propylene glycol, glycerin, and epoxide. It is used in polyurethane elastomers, adhesives, coatings, waterproof coatings, chemical grouting materials, shoe soles, and non-cellular polyurethane applications such as coating, adhesives, sealants and elastomers.",
+    "company_name": "Jiahua Chemicals",
+    "company_slug": "jiahua-chemicals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1693580813/production/Product/308290/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608502/production/CategoryImage/564/category_image/BuildingConstruction_08.jpg",
+    "properties": {
+        "Applications": [
+            "Other Paints & Coatings Applications",
+            "Footwear",
+            "Other Adhesives & Sealants Applications"
+        ],
+        "Product Families": [
+            "Mortar & Gypsum Additives",
+            "Prepolymers & Polyols",
+            "Monomers & Intermediates",
+            "Construction Chemicals"
+        ],
+        "Chemical Family": [
+            "Polyols (Polyether)",
+            "Polyols"
+        ]
+    },
+    "summary": {
+        "Hydroxyl Value": [
+            "107.0 - 117.0 mg KOH/g"
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "id": 292930,
+    "brand": "casathane",
+    "name": "Pepton® 66",
+    "slug": "pepton-66",
+    "description": "Pepton® 66 is a dust free, pellet form chemical peptiser which provides handling and environmental improvements over conventional powder form peptisers.",
+    "company_name": "Thomas Swan",
+    "company_slug": "thomas-swan",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708688370/production/Product/292930/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708688370/production/Product/292930/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Other Consumer Goods Applications",
+            "Other Automotive & Transportation Applications",
+            "Other Automotive Applications",
+            "Tires",
+            "Pipes & Hoses",
+            "Agricultural Films",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Processing Aids",
+            "Rheology Modifiers",
+            "Elastomer Additives"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Processing Aid",
+            "Peptizer",
+            "Viscosity Modifier"
+        ],
+        "Compatible Polymers & Resins": [
+            "Natural Rubbers (NR)"
+        ],
+        "Features": [
+            "Low Viscosity",
+            "High Efficiency",
+            "Free Flowing",
+            "Dust-Free",
+            "High Dispersibility",
+            "Long Seal Life",
+            "High Productivity"
+        ]
+    }
+}

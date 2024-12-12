@@ -1,0 +1,42 @@
+{
+    "id": 325104,
+    "brand": "luvur",
+    "name": "Beeswax S-7217",
+    "slug": "beeswax-s-7217",
+    "description": "Beeswax S-7217 is in pastiles shape with beige-yellowish color.",
+    "company_name": "Multiceras",
+    "company_slug": "multiceras",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708683579/production/Company/29310/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607988/production/CategoryImage/537/category_image/HomePersonalCare_03.jpg",
+    "properties": {
+        "Product Families": [
+            "Fats, Butters & Waxes",
+            "Emulsifiers, Solubilizers & Dispersants",
+            "Functionals"
+        ],
+        "Chemical Family": [
+            "Waxes"
+        ],
+        "INCI Name": [
+            "Beeswax"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Beeswax"
+        ],
+        "Functions": [
+            "Emulsifier"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin"
+        ],
+        "Labeling Claims": [
+            "Natural",
+            "Credo Clean Standard",
+            "Clean at Sephora",
+            "Naturally Derived",
+            "Ulta Beauty's Conscious Beauty"
+        ]
+    }
+}

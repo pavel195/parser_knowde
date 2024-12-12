@@ -1,0 +1,51 @@
+{
+    "id": 475095,
+    "brand": "spersestab",
+    "name": "SperseStab™ 2300",
+    "slug": "spersestab-2300",
+    "description": "SperseStab™ 2300 is a highly effective antioxidant, anti-scorch, disproportionation agent, and processing stabilizer for use in PVC, ABS, EPDM, PP, rosin ester, polyurethane, and polyethylene polymers. It is commonly used as an antioxidant for polyethylene pipes, wires, cables, and tubes, as well as greenhouse films. This unique antioxidant performs well with peroxide-cured systems and also functions as a disproportionation agent for rosin esters. Additionally, it works as an anti-scorch agent in TDI-based polyurethane systems and an anti-skinning agent in hot melt adhesives.",
+    "company_name": "Interspersal, Inc",
+    "company_slug": "interspersal",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709128002/production/Brand/22915/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1709128002/production/Company/30781/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Greenhouse & Tunnel Films",
+            "Pipes & Plumbing",
+            "Agricultural Films",
+            "Building Materials"
+        ],
+        "Product Families": [
+            "Other Processing Additives",
+            "Antioxidants & Stabilizers",
+            "Surface Modifiers",
+            "Additives",
+            "Elastomer Additives",
+            "Processing Aids"
+        ],
+        "End Uses": [
+            "Film",
+            "Tubes",
+            "Pipes",
+            "Hot Melt Adhesive"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Anti-Skinning Agent",
+            "Antioxidant"
+        ],
+        "Compatible Polymers & Resins": [
+            "Polybutadienes",
+            "Ethylene Propylene Diene Monomer (EPDM)",
+            "Acrylonitrile Butadiene Styrene (ABS)",
+            "Polyurethanes (PU)",
+            "Polypropylenes (PP)",
+            "Polyethylenes (PE)"
+        ],
+        "Features": [
+            "Low Color Formation",
+            "Scorch Resistant"
+        ]
+    }
+}

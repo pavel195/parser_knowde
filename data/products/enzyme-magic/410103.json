@@ -1,0 +1,29 @@
+{
+    "id": 410103,
+    "brand": "enzyme-magic",
+    "name": "Enzyme Solutions Odor Eliminator",
+    "slug": "enzyme-solutions-odor-eliminator",
+    "description": "Odor Eliminator is Ideally used for Waste Haulers, Residential Remediation , Commercial Dumpsters , Waste Sites.\r\n",
+    "company_name": "Enzyme Solutions",
+    "company_slug": "enzyme-solutions",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292292/production/Company/54161/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515602/production/CategoryImage/1051/category_image/HII_03.jpg",
+    "properties": {
+        "Applications": [
+            "Home Care",
+            "Air Care"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Commercial Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Deodorizers"
+        ],
+        "Features": [
+            "Neutralizes Odor"
+        ]
+    }
+}

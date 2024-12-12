@@ -1,0 +1,50 @@
+{
+    "id": 393520,
+    "brand": "dynalene",
+    "name": "Dynalene HF-LO",
+    "slug": "dynalene-hf-lo",
+    "description": "Dynalene HF-LO is a non-toxic, thermally-efficient, odorless aliphatic hydrocarbon heat transfer fluid. Due to the non-aqueous nature of the fluid, it can be used with water-sensitive chemicals to reduce process hazards. Additionally, its high flash point provides improved safety with regards to transportation and electrical hazards.",
+    "company_name": "Dynalene",
+    "company_slug": "dynalene",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1682593014/production/Brand/29685/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608831/production/CategoryImage/580/category_image/HealthcarePharma_02.jpg",
+    "properties": {
+        "Applications": [
+            "Processing & Packaging",
+            "Pharmaceutical Manufacturing",
+            "Pharmaceutical Processing",
+            "Food & Beverage Manufacturing"
+        ],
+        "Product Families": [
+            "Heat Transfer Fluids",
+            "Fluids & Lubricants"
+        ],
+        "Chemical Family": [
+            "Aliphatics"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Heat Transfer Fluid"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Brass",
+            "Copper",
+            "Aluminum",
+            "Metal",
+            "Nickel",
+            "Stainless Steel"
+        ],
+        "Features": [
+            "High Flash Point",
+            "Cost Effective",
+            "Non-Toxic",
+            "Low Temperature Performance",
+            "Odorless",
+            "Low Temperature Drying"
+        ],
+        "Chemical Family": [
+            "Aliphatics"
+        ]
+    }
+}

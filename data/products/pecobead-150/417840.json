@@ -1,0 +1,43 @@
+{
+    "id": 417840,
+    "brand": "pecobead-150",
+    "name": "TRL-100™",
+    "slug": "trl-100",
+    "description": "TRL-100™ is a unique material designed to be used as loss circulation material and as seepage agent. Its particle size distribution is an important characteristic of this product.",
+    "company_name": "Prime Eco Group",
+    "company_slug": "prime-eco-group",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708689787/production/Brand/32682/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Exploration & Upstream",
+            "Oil, Gas & Mining"
+        ],
+        "Product Families": [
+            "Oilfield & Transport Chemicals",
+            "Oil, Gas & Mining Chemicals"
+        ],
+        "End Uses": [
+            "Water Based Mud",
+            "Oil Based Mud",
+            "Oil & Gas Applications"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Fluid Loss Control Additive"
+        ],
+        "End Uses": [
+            "Oil Based Mud",
+            "Oil & Gas Applications",
+            "Water Based Mud"
+        ],
+        "Applicable Processes": [
+            "Drilling Applications"
+        ],
+        "Features": [
+            "Reduced Seepage Loss",
+            "Excellent Dispersibility"
+        ]
+    }
+}

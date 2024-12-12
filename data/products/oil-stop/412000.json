@@ -1,0 +1,49 @@
+{
+    "id": 412000,
+    "brand": "oil-stop",
+    "name": "Tread-Shield® Topcoat (Clear)",
+    "slug": "tread-shield-topcoat-clear",
+    "description": "Tread-Shield® Topcoat (Clear) industrial epoxy coating is a two-component epoxy resin coating formulated with less than 2.8 lbs./gal. VOC (&lt;340 grams/liter) while providing excellent adhesion, physical and chemical resistance properties. It provides unsurpassed protection for concrete, wood and metal surfaces and keeps these surfaces smooth, bright and more resistant to chemicals. Tread-Shield Topcoat functions as a primer on concrete and is available in clear, standard and custom pigmented formulations.",
+    "company_name": "Garland Floor",
+    "company_slug": "garland-floor",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520390/production/Brand/32141/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608454/production/CategoryImage/560/category_image/BuildingConstruction_04.jpg",
+    "properties": {
+        "Applications": [
+            "Packaging Coatings",
+            "Primers & Lacquers"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Top Coats"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Primer",
+            "2K (2 component) Coating",
+            "Solventborne Coating",
+            "Top Coat"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Wood",
+            "Concrete",
+            "Metal"
+        ],
+        "Features": [
+            "Chemical Resistant",
+            "Good Adhesion",
+            "Abrasion Resistant",
+            "Impact Resistance"
+        ],
+        "Application Method": [
+            "Roller"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "id": 411558,
+    "brand": "danolyte",
+    "name": "Danolyte®",
+    "slug": "danolyte",
+    "description": "Danolyte® is a hospital-level disinfectant cleaner that is EPA registered. Spray on and allow to dry for a ready-to-use formula. Skin-friendly; no protective equipment required.",
+    "company_name": "Danolyte Global",
+    "company_slug": "danolyte-global",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292597/production/Brand/32052/logo/image.png",
+    "banner_url": "https://static.knowde.com/card-banners/knowde-card-for-raw-materials-8.jpg",
+    "properties": {
+        "Applications": [
+            "Auto Care",
+            "Institutional & Catering",
+            "Vehicle & Machinery",
+            "Food & Beverage Manufacturing",
+            "Food Facility Cleaning & Sanitization",
+            "Processing & Packaging",
+            "Institutional & Industrial Care",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Medical Grade Cleaners",
+            "Food Grade Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Sanitizers",
+            "Disinfectant Products",
+            "Cleaner"
+        ],
+        "Certifications & Compliance": [
+            "EPA Registered"
+        ],
+        "Features": [
+            "Odorless",
+            "Neutralizes Odor"
+        ]
+    }
+}

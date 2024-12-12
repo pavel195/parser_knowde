@@ -1,0 +1,39 @@
+{
+    "id": 334007,
+    "brand": "elastoflo",
+    "name": "KMI Group PC 3031UV-80",
+    "slug": "kmi-group-pc-3031uv-80",
+    "description": "KM PC 3031UV-80 resin is designed for extrusion and injection molding products. It exhibits an excellent physical property balance of heat resistance, transparency and impact strength.",
+    "company_name": "KMI Group",
+    "company_slug": "kmi-group",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691744536/production/Company/32999/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608502/production/CategoryImage/564/category_image/BuildingConstruction_08.jpg",
+    "properties": {
+        "Applications": [
+            "Sports & Recreation",
+            "Other Consumer Goods Applications",
+            "Appliances & Electronics"
+        ],
+        "Product Families": [
+            "Polycarbonates",
+            "Engineering & Specialty Polymers"
+        ],
+        "Chemical Family": [
+            "Polycarbonate (PC)"
+        ],
+        "Polymer Name": [
+            "Polycarbonate (PC)"
+        ],
+        "End Uses": [
+            "Sporting Goods",
+            "Lenses",
+            "Eyeglasses",
+            "Appliances"
+        ]
+    },
+    "summary": {
+        "Flexural Modulus": [
+            "2410.0 - 2410.0 MPa"
+        ]
+    }
+}

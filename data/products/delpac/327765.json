@@ -1,0 +1,48 @@
+{
+    "id": 327765,
+    "brand": "delpac",
+    "name": "DelPAC® 2950 Polyaluminum Chloride",
+    "slug": "usalco-delpac-2950",
+    "description": "DelPAC® 2950 is widely accepted as the preferred polyaluminum chloride for cost-effective improvement of finished water quality. As a coagulant, it enhances filter performance, potentially eliminates the need for pH adjustment with alkalis, and decreases sludge residuals. It meets the specifications of American Water Works Association Standard B408-18 and complies with the requirements of NSF/ANSI/CAN 60: Drinking Water Treatment Chemicals - Health Effects with a maximum dosage of 250 mg/L.",
+    "company_name": "USALCO",
+    "company_slug": "usalco",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1719843443/production/Brand/23569/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Water Treatment",
+            "Chemical Manufacturing",
+            "Chemical & Industrial Manufacturing",
+            "Power, Water & Utilities"
+        ],
+        "Product Families": [
+            "Inorganics",
+            "Water Treatment Additives",
+            "Technical Salts & Inorganics",
+            "Water Treatment Chemicals"
+        ],
+        "Chemical Family": [
+            "Aluminum Compounds",
+            "Sulfates",
+            "Chlorides",
+            "Aluminum Salts"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Polyaluminum Chloride Hydroxide Sulfate"
+        ],
+        "Functions": [
+            "Coagulant"
+        ],
+        "CAS Number": [
+            "39290-78-3"
+        ],
+        "Chemical Family": [
+            "Aluminum Salts",
+            "Chlorides",
+            "Sulfates",
+            "Aluminum Compounds"
+        ]
+    }
+}

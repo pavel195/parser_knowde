@@ -1,0 +1,33 @@
+{
+    "id": 448863,
+    "brand": "astro-tap",
+    "name": "MONROE CUT 150 EPS",
+    "slug": "monroe-cut-150-eps",
+    "description": "MONROE CUT 150 EPS is a chlorine-free cutting oil designed for use in screw machine applications or other machining applications that require the use of medium viscosity neat cutting oils. It is formulated using additives to provide a clean and efficient operating environment, compared to traditional sulfurized cutting oils.",
+    "company_name": "Monroe Fluid Technology",
+    "company_slug": "monroe-fluid-technology",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680109333/production/Company/7535/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1680109333/production/Company/7535/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Metal Manufacturing & Finishing",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Metalworking Fluids",
+            "Fluids & Lubricants"
+        ]
+    },
+    "summary": {
+        "Application Area": [
+            "Machining Operations",
+            "Grinding Applications"
+        ],
+        "Features": [
+            "Medium Viscosity",
+            "Excellent Lubricity",
+            "Low Smoke Emission",
+            "Low Odor"
+        ]
+    }
+}

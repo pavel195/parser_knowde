@@ -1,0 +1,32 @@
+{
+    "id": 220715,
+    "brand": "tykote",
+    "name": "Ecronova® 6630",
+    "slug": "ecronova-6630",
+    "description": "Ecronova 6630 is an ambient cure all acrylic emulsion that provides good chemical and blocking resistance, high hardness and scratch resistance as well as good wetting of wooden substrates especially for furniture and industrial coatings. This emulsion is OH-functional (1.8%) and can function both as a one or two component system and is APE free.",
+    "company_name": "Mallard Creek Polymers",
+    "company_slug": "mallard-creek-polymers",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1693579521/production/Company/15660/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1693579521/production/Company/15660/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Wood Coatings & Finishes",
+            "Metal Coatings",
+            "Building & Construction",
+            "Industrial Coatings"
+        ],
+        "Product Families": [
+            "Acrylics",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Styrene-Acrylic Copolymer",
+            "Acrylics & Acrylates"
+        ]
+    },
+    "summary": {
+        "Glass Transition Temperature (Tg)": [
+            "57.0 - 57.0 °C"
+        ]
+    }
+}

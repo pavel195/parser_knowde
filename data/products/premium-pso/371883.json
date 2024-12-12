@@ -1,0 +1,29 @@
+{
+    "id": 371883,
+    "brand": "premium-pso",
+    "name": "Premium PSO Y",
+    "slug": "premium-pso-y",
+    "description": "Premium PSO Y is a modern, high intense allround series ink, designed for the widest possible field of application.",
+    "company_name": "Epple Druckfarben",
+    "company_slug": "epple-druckfarben",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664291285/production/Brand/27757/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609128/production/CategoryImage/597/category_image/PrintingPackaging_08.jpg",
+    "properties": {
+        "Applications": [
+            "Printing & Inks",
+            "Letterpress",
+            "Other Printing & Packaging Applications"
+        ],
+        "Product Families": [
+            "Inks & Pastes",
+            "Letterpress Inks"
+        ]
+    },
+    "summary": {
+        "Features": [
+            "Abrasion Resistant",
+            "Good Balance of Properties",
+            "High Color Strength"
+        ]
+    }
+}

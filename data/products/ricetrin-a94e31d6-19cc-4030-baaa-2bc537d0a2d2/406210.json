@@ -1,0 +1,41 @@
+{
+    "id": 406210,
+    "brand": "ricetrin-a94e31d6-19cc-4030-baaa-2bc537d0a2d2",
+    "name": "AvenaPro™ Concentrate",
+    "slug": "avenapro-concentrate",
+    "description": "AvenaPro™ Concentrate is an oat protein concentrate that is produced from the mechanical separation of protein from oat flour. Manufactured in the USA.\r\n",
+    "company_name": "Sweet Additions",
+    "company_slug": "sweet-additions",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708695990/production/Company/21332/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708695990/production/Product/406210/card_banner/image",
+    "properties": {
+        "Product Families": [
+            "Proteins & Amino Acids",
+            "Plant Proteins",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Oat Protein Concentrate"
+        ],
+        "Functions": [
+            "Protein Source"
+        ],
+        "Labeling Claims": [
+            "Organic",
+            "Non-GMO",
+            "Naturally Derived",
+            "Kosher",
+            "Plant-Based"
+        ],
+        "Packaging Type": [
+            "Bulk",
+            "Totes (IBC)"
+        ],
+        "Ingredient Origin": [
+            "Plant Origin"
+        ]
+    }
+}

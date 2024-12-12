@@ -1,0 +1,39 @@
+{
+    "id": 368147,
+    "brand": "ura-zen",
+    "name": "Ura-Zen™ AC",
+    "slug": "ura-zen-ac",
+    "description": "Ura-Zen™ AC is an 2K urethane clear coat. It maximizes gloss, DOI and UV resistance when applied over Hentzen intermix series urethane topcoats.",
+    "company_name": "Hentzen Coatings",
+    "company_slug": "hentzen-coatings",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664291213/production/Brand/27273/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608621/production/CategoryImage/570/category_image/PaintingsCoatings_06.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial Coatings"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Top Coats"
+        ],
+        "Chemical Family": [
+            "Urethanes"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "2K (2 component) Coating",
+            "Top Coat",
+            "Solventless & High Solids Coating",
+            "Clearcoat",
+            "Solventborne Coating"
+        ],
+        "Features": [
+            "UV Resistant",
+            "High Gloss"
+        ],
+        "Chemical Family": [
+            "Urethanes"
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "id": 300608,
+    "brand": "humocer",
+    "name": "ACRYLINE RA WP",
+    "slug": "acryline-ra-wp",
+    "description": "Acryline RA WP is an aqueous emulsion of copolymer based on styrene acrylic, used as a waterproofing agent in the civil construction area, as a component for interior and exterior lines in the paint industry and for surface applications in the paper industry.",
+    "company_name": "Isogama Industria Quimica",
+    "company_slug": "isogama-industria-quimica",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1669788784/production/Company/24227/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608585/production/CategoryImage/567/category_image/PaintingsCoatings_03.jpg",
+    "properties": {
+        "Applications": [
+            "Paper & Pulp",
+            "Building & Construction",
+            "Building Envelope & Roofing",
+            "Other Paints & Coatings Applications",
+            "Other Paper & Pulp Applications",
+            "Other Building & Construction Applications",
+            "Other Building Envelope & Roofing Applications"
+        ],
+        "Product Families": [
+            "Additives",
+            "Surface Modifiers"
+        ],
+        "Chemical Family": [
+            "Styrenics",
+            "Styrene Copolymers",
+            "Acrylics, Acrylates & Methacrylates"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Styrenics",
+            "Acrylics, Acrylates & Methacrylates",
+            "Styrene Copolymers"
+        ]
+    }
+}

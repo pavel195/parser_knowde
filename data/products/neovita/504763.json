@@ -1,0 +1,51 @@
+{
+    "id": 504763,
+    "brand": "neovita",
+    "name": "Decanox™ MTS 30 GA Non-GMO (401004)",
+    "slug": "decanox-decanox-mts-30-ga-non-gmo-401004",
+    "description": null,
+    "company_name": "ADM",
+    "company_slug": "adm",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1674525838/production/Company/4182/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1671125277/production/Company/4182/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Vitamins",
+            "Phytochemicals & Plant Extracts",
+            "Phytochemicals",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "Ingredient Name": [
+            "Mixed Tocopherols"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Mixed Tocopherols"
+        ],
+        "Vitamin Type": [
+            "Vitamin E"
+        ],
+        "Functions": [
+            "Phytochemical"
+        ],
+        "Active Component": [
+            "Tocopherol"
+        ],
+        "Ingredient Origin": [
+            "Plant Origin",
+            "Natural Origin"
+        ],
+        "Labeling Claims": [
+            "Generally Recognized As Safe (GRAS)",
+            "Naturally Derived",
+            "Plant-Based",
+            "Natural"
+        ]
+    }
+}

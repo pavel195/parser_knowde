@@ -1,0 +1,50 @@
+{
+    "id": 330889,
+    "brand": "pektron",
+    "name": "Petroz™ 595",
+    "slug": "petroz-595",
+    "description": "Petroz™ 595 durometer FFKM specifically compounded for rapid gas decompression (RGD) resistance that consistently outperforms competitors’ RGD compounds.",
+    "company_name": "Material and Design Solutions",
+    "company_slug": "material-and-design-solutions",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691737655/production/Brand/24085/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608465/production/CategoryImage/561/category_image/BuildingConstruction_05.jpg",
+    "properties": {
+        "Applications": [
+            "Semiconductor Manufacturing",
+            "Equipment & Parts",
+            "Other Industrial Applications",
+            "Pipes & Tanks",
+            "Pumps, Turbines & Compressors",
+            "Other Oil, Gas & Mining Applications",
+            "Pipes & Plumbing",
+            "Other Parts & Components",
+            "Appliances & Electronics",
+            "Building Materials",
+            "Parts & Components",
+            "Chemical & Industrial Manufacturing",
+            "Oil, Gas & Mining"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Fluoropolymers"
+        ],
+        "Polymer Name": [
+            "Perfluoroelastomer (FFKM)"
+        ],
+        "End Uses": [
+            "Gaskets",
+            "Valves",
+            "Pumps",
+            "Semiconductor Applications",
+            "Oil/Gas Applications",
+            "Pipe Seals"
+        ]
+    },
+    "summary": {
+        "Density": [
+            "1950.0 - 1950.0 kg/m³"
+        ]
+    }
+}

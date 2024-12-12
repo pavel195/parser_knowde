@@ -1,0 +1,89 @@
+{
+    "id": 390200,
+    "brand": "vegalan",
+    "name": "Henry Lamotte Oils GmbH Bee Wax",
+    "slug": "henry-lamotte-oils-gmbh-bee-wax",
+    "description": "Bees Wax (Cera flava; Cera alba) is produced by honey bees (Apis mellifera) using their way glands. Bees use wax to construct their hives. Bees Wax has a fatty acid ester content of 35 to 70 percent. Honey bees are found all over the world.",
+    "company_name": "Henry Lamotte Oils GmbH",
+    "company_slug": "henry-lamotte-oils-gmbh",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672306/production/Company/1251/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708672306/production/Product/390200/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Chemical Manufacturing",
+            "Stationery, Art & Office Supplies",
+            "Bath & Shower",
+            "Treatment Products",
+            "Color Cosmetics",
+            "Hair Care",
+            "Skin Care",
+            "Confectionery",
+            "Topical",
+            "Oral",
+            "Food",
+            "Drug Delivery & Care Solutions",
+            "Chemical & Industrial Manufacturing",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Fats, Butters & Waxes",
+            "Hydrocarbons & Waxes",
+            "Stabilizers",
+            "Hair Actives",
+            "Processing Aids",
+            "Other Excipients",
+            "Cosmetic Actives",
+            "Functionals",
+            "Functional Additives",
+            "Excipients",
+            "Intermediates"
+        ],
+        "Chemical Family": [
+            "Waxes",
+            "Natural Waxes"
+        ],
+        "INCI Name": [
+            "Cera Alba"
+        ],
+        "End Uses": [
+            "Candle",
+            "Pharmaceutical Application",
+            "Cosmetics",
+            "Ointments",
+            "Massage Products",
+            "Hair Tonic",
+            "Hair Conditioner",
+            "Shampoos & Rinses",
+            "Lip Care Products",
+            "Lip Balm",
+            "Lipstick",
+            "Confectionery Products"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Cera Alba"
+        ],
+        "Ingredient Name": [
+            "Beeswax"
+        ],
+        "Chemical Name": [
+            "Beeswax"
+        ],
+        "Functions": [
+            "Intermediate",
+            "Skin Protectant",
+            "Food Additive",
+            "Stabilizer",
+            "Anti-Sticking Agent",
+            "Glazing Agent",
+            "Protective Agent",
+            "Release Agent"
+        ],
+        "Dosage Form": [
+            "Ointments",
+            "Creams",
+            "Capsules"
+        ]
+    }
+}

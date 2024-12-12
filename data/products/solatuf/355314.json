@@ -1,0 +1,53 @@
+{
+    "id": 355314,
+    "brand": "solatuf",
+    "name": "RowTec® FDA",
+    "slug": "rowtec-fda",
+    "description": "RowTec® FDA is used in the following processes: printing, die-cutting, embossing, thermoforming, and hot stamping.",
+    "company_name": "ORAFOL",
+    "company_slug": "orafol",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709127472/production/Brand/26470/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609128/production/CategoryImage/597/category_image/PrintingPackaging_08.jpg",
+    "properties": {
+        "Applications": [
+            "Housewares",
+            "Food & Beverage Packaging",
+            "Other Packaging Materials",
+            "Other Printing & Packaging Applications",
+            "Food Films & Packaging",
+            "Flexible Packaging",
+            "Packaging"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Polycarbonate (PC)"
+        ],
+        "Polymer Name": [
+            "Polycarbonate (PC)"
+        ],
+        "End Uses": [
+            "Household Goods",
+            "Flexible Packaging",
+            "Thermoforming Applications",
+            "Film"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polycarbonate (PC)"
+        ],
+        "Physical Form": [
+            "Film"
+        ],
+        "Features": [
+            "Good Electrical Properties",
+            "Food Contact Acceptable",
+            "Good Thermal Stability",
+            "Matte Gloss Capable",
+            "Good Optical Properties",
+            "Good Mechanical Properties"
+        ]
+    }
+}

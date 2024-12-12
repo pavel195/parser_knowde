@@ -1,0 +1,48 @@
+{
+    "id": 312404,
+    "brand": "tytan",
+    "name": "TYTAN™ ET",
+    "slug": "tytan-et",
+    "description": "TYTAN™ ET is Improved corrosion resistance.",
+    "company_name": "Borica",
+    "company_slug": "borica",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1710313239/production/Product/312404/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609057/production/CategoryImage/591/category_image/PrintingPackaging_02.jpg",
+    "properties": {
+        "Product Families": [
+            "Chain Extenders & Crosslinkers",
+            "Catalysts & Initiators",
+            "Functional Additives",
+            "Polymerization Additives",
+            "RTU Catalysts",
+            "Additives",
+            "Monomers & Intermediates",
+            "Catalyst Ingredients",
+            "Processing Aids"
+        ],
+        "Chemical Family": [
+            "Titanium Compounds",
+            "Titanates"
+        ],
+        "End Uses": [
+            "Sol-Gel Coating"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Titanates",
+            "Titanium Compounds"
+        ],
+        "Reaction Type": [
+            "Transesterification"
+        ],
+        "Applicable Processes": [
+            "Condensation Polymerization",
+            "Polymer Manufacturing",
+            "Methacrylic Esters Manufacturing"
+        ],
+        "Synonyms": [
+            "Titanium Ethoxide, Titanium Tetraethoxide"
+        ]
+    }
+}

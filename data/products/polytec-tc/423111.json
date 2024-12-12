@@ -1,0 +1,31 @@
+{
+    "id": 423111,
+    "brand": "polytec-tc",
+    "name": "Polytec EC 151-L",
+    "slug": "polytec-ec-151-l",
+    "description": "Polytec EC 151-L is a standard two- component, solvent free epoxy resin optimized for stamping application, with a long pot life, high temperature stability and excellent electrical conductivity. It can be used for high volume chip and substrate bonding, in micro-electronic, hybrid and optoelectronic application. Polytec EC 151-L can be cured at 95°C or allows rapid cure cycles at higher temperatures and will withstand reflow and wire bond processes. The material can be applied by stamping, (jet-) dispensing or manually.",
+    "company_name": "Polytec PT",
+    "company_slug": "polytec-pt",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697222782/production/Brand/33284/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608953/production/CategoryImage/586/category_image/AdhesivesSealants_03.jpg",
+    "properties": {
+        "Applications": [
+            "Medical Tapes & Adhesives",
+            "Stationery, Art & Office Supplies",
+            "Semiconductor Manufacturing",
+            "Adhesives & Sealants",
+            "Appliances & Electronics",
+            "Packaging & Assembly",
+            "Parts & Components",
+            "Medical"
+        ],
+        "Product Families": [
+            "Conductive Adhesives",
+            "Adhesives & Sealants"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    },
+    "summary": {}
+}

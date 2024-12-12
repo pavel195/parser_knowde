@@ -1,0 +1,50 @@
+{
+    "id": 393209,
+    "brand": "refinase",
+    "name": "Refinase®",
+    "slug": "refinase",
+    "description": "Refinase® is used in the treatment of fiber modification targeted at strength development, drainage enhancement, improved retention, improved refinability, energy reduction, and in the production of more tons of paper per day and higher quality final product. Customized blends are made for a variety of paper grades such as tissue, fine printing &amp; writing, paperboard, packaging, and specialty products.",
+    "company_name": "Enzymatic Deinking Technologies",
+    "company_slug": "enzymatic-deinking-technologies",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664291795/production/Brand/29640/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Paper & Pulp",
+            "Coated Paper & Paperboard",
+            "Pulping & Processing",
+            "Other Printing & Packaging Applications"
+        ],
+        "Product Families": [
+            "Paper & Pulp Chemicals",
+            "Recycling Aids"
+        ],
+        "Chemical Family": [
+            "Enzymes"
+        ],
+        "End Uses": [
+            "Paper & Pulp",
+            "Paper Tissue",
+            "Paper Packaging",
+            "Paperboard",
+            "Printing Paper",
+            "Writing Paper"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Enzymes"
+        ],
+        "End Uses": [
+            "Printing Paper",
+            "Paper Packaging",
+            "Paper Tissue",
+            "Paper & Pulp",
+            "Paperboard",
+            "Writing Paper"
+        ],
+        "Applicable Processes": [
+            "Paper Deinking"
+        ]
+    }
+}

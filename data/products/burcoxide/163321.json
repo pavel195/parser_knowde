@@ -1,0 +1,54 @@
+{
+    "id": 163321,
+    "brand": "burcoxide",
+    "name": "BURCO® HCS-50NF",
+    "slug": "burco-hcs-50nf",
+    "description": "Burco® HCS-50NF is a high caustic stable, no foam, amphoteric surfactant that provides improved wetting and detergency to alkaline systems.  It is recommended for food plant cleaners, brewery cleaners, metal finishing cleaners, bottle wash compounds, and industrial dish cleaners.",
+    "company_name": "Burlington Chemical Co",
+    "company_slug": "burlington-chemical-co",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708671835/production/Company/1171/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708671835/production/Company/1171/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Food & Beverage Manufacturing",
+            "Food Facility Cleaning & Sanitization",
+            "Commercial Laundry",
+            "Dish Care",
+            "Laundry & Fabric Care",
+            "Surface Care",
+            "Industrial Cleaning",
+            "Institutional & Catering",
+            "Other Institutional & Industrial Care",
+            "Processing & Packaging",
+            "Home Care",
+            "Institutional & Industrial Care"
+        ],
+        "Product Families": [
+            "Wetting & Dispersion Aids",
+            "Amphoteric Surfactants",
+            "Foam Control Agents",
+            "Soaps & Surfactants",
+            "Functional Additives",
+            "Cleaning Aids"
+        ],
+        "End Uses": [
+            "Equipment Cleaners",
+            "Detergents",
+            "Bottle Wash",
+            "Brewery Cleaners",
+            "Hard Surface Cleaners",
+            "Dishwash Detergents",
+            "Metal Cleaners"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Anti-Foaming Agent",
+            "Wetting Agent",
+            "Surfactant (Amphoteric)"
+        ],
+        "Labeling Claims": [
+            "APEO-free"
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": 583734,
+    "brand": "texturlux-80749beb-da8b-4a3b-8d33-5878eb6427e6",
+    "name": "NETO® 7350 Corn Syrup",
+    "slug": "neto-7350",
+    "description": "NETO® 7350 Corn Syrup is a water-soluble liquid that acts as a nutritive sweetener in food applications. It is suitable for vegan, vegetarian, and ovo-lacto vegetarian diets.",
+    "company_name": "Primient",
+    "company_slug": "primient",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1729086403/production/Company/50022/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606945/production/CategoryImage/505/category_image/FoodNutrition_06.jpg",
+    "properties": {
+        "Product Families": [
+            "Sweeteners & Syrups",
+            "Taste & Flavor"
+        ],
+        "Ingredient Name": [
+            "Corn Syrup"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Corn Syrup"
+        ],
+        "Functions": [
+            "Nutritive Sweetener"
+        ],
+        "Calories (Energy)": [
+            "322.0 - 322.0 Cal/100 g"
+        ],
+        "Labeling Claims": [
+            "Halal",
+            "Odor-free",
+            "Allergen-free",
+            "Kosher"
+        ],
+        "Physical Form": [
+            "Liquid"
+        ]
+    }
+}

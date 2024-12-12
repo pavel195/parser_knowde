@@ -1,0 +1,42 @@
+{
+    "id": 184874,
+    "brand": "acconon",
+    "name": "Accoquat® CS-5000",
+    "slug": "accoquat-cs-5000",
+    "description": "Accoquat® CS-5000 is a blend of cationic emulsifiers designed to produce micro-emulsions when combined with mineral seal oil (MSO). These micro-emulsions are most often used as the basis for car rinse-aids and other post-wash treatments in commercial and home applications. It is manufactured in USA.",
+    "company_name": "ABITEC Corporation",
+    "company_slug": "abitec-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708688599/production/Company/1126/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625605142/production/CategoryImage/440/category_image/CleaningIngredientss_05.jpg",
+    "properties": {
+        "Applications": [
+            "Auto Care",
+            "Vehicle & Machinery",
+            "Home Care",
+            "Institutional & Industrial Care"
+        ],
+        "Product Families": [
+            "Performance Additives",
+            "Emulsifiers & Demulsifiers",
+            "Functional Additives",
+            "Cleaning Aids"
+        ],
+        "Chemical Family": [
+            "Ammonium Salts"
+        ],
+        "End Uses": [
+            "Rinse Aids",
+            "Car Wash"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Emulsifier",
+            "Rinse Aid"
+        ],
+        "End Uses": [
+            "Rinse Aids",
+            "Car Wash"
+        ]
+    }
+}

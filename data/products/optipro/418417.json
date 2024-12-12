@@ -1,0 +1,36 @@
+{
+    "id": 418417,
+    "brand": "optipro",
+    "name": "Grade 100™",
+    "slug": "grade-100",
+    "description": "Grade 100™ is a white granular solid. It is a Light density ash with absorptive properties.",
+    "company_name": "Genesis Alkali",
+    "company_slug": "genesis-alkali",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704107083/production/Brand/32779/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical Manufacturing",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Inorganics",
+            "Technical Salts & Inorganics"
+        ],
+        "Chemical Family": [
+            "Sodium Salts",
+            "Carbonates"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Sodium Carbonate, Anhydrous"
+        ],
+        "CAS Number": [
+            "497-19-8"
+        ],
+        "Synonyms": [
+            "Anhydrous Sodium Carbonate, Disodium Carbonate, Na2CO3, Soda, Soda Ash, Sodium Carbonate, Sodium Carbonate Anhydrous"
+        ]
+    }
+}

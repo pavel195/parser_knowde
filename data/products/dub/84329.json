@@ -1,0 +1,61 @@
+{
+    "id": 84329,
+    "brand": "dub",
+    "name": "DUB™ ISO G3",
+    "slug": "dub-iso-g3",
+    "description": "DUB ISO G3 is a PEG-free emulsifier suitable for use in organic cosmetic products. Provides shine and waterproofing to eyeliner, improves stability and spreadability of lipstick.",
+    "company_name": "Stearinerie Dubois",
+    "company_slug": "stearinerie-dubois",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708696099/production/Company/1426/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708696099/production/Company/1426/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Treatment Products",
+            "Baby Care",
+            "Color Cosmetics",
+            "Skin Care",
+            "Sun Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Emulsifiers, Solubilizers & Dispersants",
+            "Conditioners & Emollients",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Polyglyceryl-3 Diisostearate"
+        ],
+        "End Uses": [
+            "Baby Sunscreen",
+            "Facial Cleanser",
+            "Eye Shadow",
+            "Diaper Cream",
+            "Concealer",
+            "CC Cream",
+            "Blush",
+            "Baby Soap",
+            "Baby Lotion",
+            "Anti-Aging Products",
+            "Eyebrow Enhancers",
+            "Facial Moisturizer",
+            "BB Creams",
+            "Eye Liner",
+            "Lipstick"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Polyglyceryl-3 Diisostearate"
+        ],
+        "Functions": [
+            "Emollient",
+            "Emulsifier"
+        ],
+        "Labeling Claims": [
+            "Credo Clean Standard",
+            "Clean at Sephora",
+            "Ulta Beauty's Conscious Beauty",
+            "PEG-free"
+        ]
+    }
+}

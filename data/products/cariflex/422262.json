@@ -1,0 +1,43 @@
+{
+    "id": 422262,
+    "brand": "cariflex",
+    "name": "Cariflex™ IR0310 KU Polymer",
+    "slug": "cariflex-ir0310-ku-polymer",
+    "description": "Cariflex™ IR0310 KU Polymer polymer is a solution polymerised polyisoprene with a high cis-1,4 content. It has a high molecular weight as indicated by its Logarithmic Inherent Viscosity (LIV) value of 7.05 dl/g.\r\n",
+    "company_name": "Cariflex",
+    "company_slug": "cariflex",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1693441304/production/Company/56925/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1693441304/production/Company/56925/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Healthcare Packaging",
+            "Applicators & Accessories",
+            "Medical Devices & Assemblies",
+            "Food & Beverage Packaging",
+            "Medical Tapes & Adhesives",
+            "Processing & Packaging",
+            "Medical",
+            "Packaging & Accessories",
+            "Packaging"
+        ],
+        "Product Families": [
+            "Isoprene Rubbers (IR)",
+            "Other Resins & Binders",
+            "Resins & Binders",
+            "Thermoset Elastomers"
+        ],
+        "Chemical Family": [
+            "Polyisoprenes"
+        ],
+        "Polymer Name": [
+            "Polyisoprene (IR)"
+        ],
+        "End Uses": [
+            "Baby Teats",
+            "Pharmaceutical Packaging",
+            "Medical Devices",
+            "Food Packaging"
+        ]
+    },
+    "summary": {}
+}

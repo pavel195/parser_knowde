@@ -1,0 +1,41 @@
+{
+    "id": 359207,
+    "brand": "the-janitor-s-answer",
+    "name": "The Frozen-Flame Answer™",
+    "slug": "the-frozen-flame-answer",
+    "description": "The Frozen-Flame Answer™ is an organic nutrient and electrical energy source to provide immediate energy for macro- and microbial life in soil, manure and plants. Working in conjunction with indigenous soil life, it provides energy for cleaning up waste, creating compost and producing topsoil - Creating Nature’s Perfectly Balanced Plant Food.",
+    "company_name": "Environmental Care & Share",
+    "company_slug": "environmental-care-share",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708690956/production/Brand/26832/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608186/production/CategoryImage/548/category_image/AgricultureFeed_04.jpg",
+    "properties": {
+        "Applications": [
+            "Other Agricultural Crops",
+            "Turf Management",
+            "Ornamentals",
+            "Agricultural Crops",
+            "Turf, Ornamentals & Landscape"
+        ],
+        "Product Families": [
+            "Fertilizers & Nutrients",
+            "Plant Health, Nutrients & Soil Management"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Micronutrient",
+            "Fertilizer"
+        ],
+        "Application Technique": [
+            "Sprinklers",
+            "Pre-Emergence",
+            "Chemigation"
+        ],
+        "Labeling Claims": [
+            "Environmentally Friendly",
+            "Kosher",
+            "Sustainable",
+            "Organic"
+        ]
+    }
+}

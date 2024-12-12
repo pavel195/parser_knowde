@@ -1,0 +1,36 @@
+{
+    "id": 341871,
+    "brand": "deco",
+    "name": "PERLAC CF/3",
+    "slug": "perlac-cf-3",
+    "description": "Perlac CF/3 is a complete product, high in sequestering agents and with special highly biodegradable surfactants working in synergy with the alkaline salts to guarantee great performance every time. Perlac CF/3 has been specially designed for use in bottle washers and is particularly recommended when the water supply is especially hard.",
+    "company_name": "Perdomini IOC",
+    "company_slug": "perdomini-ioc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664290315/production/Brand/25254/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608045/production/CategoryImage/542/category_image/HomePersonalCare_08.jpg",
+    "properties": {
+        "Applications": [
+            "Home Care",
+            "Institutional & Industrial Care",
+            "Surface Care",
+            "Industrial Cleaning"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Industrial Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner"
+        ],
+        "Application Areas": [
+            "Bowls",
+            "Bottles"
+        ],
+        "Features": [
+            "Non-Foaming",
+            "Very Low Surface Energy"
+        ]
+    }
+}

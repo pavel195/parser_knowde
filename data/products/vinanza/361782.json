@@ -1,0 +1,68 @@
+{
+    "id": 361782,
+    "brand": "vinanza",
+    "name": "Oxi-Fend® Boysenberry Extract",
+    "slug": "oxi-fend-boysenberry-extract",
+    "description": "Oxi-Fend® Boysenberry Extract is the unique polyphenols 'superfood' flavor enhancer.",
+    "company_name": "New Zealand Extracts",
+    "company_slug": "new-zealand-extracts",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708690698/production/Brand/27095/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606984/production/CategoryImage/507/category_image/FoodNutrition_08.jpg",
+    "properties": {
+        "Applications": [
+            "Cereals & Snacks",
+            "Bakery",
+            "Convenience Foods",
+            "Confectionery",
+            "Desserts & Fruit Preparations",
+            "Savory & Culinary",
+            "Dairy",
+            "Other Non-Alcoholic Beverages",
+            "Nutraceuticals & Supplements",
+            "Sports Nutrition",
+            "Powdered Beverages",
+            "Functional Foods",
+            "Beverage",
+            "Food",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Antioxidants & Preservatives",
+            "Fruit Products & Extracts",
+            "Functional Additives",
+            "Nutrition & Fortification",
+            "Whole Foods, Extracts & Premixes",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Sauces",
+            "Soups",
+            "Snacks",
+            "Breakfast Cereals",
+            "Bread",
+            "Toppings",
+            "Spreads",
+            "Ice Cream",
+            "Desserts",
+            "Dips",
+            "Yogurt",
+            "Dietary Supplements",
+            "Sports Nutrition",
+            "Powdered Beverages",
+            "Nutritional Bars",
+            "Functional Foods"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Boysenberry Extract"
+        ],
+        "Functions": [
+            "Supplement",
+            "Dietary Supplement",
+            "Antioxidant"
+        ]
+    }
+}

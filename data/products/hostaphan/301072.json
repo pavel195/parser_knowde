@@ -1,0 +1,46 @@
+{
+    "id": 301072,
+    "brand": "hostaphan",
+    "name": "Fiexiso® PET schwarz FI 13002",
+    "slug": "fiexiso-pet-schwarz-fi-13002",
+    "description": "Fiexiso® PET schwarz FI 13002 is an electrical insulating film made of polyethylene terephthalate and it is used as area insulating material up to and including insulation class B (130°C).",
+    "company_name": "Dr. D. Mueller",
+    "company_slug": "dr-d-mueller",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686149739/production/Company/24190/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Tapes & Labels",
+            "Packaging & Paper",
+            "Tapes, Labels & Adhesives",
+            "Other Electrical & Electronics Applications",
+            "Tape & Label Adhesives"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Polyesters",
+            "Polyethylene Terephthalate (PET)"
+        ],
+        "Polymer Name": [
+            "Polyethylene Terephthalate (PET)"
+        ],
+        "End Uses": [
+            "Tape"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyethylene Terephthalate (PET)"
+        ],
+        "Physical Form": [
+            "Film"
+        ],
+        "Features": [
+            "Dimensional Stability",
+            "Good Electrical Properties",
+            "Very Good Heat Resistance"
+        ]
+    }
+}

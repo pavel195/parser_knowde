@@ -1,0 +1,43 @@
+{
+    "id": 411716,
+    "brand": "dura-clean",
+    "name": "Mineral-Clean®",
+    "slug": "mineral-clean",
+    "description": "Mineral-Clean® is an acid blend that removes mineral buildup and scale effectively. Mineral-Clean® is most effective after Proxy-Clean® has been used to remove heavy soils from the water system.",
+    "company_name": "Proxy Clean",
+    "company_slug": "proxy-clean",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704106947/production/Brand/32104/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515625/production/CategoryImage/1053/category_image/HII_05.jpg",
+    "properties": {
+        "Applications": [
+            "Surface Care",
+            "Institutional & Catering",
+            "Industrial Cleaning",
+            "Home Care",
+            "Institutional & Industrial Care"
+        ],
+        "Product Families": [
+            "Commercial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Descalers",
+            "Cleaner",
+            "Acid Cleaners"
+        ],
+        "Application Area": [
+            "Water System"
+        ],
+        "Features": [
+            "Corrosion Resistant",
+            "Fast Acting",
+            "Effective Soil Removal",
+            "Cost Effective"
+        ],
+        "Synonyms": [
+            "H3PO4, Naval Jelly, Orthophosphoric Acid, White Phosphoric Acid"
+        ]
+    }
+}

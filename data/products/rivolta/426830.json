@@ -1,0 +1,51 @@
+{
+    "id": 426830,
+    "brand": "rivolta",
+    "name": "Rivolta® B.R.X. 648",
+    "slug": "rivolta-b-r-x-648",
+    "description": "Rivolta® B.R.X. 648 is a high-performance cleaner. it is phosphate free, highly alkaline and especially used to remove paints, lacquers, caked on lubricants, cracked oils and resins. This product is VOC-free.",
+    "company_name": "Bremer & Leguil",
+    "company_slug": "bremer-leguil",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664293029/production/Brand/33799/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515625/production/CategoryImage/1053/category_image/HII_05.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial Cleaning",
+            "Institutional & Catering",
+            "Institutional & Industrial Care"
+        ],
+        "Product Families": [
+            "Commercial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Alkaline Cleaners",
+            "Paint Remover",
+            "Degreasers",
+            "Varnish Cleaner",
+            "Cleaner"
+        ],
+        "Application Areas": [
+            "Ultrasonic Cleaner"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Ceramic"
+        ],
+        "Certifications & Compliance": [
+            "ISO 9001",
+            "ISO 14001",
+            "ISO 50001"
+        ],
+        "Features": [
+            "Heavy Duty",
+            "Varnish Build-up Prevention",
+            "Water Soluble",
+            "Non Corrosive",
+            "Degreasing",
+            "High Performance"
+        ]
+    }
+}

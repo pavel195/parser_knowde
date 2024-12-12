@@ -1,0 +1,67 @@
+{
+    "id": 318360,
+    "brand": "novasol",
+    "name": "NovaSOL® D3/K2",
+    "slug": "novasol-d3-k2",
+    "description": "NovaSOL® D3/K2 is a blend of vitamin D3/vitamin K2 used in food, supplements and beverage.",
+    "company_name": "AQUANOVA AG",
+    "company_slug": "aquanova-ag",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708698927/production/Product/318360/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708698927/production/Product/318360/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Other Non-Alcoholic Beverages",
+            "Nutraceuticals & Supplements",
+            "Beverage",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Vitamins",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Dietary Supplements"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Vitamin Blend"
+        ],
+        "Functions": [
+            "Dietary Supplement",
+            "Supplement",
+            "Vitamin Source",
+            "Vitamin Source"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin"
+        ],
+        "Labeling Claims": [
+            "Naturally Derived",
+            "Kosher",
+            "Natural",
+            "Halal"
+        ],
+        "Certifications & Compliance": [
+            "ISO 22000",
+            "FSSC 22000",
+            "Kosher",
+            "GMP",
+            "Halal"
+        ],
+        "Benefit Claims (Health)": [
+            "Antioxidant Properties",
+            "Stimulates Immune System"
+        ],
+        "Features": [
+            "Rapid Absorption",
+            "Excellent Bioavailability",
+            "Thermal Stability",
+            "Antioxidant Properties",
+            "Stimulates Immune System"
+        ]
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "id": 165038,
+    "brand": "masphate",
+    "name": "MASCID® 1318",
+    "slug": "mascid-1318",
+    "description": "MASCID® 1318 is composed of oleic acid and is recommended for use in the manufacturing of soap and detergents as well as an emulsifier, solubilizer, and stabilizer for food ingredients and pharmaceuticals. It can also be utilized as an emulsifier for metalworking fluids, resins, and surface coatings, an emollient or superfatting agent for cosmetics, and as an adhesive.",
+    "company_name": "Musim Mas Group",
+    "company_slug": "musim-mas-group",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708689813/production/Brand/11174/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708689813/production/Product/165038/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Chemical Manufacturing",
+            "Hand Hygiene",
+            "Bath & Shower",
+            "Skin Care",
+            "Sun Care",
+            "Chemical & Industrial Manufacturing",
+            "Beauty & Care",
+            "Personal Hygiene"
+        ],
+        "Product Families": [
+            "Blends & Other Cleansers",
+            "Rheology Modifiers",
+            "Conditioners & Emollients",
+            "Stabilizers",
+            "Sensory Modifiers",
+            "Emulsifiers, Solubilizers & Dispersants",
+            "Functionals",
+            "Surfactants & Cleansers"
+        ],
+        "Chemical Family": [
+            "Fatty Acids",
+            "Acids"
+        ],
+        "INCI Name": [
+            "Oleic Acid"
+        ],
+        "End Uses": [
+            "Liquid Hand Soap",
+            "Hand Soap"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Oleic Acid"
+        ],
+        "Functions": [
+            "Conditioner",
+            "Stabilizer",
+            "Emulsion Stabilizer",
+            "Cleansing Agent",
+            "Plasticizer",
+            "Softener",
+            "Emollient",
+            "Emulsifier",
+            "Anti-Static Agent",
+            "Viscosity Modifier"
+        ],
+        "Labeling Claims": [
+            "Credo Clean Standard",
+            "Clean at Sephora",
+            "Kosher",
+            "Organic",
+            "Ulta Beauty's Conscious Beauty",
+            "Halal"
+        ],
+        "Certifications & Compliance": [
+            "EU Cosmetic Regulation 1223/2009 Compliant",
+            "Gluten-free",
+            "RSPO MassBalance Certified",
+            "ISO 9001",
+            "CosIng Listed",
+            "Organic Certified",
+            "ISO 14001",
+            "Kosher",
+            "COSMOS",
+            "EFfCI GMP Certified",
+            "Prop 65 Compliant",
+            "Vegan",
+            "FSSC 22000",
+            "REACH (Europe)",
+            "IECIC (China)",
+            "NSF CleanGredients",
+            "ECOCERT",
+            "Halal",
+            "United States Pharmacopeia (USP)"
+        ]
+    }
+}

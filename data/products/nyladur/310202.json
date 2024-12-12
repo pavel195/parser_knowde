@@ -1,0 +1,46 @@
+{
+    "id": 310202,
+    "brand": "nyladur",
+    "name": "EnviroNylon N6633HSREC",
+    "slug": "environylon-n6633hsrec",
+    "description": null,
+    "company_name": "West Michigan Compounding",
+    "company_slug": "west-michigan-compounding",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708529779/production/Product/310202/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608760/production/CategoryImage/576/category_image/AutomotiveTransportation_04.jpg",
+    "properties": {
+        "Applications": [
+            "Interior",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Polyamides",
+            "Engineering & Specialty Polymers"
+        ],
+        "Chemical Family": [
+            "Polyamides"
+        ],
+        "Polymer Name": [
+            "Polyamide 66 (PA 66)"
+        ],
+        "End Uses": [
+            "Cup Holders",
+            "Speakers",
+            "Car Radio Fascia"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyamide 66 (PA 66)"
+        ],
+        "Processing Methods": [
+            "Injection Molding"
+        ],
+        "Fillers Included": [
+            "Glass Fiber"
+        ],
+        "Flexural Modulus": [
+            "7446.32 - 7446.32 MPa"
+        ]
+    }
+}

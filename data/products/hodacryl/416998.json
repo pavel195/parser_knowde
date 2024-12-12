@@ -1,0 +1,45 @@
+{
+    "id": 416998,
+    "brand": "hodacryl",
+    "name": "Hodejka® ER 00-1",
+    "slug": "hodejka-er-00-1",
+    "description": "Hodejka® ER 00-1 is the synthetic top enamel in a glossy design is intended for application on basic paints (Hodejka) and forms the final coating layer. It is produced in a wide range of shades (RAL or according to an agreed color template). The coating system as a whole is designed for common outdoor environments or for indoor applications.",
+    "company_name": "Color Spectrum",
+    "company_slug": "color-spectrum",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520325/production/Brand/32596/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608640/production/CategoryImage/572/category_image/PaintingsCoatings_08.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial Coatings",
+            "Agricultural & Construction Equipment",
+            "Chemical & Industrial Manufacturing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Enamels"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Top Coat",
+            "Enamel"
+        ],
+        "Application Area": [
+            "Tanks"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Iron",
+            "Metal",
+            "Steel"
+        ],
+        "Features": [
+            "Fast Drying"
+        ],
+        "Application Method": [
+            "Spray",
+            "Roller",
+            "Brush"
+        ]
+    }
+}

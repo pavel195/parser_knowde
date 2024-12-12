@@ -1,0 +1,62 @@
+{
+    "id": 384981,
+    "brand": "innovox",
+    "name": "InnovoX® FG",
+    "slug": "innovox-fg",
+    "description": "InnovoX® FG is used in the rubber industry as a desiccant in mineral filled compounds and pressure-less curing. Moisture also builds up in uncured rubber ingredients during storage or in high humidity environments. This can be bound up or “scavenged” and the effects of moisture neutralized by using Innovox® during processing. Moisture promotes porosity and irregular physical properties in rubber compounds. Poor quality raw materials and moisture can increase mixing time and appear as finished product quality issues, due to failure points or surface blemishes such as bubbles or white streaks. This can be very costly and inefficient. Addition of Innovox® will eliminate these issues and reduce scrap or re-processing costs as well as neutralizing any acid present in the compound, which minimizes acid related mold or die damage.",
+    "company_name": "Birch Chemicals",
+    "company_slug": "birch-chemicals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708685824/production/Brand/28841/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608760/production/CategoryImage/576/category_image/AutomotiveTransportation_04.jpg",
+    "properties": {
+        "Applications": [
+            "Pipes & Plumbing",
+            "Other Flooring & Surface Applications",
+            "Waterproofing & Weatherproofing",
+            "Exterior & Body",
+            "Equipment & Parts",
+            "Other Industrial Applications",
+            "Powertrain & UTH",
+            "Appliances & Electronics",
+            "Automotive",
+            "Building Materials",
+            "Flooring & Surfaces",
+            "Chemical & Industrial Manufacturing",
+            "Building Envelope & Roofing"
+        ],
+        "Product Families": [
+            "Performance Additives",
+            "Elastomer Additives"
+        ],
+        "End Uses": [
+            "Automobile Door Seals",
+            "Weatherstripping",
+            "Roofing Membranes",
+            "Hoses",
+            "Flooring",
+            "Conveyors",
+            "Belts/Belt Repair"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Desiccant"
+        ],
+        "Compatible Polymers & Resins": [
+            "Ethylene Propylene Diene Monomer (EPDM)"
+        ],
+        "Processing Methods": [
+            "Compression Molding",
+            "Extrusion"
+        ],
+        "End Uses": [
+            "Flooring",
+            "Weatherstripping",
+            "Hoses",
+            "Conveyors",
+            "Automobile Door Seals",
+            "Roofing Membranes",
+            "Belts/Belt Repair"
+        ]
+    }
+}

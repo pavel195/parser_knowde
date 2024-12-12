@@ -1,0 +1,59 @@
+{
+    "id": 469433,
+    "brand": "virtiva",
+    "name": "Ginseng 27-30%",
+    "slug": "ginseng-27-30",
+    "description": "Ginseng 27-30% is a dry extract obtained from the roots of Panax ginseng C.A. Meyer. This product is used in pharmaceuticals and nutraceuticals as an adaptogen and tonic for its benefits in nervous system health. This product is halal-certified. The product contains more than 27.0% and less than 30.0% of saponins as determined by spectrophotometry, and more than 20.0% of total ginsenosides as determined by HPLC.",
+    "company_name": "Indena",
+    "company_slug": "indena",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708696504/production/Company/1265/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708696504/production/Company/1265/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Oral",
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being",
+            "Drug Delivery & Care Solutions"
+        ],
+        "Product Families": [
+            "Plant & Herb Products & Extracts",
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Phytochemicals",
+            "Phytochemicals & Plant Extracts",
+            "Nutrition & Fortification",
+            "Whole Foods, Extracts & Premixes",
+            "Nutraceuticals & Supplements"
+        ],
+        "Ingredient Name": [
+            "Panax Ginseng Extract"
+        ],
+        "End Uses": [
+            "Nutraceuticals"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Panax Ginseng Extract"
+        ],
+        "Active Component": [
+            "Saponins",
+            "Ginsenosides"
+        ],
+        "Functions": [
+            "Phytochemical"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Plant Origin"
+        ],
+        "Labeling Claims": [
+            "Halal",
+            "Naturally Derived",
+            "Plant-Based"
+        ],
+        "Certifications & Compliance": [
+            "Halal"
+        ]
+    }
+}

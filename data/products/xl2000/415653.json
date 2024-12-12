@@ -1,0 +1,36 @@
+{
+    "id": 415653,
+    "brand": "xl2000",
+    "name": "KECO 100C",
+    "slug": "keco-100c",
+    "description": "KECO 100C is a ceramic coating system which provides durability and abrasion resistance with excellent release. This ceramic coating consists of a blend of Teflon® PTFE, FEP, and PFA along with ceramic fillers to make this premium coating. It is able to resist from cryogenic temperatures up to 500°F.",
+    "company_name": "KECO Engineered Coatings",
+    "company_slug": "keco-engineered-coatings",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709127815/production/Brand/32418/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608779/production/CategoryImage/578/category_image/AutomotiveTransportation_06.jpg",
+    "properties": {
+        "Applications": [
+            "Automotive OEM Coatings",
+            "Industrial Coatings",
+            "Coatings & Finishes"
+        ],
+        "Product Families": [
+            "Protective Coatings",
+            "Paints & Coatings"
+        ]
+    },
+    "summary": {
+        "Product Type": [
+            "Coating"
+        ],
+        "Features": [
+            "Solvent Resistance",
+            "Abrasion Resistant",
+            "Good Release Properties",
+            "High Durability"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Ceramic"
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "id": 399267,
+    "brand": "safe-o",
+    "name": "Safe₂O® RTE 03",
+    "slug": "safe-o-rte-03",
+    "description": "Safe₂O® RTE 03 is a food antimicrobial and shelf-life extender. It is formulated for use on various ham products and other Ready-to-Eat (RTE) food products. It is a unique blend of Acidic Calcium Sulfate (ACS), lactic acid and propionic acid. It is a low pH solution available as a concentrate.",
+    "company_name": "Mionix",
+    "company_slug": "mionix",
+    "logo_url": null,
+    "banner_url": "https://media.knowde.com/image/upload/v1625607305/production/CategoryImage/515/category_image/FoodNutrition_15.jpg",
+    "properties": {
+        "Applications": [
+            "Other Food Applications",
+            "Meat, Poultry & Seafood",
+            "Food"
+        ],
+        "Product Families": [
+            "Antioxidants & Preservatives",
+            "Acidulants & Acidity Regulators",
+            "Functional Additives"
+        ],
+        "End Uses": [
+            "Sausage"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Shelf Life Enhancer",
+            "Anti-Microbial Agent",
+            "Acidulant"
+        ],
+        "Physical Form": [
+            "Liquid"
+        ]
+    }
+}

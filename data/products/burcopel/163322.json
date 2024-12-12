@@ -1,0 +1,41 @@
+{
+    "id": 163322,
+    "brand": "burcopel",
+    "name": "BURCO® IMIDAZOLINE T",
+    "slug": "burco-imidazoline-t",
+    "description": "Burco® Imidazoline T is an oleyl and tall oil cyclic cationic surfactants that provide emulsification, corrosion inhibition, thickening, and antistatic properties.  It is compatible with cationic and nonionic surfactants, but not compatible with anionic surfactants.",
+    "company_name": "Burlington Chemical Co",
+    "company_slug": "burlington-chemical-co",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672655/production/Company/1171/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708672655/production/Company/1171/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Laundry & Fabric Care",
+            "Surface Care",
+            "Industrial Cleaning",
+            "Home Care",
+            "Institutional & Industrial Care"
+        ],
+        "Product Families": [
+            "Emulsifiers & Demulsifiers",
+            "Cationic Surfactants",
+            "Soaps & Surfactants",
+            "Cleaning Aids"
+        ],
+        "Chemical Family": [
+            "Imidazolines"
+        ],
+        "End Uses": [
+            "Laundry Detergents"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Surfactant (Cationic)",
+            "Emulsifier"
+        ],
+        "End Uses": [
+            "Laundry Detergents"
+        ]
+    }
+}

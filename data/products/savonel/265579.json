@@ -1,0 +1,63 @@
+{
+    "id": 265579,
+    "brand": "savonel",
+    "name": "Savonel® 871",
+    "slug": "savonel-871",
+    "description": "Savonel® 871 is a sulfate-free surfactant that is mild and gentle. It can directly replace primary surfactants in the formulation of home cleansing products like liquid laundry soap, liquid dishwashing soap and all-purpose cleaner and degreaser.",
+    "company_name": "Chemrez Technologies",
+    "company_slug": "chemrez-technologies",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708683708/production/Brand/18304/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608611/production/CategoryImage/569/category_image/PaintingsCoatings_05.jpg",
+    "properties": {
+        "Applications": [
+            "Laundry & Fabric Care",
+            "Dish Care",
+            "Industrial Cleaning",
+            "Institutional & Catering",
+            "Skin Care",
+            "Home Care",
+            "Institutional & Industrial Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Anionic Surfactants",
+            "Detergents & Degreasers",
+            "Surfactants & Cleansers",
+            "Soaps & Surfactants",
+            "Cleaning Aids"
+        ],
+        "Chemical Family": [
+            "Vegetable Oils"
+        ],
+        "INCI Name": [
+            "Potassium Olivate"
+        ],
+        "End Uses": [
+            "Moisturizers",
+            "Degreasers",
+            "Multipurpose Cleaners",
+            "Liquid Dishwash",
+            "Laundry Detergents"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Potassium Olivate"
+        ],
+        "CAS Number": [
+            "68154-77-8"
+        ],
+        "Functions": [
+            "Cleansing Agent",
+            "Surfactant (Anionic)",
+            "Surfactant",
+            "Degreaser"
+        ],
+        "Chemical Family": [
+            "Vegetable Oils"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin"
+        ]
+    }
+}

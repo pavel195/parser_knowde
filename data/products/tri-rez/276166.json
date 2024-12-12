@@ -1,0 +1,48 @@
+{
+    "id": 276166,
+    "brand": "tri-rez",
+    "name": "DMPA® Polyol HA-0135",
+    "slug": "dmpa-polyol-ha-0135",
+    "description": "DMPA® Polyol HA-0135 is a linear polyester polyol that contains both hydroxyl and acid functionality. The structure of DMPA® Polyol HA-0135 has been specifically designed to achieve maximum hydrolytic stability in water-borne applications. DMPA® Polyol HA-0135 can be used to formulate high solids and NMP free polyurethane dispersions.",
+    "company_name": "GEO Specialty Chemicals Inc",
+    "company_slug": "geo-specialty-chemicals-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1693577380/production/Company/4035/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608693/production/CategoryImage/573/category_image/AutomotiveTransportation_01.jpg",
+    "properties": {
+        "Applications": [
+            "Leather Manufacturing",
+            "Architectural Coatings",
+            "Automotive OEM Coatings",
+            "Other Leather Applications",
+            "Wood Coatings & Finishes",
+            "Industrial Coatings",
+            "Vehicle Refinish",
+            "Other Adhesives & Sealants Applications",
+            "Coatings & Finishes",
+            "Building Envelope",
+            "Leather",
+            "Automotive & Transportation",
+            "Building & Construction",
+            "Building Envelope & Roofing",
+            "Leather & Textiles"
+        ],
+        "Product Families": [
+            "Prepolymers & Polyols",
+            "Monomers & Intermediates"
+        ],
+        "Chemical Family": [
+            "Polyesters",
+            "Polyols"
+        ],
+        "End Uses": [
+            "Waterborne Coating",
+            "2K (2 component) Coating",
+            "Enamel"
+        ]
+    },
+    "summary": {
+        "Hydroxyl Value": [
+            "100.0 - 115.0 mg KOH/g"
+        ]
+    }
+}

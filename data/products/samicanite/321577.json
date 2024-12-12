@@ -1,0 +1,36 @@
+{
+    "id": 321577,
+    "brand": "samicanite",
+    "name": "Vetronite® FR-5 HF CTI 600M",
+    "slug": "vetronite-fr-5-hf-cti-600m",
+    "description": "Vetronite® FR-5 HF CTI 600M is composed of epoxy matrix and glass fabric reinforcement. it appears in Red color with EP GC 204/311 FR-5 Standards.",
+    "company_name": "Von Roll Isola",
+    "company_slug": "von-roll-isola",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708683596/production/Company/30787/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607403/production/CategoryImage/516/category_image/ElectricalElectronics_01.jpg",
+    "properties": {
+        "Applications": [
+            "Jacketing & Insulation",
+            "Other Electrical & Electronics Applications",
+            "Rail & Mass Transit",
+            "Aerospace & Aviation",
+            "Transportation",
+            "Wire & Cable"
+        ],
+        "Product Families": [
+            "Laminates",
+            "Prepregs & Molding Compounds"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Laminate"
+        ],
+        "Reinforcement Material": [
+            "Glass Fibers"
+        ]
+    }
+}

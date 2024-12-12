@@ -1,0 +1,77 @@
+{
+    "id": 324610,
+    "brand": "facilan",
+    "name": "Luvocom® 3F PEEK 9581 Filament",
+    "slug": "luvocom-3f-peek-9581-filament",
+    "description": "Polyether Ether Ketone (PEEK) PEEK is a semicrystalline thermoplastic with excellent mechanical and chemical resistance properties that are retained to high temperatures. PEEK is regarded as one of the highest performing engineering thermoplastics in the world. PEEK is used to fabricate items used in demanding applications in aerospace, automotive, oil and gas and medical industries.",
+    "company_name": "Elogio AM",
+    "company_slug": "elogio-am",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686113192/production/Brand/23179/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608779/production/CategoryImage/578/category_image/AutomotiveTransportation_06.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Parts & Components",
+            "Medical",
+            "Exterior & Body",
+            "Interior",
+            "Other Automotive Applications",
+            "Implants & Prosthetics",
+            "Aerospace & Aviation",
+            "Chemical & Industrial Manufacturing",
+            "Transportation",
+            "Automotive",
+            "Other Parts & Components",
+            "Structural Components",
+            "Pumps, Turbines & Compressors",
+            "Other Industrial Applications",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "3D Printing Polymers",
+            "Thermoplastic Filament"
+        ],
+        "Chemical Family": [
+            "Polyether Ether Ketone (PEEK)"
+        ],
+        "Polymer Name": [
+            "Polyetheretherketone (PEEK)"
+        ],
+        "End Uses": [
+            "Aircraft Applications",
+            "Automotive Applications",
+            "Automotive Exterior Parts",
+            "Automotive Interior Parts",
+            "Pump Parts",
+            "Aerospace Applications",
+            "Body Implants",
+            "Prosthetics",
+            "Machine/Mechanical Parts"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyetheretherketone (PEEK)"
+        ],
+        "Processing Methods": [
+            "Fused Filament Fabrication"
+        ],
+        "End Uses": [
+            "Automotive Interior Parts",
+            "Aerospace Applications",
+            "Prosthetics",
+            "Machine/Mechanical Parts",
+            "Pump Parts",
+            "Automotive Exterior Parts",
+            "Automotive Applications",
+            "Aircraft Applications",
+            "Body Implants"
+        ],
+        "Density": [
+            "1310.0 - 1310.0 kg/m³"
+        ],
+        "Flexural Modulus": [
+            "3400.0 - 3400.0 MPa"
+        ]
+    }
+}

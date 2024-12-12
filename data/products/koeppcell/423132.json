@@ -1,0 +1,53 @@
+{
+    "id": 423132,
+    "brand": "koeppcell",
+    "name": "KoeppCell® K/EV 35",
+    "slug": "koeppcell-k-ev-35",
+    "description": "KoeppCell® K/EV 35 is ethylene vinyl acetate copolymer (EVA). It is closed-cell, soft-elastic EVA foam and chemically crosslinked ethylene vinyl acetate foam.",
+    "company_name": "W KOPP",
+    "company_slug": "w-kopp",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1702444510/production/Brand/33288/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608744/production/CategoryImage/575/category_image/AutomotiveTransportation_03.jpg",
+    "properties": {
+        "Applications": [
+            "Sports & Recreation",
+            "Renewable Energy",
+            "Medical Devices & Assemblies",
+            "Aerospace & Aviation",
+            "Cold-Chain & Insulation",
+            "Other Infrastructure Applications",
+            "Exterior & Body",
+            "Automotive",
+            "Transportation",
+            "Infrastructure, Roads & Paving",
+            "Medical",
+            "Power, Water & Utilities"
+        ],
+        "Product Families": [
+            "Foams"
+        ],
+        "Chemical Family": [
+            "Ethylene Vinyl Acetate (EVA)"
+        ],
+        "End Uses": [
+            "Air Conditioners"
+        ]
+    },
+    "summary": {
+        "Foam Type": [
+            "Closed Cell Foam"
+        ],
+        "Density": [
+            "29.0 - 41.0 kg/m³"
+        ],
+        "Chemical Family": [
+            "Ethylene Vinyl Acetate (EVA)"
+        ],
+        "End Uses": [
+            "Air Conditioners"
+        ],
+        "Physical Form": [
+            "Blocks"
+        ]
+    }
+}

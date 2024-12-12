@@ -1,0 +1,29 @@
+{
+    "id": 351788,
+    "brand": "frau-pharma-neuropeak",
+    "name": "Frau Pharma Spermidine",
+    "slug": "frau-pharma-spermidine",
+    "description": "Frau Pharma Spermidine is a natural compound found in food such as soy products, sunflower, mushrooms, legumes and whole grain. It has a global effect on human health by slowing down the general clock of the aging process and extending longevity.",
+    "company_name": "Frau Pharma",
+    "company_slug": "frau-pharma",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1693575679/production/Company/38029/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607009/production/CategoryImage/509/category_image/FoodNutrition_10.jpg",
+    "properties": {
+        "Applications": [
+            "Early Life Nutrition",
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Nutraceuticals",
+            "Dietary Supplements"
+        ]
+    },
+    "summary": {}
+}

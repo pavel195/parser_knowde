@@ -1,0 +1,78 @@
+{
+    "id": 91373,
+    "brand": "earthoil",
+    "name": "Earthoil™ Marula Oil",
+    "slug": "earthoil-marula-oil",
+    "description": "Earthoil™ Marula Oil by Earthoil Plantations is comprised of Sclerocarya Birrea Seed Oil. It is commonly used It is a Plant Origin product. It is a Organic and Natural Origin Key benefits in use include: Creamy texture, Emolliency, Moisturizing, Penetrating, Rapid absorption and Rich feel. Earthoil™ Marula Oil is certified as USDA BioPreferred. Approved for use in IECIC Listed (China) and EC Cosing Listed (Europa).",
+    "company_name": "Earthoil Plantations",
+    "company_slug": "earthoil-plantations",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708690524/production/Company/1205/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708690524/production/Company/1205/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Baby Care",
+            "Bath & Shower",
+            "Color Cosmetics",
+            "Hair Care",
+            "Skin Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Fixed & Carrier Oils",
+            "Conditioners & Emollients",
+            "Vitamins, Extracts & Oils",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Sclerocarya Birrea Seed Oil"
+        ],
+        "End Uses": [
+            "Body Wash",
+            "Body Cream",
+            "Body Oil",
+            "Concealer",
+            "Beard Oil",
+            "Baby Lotion",
+            "Anti-Aging Products",
+            "Eyebrow Enhancers",
+            "Eye Liner",
+            "Facial Moisturizer",
+            "Shampoos & Rinses"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Sclerocarya Birrea Seed Oil"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Plant Origin"
+        ],
+        "Functions": [
+            "Emollient",
+            "Conditioner",
+            "Moisturizing Agent"
+        ],
+        "Labeling Claims": [
+            "Credo Clean Standard",
+            "Clean at Sephora",
+            "Naturally Derived",
+            "Natural",
+            "Organic",
+            "Ulta Beauty's Conscious Beauty"
+        ],
+        "Certifications & Compliance": [
+            "CosIng Listed",
+            "IECIC (China)",
+            "USDA BioPreferred"
+        ],
+        "Benefit Claims": [
+            "Creamy Texture",
+            "Moisturizing",
+            "Rapid Absorption",
+            "Rich Feel",
+            "Penetrating",
+            "Emolliency"
+        ]
+    }
+}

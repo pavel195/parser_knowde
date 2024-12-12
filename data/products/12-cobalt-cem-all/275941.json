@@ -1,0 +1,44 @@
+{
+    "id": 275941,
+    "brand": "12-cobalt-cem-all",
+    "name": "Borchi® Gol 0011",
+    "slug": "borchi-gol-0011",
+    "description": "Borchi® Gol 0011 is a highly effective flow and air release agent for solvent-based and solvent-free coatings systems. With its 100% active formulation, it is able to improve the flow and surface properties of coatings while eliminating air bubbles that may form during application. This versatile product is compatible with all types of coating application methods and helps reduce pigment floating, ensuring a smooth and flawless finish.",
+    "company_name": "Borchers: A Milliken Brand",
+    "company_slug": "borchers",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1715601606/production/Brand/18991/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608611/production/CategoryImage/569/category_image/PaintingsCoatings_05.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial Coatings",
+            "Floor Coatings",
+            "Pipes & Plumbing",
+            "Building Materials",
+            "Flooring & Surfaces",
+            "Building & Construction"
+        ],
+        "Product Families": [
+            "Foam Control",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Polysiloxanes"
+        ],
+        "End Uses": [
+            "Solventborne Coating",
+            "Solventless & High Solids Coating"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Defoamer"
+        ],
+        "Chemical Family": [
+            "Polysiloxanes"
+        ],
+        "End Uses": [
+            "Solventborne Coating",
+            "Solventless & High Solids Coating"
+        ]
+    }
+}

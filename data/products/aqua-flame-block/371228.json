@@ -1,0 +1,38 @@
+{
+    "id": 371228,
+    "brand": "aqua-flame-block",
+    "name": "Aqualene® 5050",
+    "slug": "aqualene-5050",
+    "description": "Aqualene® 5050 is used for Economical OGR coating for paper, board and product packaging Repulpable with excellent resistance to oil, grease and moisture. It produces a clear, smooth coating for a wide range of demanding paper packaging applications including dry food, dairy, bakery, powder, meat, ice cream, and frozen food. It is FDA compliant for direct food contact.",
+    "company_name": "Aqua Based Technologies",
+    "company_slug": "aqua-based-technologies",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709127583/production/Brand/27693/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608982/production/CategoryImage/589/category_image/AdhesivesSealants_06.jpg",
+    "properties": {
+        "Applications": [
+            "Other Packaging Coatings",
+            "Packaging Coatings"
+        ],
+        "Product Families": [
+            "Protective Coatings",
+            "Paints & Coatings"
+        ]
+    },
+    "summary": {
+        "Product Type": [
+            "Waterborne Coating"
+        ],
+        "Features": [
+            "Oil Resistant",
+            "Moisture Resistant",
+            "Grease Resistant"
+        ],
+        "Application Method": [
+            "Flexography",
+            "Air Knife Coating",
+            "Rod Coating",
+            "Roll Coater",
+            "Gravure Coating"
+        ]
+    }
+}

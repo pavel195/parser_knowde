@@ -1,0 +1,42 @@
+{
+    "id": 312398,
+    "brand": "tytan",
+    "name": "TYTAN™ AP110",
+    "slug": "tytan-ap110",
+    "description": "TYTAN™ AP110 is suitable for solvent based flexographic and gravure inks. It is for viscosity stability.",
+    "company_name": "Borica",
+    "company_slug": "borica",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708686891/production/Product/312398/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609057/production/CategoryImage/591/category_image/PrintingPackaging_02.jpg",
+    "properties": {
+        "Applications": [
+            "Other Printing Applications",
+            "Gravure Printing",
+            "Flexography",
+            "Printing & Inks"
+        ],
+        "Product Families": [
+            "Functional Additives",
+            "Additives"
+        ],
+        "End Uses": [
+            "Solventborne Ink"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Adhesion Promoter",
+            "Coupling Agent"
+        ],
+        "End Uses": [
+            "Solventborne Ink"
+        ],
+        "Features": [
+            "Solvent Resistance",
+            "Viscosity Stability",
+            "Improves Adhesion",
+            "Abrasion Resistance",
+            "Chemical Resistance"
+        ]
+    }
+}

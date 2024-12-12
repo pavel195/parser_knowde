@@ -1,0 +1,70 @@
+{
+    "id": 390280,
+    "brand": "vegalan",
+    "name": "Henry Lamotte Oils GmbH Sunflower Wax",
+    "slug": "henry-lamotte-oils-gmbh-sunflower-wax",
+    "description": "After pressing the seeds to produce Sunflower Oil, the Sunflower Wax is obtained by fractionation.",
+    "company_name": "Henry Lamotte Oils GmbH",
+    "company_slug": "henry-lamotte-oils-gmbh",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672787/production/Company/1251/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708672787/production/Product/390280/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Bath & Shower",
+            "Sun Care",
+            "Color Cosmetics",
+            "Hair Care",
+            "Skin Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Fats, Butters & Waxes",
+            "Rheology Modifiers",
+            "Functionals"
+        ],
+        "Chemical Family": [
+            "Natural Waxes"
+        ],
+        "INCI Name": [
+            "Helianthus Annuus (Sunflower) Seed Wax"
+        ],
+        "End Uses": [
+            "Sunscreen Cream",
+            "Massage Products",
+            "Hair Tonic",
+            "Hair Conditioner",
+            "Shampoos & Rinses",
+            "Lipstick"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Helianthus Annuus (Sunflower) Seed Wax"
+        ],
+        "Functions": [
+            "Viscosity Modifier",
+            "Gel Former"
+        ],
+        "Benefit Claims": [
+            "Texturizing",
+            "Film Forming",
+            "Non-Greasy Feel",
+            "Binding",
+            "Stabilizing",
+            "Good Gelling Properties",
+            "Firm Texture",
+            "Suppleness",
+            "Viscosity Boosting",
+            "Skin Protection"
+        ],
+        "Labeling Claims": [
+            "Vegan",
+            "Clean at Sephora",
+            "Credo Clean Standard",
+            "Ulta Beauty's Conscious Beauty"
+        ],
+        "Certifications & Compliance": [
+            "GMP"
+        ]
+    }
+}

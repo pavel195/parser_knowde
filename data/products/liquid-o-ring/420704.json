@@ -1,0 +1,49 @@
+{
+    "id": 420704,
+    "brand": "liquid-o-ring",
+    "name": "Liquid-O-Ring® 3602",
+    "slug": "liquid-o-ring-3602",
+    "description": "Liquid-O-Ring® 3602 is a sulfonated oil that provides fast cooling and cutting capabilities and meets a wide range of anti-weld and lubrication requirements. 3602 Premium Heavy-Duty Cutting Oil provides excellent cooling of cutting tools, thus reducing heat generation and extending tool life. 3602 Premium Heavy-Duty Cutting Oil contains a combination of additives to provide moderate to severe service for fast and smooth metal removal, better surface finish, consistency, and long tool life. 3602 Premium Heavy-Duty Cutting Oil prevents rust, corrosion, and oxidation to finished metal surfaces. The excellent defoaming agents reduce loss of coolant.",
+    "company_name": "Oil Center Research",
+    "company_slug": "oil-center-research",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680108895/production/Brand/33034/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical & Industrial Manufacturing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Metalworking Fluids",
+            "Fluids & Lubricants"
+        ]
+    },
+    "summary": {
+        "Application Area": [
+            "Boring Applications",
+            "Cutting Tools",
+            "Turning Operations",
+            "Broaching Applications",
+            "Drilling Applications",
+            "Milling Operations",
+            "Threading Operations",
+            "Grinding Applications",
+            "Tapping Operations",
+            "Reaming"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal"
+        ],
+        "Features": [
+            "Good Surface Finish",
+            "Corrosion Resistant",
+            "Heavy Duty",
+            "Service Life Extension",
+            "Oxidation Resistant",
+            "Anti-Weld",
+            "Lot-to-lot consistency",
+            "Quick Cooling",
+            "Low Heat Generation"
+        ]
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "id": 255304,
+    "brand": "essence",
+    "name": "Helena Agri-Enterprises Kinetic - Nonionic Surfactant and Silicone Surfactant Blend",
+    "slug": "helena-agri-enterprises-kinetic-nonionic-surfactant-and-silicone-surfactant-blend",
+    "description": "Kinetic is a unique nonionic organosilicone-based wetter/spreader/penetrant spray adjuvant. It is designed to provide rapid spreading and absorption of pesticide and nutrient sprays into plant leaves and stems. Because of its unique abilities, Kinetic can be used at much lower rates than conventional surfactants.",
+    "company_name": "Helena Agri-Enterprises",
+    "company_slug": "helena-agri-enterprises",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708673240/production/Company/19288/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708673240/production/Company/19288/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Turf Management",
+            "Trees & Woodlands",
+            "Other Turf, Ornamental & Landscape Applications",
+            "Ornamentals",
+            "Industrial Weed & Vegetation Control",
+            "Residential Pest Control",
+            "Commercial Pest Control",
+            "Agricultural Pest Control",
+            "Vegetables",
+            "Sugar & Starch Crops",
+            "Other Agricultural Crops",
+            "Oilseeds",
+            "Nuts",
+            "Legumes",
+            "Herbs & Spice Crops",
+            "Fruits",
+            "Fodder & Forage",
+            "Fiber Crops",
+            "Cereals",
+            "Agricultural Crops",
+            "Pest Control",
+            "Turf, Ornamentals & Landscape"
+        ],
+        "Product Families": [
+            "Stickers, Surfactants & Wetting Agents",
+            "Adjuvants & Formulation Ingredients"
+        ],
+        "Chemical Family": [
+            "Silicon-based Compounds",
+            "Blends & Combinations"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Surfactant",
+            "Surfactant (Nonionic)",
+            "Wetting Agent"
+        ],
+        "Chemical Family": [
+            "Silicon-based Compounds",
+            "Blends & Combinations"
+        ],
+        "Labeling Claims": [
+            "Organic"
+        ]
+    }
+}

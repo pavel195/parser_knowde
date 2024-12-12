@@ -1,0 +1,44 @@
+{
+    "id": 297895,
+    "brand": "kafrit",
+    "name": "CONSTAB SAB 06509 LD",
+    "slug": "kafrit-group-sab-06509-ld",
+    "description": "CONSTAB SAB 06509 LD features a product composed of 5% highly purified erucamide slip additive and 5% synthetic silica. This formulation serves as both an anti-blocking agent and a slip agent, catering to the packaging sector, including food and beverage packaging and industrial and transport packaging.",
+    "company_name": "Kafrit Group",
+    "company_slug": "kafrit-group",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708685850/production/Brand/33249/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625605472/production/CategoryImage/448/category_image/Plastics_07.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial & Transport Packaging",
+            "Food & Beverage Packaging",
+            "Packaging"
+        ],
+        "Product Families": [
+            "Performance Additives",
+            "Additive Masterbatches",
+            "Masterbatches",
+            "Polymer Additives"
+        ],
+        "Chemical Family": [
+            "Silica"
+        ],
+        "End Uses": [
+            "Food Packaging",
+            "Film",
+            "Cast Films"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Slip Agent"
+        ],
+        "Carrier": [
+            "Resin-based",
+            "Polyethylenes (PE)"
+        ],
+        "Synonyms": [
+            "cis-13-Docosenamide, Erucamide, Erucic acid amide, Erucic amide, Erucoyl amide, Erucyl amide"
+        ]
+    }
+}

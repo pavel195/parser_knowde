@@ -1,0 +1,59 @@
+{
+    "id": 380394,
+    "brand": "formamid",
+    "name": "Formac Formamid 6 Fibre Glass 30% Natural",
+    "slug": "formac-formamid-6-fibre-glass-30-natural",
+    "description": "Formac Formamid 6 Fiber Glass 30% Natural is used for automotive &amp; farming mechanics, consumer goods and industrial applications. It has good stiffness, wear resistance, toughness and good surface. It is an injection molding grade.",
+    "company_name": "Formac",
+    "company_slug": "formac",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708521826/production/Brand/28662/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608730/production/CategoryImage/574/category_image/AutomotiveTransportation_02.jpg",
+    "properties": {
+        "Applications": [
+            "Sports & Recreation",
+            "Powertrain & UTH",
+            "Interior",
+            "Equipment & Parts",
+            "Other Automotive Applications",
+            "Other Consumer Goods Applications",
+            "Lawn & Garden",
+            "Appliances & Electronics",
+            "Automotive",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Polyamides",
+            "Engineering & Specialty Polymers"
+        ],
+        "Chemical Family": [
+            "Polyamides"
+        ],
+        "Polymer Name": [
+            "Polyamide 6 (PA 6)"
+        ],
+        "End Uses": [
+            "Sporting Goods",
+            "Automotive Under The Hood",
+            "Automotive Interior Parts",
+            "Windows",
+            "Doors",
+            "Industrial Parts",
+            "Consumer Applications",
+            "Automotive Applications"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyamide 6 (PA 6)"
+        ],
+        "Processing Methods": [
+            "Injection Molding"
+        ],
+        "Fillers Included": [
+            "Glass Fiber"
+        ],
+        "Flexural Modulus": [
+            "8500.0 - 8500.0 MPa"
+        ]
+    }
+}

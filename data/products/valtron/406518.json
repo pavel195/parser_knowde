@@ -1,0 +1,58 @@
+{
+    "id": 406518,
+    "brand": "valtron",
+    "name": "Valtron® MD6100",
+    "slug": "valtron-md6100",
+    "description": "Valtron® MD6100 is a High-purity acidic detergent with a unique blend of surfactants.",
+    "company_name": "Valtech Corporation",
+    "company_slug": "valtech-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292163/production/Brand/31323/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608962/production/CategoryImage/587/category_image/AdhesivesSealants_04.jpg",
+    "properties": {
+        "Applications": [
+            "Surface Care",
+            "Commercial Laundry",
+            "Industrial Cleaning",
+            "Institutional & Industrial Care",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Medical Grade Cleaners",
+            "Industrial Cleaners",
+            "Commercial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Detergents",
+            "Cleaner"
+        ],
+        "Certifications & Compliance": [
+            "REACH (Europe)",
+            "ISO 9001"
+        ],
+        "Application Areas": [
+            "Equipment",
+            "Immersion Cleaner",
+            "Precision Cleaner",
+            "Ultrasonic Cleaner"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Plastics",
+            "Glass",
+            "Iron",
+            "Metal",
+            "Ceramic",
+            "Aluminum",
+            "Stainless Steel"
+        ],
+        "Features": [
+            "High Purity",
+            "Excellent Rinsability",
+            "Effective Soil Removal",
+            "Removes Hydrocarbon",
+            "Low Foaming"
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "id": 299880,
+    "brand": "panatura",
+    "name": "Panatura dark",
+    "slug": "panatura-dark",
+    "description": "Panatura dark is a ready-to-use natural wheat pre-dough that revives the traditional art of baking. It is made with the best raw materials and naturally fermented over several days using a globally patented process. The result is bread and baked goods of the highest quality, produced efficiently and without baking agents. Panatura dark can be used with all working methods, over systems (direct or long dough flow) and over cold or deep-freeze storage.",
+    "company_name": "Hefe Schweiz AG",
+    "company_slug": "hefe-schweiz-ag",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686634779/production/Company/23720/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607305/production/CategoryImage/515/category_image/FoodNutrition_15.jpg",
+    "properties": {
+        "Applications": [
+            "Food",
+            "Bakery"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Food Premixes"
+        ],
+        "End Uses": [
+            "Bread"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Dough"
+        ],
+        "Physical Form": [
+            "Solid",
+            "Powder"
+        ],
+        "Labeling Claims": [
+            "Plant-Based",
+            "Naturally Derived",
+            "Natural"
+        ]
+    }
+}

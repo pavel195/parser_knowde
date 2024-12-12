@@ -1,0 +1,33 @@
+{
+    "id": 301211,
+    "brand": "nancar",
+    "name": "Nancar® NBR 1052M30",
+    "slug": "nancar-nbr-1052m30",
+    "description": "Nancar® NBR 1052M30 is a medium high acrylonitrile butadiene copolymer with good oil resistance. It is a low Mooney version of NANCAR® 1052. The low Mooney provides optimum processing property in highly filled or reinforced compounds..",
+    "company_name": "Nantex Industry",
+    "company_slug": "nantex-industry",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691738922/production/Company/24268/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Textile Manufacturing",
+            "Other Textile Applications",
+            "Other Industrial Applications",
+            "Footwear",
+            "Textiles & Nonwovens",
+            "Leather & Textiles",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Nitrile Rubbers",
+            "Specialty Elastomers"
+        ],
+        "Chemical Family": [
+            "Nitrile Rubbers"
+        ],
+        "Polymer Name": [
+            "Acrylonitrile Butadiene Rubber (NBR)"
+        ]
+    },
+    "summary": {}
+}

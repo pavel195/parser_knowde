@@ -1,0 +1,63 @@
+{
+    "id": 90787,
+    "brand": "specialty-wax",
+    "name": "Calumet Regent White Petrolatum USP",
+    "slug": "calumet-specialty-products-partners-l-p-regent-white-pet-usp",
+    "description": "Calumet Regent White Petrolatum USP is comprised of Petrolatum. It is commonly used",
+    "company_name": "Calumet",
+    "company_slug": "calumet-specialty-products-partners-l-p",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709127520/production/Product/90787/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1709127520/production/Company/1173/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Food & Beverage Packaging",
+            "Other Food Applications",
+            "Feed Production & Processing",
+            "Dental",
+            "Rectal",
+            "Topical",
+            "Animal Health & Nutrition",
+            "Food",
+            "Processing & Packaging",
+            "Drug Delivery & Care Solutions",
+            "Medical",
+            "Packaging"
+        ],
+        "Product Families": [
+            "Feed Supplements",
+            "Other Functional Additives",
+            "Other Excipients",
+            "Functional Additives",
+            "Excipients",
+            "Nutritional Ingredients"
+        ],
+        "End Uses": [
+            "Packaging Coatings",
+            "Food Coatings"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Petrolatum"
+        ],
+        "Chemical Name": [
+            "Petrolatum"
+        ],
+        "Functions": [
+            "Food Coating",
+            "Ointment Base",
+            "Supplement"
+        ],
+        "CAS Number": [
+            "8009-03-8"
+        ],
+        "Dosage Form": [
+            "Ointments",
+            "Creams",
+            "Suppositories"
+        ],
+        "Synonyms": [
+            "Rod Oil, Rod Wax, Soft Paraffin, White Petrolatum, Petrolatum"
+        ]
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "id": 356370,
+    "brand": "colorado",
+    "name": "ATECH® 2000R",
+    "slug": "atech-2000r",
+    "description": "ATECH® 2000R is a series of sheets based on regrinded ABS-material which is a material with very high impact strength. ABS also has impressive thermal qualities and is easy to thermoform and fabricate. The ATECH® 2000R is an ABS with a semi-gloss surface that thermoforms quickly and effectively.",
+    "company_name": "Arla Plast A B",
+    "company_slug": "arla-plast-a-b",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686149903/production/Brand/26530/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608769/production/CategoryImage/577/category_image/AutomotiveTransportation_05.jpg",
+    "properties": {
+        "Applications": [
+            "Packaging",
+            "Industrial & Transport Packaging",
+            "Chemical & Industrial Manufacturing",
+            "Other Industrial Applications"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Acrylonitrile Butadiene Styrene (ABS)",
+            "Styrenics"
+        ],
+        "Polymer Name": [
+            "Acrylonitrile Butadiene Styrene (ABS)"
+        ],
+        "End Uses": [
+            "Thermoformed Cups",
+            "Front Spoiler",
+            "Side Spoiler",
+            "Thermoformed Trays",
+            "Trays",
+            "Stretch Films"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Acrylonitrile Butadiene Styrene (ABS)"
+        ],
+        "Physical Form": [
+            "Sheets"
+        ],
+        "Features": [
+            "Good Thermal Stability",
+            "Cost Effective",
+            "Good Surface Gloss",
+            "UV Stabilized",
+            "Excellent Opacity",
+            "Good Weather Stability",
+            "Good Impact Strength"
+        ],
+        "Density": [
+            "1060.0 - 1060.0 kg/m³"
+        ],
+        "Tensile Modulus": [
+            "2200.0 - 2200.0 MPa"
+        ]
+    }
+}

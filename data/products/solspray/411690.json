@@ -1,0 +1,43 @@
+{
+    "id": 411690,
+    "brand": "solspray",
+    "name": "SOLBOND PC",
+    "slug": "solbond-pc",
+    "description": "SOLBOND PC are cationic cook-up starches based on potato.The Solbond products are used as wet-end starches in the paper production. Solam wet-end starches improve the strength and printing characteristics of the ready paper and also contribute to improved retention, dewatering and runability at the paper machine.",
+    "company_name": "Solam",
+    "company_slug": "solam",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708687530/production/Brand/32094/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Pulping & Processing",
+            "Paper & Pulp"
+        ],
+        "Product Families": [
+            "Finishing Additives & Treatments",
+            "Paper & Pulp Chemicals"
+        ],
+        "Chemical Family": [
+            "Cationics",
+            "Starches"
+        ],
+        "End Uses": [
+            "Paper & Pulp"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Starches",
+            "Cationics"
+        ],
+        "Functions": [
+            "Wet Strength Additive"
+        ],
+        "End Uses": [
+            "Paper & Pulp"
+        ],
+        "Features": [
+            "High Strength"
+        ]
+    }
+}

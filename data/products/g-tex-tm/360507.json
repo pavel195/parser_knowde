@@ -1,0 +1,54 @@
+{
+    "id": 360507,
+    "brand": "g-tex-tm",
+    "name": "G-TEX TM 1200",
+    "slug": "g-tex-tm-1200",
+    "description": "G-TEX TM 1200 is Nonwoven fabric made from recycled carbon fiber and mixed with thermoplastic fibers. 1200 denotes the fabric width in mm.",
+    "company_name": "GEN 2 CARBON",
+    "company_slug": "gen-2-carbon",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686149322/production/Brand/26926/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608730/production/CategoryImage/574/category_image/AutomotiveTransportation_02.jpg",
+    "properties": {
+        "Applications": [
+            "Exterior & Body",
+            "Interior",
+            "Other Automotive Applications",
+            "Rail & Mass Transit",
+            "Other Devices & Assemblies",
+            "Aerospace & Aviation",
+            "Devices & Assemblies",
+            "Transportation",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Reinforcements",
+            "Hybrid Reinforcements"
+        ]
+    },
+    "summary": {
+        "Reinforcement Material": [
+            "Carbon Fibers"
+        ],
+        "Reinforcement Form": [
+            "Mat"
+        ],
+        "Compatible Polymers & Resins": [
+            "Polyphenylene Sulfide (PPS)",
+            "Polyamide 6 (PA 6)",
+            "Polyethylene Terephthalate (PET)",
+            "Polyamide 66 (PA 66)",
+            "Polypropylenes (PP)",
+            "Polycarbonates (PC)"
+        ],
+        "Processing Methods": [
+            "Compression Molding"
+        ],
+        "Features": [
+            "Good Surface Finish",
+            "Autoclaved",
+            "Fast Molding Cycle",
+            "High Modulus",
+            "Excellent Formability"
+        ]
+    }
+}

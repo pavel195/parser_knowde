@@ -1,0 +1,41 @@
+{
+    "id": 388739,
+    "brand": "ento",
+    "name": "Ento Oil",
+    "slug": "ento-oil",
+    "description": "Entomologic oil is extracted by pressing our larvae and constitute a very interesting source of medium chain fatty acids including lauric acid, a fatty acid known for its anti-microbial properties.",
+    "company_name": "Entosystem",
+    "company_slug": "entosystem",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,c_crop,x_256,y_256,w_568,h_568/v1723754388/production/Brand/33240/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,c_crop,x_343,y_424,w_799,h_250,a_90/v1723754388/production/Product/388739/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Swine",
+            "Pets",
+            "Birds & Poultry",
+            "Aquaculture",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Fats & Oils",
+            "Nutritional Ingredients"
+        ],
+        "Ingredient Name": [
+            "Black Soldier Fly Larvae Oil"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Black Soldier Fly Larvae Oil"
+        ],
+        "Functions": [
+            "Fat & Oil"
+        ],
+        "Features": [
+            "Rich in Lauric Acid"
+        ],
+        "Labeling Claims": [
+            "Sustainable"
+        ]
+    }
+}

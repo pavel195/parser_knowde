@@ -1,0 +1,31 @@
+{
+    "id": 369903,
+    "brand": "daido-chemical-corporation-vinysol",
+    "name": "Vinylsol 1008",
+    "slug": "vinylsol-1008",
+    "description": "Vinylsol 1008 is an emulsion (polymer microparticles) obtained by the emulsion polymerization of monomers such as acrylic ester and vinyl acetate. Monomers can be selected to control glass transition temperature (Tg) to a desired level whereby allowing the use of VINYSOL in a variety of applications such as pressure-sensitive adhesives, paint and ink binders, and textile hard finishes.",
+    "company_name": "DAIDO CHEMICAL CORPORATION",
+    "company_slug": "daido-chemical-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112426/production/Brand/27533/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Flooring & Surfaces",
+            "Wallcovering & Decorative Laminates",
+            "Decorative Materials & Finishes",
+            "Wallcoverings & Decorative Laminates"
+        ],
+        "Product Families": [
+            "Resins & Binders",
+            "Acrylics"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    }
+}

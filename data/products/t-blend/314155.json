@@ -1,0 +1,39 @@
+{
+    "id": 314155,
+    "brand": "t-blend",
+    "name": "VECTOR® 8101",
+    "slug": "vector-8101",
+    "description": "Vector® 8101 is a solution polymerization , styrene ethylene/butylene block copolymer.",
+    "company_name": "TSRC corporation",
+    "company_slug": "tsrc-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686113228/production/Product/314155/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608769/production/CategoryImage/577/category_image/AutomotiveTransportation_05.jpg",
+    "properties": {
+        "Applications": [
+            "Medical",
+            "Other Medical Applications",
+            "Other Printing & Packaging Applications",
+            "Packaging",
+            "Other Packaging Materials"
+        ],
+        "Product Families": [
+            "Thermoplastic Elastomers",
+            "Styrenic Thermoplastic Elastomers (TPE-S)"
+        ],
+        "Polymer Name": [
+            "Styrene Ethylene Butylene Styrene (SEBS)"
+        ],
+        "End Uses": [
+            "Flexible Packaging",
+            "Film"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Styrene Ethylene Butylene Styrene (SEBS)"
+        ],
+        "Processing Methods": [
+            "Compounding"
+        ]
+    }
+}

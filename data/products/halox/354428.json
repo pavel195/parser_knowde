@@ -1,0 +1,78 @@
+{
+    "id": 354428,
+    "brand": "halox",
+    "name": "HALOX® Z-PLEX® 111",
+    "slug": "icl-phosphate-specialty-halox-halox-z-plex-111",
+    "description": "HALOX® Z-PLEX 111 is a corrosion-inhibiting pigment used in protective coating systems that is highly versatile and more cost-effective than commercial zinc phosphate. HALOX® Z-PLEX 111 can provide a higher level of corrosion protection than commercial zinc phosphate when used as an equal-weight replacement.",
+    "company_name": "ICL Phosphate Specialty - HALOX®",
+    "company_slug": "icl-halox",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1710309324/production/Company/36458/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1710309324/production/Brand/26401/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Rail & Mass Transit",
+            "Rail & Mass Transit Coatings",
+            "Vehicle Refinish",
+            "Automotive OEM Coatings",
+            "Industrial Maintenance",
+            "Agricultural & Construction Equipment",
+            "Industrial Coatings",
+            "Coatings & Finishes",
+            "Transportation",
+            "Automotive & Transportation"
+        ],
+        "Product Families": [
+            "Corrosion Inhibiting Pigments",
+            "Functional Pigments",
+            "Functional Additives",
+            "Additives",
+            "Pigments & Colorants"
+        ],
+        "Chemical Family": [
+            "Phosphates",
+            "Zinc & Zinc Compounds"
+        ],
+        "End Uses": [
+            "Primer",
+            "Latex",
+            "Waterborne Coating",
+            "Solventless & High Solids Coating",
+            "Solventborne Coating",
+            "2K (2 component) Coating"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Corrosion Inhibitor",
+            "Pigment"
+        ],
+        "Chemical Family": [
+            "Phosphates",
+            "Zinc & Zinc Compounds"
+        ],
+        "End Uses": [
+            "Waterborne Coating",
+            "Solventborne Coating",
+            "Solventless & High Solids Coating",
+            "2K (2 component) Coating",
+            "Latex",
+            "Primer"
+        ],
+        "Compatible Polymers & Resins": [
+            "Polyvinylidene Chloride (PVDC)",
+            "Acrylics",
+            "Epoxy Esters",
+            "Alkyds (Short Oil)",
+            "Polyesters",
+            "Epoxies (EP)",
+            "Alkyds (Medium Oil)",
+            "Alkyds (Long Oil)",
+            "Alkyds"
+        ],
+        "Features": [
+            "Corrosion Resistance",
+            "High Performance",
+            "Cost Effective"
+        ]
+    }
+}

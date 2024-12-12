@@ -1,0 +1,50 @@
+{
+    "id": 317293,
+    "brand": "graxy",
+    "name": "Graxy™ 501",
+    "slug": "topsen-technology-graxy-501",
+    "description": "Graxy™ 501 is a type of low molecular weight solid modified epoxy resin polymerized by graphene, epoxy resin and other ingredients. It is designed for use in the production of low zinc content (40%) anti-corrosive primers..",
+    "company_name": "Topsen Technology",
+    "company_slug": "topsen-technology",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112568/production/Product/317293/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608566/production/CategoryImage/566/category_image/PaintingsCoatings_02.jpg",
+    "properties": {
+        "Applications": [
+            "Packaging Coatings",
+            "Primers & Lacquers",
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Resins & Binders",
+            "Epoxies"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ],
+        "End Uses": [
+            "Solventborne Coating",
+            "Primer"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ],
+        "End Uses": [
+            "Solventborne Coating",
+            "Primer"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Steel"
+        ],
+        "Features": [
+            "Salt Spray Resistance",
+            "Excellent Adhesion",
+            "Corrosion Resistance",
+            "High Performance",
+            "Low VOC",
+            "Good Compatibility"
+        ]
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "id": 351119,
+    "brand": "carotex",
+    "name": "EnXtra™",
+    "slug": "josh-naturals-gmbh-enxtra",
+    "description": "EnXtra™ is extracted from rhizomes of Alpinia galanga grown in pollution free hilly terrain. EnXtra™ can either replace caffeine, providing a non-caffeinated mental energy boost or it can accompany caffeine to Amplify Caffeine benefits and reduce caffeine induced crash. EnXtra™ is fully water soluble with mild taste and lovely tea color.",
+    "company_name": "Josh Naturals GmbH",
+    "company_slug": "josh-naturals-gmbh",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686104630/production/Brand/26193/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607009/production/CategoryImage/509/category_image/FoodNutrition_10.jpg",
+    "properties": {
+        "Applications": [
+            "Beverage",
+            "Food",
+            "Nutrition & Well Being",
+            "Cereals & Snacks",
+            "Confectionery",
+            "Functional Foods",
+            "Sports Nutrition",
+            "Sports Drinks",
+            "Juice & Juice Drinks"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Plant & Herb Products & Extracts"
+        ],
+        "End Uses": [
+            "Sports Drinks",
+            "Gummies",
+            "Sports Nutrition",
+            "Snacks",
+            "Fruit Juice",
+            "Chewing Gum",
+            "Energy Bars"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Alpinia Galanga Extract"
+        ],
+        "Features": [
+            "Improved Cognitive Function"
+        ]
+    }
+}

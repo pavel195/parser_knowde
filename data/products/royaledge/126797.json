@@ -1,0 +1,59 @@
+{
+    "id": 126797,
+    "brand": "royaledge",
+    "name": "Royalene® 677",
+    "slug": "royalene-677",
+    "description": "A Highly Extendable ENB Polymer with Heavy Hydrotreated Paraffinic Oil for TPO/TPV and Thermoset Applications",
+    "company_name": "Lion Elastomers",
+    "company_slug": "lion-elastomers",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709127310/production/Company/2806/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1709127310/production/Company/2806/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Interior",
+            "Equipment & Parts",
+            "Belts & Conveyers",
+            "Powertrain & UTH",
+            "Exterior & Body",
+            "Chassis & Brake",
+            "Automotive",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "EP Rubbers (EPDM)",
+            "Thermoset Elastomers"
+        ],
+        "Chemical Family": [
+            "Ethylene-Propylene Copolymers (EPR)",
+            "Polyolefins"
+        ],
+        "Polymer Name": [
+            "Ethylene Propylene Diene Terpolymer (EPDM)"
+        ],
+        "End Uses": [
+            "Seals",
+            "Radiator Seals",
+            "Gaskets",
+            "Automotive Under The Hood",
+            "Automotive Interior Trim",
+            "Automotive Interior Parts",
+            "Automotive Exterior Parts",
+            "Belts/Belt Repair",
+            "Conveyor Parts",
+            "Automotive Applications",
+            "Thermoforming Applications",
+            "Machine/Mechanical Parts",
+            "Tubing",
+            "Hoses"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Ethylene Propylene Diene Terpolymer (EPDM)"
+        ],
+        "Processing Methods": [
+            "Extrusion",
+            "Profile Extrusion"
+        ]
+    }
+}

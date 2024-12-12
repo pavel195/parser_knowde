@@ -1,0 +1,62 @@
+{
+    "id": 332309,
+    "brand": "cran-d-or",
+    "name": "Artemis International Elderberry Juice Concentrate (65° Brix)",
+    "slug": "artemis-international-elderberry-juice-concentrate-65-brix",
+    "description": "Elderberry Juice Concentrate (65° Brix) is a Pure elderberry (Sambucus nigra) fruit concentrate.",
+    "company_name": "Artemis International",
+    "company_slug": "artemis-international",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686104182/production/Company/32513/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606846/production/CategoryImage/500/category_image/FoodNutrition_01.jpg",
+    "properties": {
+        "Applications": [
+            "Beverage",
+            "Nutrition & Well Being",
+            "Functional Foods",
+            "Nutraceuticals & Supplements",
+            "Other Non-Alcoholic Beverages",
+            "Powdered Beverages"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Fruit Products & Extracts"
+        ],
+        "End Uses": [
+            "Beverage Mixes",
+            "Dietary Supplements",
+            "Tablets"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Elderberry Extract"
+        ],
+        "Physical Form": [
+            "Liquid"
+        ],
+        "Labeling Claims": [
+            "BSE-free",
+            "TSE-free",
+            "Vegan",
+            "Plant-Based",
+            "Allergen-free",
+            "Non-GMO",
+            "Kosher",
+            "Gluten-free",
+            "Naturally Derived"
+        ],
+        "Certifications & Compliance": [
+            "Kosher"
+        ],
+        "Features": [
+            "Healthy Ageing",
+            "Anti-Inflammatory",
+            "Stimulates Immune System",
+            "Imparts color",
+            "Antioxidant Properties"
+        ],
+        "Sugar Content": [
+            "44.7 - 44.7 %"
+        ]
+    }
+}

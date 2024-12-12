@@ -1,0 +1,58 @@
+{
+    "id": 145711,
+    "brand": "triloy",
+    "name": "TRIEL® 5400",
+    "slug": "triel-5400",
+    "description": "TRIEL® 5400 is a Thermoplastic Polyester Elastomer (TPEE) product. It is available in Asia Pacific, Europe, or North America.",
+    "company_name": "Samyang Corporation",
+    "company_slug": "samyang-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1703115216/production/Company/2840/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1703115216/production/Company/2840/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Consumer Electronics",
+            "Cooling & Climate",
+            "Powertrain & UTH",
+            "Chassis & Brake",
+            "Appliances & Electronics",
+            "Other Devices & Assemblies",
+            "Other Automotive Applications",
+            "Automotive",
+            "Devices & Assemblies"
+        ],
+        "Product Families": [
+            "Thermoplastic Polyester Elastomers (TPE-E)",
+            "Thermoplastic Elastomers"
+        ],
+        "Chemical Family": [
+            "Polyesters"
+        ],
+        "Polymer Name": [
+            "Thermoplastic Polyester Elastomer"
+        ],
+        "End Uses": [
+            "Automotive Bellows",
+            "Appliances",
+            "Air Ducts",
+            "Electrical/Electronic Applications",
+            "Automotive Applications"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Thermoplastic Polyester Elastomer"
+        ],
+        "Processing Methods": [
+            "Blow Molding",
+            "Extrusion",
+            "Injection Molding"
+        ],
+        "End Uses": [
+            "Automotive Bellows",
+            "Electrical/Electronic Applications",
+            "Appliances",
+            "Air Ducts",
+            "Automotive Applications"
+        ]
+    }
+}

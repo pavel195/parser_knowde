@@ -1,0 +1,46 @@
+{
+    "id": 241306,
+    "brand": "best-special-x",
+    "name": "BEST Munich",
+    "slug": "best-munich",
+    "description": "BEST Munich intensifies the mouth feel and malty flavor of amber to dark beers in a pleasant way. Even a small amount in the grain bill gives the beer a typical malty note. BEST Munich is therefore ideally suited to enhancing the body of very highly fermented beers. Due to the generally higher levels of protein in this malt, the higher its concentration in the grain bill, the better the foam of the beers brewed with it. BEST Munich complies with the purity guidelines of the German Reinheitsgebot. BEST Munich is also available in organic quality.",
+    "company_name": "BESTMALZ",
+    "company_slug": "bestmalz",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686634669/production/Company/16830/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1686634669/production/Company/16830/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Beverage",
+            "Liquor & Spirits",
+            "Beer Brewing"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Flours & Grains Products"
+        ],
+        "End Uses": [
+            "Beer"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Munich Malt"
+        ],
+        "Labeling Claims": [
+            "Kosher",
+            "Plant-Based",
+            "GMO-free",
+            "Naturally Derived"
+        ],
+        "Certifications & Compliance": [
+            "Hazard Analysis Critical Control Point (HACCP)",
+            "Kosher",
+            "ISO 9001",
+            "ISO 50001"
+        ],
+        "Features": [
+            "Imparts color",
+            "Improved Flavour Stability"
+        ]
+    }
+}

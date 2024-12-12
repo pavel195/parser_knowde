@@ -1,0 +1,42 @@
+{
+    "id": 348153,
+    "brand": "tirecycle",
+    "name": "Norst® PB-400",
+    "slug": "norst-pb-400",
+    "description": "Norst® PB-400 is Particulate for thermoplastic applications. It is odorless and highly stable.",
+    "company_name": "NorthStar Elastomers",
+    "company_slug": "northstar-elastomers",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704100111/production/Brand/25992/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608962/production/CategoryImage/587/category_image/AdhesivesSealants_04.jpg",
+    "properties": {
+        "Applications": [
+            "Tape & Label Adhesives",
+            "Tapes & Labels",
+            "Other Adhesives & Sealants Applications",
+            "Packaging & Paper",
+            "Tapes, Labels & Adhesives"
+        ],
+        "Product Families": [
+            "Other Resins & Binders",
+            "Resins & Binders"
+        ],
+        "End Uses": [
+            "Solvent Free (100% Solids) Adhesive",
+            "Hot Melt Adhesive"
+        ]
+    },
+    "summary": {
+        "End Uses": [
+            "Solvent Free (100% Solids) Adhesive",
+            "Hot Melt Adhesive"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Elastomers & Rubbers"
+        ],
+        "Features": [
+            "Low Temperature Flexibility",
+            "Sag Resistance",
+            "Excellent Adhesion"
+        ]
+    }
+}

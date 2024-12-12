@@ -1,0 +1,54 @@
+{
+    "id": 395471,
+    "brand": "korad",
+    "name": "SoundX™ EVA",
+    "slug": "soundx-eva",
+    "description": "SoundX™ EVA is a non-PVC solution primarily used in the Transportation market",
+    "company_name": "Spartech",
+    "company_slug": "spartech-llc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686149931/production/Company/6887/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608730/production/CategoryImage/574/category_image/AutomotiveTransportation_02.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Wall Panels",
+            "Mining",
+            "Building Envelope & Roofing",
+            "Chemical & Industrial Manufacturing",
+            "Oil, Gas & Mining",
+            "Pipes & Plumbing",
+            "EIFS & Insulation",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Polymer Name": [
+            "Ethylene Vinyl Acetate Copolymer (EVA)"
+        ],
+        "End Uses": [
+            "Appliances",
+            "Acoustic Barrier",
+            "Flooring",
+            "Pipes",
+            "Mining Applications",
+            "Wall Panels",
+            "Air Ducts"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Ethylene Vinyl Acetate Copolymer (EVA)"
+        ],
+        "Physical Form": [
+            "Sheets"
+        ],
+        "Features": [
+            "High Productivity",
+            "Flexible"
+        ],
+        "Density": [
+            "1800.0 - 1800.0 kg/m³"
+        ]
+    }
+}

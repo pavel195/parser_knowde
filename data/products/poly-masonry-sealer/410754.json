@@ -1,0 +1,44 @@
+{
+    "id": 410754,
+    "brand": "poly-masonry-sealer",
+    "name": "Poly Masonry Sealer M-2O PLUS",
+    "slug": "poly-masonry-sealer-m-2o-plus",
+    "description": "Poly Masonry Sealer M-2O Plus is a water based, non-flammable polysiloxane penetrating sealer. It is developed specially for the treatment of masonry, brick and clay substrate for the purpose of providing waterproofing and repellency. Poly Masonry Sealer M-2O Plus provides superior long-term performance and protection against physical and structural defamation or deterioration due to the effects of humidity and or contact with moisture or exposure to the elements. In addition, it is also resistant to acids and highly alkaline compounds. Poly Masonry Sealer M-2O Plus is designed strictly for glazed masonry.",
+    "company_name": "Endur-o-seal",
+    "company_slug": "endur-o-seal",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520303/production/Brand/31932/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608454/production/CategoryImage/560/category_image/BuildingConstruction_04.jpg",
+    "properties": {
+        "Applications": [
+            "Flooring & Surfaces",
+            "Building & Construction",
+            "Building Envelope & Roofing",
+            "Shingles & Tiles",
+            "Concrete Coatings & Stains",
+            "Floor Coatings"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Waterborne Coating",
+            "Sealer"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Brick",
+            "Concrete"
+        ],
+        "Features": [
+            "Mildew Resistant",
+            "Corrosion Resistant",
+            "Acid Resistant",
+            "Salt Resistance",
+            "Low VOC",
+            "Alkali Resistant",
+            "Long Term Protection"
+        ]
+    }
+}

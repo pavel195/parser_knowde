@@ -1,0 +1,45 @@
+{
+    "id": 403227,
+    "brand": "sw-244-40-voc",
+    "name": "DithiaZolv™",
+    "slug": "dithiazolv",
+    "description": "DithiaZolv™ is a concentrated mixture of proprietary and powerful surfactants specifically formulated to breakdown and dissolve dithiazine solids formed when triazine based H2S scavengers are used in oil and gas operations. Dissolving these solids into a water based slurry allows for easy final rinsing and cleaning. DithiaZolvTM helps optimize flow performance in pipelines, valves, filters, tanks and related process equipment.",
+    "company_name": "Chemical Products Industries, Inc.",
+    "company_slug": "chemical-products-industries",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1682593124/production/Brand/30818/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1626797286/production/CategoryImage/958/category_image/BaseChemicals_06.jpg",
+    "properties": {
+        "Applications": [
+            "Processing & Packaging",
+            "Institutional & Industrial Care",
+            "Industrial Cleaning",
+            "Food Facility Cleaning & Sanitization",
+            "Oil, Gas & Mining",
+            "Food & Beverage Manufacturing",
+            "Refining & Gas Processing"
+        ],
+        "Product Families": [
+            "Industrial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner"
+        ],
+        "Application Area": [
+            "Equipment",
+            "Pipes",
+            "Tanks"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal"
+        ],
+        "Features": [
+            "Removes Dithiazine",
+            "Excellent Rinsability",
+            "Corrosion Resistant",
+            "Good Diluency"
+        ]
+    }
+}

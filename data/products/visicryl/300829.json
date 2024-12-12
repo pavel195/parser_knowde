@@ -1,0 +1,38 @@
+{
+    "id": 300829,
+    "brand": "visicryl",
+    "name": "VISICRYL 6520",
+    "slug": "visicryl-6520",
+    "description": "Visicryl 6520 is used in interior paints with good wet scrub.",
+    "company_name": "Visen Industries Ltd",
+    "company_slug": "visen-industries-ltd",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1703849607/production/Company/23562/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608422/production/CategoryImage/558/category_image/BuildingConstruction_02.jpg",
+    "properties": {
+        "Applications": [
+            "Architectural Coatings",
+            "Concrete Coatings & Stains",
+            "Grouts & Mortars",
+            "Other Paints & Coatings Applications",
+            "Building Envelope",
+            "Building Materials",
+            "Building & Construction",
+            "Building Envelope & Roofing"
+        ],
+        "Product Families": [
+            "Acrylics",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Vinyl Acrylic"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Vinyl Acrylic"
+        ],
+        "Features": [
+            "Provides Good Texture"
+        ]
+    }
+}

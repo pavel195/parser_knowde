@@ -1,0 +1,41 @@
+{
+    "id": 346729,
+    "brand": "sil-a-glass",
+    "name": "Sil-A-Glass®",
+    "slug": "sil-a-glass",
+    "description": "Sil-A-Glass® is an extruded granulate with unique product characteristics and excellent shelf-life. Depending on application this outstanding encapsulation offers a controlled release and as such gives you many possibilities for creative product development.",
+    "company_name": "Silesia Flavors",
+    "company_slug": "silesia-flavors",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686109319/production/Brand/25819/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606914/production/CategoryImage/502/category_image/FoodNutrition_03.jpg",
+    "properties": {
+        "Applications": [
+            "Beverage",
+            "Food",
+            "Confectionery",
+            "Tea, Cocoa & Coffee"
+        ],
+        "Product Families": [
+            "Taste & Flavor",
+            "Flavor Ingredients"
+        ],
+        "End Uses": [
+            "Confectionery Products",
+            "Tea"
+        ]
+    },
+    "summary": {
+        "Physical Form": [
+            "Granules",
+            "Solid"
+        ],
+        "Certifications & Compliance": [
+            "FSSC 22000",
+            "ISO 22000"
+        ],
+        "End Uses": [
+            "Tea",
+            "Confectionery Products"
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": 358583,
+    "brand": "uvikote",
+    "name": "Aptek® 2503R-A/B",
+    "slug": "aptek-2503r-a-b",
+    "description": "Aptek® 2503R-A/B is an unfilled, two component, electrically insulating, transparent, flexible urethane coating system designed for the encapsulation and protection of electrical/electronic components mounted on printed circuit boards.",
+    "company_name": "Aptek Laboratories",
+    "company_slug": "aptek-laboratories",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697223157/production/Brand/26744/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607422/production/CategoryImage/517/category_image/ElectricalElectronics_02.jpg",
+    "properties": {
+        "Applications": [
+            "Printed Circuit Boards (PCBs)",
+            "Other Paints & Coatings Applications",
+            "Parts & Components"
+        ],
+        "Product Families": [
+            "Protective Coatings",
+            "Paints & Coatings"
+        ],
+        "Chemical Family": [
+            "Urethanes"
+        ]
+    },
+    "summary": {}
+}

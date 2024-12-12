@@ -1,0 +1,36 @@
+{
+    "id": 428011,
+    "brand": "sobo",
+    "name": "Sobo Gold",
+    "slug": "sobo-gold",
+    "description": "Sobo Gold is an Internationally approved (Gold Standard) offshore rig wash and oil degreaser that quickly removes oil and grease contamination. Sobo Gold is both marine and separator friendly.",
+    "company_name": "Oil Technics",
+    "company_slug": "oil-technics",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664293079/production/Brand/33946/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515684/production/CategoryImage/1058/category_image/HII_10.jpg",
+    "properties": {
+        "Applications": [
+            "Home Care",
+            "Institutional & Industrial Care",
+            "Surface Care",
+            "Industrial Cleaning"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Industrial Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Degreasers"
+        ],
+        "Application Areas": [
+            "Oil Rigs"
+        ],
+        "Features": [
+            "Degreasing",
+            "Foamable",
+            "Heavy Duty"
+        ]
+    }
+}

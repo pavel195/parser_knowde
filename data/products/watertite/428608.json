@@ -1,0 +1,53 @@
+{
+    "id": 428608,
+    "brand": "watertite",
+    "name": "Watertite WS - Wearing Surface",
+    "slug": "watertite-ws-wearing-surface",
+    "description": "Watertite WS - Wearing Surface is a two part, polymeric MDI cured, polybutadiene modified blocked polyurethane coating.",
+    "company_name": "Pennkote",
+    "company_slug": "pennkote",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520316/production/Brand/34028/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608438/production/CategoryImage/559/category_image/BuildingConstruction_03.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Flooring & Surfaces",
+            "Fence, Decks & Rails",
+            "Floor Coatings"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Other Paints & Coatings"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "2K (2 component) Coating"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Concrete"
+        ],
+        "Features": [
+            "Temperature Resistance",
+            "Good Adhesion",
+            "Acid Resistant",
+            "Anti-Fungal",
+            "Anti-Bacterial",
+            "Oil Resistant",
+            "Ozone Resistant",
+            "UV Resistant",
+            "Salt Resistance",
+            "Excellent Compatibility",
+            "Water Resistant",
+            "Alkali Resistant",
+            "Good Toughness"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ]
+    }
+}

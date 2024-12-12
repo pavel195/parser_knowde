@@ -1,0 +1,53 @@
+{
+    "id": 401688,
+    "brand": "heavy-duty",
+    "name": "HEAVY DUTY 527™ LIQUID CLEANER-DEGREASER",
+    "slug": "heavy-duty-527-liquid-cleaner-degreaser",
+    "description": "HEAVY DUTY 527™ LIQUID CLEANER-DEGREASER is concentrated water based hard surface cleaner and degreaser specially formulated to cut through heavy grease, oil deposits and other hydrocarbons. Heavy Duty 527 does not contain, delimonene, glycol ethers or any other solvent to harm the environment or cause waste disposal issues. Heavy Duty 527 relies on a unique blend of high activity surfactants to cut through heavy grease and oil deposits.",
+    "company_name": "Anti-Seize Technology",
+    "company_slug": "anti-seize-technology",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292204/production/Brand/30613/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515636/production/CategoryImage/1054/category_image/HII_06.jpg",
+    "properties": {
+        "Applications": [
+            "Surface Care",
+            "Industrial Cleaning",
+            "Institutional & Industrial Care",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Industrial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Detergents",
+            "Degreasers",
+            "Cleaner"
+        ],
+        "Application Areas": [
+            "Wall",
+            "Floor"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Tile",
+            "Metal",
+            "Fiberglass",
+            "Fibers & Fabrics",
+            "Elastomers & Rubbers",
+            "Ceramic",
+            "Concrete",
+            "Marble"
+        ],
+        "Certifications & Compliance": [
+            "SARA 313"
+        ],
+        "Features": [
+            "Heavy Duty",
+            "Degreasing",
+            "Neutralizes Odor",
+            "Effective Soil Removal"
+        ]
+    }
+}

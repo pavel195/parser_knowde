@@ -1,0 +1,33 @@
+{
+    "id": 396079,
+    "brand": "sentinel-products-sentinel",
+    "name": "Sentinel 315 Smoke & Soot Cleaner/Wash",
+    "slug": "sentinel-315-smoke-soot-cleaner-wash",
+    "description": "Sentinel 315 Smoke &amp; Soot Cleaner/Wash is a powerful cleaner that is highly concentrated and safe to use. 315 works great on restoration jobs as a wash for cleaning soot and carbon commonly found after fires. 315 is highly concentrated and can be mixed in varying strengths , based on the cleaning needs of the job.",
+    "company_name": "Sentinel Products",
+    "company_slug": "sentinel-products",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1670414849/production/Company/50293/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515671/production/CategoryImage/1057/category_image/HII_09.jpg",
+    "properties": {
+        "Applications": [
+            "Institutional & Industrial Care",
+            "Surface Care",
+            "Industrial Cleaning",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Industrial Cleaners",
+            "Commercial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Multipurpose Cleaners",
+            "Degreasers"
+        ],
+        "Features": [
+            "Degreasing"
+        ]
+    }
+}

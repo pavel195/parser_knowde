@@ -1,0 +1,44 @@
+{
+    "id": 218331,
+    "brand": "aroplaz-polyesters",
+    "name": "EPOTUF® 37-100",
+    "slug": "epotuf-37-100",
+    "description": "EPOTUF® 37-100 epoxy resin is a medium viscosity, 100% reactive, diluted liquid epoxy resin containing EPOTUF® 37-051.",
+    "company_name": "Reichhold",
+    "company_slug": "reichhold",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1703114379/production/Company/8897/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608640/production/CategoryImage/572/category_image/PaintingsCoatings_08.jpg",
+    "properties": {
+        "Applications": [
+            "Tape & Label Adhesives",
+            "Tapes & Labels",
+            "Packaging & Paper",
+            "Tapes, Labels & Adhesives"
+        ],
+        "Product Families": [
+            "Epoxies",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives",
+            "Bisphenol Epoxy Resins"
+        ],
+        "End Uses": [
+            "Primer",
+            "Solventless & High Solids Coating"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives",
+            "Bisphenol Epoxy Resins"
+        ],
+        "End Uses": [
+            "Solventless & High Solids Coating",
+            "Primer"
+        ],
+        "Features": [
+            "Excellent Adhesion"
+        ]
+    }
+}

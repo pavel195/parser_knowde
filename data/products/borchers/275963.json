@@ -1,0 +1,40 @@
+{
+    "id": 275963,
+    "brand": "borchers",
+    "name": "Borchi® Kat 0244",
+    "slug": "borchi-kat-0244",
+    "description": "Tin-free catalyst for solvent-based two-component polyurethane coatings.",
+    "company_name": "Borchers: A Milliken Brand",
+    "company_slug": "borchers",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672772/production/Brand/18991/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608611/production/CategoryImage/569/category_image/PaintingsCoatings_05.jpg",
+    "properties": {
+        "Applications": [
+            "Vehicle Refinish",
+            "Coatings & Finishes",
+            "Automotive & Transportation"
+        ],
+        "Product Families": [
+            "Catalysts & Initiators",
+            "Additives"
+        ],
+        "End Uses": [
+            "Clearcoat",
+            "2K (2 component) Coating",
+            "Solventborne Coating"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Catalyst"
+        ],
+        "End Uses": [
+            "Solventborne Coating",
+            "2K (2 component) Coating",
+            "Clearcoat"
+        ],
+        "Compatible Polymers & Resins": [
+            "Polyurethanes (PU)"
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": 298040,
+    "brand": "fiit-ns",
+    "name": "Sinetrol®",
+    "slug": "sinetrol",
+    "description": "Sinetrol® is a natural combination of polyphenols extracted from citrus and guarana targeting body weight management. Sinetrol® reduces the excess of fat mass and improves long-term body composition.",
+    "company_name": "Fytexia",
+    "company_slug": "fytexia",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708690577/production/Product/298040/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708690577/production/Product/298040/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Oral",
+            "Other Nutrition Applications",
+            "Nutrition & Well Being",
+            "Drug Delivery & Care Solutions"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Phytochemicals & Plant Extracts",
+            "Plant & Herb Products & Extracts",
+            "Nutrition & Fortification",
+            "Whole Foods, Extracts & Premixes",
+            "Nutraceuticals & Supplements"
+        ],
+        "Chemical Family": [
+            "Phenols & Phenolics",
+            "Polyphenols"
+        ]
+    },
+    "summary": {
+        "Active Component": [
+            "Polyphenols"
+        ],
+        "Functions": [
+            "Weight Management Ingredient"
+        ]
+    }
+}

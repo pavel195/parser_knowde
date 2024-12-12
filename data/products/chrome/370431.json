@@ -1,0 +1,38 @@
+{
+    "id": 370431,
+    "brand": "chrome",
+    "name": "A.T Inks Brillar",
+    "slug": "a-t-inks-brillar",
+    "description": "A.T Inks Brillar Range includes the primary 8 Color Combination used in the Industry i.e. Cyan , Magenta , Yellow , Black, Royal Blue, Red, Orange and Gray.",
+    "company_name": "A.T Inks",
+    "company_slug": "a-t-inks",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680110843/production/Company/43243/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Textiles & Nonwovens",
+            "Printing & Inks",
+            "Leather & Textiles",
+            "Textile Coatings & Inks",
+            "Digital Printing",
+            "Textile Manufacturing"
+        ],
+        "Product Families": [
+            "Digital Printing Inks",
+            "Inks & Pastes"
+        ]
+    },
+    "summary": {
+        "Application Area": [
+            "Textiles"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Ceramic",
+            "Cotton",
+            "Textiles"
+        ],
+        "Features": [
+            "High Density"
+        ]
+    }
+}

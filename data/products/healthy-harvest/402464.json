@@ -1,0 +1,35 @@
+{
+    "id": 402464,
+    "brand": "healthy-harvest",
+    "name": "Healthy Harvest Extra Virgin Olive Oil",
+    "slug": "healthy-harvest-extra-virgin-olive-oil",
+    "description": "Extra Virgin Olive Oil is defined by the IOC as: \"olive oils obtained from the fruit of the olive tree solely by mechanical or other physical means under conditions, particularly thermal conditions, that do not lead to alterations in the oil, and which have not undergone any treatment other than washing, decantation, centrifugation, and filtration…olive oil which has a free acidity, expressed as oleic acid, of not more than 0.8 grams per 100 grams\".\r\n",
+    "company_name": "Healthy Harvest",
+    "company_slug": "healthy-harvest-productions",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697222961/production/Company/37292/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606336/production/CategoryImage/478/category_image/FluidsLubricants_03.jpg",
+    "properties": {
+        "Applications": [
+            "Savory & Culinary",
+            "Meat, Poultry & Seafood",
+            "Bakery",
+            "Food"
+        ],
+        "Product Families": [
+            "Edible Oils & Fats",
+            "Whole Foods, Extracts & Premixes"
+        ],
+        "End Uses": [
+            "Pasta",
+            "Bread",
+            "Toppings",
+            "Marinade",
+            "Dressings"
+        ]
+    },
+    "summary": {
+        "Fat Content": [
+            "100.0 - 100.0 %"
+        ]
+    }
+}

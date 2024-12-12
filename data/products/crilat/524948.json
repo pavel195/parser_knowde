@@ -1,0 +1,55 @@
+{
+    "id": 524948,
+    "brand": "crilat",
+    "name": "Hauthane HD-2125",
+    "slug": "hauthane-hd-2125-0b375ef8-8092-49b6-bcf7-d3efacbb2c7a",
+    "description": "Hauthane HD-2125 is a hard, chemical-resistant, polyester-based, aliphatic polyurethane dispersion.",
+    "company_name": "EM Sullivan",
+    "company_slug": "em-sullivan",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1714722516/production/Brand/41884/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Metal Coatings",
+            "Wood Coatings & Finishes",
+            "Building & Construction",
+            "Industrial Coatings"
+        ],
+        "Product Families": [
+            "Polyurethanes (PU)",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ],
+        "End Uses": [
+            "Top Coat"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ],
+        "End Uses": [
+            "Top Coat"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Cement",
+            "Wood",
+            "Metal",
+            "Polyvinyl Chloride (PVC)",
+            "Plastics"
+        ],
+        "Features": [
+            "Air Drying",
+            "Alcohol Resistance",
+            "Chemical Resistance",
+            "Improved Hardness",
+            "Good Gloss Retention",
+            "Excellent Adhesion",
+            "Improved Flexibility",
+            "UV Resistance",
+            "Humidity Resistance"
+        ]
+    }
+}

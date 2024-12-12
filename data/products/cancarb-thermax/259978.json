@@ -1,0 +1,37 @@
+{
+    "id": 259978,
+    "brand": "cancarb-thermax",
+    "name": "Thermax® N908 Stainless",
+    "slug": "thermax-n908-stainless",
+    "description": "Thermax® N908 Stainless Powder is a non-pelletized product with low extractable organics for use in non-staining and low shear force mixing applications.",
+    "company_name": "Cancarb",
+    "company_slug": "cancarb",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697223606/production/Company/20564/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608769/production/CategoryImage/577/category_image/AutomotiveTransportation_05.jpg",
+    "properties": {
+        "Applications": [
+            "Other Building Envelope & Roofing Applications",
+            "Other Industrial Applications",
+            "Other Parts & Components",
+            "Other Infrastructure Applications",
+            "Other Building Materials",
+            "Other Building Envelope Applications",
+            "Other Automotive Applications",
+            "Automotive",
+            "Building Envelope",
+            "Building Materials",
+            "Infrastructure, Roads & Paving",
+            "Parts & Components",
+            "Chemical & Industrial Manufacturing",
+            "Building Envelope & Roofing"
+        ],
+        "Product Families": [
+            "Other Additives",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Carbon Blacks"
+        ]
+    },
+    "summary": {}
+}

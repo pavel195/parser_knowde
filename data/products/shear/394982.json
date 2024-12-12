@@ -1,0 +1,28 @@
+{
+    "id": 394982,
+    "brand": "shear",
+    "name": "DOMOLISH HD",
+    "slug": "domolish-hd",
+    "description": "DOMOLISH HDis a heavy-duty alkaline detergent concentrate, specifically developed for cleaning of heavily soiled food equipment, process machinery, tanks, trucks and flooring.",
+    "company_name": "Shepard Bros, Inc.",
+    "company_slug": "shepard-bros-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664291978/production/Brand/29908/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515602/production/CategoryImage/1051/category_image/HII_03.jpg",
+    "properties": {
+        "Applications": [
+            "Home Care",
+            "Institutional & Industrial Care",
+            "Surface Care",
+            "Industrial Cleaning"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Food Grade Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Alkaline Cleaners"
+        ]
+    }
+}

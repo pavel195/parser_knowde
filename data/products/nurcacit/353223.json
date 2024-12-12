@@ -1,0 +1,44 @@
+{
+    "id": 353223,
+    "brand": "nurcacit",
+    "name": "Nurcacit MBT PDR",
+    "slug": "nurcacit-mbt-pdr",
+    "description": "Nurcacit MBT PDR can be used as a fast, non-staining accelerator for both dry rubber and latex applications. Low temperature curing can be achieved by the use of Nurcacit TMTD/TETD or Nurcacit DPG as secondary accelerators. Nurcacit MBT confers excellent aging characteristics to vulcanizates.",
+    "company_name": "Nanjing Union Rubber Chemicals",
+    "company_slug": "nanjing-union-rubber-chemicals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708691536/production/Brand/26324/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608779/production/CategoryImage/578/category_image/AutomotiveTransportation_06.jpg",
+    "properties": {
+        "Applications": [
+            "Tires",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Catalysts, Initiators & Crosslinkers",
+            "Elastomer Additives"
+        ],
+        "Chemical Family": [
+            "Benzothiazoles"
+        ],
+        "End Uses": [
+            "Tires"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "2- Mercaptobenzothiazole"
+        ],
+        "Compatible Polymers & Resins": [
+            "Natural Rubbers (NR)"
+        ],
+        "Functions": [
+            "Accelerator"
+        ],
+        "Features": [
+            "Good Stain Resistance",
+            "Good Aging Behavior",
+            "Fast Production Cycle",
+            "Low Temperature Curing"
+        ]
+    }
+}

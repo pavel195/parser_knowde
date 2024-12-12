@@ -1,0 +1,40 @@
+{
+    "id": 410457,
+    "brand": "gacoflex",
+    "name": "GacoDeck® Primer DP6211-1",
+    "slug": "gacodeck-primer-dp6211-1",
+    "description": "GacoDeck® Primer DP6211-1 is a water-borne, single component elastomeric primer used for adhesion purposes before applying GacoDeck TopCoat. GacoDeck Primer can be applied over previously coated and painted surfaces, existing waterproof deck systems and substrates in cold climate zones.",
+    "company_name": "Gaco Western",
+    "company_slug": "gaco-western",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292391/production/Brand/31890/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608490/production/CategoryImage/563/category_image/BuildingConstruction_07.jpg",
+    "properties": {
+        "Applications": [
+            "Building Envelope & Roofing",
+            "Waterproofing & Weatherproofing"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "1K (1 component) Coating",
+            "Elastomeric Coating",
+            "Primer",
+            "Waterborne Coating"
+        ],
+        "Application Areas": [
+            "Decking"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Painted Surfaces",
+            "Coated Surfaces"
+        ],
+        "Features": [
+            "Good Adhesion",
+            "Low Temperature Performance"
+        ]
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "id": 358637,
+    "brand": "colmant-coated-fabrics-hypalon",
+    "name": "Colmant Coated Fabrics EPDM RUBBER SHEET",
+    "slug": "colmant-coated-fabrics-epdm-rubber-sheet",
+    "description": "Colmant Coated Fabrics Epdm Rubber Sheet is a copolymer of ethylene and propylene and a smaller amount of a diene monomer which forms chemically unsaturated ethylene groups pendant from the main saturated chain. These facilitate cross-linking reactions which do not affect the integrity of the polymer backbone. This feature gives EPDM excellent heat, ozone and chemical resistance. Physical properties are very good and resistance to polar fluids is generally good. Low temperature resistance is very good and EPDM can be compounded to give excellent electrical resistance.",
+    "company_name": "Colmant Coated Fabrics",
+    "company_slug": "colmant-coated-fabrics",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686149805/production/Company/26375/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608693/production/CategoryImage/573/category_image/AutomotiveTransportation_01.jpg",
+    "properties": {
+        "Applications": [
+            "Exterior & Body",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Parts & Shapes"
+        ],
+        "Chemical Family": [
+            "Polyolefins"
+        ],
+        "Polymer Name": [
+            "Ethylene Propylene Diene Terpolymer (EPDM)"
+        ],
+        "End Uses": [
+            "Windshield Joint"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Ethylene Propylene Diene Terpolymer (EPDM)"
+        ],
+        "Physical Form": [
+            "Sheets"
+        ],
+        "Features": [
+            "Excellent Electrical Resistance",
+            "Low Temperature Resistant",
+            "Acid Resistant",
+            "Skid Resistant",
+            "Radiation Resistant",
+            "Ozone Resistant",
+            "Enhanced Physical Properties",
+            "Flame Retardant",
+            "Chemical Resistant",
+            "UV Resistant",
+            "Very Good Heat Resistance"
+        ],
+        "End Uses": [
+            "Windshield Joint"
+        ]
+    }
+}

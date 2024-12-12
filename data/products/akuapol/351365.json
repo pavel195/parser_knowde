@@ -1,0 +1,48 @@
+{
+    "id": 351365,
+    "brand": "akuapol",
+    "name": "T&L Polymer Technology Centre FT-1100",
+    "slug": "t-l-polymer-technology-centre-ft-1100",
+    "description": "T&amp;L Polymer Technology Center FT-1100 is used in wet-coating,dipping and appears in Brown Viscous liquid.",
+    "company_name": "T&L Polymer Technology Centre",
+    "company_slug": "t-l-polymer-technology-centre",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708687968/production/Company/38180/logo/image",
+    "banner_url": "https://static.knowde.com/card-banners/knowde-card-for-raw-materials-8.jpg",
+    "properties": {
+        "Applications": [
+            "Leather Manufacturing",
+            "Other Paints & Coatings Applications",
+            "Other Leather Applications",
+            "Leather",
+            "Leather & Textiles"
+        ],
+        "Product Families": [
+            "Surface Modifiers",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ],
+        "End Uses": [
+            "Solventborne Coating"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Water Repellent",
+            "Oil Repellent"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ],
+        "Features": [
+            "Water Resistance",
+            "Chemical Resistance",
+            "Good Hydrolysis Resistance",
+            "Oil Resistance"
+        ],
+        "End Uses": [
+            "Solventborne Coating"
+        ]
+    }
+}

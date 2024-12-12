@@ -1,0 +1,41 @@
+{
+    "id": 386994,
+    "brand": "e-tec",
+    "name": "E-Phos 630",
+    "slug": "e-phos-630",
+    "description": "E-Phos 630 coats steel and iron with a manganese phosphate coating of 1,500 milligrams or more per square foot. The sacrificial finish is excellent for breaking in and reducing wear on moving surfaces.",
+    "company_name": "Electrochemical Products, Inc",
+    "company_slug": "electrochemical-products-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520183/production/Brand/29007/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608611/production/CategoryImage/569/category_image/PaintingsCoatings_05.jpg",
+    "properties": {
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ],
+        "Chemical Family": [
+            "Phosphates"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Coating"
+        ],
+        "Features": [
+            "Corrosion Resistant",
+            "Wear Resistant",
+            "Excellent Lubricity"
+        ],
+        "Application Area": [
+            "Machine Parts"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Iron",
+            "Metal",
+            "Steel"
+        ],
+        "Chemical Family": [
+            "Phosphates"
+        ]
+    }
+}

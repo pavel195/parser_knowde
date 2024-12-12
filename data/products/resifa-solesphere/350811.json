@@ -1,0 +1,38 @@
+{
+    "id": 350811,
+    "brand": "resifa-solesphere",
+    "name": "LUMIFLON® LF-810 Resin",
+    "slug": "lumiflon-lf-810-resin",
+    "description": "AGC Chemicals Americas, Inc. LUMIFLON® LF-810 Resin is a high molecular weight, low OH number fluoropolymer resin. This product is meant to be formulated without crosslinkers, yielding coatings with extremely high weatherability and corrosion resistance. Potential applications for coatings made with it include architectural, industrial maintenance, and bridge coatings. LUMIFLON® polymers consist of alternating fluoroethylene and alkyl vinyl ether segments (FEVE). The fluorinated segments provide outstanding UV stability, weather resistance, and chemical resistance, while the vinyl ether segments provide solvent compatibility and crosslinking sites.",
+    "company_name": "AGC Chemicals Americas, Inc.",
+    "company_slug": "agc-chemicals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1694458126/production/Brand/18571/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1694458126/production/Product/350811/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Aerospace & Aviation",
+            "Architectural Coatings",
+            "Industrial Maintenance",
+            "Automotive OEM Coatings",
+            "Aerospace Coatings",
+            "Coatings & Finishes",
+            "Transportation",
+            "Building Envelope",
+            "Automotive & Transportation",
+            "Building & Construction",
+            "Industrial Coatings",
+            "Building Envelope & Roofing"
+        ],
+        "Product Families": [
+            "Other Resins & Binders",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Fluoroethylene Vinyl Ether (FEVE)"
+        ],
+        "End Uses": [
+            "1K (1 component) Coating"
+        ]
+    },
+    "summary": {}
+}

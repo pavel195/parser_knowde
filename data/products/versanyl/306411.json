@@ -1,0 +1,56 @@
+{
+    "id": 306411,
+    "brand": "versanyl",
+    "name": "Versal® YELLOW 6G",
+    "slug": "versal-yellow-6g",
+    "description": "Versal® YELLOW 6G is Disazocond pigment. Used in flexografic, gravure, offset, letter inks and water based paints.",
+    "company_name": "Synthesia",
+    "company_slug": "synthesia",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708521153/production/Product/306411/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608630/production/CategoryImage/571/category_image/PaintingsCoatings_07.jpg",
+    "properties": {
+        "Applications": [
+            "Decorative Paints, Coatings & Stains",
+            "Other Printing & Packaging Applications",
+            "Industrial Coatings",
+            "Decorative Paints",
+            "Building Materials",
+            "Building & Construction",
+            "Decorative Materials & Finishes"
+        ],
+        "Product Families": [
+            "Organic Pigments",
+            "Color Pigments",
+            "Pigments & Colorants"
+        ],
+        "Chemical Family": [
+            "Azo Compounds"
+        ],
+        "End Uses": [
+            "Radiation Curable Coating",
+            "Radiation Curable Ink",
+            "Powder Coating"
+        ]
+    },
+    "summary": {
+        "Color": [
+            "Yellow"
+        ],
+        "Pigment Type": [
+            "Organic Pigments"
+        ],
+        "Chemical Family": [
+            "Azo Compounds"
+        ],
+        "End Uses": [
+            "Radiation Curable Coating",
+            "Powder Coating",
+            "Radiation Curable Ink"
+        ],
+        "Compatible Polymers & Resins": [
+            "Polyvinyl Chloride (PVC)",
+            "Polyolefins",
+            "Polypropylenes (PP)"
+        ]
+    }
+}

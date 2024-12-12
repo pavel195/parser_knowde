@@ -1,0 +1,42 @@
+{
+    "id": 437307,
+    "brand": "liquisorb",
+    "name": "FCF ECO REACH Liquid Dyes Gingerbread (D20009)",
+    "slug": "french-color-and-fragrance-co-eco-reach-liquid-dyes-gingerbread-d20009",
+    "description": null,
+    "company_name": "French Color and Fragrance Co.",
+    "company_slug": "french-color-and-fragrance-co",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708686924/production/Company/56353/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515740/production/CategoryImage/1062/category_image/PersonalCare_04.jpg",
+    "properties": {
+        "Applications": [
+            "Fluids & Lubricants",
+            "Chemical Manufacturing",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Solvent Dyes",
+            "Other Additives",
+            "Dyes",
+            "Pigments & Colorants",
+            "Additives"
+        ],
+        "End Uses": [
+            "Waxes",
+            "Candles",
+            "Varnishes",
+            "Stains"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Dye"
+        ],
+        "Dye Type": [
+            "Solvent Dyes"
+        ],
+        "Color": [
+            "Orange"
+        ]
+    }
+}

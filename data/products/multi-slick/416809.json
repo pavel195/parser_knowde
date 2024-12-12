@@ -1,0 +1,39 @@
+{
+    "id": 416809,
+    "brand": "multi-slick",
+    "name": "ManuSpec Company ManuSpec MS2110A / MS9298B",
+    "slug": "manuspec-company-manuspec-ms2110a-ms9298b",
+    "description": "ManuSpec MS2110A / MS9298B, is a two part, low viscosity epoxy compound that is designed for composite laminate repair. ManuSpec MS2110A / MS9298B has a working life of 60 minutes at 25°C (75°F), for 100g of mixed product. When exposed to higher temperature, substrates and applications, ManuSpec MS2110A / MS9298B retains its’ designed strength properties with a shortened work life. Please note that the working life is significantly decreased when masses greater than 1 lb are mixed before application.",
+    "company_name": "ManuSpec Company",
+    "company_slug": "manuspec-company",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1682593382/production/Company/55920/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608490/production/CategoryImage/563/category_image/BuildingConstruction_07.jpg",
+    "properties": {
+        "Applications": [
+            "Infrastructure, Roads & Paving",
+            "Repair & Rehabilitation"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Structural Adhesives"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Structural Adhesive",
+            "2K (2 component) Adhesive",
+            "Epoxy Adhesive"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Aluminum",
+            "Metal",
+            "Iron"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    }
+}

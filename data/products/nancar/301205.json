@@ -1,0 +1,40 @@
+{
+    "id": 301205,
+    "brand": "nancar",
+    "name": "Nancar® NBR 1051",
+    "slug": "nancar-nbr-1051",
+    "description": "Nancar® NBR 1051 is a high acrylonitrile butadiene copolymer with excellent oil resistance. It is polymerized at low temperature and contains sufficient antioxidant for normal aging conditions. It has good processing characteristics in compounds where flow and knitting are desired and is especially valuable in high durometer compounds..",
+    "company_name": "Nantex Industry",
+    "company_slug": "nantex-industry",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112365/production/Company/24268/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical & Industrial Manufacturing",
+            "Other Industrial Applications",
+            "Tooling & Moldmaking"
+        ],
+        "Product Families": [
+            "Specialty Elastomers",
+            "Nitrile Rubbers"
+        ],
+        "Chemical Family": [
+            "Nitrile Rubbers"
+        ],
+        "Polymer Name": [
+            "Acrylonitrile Butadiene Rubber (NBR)"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Acrylonitrile Butadiene Rubber (NBR)"
+        ],
+        "Features": [
+            "Cold Polymerized",
+            "Oil Resistant",
+            "Good Knitability",
+            "Good Processability",
+            "Good Flow"
+        ]
+    }
+}

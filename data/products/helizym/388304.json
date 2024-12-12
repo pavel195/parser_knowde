@@ -1,0 +1,40 @@
+{
+    "id": 388304,
+    "brand": "helizym",
+    "name": "Helipept® High Blood Pressure",
+    "slug": "helipept-high-blood-pressure",
+    "description": "Helipept® High Blood Pressure is a peptide hydrolysate to prevent and reduce high blood pressure. This extract contributes to maintaining normal blood pressure or to reducing moderately high blood pressure, thanks to its inhibiting effect on the Angiotensin Converting Enzyme (ACE). The product is a natural extract of snail flesh and therefore has no side effect. The supply in Helix Aspersa snail is analyzed, identified, qualified and traced.",
+    "company_name": "HPE INGREDIENTS",
+    "company_slug": "hpe-ingredients",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708519565/production/Brand/29157/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606945/production/CategoryImage/505/category_image/FoodNutrition_06.jpg",
+    "properties": {
+        "Applications": [
+            "Oral",
+            "Swine",
+            "Pets",
+            "Birds & Poultry",
+            "Other Nutrition Applications",
+            "Nutraceuticals & Supplements",
+            "Animal Health & Nutrition",
+            "Nutrition & Well Being",
+            "Drug Delivery & Care Solutions"
+        ],
+        "Product Families": [
+            "Feed Supplements",
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements",
+            "Nutritional Ingredients"
+        ],
+        "End Uses": [
+            "Dietary Supplements"
+        ]
+    },
+    "summary": {
+        "Benefit Claims (Health)": [
+            "Controls Systolic Blood Pressure"
+        ]
+    }
+}

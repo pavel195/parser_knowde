@@ -1,0 +1,56 @@
+{
+    "id": 271106,
+    "brand": "thermaguard",
+    "name": "Thermaguard™ TIC 180",
+    "slug": "thermaguard-tic-180",
+    "description": "Thermaguard™ TIC 180 is a waterbased, single component, Thermal Insulation Coating (TIC), formulated to provide a seamless weather resistant insulation film which can improve energy efficiency, prevent Corrosion Under Insulation (CUI) occurring, reduce condensation build up & provide personal protection according to ISO 13732-1.\nThe insulation coating acts as a thermal barrier, protecting interior temperatures against cold, warm & humid weather conditions. Can be easily implemented into an inspection program due to the elimination of external cladding therefore, offering a maintenance friendly insulation coating system.",
+    "company_name": "Performance Polymers",
+    "company_slug": "performance-polymers",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520320/production/Company/20796/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Roofing",
+            "Building & Construction",
+            "Roof Coatings",
+            "Other Oil, Gas & Mining Applications",
+            "Other Paints & Coatings Applications",
+            "Chemical & Industrial Manufacturing",
+            "Oil, Gas & Mining",
+            "Other Building & Construction Applications",
+            "Other Industrial Applications",
+            "Pipes & Tanks",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Other Paints & Coatings"
+        ],
+        "Chemical Family": [
+            "Acrylics, Acrylates & Methacrylates"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "1K (1 component) Coating",
+            "Waterborne Coating"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Steel",
+            "Stainless Steel"
+        ],
+        "Features": [
+            "Corrosion Resistant",
+            "Good Weather Fastness"
+        ],
+        "Application Method": [
+            "Spray",
+            "Roller",
+            "Brush"
+        ],
+        "Chemical Family": [
+            "Acrylics, Acrylates & Methacrylates"
+        ]
+    }
+}

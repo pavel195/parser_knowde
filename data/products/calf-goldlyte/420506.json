@@ -1,0 +1,34 @@
+{
+    "id": 420506,
+    "brand": "calf-goldlyte",
+    "name": "QuadriCal® + Yeast Calcium Boluses",
+    "slug": "quadrical-yeast-calcium-boluses",
+    "description": "QuadriCal® + Yeast Calcium Boluses is a calcium, niacin, vitamin and yeast bolus supplement for adult dairy cattle.\r\n",
+    "company_name": "Bio-Vet",
+    "company_slug": "bio-vet",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708529821/production/Brand/33006/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708529821/production/Company/57629/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Ruminants",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Feed Supplements",
+            "Nutritional Ingredients"
+        ]
+    },
+    "summary": {
+        "Animal Species": [
+            "Cattle",
+            "Calves"
+        ],
+        "Features": [
+            "High Absorption Capacity",
+            "Improve Liver Function",
+            "Mineral Rich",
+            "Improved Appetite",
+            "High Energy Content"
+        ]
+    }
+}

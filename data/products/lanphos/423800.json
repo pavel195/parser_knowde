@@ -1,0 +1,36 @@
+{
+    "id": 423800,
+    "brand": "lanphos",
+    "name": "Lansurf C404",
+    "slug": "lansurf-c404",
+    "description": null,
+    "company_name": "Lankem",
+    "company_slug": "lankem",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708683569/production/Company/18990/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625605156/production/CategoryImage/441/category_image/CleaningIngredients_06.jpg",
+    "properties": {
+        "Applications": [
+            "Textile Manufacturing",
+            "Leather & Textiles"
+        ],
+        "Product Families": [
+            "Finishing Additives & Treatments",
+            "Stickers, Surfactants & Wetting Agents",
+            "Adjuvants & Formulation Ingredients",
+            "Textile & Leather Chemicals"
+        ],
+        "End Uses": [
+            "Textiles"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Surfactant",
+            "Surfactant (Nonionic)",
+            "Fiber Lubricant"
+        ],
+        "HLB Value": [
+            "13.5 - 13.5 "
+        ]
+    }
+}

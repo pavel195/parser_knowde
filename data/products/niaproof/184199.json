@@ -1,0 +1,55 @@
+{
+    "id": 184199,
+    "brand": "niaproof",
+    "name": "Niaproof® Anionic Surfactant 4",
+    "slug": "niaproof-anionic-surfactant-4",
+    "description": "NIAPROOF Anionic Surfactant 4 is an aqueous solution containing 27 percent by weight of sodium tetradecyl sulfate. This product has modified solubility properties that make it a superior penetrant in solutions containing low concentrations of dissolved solids.",
+    "company_name": "Niacet",
+    "company_slug": "niacet",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672582/production/Product/184199/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708672582/production/Product/184199/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Surface Care",
+            "Industrial Cleaning",
+            "Other Institutional & Industrial Care",
+            "Home Care",
+            "Institutional & Industrial Care"
+        ],
+        "Product Families": [
+            "Wetting & Dispersion Aids",
+            "Anionic Surfactants",
+            "Soaps & Surfactants",
+            "Cleaning Aids"
+        ],
+        "End Uses": [
+            "Acid Pickling",
+            "Multisurface Cleaners",
+            "Metal Cleaners",
+            "Polishes"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Sodium tetradecyl sulfate"
+        ],
+        "CAS Number": [
+            "139-88-8"
+        ],
+        "Functions": [
+            "Surfactant (Anionic)",
+            "Surfactant",
+            "Wetting Agent"
+        ],
+        "Labeling Claims": [
+            "Biodegradable",
+            "Formaldehyde-free"
+        ],
+        "Certifications & Compliance": [
+            "NSF Approved"
+        ],
+        "Synonyms": [
+            "7-Ethyl-2-Methyl-4-Undecanol Sulfate Sodium Salt, Natrii Tetradecylis Sulfa, Obliterol, Sodium 2-Methyl-7-Ethylundecanol-4-Sulfate, Sodium 7-ethyl-2-methyl-4-undecanol sulfate, Sodium Tetradecyl Sulphate, STS, Tetradecyl Sodium Sulfate, Trombovar, Varicol"
+        ]
+    }
+}

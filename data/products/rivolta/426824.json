@@ -1,0 +1,47 @@
+{
+    "id": 426824,
+    "brand": "rivolta",
+    "name": "Rivolta® B.R.X. 501",
+    "slug": "rivolta-b-r-x-501",
+    "description": "Rivolta® B.R.X. 501 is a industry multi-purpose cleaner. It is highly alkaline and has strong cleaning concentrate for tenacious contaminations.",
+    "company_name": "Bremer & Leguil",
+    "company_slug": "bremer-leguil",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664293032/production/Brand/33799/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515625/production/CategoryImage/1053/category_image/HII_05.jpg",
+    "properties": {
+        "Applications": [
+            "Dish Care",
+            "Industrial Cleaning",
+            "Institutional & Catering",
+            "Institutional & Industrial Care",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Industrial Cleaners",
+            "Commercial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Multipurpose Cleaners"
+        ],
+        "Certifications & Compliance": [
+            "ISO 14001",
+            "NSF Approved",
+            "ISO 50001",
+            "ISO 9001"
+        ],
+        "Application Areas": [
+            "Immersion Cleaner",
+            "Kitchen",
+            "Dishes",
+            "Ultrasonic Cleaner",
+            "Floor"
+        ],
+        "Features": [
+            "Water Soluble",
+            "Cost Effective"
+        ]
+    }
+}

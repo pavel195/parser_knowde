@@ -1,0 +1,40 @@
+{
+    "id": 332592,
+    "brand": "hipren",
+    "name": "HIPLEX® HHM 5202",
+    "slug": "hiplex-hhm-5202",
+    "description": "HIPLEX® HHM 5202 is used in Small and medium size containers for surface active agents.",
+    "company_name": "HIP-Petrohemija",
+    "company_slug": "hip-petrohemija",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708531499/production/Brand/24464/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607026/production/CategoryImage/510/category_image/FoodNutrition_11.jpg",
+    "properties": {
+        "Applications": [
+            "Food & Beverage Packaging",
+            "Industrial & Transport Packaging",
+            "Packaging"
+        ],
+        "Product Families": [
+            "Polyolefins",
+            "Basic Thermoplastics"
+        ],
+        "Polymer Name": [
+            "High Density Polyethylene (HDPE)"
+        ],
+        "End Uses": [
+            "Food Containers",
+            "Containers"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "High Density Polyethylene (HDPE)"
+        ],
+        "Processing Methods": [
+            "Extrusion Blow Molding (EBM)"
+        ],
+        "Melt Flow Index": [
+            "0.2 - 0.2 g/10 min"
+        ]
+    }
+}

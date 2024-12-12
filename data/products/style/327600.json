@@ -1,0 +1,32 @@
+{
+    "id": 327600,
+    "brand": "style",
+    "name": "Style 104",
+    "slug": "style-104",
+    "description": "Style 104 is 0.55 oz. per square yard (18.65 g/m2) plain weave fiberglass fabric.",
+    "company_name": "Carolina Technical Fabrics",
+    "company_slug": "carolina-technical-fabrics",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691742259/production/Brand/23547/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608769/production/CategoryImage/577/category_image/AutomotiveTransportation_05.jpg",
+    "properties": {
+        "Applications": [
+            "Pavement, Highways, Roads & Bridges",
+            "Marine",
+            "Aerospace & Aviation",
+            "Interior",
+            "Exterior & Body",
+            "Sports & Recreation",
+            "Infrastructure, Roads & Paving",
+            "Transportation",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Glass Fiber",
+            "Reinforcements"
+        ],
+        "Chemical Family": [
+            "Glass Beads & Fibers"
+        ]
+    },
+    "summary": {}
+}

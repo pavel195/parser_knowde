@@ -1,0 +1,49 @@
+{
+    "id": 300198,
+    "brand": "xecarb-st",
+    "name": "XECARB® ST 2-C20",
+    "slug": "xecarb-st-2-c20",
+    "description": "XECARB® ST 2-C20 is a 20% carbon fiber reinforced PA66 ",
+    "company_name": "Xenia",
+    "company_slug": "xenia",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708526662/production/Company/24102/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708526662/production/Product/300198/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Footwear"
+        ],
+        "Product Families": [
+            "Polyamides",
+            "Thermoplastic Resins",
+            "Polymers & Resins",
+            "Engineering & Specialty Polymers"
+        ],
+        "Chemical Family": [
+            "Polyamides"
+        ],
+        "Polymer Name": [
+            "Polyamide 6 (PA 6)"
+        ],
+        "End Uses": [
+            "Mountaineering Boots",
+            "Structural Parts"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyamide 6 (PA 6)"
+        ],
+        "Chemical Family": [
+            "Polyamides"
+        ],
+        "Reinforcement Material": [
+            "Carbon Fibers"
+        ],
+        "Fillers Included": [
+            "Carbon Fiber"
+        ],
+        "Processing Methods": [
+            "Injection Molding"
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "id": 402415,
+    "brand": "tripoxy",
+    "name": "TriPrime™",
+    "slug": "triprime",
+    "description": "TriPrime™is a high-solids, solvent-reducible primer for iron and steel that dries quickly. It is intended for use in shop and CEM applications, as well as under all common finishes, including polyurethanes. TriPrime™ is intended for hand-cleaned iron and steel SSPC-SP1, SP2, or SP3, and provides active corrosion inhibition and undercutting protection. It is intended for HVLP and air assisted airless systems, but it can also be used with conventional or airless systems where legal. Most systems require thinning; see the instructions under \"Recommended Thinning.\" Alkyd, silicone alkyd, and acrylic topcoats are all recommended.",
+    "company_name": "Triangle Coatings",
+    "company_slug": "triangle-coatings",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680108821/production/Brand/30703/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608621/production/CategoryImage/570/category_image/PaintingsCoatings_06.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial Coatings",
+            "Agricultural & Construction Equipment",
+            "Chemical & Industrial Manufacturing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Solventless & High Solids Coating",
+            "Primer"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Iron",
+            "Metal",
+            "Steel"
+        ],
+        "Features": [
+            "High Solids Content",
+            "Corrosion Resistant",
+            "Fast Drying"
+        ],
+        "Application Method": [
+            "Spray",
+            "Brush",
+            "Roll Coater"
+        ]
+    }
+}

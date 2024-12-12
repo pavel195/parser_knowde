@@ -1,0 +1,70 @@
+{
+    "id": 353371,
+    "brand": "alphalam",
+    "name": "Alpha Associates, Inc FB 1001",
+    "slug": "alpha-associates-inc-fb-1001",
+    "description": "FB 1001 is a Flurolastomer with aramid. 0.125\" ; 1 Ply Aramid Fluoroelastomer Belt [Press Cured].",
+    "company_name": "Alpha Associates, Inc",
+    "company_slug": "alpha-associates-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686149690/production/Company/14938/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Paper & Pulp",
+            "Power, Water & Utilities",
+            "Marine",
+            "Pulping & Processing",
+            "Power & Utilities",
+            "Chemical & Industrial Manufacturing",
+            "Oil, Gas & Mining",
+            "Transportation",
+            "Pipes & Plumbing",
+            "Other Industrial Applications",
+            "Equipment & Parts",
+            "Refining & Gas Processing"
+        ],
+        "Product Families": [
+            "Parts & Shapes"
+        ],
+        "Chemical Family": [
+            "Fluoropolymers"
+        ],
+        "Polymer Name": [
+            "Fluoroelastomer (FKM)"
+        ],
+        "End Uses": [
+            "Gaskets",
+            "Marine Applications",
+            "Industrial Applications",
+            "Expansion Joint",
+            "Exhaust Duct Systems",
+            "Industrial Connectors"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Fluoroelastomer (FKM)"
+        ],
+        "Physical Form": [
+            "Sheets"
+        ],
+        "Features": [
+            "Non Corrosive"
+        ],
+        "End Uses": [
+            "Industrial Applications",
+            "Exhaust Duct Systems",
+            "Expansion Joint",
+            "Gaskets",
+            "Industrial Connectors",
+            "Marine Applications"
+        ],
+        "Tensile Strength": [
+            "6.99335 - 6.99335 MPa"
+        ],
+        "Color": [
+            "Black"
+        ]
+    }
+}

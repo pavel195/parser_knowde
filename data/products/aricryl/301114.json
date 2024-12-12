@@ -1,0 +1,38 @@
+{
+    "id": 301114,
+    "brand": "aricryl",
+    "name": "ARICRYL 7023",
+    "slug": "aricryl-7023",
+    "description": "ARICRYL 7023 is used in Ink, gold print coating and having Excellent adhesion, fast dry, hardness, flexible and gloss.",
+    "company_name": "PT. Aristek Highpolymer",
+    "company_slug": "pt-aristek-highpolymer",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112197/production/Company/24311/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608585/production/CategoryImage/567/category_image/PaintingsCoatings_03.jpg",
+    "properties": {
+        "Applications": [
+            "Printing & Inks",
+            "Other Printing Applications",
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Resins & Binders",
+            "Acrylics"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ],
+        "Glass Transition Temperature (Tg)": [
+            "84.0 - 84.0 °C"
+        ],
+        "Features": [
+            "High Gloss",
+            "Excellent Adhesion",
+            "Improved Hardness"
+        ]
+    }
+}

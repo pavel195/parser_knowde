@@ -1,0 +1,49 @@
+{
+    "id": 442518,
+    "brand": "glissamide",
+    "name": "Glissamide 80010",
+    "slug": "glissamide-80010",
+    "description": "Glissamide 80010 is a micronized amide/polyethylene wax blend.",
+    "company_name": "Parchvale Ltd",
+    "company_slug": "parchvale-limited",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708690386/production/Company/56428/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708690386/production/Company/56428/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Textile Manufacturing",
+            "Textile Coatings & Inks",
+            "Screen Printing",
+            "Textiles & Nonwovens",
+            "Printing & Inks",
+            "Leather & Textiles"
+        ],
+        "Product Families": [
+            "Surface Modifiers",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Waxes",
+            "Polyolefins",
+            "Polyethylenes",
+            "Amides",
+            "Polyethylene Waxes"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Waxes",
+            "Polyethylene Waxes",
+            "Amides",
+            "Polyethylenes",
+            "Polyolefins"
+        ],
+        "Functions": [
+            "Surface Modifier"
+        ],
+        "Features": [
+            "Slip Resistance",
+            "Abrasion Resistance",
+            "Excellent Scratch Resistance"
+        ]
+    }
+}

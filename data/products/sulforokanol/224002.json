@@ -1,0 +1,35 @@
+{
+    "id": 224002,
+    "brand": "sulforokanol",
+    "name": "ROKAnol NL5 (C9-11 Pareth-5)",
+    "slug": "rokanol-nl5-c9-11-pareth-5",
+    "description": "ROKAnol NL5 is a non-ionic surfactant from the group of ethoxylated alcohols (INCI name: C9-11 Pareth-5). The product belongs to the ROKAnol NL series based on C9-C11 synthetic alcohol. The high surface activity of these compounds is used in detergents and cleaning agents. The commercial product contains about 100% of the active substance and takes the form of a clear or turbid liquid, solidifying at a temperature below 0°C.",
+    "company_name": "PCC Chemax",
+    "company_slug": "pcc-chemax",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708688285/production/Company/6826/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Laundry & Fabric Care",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Finishing Additives & Treatments",
+            "Textile & Leather Chemicals"
+        ],
+        "Chemical Family": [
+            "Non-Ionics",
+            "Ethoxylated Fatty Alcohols"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Surfactant",
+            "Surfactant (Nonionic)"
+        ],
+        "Chemical Family": [
+            "Ethoxylated Fatty Alcohols",
+            "Non-Ionics"
+        ]
+    }
+}

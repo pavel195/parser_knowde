@@ -1,0 +1,49 @@
+{
+    "id": 411718,
+    "brand": "proxy-clean",
+    "name": "Dura-Clean™",
+    "slug": "dura-clean",
+    "description": "Dura-Clean™ is a concentrated Alkaline Ultra-Foaming Cleaner Proxy-Clean® brand Dura-Clean™ is designed for use in hatcheries, including hatchers, setters, rooms, hallways, and equipment, as well as animal and poultry housing facilities.",
+    "company_name": "Proxy Clean",
+    "company_slug": "proxy-clean",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704106961/production/Brand/32106/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515625/production/CategoryImage/1053/category_image/HII_05.jpg",
+    "properties": {
+        "Applications": [
+            "Surface Care",
+            "Institutional & Catering",
+            "Industrial Cleaning",
+            "Home Care",
+            "Institutional & Industrial Care"
+        ],
+        "Product Families": [
+            "Industrial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Cleaner",
+            "Alkaline Cleaners"
+        ],
+        "Application Area": [
+            "Equipment"
+        ],
+        "Certifications & Compliance": [
+            "Occupational Safety & Health Administration (OSHA)",
+            "SARA 311/312",
+            "California Proposition 65"
+        ],
+        "Features": [
+            "Foamable",
+            "Fast Acting",
+            "Effective Soil Removal",
+            "Cost Effective",
+            "Good Wettability",
+            "High Capacity of Penetration"
+        ],
+        "Synonyms": [
+            "Caustic Soda, NaOH, Soda Lye, Sodium Hydrate, White Caustic"
+        ]
+    }
+}

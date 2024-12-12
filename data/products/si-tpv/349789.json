@@ -1,0 +1,63 @@
+{
+    "id": 349789,
+    "brand": "si-tpv",
+    "name": "Chengdu Silike Technology CO.,LTD LYSI-401",
+    "slug": "chengdu-silike-technology-co-ltd-lysi-401",
+    "description": "Chengdu Silike Technology LYSI-401 is a pelletized formulation with 50% ultra high molecular weight siloxane polymer dispersed in low density polyethylene (LDPE ). It is widely used as an efficient processing additive in PE compatible resin system to improve the processing properties and modify surface quality.",
+    "company_name": "Chengdu Silike Technology CO.,LTD",
+    "company_slug": "chengdu-silike-technology-co-ltd",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708685967/production/Company/24401/logo/image",
+    "banner_url": "https://static.knowde.com/card-banners/knowde-card-for-raw-materials-8.jpg",
+    "properties": {
+        "Applications": [
+            "Optical Fiber & Telecom",
+            "Other Wire & Cable Applications",
+            "Jacketing & Insulation",
+            "Wire & Cable"
+        ],
+        "Product Families": [
+            "Processing Aids",
+            "Additive Masterbatches",
+            "Masterbatches",
+            "Polymer Additives"
+        ],
+        "Chemical Family": [
+            "Polyolefins",
+            "Silicones",
+            "Polyethylenes"
+        ],
+        "End Uses": [
+            "Wires",
+            "Cables",
+            "Film",
+            "Telecommunications",
+            "Wire Jacketing"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Processing Aid"
+        ],
+        "Compatible Polymers & Resins": [
+            "Polyethylenes (PE)"
+        ],
+        "Processing Methods": [
+            "Extrusion",
+            "Injection Molding"
+        ],
+        "Carrier": [
+            "Low-Density Polyethylene (LDPE)",
+            "Resin-based"
+        ],
+        "Features": [
+            "Superior Surface Quality",
+            "Good Mold Release",
+            "Low Friction",
+            "Extremely High Molecular Weight",
+            "Good Scratch Resistance",
+            "Good Abrasion Resistance",
+            "High Flowability",
+            "Good Stability"
+        ]
+    }
+}

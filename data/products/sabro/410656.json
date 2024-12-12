@@ -1,0 +1,31 @@
+{
+    "id": 410656,
+    "brand": "sabro",
+    "name": "IDAHO 7®",
+    "slug": "idaho-7",
+    "description": "IDAHO 7™ is an experimental hop variety first released in 2015 from Jackson Hop Farm in wilder, Idaho. This variety is used mostly as an aroma hop and for dry hopping due to its strong flavor and aroma. Idaho™ also has fairly high alpha acids content for bitterness.",
+    "company_name": "WILLAMETTE VALLEY HOPS",
+    "company_slug": "willamette-valley-hops",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686109725/production/Brand/31911/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607274/production/CategoryImage/514/category_image/FoodNutrition_14.jpg",
+    "properties": {
+        "Applications": [
+            "Beverage",
+            "Beer Brewing",
+            "Other Non-Alcoholic Beverages"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Plant & Herb Products & Extracts"
+        ],
+        "Flavor Family": [
+            "Herb Flavors",
+            "Fruit Flavors"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Hops"
+        ]
+    }
+}

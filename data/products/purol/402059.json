@@ -1,0 +1,43 @@
+{
+    "id": 402059,
+    "brand": "purol",
+    "name": "Purol® R-04",
+    "slug": "purol-r-04",
+    "description": "Purol® R-04 has phthalic anhydride base used as an adhesive, PU coatings, PU rigid foam, Elastomers.",
+    "company_name": "Baalbaki Chemical Industries",
+    "company_slug": "baalbaki-chemical-industries",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686148788/production/Brand/30661/logo/image",
+    "banner_url": "https://static.knowde.com/card-banners/knowde-card-for-raw-materials-8.jpg",
+    "properties": {
+        "Applications": [
+            "Other Adhesives & Sealants Applications",
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Monomers & Intermediates",
+            "Prepolymers & Polyols",
+            "Monomers"
+        ],
+        "Chemical Family": [
+            "Polyols (Polyester)",
+            "Polyols",
+            "Aromatics"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Polyols (Polyester)",
+            "Polyols",
+            "Aromatics"
+        ],
+        "Hydroxyl Value": [
+            "320.0 - 320.0 mg KOH/g"
+        ],
+        "Features": [
+            "Good Hydrolysis Resistance",
+            "High Reactivity",
+            "Thermal Resistance",
+            "Flame Resistance"
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "id": 325343,
+    "brand": "provesol",
+    "name": "Provesol PE 503",
+    "slug": "provesol-pe-503",
+    "description": "PROVESOL PE 503 is a protein product obtained by processing defatted (non-genetically modified) soy flour, subjected to a suitable heat treatment for inactivation and dried by the spray-drying process, resulting in a product with great emulsifying power for fat and with high water-retaining power, due to the correct association of proteins and fibers. Lactose, sucrose, casein and gluten free.",
+    "company_name": "Olvebra Industrial",
+    "company_slug": "olvebra-industrial",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686109223/production/Company/29333/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606914/production/CategoryImage/502/category_image/FoodNutrition_03.jpg",
+    "properties": {
+        "Applications": [
+            "Food",
+            "Meat Substitutes",
+            "Meat, Poultry & Seafood"
+        ],
+        "Product Families": [
+            "Nutrition & Fortification",
+            "Plant Proteins",
+            "Nutraceuticals & Supplements",
+            "Proteins & Amino Acids"
+        ],
+        "End Uses": [
+            "Sausage Rolls",
+            "Meat Substitutes"
+        ]
+    },
+    "summary": {
+        "Ingredient Origin": [
+            "Plant Origin",
+            "Vegetable Origin",
+            "Natural Origin"
+        ],
+        "Labeling Claims": [
+            "Vegan",
+            "Plant-Based",
+            "Lactose-free",
+            "Non-GMO",
+            "Naturally Derived",
+            "Natural",
+            "Sugar-free"
+        ],
+        "Protein Content": [
+            "52.0 - 52.0 %"
+        ],
+        "Features": [
+            "Improved Water Retention",
+            "Neutral Taste",
+            "Protein Enrichment",
+            "Excellent Stability",
+            "Improved Stability",
+            "Fiber Enrichment",
+            "Spray Dried"
+        ]
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "id": 368630,
+    "brand": "bio-cosmos",
+    "name": "ARDAQUAT COLLAGEN 012001",
+    "slug": "ardaquat-collagen-012001",
+    "description": "ArdaQuat Collagen has strong conditioning and substantive properties for the skin and hair. Collagen leaves the skin more hydrated and firm while reducing the appearance of age-related imperfections.",
+    "company_name": "ARDA NATURA",
+    "company_slug": "arda-natura",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708699023/production/Brand/27369/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515751/production/CategoryImage/1063/category_image/PersonalCare_05.jpg",
+    "properties": {
+        "Applications": [
+            "Bath & Shower",
+            "Hair Care",
+            "Skin Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Skin Actives",
+            "Conditioners & Emollients",
+            "Cosmetic Actives",
+            "Functionals"
+        ],
+        "Chemical Family": [
+            "Quaternary Ammonium Compounds",
+            "Proteins, Peptides & Amino Acid Derivatives"
+        ],
+        "INCI Name": [
+            "Citric Acid",
+            "Phenylpropanol",
+            "Caprylyl Glycol",
+            "Hydroxypropyl Guar Hydroxypropyltrimonium Chloride",
+            "Pentylene Glycol",
+            "Betaine",
+            "Palmitamidopropyltrimonium Chloride",
+            "Methylpropanediol",
+            "Hydrolyzed Collagen"
+        ],
+        "End Uses": [
+            "Body Balm",
+            "Body Cream",
+            "Moisturizers",
+            "Cleansing Milk",
+            "Facial Moisturizer",
+            "Hair Conditioner",
+            "Shampoos & Rinses"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Citric Acid",
+            "Phenylpropanol",
+            "Caprylyl Glycol",
+            "Betaine",
+            "Hydroxypropyl Guar Hydroxypropyltrimonium Chloride",
+            "Methylpropanediol",
+            "Hydrolyzed Collagen",
+            "Pentylene Glycol",
+            "Palmitamidopropyltrimonium Chloride"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin"
+        ],
+        "Functions": [
+            "Conditioner",
+            "Protective Agent"
+        ],
+        "Labeling Claims": [
+            "Naturally Derived",
+            "Natural"
+        ],
+        "Benefit Claims": [
+            "Moisturizing",
+            "Broad pH Stability",
+            "Conditioning",
+            "Skin Protection",
+            "Compatibility"
+        ]
+    }
+}

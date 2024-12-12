@@ -1,0 +1,33 @@
+{
+    "id": 408317,
+    "brand": "cocoasupply",
+    "name": "Cocoa Supply Cacao Fruit Pulp Puree Nectar",
+    "slug": "cocoa-supply-cacao-fruit-pulp-puree-nectar",
+    "description": "Cacao Fruit Pulp Puree Nectar provides the fantastic flavor of the cacao fruit pulp in easy to drink pouches. This pulp tastes like the fresh fruit harvested in the cacao fields of Ecuador and has NOT been diluted to make a juice. Pasteurized for shelf stability, it is a true treat for an exotic and very flavorful ingredient. You may drink it just like that, or use it to make sorbets, add water to make juices, smoothies, add as an additional ingredient in cooking, ice cream making, fillings and ganache, toppings, making of jams and 100% chocolates, etc. Unique, exotic, special, healthy, and most importantly, absolutely delicious.",
+    "company_name": "Cocoa Supply",
+    "company_slug": "cocoa-supply",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686109695/production/Company/53575/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606945/production/CategoryImage/505/category_image/FoodNutrition_06.jpg",
+    "properties": {
+        "Applications": [
+            "Food",
+            "Confectionery",
+            "Dairy",
+            "Desserts & Fruit Preparations",
+            "Savory & Culinary"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Cocoa & Chocolate"
+        ],
+        "End Uses": [
+            "Ice Cream",
+            "Filling Applications",
+            "Toppings",
+            "Jams",
+            "Chocolates",
+            "Ganache"
+        ]
+    },
+    "summary": {}
+}

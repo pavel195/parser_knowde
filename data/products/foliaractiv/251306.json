@@ -1,0 +1,37 @@
+{
+    "id": 251306,
+    "brand": "foliaractiv",
+    "name": "ActiPlon Meadows and Pastures",
+    "slug": "actiplon-meadows-and-pastures",
+    "description": "The ActiPlon line comprises new generation fertilizers, i.e. nutrient formulas comprising chelates (i.e. microelements supplied in an organic form) manufactured using biotechnology. Application of preparations comprising chelated microelements ensures much higher level of utilization of supplied components. In addition, it makes it possible to significantly reduce the amount of the preparation applied in comparison with traditional products.",
+    "company_name": "Arkop",
+    "company_slug": "arkop",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672322/production/Company/19265/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708672322/production/Company/19265/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Agricultural Pest Control",
+            "Fodder & Forage",
+            "Agricultural Crops",
+            "Pest Control"
+        ],
+        "Product Families": [
+            "Fertilizers & Nutrients",
+            "Plant Health, Nutrients & Soil Management"
+        ],
+        "Chemical Family": [
+            "Magnesium & Magnesium Compounds"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Fertilizer"
+        ],
+        "Chemical Family": [
+            "Magnesium & Magnesium Compounds"
+        ],
+        "Application Technique": [
+            "Sprayers"
+        ]
+    }
+}

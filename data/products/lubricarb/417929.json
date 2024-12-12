@@ -1,0 +1,46 @@
+{
+    "id": 417929,
+    "brand": "lubricarb",
+    "name": "Minera del Santo Angel Talc",
+    "slug": "minera-del-santo-angel-talc",
+    "description": "Talc is a mineral group VIII (silicates), according to the classification of Strunz, white to blue gray. In the Mohs scale is taken as a pattern of least hardness, assigning him conventionally value 1. To touch is so greasy or soapy that can be scratched with a fingernail.",
+    "company_name": "Minera del Santo Angel",
+    "company_slug": "minera-del-santo-angel",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704106760/production/Company/56390/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Overprint Varnishes",
+            "Other Paints & Coatings Applications",
+            "Coated Paper & Paperboard",
+            "Paper & Pulp",
+            "Packaging Coatings"
+        ],
+        "Product Families": [
+            "Inorganics",
+            "Technical Salts & Inorganics"
+        ],
+        "Chemical Family": [
+            "Silicates"
+        ],
+        "End Uses": [
+            "Paper",
+            "Paints",
+            "Ceramics",
+            "Varnish",
+            "Rubber",
+            "Plastics"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Magnesium Silicate"
+        ],
+        "CAS Number": [
+            "13776-74-4"
+        ],
+        "Synonyms": [
+            "Magnesium metasilicate (MgSiO3), Magnesium silicate (Mg2(SiO3)2), Magnesium silicon oxide (MgSiO3)"
+        ]
+    }
+}

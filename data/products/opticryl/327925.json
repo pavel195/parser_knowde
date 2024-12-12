@@ -1,0 +1,40 @@
+{
+    "id": 327925,
+    "brand": "opticryl",
+    "name": "OPTIVYL VA1558",
+    "slug": "optivyl-va1558",
+    "description": "OPTIVYL VA1558 by OPTICHEM is a VAM Acrylic Polymer Base. It has Universal VAM based paint Binder.",
+    "company_name": "OPTICHEM",
+    "company_slug": "optichem",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112283/production/Brand/23588/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608410/production/CategoryImage/557/category_image/BuildingConstruction_01.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Flooring & Surfaces",
+            "Building & Construction",
+            "Adhesives",
+            "Mortars & Plasters",
+            "Tile & Grout",
+            "Decorative Paints",
+            "Decorative Paints, Coatings & Stains",
+            "Decorative Materials & Finishes",
+            "Construction Adhesives"
+        ],
+        "Product Families": [
+            "Resins & Binders",
+            "Acrylics"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Masonry"
+        ]
+    }
+}

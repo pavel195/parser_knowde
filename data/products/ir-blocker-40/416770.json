@@ -1,0 +1,38 @@
+{
+    "id": 416770,
+    "brand": "ir-blocker-40",
+    "name": "HD PrintFree Outdoor™",
+    "slug": "hd-printfree-outdoor",
+    "description": "HD PrintFree Outdoor™ enable best-in-class anti-reflection coatings combined with a superior antismudge, easy to clean, oleophobic treatment.",
+    "company_name": "MAC Thin Films",
+    "company_slug": "mac-thin-films",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520222/production/Brand/32578/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607546/production/CategoryImage/524/category_image/ElectricalElectronics_09.jpg",
+    "properties": {
+        "Applications": [
+            "Coatings & Finishes",
+            "Medical",
+            "Industrial Coatings",
+            "Marine",
+            "Displays",
+            "Medical Devices & Assemblies",
+            "Aerospace Coatings",
+            "Aerospace & Aviation",
+            "Devices & Assemblies",
+            "Transportation"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Other Paints & Coatings"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Coating"
+        ],
+        "Features": [
+            "Non-reflective",
+            "High Durability"
+        ]
+    }
+}

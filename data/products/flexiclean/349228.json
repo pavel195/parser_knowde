@@ -1,0 +1,62 @@
+{
+    "id": 349228,
+    "brand": "flexiclean",
+    "name": "Flexisurf™ DDO-30",
+    "slug": "flexisurf-ddo-30",
+    "description": "Versatile nonionic surfactant that contributes foaming, excellent solubilizing properties, cleansing, and grease cutting. Contains a highly refined amine for ease of formulating clear solutions. Coconut oil based content, non-GMO, and FIFRA inert ingredient for non-food pesticides.",
+    "company_name": "Innovative Chemical Technologies Inc.",
+    "company_slug": "innovative-chemical-technologies-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708684111/production/Company/1269/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708684111/production/Company/1269/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Hand Hygiene",
+            "Institutional & Catering",
+            "Agricultural Pest Control",
+            "Skin Care",
+            "Bath & Shower",
+            "Hair Care",
+            "Pest Control",
+            "Institutional & Industrial Care",
+            "Beauty & Care",
+            "Personal Hygiene"
+        ],
+        "Product Families": [
+            "Stickers, Surfactants & Wetting Agents",
+            "Nonionic Surfactants",
+            "Surfactants & Cleansers",
+            "Soaps & Surfactants",
+            "Adjuvants & Formulation Ingredients"
+        ],
+        "Chemical Family": [
+            "Amine Oxides"
+        ],
+        "INCI Name": [
+            "Lauramine Oxide"
+        ],
+        "End Uses": [
+            "Body Cream",
+            "Body Lotion",
+            "Hand Soap",
+            "Degreasers",
+            "Hair Conditioner",
+            "Shampoos & Rinses",
+            "Shower Gels"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Lauramine Oxide"
+        ],
+        "Chemical Name": [
+            "Dodecyldimethylamine oxide"
+        ],
+        "Functions": [
+            "Surfactant (Nonionic)",
+            "Surfactant"
+        ],
+        "Chemical Family": [
+            "Amine Oxides"
+        ]
+    }
+}

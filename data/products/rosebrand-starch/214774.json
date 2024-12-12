@@ -1,0 +1,70 @@
+{
+    "id": 214774,
+    "brand": "rosebrand-starch",
+    "name": "ROSEBRAND CASSBAKE 157",
+    "slug": "rosebrand-cassbake-157",
+    "description": "CASSBAKE™ 157 is Modified tapioca starch, suitable for the products that need to maintain moisture during storage and provide desirable texture.",
+    "company_name": "THAI WAH",
+    "company_slug": "thai-wah",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1668027043/production/Product/214774/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1595515592/production/Product/214774/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Feed Production & Processing",
+            "Pulping & Processing",
+            "Textile Manufacturing",
+            "Cereals & Snacks",
+            "Other Food Applications",
+            "Bakery",
+            "Animal Health & Nutrition",
+            "Food",
+            "Paper & Pulp",
+            "Leather & Textiles"
+        ],
+        "Product Families": [
+            "Other Functional Additives",
+            "Emulsifiers, Stabilizers & Thickeners",
+            "Rheology Modifiers",
+            "Pulping Chemicals",
+            "Finishing Additives & Treatments",
+            "Texturizers",
+            "Stabilizers",
+            "Starches & Thickeners",
+            "Functional Additives",
+            "Production Aids and Processing Additives",
+            "Texture & Consistency",
+            "Paper & Pulp Chemicals",
+            "Textile & Leather Chemicals"
+        ],
+        "Ingredient Name": [
+            "Modified Tapioca Starch"
+        ],
+        "End Uses": [
+            "Bread",
+            "Muffins"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Modified Tapioca Starch"
+        ],
+        "Functions": [
+            "Stabilizer",
+            "Texturizing Agent",
+            "Thickener",
+            "Humectant"
+        ],
+        "Ingredient Origin": [
+            "Plant Origin",
+            "Natural Origin"
+        ],
+        "Labeling Claims": [
+            "Halal",
+            "Naturally Derived",
+            "Biodegradable",
+            "Plant-Based",
+            "Kosher",
+            "Natural"
+        ]
+    }
+}

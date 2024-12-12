@@ -1,0 +1,63 @@
+{
+    "id": 79163,
+    "brand": "galsilk",
+    "name": "Galaxy™ LES 70",
+    "slug": "galaxy-les-70",
+    "description": "Galaxy™ LES 70 is a versatile ingredient suitable for a wide range of applications in both cleaning and personal care products. It falls within the category of cleaning ingredients, specifically as an anionic surfactant within the soap and surfactants product family. Additionally, it functions as an emulsifier, making it a valuable component in formulations.",
+    "company_name": "Galaxy Surfactants Ltd.",
+    "company_slug": "galaxy-surfactants",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1727236849/production/Company/1476/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1727236849/production/Company/1476/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Bath & Shower",
+            "Hair Care",
+            "Surface Care",
+            "Dish Care",
+            "Home Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Foam Additives",
+            "Emulsifiers, Solubilizers & Dispersants",
+            "Anionic Surfactants",
+            "Emulsifiers & Demulsifiers",
+            "Functionals",
+            "Surfactants & Cleansers",
+            "Soaps & Surfactants",
+            "Cleaning Aids",
+            "Processing Aids"
+        ],
+        "INCI Name": [
+            "Sodium Laureth Sulfate"
+        ],
+        "End Uses": [
+            "Fire Fighting Foams",
+            "Dishwash Detergents",
+            "Liquid Detergents",
+            "Shampoos & Rinses",
+            "Body Wash",
+            "Shower Gels",
+            "Liquid Soap",
+            "Bubble Bath",
+            "Bar Soaps"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Sodium Laureth Sulfate"
+        ],
+        "CAS Number": [
+            "68891-38-3"
+        ],
+        "Functions": [
+            "Foaming Agent",
+            "Surfactant",
+            "Emulsifier",
+            "Surfactant (Anionic)"
+        ],
+        "Synonyms": [
+            "Poly(oxy-1,2-ethanediyl), α-sulfo-ω-hydroxy-, C12-14-alkyl ethers, sodium salts"
+        ]
+    }
+}

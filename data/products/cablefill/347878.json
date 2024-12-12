@@ -1,0 +1,52 @@
+{
+    "id": 347878,
+    "brand": "cablefill",
+    "name": "SuperOhm® 2560",
+    "slug": "superohm-2560",
+    "description": "SuperohmÂ® 2560 is an oil and solvent resistant off-white colorable polymeric composition in pellet form, based on EPDM rubber containing peroxide curing agent, ready for extrusion in a conventional CV or dry cure extrusion line. Cables jacketed with this compound are recognized for balanced properties including excellent heat and deformation resistance at high temperatures, oil resistance, and superior mechanical properties and is suitable for operation up to 450F (230C) in appropriate cable construction when extruded and cured consistent with industry standards. ",
+    "company_name": "Electric Cable Compounds",
+    "company_slug": "electric-cable-compounds",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112894/production/Brand/23151/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1686112894/production/Brand/23151/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Wire & Cable",
+            "Power, Water & Utilities",
+            "Jacketing & Insulation",
+            "Exploration & Upstream",
+            "Power & Utilities",
+            "Renewable Energy",
+            "Power Transmission & Distribution",
+            "Oil, Gas & Mining"
+        ],
+        "Product Families": [
+            "Thermoset Elastomers",
+            "EP Rubbers (EPDM)"
+        ],
+        "Chemical Family": [
+            "Ethylene-Propylene Copolymers (EPR)"
+        ],
+        "Polymer Name": [
+            "Ethylene Propylene Copolymer"
+        ],
+        "End Uses": [
+            "Industrial Cable Jacketing",
+            "Cables",
+            "Low Voltage Insulation",
+            "Wires",
+            "Medium Voltage Insulation",
+            "Industrial Cable Insulation"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Ethylene Propylene Copolymer"
+        ],
+        "Processing Methods": [
+            "Extrusion"
+        ],
+        "Density": [
+            "1170.0 - 1210.0 kg/m³"
+        ]
+    }
+}

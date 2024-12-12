@@ -1,0 +1,43 @@
+{
+    "id": 412111,
+    "brand": "duocel",
+    "name": "Duocel® Ceramic Foam",
+    "slug": "duocel-ceramic-foam",
+    "description": "Duocel® Ceramic Foam is a skeletal material with a rigid, highly porous and permeable structure; all Duocel foams have controlled density of material per unit volume. Our most popular ceramic foam is silicon carbide. The matrix of cells and ligaments is completely repeatable, regular, and uniform throughout the entirety of the material.\r\n",
+    "company_name": "ERG Aerospace",
+    "company_slug": "erg-aerospace",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1702444506/production/Brand/32159/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608744/production/CategoryImage/575/category_image/AutomotiveTransportation_03.jpg",
+    "properties": {
+        "Applications": [
+            "Aerospace & Aviation",
+            "Transportation"
+        ],
+        "Product Families": [
+            "Foams"
+        ],
+        "Chemical Family": [
+            "Ceramics"
+        ],
+        "End Uses": [
+            "Spacecraft",
+            "Satellite"
+        ]
+    },
+    "summary": {
+        "Foam Type": [
+            "Open Cell Foam",
+            "Reticulated Foam"
+        ],
+        "Chemical Family": [
+            "Ceramics"
+        ],
+        "End Uses": [
+            "Spacecraft",
+            "Satellite"
+        ],
+        "Physical Form": [
+            "Foam"
+        ]
+    }
+}

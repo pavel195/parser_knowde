@@ -1,0 +1,42 @@
+{
+    "id": 405724,
+    "brand": "cor-ban",
+    "name": "Cor-Ban® 12",
+    "slug": "cor-ban-12",
+    "description": "Cor-Ban® 12 is a fast curing and durable temporary protective coating.",
+    "company_name": "Zip-Chem",
+    "company_slug": "zip-chem",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520177/production/Brand/31145/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608611/production/CategoryImage/569/category_image/PaintingsCoatings_05.jpg",
+    "properties": {
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Coating"
+        ],
+        "Features": [
+            "Fast Curing",
+            "Good Solvent Resistance",
+            "Salt Resistance",
+            "Durable",
+            "Corrosion Resistant",
+            "Good Color Stability",
+            "UV Resistant",
+            "Water Resistant",
+            "Anti-Blocking",
+            "Outdoor Durability"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Aluminum",
+            "Metal"
+        ],
+        "Application Method": [
+            "Brush",
+            "Spray"
+        ]
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "id": 232682,
+    "brand": "epidian",
+    "name": "EPIDIAN® 115",
+    "slug": "epidian-115",
+    "description": "EPIDIAN® 115 is used in anti-corrosive paints.",
+    "company_name": "Ciech",
+    "company_slug": "ciech",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112108/production/Product/232682/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608600/production/CategoryImage/568/category_image/PaintingsCoatings_04.jpg",
+    "properties": {
+        "Applications": [
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Resins & Binders",
+            "Epoxies"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ],
+        "End Uses": [
+            "Varnishes"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ],
+        "End Uses": [
+            "Varnishes"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal"
+        ],
+        "Features": [
+            "Improved Hardness",
+            "Heat Resistance",
+            "Corrosion Resistance",
+            "Chemical Resistance",
+            "Dirt Pickup Resistance",
+            "Good Electrical Properties",
+            "Good Shrinkage Resistance",
+            "Good Mechanical Properties"
+        ]
+    }
+}

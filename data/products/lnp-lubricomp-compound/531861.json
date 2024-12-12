@@ -1,0 +1,47 @@
+{
+    "id": 531861,
+    "brand": "lnp-lubricomp-compound",
+    "name": "NORYL™ Resin TP0140IF",
+    "slug": "noryl-resin-tp0140if",
+    "description": "NORYL™ Resin TP0140IF is a non-reinforced blend of polyphenylene ether (PPE) and polystyrene (PS). This injection moldable grade is distinguished by its high transparency, excellent heat resistance, high ductility, minimal water absorption, and superior dimensional stability. NORYL™ Resin TP0140IF is compliant with FDA food contact regulations and does not intentionally contain PFAS or Bisphenol A. Ideal for a range of applications including small appliances, steamers, water bottles, cutlery, and other food contact uses, NORYL™ Resin TP0140IF offers manufacturers a reliable material choice that prioritizes safety, performance, and regulatory compliance in food-related applications.",
+    "company_name": "SABIC's Specialties Business",
+    "company_slug": "sabic-specialties",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1718787441/production/Brand/28746/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1626797855/production/CategoryImage/997/category_image/PigmentsColorants_04.jpg",
+    "properties": {
+        "Applications": [
+            "Food & Beverage Packaging",
+            "Appliances & Electronics",
+            "Packaging"
+        ],
+        "Product Families": [
+            "Blends & Alloys",
+            "Engineering & Specialty Polymers"
+        ],
+        "Chemical Family": [
+            "Styrenics",
+            "Polyethers"
+        ],
+        "Polymer Name": [
+            "PPE/PS Alloy"
+        ],
+        "End Uses": [
+            "Cutlery",
+            "Commercial Appliance"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "PPE/PS Alloy"
+        ],
+        "Processing Methods": [
+            "Injection Molding"
+        ],
+        "Density": [
+            "1050.0 - 1050.0 kg/m³"
+        ],
+        "Flexural Modulus": [
+            "2380.0 - 2380.0 MPa"
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "id": 275685,
+    "brand": "syntholux",
+    "name": "SYNTHALAT A-TS 1400",
+    "slug": "synthalat-a-ts-1400",
+    "description": "Polyisocyanate crosslincable Acrylic resin",
+    "company_name": "Synthopol",
+    "company_slug": "synthopol",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691739726/production/Company/22068/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608630/production/CategoryImage/571/category_image/PaintingsCoatings_07.jpg",
+    "properties": {
+        "Applications": [
+            "Furniture",
+            "Industrial Coatings",
+            "Wood Coatings & Finishes",
+            "Wood Flooring",
+            "Furniture Coatings",
+            "Flooring & Surfaces",
+            "Building & Construction"
+        ],
+        "Product Families": [
+            "Acrylics",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ],
+        "End Uses": [
+            "2K (2 component) Coating"
+        ]
+    },
+    "summary": {}
+}

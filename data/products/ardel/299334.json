@@ -1,0 +1,37 @@
+{
+    "id": 299334,
+    "brand": "ardel",
+    "name": "AMIDELUX® Polyamide PA",
+    "slug": "amidelux-polyamide-pa",
+    "description": "Amidelux® Polyamide PA is a high performance Polyamide polymer that is unique among the wide variety of Nylon (PA) materials on the market. Amidelux is extruded as a clear, thin sheet that can be thermoformed into finished parts. Amidelux provides the advantages of semi-crystalline product to applications that require clarity. Amidelux provides better clarity, scratch resistance, and chemical resistance than Polycarbonate.",
+    "company_name": "Westlake Plastics",
+    "company_slug": "westlake-plastics",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691744473/production/Company/22836/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Other Consumer Goods Applications"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Polyamides"
+        ],
+        "Polymer Name": [
+            "Polyamide (unspecified)"
+        ],
+        "End Uses": [
+            "Lenses",
+            "Eyeglasses"
+        ]
+    },
+    "summary": {
+        "Density": [
+            "1020.0 - 1020.0 kg/m³"
+        ],
+        "Tensile Modulus": [
+            "1400.0 - 1400.0 MPa"
+        ]
+    }
+}

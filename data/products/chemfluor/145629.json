@@ -1,0 +1,48 @@
+{
+    "id": 145629,
+    "brand": "chemfluor",
+    "name": "Rulon® J",
+    "slug": "rulon-j",
+    "description": "Rulon® J is an all-polymeric reinforced, light brown colored PTFE compound that operates exceptionally well against soft mating surfaces such as 316 stainless steel, aluminum, mild steel, brass and other plastics. The unique \"shaft friendly\" material is also low in friction and wear and is self lubricating.Rulon J has one of the lowest coefficients of friction of most reinforced PTFE materials. This makes it ideally suited for start/stop applications where stick-slip must be eliminated. The tribological properties of this material also make it suitable for both bearing and wear component applications.",
+    "company_name": "Saint-Gobain",
+    "company_slug": "saint-gobain",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708526987/production/Company/1397/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708526987/production/Company/1397/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Exterior & Body",
+            "Other Industrial Applications",
+            "Other Parts & Components",
+            "Structural Components",
+            "Other Automotive Applications",
+            "Automotive",
+            "Building Materials",
+            "Parts & Components",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "High Performance Thermoplastics",
+            "Engineering & Specialty Polymers"
+        ],
+        "Chemical Family": [
+            "Fluoropolymers"
+        ],
+        "Polymer Name": [
+            "Polytetrafluoroethylene (PTFE)"
+        ],
+        "End Uses": [
+            "Windows",
+            "Sunroof Frame",
+            "Bearings",
+            "Automotive Applications"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polytetrafluoroethylene (PTFE)"
+        ],
+        "Processing Methods": [
+            "Extrusion"
+        ]
+    }
+}

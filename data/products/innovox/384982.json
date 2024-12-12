@@ -1,0 +1,41 @@
+{
+    "id": 384982,
+    "brand": "innovox",
+    "name": "Innovoh® Calcium Hydroxides",
+    "slug": "innovoh-calcium-hydroxides",
+    "description": "Innovoh® Calcium Hydroxides is a powder consisting of ultra-fine particles of calcium hydroxide, which gives excellent mixing and dispersion characteristics. Calcium hydroxide is used as a cure additive and acid scavenger in bisphenol cured FKM fluoroelastomers. It is not used in peroxide cured systems. Acid scavenging capacity is particularly useful in systems containing chlorine or fluorine. Calcium hydroxide will react with any free hydrochloric or hydrofluoric acid to neutralize the acid and prevent any corrosive impact on metal parts. Innovoh contains high quality, ultra-fine calcium hydroxide which is extremely consistent in its performance. Innovoh powders contain 100% calcium hydroxide powder.",
+    "company_name": "Birch Chemicals",
+    "company_slug": "birch-chemicals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708687233/production/Brand/28842/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608760/production/CategoryImage/576/category_image/AutomotiveTransportation_04.jpg",
+    "properties": {
+        "Applications": [
+            "Equipment & Parts",
+            "Other Industrial Applications",
+            "Pipes & Plumbing",
+            "Building Materials",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Performance Additives",
+            "Elastomer Additives"
+        ],
+        "End Uses": [
+            "Gaskets",
+            "Hoses"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Curing Agent",
+            "Acid Scavenger"
+        ],
+        "Compatible Polymers & Resins": [
+            "Fluoroelastomer (FKM)"
+        ],
+        "End Uses": [
+            "Hoses",
+            "Gaskets"
+        ]
+    }
+}

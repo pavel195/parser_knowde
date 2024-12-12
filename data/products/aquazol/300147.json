@@ -1,0 +1,32 @@
+{
+    "id": 300147,
+    "brand": "aquazol",
+    "name": "Polymer Chemistry Innovations PEHMA",
+    "slug": "polymer-chemistry-innovations-pehma",
+    "description": "Polymer Chemistry Innovations PEHMA is a birefringent and non fouling polymer that is flexible while remaining extremely robust, providing weatherability, scratch resistance and chemical resistance. PEHMA exhibits strong adhesive and film forming properties. At 1.5 micron thickness, PEHMA allows for &gt;92% visible light transmittance with &lt;1% haziness.",
+    "company_name": "Polymer Chemistry Innovations",
+    "company_slug": "polymer-chemistry-innovations",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704100289/production/Product/300147/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Product Families": [
+            "Other Resins & Binders",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Methacrylates"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Methacrylates"
+        ],
+        "Features": [
+            "Excellent Weatherability",
+            "Improved Flexibility",
+            "Water Resistance",
+            "Excellent Adhesion",
+            "Chemical Resistance"
+        ]
+    }
+}

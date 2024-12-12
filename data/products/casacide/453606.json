@@ -1,0 +1,48 @@
+{
+    "id": 453606,
+    "brand": "casacide",
+    "name": "CASASOL® Titanium Peroxide",
+    "slug": "casasol-titanium-peroxide",
+    "description": "CASASOL® Titanium Peroxide is an Active Pharmaceutical Ingredient (API) manufactured under c-GMP standards and used in personal care formulation. Particularly suitable for nappy rash formulations due to its mildly astringent properties which help to relieve itching and chafing.",
+    "company_name": "Thomas Swan",
+    "company_slug": "thomas-swan",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708692251/production/Brand/35885/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708692251/production/Brand/35885/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Treatment Products",
+            "Baby Care",
+            "API Manufacturing",
+            "Pharmaceutical Manufacturing",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Skin Actives",
+            "Active Pharmaceutical Ingredients (APIs)",
+            "Cosmetic Actives",
+            "Pharmaceutical Actives & Precursors"
+        ],
+        "INCI Name": [
+            "Titanium Dioxide"
+        ],
+        "End Uses": [
+            "Rash Cream",
+            "Anti Itch Cream",
+            "Diaper Cream"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Titanium Dioxide"
+        ],
+        "Chemical Name": [
+            "Titanium Salicylate"
+        ],
+        "CAS Number": [
+            "96419-31-7"
+        ],
+        "Functions": [
+            "Astringent"
+        ]
+    }
+}

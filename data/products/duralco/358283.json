@@ -1,0 +1,27 @@
+{
+    "id": 358283,
+    "brand": "duralco",
+    "name": "Duralco™ 128",
+    "slug": "duralco-128",
+    "description": "Duralco™ 128 is highly conductive, ceramic filled, electrically resistant adhesive and potting compound. Just mix, apply and cure at room temperature. 128 is ideal for use in rectifiers, high power devices, semi-conductors, etc.",
+    "company_name": "Cotronics",
+    "company_slug": "cotronics",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697223450/production/Brand/26685/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608693/production/CategoryImage/573/category_image/AutomotiveTransportation_01.jpg",
+    "properties": {
+        "Applications": [
+            "Semiconductor Manufacturing",
+            "Other Adhesives & Sealants Applications",
+            "Other Electrical & Electronics Applications",
+            "Parts & Components"
+        ],
+        "Product Families": [
+            "Conductive Adhesives",
+            "Adhesives & Sealants"
+        ],
+        "Chemical Family": [
+            "Ceramics"
+        ]
+    },
+    "summary": {}
+}

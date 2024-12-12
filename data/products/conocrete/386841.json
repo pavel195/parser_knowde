@@ -1,0 +1,27 @@
+{
+    "id": 386841,
+    "brand": "conocrete",
+    "name": "ConoCrete General Purpose 101",
+    "slug": "conocrete-general-purpose-101",
+    "description": "ConoCrete General Purpose 101 is a chemically-resistant, 100% solids, aggregate-filled, general purpose epoxy floor system. It is ideal for resurfacing old and protecting new concrete floors from chemical and physical abuse. The physical properties of this material far exceed those of concrete, providing a more durable surface with greater chemical resistance.",
+    "company_name": "SAUEREISEN",
+    "company_slug": "sauereisen",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1694073656/production/Brand/28976/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608557/production/CategoryImage/565/category_image/PaintingsCoatings_01.jpg",
+    "properties": {
+        "Applications": [
+            "Concrete Coatings & Stains",
+            "Floor Coatings",
+            "Flooring & Surfaces",
+            "Building & Construction"
+        ],
+        "Product Families": [
+            "Mortar & Grouts",
+            "Construction Materials"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    },
+    "summary": {}
+}

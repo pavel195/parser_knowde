@@ -1,0 +1,43 @@
+{
+    "id": 412077,
+    "brand": "alpet",
+    "name": "Alpet® 70 30",
+    "slug": "alpet-70-30",
+    "description": "Alpet® 70/30 Industrial Cleaner is a highly-evaporative cleaner for the entire facility.",
+    "company_name": "Best Sanitizers, Inc.",
+    "company_slug": "best-sanitizers",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1666331492/production/Brand/32152/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515636/production/CategoryImage/1054/category_image/HII_06.jpg",
+    "properties": {
+        "Applications": [
+            "Institutional & Industrial Care",
+            "Surface Care",
+            "Industrial Cleaning",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Industrial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner",
+            "Industrial Cleaners",
+            "Adhesive Remover"
+        ],
+        "Application Areas": [
+            "Equipment"
+        ],
+        "Certifications & Compliance": [
+            "Halal",
+            "Kosher",
+            "United States Pharmacopeia (USP)"
+        ],
+        "Features": [
+            "Effective Soil Removal",
+            "Fast Drying",
+            "No-Rinse"
+        ]
+    }
+}

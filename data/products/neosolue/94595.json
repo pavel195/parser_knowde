@@ -1,0 +1,63 @@
+{
+    "id": 94595,
+    "brand": "neosolue",
+    "name": "YOFCO™ MAS",
+    "slug": "yofco-mas",
+    "description": "YOFCO MAS(Phytosteryl Macadamiate) is an ester of Macadamia nut oil fatty acids and vegetable sterols.",
+    "company_name": "Nippon Fine Chemical",
+    "company_slug": "nippon-fine-chemical",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708690933/production/Company/1338/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708690933/production/Company/1338/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Color Cosmetics",
+            "Hair Care",
+            "Skin Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Conditioners & Emollients",
+            "Functionals"
+        ],
+        "Chemical Family": [
+            "Fatty Acids",
+            "Esters"
+        ],
+        "INCI Name": [
+            "Phytosteryl Macadamiate"
+        ],
+        "End Uses": [
+            "Moisturizers",
+            "Facial Cleanser",
+            "Eye Liner",
+            "Shampoos & Rinses"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Phytosteryl Macadamiate"
+        ],
+        "Functions": [
+            "Conditioner",
+            "Moisturizing Agent"
+        ],
+        "Labeling Claims": [
+            "Credo Clean Standard",
+            "Clean at Sephora",
+            "Organic",
+            "Ulta Beauty's Conscious Beauty"
+        ],
+        "Certifications & Compliance": [
+            "CosIng Listed",
+            "Organic Certified",
+            "IECIC (China)",
+            "Kosher",
+            "EFISC",
+            "ECOCERT",
+            "Halal"
+        ],
+        "Benefit Claims": [
+            "Moisturizing"
+        ]
+    }
+}

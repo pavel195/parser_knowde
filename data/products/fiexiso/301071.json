@@ -1,0 +1,47 @@
+{
+    "id": 301071,
+    "brand": "fiexiso",
+    "name": "Fiexiso® PET FI 13000",
+    "slug": "fiexiso-pet-fi-13000",
+    "description": "Fiexiso® PET FI 13000 is a Polyethylenterephalate manufactured Electrical Insulation Film and is used as insulation material up to and including insulation class B (130°C).",
+    "company_name": "Dr. D. Mueller",
+    "company_slug": "dr-d-mueller",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686150066/production/Company/24190/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Tapes & Labels",
+            "Packaging & Paper",
+            "Tapes, Labels & Adhesives",
+            "Other Electrical & Electronics Applications",
+            "Tape & Label Adhesives"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Polyesters",
+            "Polyethylene Terephthalate (PET)"
+        ],
+        "Polymer Name": [
+            "Polyethylene Terephthalate (PET)"
+        ],
+        "End Uses": [
+            "Tape"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyethylene Terephthalate (PET)"
+        ],
+        "Physical Form": [
+            "Film"
+        ],
+        "Features": [
+            "Dimensional Stability",
+            "Tear Resistance",
+            "Good Electrical Properties",
+            "Very Good Heat Resistance"
+        ]
+    }
+}

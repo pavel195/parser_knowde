@@ -1,0 +1,48 @@
+{
+    "id": 389633,
+    "brand": "komaalu",
+    "name": "KömaAlu® 578520",
+    "slug": "komaalu-578520",
+    "description": "KömaAlu® 578520 KömaAlu is an innovation composite material consisting of aluminum covers and a polyethylene core bonded together to form a resilient unit. The aluminum covers are then enameled with a polyester paint system (coil coating).",
+    "company_name": "Profine",
+    "company_slug": "profine",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686150140/production/Brand/29298/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608454/production/CategoryImage/560/category_image/BuildingConstruction_04.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Wall Panels",
+            "Building Envelope & Roofing",
+            "Glazing & Window Elements",
+            "Other Building Envelope & Roofing Applications"
+        ],
+        "Product Families": [
+            "Parts & Shapes",
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Aluminum Compounds"
+        ],
+        "End Uses": [
+            "Composite Cladding",
+            "Wall Panels"
+        ]
+    },
+    "summary": {
+        "Color": [
+            "White"
+        ],
+        "Physical Form": [
+            "Sheets"
+        ],
+        "Features": [
+            "Good Weather Stability",
+            "Good Printability",
+            "Corrosion Resistant",
+            "UV Resistant",
+            "High Durability",
+            "Good Flexural Modulus",
+            "Recyclable"
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "id": 301217,
+    "brand": "kellomer",
+    "name": "KELLOMER STA-2350",
+    "slug": "kellomer-sta-2350",
+    "description": "KELLOMER STA-2350 is a star branched acrylate. Films of STA-2350 cured by UV/EB exhibit very high hardness and excellent scratch resistance to film and plastic.",
+    "company_name": "Kellon",
+    "company_slug": "kellon",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686148744/production/Company/24233/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608621/production/CategoryImage/570/category_image/PaintingsCoatings_06.jpg",
+    "properties": {
+        "Applications": [
+            "Specialty Coatings",
+            "Other Specialty Coatings",
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Oligomers",
+            "Monomers & Intermediates"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ],
+        "Molecular Weight": [
+            "11100.0 - 11100.0 g/mol"
+        ]
+    }
+}

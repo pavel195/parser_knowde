@@ -1,0 +1,43 @@
+{
+    "id": 399847,
+    "brand": "ap-101",
+    "name": "AP 101®",
+    "slug": "ap-101",
+    "description": "AP 101® is used for closure of lightweight cartons in manual and automated industrial sealing settings.",
+    "company_name": "Shurtape Technologies",
+    "company_slug": "shurtape-technologies",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520138/production/Company/50464/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608982/production/CategoryImage/589/category_image/AdhesivesSealants_06.jpg",
+    "properties": {
+        "Applications": [
+            "Tapes, Labels & Adhesives",
+            "Case & Carton Sealing"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Pressure Sensitive Adhesives & Tapes"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Tape"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ],
+        "Features": [
+            "Durable",
+            "Wide Temperature Operating Range",
+            "General Purpose",
+            "UV Resistant",
+            "Heat Aging Resistant",
+            "Good Non-Yellowing Properties",
+            "High Clarity",
+            "Good Aging Behavior",
+            "Low Odor"
+        ]
+    }
+}

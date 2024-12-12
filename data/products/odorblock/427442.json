@@ -1,0 +1,40 @@
+{
+    "id": 427442,
+    "brand": "odorblock",
+    "name": "ALCOREX® READY TO USE",
+    "slug": "alcorex-ready-to-use",
+    "description": "ALCOREX® READY TO USE is a ready-to-use liquid disinfectant based on ethyl alcohol active against bacteria, fungi and viruses. Alcorex ® is a practical and versatile surface disinfectant to be used in everyday life in various areas: healthcare, public hygiene, industry, and small and large catering.",
+    "company_name": "NEWPHARM S R L",
+    "company_slug": "newpharm-s-r-l",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664293004/production/Brand/33869/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515647/production/CategoryImage/1055/category_image/HII_07.jpg",
+    "properties": {
+        "Applications": [
+            "Home Care",
+            "Institutional & Industrial Care",
+            "Surface Care",
+            "Industrial Cleaning",
+            "Institutional & Catering"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Industrial Cleaners",
+            "Commercial Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Sanitizers",
+            "Disinfectant Products"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Plastics",
+            "Wood"
+        ],
+        "Features": [
+            "Anti-Viral",
+            "Anti-Fungal",
+            "Anti-Bacterial"
+        ]
+    }
+}

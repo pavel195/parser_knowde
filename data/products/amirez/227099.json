@@ -1,0 +1,59 @@
+{
+    "id": 227099,
+    "brand": "amirez",
+    "name": "Incozol 4",
+    "slug": "incozol-4",
+    "description": "A bis-oxazolidine curing agent, which hydrolyses on exposure to moisture, yielding a reactive amine and hydroxyl functional cross-linking agent. Incozol 4 can be used in one component PU systems, where it is normally used with aliphatic prepolymers.",
+    "company_name": "Incorez Ltd",
+    "company_slug": "incorez-ltd",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708673433/production/Company/8738/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708673433/production/Company/8738/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Other Printing Applications",
+            "Waterproofing & Weatherproofing",
+            "Floor Coatings",
+            "Roof Coatings",
+            "Interior Fixtures",
+            "Building Materials",
+            "Flooring & Surfaces",
+            "Roofing",
+            "Building & Construction",
+            "Printing & Inks",
+            "Building Envelope & Roofing"
+        ],
+        "Product Families": [
+            "Functional Additives",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Oxazolidines"
+        ],
+        "End Uses": [
+            "Other Ink Types",
+            "Varnishes",
+            "Solventless & High Solids Coating",
+            "2K (2 component) Coating",
+            "1K (1 component) Coating"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Curing Agent",
+            "Moisture Scavenger"
+        ],
+        "Chemical Family": [
+            "Oxazolidines"
+        ],
+        "End Uses": [
+            "1K (1 component) Coating",
+            "Varnishes",
+            "Other Ink Types",
+            "Solventless & High Solids Coating",
+            "2K (2 component) Coating"
+        ],
+        "Compatible Polymers & Resins": [
+            "Polyurethanes (PU)"
+        ]
+    }
+}

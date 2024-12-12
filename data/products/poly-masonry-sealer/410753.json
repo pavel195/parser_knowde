@@ -1,0 +1,44 @@
+{
+    "id": 410753,
+    "brand": "poly-masonry-sealer",
+    "name": "Poly Masonry Sealer M-2O",
+    "slug": "poly-masonry-sealer-m-2o",
+    "description": "Poly Masonry Sealer M-20 is a high tech, molecular, waterborne penetrating polysiloxane sealer made specifically for Clay Masonry building faces, floors, walks and other structures to protect against damage due to water penetration. Poly Masonry Sealer M-20 provides long lasting protection against efflorescence (alkali salts and lime leaching), staining due to atmospheric carbons, algae, mildew, rust, salts, chloride penetration, corrosion, acid rain, dampness, and other water related damage. Poly Masonry Sealer M-20 will shed or bead water from all clay products. Poly Masonry Sealer M-2O is VOC compliant.",
+    "company_name": "Endur-o-seal",
+    "company_slug": "endur-o-seal",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520343/production/Brand/31932/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608454/production/CategoryImage/560/category_image/BuildingConstruction_04.jpg",
+    "properties": {
+        "Applications": [
+            "Flooring & Surfaces",
+            "Building & Construction",
+            "Building Envelope & Roofing",
+            "Shingles & Tiles",
+            "Concrete Coatings & Stains",
+            "Floor Coatings"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Waterborne Coating",
+            "Sealer"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Brick",
+            "Concrete"
+        ],
+        "Features": [
+            "Mildew Resistant",
+            "Corrosion Resistant",
+            "Acid Resistant",
+            "Salt Resistance",
+            "Low VOC",
+            "Alkali Resistant",
+            "Long Term Protection"
+        ]
+    }
+}

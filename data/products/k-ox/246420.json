@@ -1,0 +1,33 @@
+{
+    "id": 246420,
+    "brand": "k-ox",
+    "name": "CRUDERES™ HV25",
+    "slug": "cruderes-hv25",
+    "description": "Cruderes™ HV25 is a dark colored resin, derived from Pennsylvania and Appalachian Grade Crude refinery processes. CrudeResTM HV25 is higher in carbon and lower in sulfur and oxygen than other resins from naphthenic and asphaltic crudes.\r\n",
+    "company_name": "Kimes Technologies International",
+    "company_slug": "kimes-technologies",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708531705/production/Company/18491/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708531705/production/Company/18491/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Fluids & Lubricants",
+            "Pavement, Highways, Roads & Bridges",
+            "Infrastructure, Roads & Paving",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Other Resins & Binders",
+            "Asphalt Additives",
+            "Performance Additives",
+            "Resins & Binders",
+            "Additives",
+            "Construction Chemicals"
+        ],
+        "End Uses": [
+            "Asphalt",
+            "Quenching Fluids",
+            "Metalworking Fluids"
+        ]
+    },
+    "summary": {}
+}

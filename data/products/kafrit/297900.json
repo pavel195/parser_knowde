@@ -1,0 +1,48 @@
+{
+    "id": 297900,
+    "brand": "kafrit",
+    "name": "KAFRIT AT 00U11 LD",
+    "slug": "kafrit-group-at-00u11-ld",
+    "description": "KAFRIT AT 00U11 LD is an amine-free product designed for short- and long-term antistatic effects, even at very low humidity levels. These anti-static agents are carried by polyethylenes (PE) and resin-based materials, and they target the electrical and electronics markets as well as the printing and packaging markets.",
+    "company_name": "Kafrit Group",
+    "company_slug": "kafrit-group",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708686410/production/Brand/38849/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625605472/production/CategoryImage/448/category_image/Plastics_07.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial & Transport Packaging",
+            "Food & Beverage Packaging",
+            "Housings & Enclosures",
+            "Parts & Components",
+            "Packaging"
+        ],
+        "Product Families": [
+            "Surface Modifiers",
+            "Additive Masterbatches",
+            "Masterbatches",
+            "Polymer Additives"
+        ],
+        "End Uses": [
+            "Enclosure",
+            "Food Packaging",
+            "Film",
+            "Electrical/Electronic Applications",
+            "Cast Films"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Anti-Static Agent"
+        ],
+        "Labeling Claims": [
+            "Amine-free"
+        ],
+        "Carrier": [
+            "Resin-based",
+            "Polyethylenes (PE)"
+        ],
+        "Features": [
+            "Anti-Static"
+        ]
+    }
+}

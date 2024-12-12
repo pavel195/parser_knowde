@@ -1,0 +1,47 @@
+{
+    "id": 388300,
+    "brand": "healthy-harvest",
+    "name": "Healthy Harvest Canola Oil",
+    "slug": "healthy-harvest-canola-oil",
+    "description": "Healthy Harvest Canola Oil - Non-GMO Certified with Antioxidants and Omega-3s {One Gallon - 128 oz.} Is NON - GMO CANOLA OIL FOR Cooking Oil and Healthy Harvest’s canola oil is free of GMOs (Genetically Modified Organisms) so you can feel good about cooking and baking with it. The Canola Oil is a product of Canada.\r\n",
+    "company_name": "Healthy Harvest",
+    "company_slug": "healthy-harvest-productions",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704796104/production/Company/37292/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606622/production/CategoryImage/492/category_image/FoodIngredients_06.jpg",
+    "properties": {
+        "Applications": [
+            "Bakery",
+            "Cooking Oils & Fat Products",
+            "Food"
+        ],
+        "Product Families": [
+            "Edible Oils & Fats",
+            "Whole Foods, Extracts & Premixes"
+        ],
+        "End Uses": [
+            "Cooking Oil"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Canola Oil"
+        ],
+        "Physical Form": [
+            "Liquid"
+        ],
+        "Labeling Claims": [
+            "Non-GMO",
+            "Kosher",
+            "Pesticide-free",
+            "Halal"
+        ],
+        "Certifications & Compliance": [
+            "Kosher",
+            "Non-GMO Project Verified",
+            "Halal"
+        ],
+        "Features": [
+            "Antioxidant Properties"
+        ]
+    }
+}

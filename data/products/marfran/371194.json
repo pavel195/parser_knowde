@@ -1,0 +1,27 @@
+{
+    "id": 371194,
+    "brand": "marfran",
+    "name": "MARFRAN® E CDT1 50A",
+    "slug": "marfran-e-cdt1-50a",
+    "description": "MARFRAN® E CDT1 50A is a electrically dissipative TPE compound (non permament) based on SEBS with antistatic migrant additives in order to obtain a considerable anti-static effect that decreases over time.",
+    "company_name": "MARFRAN",
+    "company_slug": "marfran",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697222838/production/Brand/27688/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608465/production/CategoryImage/561/category_image/BuildingConstruction_05.jpg",
+    "properties": {
+        "Applications": [
+            "Footwear"
+        ],
+        "Product Families": [
+            "Styrenic Thermoplastic Elastomers (TPE-S)",
+            "Thermoplastic Elastomers"
+        ],
+        "Polymer Name": [
+            "Styrene Ethylene Butylene Styrene (SEBS)"
+        ],
+        "End Uses": [
+            "Footwear"
+        ]
+    },
+    "summary": {}
+}

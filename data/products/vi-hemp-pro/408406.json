@@ -1,0 +1,46 @@
+{
+    "id": 408406,
+    "brand": "vi-hemp-pro",
+    "name": "ASDAMARIN™",
+    "slug": "asdamarin",
+    "description": "ASDAMARIN™ extract is an effective natural alternative that simultaneously reharmonizes the relationship between the liver and stomach to relieve functional dyspepsia, aid digestion and improve quality of life for sufferers in these times of stress and anxiety. With ingredients dedicated entirely to consumer needs, validated by historical use and modern science, Vidya Herbs helps consumers improve their health and quality of life.",
+    "company_name": "VIDYA EUROPE",
+    "company_slug": "vidya-europe",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708521722/production/Brand/31597/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606961/production/CategoryImage/506/category_image/FoodNutrition_07.jpg",
+    "properties": {
+        "Applications": [
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ]
+    },
+    "summary": {
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Plant Origin"
+        ],
+        "Labeling Claims": [
+            "Organic",
+            "Natural",
+            "Naturally Derived",
+            "Halal",
+            "Plant-Based"
+        ],
+        "Certifications & Compliance": [
+            "USDA Organic",
+            "NSF Approved",
+            "GMP",
+            "Organic Certified",
+            "Halal"
+        ],
+        "Features": [
+            "Stress Reduction"
+        ]
+    }
+}

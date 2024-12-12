@@ -1,0 +1,73 @@
+{
+    "id": 304830,
+    "brand": "equibiotics",
+    "name": "ROELMI HPC PhytoSerene",
+    "slug": "roelmi-hpc-phytoserene",
+    "description": "Phytosterols from pine bark extract",
+    "company_name": "ROELMI HPC",
+    "company_slug": "roelmi-hpc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672258/production/Product/304830/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708672258/production/Company/1386/card_banner/image",
+    "properties": {
+        "Product Families": [
+            "Botanical Ingredients & Extracts",
+            "Skin Actives",
+            "Conditioners & Emollients",
+            "Cosmetic Actives",
+            "Vitamins, Extracts & Oils",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Phytosterols"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Phytosterols"
+        ],
+        "Functions": [
+            "Anti-Inflammatory",
+            "Conditioner",
+            "Protective Agent"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Plant Origin"
+        ],
+        "Labeling Claims": [
+            "Glycol ether-free",
+            "BSE-free",
+            "Nanomaterials-free",
+            "Amine-free",
+            "Credo Clean Standard",
+            "Clean at Sephora",
+            "TSE-free",
+            "VOC-free",
+            "Not Tested on Animals",
+            "Ethylene Oxide-free",
+            "Allergen-free",
+            "Formaldehyde-free",
+            "Chelate-free",
+            "Protein-free",
+            "Vegan",
+            "Animal Products-free",
+            "Ulta Beauty's Conscious Beauty",
+            "Ethanol-free",
+            "Phthalates-free",
+            "Stabilizers-free",
+            "GMO-free",
+            "Antioxidants-free"
+        ],
+        "Benefit Claims": [
+            "Skin Protection",
+            "Moisturizing",
+            "Redness Reduction",
+            "Moisture Retention",
+            "Soothing",
+            "Anti-Inflammatory",
+            "Hydrating",
+            "Skin Barrier",
+            "Improves Cohesion"
+        ]
+    }
+}

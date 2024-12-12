@@ -1,0 +1,32 @@
+{
+    "id": 393380,
+    "brand": "detrex-ultramax",
+    "name": "Detrex ULTRAMAX® 1 - 22° Baume Hydrochloric Acid",
+    "slug": "detrex-ultramax-1-22-baume-hydrochloric-acid",
+    "description": "Detrex ULTRAMAX® 1 - 22° Baume Hydrochloric Acid is the only semiconductor grade hydrochloric acid produced by synthesis, packaged and tested.",
+    "company_name": "Detrex Corporation",
+    "company_slug": "detrex-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704101936/production/Brand/29650/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608841/production/CategoryImage/581/category_image/HealthcarePharma_03.jpg",
+    "properties": {
+        "Applications": [
+            "Semiconductor Manufacturing",
+            "Parts & Components"
+        ],
+        "Product Families": [
+            "Inorganic Acids",
+            "Technical Salts & Inorganics"
+        ],
+        "Chemical Family": [
+            "Inorganic Acids"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Hydrochloric Acid (HCl)"
+        ],
+        "Purity (Assay)": [
+            "34.2 - 36.2 %"
+        ]
+    }
+}

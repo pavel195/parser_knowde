@@ -1,0 +1,37 @@
+{
+    "id": 326412,
+    "brand": "adonat",
+    "name": "Mythocondro®",
+    "slug": "mythocondro",
+    "description": "Mythocondro® is a fermentation-derived form of chondroitin sulfate, an ingredient linked with superior joint health. Chondroitin sulfate has become widely used as a dietary supplement to help keep joints healthy and treat osteoarthritis. Chondroitin sulfate has been traditionally sourced from animals, but concerns over cross-contamination, manufacturing processes, and contamination has driven demand for a non-animal source of this key nutrient. Gnosis by Lesaffre is proud to fulfill this demand with its revolutionary ingredient Mythocondro.",
+    "company_name": "Gnosis",
+    "company_slug": "gnosis",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708526831/production/Company/31049/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606996/production/CategoryImage/508/category_image/FoodNutrition_09.jpg",
+    "properties": {
+        "Applications": [
+            "Oral",
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being",
+            "Drug Delivery & Care Solutions"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Active Pharmaceutical Ingredients (APIs)",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements",
+            "Pharmaceutical Actives & Precursors"
+        ]
+    },
+    "summary": {
+        "Labeling Claims": [
+            "Vegetarian",
+            "Non-GMO",
+            "Vegan",
+            "Allergen-free",
+            "Lactose-free",
+            "Gluten-free"
+        ]
+    }
+}

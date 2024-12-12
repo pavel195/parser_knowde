@@ -1,0 +1,33 @@
+{
+    "id": 232195,
+    "brand": "inktec",
+    "name": "LithoTec 360G Green 8",
+    "slug": "lithotec-360g-green-8",
+    "description": "LithoTec 360G fluorescent concentrates can be converted easily into finished offset inks and are available in 11 colors plus the range of seven special shades covering PMS 801 to 807. They have excellent compatibility with a range of 'let-down' resins and are suitable for Conventional Inks, Heat-set Inks and distinctively are also UV compatible.",
+    "company_name": "Sterling Colour",
+    "company_slug": "sterling-colour",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664287313/production/Company/16406/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609057/production/CategoryImage/591/category_image/PrintingPackaging_02.jpg",
+    "properties": {
+        "Applications": [
+            "Printing & Inks",
+            "Offset & Lithographic Printing"
+        ],
+        "Product Families": [
+            "Inks & Pastes",
+            "Offset & Lithographic Inks"
+        ]
+    },
+    "summary": {
+        "Features": [
+            "Good Light Fastness",
+            "Excellent Compatibility"
+        ],
+        "Color": [
+            "Green (Fluorescent)"
+        ],
+        "Application Method": [
+            "Screen Coating"
+        ]
+    }
+}

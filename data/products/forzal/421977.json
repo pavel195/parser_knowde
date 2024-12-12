@@ -1,0 +1,32 @@
+{
+    "id": 421977,
+    "brand": "forzal",
+    "name": "Forzal ASL 25 A",
+    "slug": "forzal-asl-25-a",
+    "description": "Forzal ASL 25 A is a bi-component (-NCO-NCO) solvent free polyurethane-based adhesive.",
+    "company_name": "Cromogenia Units",
+    "company_slug": "cromogenia-units",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292711/production/Brand/33223/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608972/production/CategoryImage/588/category_image/AdhesivesSealants_05.jpg",
+    "properties": {
+        "Applications": [
+            "Other Adhesives & Sealants Applications"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Contact Adhesives"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Solvent free (100% Solids) Adhesive",
+            "2K (2 component) Adhesive"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ]
+    }
+}

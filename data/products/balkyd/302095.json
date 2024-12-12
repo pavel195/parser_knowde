@@ -1,0 +1,57 @@
+{
+    "id": 302095,
+    "brand": "balkyd",
+    "name": "Balkyd 610S-60D40 HV",
+    "slug": "balkyd-610s-60d40-hv",
+    "description": null,
+    "company_name": "Orgachim Resins",
+    "company_slug": "orgachim-resins",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112352/production/Company/24276/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608630/production/CategoryImage/571/category_image/PaintingsCoatings_07.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Building & Construction",
+            "Industrial Coatings",
+            "Packaging Coatings",
+            "Decorative Paints",
+            "Primers & Lacquers",
+            "Decorative Paints, Coatings & Stains",
+            "Decorative Materials & Finishes",
+            "Metal Coatings",
+            "Wood Coatings & Finishes"
+        ],
+        "Product Families": [
+            "Resins & Binders",
+            "Alkyds"
+        ],
+        "Chemical Family": [
+            "Alkyds (Long Oil)"
+        ],
+        "End Uses": [
+            "Lacquers",
+            "Primer",
+            "Top Coat",
+            "Enamel"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Alkyds (Long Oil)"
+        ],
+        "End Uses": [
+            "Lacquers",
+            "Primer",
+            "Enamel",
+            "Top Coat"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Wood"
+        ],
+        "Features": [
+            "Improved Substrate Wetting",
+            "Water Resistance"
+        ]
+    }
+}

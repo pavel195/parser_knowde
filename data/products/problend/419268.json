@@ -1,0 +1,46 @@
+{
+    "id": 419268,
+    "brand": "problend",
+    "name": "WhiteCAPS",
+    "slug": "whitecaps",
+    "description": "WhiteCAPS from SWT Group is a water based, modified acrylic white reflective roof coating. It has been uniquely formulated for application to granular roofing membranes to enhance the reflectivity, performance and extend the life of the roof at very low film thickness (4-5 mils). In addition to providing blinding initial reflectance measurements of over 75% for California Title 24 “Cool Roof” qualification, WhiteCAPS also enhances the adhesion of granules to the membranes and provides added abrasion, impact and UV resistance to greatly extend the life of any roof. It has excellent stain resistance and bleed blocking properties while remaining flexible enough to expand and shrink with the membrane across all seasons.",
+    "company_name": "SWT Group",
+    "company_slug": "swt-group",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520365/production/Brand/32884/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608611/production/CategoryImage/569/category_image/PaintingsCoatings_05.jpg",
+    "properties": {
+        "Applications": [
+            "Roofing",
+            "Roof Coatings"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Waterborne Coating",
+            "Coating"
+        ],
+        "Features": [
+            "Bleed Resistant",
+            "Good Stain Resistance",
+            "Reflective",
+            "Flexible",
+            "Abrasion Resistant",
+            "Impact Resistance",
+            "UV Resistant"
+        ],
+        "Application Method": [
+            "Spray",
+            "Roller"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    }
+}

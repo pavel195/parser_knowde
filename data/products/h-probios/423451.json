@@ -1,0 +1,36 @@
+{
+    "id": 423451,
+    "brand": "h-probios",
+    "name": "BBA Ecotech MASTER DEO AR",
+    "slug": "bba-ecotech-master-deo-ar",
+    "description": "BBA Ecotech Master Deo AR is an odor neutralizer to eliminate unpleasant odors from the air, also suitable in the presence of workers.",
+    "company_name": "BBA Ecotech",
+    "company_slug": "bba-ecotech",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1673943924/production/Company/59434/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515575/production/CategoryImage/1049/category_image/HII_01.jpg",
+    "properties": {
+        "Applications": [
+            "Air Care",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Industrial Cleaners",
+            "Commercial Cleaners",
+            "Cleaners"
+        ],
+        "End Uses": [
+            "Water System"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Deodorizers"
+        ],
+        "Application Areas": [
+            "Water System"
+        ],
+        "Features": [
+            "Neutralizes Odor"
+        ]
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "id": 469439,
+    "brand": "ginkgoselect",
+    "name": "Indena Horse Chestnut",
+    "slug": "indena-horse-chestnut",
+    "description": "Indena Horse Chestnut is a dry extract derived from the seeds of Aesculus hippocastanum L. It is utilized in pharmaceuticals and nutraceuticals due to its positive impact on cardiovascular health. This product is kosher-certified and contains more than 16.0% less than 22.0% of saponins expressed as Escin by spectrophotometry, as well as less than 10% of total triterpene glycosides expressed as protoaescigenin (dried extract) acc. to Ph. Eur #1829 by HPLC.",
+    "company_name": "Indena",
+    "company_slug": "indena",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708699765/production/Company/1265/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708699765/production/Company/1265/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Oral",
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being",
+            "Drug Delivery & Care Solutions"
+        ],
+        "Product Families": [
+            "Nut & Seed Products",
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Phytochemicals",
+            "Phytochemicals & Plant Extracts",
+            "Nutrition & Fortification",
+            "Whole Foods, Extracts & Premixes",
+            "Nutraceuticals & Supplements"
+        ],
+        "Ingredient Name": [
+            "Horse Chestnut Extract"
+        ],
+        "End Uses": [
+            "Nutraceuticals"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Horse Chestnut Extract"
+        ],
+        "Active Component": [
+            "Saponins",
+            "Triterpene Glycosides"
+        ],
+        "Functions": [
+            "Phytochemical"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Plant Origin"
+        ],
+        "Labeling Claims": [
+            "Kosher",
+            "Naturally Derived",
+            "Plant-Based"
+        ],
+        "Certifications & Compliance": [
+            "Kosher"
+        ]
+    }
+}

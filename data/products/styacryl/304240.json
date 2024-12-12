@@ -1,0 +1,49 @@
+{
+    "id": 304240,
+    "brand": "styacryl",
+    "name": "STYACRYL NMS1021",
+    "slug": "rozachim-nms1021",
+    "description": "STYACRYL NMS1021 is APEO free, UV and self-crosslinking aqueous copolymer emulsion based on Acrylics (Meth acrylic) acid esters and Styrene.Polymeric Surfactant, not migrated.",
+    "company_name": "Rozachim",
+    "company_slug": "rozachim",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112379/production/Company/24774/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608557/production/CategoryImage/565/category_image/PaintingsCoatings_01.jpg",
+    "properties": {
+        "Applications": [
+            "Packaging Coatings",
+            "Overprint Varnishes",
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Resins & Binders",
+            "Acrylics"
+        ],
+        "Chemical Family": [
+            "Styrene-Acrylic Copolymer",
+            "Esters"
+        ],
+        "End Uses": [
+            "Clearcoat",
+            "Varnishes"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Esters",
+            "Styrene-Acrylic Copolymer"
+        ],
+        "End Uses": [
+            "Clearcoat",
+            "Varnishes"
+        ],
+        "Glass Transition Temperature (Tg)": [
+            "20.0 - 20.0 °C"
+        ],
+        "Features": [
+            "Outdoor Durability",
+            "Alkali Resistance",
+            "Blocking Resistance",
+            "Excellent Scratch Resistance"
+        ]
+    }
+}

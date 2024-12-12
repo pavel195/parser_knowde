@@ -1,0 +1,32 @@
+{
+    "id": 411940,
+    "brand": "enviro-kleen",
+    "name": "Quip Laboratories Anlage CD",
+    "slug": "quip-laboratories-anlage-cd",
+    "description": "Anlage CD is an effective one-step sanitizer/cleaner, for use on non-food contact surfaces. Perfect for use in animal care facilities, Anlage CD works well for cleaning cages, pens, runs and common areas to reduce problems associated with cross contamination. It can also remove hard water deposits and limestone buildup.",
+    "company_name": "Quip Laboratories",
+    "company_slug": "quip-laboratories",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292589/production/Company/13965/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515612/production/CategoryImage/1052/category_image/HII_04.jpg",
+    "properties": {
+        "Applications": [
+            "Home Care",
+            "Institutional & Industrial Care",
+            "Surface Care",
+            "Institutional & Catering"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Commercial Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner",
+            "Sanitizers"
+        ],
+        "Application Areas": [
+            "Hard Surfaces"
+        ]
+    }
+}

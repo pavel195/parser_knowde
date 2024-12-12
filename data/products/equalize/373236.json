@@ -1,0 +1,36 @@
+{
+    "id": 373236,
+    "brand": "equalize",
+    "name": "Bova Cubes™",
+    "slug": "bova-cubes",
+    "description": "Bova Cubes™ contain 100% dry distillers grains with soluble and are available in cubes. A patented process creates a hard distillers cube that won’t crumble. McNess Bova Cubes™ can be fed on the ground without high wastage or wind losses. A convenient, quality feed for cows, stockers or calves. Cubes are sourced out of Ord, NE",
+    "company_name": "Furst-McNess Company",
+    "company_slug": "furst-mcness-company",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686126257/production/Brand/27872/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608173/production/CategoryImage/547/category_image/AgricultureFeed_03.jpg",
+    "properties": {
+        "Applications": [
+            "Animal Health & Nutrition",
+            "Ruminants"
+        ],
+        "Product Families": [
+            "Formulated Feeds & Premixes",
+            "Formulated Feeds, Whole Foods and Extracts"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Distillers Grains"
+        ],
+        "Animal Species": [
+            "Cattle",
+            "Cows",
+            "Calves"
+        ],
+        "Features": [
+            "High Energy Content",
+            "High Phosphorus Content",
+            "High Protein Content"
+        ]
+    }
+}

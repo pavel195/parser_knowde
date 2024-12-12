@@ -1,0 +1,41 @@
+{
+    "id": 300997,
+    "brand": "britol",
+    "name": "BRITOL 525",
+    "slug": "britol-525",
+    "description": "BRITOL 525 is used as Curing Agent For Epoxy Based Adhesives &amp; Coatings.",
+    "company_name": "Bright Associates (Bright Resin)",
+    "company_slug": "bright-associates-bright-resin",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708673498/production/Company/24162/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609057/production/CategoryImage/591/category_image/PrintingPackaging_02.jpg",
+    "properties": {
+        "Applications": [
+            "Other Paints & Coatings Applications",
+            "Other Adhesives & Sealants Applications"
+        ],
+        "Product Families": [
+            "Functional Additives",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Polyamides"
+        ],
+        "End Uses": [
+            "Epoxy Coating"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Curing Agent"
+        ],
+        "Chemical Family": [
+            "Polyamides"
+        ],
+        "End Uses": [
+            "Epoxy Coating"
+        ],
+        "Compatible Polymers & Resins": [
+            "Epoxies (EP)"
+        ]
+    }
+}

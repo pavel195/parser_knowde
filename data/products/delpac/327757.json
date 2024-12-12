@@ -1,0 +1,76 @@
+{
+    "id": 327757,
+    "brand": "delpac",
+    "name": "USALCO Aluminum Sulfate Solution",
+    "slug": "usalco-usalco-aluminum-sulfate-solution",
+    "description": "USALCO Aluminum Sulfate Solution is manufactured by dissolving alumina trihydrate (ATH) in water and sulfuric acid. To ensure the highest quality of this product, stringently selected raw materials and state-of-the-art manufacturing practices are used. USALCO Alum meets the specifications of the American Water Works Association Standard B403‐16 and complies with the requirements of NSF/ANSI/CAN 60: Drinking Water Treatment Chemicals ‐ Health Effects at a maximum dosage of 150 mg/L.",
+    "company_name": "USALCO",
+    "company_slug": "usalco",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1719843443/production/Company/32175/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Leather Manufacturing",
+            "Metal Manufacturing & Finishing",
+            "Textile Manufacturing",
+            "Savory & Culinary",
+            "Water Treatment",
+            "Pulping & Processing",
+            "Chemical Manufacturing",
+            "Food",
+            "Chemical & Industrial Manufacturing",
+            "Paper & Pulp",
+            "Power, Water & Utilities",
+            "Leather & Textiles"
+        ],
+        "Product Families": [
+            "Metal Processing Additives",
+            "Other Processing Additives",
+            "Finishing Additives & Treatments",
+            "Texturizers",
+            "Inorganics",
+            "Water Treatment Additives",
+            "Texture & Consistency",
+            "Technical Salts & Inorganics",
+            "Paper & Pulp Chemicals",
+            "Processing Aids",
+            "Textile & Leather Chemicals",
+            "Water Treatment Chemicals"
+        ],
+        "Chemical Family": [
+            "Aluminum Compounds",
+            "Sulfates",
+            "Aluminum Salts"
+        ],
+        "Ingredient Name": [
+            "Aluminium Sulfate"
+        ],
+        "End Uses": [
+            "Textiles",
+            "Pickles",
+            "Paper & Pulp"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Aluminium Sulfate"
+        ],
+        "Chemical Name": [
+            "Aluminum Sulfate"
+        ],
+        "CAS Number": [
+            "10043-01-03"
+        ],
+        "Chemical Family": [
+            "Aluminum Compounds",
+            "Aluminum Salts",
+            "Sulfates"
+        ],
+        "Labeling Claims": [
+            "Iron-free"
+        ],
+        "Synonyms": [
+            "Al2(SO4)3, Aluminum Sesquisulfate, Aluminum(III) sulfate, Dialuminium Trisulfate, Dialuminum Sulfate, Dialuminum Trisulfate, Sulfatodialuminium Disulfate, Sulfatodialuminum Disulfate"
+        ]
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "id": 446754,
+    "brand": "xelight",
+    "name": "XECARB® ST 1-C30",
+    "slug": "xecarb-st-1-c30",
+    "description": "XECARB® ST 1-C30 is a 30% carbon fiber reinforced PA66\n\n",
+    "company_name": "Xenia",
+    "company_slug": "xenia",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708528538/production/Company/24102/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708528538/production/Company/24102/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Appliances & Electronics",
+            "Aerospace & Aviation",
+            "Sports & Recreation",
+            "Footwear",
+            "Transportation"
+        ],
+        "Product Families": [
+            "Polyamides",
+            "Thermoplastic Resins",
+            "Polymers & Resins",
+            "Engineering & Specialty Polymers"
+        ],
+        "Chemical Family": [
+            "Polyamides"
+        ],
+        "Polymer Name": [
+            "Polyamide 66 (PA 66)"
+        ],
+        "End Uses": [
+            "Appliances",
+            "Drones",
+            "Structural Parts",
+            "Mountaineering Boots",
+            "Industrial Applications",
+            "Automotive Applications"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyamide 66 (PA 66)"
+        ],
+        "Chemical Family": [
+            "Polyamides"
+        ],
+        "Reinforcement Material": [
+            "Carbon Fibers"
+        ],
+        "Fillers Included": [
+            "Carbon Fiber"
+        ],
+        "Processing Methods": [
+            "Injection Molding"
+        ]
+    }
+}

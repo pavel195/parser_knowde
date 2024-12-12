@@ -1,0 +1,30 @@
+{
+    "id": 392671,
+    "brand": "exomelt",
+    "name": "HOT ROCK™ ECOGUARD",
+    "slug": "hot-rock-ecoguard",
+    "description": "HOT ROCK™ ECOGUARD is dye bright in violet color for optimum spreadability.",
+    "company_name": "Mid-American Salt",
+    "company_slug": "mid-american-salt",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686109644/production/Brand/29562/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606934/production/CategoryImage/504/category_image/FoodNutrition_05.jpg",
+    "properties": {
+        "Applications": [
+            "Food",
+            "Other Food Applications"
+        ],
+        "Product Families": [
+            "Taste & Flavor",
+            "Salt & Salt Substitutes"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Rock Salt"
+        ],
+        "Features": [
+            "Improved Spreadability",
+            "Excellent Melting Properties"
+        ]
+    }
+}

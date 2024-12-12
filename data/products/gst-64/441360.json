@@ -1,0 +1,37 @@
+{
+    "id": 441360,
+    "brand": "gst-64",
+    "name": "Germania Backmittel Fritz Preller KG Gelling Pectin",
+    "slug": "germania-backmittel-fritz-preller-kg-gelling-pectin",
+    "description": "Germania Backmittel Fritz Preller KG Gelling Pectin is a premix based on fruit pectin for the easy production of jelly, jam, marmalade and fruit spreads.",
+    "company_name": "Germania Backmittel Fritz Preller KG",
+    "company_slug": "germania-backmittel-fritz-preller-kg",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708690308/production/Company/64333/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607026/production/CategoryImage/510/category_image/FoodNutrition_11.jpg",
+    "properties": {
+        "Applications": [
+            "Desserts & Fruit Preparations",
+            "Confectionery",
+            "Food"
+        ],
+        "Product Families": [
+            "Food Premixes",
+            "Texturizers",
+            "Whole Foods, Extracts & Premixes",
+            "Texture & Consistency"
+        ],
+        "End Uses": [
+            "Marmalades",
+            "Jellies",
+            "Jams"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Pectin"
+        ],
+        "Functions": [
+            "Gelling Agent"
+        ]
+    }
+}

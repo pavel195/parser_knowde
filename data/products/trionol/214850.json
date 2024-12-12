@@ -1,0 +1,58 @@
+{
+    "id": 214850,
+    "brand": "trionol",
+    "name": "FLEX-REZ™ 1074CS",
+    "slug": "flex-rez-1074cs",
+    "description": "Co-solvent soluble polyamide resin 100% Solids",
+    "company_name": "Lawter",
+    "company_slug": "lawter",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709126371/production/Company/14122/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1709126371/production/Company/14122/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Other Packaging Coatings",
+            "Gravure Printing",
+            "Flexography",
+            "Digital Printing",
+            "Primers & Lacquers",
+            "Furniture Coatings",
+            "Furniture",
+            "Wood Coatings & Finishes",
+            "Building & Construction",
+            "Industrial Coatings",
+            "Packaging Coatings",
+            "Printing & Inks"
+        ],
+        "Product Families": [
+            "Other Resins & Binders",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Polyamides"
+        ],
+        "End Uses": [
+            "Other Ink Types",
+            "Gravure Ink",
+            "Flexography Ink",
+            "Lacquers"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Polyamides"
+        ],
+        "End Uses": [
+            "Other Ink Types",
+            "Flexography Ink",
+            "Gravure Ink",
+            "Lacquers"
+        ],
+        "Features": [
+            "Water Resistance",
+            "Excellent Adhesion",
+            "Low Viscosity",
+            "High Gloss",
+            "Improved Flexibility"
+        ]
+    }
+}

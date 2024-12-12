@@ -1,0 +1,38 @@
+{
+    "id": 359114,
+    "brand": "hydrophil",
+    "name": "HydroFoe™",
+    "slug": "hydrofoe",
+    "description": "HydroFoe™ is a patented nano scale coating that provides superior water repellency and protection for almost any surface.",
+    "company_name": "Lotus Leaf Coatings",
+    "company_slug": "lotus-leaf-coatings",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664290789/production/Brand/26824/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608621/production/CategoryImage/570/category_image/PaintingsCoatings_06.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial Coatings"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Coating"
+        ],
+        "Features": [
+            "Hydrophobic",
+            "Hydrophilic",
+            "High Optical Transparency",
+            "Excellent Hydrophobic Properties",
+            "UV Resistant",
+            "Excellent Water Repellency "
+        ],
+        "Application Method": [
+            "Dip Coating",
+            "Air Knife Coating",
+            "Spray"
+        ]
+    }
+}

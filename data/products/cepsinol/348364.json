@@ -1,0 +1,51 @@
+{
+    "id": 348364,
+    "brand": "cepsinol",
+    "name": "Cepsa Chemicals Cumene",
+    "slug": "cumene",
+    "description": "Cepsa Chemicals Cumene is produced through the catalytic alkylation of benzene with propylene. Both raw materials are derived from crude oil distillation. The bulk of cumene production is typically transformed into cumene hydroperoxide, an intermediate in the synthesis of essential chemicals like phenol and acetone. Additionally, cumene is used in surfactants, the production of propylene Oxide (PO), and as an additive in gasoline.",
+    "company_name": "Cepsa Chemicals",
+    "company_slug": "cepsa",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1723198656/production/Company/37522/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1723198656/production/Company/37522/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Chemical Manufacturing",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Solvents & Carriers",
+            "Aromatics",
+            "Functionals",
+            "Intermediates"
+        ],
+        "Chemical Family": [
+            "Aromatics"
+        ],
+        "End Uses": [
+            "Gasoline Pool",
+            "Surfactants",
+            "Cumene Hydroperoxide",
+            "Propylene Oxide (PO)",
+            "Fuel Additives"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Cumene"
+        ],
+        "CAS Number": [
+            "98-82-8"
+        ],
+        "Functions": [
+            "Intermediate",
+            "Solvent"
+        ],
+        "Chemical Family": [
+            "Aromatics"
+        ],
+        "Synonyms": [
+            "(1-Methylethyl)-Benzene, (Methylethyl)benzene, (Propan-2-yl)benzene, 1-Methylethyl-Benzene, 2-Fenyl-propaan, 2-Phenyl propane, Benzene,Isopropyl Cumol, Cumol, i-Propyl-Benzene, Isopropyl Benzene, Isopropylbenzol"
+        ]
+    }
+}

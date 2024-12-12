@@ -1,0 +1,33 @@
+{
+    "id": 399499,
+    "brand": "profile-products-proflex",
+    "name": "ProGanics™ Biotic Soil Media™",
+    "slug": "proganics-biotic-soil-media",
+    "description": "Proganics™ Biotic Soil Media™ is designed as a biodegradable alternative to topsoil to accelerate development of depleted soils/substrates with low organic matter, low nutrient levels and limited biological activity. ProGanics BSM is made in the United States, plastic-free, non-toxic and contains 100% recycled bark and wood fibers that have been phytosanitized to eliminate potential weed seeds and pathogens—prior to the introduction of soil building components. This proprietary blend of soil building components includes high-viscosity colloidal polysaccharide biopolymers, biochar, seaweed extract, humic acid, endomycorrhizae and beneficial bacteria.",
+    "company_name": "Profile Products",
+    "company_slug": "profile-products",
+    "logo_url": null,
+    "banner_url": "https://media.knowde.com/image/upload/v1625608238/production/CategoryImage/552/category_image/AgricultureFeed_08.jpg",
+    "properties": {
+        "Applications": [
+            "Other Agricultural Crops",
+            "Agricultural Crops"
+        ],
+        "Product Families": [
+            "Soil Amendments & Conditioners",
+            "Plant Health, Nutrients & Soil Management"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Soil Conditioner"
+        ],
+        "Application Technique": [
+            "Sprayers"
+        ],
+        "Labeling Claims": [
+            "Biodegradable",
+            "Natural"
+        ]
+    }
+}

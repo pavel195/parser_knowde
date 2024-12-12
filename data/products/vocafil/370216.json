@@ -1,0 +1,33 @@
+{
+    "id": 370216,
+    "brand": "vocafil",
+    "name": "Vocaplast L",
+    "slug": "vocaplast-l",
+    "description": "Vocaplast L is available in high color strength pastes based on refined linseed oil (airdrying) and free of oximes.",
+    "company_name": "ARICHEMIE",
+    "company_slug": "arichemie",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708517758/production/Brand/27569/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608621/production/CategoryImage/570/category_image/PaintingsCoatings_06.jpg",
+    "properties": {
+        "Applications": [
+            "Decorative Paints, Coatings & Stains",
+            "Decorative Paints",
+            "Wood Coatings & Finishes",
+            "Building Materials",
+            "Building & Construction",
+            "Decorative Materials & Finishes"
+        ],
+        "Product Families": [
+            "Dispersions & Masterbatches",
+            "Pigments & Colorants"
+        ],
+        "End Uses": [
+            "Varnishes"
+        ]
+    },
+    "summary": {
+        "End Uses": [
+            "Varnishes"
+        ]
+    }
+}

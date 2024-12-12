@@ -1,0 +1,76 @@
+{
+    "id": 78805,
+    "brand": "descarb",
+    "name": "Revinage™",
+    "slug": "revinage-revinage",
+    "description": "CO2 supercritical plant-based extract acting similar to synthetic retinoids, promotes the treatment of aging skin without adverse effects. It has antioxidant action and soothing properties. It visibly reduces wrinkles and expression lines and evens the skin tone. It also restores chapped lips.",
+    "company_name": "Chemyunion",
+    "company_slug": "chemyunion",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708683175/production/Company/1183/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708683175/production/Company/1183/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Skin Care",
+            "Color Cosmetics",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Skin Actives",
+            "Conditioners & Emollients",
+            "Cosmetic Actives",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Linum Usitatissimum (Linseed) Seed Oil",
+            "Gossypium Herbaceum (Cotton) Seed Oil",
+            "Elaeis Guineensis (Palm) Oil",
+            "Bidens Pilosa Extract"
+        ],
+        "End Uses": [
+            "Skin Serums",
+            "Massage Products",
+            "Essence",
+            "Anti-Aging Products",
+            "Lipstick",
+            "Lip Care Products",
+            "Foundation"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Linum Usitatissimum (Linseed) Seed Oil",
+            "Bidens Pilosa Extract",
+            "Gossypium Herbaceum (Cotton) Seed Oil",
+            "Elaeis Guineensis (Palm) Oil"
+        ],
+        "Functions": [
+            "Moisturizing Agent",
+            "Anti-Aging Agent"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Non-Animal Origin",
+            "Plant Origin"
+        ],
+        "Labeling Claims": [
+            "Credo Clean Standard",
+            "Clean at Sephora",
+            "Plant-Based",
+            "Naturally Derived",
+            "Organic"
+        ],
+        "Certifications & Compliance": [
+            "Organic Certified",
+            "COSMOS",
+            "ECOCERT"
+        ],
+        "Benefit Claims": [
+            "Even Skin Tone",
+            "Moisturizing",
+            "Antioxidant Properties",
+            "Anti-Aging",
+            "Soothing",
+            "Fine Lines Reduction"
+        ]
+    }
+}

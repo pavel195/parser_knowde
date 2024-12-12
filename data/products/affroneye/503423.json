@@ -1,0 +1,49 @@
+{
+    "id": 503423,
+    "brand": "affroneye",
+    "name": "Pharmactive Biotech Green Tea P.E - 60% Catechins, 30% EGCG, 5% Caffeine",
+    "slug": "pharmactive-biotech-green-tea-p-e-60-catechins-30-egcg-5-caffeine",
+    "description": "Pharmactive Biotech Green Tea P.E - 60% Catechins, 30% EGCG, 5% Caffeine is a product which is known for promoting weight management and boosting vital energy. It's a sought-after ingredient in weight management products within the food and nutrition market.",
+    "company_name": "Pharmactive Biotech Products",
+    "company_slug": "pharmactive-biotech-products",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1710156381/production/Company/38223/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1710156381/production/Product/503423/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Functional Ingredients",
+            "Phytochemicals",
+            "Supplements & Functional Ingredients",
+            "Phytochemicals & Plant Extracts",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "Ingredient Name": [
+            "Green Tea Extract"
+        ],
+        "End Uses": [
+            "Weight Management Products"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Green Tea Extract"
+        ],
+        "Active Component": [
+            "Epigallocatechin Gallate",
+            "Caffeine",
+            "Catechins"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Plant Origin"
+        ],
+        "Labeling Claims": [
+            "Naturally Derived",
+            "Plant-Based"
+        ]
+    }
+}

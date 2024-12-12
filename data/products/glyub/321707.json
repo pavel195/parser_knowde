@@ -1,0 +1,48 @@
+{
+    "id": 321707,
+    "brand": "glyub",
+    "name": "Glyub 50",
+    "slug": "glyub-50",
+    "description": "Glyub 50 are used in various application such as automotive and marine engine oils, compressor oils, hydraulic fluids, gear oils and grease formulations. They offer an ample range of viscosities and are characterized by high solvating properties, thermal capacity, low volatilities, high flash point and good thermal stability. Low toxicity and high biodegradability are a plus for this class of additives. They are designed mainly for low temperature performances. Obtained from adipic acid and linear or branched alcohol are particularly designed for 2/4 stroke engine lubricants and hydraulic fluids.",
+    "company_name": "Condensia",
+    "company_slug": "condensia",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704100123/production/Brand/22925/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Fluids & Lubricants",
+            "Automotive Fluids & Lubricants",
+            "Lubricants & Functional Fluids",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Performance Additives",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Adipates, Sebacates & Maleates"
+        ],
+        "End Uses": [
+            "Chain Oils",
+            "Hydraulic Fluids"
+        ]
+    },
+    "summary": {
+        "End Uses": [
+            "Hydraulic Fluids",
+            "Chain Oils"
+        ],
+        "Chemical Family": [
+            "Adipates, Sebacates & Maleates"
+        ],
+        "Features": [
+            "High Flash Point",
+            "Low Volatility",
+            "High Temperature Performance",
+            "Good Thermal Stability"
+        ],
+        "Synonyms": [
+            "Adipic acid diester with 2-ethylhexanol, Di(2-ethylhexyl) adipate, Diethylhexyl adipate, Dioctyl adipate, DOA, NSC 56775"
+        ]
+    }
+}

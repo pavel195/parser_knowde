@@ -1,0 +1,44 @@
+{
+    "id": 505682,
+    "brand": "dragonsorb",
+    "name": "Flyaro Citral Natural",
+    "slug": "guangzhou-flying-dragon-chemical-ltd-citral-natural",
+    "description": null,
+    "company_name": "Guangzhou Flying Dragon Chemical Ltd.",
+    "company_slug": "guangzhou-flying-dragon-chemical",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1713790732/production/Company/38164/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515657/production/CategoryImage/1056/category_image/HII_08.jpg",
+    "properties": {
+        "Applications": [
+            "Fragrances & Perfumes",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Aroma Ingredients",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Citral"
+        ],
+        "End Uses": [
+            "Fragrances & Perfumes"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Citral"
+        ],
+        "Fragrance Family": [
+            "Citrus"
+        ],
+        "Functions": [
+            "Fragrance"
+        ],
+        "Fragrance": [
+            "Lemon"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin"
+        ]
+    }
+}

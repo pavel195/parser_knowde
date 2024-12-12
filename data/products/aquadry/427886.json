@@ -1,0 +1,37 @@
+{
+    "id": 427886,
+    "brand": "aquadry",
+    "name": "Avicap®",
+    "slug": "avicap",
+    "description": "Avicap is a liquid nutritional supplement for poultry. Avicap is a concentrated supplement of minerals and trace-elements necessary for the good development of poultry (broilers, layers, ducks, turkeys.",
+    "company_name": "Aquavial",
+    "company_slug": "aquavial",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708526834/production/Brand/34118/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608161/production/CategoryImage/546/category_image/AgricultureFeed_02.jpg",
+    "properties": {
+        "Applications": [
+            "Birds & Poultry",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Feed Supplements",
+            "Nutritional Ingredients"
+        ]
+    },
+    "summary": {
+        "Animal Species": [
+            "Turkey",
+            "Laying Hens",
+            "Ducks, Geese & Game Birds",
+            "Broilers"
+        ],
+        "Features": [
+            "Improves Growth Performance",
+            "Strengthens Egg Shells",
+            "Mineral Rich",
+            "Improves Bone Growth & Strength",
+            "Improves Immunity",
+            "Improved Reproductive Efficiency"
+        ]
+    }
+}

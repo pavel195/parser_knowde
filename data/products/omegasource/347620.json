@@ -1,0 +1,27 @@
+{
+    "id": 347620,
+    "brand": "omegasource",
+    "name": "Lipinova®",
+    "slug": "lipinova",
+    "description": "Lipinova® is a unique, IP-protected ingredient concentrated in 'specialized pro-resolving mediators', or SPMs, to support the body's natural capacity to resolve inflammation.",
+    "company_name": "SOLUTEX NA",
+    "company_slug": "solutex-na",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708673385/production/Brand/25936/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606984/production/CategoryImage/507/category_image/FoodNutrition_08.jpg",
+    "properties": {
+        "Applications": [
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Supplement",
+            "Dietary Supplement"
+        ],
+        "Features": [
+            "Stimulates Immune System",
+            "Anti-Inflammatory"
+        ]
+    }
+}

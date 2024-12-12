@@ -1,0 +1,37 @@
+{
+    "id": 372729,
+    "brand": "hbs-200",
+    "name": "Griffon PU-FOAM",
+    "slug": "griffon-pu-foam",
+    "description": "Griffon PU-FOAM is Fast curing polyurethane foam for insulating, sealing and filling of seams, joints, gaps, holes and cracks. .",
+    "company_name": "Griffon",
+    "company_slug": "griffon",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1702444497/production/Company/43976/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608972/production/CategoryImage/588/category_image/AdhesivesSealants_05.jpg",
+    "properties": {
+        "Applications": [
+            "Sealants & Caulks",
+            "Construction Adhesives",
+            "Building Wires & Power Cables",
+            "Adhesives",
+            "Building Materials",
+            "Construction Chemicals",
+            "Roofing",
+            "Wire & Cable"
+        ],
+        "Product Families": [
+            "Foams"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ],
+        "Physical Form": [
+            "Foam"
+        ]
+    }
+}

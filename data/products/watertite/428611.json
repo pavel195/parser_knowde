@@ -1,0 +1,45 @@
+{
+    "id": 428611,
+    "brand": "watertite",
+    "name": "Pennkote Penntex",
+    "slug": "pennkote-penntex",
+    "description": "Pennkote Penntex is high solids water-based synthetic rubber compound based on modified elastomeric copolymers with inert fillers, pigments and selected aggregates. It is supplied as a pre-mixed heavy bodies single compound paste, which is easily applied by brush, trowel or spray to form upon drying a flexible, durable and decorative coating for interior and exterior use. As a heavy protective finish it will weatherproof and effectively bond to concrete, brick, wood, metal drywall and any other common substrate. It is resistant to sun light, rapid temperature changes, industrial atmosphere and environmental conditions.",
+    "company_name": "Pennkote",
+    "company_slug": "pennkote",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520324/production/Company/61344/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608438/production/CategoryImage/559/category_image/BuildingConstruction_03.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Decorative Paints, Coatings & Stains",
+            "Building Envelope & Roofing",
+            "Waterproofing & Weatherproofing"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Solventless & High Solids Coating",
+            "Elastomeric Coating",
+            "Waterborne Coating"
+        ],
+        "Features": [
+            "Durable"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Masonry",
+            "Brick",
+            "Metal",
+            "Concrete",
+            "Wood"
+        ],
+        "Application Method": [
+            "Spray",
+            "Brush",
+            "Trowel"
+        ]
+    }
+}

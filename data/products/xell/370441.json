@@ -1,0 +1,40 @@
+{
+    "id": 370441,
+    "brand": "xell",
+    "name": "A.T Inks Hexxa",
+    "slug": "a-t-inks-hexxa",
+    "description": "A.T Inks Hexxa Grade is the newest ink grade in the family of AT Inks. It has been designed keeping in mind the demands of the market i.e. reasonable pricing, High Outdoor Fastness, Low Odor, Excellent Printing Quality, Dark Colors, Excellent Color Gamut and the use of One Ink formulation in multiple printheads with drop size greater than 6 pL. This Ink has the widest printhead use, in our portfolio of Solvent Inks and works on almost all major printhead manufacturer products such as Xaar*, FUJIFILM Dimatix* (Spectra), Ricoh*, Konica Minolta*, Seiko* and Toshiba*. Please contact us for specific enquiries with regards to the settings required in your printers while using our Hexxa Grade Inks and we will give you a brief on how to use these inks in your particular printer with a compatible printhead.",
+    "company_name": "A.T Inks",
+    "company_slug": "a-t-inks",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680110700/production/Company/43243/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Textiles & Nonwovens",
+            "Printing & Inks",
+            "Leather & Textiles",
+            "Other Paints & Coatings Applications",
+            "Textile Coatings & Inks",
+            "Digital Printing",
+            "Textile Manufacturing"
+        ],
+        "Product Families": [
+            "Digital Printing Inks",
+            "Inks & Pastes"
+        ]
+    },
+    "summary": {
+        "Application Area": [
+            "Textiles"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Textiles"
+        ],
+        "Features": [
+            "Good Brightness",
+            "Outdoor Durability",
+            "Good Scratch Resistance",
+            "Low Odor"
+        ]
+    }
+}

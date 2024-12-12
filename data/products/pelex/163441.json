@@ -1,0 +1,31 @@
+{
+    "id": 163441,
+    "brand": "pelex",
+    "name": "EMULSION® AF-400",
+    "slug": "emulsion-af-400",
+    "description": "Concentrated blend of waxes and polymers, especially designed for floor cleaning and polishing  formulations.",
+    "company_name": "Kao Chemicals",
+    "company_slug": "kao-chemicals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708685955/production/Company/1283/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708685955/production/Company/1283/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Other Home Care Applications",
+            "Other Institutional & Industrial Care",
+            "Home Care",
+            "Institutional & Industrial Care"
+        ],
+        "Product Families": [
+            "Performance Additives",
+            "Functional Additives"
+        ],
+        "Chemical Family": [
+            "Chemical Mixtures & Blends"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Polishing Agent"
+        ]
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "id": 111891,
+    "brand": "cosmic-epoxy",
+    "name": "DAP D33/6120",
+    "slug": "cosmic-dap-d33-6120",
+    "description": "DAP D33/6120 is a versatile general purpose diallyl ortho-phthalate molding compound that incorporates short glass fibers for added strength. Supplied in a free-flowing granular form, it is designed for ease of use in molding applications. This compound can be easily molded using compression, transfer, or injection equipment, and it can also be readily preformed to suit the specific requirements of the application. Its blend of properties makes it suitable for a range of molding applications where strength and versatility are essential.",
+    "company_name": "Cosmic Plastics Inc.",
+    "company_slug": "cosmic-plastics",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1723495790/production/Company/2760/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,c_crop,x_0,y_270,w_3000,h_938/v1723495790/production/Company/2760/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Terminal Blocks, Plugs & Sockets",
+            "Switches & Relays",
+            "Potting Compounds",
+            "Packaging & Assembly",
+            "Parts & Components"
+        ],
+        "Product Families": [
+            "Other Thermoset Resins",
+            "Thermoset Resins"
+        ],
+        "Chemical Family": [
+            "Unsaturated Polyester (UPE)",
+            "Phthalates",
+            "Orthophthalics"
+        ],
+        "Polymer Name": [
+            "Diallyl Phthalate"
+        ],
+        "End Uses": [
+            "Cases",
+            "Insulators",
+            "Terminal Blocks",
+            "Switches",
+            "Encapsulant",
+            "Cups"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Diallyl Phthalate"
+        ],
+        "Processing Methods": [
+            "Transfer Molding",
+            "Injection Molding",
+            "Compression Molding"
+        ],
+        "End Uses": [
+            "Insulators",
+            "Encapsulant",
+            "Terminal Blocks",
+            "Cases",
+            "Switches",
+            "Cups"
+        ],
+        "Density": [
+            "1720.0 - 1720.0 kg/m³"
+        ],
+        "Tensile Strength": [
+            "0.0414 - 69.0 MPa"
+        ]
+    }
+}

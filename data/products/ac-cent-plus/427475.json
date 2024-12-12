@@ -1,0 +1,25 @@
+{
+    "id": 427475,
+    "brand": "ac-cent-plus",
+    "name": "Texrite DRY TILE GROUT",
+    "slug": "texrite-dry-tile-grout",
+    "description": "DRY TILE Grout is a standard grade, advanced non-sanded portland cement based grout for interior, exterior, non-vitreous tiles and marble installation with narrow joint widths less than 1/8” (3 mm). DRY TILE Grout contains a fine mineral filler (no sand) to prevent damage during installation of high polished marble tile or soft glazed tiles. Special additives provide water retention for controlled curing, exceptional working qualities and permanent joint life. DRY TILE Grout is protected with AMT (anti-microbial technology), it will resist bacteria, mold and mildew, fungus and associated stains. Physical properties are improved with the use of Texrite’s Acrylic Admix 150 FS liquid.",
+    "company_name": "Texrite",
+    "company_slug": "texrite",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1694073669/production/Company/61121/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608422/production/CategoryImage/558/category_image/BuildingConstruction_02.jpg",
+    "properties": {
+        "Applications": [
+            "Fillers, Levellers & Joints",
+            "Ceiling Tiles",
+            "Shingles & Tiles",
+            "Flooring & Surfaces",
+            "Building Envelope & Roofing"
+        ],
+        "Product Families": [
+            "Mortar & Grouts",
+            "Construction Materials"
+        ]
+    },
+    "summary": {}
+}

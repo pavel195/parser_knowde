@@ -1,0 +1,65 @@
+{
+    "id": 439114,
+    "brand": "railgard",
+    "name": "ZincGard® 1500 VOC",
+    "slug": "zincgard-1500-voc",
+    "description": "ZincGard® 1500 VOC is a rapid recoat primer that provides excellent corrosion protection and undercutting protection. Excellent for use in industrial, coastal, marine and freshwater environments. May be used on structural steel, steel tanks, offshore platforms, barges refineries, petrochemical plants, power plants, railcars, pulp &amp; paper mills and other areas as recommended. May also be used to field touch-up inorganic zinc and/or provide galvanic protection for properly prepared steel substrates.",
+    "company_name": "U.S. Coatings",
+    "company_slug": "u-s-coatings",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520252/production/Company/63614/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608600/production/CategoryImage/568/category_image/PaintingsCoatings_04.jpg",
+    "properties": {
+        "Applications": [
+            "Coatings & Finishes",
+            "Lubricants & Functional Fluids",
+            "Industrial Coatings",
+            "Marine",
+            "Rail & Mass Transit",
+            "Marine Coatings",
+            "Rail & Mass Transit Coatings",
+            "Marine Fluids & Lubricants",
+            "Transportation"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers"
+        ],
+        "Chemical Family": [
+            "Zinc & Zinc Compounds"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "2K (2 component) Coating",
+            "Primer"
+        ],
+        "Application Area": [
+            "Railcars",
+            "Refineries",
+            "Barges",
+            "Marine Applications",
+            "Tanks"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Steel"
+        ],
+        "Features": [
+            "Corrosion Resistant",
+            "Good Adhesion",
+            "Creep Resistant",
+            "Salt Water/Spray Resistant",
+            "Low VOC",
+            "Extended Recoat Window",
+            "Water Resistant"
+        ],
+        "Application Method": [
+            "Spray",
+            "Roller",
+            "Brush"
+        ],
+        "Chemical Family": [
+            "Zinc & Zinc Compounds"
+        ]
+    }
+}

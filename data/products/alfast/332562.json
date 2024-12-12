@@ -1,0 +1,41 @@
+{
+    "id": 332562,
+    "brand": "alfast",
+    "name": "Water Red 3 (Acid Red 73)",
+    "slug": "water-red-3",
+    "description": "Water Red 3 (Acid Red 73) is a water-soluble dyestuff.These dyes are used in inkjet printers, sign pens, roller pens, fountain pens, and stamp pads.",
+    "company_name": "Orient Corporation of America",
+    "company_slug": "orient-corporation-of-america",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708516489/production/Brand/27535/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609128/production/CategoryImage/597/category_image/PrintingPackaging_08.jpg",
+    "properties": {
+        "Applications": [
+            "Decorative Paints, Coatings & Stains",
+            "Concrete Coatings & Stains",
+            "Inkjet Printing",
+            "Building Materials",
+            "Building & Construction",
+            "Printing & Inks",
+            "Decorative Materials & Finishes"
+        ],
+        "Product Families": [
+            "Acid Dyes",
+            "Dyes",
+            "Pigments & Colorants"
+        ],
+        "End Uses": [
+            "Inkjet Ink"
+        ]
+    },
+    "summary": {
+        "Color": [
+            "Red"
+        ],
+        "Dye Type": [
+            "Acid Dyes"
+        ],
+        "End Uses": [
+            "Inkjet Ink"
+        ]
+    }
+}

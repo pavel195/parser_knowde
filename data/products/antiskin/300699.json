@@ -1,0 +1,50 @@
+{
+    "id": 300699,
+    "brand": "antiskin",
+    "name": "Organo Zr 18",
+    "slug": "organo-zr-18",
+    "description": "Organo Zr 18 are slightly yellow solutions with low viscosity of zirconium metallic soap of 2-ethyl hexanoic acid in mineral spirit or in methyl esters.",
+    "company_name": "Organometal SA",
+    "company_slug": "organometal-sa",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708686727/production/Company/24279/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608621/production/CategoryImage/570/category_image/PaintingsCoatings_06.jpg",
+    "properties": {
+        "Applications": [
+            "Other Printing & Packaging Applications",
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Functional Additives",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Organometallics"
+        ],
+        "End Uses": [
+            "Solventborne Coating"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Organometallics"
+        ],
+        "Functions": [
+            "Drying Agent"
+        ],
+        "End Uses": [
+            "Solventborne Coating"
+        ],
+        "Compatible Polymers & Resins": [
+            "Alkyds"
+        ],
+        "Labeling Claims": [
+            "Lead-free"
+        ],
+        "Features": [
+            "Low Viscosity"
+        ],
+        "Synonyms": [
+            "2-ethylhexanoic acid zirconium salt"
+        ]
+    }
+}

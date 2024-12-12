@@ -1,0 +1,38 @@
+{
+    "id": 415390,
+    "brand": "albachem",
+    "name": "ALBA® Industrial Strength Spot Remover/Dry Cleaning Fluid",
+    "slug": "alba-industrial-strength-spot-remover-dry-cleaning-fluid",
+    "description": "Alba®Industrial Strength Spot Remover/Dry Cleaning Fluid is made to remove stains that are not soluble in water. This includes oil, grease, graphite, tar, adhesives, paint, oily foods, makeup, shoe marks and more. It is safe to use on most fabrics – both dry clean only fabrics (s-coded) and washable fabrics.",
+    "company_name": "Albatross USA",
+    "company_slug": "albatross-usa",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1670413828/production/Brand/32376/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515647/production/CategoryImage/1055/category_image/HII_07.jpg",
+    "properties": {
+        "Applications": [
+            "Institutional & Industrial Care",
+            "Laundry & Fabric Care",
+            "Commercial Laundry",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Commercial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Fibers & Fabrics"
+        ],
+        "Certifications & Compliance": [
+            "SARA 311/312"
+        ],
+        "Features": [
+            "Stain Removing",
+            "Degreasing"
+        ]
+    }
+}

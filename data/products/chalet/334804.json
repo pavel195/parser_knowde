@@ -1,0 +1,48 @@
+{
+    "id": 334804,
+    "brand": "chalet",
+    "name": "Blommer Chocolate Company 5082 YOGURT",
+    "slug": "blommer-chocolate-company-5082-yogurt",
+    "description": "Blommer Chocolate Company 5082 YOGURT is a fractionated yogurt, flavored white confectionery coating with mild yogurt impact and it is a type of Yogurt Compound.",
+    "company_name": "Blommer Chocolate Company",
+    "company_slug": "blommer-chocolate-company",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672195/production/Company/20094/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607274/production/CategoryImage/514/category_image/FoodNutrition_14.jpg",
+    "properties": {
+        "Applications": [
+            "Confectionery",
+            "Bakery",
+            "Food"
+        ],
+        "Product Families": [
+            "Other Functional Additives",
+            "Functional Additives"
+        ],
+        "End Uses": [
+            "Food Coatings",
+            "Wafers",
+            "Confectionery Coatings"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Yogurt"
+        ],
+        "Functions": [
+            "Food Coating"
+        ],
+        "Ingredient Origin": [
+            "Dairy Origin",
+            "Animal Origin"
+        ],
+        "Labeling Claims": [
+            "Halal",
+            "Non-GMO",
+            "Kosher",
+            "Organic"
+        ],
+        "Features": [
+            "Improved Whiteness"
+        ]
+    }
+}

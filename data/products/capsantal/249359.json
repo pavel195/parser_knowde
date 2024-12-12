@@ -1,0 +1,66 @@
+{
+    "id": 249359,
+    "brand": "capsantal",
+    "name": "MACROGARD®",
+    "slug": "macrogard",
+    "description": "MacroGard is a wholly natural feed ingredient, derived from the cell wall of baker’s yeast (saccharomyces cerevisiae) and contains the highest quality beta-1,3/1,6-glucans. MacroGard® is used for companion animals as a feed ingredient for premium, superpremium and veterinarian pet food. An extensive dossier with trial results and literature data is available to substantiate the application of MacroGard® in several functional diets for cats and dogs.",
+    "company_name": "ORFFA",
+    "company_slug": "orffa",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708687772/production/Company/19236/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608224/production/CategoryImage/551/category_image/AgricultureFeed_07.jpg",
+    "properties": {
+        "Applications": [
+            "Other Animal Health & Nutrition",
+            "Swine",
+            "Ruminants",
+            "Pets",
+            "Birds & Poultry",
+            "Aquaculture",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Whole Foods & Extracts",
+            "Feed Supplements",
+            "Immunomodulators",
+            "Health & Well-Being",
+            "Nutritional Ingredients",
+            "Formulated Feeds, Whole Foods and Extracts"
+        ],
+        "Chemical Family": [
+            "Yeast & Yeast Extracts"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Whole Food Ingredient",
+            "Supplement"
+        ],
+        "Animal Species": [
+            "Sheep",
+            "Horses",
+            "Shrimp",
+            "Swine",
+            "Deer",
+            "Cats",
+            "Turkey",
+            "Hogs",
+            "Pets",
+            "Ducks, Geese & Game Birds",
+            "Crustaceans",
+            "Fish",
+            "Piglets",
+            "Laying Hens",
+            "Prawn",
+            "Buffalo",
+            "Sows",
+            "Cows",
+            "Cattle",
+            "Broilers",
+            "Goat",
+            "Dogs"
+        ],
+        "Features": [
+            "Improves Immunity"
+        ]
+    }
+}

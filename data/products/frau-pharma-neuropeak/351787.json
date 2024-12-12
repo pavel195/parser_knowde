@@ -1,0 +1,42 @@
+{
+    "id": 351787,
+    "brand": "frau-pharma-neuropeak",
+    "name": "Folmidable® Methyltetrahydrofolate",
+    "slug": "folmidable-methyltetrahydrofolate",
+    "description": "Folmidable® Methyltetrahydrofolate is a natural product and the biological active form of the folic acid (vitamin B9) and it plays an important role in the DNA replication and cell subdivision cycle.",
+    "company_name": "Frau Pharma",
+    "company_slug": "frau-pharma",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708691475/production/Company/38029/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607009/production/CategoryImage/509/category_image/FoodNutrition_10.jpg",
+    "properties": {
+        "Applications": [
+            "Early Life Nutrition",
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Vitamins",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Nutraceuticals",
+            "Dietary Supplements",
+            "Maternal Nutrition"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Folic Acid"
+        ],
+        "Functions": [
+            "Vitamin Source",
+            "Vitamin Source"
+        ],
+        "Benefit Claims (Health)": [
+            "Improves Urinary Health"
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "id": 402450,
+    "brand": "solimide",
+    "name": "SOLIMIDE® CC-306",
+    "slug": "solimide-cc-306",
+    "description": "SOLIMIDE® CC-306 polyimide foam is utilized in the marine market as lightweight, non-flammable, non-fibrous thermal hull insulation for submarines and other marine vessels. SOLIMIDE® CC-306 foam can be cut into a variety of shapes and sizes, then faced or coated to meet end user requirements\r\n",
+    "company_name": "Boyd Corporation",
+    "company_slug": "boyd-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1702444510/production/Brand/30705/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608693/production/CategoryImage/573/category_image/AutomotiveTransportation_01.jpg",
+    "properties": {
+        "Applications": [
+            "Rail & Mass Transit",
+            "Marine",
+            "Other Industrial Applications",
+            "Exterior & Body",
+            "Automotive",
+            "Transportation",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Foams"
+        ],
+        "End Uses": [
+            "Marine Applications"
+        ]
+    },
+    "summary": {
+        "Foam Type": [
+            "Open Cell Foam"
+        ],
+        "Density": [
+            "7.990784 - 7.990784 kg/m³"
+        ],
+        "End Uses": [
+            "Marine Applications"
+        ]
+    }
+}

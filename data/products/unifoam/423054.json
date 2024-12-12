@@ -1,0 +1,68 @@
+{
+    "id": 423054,
+    "brand": "unifoam",
+    "name": "UNIFOAM® XPE 120",
+    "slug": "unifoam-xpe-120",
+    "description": "UNIFOAM® XPE 120 is made from high-quality polyethylene polymer and additives.",
+    "company_name": "UFM Bt",
+    "company_slug": "ufm-bt",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1702444513/production/Brand/33282/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608693/production/CategoryImage/573/category_image/AutomotiveTransportation_01.jpg",
+    "properties": {
+        "Applications": [
+            "Aerospace & Aviation",
+            "Appliances & Electronics",
+            "Industrial & Transport Packaging",
+            "Other Medical Applications",
+            "Sports & Recreation",
+            "Other Electrical & Electronics Applications",
+            "EIFS & Insulation",
+            "Advanced Materials",
+            "Other Industrial Applications",
+            "Interior",
+            "Marine",
+            "Automotive",
+            "Transportation",
+            "Medical",
+            "Chemical & Industrial Manufacturing",
+            "Military & Defense",
+            "Packaging",
+            "Building Envelope & Roofing"
+        ],
+        "Product Families": [
+            "Foams"
+        ],
+        "Chemical Family": [
+            "Polyolefins",
+            "Polyethylenes"
+        ],
+        "End Uses": [
+            "Appliances",
+            "Medical Applications",
+            "Acoustic Barrier",
+            "Aerospace Applications",
+            "Marine Applications",
+            "HVAC Insulation"
+        ]
+    },
+    "summary": {
+        "Foam Type": [
+            "Closed Cell Foam"
+        ],
+        "Density": [
+            "105.0 - 135.0 kg/m³"
+        ],
+        "Chemical Family": [
+            "Polyethylenes",
+            "Polyolefins"
+        ],
+        "End Uses": [
+            "Aerospace Applications",
+            "HVAC Insulation",
+            "Appliances",
+            "Medical Applications",
+            "Marine Applications",
+            "Acoustic Barrier"
+        ]
+    }
+}

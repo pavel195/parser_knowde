@@ -1,0 +1,41 @@
+{
+    "id": 331660,
+    "brand": "weedclear",
+    "name": "WeedClear™ Lawn Weed Killer Ready-to-Use",
+    "slug": "weedclear-lawn-weed-killer-ready-to-use",
+    "description": "Ortho® WeedClear™ Lawn Weed Killer Ready-to-Use kills all types of weeds (as listed) without harming your lawn (when used as directed). The formula is rainproof in 1 hour and is fast-acting--you'll see results in just one application. It kills over 200 weeds down to the roots, including dandelion, chickweed, clover, crabgrass, and foxtail. Easily apply to weeds with the trigger sprayer. For use on grasses, including Bermudagrass, Buffalograss, Fescues, Kentucky Bluegrass, Ryegrass, and Zoysiagrass. Use Ortho® WeedClear™ Lawn Weed Killer to kill weeds to the roots.",
+    "company_name": "Ortho",
+    "company_slug": "ortho",
+    "logo_url": null,
+    "banner_url": "https://media.knowde.com/image/upload/v1625608161/production/CategoryImage/546/category_image/AgricultureFeed_02.jpg",
+    "properties": {
+        "Applications": [
+            "Fodder & Forage",
+            "Residential Pest Control",
+            "Agricultural Pest Control",
+            "Ornamentals",
+            "Industrial Weed & Vegetation Control",
+            "Commercial Pest Control",
+            "Turf Management",
+            "Vegetables",
+            "Agricultural Crops",
+            "Pest Control",
+            "Turf, Ornamentals & Landscape"
+        ],
+        "Product Families": [
+            "Herbicides",
+            "Crop Protection & Pest Control"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Herbicide"
+        ],
+        "Herbicide Target Species": [
+            "Grasses"
+        ],
+        "Application Technique": [
+            "Sprayers"
+        ]
+    }
+}

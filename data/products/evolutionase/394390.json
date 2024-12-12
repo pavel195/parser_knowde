@@ -1,0 +1,26 @@
+{
+    "id": 394390,
+    "brand": "evolutionase",
+    "name": "Atomes OXY CHLOR 12",
+    "slug": "atomes-oxy-chlor-12",
+    "description": "Atomes Oxy Chlor 12 is a sodium hypochlorite solution. OXY CHLOR 12 is a sanitizer that inhibits the growth of microorganisms like bacteria, yeast, and mold.",
+    "company_name": "Atomes",
+    "company_slug": "atomes",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1673943162/production/Company/49452/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515647/production/CategoryImage/1055/category_image/HII_07.jpg",
+    "properties": {
+        "Applications": [
+            "Institutional & Industrial Care",
+            "Industrial Cleaning"
+        ],
+        "Product Families": [
+            "Food Grade Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Sanitizers"
+        ]
+    }
+}

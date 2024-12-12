@@ -1,0 +1,40 @@
+{
+    "id": 409881,
+    "brand": "h2o-dustreat",
+    "name": "Essential Industries Dry Foam Rug Shampoo",
+    "slug": "essential-industries-dry-foam-rug-shampoo",
+    "description": "Dry Foam Rug Shampoo is used in rotary-scrubbing and foam-generating equipment. It lifts and suspends soil for easy removal.",
+    "company_name": "Essential Industries, Inc.",
+    "company_slug": "essential-industries-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708003408/production/Company/6413/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515602/production/CategoryImage/1051/category_image/HII_03.jpg",
+    "properties": {
+        "Applications": [
+            "Carpet & Upholstery",
+            "Laundry & Fabric Care",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Commercial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Product Type": [
+            "Cleaner"
+        ],
+        "Application Area": [
+            "Carpets"
+        ],
+        "Certifications & Compliance": [
+            "SARA 313",
+            "SARA 311/312"
+        ],
+        "Features": [
+            "Low Residuals",
+            "High Foaming",
+            "Effective Soil Removal",
+            "Fast Drying"
+        ]
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "id": 149750,
+    "brand": "sylvin",
+    "name": "Sylvin™ 7844-60 Black",
+    "slug": "sylvin-7844-60-black",
+    "description": "Sylvin Technologies Sylvin™ 7844-60 Black is a non ortho phthalate plasticized vinyl compound formulated for injection molding applications such as power supply plugs and strain reliefs. This compound has a underwriters laboratories listing as a recognized component.",
+    "company_name": "Sylvin Technologies",
+    "company_slug": "sylvin-technologies",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708519584/production/Company/2849/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708519584/production/Company/2849/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Conduits & Cable Management",
+            "Terminal Blocks, Plugs & Sockets",
+            "Other Devices & Assemblies",
+            "Devices & Assemblies",
+            "Parts & Components"
+        ],
+        "Product Families": [
+            "Vinyl Polymers",
+            "Basic Thermoplastics"
+        ],
+        "Chemical Family": [
+            "Vinyls, Vinylics & Vinyl Derivatives"
+        ],
+        "Polymer Name": [
+            "Polyvinyl Chloride (PVC)"
+        ],
+        "End Uses": [
+            "Plugs",
+            "Strain Reliefs",
+            "Electrical/Electronic Applications"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyvinyl Chloride (PVC)"
+        ],
+        "Processing Methods": [
+            "Injection Molding"
+        ],
+        "Additives Included": [
+            "Plasticizer (Unspecified)"
+        ],
+        "End Uses": [
+            "Strain Reliefs",
+            "Plugs",
+            "Electrical/Electronic Applications"
+        ]
+    }
+}

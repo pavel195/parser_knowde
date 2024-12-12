@@ -1,0 +1,43 @@
+{
+    "id": 407098,
+    "brand": "microring",
+    "name": "ExpresSeal® Nickel Teflon® (Grey) - NTFE (Nickel/Moly/Glass Filled Teflon)",
+    "slug": "expresseal-nickel-teflon-grey-ntfe-nickel-moly-glass-filled-teflon",
+    "description": "ExpresSeal® Nickel Teflon® (Gray) - NTFE (Nickel/Moly/Glass Filled Teflon) has advanced physical and chemical properties with better creep behavior than virgin PTFE.",
+    "company_name": "Apple Rubber Products",
+    "company_slug": "apple-rubber-products",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686150468/production/Brand/31402/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608769/production/CategoryImage/577/category_image/AutomotiveTransportation_05.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical & Industrial Manufacturing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Fluoropolymers"
+        ],
+        "Polymer Name": [
+            "Polytetrafluoroethylene (PTFE)"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polytetrafluoroethylene (PTFE)"
+        ],
+        "Physical Form": [
+            "Seals"
+        ],
+        "Features": [
+            "Extrusion Resistance",
+            "Enhanced Physical Properties",
+            "Chemical Resistant",
+            "Excellent Creep"
+        ],
+        "Color": [
+            "Grey"
+        ]
+    }
+}

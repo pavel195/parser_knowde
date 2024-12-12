@@ -1,0 +1,45 @@
+{
+    "id": 389514,
+    "brand": "durpack",
+    "name": "DurProx® Physically Crosslinked Polyethylene Foam",
+    "slug": "durprox-physically-crosslinked-polyethylene-foam",
+    "description": "DurProx® Physically Crosslinked Polyethylene Foamcan be produced with advanced technology, have superior mechanical properties and an advanced dimensional stability. The product is extruded with the help of additives and lastener's which is followed by the electron beam process. After the electron beam process with hot oven operation the physical characteristic of the product increases by means of dilatation, and a product with a very closed-cell structure and a smooth surface is obtained. It can be produced for different sectors in cut plate, roll, tube, extra-laminated or non-laminated forms.",
+    "company_name": "Durfoam",
+    "company_slug": "durfoam",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1702444509/production/Brand/29279/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608769/production/CategoryImage/577/category_image/AutomotiveTransportation_05.jpg",
+    "properties": {
+        "Applications": [
+            "Other Building & Construction Applications",
+            "Consumer Electronics",
+            "Sports & Recreation",
+            "Appliances & Electronics",
+            "Interior",
+            "Exterior & Body",
+            "Automotive",
+            "Devices & Assemblies"
+        ],
+        "Product Families": [
+            "Foams"
+        ],
+        "Chemical Family": [
+            "Polyolefins",
+            "Polyethylenes",
+            "Polyethylene Cross-Linked (PEX)"
+        ]
+    },
+    "summary": {
+        "Foam Type": [
+            "Closed Cell Foam"
+        ],
+        "Chemical Family": [
+            "Polyethylenes",
+            "Polyethylene Cross-Linked (PEX)",
+            "Polyolefins"
+        ],
+        "Physical Form": [
+            "Sheets",
+            "Foam"
+        ]
+    }
+}

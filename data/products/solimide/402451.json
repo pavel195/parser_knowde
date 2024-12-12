@@ -1,0 +1,43 @@
+{
+    "id": 402451,
+    "brand": "solimide",
+    "name": "SOLIMIDE® HT-340",
+    "slug": "solimide-ht-340",
+    "description": "SOLIMIDE® HT-340 polyimide foam is utilized in commercial and industrial markets as a lightweight, non-flammable, thermal and acoustic insulation. It is also used in the aerospace market where higher temperatures resistance is needed. It is formaldehyde-free and demonstrates excellent long term stability under humid conditions and after temperature cycling. High temperature pipes and ducts, night storage heaters and ovens are examples of applications that use SOLIMIDE® HT-340 foam. A variety of shapes and sizes are available; facings or coatings are easily applied to meet end use requirements.\r\n",
+    "company_name": "Boyd Corporation",
+    "company_slug": "boyd-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1702444508/production/Brand/30705/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608693/production/CategoryImage/573/category_image/AutomotiveTransportation_01.jpg",
+    "properties": {
+        "Applications": [
+            "Other Industrial Applications",
+            "Rail & Mass Transit",
+            "Aerospace & Aviation",
+            "Transportation",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Foams"
+        ],
+        "End Uses": [
+            "Aerospace Applications",
+            "Aircraft Fuselage",
+            "Pipes",
+            "AC Ducts"
+        ]
+    },
+    "summary": {
+        "Foam Type": [
+            "Open Cell Foam"
+        ],
+        "Density": [
+            "6.4 - 6.4 kg/m³"
+        ],
+        "End Uses": [
+            "Aircraft Fuselage",
+            "Aerospace Applications",
+            "Pipes",
+            "AC Ducts"
+        ]
+    }
+}

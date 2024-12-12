@@ -1,0 +1,46 @@
+{
+    "id": 408397,
+    "brand": "diamondshield",
+    "name": "DIAMONDSHIELD®",
+    "slug": "diamondshield",
+    "description": "DIAMONDSHIELD® is Diamonex’s patented water-clear coating for plastics. DIAMONDSHIELD® has an unmatched combination of wear resistance and optical clarity. These thin (∼5 µm) film coatings provide greater abrasion resistance than that of a typical glass surface.",
+    "company_name": "Diamonex",
+    "company_slug": "diamonex",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292358/production/Brand/31588/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608600/production/CategoryImage/568/category_image/PaintingsCoatings_04.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial Coatings"
+        ],
+        "Product Families": [
+            "Protective Coatings",
+            "Paints & Coatings"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Coating"
+        ],
+        "Features": [
+            "Wear Resistant",
+            "Water-based",
+            "Good Solvent Resistance",
+            "Electrical Resistance",
+            "Alkali Resistant",
+            "Acid Resistant",
+            "Good Optical Properties",
+            "Flexible",
+            "Abrasion Resistant",
+            "Good Scratch Resistance",
+            "High Hardness",
+            "Good Abrasion Resistance",
+            "Excellent Elasticity",
+            "Excellent Solvent Resistance",
+            "Low Friction",
+            "Chemical Resistant"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Plastics"
+        ]
+    }
+}

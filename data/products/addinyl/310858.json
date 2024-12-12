@@ -1,0 +1,53 @@
+{
+    "id": 310858,
+    "brand": "addinyl",
+    "name": "Addiflam® PMD 50458",
+    "slug": "addiflam-pmd-50458",
+    "description": "Flame retardant extrusion copolymer PP halogen free. For SDS, please contact Addiplast Group using the 'Request Document' button.",
+    "company_name": "Addiplast Group",
+    "company_slug": "addiplast-group",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708527605/production/Product/310858/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708527605/production/Brand/9527/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Other Wire & Cable Applications",
+            "Building Wires & Power Cables",
+            "Other Parts & Components",
+            "Connectors",
+            "Other Electrical & Electronics Applications",
+            "Interior",
+            "Exterior & Body",
+            "Automotive",
+            "Parts & Components",
+            "Wire & Cable"
+        ],
+        "Product Families": [
+            "Polyolefins",
+            "Basic Thermoplastics"
+        ],
+        "Chemical Family": [
+            "Polyolefins",
+            "Polypropylenes (PP)"
+        ],
+        "Polymer Name": [
+            "Polypropylene Copolymer"
+        ],
+        "End Uses": [
+            "Wires",
+            "Cables",
+            "Electrical Connectors",
+            "Automotive Applications"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polypropylene Copolymer"
+        ],
+        "Processing Methods": [
+            "Extrusion"
+        ],
+        "Additives Included": [
+            "Flame Retardant"
+        ]
+    }
+}

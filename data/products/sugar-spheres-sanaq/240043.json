@@ -1,0 +1,45 @@
+{
+    "id": 240043,
+    "brand": "sugar-spheres-sanaq",
+    "name": "SSG SANAQ® Type A",
+    "slug": "ssg-sanaq-type-a",
+    "description": "SSG SANAQ® Type A is Blue color with iodine reagent",
+    "company_name": "PHARMATRANS SANAQ AG",
+    "company_slug": "pharmatrans",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708696064/production/Company/16760/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708696064/production/Company/16760/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Oral",
+            "Drug Delivery & Care Solutions"
+        ],
+        "Product Families": [
+            "Binders & Disintegrants",
+            "Excipients"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Sodium Carboxymethyl Starch"
+        ],
+        "CAS Number": [
+            "9063-38-1"
+        ],
+        "Manufacturing Technology": [
+            "Direct Compression",
+            "Wet Granulation"
+        ],
+        "Functions": [
+            "Disintegrant"
+        ],
+        "Certifications & Compliance": [
+            "National Formulary (NF)",
+            "United States Pharmacopeia (USP)",
+            "Japan Pharmacopeia (JP)",
+            "European Pharmacopeia (Ph. Eur.)"
+        ],
+        "Synonyms": [
+            "Carboxymethyl starch sodium salt, Sodium starch glycolate"
+        ]
+    }
+}

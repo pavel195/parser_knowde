@@ -1,0 +1,86 @@
+{
+    "id": 179513,
+    "brand": "aegis-pir",
+    "name": "Aegis® H100ZP",
+    "slug": "aegis-h100zp",
+    "description": "Aegis® H100ZP is a medium viscosity, nylon 6 extrusion grade homopolymer for cast or blown film applications. The resin product complies with all food contact regulations.  Aegis® H100ZP homopolymer combines strength, toughness and thermoforming properties with  excellent heat, chemical and abrasion resistance. ",
+    "company_name": "AdvanSix",
+    "company_slug": "advansix",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697438354/production/Company/4618/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1611136449/production/Product/179513/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Textile Manufacturing",
+            "Technical Fabrics",
+            "Food & Beverage Packaging",
+            "Industrial & Transport Packaging",
+            "Equipment & Parts",
+            "Tires",
+            "Safety Systems",
+            "Powertrain & UTH",
+            "Interior",
+            "Other Consumer Goods Applications",
+            "Other Textile Applications",
+            "Automotive Electronics",
+            "Sports & Recreation",
+            "Aftermarket Parts & Components",
+            "Automotive",
+            "Devices & Assemblies",
+            "Chemical & Industrial Manufacturing",
+            "Textiles & Nonwovens",
+            "Packaging",
+            "Leather & Textiles"
+        ],
+        "Product Families": [
+            "Polyamides",
+            "Engineering & Specialty Polymers"
+        ],
+        "Chemical Family": [
+            "Polyamides"
+        ],
+        "Polymer Name": [
+            "Polyamide 6 (PA 6)"
+        ],
+        "End Uses": [
+            "Seat Webbing",
+            "Shrouds",
+            "Seat Belts",
+            "Fans",
+            "Cooling Hoses",
+            "Radiator",
+            "Levers",
+            "Gears",
+            "Tire Cord",
+            "Paper Machine Clothing",
+            "Industrial Film Applications",
+            "Industrial Fiber Applications",
+            "High Strength Fiber",
+            "Airbags",
+            "Form Fill Seal Packaging",
+            "Industrial Applications",
+            "Automotive Applications",
+            "Textile Applications",
+            "Netting",
+            "Profiles",
+            "Tubing",
+            "Balloons",
+            "Book Covers",
+            "Retort Pouches",
+            "Pouches Flexible Packaging",
+            "Monofilaments",
+            "Flexible Packaging"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyamide 6 (PA 6)"
+        ],
+        "Processing Methods": [
+            "Film Extrusion",
+            "Blown Film Extrusion",
+            "Extrusion",
+            "Cast Film Extrusion",
+            "Thermoforming"
+        ]
+    }
+}

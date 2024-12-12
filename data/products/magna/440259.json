@@ -1,0 +1,53 @@
+{
+    "id": 440259,
+    "brand": "magna",
+    "name": "Magna M-106",
+    "slug": "magna-m-106",
+    "description": "Magna M-106 is a powerful liquid degreaser that is formulated with water-soluble solvents, emulsifiers and wetting agents. Magna 106 keeps degreasing efficiency high while at the same time avoiding most of the risks common in powerful cleaners. Magna 106 degreaser combines maximum degreasing effectiveness with minimum hazard with added anticorrosion properties.",
+    "company_name": "Magna Chemical Canada",
+    "company_slug": "magna-chemical-canada",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664568980/production/Company/63877/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515647/production/CategoryImage/1055/category_image/HII_07.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial Cleaning",
+            "Institutional & Catering",
+            "Institutional & Industrial Care"
+        ],
+        "Product Families": [
+            "Commercial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Alkaline Cleaners",
+            "Degreasers"
+        ],
+        "Application Areas": [
+            "Buses",
+            "Hood",
+            "Sailboat",
+            "Truck",
+            "Equipment",
+            "Wall",
+            "Floor",
+            "Tools",
+            "Car",
+            "Machine Parts"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Ceramic",
+            "Concrete",
+            "Plastics",
+            "Brass",
+            "Metal",
+            "Leather"
+        ],
+        "Features": [
+            "Grime Cleaning",
+            "Non Corrosive",
+            "Degreasing"
+        ]
+    }
+}

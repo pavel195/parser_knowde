@@ -1,0 +1,45 @@
+{
+    "id": 347574,
+    "brand": "grassland",
+    "name": "GRASSLAND® NON-GMO PROJECT VERIFIED BUTTER (SALTED AND UNSALTED) (3095)",
+    "slug": "grassland-non-gmo-project-verified-butter-salted-and-unsalted",
+    "description": "GRASSLAND® NON-GMO PROJECT VERIFIED BUTTER (SALTED AND UNSALTED) (3095) is a NOn GMO certified butter. Dedicated American farmers raise their dairy cows with a tradition of preserving the environment and caring for their animals. With accredited transparency, we bring to you the fresh.",
+    "company_name": "Grassland Dairy Products",
+    "company_slug": "grassland-dairy-products",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704796081/production/Brand/25920/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606924/production/CategoryImage/503/category_image/FoodNutrition_04.jpg",
+    "properties": {
+        "Applications": [
+            "Desserts & Fruit Preparations",
+            "Bakery",
+            "Food"
+        ],
+        "Product Families": [
+            "Dairy Products",
+            "Edible Oils & Fats",
+            "Whole Foods, Extracts & Premixes"
+        ],
+        "End Uses": [
+            "Desserts"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Butter"
+        ],
+        "Labeling Claims": [
+            "Kosher",
+            "Non-GMO",
+            "Organic"
+        ],
+        "Certifications & Compliance": [
+            "Kosher",
+            "USDA Organic",
+            "Non-GMO Project Verified",
+            "Organic Certified"
+        ],
+        "End Uses": [
+            "Desserts"
+        ]
+    }
+}

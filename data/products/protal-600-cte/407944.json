@@ -1,0 +1,50 @@
+{
+    "id": 407944,
+    "brand": "protal-600-cte",
+    "name": "PROTAL 7300™",
+    "slug": "protal-7300",
+    "description": "Protal 7300™ is a VOC free, 100% solids epoxy coating specially formulated to coat dry, damp or wet surfaces. It is a high build liquid coating that can be applied by applicator pad or brush.",
+    "company_name": "Denso North America",
+    "company_slug": "denso-north-america",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1672225363/production/Brand/31543/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608422/production/CategoryImage/558/category_image/BuildingConstruction_02.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Pipes & Plumbing"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Other Paints & Coatings"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ],
+        "End Uses": [
+            "Pipes"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Solventless & High Solids Coating",
+            "Epoxy Coating"
+        ],
+        "Application Areas": [
+            "Pipes"
+        ],
+        "Features": [
+            "Good Adhesion",
+            "Abrasion Resistant",
+            "Good Leveling Properties",
+            "Fast Cure",
+            "High Impact Resistance"
+        ],
+        "Application Method": [
+            "Pad Printing",
+            "Brush"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    }
+}

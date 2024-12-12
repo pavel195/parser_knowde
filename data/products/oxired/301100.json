@@ -1,0 +1,65 @@
+{
+    "id": 301100,
+    "brand": "oxired",
+    "name": "OXIRED® MR11",
+    "slug": "oxired-mr11",
+    "description": "OXIRED® MR11 is 100% natural iron oxide ‐Spanish origin‐, no additives. It's non flammable and non toxic in nature.",
+    "company_name": "ORM OXIDOS ROJOS DE MALAGA",
+    "company_slug": "orm-oxidos-rojos-de-malaga",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708690129/production/Company/24280/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608769/production/CategoryImage/577/category_image/AutomotiveTransportation_05.jpg",
+    "properties": {
+        "Applications": [
+            "Ceramics & Refractory",
+            "Shingles & Tiles",
+            "Other Industrial Coatings",
+            "Other Industrial Applications",
+            "Roof Shingles & Tiles",
+            "Marine Coatings",
+            "Marine",
+            "Transportation",
+            "Roofing",
+            "Chemical & Industrial Manufacturing",
+            "Automotive & Transportation",
+            "Industrial Coatings",
+            "Building Envelope & Roofing"
+        ],
+        "Product Families": [
+            "Glass & Ceramic Additives",
+            "Cement & Concrete Additives",
+            "Inorganic Pigments",
+            "Color Pigments",
+            "Pigments & Colorants",
+            "Construction Chemicals",
+            "Processing Aids"
+        ],
+        "Chemical Family": [
+            "Iron & Iron Compounds",
+            "Iron Oxides"
+        ],
+        "End Uses": [
+            "Ceramics",
+            "Electronics",
+            "Primer"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Colorant"
+        ],
+        "Chemical Family": [
+            "Iron & Iron Compounds",
+            "Iron Oxides"
+        ],
+        "Pigment Type": [
+            "Inorganic Pigments"
+        ],
+        "Color": [
+            "Red"
+        ],
+        "Physical Form": [
+            "Powder",
+            "Solid"
+        ]
+    }
+}

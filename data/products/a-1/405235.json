@@ -1,0 +1,54 @@
+{
+    "id": 405235,
+    "brand": "a-1",
+    "name": "Oil-Flo™ Safety Solvent Cleaner",
+    "slug": "oil-flo-safety-solvent-cleaner",
+    "description": "Oil-Flo™ Safety Solvent Cleaner is a specialized product for removing organic stains such as asphalt, tar, coal, wax, grease, and oil. Oil-Flo™ is water soluble and contains no chlorinated fluorocarbons. Oil-Flo™ instantly bonds to petrochemicals, whatever they may be (sealer, asphalt, coal tar, adhesive, paint, etc.), and then bonds to oxygen molecules present in plain water.",
+    "company_name": "Titan Laboratories",
+    "company_slug": "titan-laboratories",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292232/production/Brand/31032/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515636/production/CategoryImage/1054/category_image/HII_06.jpg",
+    "properties": {
+        "Applications": [
+            "Surface Care",
+            "Commercial Laundry",
+            "Industrial Cleaning",
+            "Institutional & Catering",
+            "Vehicle & Machinery",
+            "Institutional & Industrial Care",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Industrial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Automotive Cleaners",
+            "Degreasers",
+            "Cleaner",
+            "Tar Cleaner",
+            "Stain Removers"
+        ],
+        "Application Areas": [
+            "Equipment",
+            "Floor"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Aluminum",
+            "Metal",
+            "Steel",
+            "Fibers & Fabrics",
+            "Glass",
+            "Asphalt",
+            "Concrete"
+        ],
+        "Features": [
+            "Water Soluble",
+            "Stain Removing",
+            "Degreasing",
+            "Good Surface Care"
+        ]
+    }
+}

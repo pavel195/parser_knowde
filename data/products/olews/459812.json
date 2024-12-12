@@ -1,0 +1,60 @@
+{
+    "id": 459812,
+    "brand": "olews",
+    "name": "Olews 16",
+    "slug": "olews-16",
+    "description": "Olews 16 is a standardized soluble oleuropein derived from olive leaf extract with a specific focus on supporting bone health and immune functions. \n\n \nThis product exhibits various beneficial properties, acting as an antioxidant, anti-inflammatory agent, and supporter of the immune system. \nNotably, Olews 16 is produced using a proprietary process, allowing for its highly specific extracts and internal mechanism of action based on the Ph.Eur. monograph. Furthermore, it is freely soluble, overcoming technological hurdles and making it readily applicable for various formulations and applications. \n",
+    "company_name": "HTBA (HealthTech BioActives, S.L.U.)",
+    "company_slug": "healthtech-bioactives-s-l-u",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1677765190/production/Company/35907/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1680302682/production/Product/459812/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Oral",
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being",
+            "Drug Delivery & Care Solutions"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Phytochemicals & Plant Extracts",
+            "Phytochemicals",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "Ingredient Name": [
+            "Olive Leaf Extract"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Olive Leaf Extract"
+        ],
+        "Active Component": [
+            "Flavonoids",
+            "Oleuropein",
+            "Bioflavonoid"
+        ],
+        "Functions": [
+            "Phytochemical"
+        ],
+        "Labeling Claims": [
+            "Halal",
+            "Kosher"
+        ],
+        "Certifications & Compliance": [
+            "FSSC 22000",
+            "Halal",
+            "Hazard Analysis Critical Control Point (HACCP)",
+            "Generally Recognized As Safe (GRAS)",
+            "ECOVADIS",
+            "ISO 14001",
+            "EFSA (European Food Safety Authority) Certified",
+            "ISO 9001",
+            "Kosher",
+            "FAMI-QS",
+            "GMP"
+        ]
+    }
+}

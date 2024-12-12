@@ -1,0 +1,45 @@
+{
+    "id": 410749,
+    "brand": "poly-masonry-sealer",
+    "name": "HomeSeal®",
+    "slug": "homeseal",
+    "description": "HomeSeal® is a concrete hardener and is waterborne, non-flammable silicate penetrating solutions. They are specifically designed as a concrete hardener and the stopping of moisture migration or major seepage of concrete decks, slabs, walls, driveways and foundations. Two (2) applications minimum required.",
+    "company_name": "Endur-o-seal",
+    "company_slug": "endur-o-seal",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520048/production/Brand/31930/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608454/production/CategoryImage/560/category_image/BuildingConstruction_04.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Construction Chemicals",
+            "Flooring & Surfaces",
+            "Infrastructure, Roads & Paving",
+            "Roofing",
+            "Wall Panels",
+            "Sealants & Caulks",
+            "Building Envelope & Roofing",
+            "Waterproofing & Weatherproofing",
+            "Other Flooring & Surface Applications",
+            "Pavement, Highways, Roads & Bridges"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Caulks & Sealants"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Solvent free (100% Solids) Sealant",
+            "Waterborne Sealant"
+        ],
+        "Application Area": [
+            "Walkway"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Concrete"
+        ],
+        "Application Method": [
+            "Spray"
+        ]
+    }
+}

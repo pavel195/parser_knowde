@@ -1,0 +1,53 @@
+{
+    "id": 405464,
+    "brand": "globaltech",
+    "name": "GlobalTech® Epoxy & Adhesive Remover Odorless Formula",
+    "slug": "globaltech-epoxy-adhesive-remover-odorless-formula",
+    "description": "GlobalTech® Epoxy &amp; Adhesive Remover Odorless Formula (EAD) is an advanced odorless formula for cleaning screen printable epoxies, conductive epoxies, 2-part epoxies and most varieties of glue or adhesive residues. This remover is ideal for use in electronic assembly manufacturing and all industrial applications.",
+    "company_name": "JNJ Industries",
+    "company_slug": "jnj-industries",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1682593065/production/Brand/31079/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515657/production/CategoryImage/1056/category_image/HII_08.jpg",
+    "properties": {
+        "Applications": [
+            "Institutional & Industrial Care",
+            "Surface Care",
+            "Industrial Cleaning",
+            "Technical Cleaning",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Industrial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Adhesive Remover",
+            "Cleaner"
+        ],
+        "Application Area": [
+            "Equipment",
+            "Printed Circuit Boards",
+            "Electrical Components",
+            "Electronic Components"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Glass",
+            "Plastics"
+        ],
+        "Certifications & Compliance": [
+            "REACH (Europe)",
+            "Waste Electrical & Electronic Equipment Directive (WEEE)",
+            "RoHS Compliant"
+        ],
+        "Features": [
+            "Odorless",
+            "Degreasing",
+            "High Flash Point",
+            "Low Toxicity",
+            "Excellent Compatibility"
+        ]
+    }
+}

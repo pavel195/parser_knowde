@@ -1,0 +1,44 @@
+{
+    "id": 223056,
+    "brand": "petrolatum",
+    "name": "Zeonet PB DLC-A",
+    "slug": "zeonet-pb-dlc-a",
+    "description": "Zeonet PB DLC-A is a blend of tetra-n-butyl phosphonium benzotriazolate with silicon dioxide. Used as an elastomer curative and adhesion promoter.",
+    "company_name": "Natrochem",
+    "company_slug": "natrochem",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708685789/production/Company/15664/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Other Industrial Applications"
+        ],
+        "Product Families": [
+            "Surface Modifiers",
+            "Catalysts, Initiators & Crosslinkers",
+            "Elastomer Additives"
+        ],
+        "Chemical Family": [
+            "Silica",
+            "Phosphorous-based Compounds"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Silicon Dioxide"
+        ],
+        "CAS Number": [
+            "7631-86-9"
+        ],
+        "Functions": [
+            "Curing Agent",
+            "Adhesion Promoter"
+        ],
+        "Chemical Family": [
+            "Silica",
+            "Phosphorous-based Compounds"
+        ],
+        "Synonyms": [
+            "Silica, SiO2"
+        ]
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "id": 384539,
+    "brand": "amsil",
+    "name": "AMSol™ 15",
+    "slug": "amsol-15",
+    "description": "AMSol™ 15 is a high-purity, customizable colloidal silica products that can be tailored to meet the specific needs of a variety of applications.",
+    "company_name": "Applied Material Solutions",
+    "company_slug": "applied-material-solutions",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708691543/production/Brand/25065/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Product Families": [
+            "Texturizers & Fillers",
+            "Film Formers",
+            "Functionals"
+        ],
+        "Chemical Family": [
+            "Silica"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Adhesion Promoter",
+            "Binder"
+        ],
+        "Benefit Claims": [
+            "Binding",
+            "Excellent Adhesive Properties"
+        ]
+    }
+}

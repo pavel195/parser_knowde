@@ -1,0 +1,29 @@
+{
+    "id": 379699,
+    "brand": "nutrispar",
+    "name": "DLG Food Oil Meidarom",
+    "slug": "dlg-food-oil-meidarom",
+    "description": "DLG Food Oil Meidarom is used to keeps nuisance pests away from your poultry.",
+    "company_name": "DLG Food Oil",
+    "company_slug": "dlg-food-oil",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708529881/production/Company/45689/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608150/production/CategoryImage/545/category_image/AgricultureFeed_01.jpg",
+    "properties": {
+        "Applications": [
+            "Birds & Poultry",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Feed Supplements",
+            "Nutritional Ingredients"
+        ]
+    },
+    "summary": {
+        "Animal Species": [
+            "Laying Hens"
+        ],
+        "Labeling Claims": [
+            "Organic"
+        ]
+    }
+}

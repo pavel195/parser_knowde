@@ -1,0 +1,40 @@
+{
+    "id": 399180,
+    "brand": "pma-186",
+    "name": "PMA-2000™",
+    "slug": "pma-2000",
+    "description": "PMA-2000™ is a cold-applied, trowel-grade mastic with excellent low temperature flexibility designed for use as a patching and leak repair material on asphalt roofing systems. Its high solids content, asphalt, additional fiber rein-forcement and plasticizing oils improve low temperature performance.",
+    "company_name": "BITEC",
+    "company_slug": "bitec",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1682453050/production/Company/50839/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608422/production/CategoryImage/558/category_image/BuildingConstruction_02.jpg",
+    "properties": {
+        "Applications": [
+            "DIY & Consumer",
+            "Infrastructure, Roads & Paving",
+            "Building Envelope & Roofing",
+            "Repair & Rehabilitation",
+            "Repair Adhesives",
+            "Other Building Envelope & Roofing Applications"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Sealer"
+        ],
+        "Features": [
+            "Excellent Water Resistance",
+            "High Solids Content",
+            "Low Temperature Performance",
+            "High Ductility",
+            "Low Temperature Flexibility"
+        ],
+        "Application Method": [
+            "Trowel"
+        ]
+    }
+}

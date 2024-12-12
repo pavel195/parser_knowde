@@ -1,0 +1,38 @@
+{
+    "id": 325097,
+    "brand": "luvur",
+    "name": "Multiceras Alba Wax",
+    "slug": "multiceras-alba-wax",
+    "description": "Multiceras Alba Wax is in pastiles shape with white-yellowish color.",
+    "company_name": "Multiceras",
+    "company_slug": "multiceras",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708683868/production/Company/29310/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607988/production/CategoryImage/537/category_image/HomePersonalCare_03.jpg",
+    "properties": {
+        "Product Families": [
+            "Fats, Butters & Waxes",
+            "Emulsifiers, Solubilizers & Dispersants",
+            "Functionals"
+        ],
+        "Chemical Family": [
+            "Waxes"
+        ],
+        "INCI Name": [
+            "Beeswax"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Beeswax"
+        ],
+        "Functions": [
+            "Emulsifier"
+        ],
+        "Labeling Claims": [
+            "Natural",
+            "Credo Clean Standard",
+            "Clean at Sephora",
+            "Ulta Beauty's Conscious Beauty"
+        ]
+    }
+}

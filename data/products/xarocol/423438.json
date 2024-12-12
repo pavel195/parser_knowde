@@ -1,0 +1,37 @@
+{
+    "id": 423438,
+    "brand": "xarocol",
+    "name": "EW Nutrition Ventar D",
+    "slug": "ew-nutrition-ventar-d",
+    "description": "Ventar D is a next-generation formulation with a next-generation delivery mechanism which provides market-leading performance through improved gut health, reliably and cost-efficiently.",
+    "company_name": "EW Nutrition",
+    "company_slug": "ew-nutrition",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708529071/production/Company/59486/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608173/production/CategoryImage/547/category_image/AgricultureFeed_03.jpg",
+    "properties": {
+        "Applications": [
+            "Birds & Poultry",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Feed Supplements",
+            "Nutritional Ingredients"
+        ]
+    },
+    "summary": {
+        "Features": [
+            "Improves Feed Efficiency",
+            "Antioxidant Effect",
+            "Improves Feed Intake",
+            "High Hydrothermal Stability ",
+            "Encapsulated",
+            "Optimizing Gut Health",
+            "Reduces Feed Cost",
+            "Improves Performance",
+            "Antimicrobial",
+            "Improves Body Weight Gain",
+            "Reduces Mortality",
+            "Reduces Inflammation"
+        ]
+    }
+}

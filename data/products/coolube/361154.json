@@ -1,0 +1,38 @@
+{
+    "id": 361154,
+    "brand": "coolube",
+    "name": "Coolube® 2210XP",
+    "slug": "coolube-2210xp",
+    "description": "Coolube® 2210XP is a natural lubricant engineered specifically for ferrous metals with a unique blend of extreme pressure additives which feature reduced staining and no sulfur odor. Coolube® 2210XP is derived from natural vegetable oils, is machinist and environmentally friendly, and contains no VOC's.\r\n",
+    "company_name": "UNIST",
+    "company_slug": "unist",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680108891/production/Brand/27004/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical & Industrial Manufacturing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Lubricants & Oils",
+            "Fluids & Lubricants"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cutting Oils"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Brass",
+            "Aluminum",
+            "Metal"
+        ],
+        "Features": [
+            "Thermal Shock Resistant",
+            "Service Life Extension",
+            "Good Stain Resistance",
+            "Extreme Pressure Performance",
+            "Oxidation Resistant"
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "id": 406747,
+    "brand": "green-balance-alkalizing-blend",
+    "name": "NP Nutra Acai Juice Powder (organic)",
+    "slug": "np-nutra-acai-juice-powder-organic",
+    "description": "Acai berries are a rich source of polyphenolic compounds, especially the flavonoids known as anthocyanins, which give the berry its characteristic deep purple color.",
+    "company_name": "NP Nutra",
+    "company_slug": "np-nutra",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686109531/production/Company/27526/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607215/production/CategoryImage/511/category_image/FoodNutrition_12.jpg",
+    "properties": {
+        "Applications": [
+            "Beverage",
+            "Food",
+            "Nutrition & Well Being",
+            "Drug Delivery & Care Solutions",
+            "Energy Drinks",
+            "Bakery",
+            "Cereals & Snacks",
+            "Confectionery",
+            "Dairy",
+            "Desserts & Fruit Preparations",
+            "Functional Foods",
+            "Nutraceuticals & Supplements",
+            "Oral",
+            "Other Non-Alcoholic Beverages",
+            "Juice & Juice Drinks"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Fruit Products & Extracts",
+            "Nutraceuticals & Supplements",
+            "Phytochemicals & Plant Extracts"
+        ],
+        "End Uses": [
+            "Smoothies",
+            "Juices",
+            "Functional Foods",
+            "RTD Nutrition Formulas",
+            "Snacks",
+            "Dietary Supplements",
+            "Functional Beverages",
+            "Chocolates",
+            "Desserts"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Acai Fruit Powder"
+        ],
+        "Active Component": [
+            "Anthocyanins"
+        ],
+        "Labeling Claims": [
+            "Organic",
+            "Kosher"
+        ],
+        "Certifications & Compliance": [
+            "Organic Certified",
+            "Kosher"
+        ],
+        "Physical Form": [
+            "Powder",
+            "Solid"
+        ]
+    }
+}

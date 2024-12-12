@@ -1,0 +1,39 @@
+{
+    "id": 370212,
+    "brand": "vocafil",
+    "name": "Vocaplast UV",
+    "slug": "vocaplast-uv",
+    "description": "Vocaplast UV is a carrier material that is a radically crosslinkable resin or UV monomer, customer specific carriers or reactive dissolvent on demand, photoinitiator-free, and with or without dispersing agent on demand.",
+    "company_name": "ARICHEMIE",
+    "company_slug": "arichemie",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708519128/production/Brand/27569/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608621/production/CategoryImage/570/category_image/PaintingsCoatings_06.jpg",
+    "properties": {
+        "Applications": [
+            "Electronics Coatings",
+            "Other Printing Applications",
+            "Wood Coatings & Finishes",
+            "Industrial Coatings",
+            "Coil Coatings",
+            "Other Paints & Coatings Applications",
+            "Packaging & Assembly",
+            "Building & Construction",
+            "Specialty Coatings",
+            "Printing & Inks"
+        ],
+        "Product Families": [
+            "Dispersions & Masterbatches",
+            "Pigments & Colorants"
+        ],
+        "End Uses": [
+            "Radiation Curable Coating",
+            "Lacquers"
+        ]
+    },
+    "summary": {
+        "End Uses": [
+            "Radiation Curable Coating",
+            "Lacquers"
+        ]
+    }
+}

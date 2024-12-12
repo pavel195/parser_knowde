@@ -1,0 +1,31 @@
+{
+    "id": 308455,
+    "brand": "exaflex",
+    "name": "Exapol Sor 445 N",
+    "slug": "exapol-sor-445-n",
+    "description": "Exapol Sor 445 N is sorbitol based polyether polyol of high functionality but medium viscosity. It is also shows better cyclopentane solubility.",
+    "company_name": "Expanded Polymer Systems",
+    "company_slug": "expanded-polymer-systems",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691737558/production/Product/308455/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Other Industrial Applications",
+            "Appliances & Electronics",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Diols & Polyols",
+            "Monomers & Oligomers"
+        ],
+        "Chemical Family": [
+            "Polyols (Polyether)",
+            "Polyols"
+        ],
+        "End Uses": [
+            "Refrigerator Applications",
+            "Polyurethane Foams"
+        ]
+    },
+    "summary": {}
+}

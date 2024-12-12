@@ -1,0 +1,33 @@
+{
+    "id": 245585,
+    "brand": "unipar",
+    "name": "UNINAP® 2000 JS",
+    "slug": "uninap-2000-js",
+    "description": "UNINAP® 2000 JS is a naphthenic process oil.",
+    "company_name": "Unisource-energy",
+    "company_slug": "unisource-energy",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686149385/production/Company/17989/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1686149385/production/Company/17989/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Lubricants & Functional Fluids",
+            "Aerospace Fluids & Lubricants",
+            "Automotive Fluids & Lubricants",
+            "Marine Fluids & Lubricants",
+            "Chemical & Industrial Manufacturing",
+            "Fluids & Lubricants"
+        ],
+        "Product Families": [
+            "Base Stocks & Oils",
+            "API Group V"
+        ],
+        "Chemical Family": [
+            "Naphthenics & Naphthalenes"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Naphthenics & Naphthalenes"
+        ]
+    }
+}

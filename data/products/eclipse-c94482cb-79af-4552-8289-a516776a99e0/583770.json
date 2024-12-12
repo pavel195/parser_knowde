@@ -1,0 +1,43 @@
+{
+    "id": 583770,
+    "brand": "eclipse-c94482cb-79af-4552-8289-a516776a99e0",
+    "name": "STADEX® 78 Corn Dextrin",
+    "slug": "stadex-78-dextrin",
+    "description": "STADEX® 78 Corn Dextrin is suitable for use as a direct additive in food products. It is classified as a Food Product by Primient. It may also be used in non-food applications.",
+    "company_name": "Primient",
+    "company_slug": "primient",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1729086403/production/Company/50022/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Product Families": [
+            "Other Resins & Binders",
+            "Starches & Thickeners",
+            "Resins & Binders",
+            "Texture & Consistency"
+        ],
+        "Ingredient Name": [
+            "Dextrin"
+        ],
+        "End Uses": [
+            "Remoistenable Adhesives",
+            "Laminating Adhesive"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Dextrin"
+        ],
+        "Labeling Claims": [
+            "Irradiation-free",
+            "Kosher",
+            "Allergen-free",
+            "Halal",
+            "Not Listed In California Proposition 65",
+            "Ethylene Oxide-free",
+            "Animal Products-free"
+        ],
+        "Physical Form": [
+            "Powder"
+        ]
+    }
+}

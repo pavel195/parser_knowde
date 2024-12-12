@@ -1,0 +1,29 @@
+{
+    "id": 437992,
+    "brand": "superlube",
+    "name": "Superlube 3.0 MD",
+    "slug": "superlube-3-0-md",
+    "description": "Superlube 3.0 MD is a custom lubricant designed for ideal ejection performance for medium-density applications.",
+    "company_name": "Apex Advanced Technologies",
+    "company_slug": "apex-advanced-technologies",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680109265/production/Company/63045/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical & Industrial Manufacturing",
+            "Fluids & Lubricants"
+        ],
+        "Product Families": [
+            "Lubricants & Oils",
+            "Fluids & Lubricants"
+        ]
+    },
+    "summary": {
+        "Features": [
+            "Excellent Lubricity",
+            "Good Release Properties",
+            "Good Compressive Strength",
+            "Good Green Strength"
+        ]
+    }
+}

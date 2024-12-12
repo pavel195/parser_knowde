@@ -1,0 +1,39 @@
+{
+    "id": 191691,
+    "brand": "temp-pro-plus",
+    "name": "LE-PRO™ SW 420",
+    "slug": "le-pro-sw-420",
+    "description": "LE-PRO™ SW 420 is a sweet dairy whey powder that is excellent in ice cream, frozen desserts and sherberts as a partial replacer for nonfat milk; also used for flavor and color in bakery items, confectionary, soup, margarine and processed foods; and may be used in states requiring the use of Grade A ingredients.",
+    "company_name": "Leprino Foods",
+    "company_slug": "leprino-foods",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697223490/production/Company/11149/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1697223490/production/Company/11149/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Cooking Oils & Fat Products",
+            "Cereals & Snacks",
+            "Other Food Applications",
+            "Confectionery",
+            "Bakery",
+            "Meat, Poultry & Seafood",
+            "Convenience Foods",
+            "Dairy",
+            "Desserts & Fruit Preparations",
+            "Food"
+        ],
+        "Product Families": [
+            "Dairy Products",
+            "Whole Foods, Extracts & Premixes"
+        ],
+        "End Uses": [
+            "Desserts",
+            "Margarine",
+            "Packaged Wraps",
+            "Ice Cream",
+            "Frozen Desserts",
+            "Dairy Based Desserts",
+            "Sorbet"
+        ]
+    },
+    "summary": {}
+}

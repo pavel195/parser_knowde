@@ -1,0 +1,64 @@
+{
+    "id": 412374,
+    "brand": "csr",
+    "name": "HCR® -IND",
+    "slug": "hcr-ind",
+    "description": "HCR®-IND is a proprietary, eco-friendly Modified Acid™ that minimizes the hazardous exposure levels, corrosion rates and negative HSE properties of commonly used acids while delivering excellent performance penetrating, solubilizing and removing scale. HCR®-IND is a modified acid that provides superior performance to commodity acids for a wide range of water treatment and industrial cleaning and descaling applications. HCR®-IND has similar solubilizing abilities to strong acids with a premium HSE profile so it can be effectively used in place of conventional strong and weak acids such as hydrochloric, nitric, phosphoric and citric.",
+    "company_name": "Fluid Energy Group",
+    "company_slug": "fluid-energy-group",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1682593117/production/Brand/29808/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625605098/production/CategoryImage/438/category_image/CleaningIngredients_03.jpg",
+    "properties": {
+        "Applications": [
+            "Processing & Packaging",
+            "Paper & Pulp",
+            "Power, Water & Utilities",
+            "Mining",
+            "Pulping & Processing",
+            "Water Treatment",
+            "Institutional & Industrial Care",
+            "Surface Care",
+            "Industrial Cleaning",
+            "Institutional & Catering",
+            "Food Facility Cleaning & Sanitization",
+            "Oil, Gas & Mining",
+            "Food & Beverage Manufacturing",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Finishing Additives & Treatments",
+            "Industrial Cleaners",
+            "Paper & Pulp Chemicals",
+            "Commercial Cleaners",
+            "Cleaners"
+        ],
+        "Chemical Family": [
+            "Alkalis"
+        ],
+        "End Uses": [
+            "Paper & Pulp"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Alkalis"
+        ],
+        "Ready to Use Product Type": [
+            "Descalers",
+            "Cleaner"
+        ],
+        "Certifications & Compliance": [
+            "NSF Approved"
+        ],
+        "Application Area": [
+            "Pipes",
+            "Mining Operations",
+            "Food Processing",
+            "Equipment",
+            "Tanks"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Elastomers & Rubbers"
+        ]
+    }
+}

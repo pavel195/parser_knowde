@@ -1,0 +1,49 @@
+{
+    "id": 405228,
+    "brand": "ronjohn",
+    "name": "RonJohn® Electra Strip",
+    "slug": "ronjohn-electra-strip",
+    "description": "RonJohn® Electra Strip is a liquid blend developed to safely remove varnish and epoxy adhesive sealers from electric motors so they can be disassembled. RonJohn® Electra Strip is specifically formulated for high effectiveness on difficult motor varnishes and epoxies. This product is designed to be used in a tank application where the parts can be immersed. Though you can use RonJohn® Electra Strip at room temperature, it can be safely heated up to 130F to accelerate the removal of the coatings. It is safe for use on metals, wood, fiberglass, concrete, and certain plastics like polyester, polyethylene, and nylon. It can soften or dissolve the toughest magnet wire coatings overnight – heating can cut this by more than half.",
+    "company_name": "TEKNIKEM",
+    "company_slug": "teknikem",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1682593054/production/Brand/31031/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515671/production/CategoryImage/1057/category_image/HII_09.jpg",
+    "properties": {
+        "Applications": [
+            "Institutional & Industrial Care",
+            "Surface Care",
+            "Industrial Cleaning",
+            "Technical Cleaning",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Industrial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner",
+            "Adhesive Remover"
+        ],
+        "Application Area": [
+            "Tanks",
+            "Electric Motors",
+            "Electronic Components"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Fiberglass",
+            "Wood",
+            "Concrete",
+            "Plastics"
+        ],
+        "Certifications & Compliance": [
+            "SARA 313"
+        ],
+        "Features": [
+            "Ease of Handling",
+            "Biodegradable"
+        ]
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "id": 389547,
+    "brand": "veralite",
+    "name": "Veralite ® 100",
+    "slug": "veralite-100",
+    "description": "Veralite ® 100 is an extruded plastic sheet based upon thermoplastic polyester APET (Amorphous Polyethylene Terephthalate) with an excellent rigidity and a good chemical resistance. Furthermore, Veralite 100® can be crystallized (higher temperature resistance).",
+    "company_name": "Industrial Plastics Belgium (IPB NV)",
+    "company_slug": "industrial-plastics-belgium-ipb-nv",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686150411/production/Brand/29288/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607422/production/CategoryImage/517/category_image/ElectricalElectronics_02.jpg",
+    "properties": {
+        "Applications": [
+            "Food",
+            "Displays",
+            "Other Food Applications",
+            "Devices & Assemblies"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Polymer Name": [
+            "Polyethylene Terephthalate (PET)"
+        ],
+        "End Uses": [
+            "Displays",
+            "Signage"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyethylene Terephthalate (PET)"
+        ],
+        "Features": [
+            "Flame Resistant",
+            "Chemical Resistant",
+            "Cost Effective",
+            "Excellent Transparency Properties",
+            "Food Contact Acceptable",
+            "Amorphous",
+            "Recyclable",
+            "High Rigidity",
+            "High Impact Resistance",
+            "Easier Processing",
+            "Good Printability"
+        ],
+        "Tensile Modulus": [
+            "2600.0 - 2600.0 MPa"
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "id": 335131,
+    "brand": "tri-z",
+    "name": "MicroBlitz® 11-8-5 + 0.05 B, 0.05 Cu",
+    "slug": "microblitz-11-8-5-0-05-b-0-05-cu",
+    "description": "MicroBlitz® 11-8-5 + 0.05 B, 0.05 Cu aids in the relief of plant stress. It is a micronutrient blend including fulvic acid for enhanced efficiency, and it may be applied with herbicides.",
+    "company_name": "Andersons Inc",
+    "company_slug": "andersons-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708671907/production/Brand/24760/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608215/production/CategoryImage/550/category_image/AgricultureFeed_06.jpg",
+    "properties": {
+        "Applications": [
+            "Oilseeds",
+            "Sugar & Starch Crops",
+            "Fodder & Forage",
+            "Vegetables",
+            "Turf Management",
+            "Other Agricultural Crops",
+            "Agricultural Crops",
+            "Turf, Ornamentals & Landscape"
+        ],
+        "Product Families": [
+            "Fertilizers & Nutrients",
+            "Plant Health, Nutrients & Soil Management"
+        ],
+        "Chemical Family": [
+            "Carbonates",
+            "Fulvic Acids"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Fulvic Acids",
+            "Carbonates"
+        ],
+        "Functions": [
+            "Micronutrient",
+            "Fertilizer"
+        ],
+        "Application Technique": [
+            "Pre-Emergence",
+            "Ground Soil Applied",
+            "Foliage Applied"
+        ]
+    }
+}

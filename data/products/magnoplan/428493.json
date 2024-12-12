@@ -1,0 +1,30 @@
+{
+    "id": 428493,
+    "brand": "magnoplan",
+    "name": "Hepavet®",
+    "slug": "hepavet",
+    "description": "Hepavet® is mainly composed of carnitine, inositol, betaine and choline chloride. This unique composition makes Hepavet® a true energy generator.",
+    "company_name": "Agraplan Farmaca B.V.",
+    "company_slug": "agraplan-farmaca-b-v",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708531789/production/Brand/34005/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608173/production/CategoryImage/547/category_image/AgricultureFeed_03.jpg",
+    "properties": {
+        "Applications": [
+            "Birds & Poultry",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Feed Supplements",
+            "Nutritional Ingredients"
+        ]
+    },
+    "summary": {
+        "Features": [
+            "Balanced Amino Acids Profile",
+            "Improve Liver Function",
+            "Psychological Stability",
+            "High Energy Content",
+            "Aid In Blood Circulation"
+        ]
+    }
+}

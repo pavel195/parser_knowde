@@ -1,0 +1,37 @@
+{
+    "id": 399848,
+    "brand": "shurtape-technologies-colonial",
+    "name": "Shurtape Technologies CF 740",
+    "slug": "shurtape-technologies-cf-740",
+    "description": "Shurtape Technologies CF 740 is used for high-temperature, demanding industrial paint masking applications in the transportation (auto, coaches, busses and marine) and metal fabrication industries.",
+    "company_name": "Shurtape Technologies",
+    "company_slug": "shurtape-technologies",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520158/production/Company/50464/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608982/production/CategoryImage/589/category_image/AdhesivesSealants_06.jpg",
+    "properties": {
+        "Applications": [
+            "Tapes & Labels",
+            "Tapes, Labels & Adhesives"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Pressure Sensitive Adhesives & Tapes"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Masking Tape"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Elastomers & Rubbers",
+            "Metal",
+            "Fiberglass",
+            "Plastics"
+        ],
+        "Features": [
+            "High Performance",
+            "Good Adhesion",
+            "High Temperature Strength"
+        ]
+    }
+}

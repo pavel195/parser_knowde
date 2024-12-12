@@ -1,0 +1,45 @@
+{
+    "id": 401965,
+    "brand": "aos",
+    "name": "AOS® Electrically Conductive Grease 57001",
+    "slug": "aos-electrically-conductive-grease-57001",
+    "description": "AOS® Electrically Conductive Grease 57001 is a Non-Silicone-based, chemically inert heat sink compound that is thermally stable. This advanced grease offers premium electrical and thermal conductivity.",
+    "company_name": "AOS Thermal Compounds",
+    "company_slug": "aos-thermal-compounds",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292067/production/Brand/30631/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607454/production/CategoryImage/519/category_image/ElectricalElectronics_04.jpg",
+    "properties": {
+        "Applications": [
+            "Switches & Relays",
+            "Other Parts & Components",
+            "Parts & Components"
+        ],
+        "Product Families": [
+            "Greases",
+            "Fluids & Lubricants"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Conductive Grease"
+        ],
+        "Application Areas": [
+            "Electrical Components"
+        ],
+        "Features": [
+            "Electrically Conductive",
+            "Cleanable",
+            "Biodegradable",
+            "Low Creep",
+            "Low Outgassing",
+            "Good Thermal Stability",
+            "Excellent Wetting Behaviour",
+            "Good Thermal Conductivity",
+            "Service Life Extension",
+            "High Dielectric Strength",
+            "Tacky",
+            "Controlled Rheology",
+            "Good Electrical Properties"
+        ]
+    }
+}

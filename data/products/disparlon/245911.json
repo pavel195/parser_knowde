@@ -1,0 +1,48 @@
+{
+    "id": 245911,
+    "brand": "disparlon",
+    "name": "NA-LUBE® AW-6310",
+    "slug": "na-lube-aw-6310",
+    "description": "NA-LUBE® AW-6310 is an ashless multifunctional additive for industrial and automotive lubricants and greases. NA-LUBE® AW-6310, when used at very low treat levels, exhibits excellent extreme pressure and antiwear properties as determined with the FZG test rig. Additionally, NA-LUBE® AW-6310 imparts outstanding steel corrosion protection and demulsibility to lubricants based on Group I, II and synthetic base stocks.",
+    "company_name": "King Industries",
+    "company_slug": "king-industries",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708673287/production/Company/7448/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708673287/production/Company/7448/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Fluids & Lubricants",
+            "Automotive Fluids & Lubricants",
+            "Lubricants & Functional Fluids",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Additive Packages",
+            "Additives"
+        ],
+        "End Uses": [
+            "Hydraulic Fluids",
+            "Circulating Oils",
+            "Gear Oils",
+            "Metalworking Fluids"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Additive Packages"
+        ],
+        "End Uses": [
+            "Gear Oils",
+            "Metalworking Fluids",
+            "Hydraulic Fluids",
+            "Circulating Oils"
+        ],
+        "Features": [
+            "Improved Anti-Wear",
+            "Ashless Additive",
+            "Hydrolytic Stability",
+            "Good Thermal Stability",
+            "Corrosion Resistant",
+            "Extreme Pressure Performance"
+        ]
+    }
+}

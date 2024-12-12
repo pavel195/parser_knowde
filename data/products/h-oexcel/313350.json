@@ -1,0 +1,29 @@
+{
+    "id": 313350,
+    "brand": "h-oexcel",
+    "name": "Calf-Rescue",
+    "slug": "calf-rescue",
+    "description": "Calf-Rescue is a natural, nutritional supplement for dairy and beef calves available in an applicator tube for easy, oral administration. When given at birth and during times of stress, natural oral nutritional supplement Calf-Rescue provides beneficial microbials, vitamins and energy to promote a healthy appetite and digestive system, enabling calves to grow to their full genetic potential.",
+    "company_name": "Brookside Agra",
+    "company_slug": "brookside-agra",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708528740/production/Product/313350/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708528740/production/Product/313350/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Ruminants",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Feed Supplements",
+            "Nutritional Ingredients"
+        ]
+    },
+    "summary": {
+        "Animal Species": [
+            "Calves"
+        ],
+        "Labeling Claims": [
+            "Natural"
+        ]
+    }
+}

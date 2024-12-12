@@ -1,0 +1,56 @@
+{
+    "id": 336276,
+    "brand": "storflam",
+    "name": "Storflam® ZBA",
+    "slug": "storflam-zba",
+    "description": "Storflam® ZBA has its applications in flame retardant in plastics, rubber and resins.",
+    "company_name": "Specialty Chemicals Lardello",
+    "company_slug": "specialty-chemicals-lardello",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708688773/production/Brand/24867/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607403/production/CategoryImage/516/category_image/ElectricalElectronics_01.jpg",
+    "properties": {
+        "Applications": [
+            "Carpet",
+            "Glazing & Window Elements",
+            "Carpet & Upholstery",
+            "Tires",
+            "Building Wires & Power Cables",
+            "Interior Fixtures",
+            "Apparel",
+            "Automotive",
+            "Building Envelope",
+            "Building Materials",
+            "Flooring & Surfaces",
+            "Wire & Cable",
+            "Building Envelope & Roofing",
+            "Decorative Materials & Finishes"
+        ],
+        "Product Families": [
+            "Flame Retardants",
+            "Polymer Additives"
+        ],
+        "End Uses": [
+            "Door Profiles",
+            "Profiles",
+            "Tires",
+            "Carpet Backing",
+            "Automotive Interior Trim"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Zinc borate"
+        ],
+        "Functions": [
+            "Flame Retardant",
+            "Smoke Suppressant"
+        ],
+        "End Uses": [
+            "Profiles",
+            "Door Profiles",
+            "Tires",
+            "Carpet Backing",
+            "Automotive Interior Trim"
+        ]
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "id": 470193,
+    "brand": "altech",
+    "name": "ALCOM® PC 740/4 CC1121-05LD",
+    "slug": "mocom-alcom-pc-740-4-cc1121-05ld",
+    "description": "MOCOM Compounds ALCOM® PC 740/4 CC1121-05LD is a polycarbonate base polymer containing a special filler/additive system for light scattering, high light transmission, and easy flow. It is approved for GMW15702 and GS93016, and is typically used for lamp covers, display elements, and operating elements in the automotive and lighting markets. For injection molding, the melt temperature should be 270-310°C and the mold temperature should be 80-110°C. To ensure optimal performance, the product should be stored in a dry place, away from light.",
+    "company_name": "MOCOM Compounds",
+    "company_slug": "mocom",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1713790304/production/Company/50276/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1713790304/production/Company/50276/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Displays",
+            "Consumer Electronics",
+            "Automotive Lighting",
+            "Appliances & Electronics",
+            "Automotive",
+            "Devices & Assemblies"
+        ],
+        "Product Families": [
+            "Polycarbonates",
+            "Engineering & Specialty Polymers"
+        ],
+        "Chemical Family": [
+            "Polycarbonate (PC)"
+        ],
+        "Polymer Name": [
+            "Polycarbonate (PC)"
+        ],
+        "End Uses": [
+            "Lamp Covers",
+            "Displays",
+            "Automotive Applications"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polycarbonate (PC)"
+        ],
+        "Processing Methods": [
+            "Injection Molding"
+        ],
+        "Fillers Included": [
+            "Proprietary"
+        ],
+        "Flexural Modulus": [
+            "2400.0 - 2400.0 MPa"
+        ]
+    }
+}

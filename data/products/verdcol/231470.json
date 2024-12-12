@@ -1,0 +1,52 @@
+{
+    "id": 231470,
+    "brand": "verdcol",
+    "name": "Verdcol Yellow 110 PTR",
+    "slug": "verdcol-yellow-110-ptr",
+    "description": "Yellow 110 PTR is transparent and red shade yellow with good durability",
+    "company_name": "Verdcol",
+    "company_slug": "verdcol",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1703849711/production/Company/16405/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608760/production/CategoryImage/576/category_image/AutomotiveTransportation_04.jpg",
+    "properties": {
+        "Applications": [
+            "Decorative Paints, Coatings & Stains",
+            "Other Coatings & Finishes",
+            "Automotive OEM Coatings",
+            "Wood Coatings & Finishes",
+            "Coil Coatings",
+            "Decorative Paints",
+            "Industrial Coatings",
+            "Other Automotive & Transportation Coatings",
+            "Coatings & Finishes",
+            "Building Materials",
+            "Automotive & Transportation",
+            "Building & Construction",
+            "Decorative Materials & Finishes"
+        ],
+        "Product Families": [
+            "Organic Pigments",
+            "Color Pigments",
+            "Pigments & Colorants"
+        ],
+        "End Uses": [
+            "Coil Coating",
+            "Powder Coating"
+        ]
+    },
+    "summary": {
+        "Color": [
+            "Yellow"
+        ],
+        "Pigment Type": [
+            "Organic Pigments"
+        ],
+        "End Uses": [
+            "Powder Coating",
+            "Coil Coating"
+        ],
+        "Synonyms": [
+            "Bis(4,5,6,7-Tetrachloro-3-oxoisoindolin-1-ylidene)-1,4-phenylenediamine, C.I. Pigment Yellow 110, C.I. 56280, PY 110"
+        ]
+    }
+}

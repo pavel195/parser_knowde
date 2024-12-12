@@ -1,0 +1,58 @@
+{
+    "id": 246777,
+    "brand": "scalpethic",
+    "name": "TRIPTONOL",
+    "slug": "triptonol",
+    "description": "Synergistic complex of Manuka concentrate & Salix Alba (willow) bark extract enriched with salicylic acid.",
+    "company_name": "Biocosmethic",
+    "company_slug": "biocosmethic",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704116851/production/Product/246777/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1704116851/production/Product/246777/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Hair Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Botanical Ingredients & Extracts",
+            "Other OTC Actives",
+            "Hair Actives",
+            "Cosmetic Actives",
+            "Vitamins, Extracts & Oils"
+        ],
+        "Chemical Family": [
+            "Botanical Extracts"
+        ],
+        "INCI Name": [
+            "Methylpropanediol",
+            "Salix Alba (Willow) Bark Extract",
+            "Flavesone",
+            "Isoleptospermone",
+            "Salicylic Acid",
+            "Leptospermone",
+            "Polysorbate 80"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Polysorbate 80",
+            "Salicylic Acid",
+            "Leptospermone",
+            "Isoleptospermone",
+            "Methylpropanediol",
+            "Flavesone",
+            "Salix Alba (Willow) Bark Extract"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Plant Origin"
+        ],
+        "Benefit Claims": [
+            "Purifying",
+            "Detoxifying"
+        ],
+        "Labeling Claims": [
+            "Clean at Sephora"
+        ]
+    }
+}

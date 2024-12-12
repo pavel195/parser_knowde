@@ -1,0 +1,85 @@
+{
+    "id": 317389,
+    "brand": "gosulin",
+    "name": "preBIULIN® OP",
+    "slug": "prebiulin-op",
+    "description": "White crystal Inulin derived for chicory roots. A non soluble prebiotic fiber.",
+    "company_name": "Gobiotics",
+    "company_slug": "gobiotics",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708689182/production/Product/317389/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708689182/production/Product/317389/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Other Personal Hygiene Applications",
+            "Other Beauty & Care",
+            "Feminine Hygiene",
+            "Hair Care",
+            "Bath & Shower",
+            "Beauty & Care",
+            "Personal Hygiene"
+        ],
+        "Product Families": [
+            "Skin Actives",
+            "Visual Modifiers",
+            "Cosmetic Actives",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Cichorium Intybus (Chicory) Root Extract"
+        ],
+        "End Uses": [
+            "Body Wash",
+            "Intimate Hygiene Products",
+            "Shampoos & Rinses"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Cichorium Intybus (Chicory) Root Extract"
+        ],
+        "Functions": [
+            "Prebiotic",
+            "Opacifier"
+        ],
+        "Ingredient Origin": [
+            "Non-Animal Origin",
+            "Natural Origin",
+            "Plant Origin"
+        ],
+        "Labeling Claims": [
+            "BSE-free",
+            "Credo Clean Standard",
+            "Clean at Sephora",
+            "TSE-free",
+            "VOC-free",
+            "Naturally Derived",
+            "Not Tested on Animals",
+            "Palm Oil-free",
+            "Allergen-free",
+            "Natural",
+            "Soy-free",
+            "Vegan",
+            "Additive-free",
+            "Ulta Beauty's Conscious Beauty",
+            "Plant-Based",
+            "Palm free",
+            "Sustainable",
+            "Gluten-free",
+            "Halal"
+        ],
+        "Certifications & Compliance": [
+            "Generally Recognized As Safe (GRAS)",
+            "WADA Certified",
+            "COSMOS",
+            "NaTrue",
+            "Halal"
+        ],
+        "Benefit Claims": [
+            "Non-Irradiated",
+            "Skin Conditioning",
+            "Scalp Protection Effect",
+            "Hair Conditioning",
+            "Opacifying"
+        ]
+    }
+}

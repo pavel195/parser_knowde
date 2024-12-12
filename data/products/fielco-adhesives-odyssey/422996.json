@@ -1,0 +1,29 @@
+{
+    "id": 422996,
+    "brand": "fielco-adhesives-odyssey",
+    "name": "Odyssey 6860",
+    "slug": "odyssey-6860",
+    "description": "Fielco Adhesives Odyssey 6860 is a rapid setting, ambient curing epoxy potting compound for encapsulation of small circuit assemblies.",
+    "company_name": "Fielco Adhesives",
+    "company_slug": "fielco-adhesives",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691738022/production/Brand/33275/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608953/production/CategoryImage/586/category_image/AdhesivesSealants_03.jpg",
+    "properties": {
+        "Applications": [
+            "Adhesives & Sealants",
+            "Appliances & Electronics",
+            "Printed Circuit Boards (PCBs)",
+            "Semiconductor Manufacturing",
+            "Packaging & Assembly",
+            "Parts & Components"
+        ],
+        "Product Families": [
+            "Encapsulants",
+            "Adhesives & Sealants"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    },
+    "summary": {}
+}

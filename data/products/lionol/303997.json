@@ -1,0 +1,54 @@
+{
+    "id": 303997,
+    "brand": "lionol",
+    "name": "LIONOGEN VIOLET FG-6240",
+    "slug": "lionogen-violet-fg-6240",
+    "description": "LIONOGEN VIOLET FG-6240 is a multi-purpose carbazole violet pigment, with a bright bluish shade, very good dispersion properties, and high color strength.",
+    "company_name": "Toyo Ink America, LLC.",
+    "company_slug": "toyo-ink-america-llc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708521598/production/Company/7749/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608600/production/CategoryImage/568/category_image/PaintingsCoatings_04.jpg",
+    "properties": {
+        "Applications": [
+            "Decorative Paints, Coatings & Stains",
+            "Decorative Paints",
+            "Industrial Maintenance",
+            "Industrial Coatings",
+            "Automotive OEM Coatings",
+            "Coatings & Finishes",
+            "Building Materials",
+            "Automotive & Transportation",
+            "Building & Construction",
+            "Decorative Materials & Finishes"
+        ],
+        "Product Families": [
+            "Organic Pigments",
+            "Color Pigments",
+            "Pigments & Colorants"
+        ],
+        "Chemical Family": [
+            "Dioxazine"
+        ],
+        "End Uses": [
+            "Powder Coating",
+            "Waterborne Coating",
+            "Solventborne Coating"
+        ]
+    },
+    "summary": {
+        "Color": [
+            "Violet"
+        ],
+        "Pigment Type": [
+            "Organic Pigments"
+        ],
+        "Chemical Family": [
+            "Dioxazine"
+        ],
+        "End Uses": [
+            "Solventborne Coating",
+            "Powder Coating",
+            "Waterborne Coating"
+        ]
+    }
+}

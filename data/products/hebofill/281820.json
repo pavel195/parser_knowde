@@ -1,0 +1,61 @@
+{
+    "id": 281820,
+    "brand": "hebofill",
+    "name": "HeBoCoat® PL-E 125",
+    "slug": "hebocoat-pl-e-125",
+    "description": "HeBoCoat® PL-E 125 is a Boron Nitride coating in an ethanol base with the addition of an inorganic binder. The high temperature adhesive properties of the coating to metallic substrates, glass, ceramics and graphite are excellent.",
+    "company_name": "HENZE BORON NITRIDE PRODUCTS",
+    "company_slug": "henze-boron-nitride-products",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520080/production/Product/281820/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1687520080/production/Product/281820/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Building & Construction",
+            "Industrial Coatings",
+            "Specialty Coatings",
+            "Other Industrial Coatings",
+            "Glass Coatings",
+            "Other Specialty Coatings",
+            "Other Industrial Applications",
+            "Ceramics & Refractory",
+            "Wood Coatings & Finishes",
+            "Other Paints & Coatings Applications",
+            "Chemical & Industrial Manufacturing",
+            "Fluids & Lubricants",
+            "Tooling & Moldmaking"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Other Paints & Coatings"
+        ],
+        "Chemical Family": [
+            "Boron-based Compounds"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Boron Nitride Coating",
+            "Coating"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Wood",
+            "Glass",
+            "Metal",
+            "Ceramic",
+            "Graphite"
+        ],
+        "Features": [
+            "Low Wear",
+            "Temperature Resistance",
+            "Good Adhesion",
+            "Fast Drying"
+        ],
+        "Application Method": [
+            "Spray",
+            "Brush"
+        ],
+        "Chemical Family": [
+            "Boron-based Compounds"
+        ]
+    }
+}

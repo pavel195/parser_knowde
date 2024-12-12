@@ -1,0 +1,28 @@
+{
+    "id": 427609,
+    "brand": "yincae",
+    "name": "Yincae® TGP 110A",
+    "slug": "yincae-tgp-110a",
+    "description": "Yincae® TGP 110A is a thermally conductive adhesive. It is a reactive thermal grease, eliminates micro-bubbles at rough interfaces and has a very thin BLT.",
+    "company_name": "Yincae Advanced Materials",
+    "company_slug": "yincae-advanced-materials",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691738009/production/Brand/33890/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607486/production/CategoryImage/521/category_image/ElectricalElectronics_06.jpg",
+    "properties": {
+        "Applications": [
+            "Printed Circuit Boards (PCBs)",
+            "Adhesives & Sealants",
+            "Appliances & Electronics",
+            "Semiconductor Manufacturing",
+            "Packaging & Assembly",
+            "Parts & Components"
+        ],
+        "Product Families": [
+            "Greases",
+            "Conductive Adhesives",
+            "Adhesives & Sealants",
+            "Fluids & Lubricants"
+        ]
+    },
+    "summary": {}
+}

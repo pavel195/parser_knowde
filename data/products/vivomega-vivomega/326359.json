@@ -1,0 +1,52 @@
+{
+    "id": 326359,
+    "brand": "vivomega-vivomega",
+    "name": "Vivomega™ Core 3624 TG60 / TG Premium",
+    "slug": "vivomega-3624-tg60-tg-premium",
+    "description": "Vivomega™ Core 3624 TG60 / TG Premium has a chemical composition starting at 500mg/g EPA + DHA with double the strength of commodity fish oils.",
+    "company_name": "Vivomega",
+    "company_slug": "vivomega",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708673052/production/Company/31047/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606945/production/CategoryImage/505/category_image/FoodNutrition_06.jpg",
+    "properties": {
+        "Applications": [
+            "Oral",
+            "Other Nutrition Applications",
+            "Sports Nutrition",
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being",
+            "Drug Delivery & Care Solutions"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Fatty Acids, Specialty Lipids & Oils",
+            "Fatty Acids & Specialty Lipids",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "Chemical Family": [
+            "Fish Oils & Lipids"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Fish Oil"
+        ],
+        "Functions": [
+            "Supplement",
+            "Fatty Acid & Lipid",
+            "Dietary Supplement"
+        ],
+        "Labeling Claims": [
+            "Environmentally Friendly"
+        ],
+        "Certifications & Compliance": [
+            "EU Compliant"
+        ],
+        "Benefit Claims (Health)": [
+            "Stimulates Immune System",
+            "Controls Systolic Blood Pressure"
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": 330046,
+    "brand": "verbasnol",
+    "name": "Astrion™",
+    "slug": "astrion",
+    "description": "Astrion™ is NuLiv Science’s patented and clinically-studied cosmeceutical ingredient to provide advanced hydration. We purify fractionated extracts of Astragalus membranaceus and Centella asiatica to produce Astrion™.",
+    "company_name": "NuLiv Science USA",
+    "company_slug": "nuliv-science-usa",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708690353/production/Brand/23876/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607247/production/CategoryImage/513/category_image/FoodNutrition_13.jpg",
+    "properties": {
+        "Applications": [
+            "Topical",
+            "Oral",
+            "Drug Delivery & Care Solutions"
+        ],
+        "Product Families": [
+            "Phytochemicals & Plant Extracts",
+            "Nutraceuticals & Supplements"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Dietary Supplement"
+        ]
+    }
+}

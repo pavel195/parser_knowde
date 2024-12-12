@@ -1,0 +1,30 @@
+{
+    "id": 350833,
+    "brand": "cytop",
+    "name": "CYTOP CTX-809SP2",
+    "slug": "cytop-ctx-809sp2",
+    "description": "CYTOP CTX-809SP2 is an amorphous fluoropolymer that exhibits low refractive index, low coefficient of optical dispersion and good lamination properties. The thermoplastic characteristics of CYTOP CTX-809SP2, coupled with its transparency, solubility, insulation properties, resistance to chemicals, and oils/water repellency, make it a popular choice for coating electronic materials.",
+    "company_name": "AGC Chemicals Americas, Inc.",
+    "company_slug": "agc-chemicals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1694458143/production/Brand/18569/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1694458143/production/Product/350833/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Electronics Coatings",
+            "Packaging & Assembly",
+            "Specialty Coatings"
+        ],
+        "Product Families": [
+            "Other Resins & Binders",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Fluoropolymers"
+        ]
+    },
+    "summary": {
+        "Glass Transition Temperature (Tg)": [
+            "108.0 - 108.0 °C"
+        ]
+    }
+}

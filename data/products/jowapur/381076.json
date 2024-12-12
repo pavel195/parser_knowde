@@ -1,0 +1,38 @@
+{
+    "id": 381076,
+    "brand": "jowapur",
+    "name": "Jowapur® 685.06",
+    "slug": "jowapur-685-06",
+    "description": "Jowapur® 685.06 is a adhesive for assembly operations, for various substrates and lacquers.",
+    "company_name": "Jowat Corporation",
+    "company_slug": "jowat-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1685601165/production/Brand/28506/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608929/production/CategoryImage/584/category_image/AdhesivesSealants_01.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial & Assembly Adhesives",
+            "Other Industrial & Assembly Applications",
+            "Other Adhesives & Sealants Applications",
+            "Industrial Adhesives & Sealants",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Other Adhesives & Sealants"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "1K (1 component) Adhesive"
+        ],
+        "Cure Method": [
+            "Moisture Cure"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ]
+    }
+}

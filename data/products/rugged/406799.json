@@ -1,0 +1,32 @@
+{
+    "id": 406799,
+    "brand": "rugged",
+    "name": "RUGGED™ XL 400 Synthetic Blend Engine Oil",
+    "slug": "rugged-xl-400-synthetic-blend-engine-oil",
+    "description": "RUGGED™ XL 400 Synthetic Blend Engine Oil is completely backwards compatible and allows fleets to use one product for newer engines as well as older units. It is formulated to be used with Ultra Low Sulfur Diesel (ULSD) as well as normal/ low sulfur diesel fuels.",
+    "company_name": "Colorado Petroleum Products",
+    "company_slug": "colorado-petroleum-products",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680108887/production/Brand/31358/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Lubricants & Functional Fluids",
+            "Automotive Fluids & Lubricants",
+            "Chemical & Industrial Manufacturing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Lubricants & Oils",
+            "Fluids & Lubricants"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Oil"
+        ],
+        "Application Area": [
+            "Engine",
+            "Electric Motors"
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "id": 401640,
+    "brand": "structuresaver",
+    "name": "FIRESHELL® BMS TC",
+    "slug": "fireshell-bms-tc",
+    "description": "FIRESHELL® BMS TC is a water based, ultra thin, one component coating. It is easily applied with airless spray equipment, brush or roller; eliminating the need for expensive application equipment and provides the building owner with an esthetically pleasing form of fire protection.The coating applies like regular latex paint using an airless sprayer, and being water based, it cleans up easily.",
+    "company_name": "TPR2",
+    "company_slug": "tpr2",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1673943287/production/Brand/30605/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608410/production/CategoryImage/557/category_image/BuildingConstruction_01.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Wall Panels",
+            "Building Envelope & Roofing",
+            "Decorative Materials & Finishes",
+            "Decorative Paints, Coatings & Stains",
+            "EIFS & Insulation"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Waterborne Coating",
+            "1K (1 component) Coating"
+        ],
+        "Features": [
+            "Excellent Aesthetics"
+        ],
+        "Application Method": [
+            "Roller",
+            "Brush",
+            "Spray"
+        ]
+    }
+}

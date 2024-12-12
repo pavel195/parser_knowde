@@ -1,0 +1,37 @@
+{
+    "id": 400002,
+    "brand": "magicoat",
+    "name": "Inkcups Vivid White UV Curable Ink",
+    "slug": "inkcups-vivid-white-uv-curable-ink",
+    "description": "Vivid White UV curable ink is best for a variety of substrates. From stainless to plastics to coated metals, the S1 UV inkjet ink series is the perfect all-purpose UV ink, especially for those who are printing on multiple substrates.",
+    "company_name": "Inkcups",
+    "company_slug": "inkcups",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292007/production/Company/43730/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1664292007/production/Product/400002/card_banner/image.png",
+    "properties": {
+        "Applications": [
+            "Printing & Inks",
+            "Inkjet Printing"
+        ],
+        "Product Families": [
+            "Inks & Pastes",
+            "Inkjet Inks"
+        ]
+    },
+    "summary": {
+        "Compatible Substrates & Surfaces": [
+            "Steel",
+            "Plastics",
+            "Metal",
+            "Stainless Steel"
+        ],
+        "Features": [
+            "Good Color Stability",
+            "UV Curable",
+            "Good Adhesion"
+        ],
+        "Color": [
+            "White"
+        ]
+    }
+}

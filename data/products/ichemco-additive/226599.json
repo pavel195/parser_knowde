@@ -1,0 +1,50 @@
+{
+    "id": 226599,
+    "brand": "ichemco-additive",
+    "name": "Curing Agent X7",
+    "slug": "curing-agent-x7",
+    "description": "CURING AGENT X7 is polyfunctional aziridine, employed as crosslinking agent and adhesion promoter. It is a clear, amber liquid, miscible in water and many common organic solvents. Aziridine content is 6,35-7 meq/g",
+    "company_name": "ichemco",
+    "company_slug": "ichemco",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708673225/production/Product/226599/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609103/production/CategoryImage/595/category_image/PrintingPackaging_06.jpg",
+    "properties": {
+        "Applications": [
+            "Other Adhesives & Sealants Applications"
+        ],
+        "Product Families": [
+            "Chain Extenders & Crosslinkers",
+            "Functional Additives",
+            "Additives",
+            "Monomers & Intermediates"
+        ],
+        "Chemical Family": [
+            "Aziridines"
+        ],
+        "End Uses": [
+            "Waterborne Adhesive",
+            "Solventborne Adhesive",
+            "Lacquers",
+            "Waterborne Coating"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Coupling Agent",
+            "Adhesion Promoter",
+            "Crosslinking Agent",
+            "Curing Agent"
+        ],
+        "Chemical Family": [
+            "Aziridines"
+        ],
+        "Features": [
+            "Chemical Resistance",
+            "Solvent Resistance",
+            "Improved Hardness",
+            "Improved Flexibility",
+            "Water Resistance",
+            "Improves Adhesion"
+        ]
+    }
+}

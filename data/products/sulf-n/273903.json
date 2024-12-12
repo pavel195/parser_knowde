@@ -1,0 +1,58 @@
+{
+    "id": 273903,
+    "brand": "sulf-n",
+    "name": "Aegis® H85WC01",
+    "slug": "aegis-h85wc01",
+    "description": "Aegis® H85WC01 resin is a medium-high viscosity, heat stabilized, nylon 6 jacket compound for use in wire, cable, flexible lighting and plenum applications. It provides excellent performance across the range of THHN, THWN and TFFN constructions along with a well-balanced set of properties, including low fuming, high toughness, abrasion resistance, and excellent resistance to gasoline, oil and other hydrocarbons.",
+    "company_name": "AdvanSix",
+    "company_slug": "advansix",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697438354/production/Company/4618/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1611138009/production/Product/273903/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Jacketing & Insulation",
+            "Building Wires & Power Cables",
+            "Lighting",
+            "Consumer Electronics",
+            "Powertrain & UTH",
+            "Automotive Lighting",
+            "Electrical & Electronic Systems",
+            "Automotive",
+            "Devices & Assemblies",
+            "Wire & Cable"
+        ],
+        "Product Families": [
+            "Polyamides",
+            "Engineering & Specialty Polymers"
+        ],
+        "Chemical Family": [
+            "Polyamides"
+        ],
+        "Polymer Name": [
+            "Polyamide 6 (PA 6)"
+        ],
+        "End Uses": [
+            "Wires",
+            "Cables",
+            "Wire Jacketing",
+            "Transportation Wire Jacketing",
+            "Transportation Wire Insulation",
+            "Plenum Cable Jacketing",
+            "Building Wire Jacketing",
+            "Building Wire Insulation",
+            "Appliance Wire Jacketing"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyamide 6 (PA 6)"
+        ],
+        "Additives Included": [
+            "Plasticizer (Unspecified)",
+            "Heat Stabilizer"
+        ],
+        "Flexural Modulus:": [
+            "2889.0 - 2889.0 MPa"
+        ]
+    }
+}

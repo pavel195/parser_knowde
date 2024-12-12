@@ -1,0 +1,49 @@
+{
+    "id": 398819,
+    "brand": "terratek",
+    "name": "Terratek® CC200500",
+    "slug": "terratek-cc200500",
+    "description": "Terratek® CC200500 is a proprietary blend of corn cob and biobased polyethylene for injection molding applications. CC200500 contains 15% corn cob fiber and with Braskem GreenPE this formulation is fully biobased.",
+    "company_name": "Green Dot Bioplastics Inc",
+    "company_slug": "green-dot",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708521636/production/Company/20762/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708521636/production/Product/398819/card_banner/image",
+    "properties": {
+        "Product Families": [
+            "Biodegradable Polymers",
+            "Polyolefins",
+            "Thermoplastic Resins",
+            "Polymers & Resins",
+            "Basic Thermoplastics",
+            "Engineering & Specialty Polymers"
+        ],
+        "Chemical Family": [
+            "Polyolefins",
+            "Polyethylenes"
+        ],
+        "Polymer Name": [
+            "Polyethylene (unspecified)"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyethylene (unspecified)"
+        ],
+        "Chemical Family": [
+            "Polyethylenes",
+            "Polyolefins"
+        ],
+        "Reinforcement Material": [
+            "Corn Cob Fiber"
+        ],
+        "Fillers Included": [
+            "Corn Cob Fiber"
+        ],
+        "Labeling Claims": [
+            "Low Carbon Footprint (PCF)",
+            "Sustainable",
+            "Biodegradable",
+            "Bio-based"
+        ]
+    }
+}

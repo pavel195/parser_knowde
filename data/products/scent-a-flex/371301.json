@@ -1,0 +1,29 @@
+{
+    "id": 371301,
+    "brand": "scent-a-flex",
+    "name": "Scent-a-Flex™",
+    "slug": "scent-a-flex",
+    "description": "Scent-a-Flex™ is a patented microencapsulated ink or varnish that releases a fragrance when touched. The scent can be generic (i.e., strawberry or chocolate) or specific (i.e., Smucker’s Strawberry or Hershey’s chocolate).",
+    "company_name": "BCM Inks U.S.A.",
+    "company_slug": "bcm-inks-u-s-a",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520356/production/Brand/27704/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609103/production/CategoryImage/595/category_image/PrintingPackaging_06.jpg",
+    "properties": {
+        "Applications": [
+            "Packaging Coatings",
+            "Printing & Inks",
+            "Overprint Varnishes",
+            "Flexography"
+        ],
+        "Product Families": [
+            "Flexography Inks",
+            "Inks & Pastes"
+        ]
+    },
+    "summary": {
+        "Features": [
+            "Cost Effective",
+            "Excellent Substrate Adhesion"
+        ]
+    }
+}

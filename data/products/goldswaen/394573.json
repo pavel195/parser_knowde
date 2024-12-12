@@ -1,0 +1,31 @@
+{
+    "id": 394573,
+    "brand": "goldswaen",
+    "name": "The Swaen FLAKED BARLEY",
+    "slug": "the-swaen-flaked-barley",
+    "description": "The Swaen FLAKED BARLEY increases the volume of fermentable sugars, without any additional body or taste. You can expect some extra haziness above 10%, consider this when brewing a low EBC beer. As whole grains require a long gelatinizing process, brewers usuallychoose the flaked version.",
+    "company_name": "The Swaen",
+    "company_slug": "the-swaen",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686109675/production/Company/49431/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606846/production/CategoryImage/500/category_image/FoodNutrition_01.jpg",
+    "properties": {
+        "Applications": [
+            "Beverage",
+            "Liquor & Spirits",
+            "Beer Brewing"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Flours & Grains Products",
+            "Other Whole Foods & Extracts"
+        ],
+        "End Uses": [
+            "Beer"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Barley Malt"
+        ]
+    }
+}

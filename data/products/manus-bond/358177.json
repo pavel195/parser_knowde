@@ -1,0 +1,40 @@
+{
+    "id": 358177,
+    "brand": "manus-bond",
+    "name": "Manus-Bond 73-A",
+    "slug": "manus-bond-73-a",
+    "description": "Manus-Bond 73-A is a one component room temperature curing silicone elastomeric adhesive/sealant. Does not require the addition of activators or catalysts. Especially designed for bonding and sealing a wide variety of structural materials such as glass, steel, aluminum and plastics and has exceptional resistance to weathering and temperature extremes.",
+    "company_name": "Manus Products",
+    "company_slug": "manus-products",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520055/production/Brand/26664/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608953/production/CategoryImage/586/category_image/AdhesivesSealants_03.jpg",
+    "properties": {
+        "Applications": [
+            "Other Adhesives & Sealants Applications",
+            "Other Building & Construction Applications"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Contact Adhesives"
+        ],
+        "Chemical Family": [
+            "Silicones"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Structural Adhesive",
+            "1K (1 component) Adhesive"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Aluminum",
+            "Metal",
+            "Steel",
+            "Glass",
+            "Plastics"
+        ],
+        "Chemical Family": [
+            "Silicones"
+        ]
+    }
+}

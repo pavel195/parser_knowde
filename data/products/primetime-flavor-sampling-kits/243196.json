@@ -1,0 +1,61 @@
+{
+    "id": 243196,
+    "brand": "primetime-flavor-sampling-kits",
+    "name": "PRIMETIME Nat Coconut (toasted) Flavor WONF (BD-10456)",
+    "slug": "primetime-nat-coconut-toasted-flavor-wonf-bd-10456",
+    "description": "\nSensory Profile:\nTea (RTD): Coconut, flesh/pulp, baked, sweet",
+    "company_name": "Givaudan",
+    "company_slug": "givaudan",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1723097180/production/Brand/15807/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1723097180/production/Product/243196/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Other Food Applications",
+            "Carbonated Drinks",
+            "Functional & Flavored Water",
+            "Savory & Culinary",
+            "Dairy",
+            "Tea, Cocoa & Coffee",
+            "Other Non-Alcoholic Beverages",
+            "Beverage",
+            "Food"
+        ],
+        "Product Families": [
+            "Flavor Ingredients",
+            "Taste & Flavor"
+        ],
+        "Flavor Family": [
+            "Taste Technology",
+            "Fruit Flavors"
+        ],
+        "End Uses": [
+            "Yogurt",
+            "Flavored Water",
+            "Tea",
+            "Savory Products",
+            "Sauces",
+            "Dairy Drinks",
+            "Dairy Products",
+            "Coffee",
+            "Carbonated Drinks"
+        ]
+    },
+    "summary": {
+        "Physical Form": [
+            "Liquid"
+        ],
+        "Soluble In": [
+            "Water Soluble"
+        ],
+        "Certifications & Compliance": [
+            "Kosher",
+            "Halal"
+        ],
+        "Labeling Claims": [
+            "Natural",
+            "Allergen-free",
+            "Gluten-free",
+            "Vegan"
+        ]
+    }
+}

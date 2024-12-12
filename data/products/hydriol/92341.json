@@ -1,0 +1,40 @@
+{
+    "id": 92341,
+    "brand": "hydriol",
+    "name": "Hydriol® PGC.3",
+    "slug": "hydriol-pgc-3",
+    "description": "Hydriol® PGC.3 is a solubilizer for the solubilization of perfumes, essential oils in detergents and cleaning agents.",
+    "company_name": "Hydrior AG",
+    "company_slug": "hydrior-ag",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708529623/production/Company/1255/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708529623/production/Company/1255/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Hair Care",
+            "Bath & Shower",
+            "Baby Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Nonionic Surfactants",
+            "Emulsifiers, Solubilizers & Dispersants",
+            "Functionals",
+            "Surfactants & Cleansers"
+        ],
+        "INCI Name": [
+            "Polyglyceryl-4 Caprate"
+        ],
+        "End Uses": [
+            "Shampoos & Rinses",
+            "Bath Oil"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Polyglyceryl-4 Caprate"
+        ],
+        "Labeling Claims": [
+            "PEG-free"
+        ]
+    }
+}

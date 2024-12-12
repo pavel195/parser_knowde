@@ -1,0 +1,41 @@
+{
+    "id": 401521,
+    "brand": "44-blue",
+    "name": "22 Purple™",
+    "slug": "22-purple",
+    "description": "22 PURPLE™ is a thixotropic low strength threadlocker. It is ideal for use on small fasteners. Because it is thixotropic, it will whet the surface of small threads and insure a complete seal of the thread path, while resisting run off prior to assembly. It is designed to provide predictable lubricity which results in the same torque tension relationship achieved with as-received fasteners.",
+    "company_name": "Adhesive R&D",
+    "company_slug": "adhesive-r-d",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520044/production/Brand/30707/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608939/production/CategoryImage/585/category_image/AdhesivesSealants_02.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Other Building & Construction Applications",
+            "Pipes & Plumbing"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Anaerobic Adhesives"
+        ],
+        "Chemical Family": [
+            "Methacrylates"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Anaerobic Adhesive"
+        ],
+        "Application Area": [
+            "Thread Sealing"
+        ],
+        "Chemical Family": [
+            "Methacrylates"
+        ],
+        "Features": [
+            "Thixotropic",
+            "Excellent Seal Properties",
+            "Low Strength"
+        ]
+    }
+}

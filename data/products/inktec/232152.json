@@ -1,0 +1,47 @@
+{
+    "id": 232152,
+    "brand": "inktec",
+    "name": "Sterling Colour 810 Fire Red 15",
+    "slug": "sterling-colour-810-fire-red-15",
+    "description": "A daylight fluorescent pigment for inks, paints, aerosols, plastisols and organosol coatings. A dyed/pigmented melamine, sulphonamide, formaldehyde thermoset copolymer.",
+    "company_name": "Sterling Colour",
+    "company_slug": "sterling-colour",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691741661/production/Company/16406/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609057/production/CategoryImage/591/category_image/PrintingPackaging_02.jpg",
+    "properties": {
+        "Applications": [
+            "Aerospace & Aviation",
+            "Commercial",
+            "Rail & Mass Transit",
+            "Other Printing & Packaging Applications",
+            "Other Paints & Coatings Applications",
+            "Metal Coatings",
+            "Industrial Coatings",
+            "Appliances & Consumer Goods",
+            "Agricultural & Construction Equipment",
+            "Rail & Mass Transit Coatings",
+            "Other Automotive & Transportation Applications",
+            "Off Road & Commercial Vehicle Coatings",
+            "Automotive OEM Coatings",
+            "Aerospace Coatings",
+            "Other Industrial Applications",
+            "Sports & Recreation",
+            "Appliances & Electronics",
+            "Coatings & Finishes",
+            "Automotive & Transportation",
+            "Chemical & Industrial Manufacturing",
+            "Transportation"
+        ],
+        "Product Families": [
+            "Photoluminescent Pigments",
+            "Color Pigments",
+            "Pigments & Colorants"
+        ],
+        "End Uses": [
+            "Waterborne Coating",
+            "Solventborne Coating",
+            "Powder Coating"
+        ]
+    },
+    "summary": {}
+}

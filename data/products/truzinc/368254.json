@@ -1,0 +1,43 @@
+{
+    "id": 368254,
+    "brand": "truzinc",
+    "name": "TCI Powder Coatings MIL Spec Primer 32348 (7820-71737)",
+    "slug": "tci-powder-coatings-mil-spec-primer-32348-7820-71737",
+    "description": "TCI Powder Coatings MIL Spec Primer 32348 (7820-71737) is a phenolic-cured novolac- modified epoxy coating formulated to provide excellent chemical and corrosion resistance, as well as good properties such as adhesion and flexibility. It is ideally suited for interior applications or as a primer.",
+    "company_name": "TCI Powder Coatings",
+    "company_slug": "tci-powder-coatings",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664291209/production/Company/42507/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608585/production/CategoryImage/567/category_image/PaintingsCoatings_03.jpg",
+    "properties": {
+        "Applications": [
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Powder Coatings",
+            "Primers & Sealers"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ],
+        "Ready to Use Product Type": [
+            "Primer",
+            "Epoxy Coating",
+            "Powder Coating"
+        ],
+        "Features": [
+            "Corrosion Resistant",
+            "Chemical Resistant",
+            "High Hardness",
+            "Good Adhesion",
+            "Good Flexibility",
+            "Low Permeability",
+            "Excellent Substrate Adhesion"
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "id": 370149,
+    "brand": "idaho-gem",
+    "name": "MILL 95 CRYSTAL US",
+    "slug": "mill-95-crystal-us",
+    "description": "MILL 95 CRYSTAL US is Known for its versatility despite its low alpha acids, this hop was released in 1993 by Oregon State University and has roots from Hallertau, Cascade , Brewers Gold and Early Green.",
+    "company_name": "MILL 95",
+    "company_slug": "mill-95",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686104983/production/Company/43198/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607098/production/CategoryImage/501/category_image/FoodNutrition_02.jpg",
+    "properties": {
+        "Applications": [
+            "Beverage",
+            "Liquor & Spirits",
+            "Beer Brewing"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Plant & Herb Products & Extracts"
+        ],
+        "End Uses": [
+            "Alcoholic Beverages",
+            "Beer"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Hops"
+        ],
+        "Physical Form": [
+            "Pellets",
+            "Solid"
+        ],
+        "Labeling Claims": [
+            "Natural",
+            "Naturally Derived"
+        ]
+    }
+}

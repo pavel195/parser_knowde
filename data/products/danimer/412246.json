@@ -1,0 +1,49 @@
+{
+    "id": 412246,
+    "brand": "danimer",
+    "name": "Danimer 2198",
+    "slug": "danimer-2198",
+    "description": "Danimer 2198 is a bio-based resin designed for extrusion applications and is produced using Danimer Scientific’s proprietary reactive extrusion process.",
+    "company_name": "Danimer Scientific",
+    "company_slug": "danimer-scientific",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708532379/production/Brand/24654/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708532379/production/Product/412246/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Food & Beverage Packaging",
+            "Packaging"
+        ],
+        "Product Families": [
+            "Polyesters & Copolyesters",
+            "Biodegradable Polymers",
+            "Engineering & Specialty Polymers"
+        ],
+        "Chemical Family": [
+            "Polyesters",
+            "Polylactic Acid (PLA)"
+        ],
+        "Polymer Name": [
+            "Polylactic Acid (PLA)"
+        ],
+        "End Uses": [
+            "Film"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polylactic Acid (PLA)"
+        ],
+        "Labeling Claims": [
+            "Plant-Based",
+            "Sustainable",
+            "Bio-based",
+            "Biodegradable"
+        ],
+        "Processing Methods": [
+            "Extrusion"
+        ],
+        "Density": [
+            "1280.0 - 1280.0 kg/m³"
+        ]
+    }
+}

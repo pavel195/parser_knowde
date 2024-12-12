@@ -1,0 +1,35 @@
+{
+    "id": 427943,
+    "brand": "nutrivit",
+    "name": "Nutrimix Ruminant",
+    "slug": "nutrimix-ruminant",
+    "description": "Nutrimix Ruminant is a premix specially prepared for farms and Vet clinics that contain vitamins and minerals that ruminants need daily and contain live and inactive yeast, toxin binders and support and protect Rumen.",
+    "company_name": "Nutrilab",
+    "company_slug": "nutrilab",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686132603/production/Brand/33936/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608224/production/CategoryImage/551/category_image/AgricultureFeed_07.jpg",
+    "properties": {
+        "Applications": [
+            "Animal Health & Nutrition",
+            "Ruminants"
+        ],
+        "Product Families": [
+            "Nutritional Ingredients",
+            "Nutrient Premixes"
+        ]
+    },
+    "summary": {
+        "Animal Species": [
+            "Cattle"
+        ],
+        "Certifications & Compliance": [
+            "GMP",
+            "ISO 9001"
+        ],
+        "Features": [
+            "Rumen Stable",
+            "Vitamin Rich",
+            "Mineral Rich"
+        ]
+    }
+}

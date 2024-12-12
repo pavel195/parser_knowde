@@ -1,0 +1,59 @@
+{
+    "id": 384799,
+    "brand": "par-group-nylon-6",
+    "name": "Nylon 66 Glass Filled Sheet",
+    "slug": "nylon-66-glass-filled-sheet",
+    "description": "PAR Group Nylon 66 Glass Filled Sheet offers increased strength, stiffness, wear resistance, creep resistance and dimensional stability than standard nylon 6. It also allows for a higher short term working temperature.",
+    "company_name": "PAR Group",
+    "company_slug": "par-group",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686150126/production/Brand/28823/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Parts & Components",
+            "Chemical & Industrial Manufacturing",
+            "Terminal Blocks, Plugs & Sockets",
+            "Other Parts & Components",
+            "Other Industrial Applications",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Polyamides"
+        ],
+        "Polymer Name": [
+            "Polyamide 66 (PA 66)"
+        ],
+        "End Uses": [
+            "Bearings",
+            "Plugs",
+            "Gears",
+            "Pulleys",
+            "Industrial Connectors"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyamide 66 (PA 66)"
+        ],
+        "Physical Form": [
+            "Sheets"
+        ],
+        "Features": [
+            "Dimensional Stability",
+            "Creep Resistant",
+            "Excellent Mechanical Strength",
+            "Good Stiffness",
+            "High Heat Distortion Temperature",
+            "Wear Resistant"
+        ],
+        "Density": [
+            "1320.0 - 1320.0 kg/m³"
+        ],
+        "Tensile Modulus": [
+            "5000.0 - 5000.0 MPa"
+        ]
+    }
+}

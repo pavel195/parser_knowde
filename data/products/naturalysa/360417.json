@@ -1,0 +1,67 @@
+{
+    "id": 360417,
+    "brand": "naturalysa",
+    "name": "Stevia Pure Standard",
+    "slug": "stevia-pure-standard",
+    "description": "Stevia Pure Standard is suitable for low and medium sugar replacement with a balanced sweetness temporal profile. Available as powder or syrup.",
+    "company_name": "HS Ingredients dba SWT Stevia",
+    "company_slug": "hs-ingredients-dba-swt-stevia",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708691109/production/Brand/26908/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607274/production/CategoryImage/514/category_image/FoodNutrition_14.jpg",
+    "properties": {
+        "Applications": [
+            "Confectionery",
+            "Functional & Flavored Water",
+            "Cereals & Snacks",
+            "Juice & Juice Drinks",
+            "Desserts & Fruit Preparations",
+            "Dairy",
+            "Carbonated Drinks",
+            "Beverage",
+            "Food"
+        ],
+        "Product Families": [
+            "Alternates & Replacements",
+            "Sweeteners & Syrups",
+            "Taste & Flavor",
+            "Whole Foods, Extracts & Premixes"
+        ],
+        "End Uses": [
+            "Ice Cream",
+            "Marshmallow",
+            "Fruit Juice",
+            "Flavored Water",
+            "Breakfast Cereals",
+            "Yogurt",
+            "Milk",
+            "Carbonated Drinks"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Stevia Extract"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin"
+        ],
+        "Functions": [
+            "Sugar Substitute",
+            "Nutritive Sweetener"
+        ],
+        "Labeling Claims": [
+            "No Added Sugar",
+            "Naturally Derived",
+            "Kosher",
+            "Natural",
+            "Halal",
+            "Organic"
+        ],
+        "Certifications & Compliance": [
+            "Halal",
+            "FSSC 22000",
+            "GFSI Certified",
+            "Kosher",
+            "EU Compliant"
+        ]
+    }
+}

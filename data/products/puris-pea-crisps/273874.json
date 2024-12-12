@@ -1,0 +1,77 @@
+{
+    "id": 273874,
+    "brand": "puris-pea-crisps",
+    "name": "PURIS™ Pea Protein P870LS",
+    "slug": "puris-pea-protein-p870ls",
+    "description": "A low sodium option for 80% organic pea protein designed for high solubility, high functionality, excellent dispersibility and mouthfeel. It’s low sodium content makes this the ideal ingredient solution for brands targeting at risk and aging populations with plant-based food products. Its small particle size is perfect for protein powders, dry beverage blends, ready-to-drink beverages, meat alternatives, vegan spreads, and emulsified products.",
+    "company_name": "PURIS",
+    "company_slug": "puris",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704796049/production/Product/273874/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1704796049/production/Product/273874/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Powdered Beverages",
+            "Functional Foods",
+            "Savory & Culinary",
+            "Meat Substitutes",
+            "Desserts & Fruit Preparations",
+            "Convenience Foods",
+            "Other Non-Alcoholic Beverages",
+            "Beverage",
+            "Food",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Plant Proteins",
+            "Proteins & Amino Acids",
+            "Nutrition & Fortification"
+        ],
+        "End Uses": [
+            "Powdered Beverages",
+            "Vegetable Spreads",
+            "Protein Powder",
+            "Non Alcoholic Beverages",
+            "Meat Substitutes",
+            "Dips",
+            "Creams"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Pea Protein"
+        ],
+        "Ingredient Origin": [
+            "Plant Origin",
+            "Natural Origin"
+        ],
+        "Labeling Claims": [
+            "Kosher",
+            "Halal",
+            "Soy-free",
+            "Naturally Derived",
+            "Plant-Based",
+            "Sustainable",
+            "Dairy-free",
+            "Gluten-free",
+            "Clean Label",
+            "Organic",
+            "Non-GMO"
+        ],
+        "Protein Content": [
+            "80.0 - 80.0 %"
+        ],
+        "Features": [
+            "Neutral Taste",
+            "Creamy Texture",
+            "Solubilizing",
+            "Emulsifying",
+            "High Functionality",
+            "Texturizing",
+            "Easily Dispersible",
+            "Creamy Mouthfeel",
+            "Improved Water Holding Capacity",
+            "Good Binding",
+            "Foam Stability"
+        ]
+    }
+}

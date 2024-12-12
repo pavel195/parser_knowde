@@ -1,0 +1,46 @@
+{
+    "id": 326415,
+    "brand": "adonat",
+    "name": "Emothion®",
+    "slug": "emothion",
+    "description": "Emothion® is crystalline form of S-Acetyl Glutathione (GSH), a powerful antioxidant agent that can help promote immunity and liver health through the natural replenishment of glutathione. Traditional GSH supplementation has been plagued with poor absorption and hydrolytic degradation in the body. Emothion has a more rapid dissolution rate and, therefore, more efficacious and efficient oral absorption GSH is one of the body’s most powerful antioxidant agents, but chronic oxidative stress, pathogens, and the aging process can reduce GSH levels. Restoring the GSH level is a good tool to deal with the above states, and no tool restores GSH better than Emothion.",
+    "company_name": "Gnosis",
+    "company_slug": "gnosis",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708690578/production/Company/31049/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606996/production/CategoryImage/508/category_image/FoodNutrition_09.jpg",
+    "properties": {
+        "Applications": [
+            "Topical",
+            "Oral",
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being",
+            "Drug Delivery & Care Solutions"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Antioxidants",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "S-Acetyl Glutathione"
+        ],
+        "Functions": [
+            "Antioxidant"
+        ],
+        "Labeling Claims": [
+            "Non-GMO",
+            "Gluten-free",
+            "Kosher",
+            "Lactose-free",
+            "Halal"
+        ],
+        "Certifications & Compliance": [
+            "Halal",
+            "Kosher"
+        ]
+    }
+}

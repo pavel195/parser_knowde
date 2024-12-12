@@ -1,0 +1,47 @@
+{
+    "id": 422239,
+    "brand": "xtrabond",
+    "name": "XtraFoam™ CLEANER - Foam & Adhesive Cleaning Solvent",
+    "slug": "xtrafoam-cleaner-foam-adhesive-cleaning-solvent",
+    "description": null,
+    "company_name": "Premier Building Solutions",
+    "company_slug": "premier-building-solutions",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292617/production/Product/422239/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608929/production/CategoryImage/584/category_image/AdhesivesSealants_01.jpg",
+    "properties": {
+        "Applications": [
+            "Surface Care",
+            "Industrial Cleaning",
+            "Vehicle & Machinery",
+            "Institutional & Industrial Care",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Industrial Cleaners",
+            "Commercial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Porcelain",
+            "Foam",
+            "Plastics",
+            "Glass",
+            "Wood",
+            "Chrome",
+            "Iron",
+            "Steel",
+            "Marble",
+            "Polyurethane",
+            "Metal"
+        ],
+        "Features": [
+            "Degreasing",
+            "Easy To Dispense"
+        ]
+    }
+}

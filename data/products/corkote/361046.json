@@ -1,0 +1,38 @@
+{
+    "id": 361046,
+    "brand": "corkote",
+    "name": "CORKOTE™ FP-3123 DULL",
+    "slug": "corkote-fp-3123-dull",
+    "description": "CORKOTE™ FP-3123 DULL is a Satin aqueous coating formulated as a print primer for applications on non-porous and porous substrates.",
+    "company_name": "Cork Industries",
+    "company_slug": "cork-industries",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520417/production/Brand/26997/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608585/production/CategoryImage/567/category_image/PaintingsCoatings_03.jpg",
+    "properties": {
+        "Applications": [
+            "Packaging Coatings",
+            "Printing & Inks",
+            "Primers & Lacquers",
+            "Flexography"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Waterborne Coating",
+            "Primer"
+        ],
+        "Features": [
+            "Improved Adhesion"
+        ],
+        "Application Method": [
+            "Rod Coating",
+            "Gravure Coating",
+            "Air Knife Coating",
+            "Flexography"
+        ]
+    }
+}

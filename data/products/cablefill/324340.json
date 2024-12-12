@@ -1,0 +1,63 @@
+{
+    "id": 324340,
+    "brand": "cablefill",
+    "name": "AquaGraft® 61-7125",
+    "slug": "aquagraft-61-7125",
+    "description": "AquaGraft® 61-7125 is Polyethylene moisture curable system that allows customers to crosslink polymer systems without investing in expensive curing processes.The EPR based systems provide improved flexibility while maintaining high performance properties",
+    "company_name": "Electric Cable Compounds",
+    "company_slug": "electric-cable-compounds",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704100312/production/Brand/23148/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1704100312/production/Product/324340/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Jacketing & Insulation",
+            "Data Communication Cables",
+            "Consumer Electronics",
+            "Appliances & Electronics",
+            "Powertrain & UTH",
+            "Electrical & Electronic Systems",
+            "Automotive",
+            "Devices & Assemblies",
+            "Wire & Cable"
+        ],
+        "Product Families": [
+            "EP Rubbers (EPDM)",
+            "Thermoset Elastomers"
+        ],
+        "Chemical Family": [
+            "Ethylene-Propylene Copolymers (EPR)",
+            "Antimony & Antimony Compounds"
+        ],
+        "Polymer Name": [
+            "Ethylene Propylene Copolymer"
+        ],
+        "End Uses": [
+            "Wires",
+            "Cables",
+            "Welding Cable",
+            "Battery Cable",
+            "Low Voltage Insulation",
+            "Automotive Components",
+            "Appliances",
+            "Appliance Wire Jacketing",
+            "Appliance Wire Insulation"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Ethylene Propylene Copolymer"
+        ],
+        "Processing Methods": [
+            "Extrusion"
+        ],
+        "Additives Included": [
+            "Flame Retardant"
+        ],
+        "Density": [
+            "1350.0 - 1350.0 kg/m³"
+        ],
+        "Synonyms": [
+            "Antimony Sesquioxide, Antimony(III) oxide"
+        ]
+    }
+}

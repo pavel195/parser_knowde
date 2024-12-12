@@ -1,0 +1,43 @@
+{
+    "id": 391745,
+    "brand": "sodium-azide-with-cab-o-sil",
+    "name": "Fine Chemicals Guanidine Thiocyanate",
+    "slug": "fine-chemicals-guanidine-thiocyanate",
+    "description": "Guanidine Thiocyanate is a white crystal with chemical formula C₂H₆N₄S.",
+    "company_name": "Fine Chemicals",
+    "company_slug": "fine-chemicals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708699646/production/Company/48686/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608769/production/CategoryImage/577/category_image/AutomotiveTransportation_05.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical Manufacturing",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Other Intermediates",
+            "Intermediates"
+        ],
+        "Chemical Family": [
+            "Thiocyanates"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Guanidine Thiocyanate"
+        ],
+        "CAS Number": [
+            "593-84-0"
+        ],
+        "Chemical Family": [
+            "Thiocyanates"
+        ],
+        "Functions": [
+            "Intermediate",
+            "Chaotropic Agent",
+            "Denaturant"
+        ],
+        "Synonyms": [
+            "GTC, Guanidine isothiocyanate, Guanidinium isothiocyanate, Guanidinium thiocyanate, NSC 2119"
+        ]
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "id": 319622,
+    "brand": "lay-flat-tubing",
+    "name": "PTFE® Sub-Lite-Wall",
+    "slug": "ptfe-sub-lite-wall",
+    "description": "PTFE® Sub-Lite-Wall PTFE heat shrink tubing is our ultra-thin walled extrusion family with wall thicknesses 0.005\" (0.127 mm) and below. This specialty heat shrink is engineered for applications that not only require thin walls but also a shrink-to-fit encapsulation protection. For this speciality heat shrink, we can even maintain wall thicknesses extending below 0.001\" (0.025 mm) with tolerances of ± 0.0005\" (0.0127 mm). Our capabilities allow us to meet your most critical dimensional needs. PTFE has an extremely low coefficient of friction making it especially desirable when needing to push covered components such as guidewires through tight fitting or occluded vessels. For medical applications, PTFE products are sterilizable by several options and are also biocompatible. PTFE’s high working temperature also makes it a good option for covering sensors which may become hot during normal use. This micro-dimensional heat shrink fills a critical need for our customers who are demanding ever-thinner walls for more specialized applications. This superthin- walled heat shrink is highly customizable. Contact your Zeus representative to find out how we can tailor PTFE Sub-Lite-Wall® heat shrink for you.",
+    "company_name": "Zeus Industrial Products",
+    "company_slug": "zeus-industrial-products",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686149863/production/Product/319622/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608841/production/CategoryImage/581/category_image/HealthcarePharma_03.jpg",
+    "properties": {
+        "Applications": [
+            "Battery Materials",
+            "Parts & Components",
+            "Medical",
+            "Other Battery Materials",
+            "Other Medical Applications",
+            "Batteries",
+            "Sensors & Actuators"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Fluoropolymers"
+        ],
+        "Polymer Name": [
+            "Polytetrafluoroethylene (PTFE)"
+        ],
+        "End Uses": [
+            "Communication Wire Insulation",
+            "Batteries"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polytetrafluoroethylene (PTFE)"
+        ],
+        "Physical Form": [
+            "Tube"
+        ],
+        "Features": [
+            "Chemical Resistant",
+            "Good Heat Shrinkability",
+            "Thin Wall Thickness",
+            "Excellent Dielectric Properties",
+            "Biocompatible",
+            "Good Sterilizability"
+        ]
+    }
+}

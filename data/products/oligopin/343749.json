@@ -1,0 +1,36 @@
+{
+    "id": 343749,
+    "brand": "oligopin",
+    "name": "VITAFLAVAN®",
+    "slug": "vitaflavan",
+    "description": "Vitaflavan® is a grape seed extract. With over 75% procyanidolic oligomers, it is the ideal candidate ingredient for venotonic formulations. Vitaflavan® improves quality of life and daily well-being for people suffering from lower limb discomfort by stimulating venous tone. Because mild venous insufficiency is often accompanied by swelling and unsightly oedema, Vitaflavan® helps to restore light and refined legs.",
+    "company_name": "DRT Purextract",
+    "company_slug": "drt-purextract",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708522194/production/Brand/25495/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606846/production/CategoryImage/500/category_image/FoodNutrition_01.jpg",
+    "properties": {
+        "Applications": [
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Nut & Seed Products",
+            "Whole Foods, Extracts & Premixes"
+        ],
+        "End Uses": [
+            "Dietary Supplements"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Grape Seed Extract"
+        ],
+        "Labeling Claims": [
+            "Naturally Derived",
+            "Plant-Based"
+        ],
+        "Features": [
+            "Improved Bone Health"
+        ]
+    }
+}

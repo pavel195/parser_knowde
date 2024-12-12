@@ -1,0 +1,43 @@
+{
+    "id": 300454,
+    "brand": "cobecol",
+    "name": "Stymobil Co 701/50",
+    "slug": "stymobil-co-701-50",
+    "description": "Stymobil Co 701/50 is water based Styrene Acrylic Copolymer.",
+    "company_name": "Mobel Polymers",
+    "company_slug": "mobel-polymers",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112180/production/Company/24265/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608477/production/CategoryImage/562/category_image/BuildingConstruction_06.jpg",
+    "properties": {
+        "Applications": [
+            "Building & Construction",
+            "Building Materials",
+            "Construction Chemicals",
+            "Construction Adhesives",
+            "Exterior Insulation & Finishing Systems (EIFS)",
+            "Weatherproofing",
+            "Adhesives",
+            "Architectural Coatings",
+            "Building Envelope & Roofing",
+            "Waterproofing & Weatherproofing",
+            "Other Paints & Coatings Applications",
+            "EIFS & Insulation",
+            "Building Envelope"
+        ],
+        "Product Families": [
+            "Resins & Binders",
+            "Acrylics"
+        ],
+        "Chemical Family": [
+            "Styrene-Acrylic Copolymer"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Styrene-Acrylic Copolymer"
+        ],
+        "Features": [
+            "Weather Resistance"
+        ]
+    }
+}

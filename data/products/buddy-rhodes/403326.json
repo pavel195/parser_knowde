@@ -1,0 +1,33 @@
+{
+    "id": 403326,
+    "brand": "buddy-rhodes",
+    "name": "Buddy Rhodes Concrete Products PS1-LS Reactive Sealer",
+    "slug": "buddy-rhodes-concrete-products-ps1-ls-reactive-sealer",
+    "description": "Buddy Rhodes Concrete Products PS1-LS Reactive Sealer is a hybrid concrete sealer, combining the benefits of reactive penetrating sealing technology and a micro-coating technology into a single product. This sealer provide excellent stain and abrasion resistance, requiring minimal maintenance for years of quality use and abuse. PS1-LS has a low sheen finish.",
+    "company_name": "Buddy Rhodes Concrete Products",
+    "company_slug": "buddy-rhodes-concrete-products",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292087/production/Company/52062/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608490/production/CategoryImage/563/category_image/BuildingConstruction_07.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Other Building Materials"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Sealer"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Concrete"
+        ],
+        "Features": [
+            "Abrasion Resistant",
+            "Stain Resistant"
+        ]
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "id": 408424,
+    "brand": "fast-break",
+    "name": "Neutra-Stat® 64 - Disinfectant Cleaner 1:64",
+    "slug": "neutra-stat-64-disinfectant-cleaner-1-64",
+    "description": "Neutra-Stat® 64 - Disinfectant Cleaner 1:64 is a new generation of quaternary ammonium disinfectant/cleaner formulated for its pleasant-to-use qualities",
+    "company_name": "Damon Industries",
+    "company_slug": "damon-industries",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292254/production/Brand/31606/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515625/production/CategoryImage/1053/category_image/HII_05.jpg",
+    "properties": {
+        "Applications": [
+            "Home Care",
+            "Institutional & Industrial Care",
+            "Surface Care",
+            "Industrial Cleaning",
+            "Institutional & Catering"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Other Cleaners",
+            "Commercial Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Institutional Cleaners",
+            "Disinfectant Products",
+            "Cleaner"
+        ],
+        "Application Areas": [
+            "Wall",
+            "Floor"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Plastics",
+            "Stainless Steel",
+            "Metal"
+        ],
+        "Features": [
+            "Bacteria Resistant",
+            "Fungus Resistant"
+        ]
+    }
+}

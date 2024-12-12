@@ -1,0 +1,38 @@
+{
+    "id": 395845,
+    "brand": "truflora",
+    "name": "Truflora®",
+    "slug": "truflora",
+    "description": "Truflora® combines powerful fiber-digesting enzymes probiotic strains in a formula that can be used on its own or alternated with other probiotics in order to enhance the overall effectiveness of the probiotic.",
+    "company_name": "Purest Colloids",
+    "company_slug": "purest-colloids",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672355/production/Company/50032/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607215/production/CategoryImage/511/category_image/FoodNutrition_12.jpg",
+    "properties": {
+        "Applications": [
+            "Oral",
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being",
+            "Drug Delivery & Care Solutions"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Prebiotics, Probiotics & Postbiotics",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Probiotic Blend"
+        ],
+        "Functions": [
+            "Dietary Supplement",
+            "Probiotic"
+        ],
+        "Benefit Claims (Health)": [
+            "Promotes Intestinal Health"
+        ]
+    }
+}

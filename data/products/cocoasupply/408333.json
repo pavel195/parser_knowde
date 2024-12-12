@@ -1,0 +1,42 @@
+{
+    "id": 408333,
+    "brand": "cocoasupply",
+    "name": "Cocoa Supply Freeze-Dried Passionfruit - 100% pulp powder",
+    "slug": "cocoa-supply-freeze-dried-passionfruit-100-pulp-powder",
+    "description": "Freeze-Dried Passionfruit - 100% pulp powder is an Ecuador originated passion fruit pulp. These products are freeze-dried and then packed. Freeze drying is the best method to dehydrate and preserve fruit. It keeps the natural color, flavor without adding any chemicals. As it is just the fruit pulp without water, it is shelf stable (just keep it dry), keeping transportation/shipping and storage costs down. This passionfruit pulp powder is 100% fruit, no sugar or anything else added. You can use it for ganache, making juice (just add water), fillings, ice pops, or any other culinary delights.",
+    "company_name": "Cocoa Supply",
+    "company_slug": "cocoa-supply",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686109446/production/Company/53575/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606945/production/CategoryImage/505/category_image/FoodNutrition_06.jpg",
+    "properties": {
+        "Applications": [
+            "Beverage",
+            "Food",
+            "Confectionery",
+            "Desserts & Fruit Preparations",
+            "Juice & Juice Drinks"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Fruit Products & Extracts"
+        ],
+        "End Uses": [
+            "Filling Applications",
+            "Juices",
+            "Pops",
+            "Ganache"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Passionfruit Pulp"
+        ],
+        "Physical Form": [
+            "Solid",
+            "Powder"
+        ],
+        "Features": [
+            "Freeze Dried"
+        ]
+    }
+}

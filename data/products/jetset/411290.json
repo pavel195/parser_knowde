@@ -1,0 +1,39 @@
+{
+    "id": 411290,
+    "brand": "jetset",
+    "name": "724 JETSET™ FLOOR",
+    "slug": "724-jetset-floor",
+    "description": "724 JET-SET™ FLOOR is a profoundly crosslinked thermosetting polymer concrete system that forms a dense hard impermeable surface upon curing that is resistant to a very wide range of aggressive chemicals.",
+    "company_name": "IMCO Technologies",
+    "company_slug": "imco-technologies",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520298/production/Brand/32004/logo/image",
+    "banner_url": "https://static.knowde.com/card-banners/knowde-card-for-raw-materials-8.jpg",
+    "properties": {
+        "Applications": [
+            "Flooring & Surfaces",
+            "Infrastructure, Roads & Paving",
+            "Floor Coatings",
+            "Pavement, Highways, Roads & Bridges"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Other Paints & Coatings"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Repair Paint"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Brick",
+            "Concrete"
+        ],
+        "Features": [
+            "Low Permeability",
+            "Food Contact Acceptable",
+            "Excellent UV Stability",
+            "Low Temperature Curing",
+            "Chemical Resistant"
+        ]
+    }
+}

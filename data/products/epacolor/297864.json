@@ -1,0 +1,38 @@
+{
+    "id": 297864,
+    "brand": "epacolor",
+    "name": "Hepacret OLV 201",
+    "slug": "hepacret-olv-201",
+    "description": "Hepacret OLV 201 is a system particularly suitable for the preparation of cementitious surfaces.",
+    "company_name": "Epaflex",
+    "company_slug": "epaflex",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664289261/production/Company/23690/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608490/production/CategoryImage/563/category_image/BuildingConstruction_07.jpg",
+    "properties": {
+        "Applications": [
+            "Building & Construction",
+            "Concrete Coatings & Stains",
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Primer",
+            "2K (2 component) Coating",
+            "Solventborne Coating"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Concrete"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ]
+    }
+}

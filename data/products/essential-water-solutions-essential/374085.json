@@ -1,0 +1,33 @@
+{
+    "id": 374085,
+    "brand": "essential-water-solutions-essential",
+    "name": "Oxy Blast® 50",
+    "slug": "oxy-blast-50",
+    "description": "Oxy Blast® 50 hydrogen peroxide is as signature water treatment product with a proprietary formula developed for the residential and agricultural markets. It’s been established through many years of successful use in the well water treatment and animal production industries. The core of Oxy Blast is composed of two important elements, hydrogen and oxygen. When Oxy Blast combines with water, it increases the oxygen content in the water, yielding clearer, cleaner water.",
+    "company_name": "Essential Water Solutions",
+    "company_slug": "essential-water-solutions",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704101875/production/Brand/27961/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Water Treatment",
+            "Power, Water & Utilities"
+        ],
+        "Product Families": [
+            "Water Treatment Additives",
+            "Water Treatment Chemicals"
+        ],
+        "Chemical Family": [
+            "Peroxides"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Peroxides"
+        ],
+        "Applicable Processes": [
+            "Water Treatment",
+            "Sewage Treatment"
+        ]
+    }
+}

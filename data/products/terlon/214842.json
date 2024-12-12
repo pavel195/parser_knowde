@@ -1,0 +1,52 @@
+{
+    "id": 214842,
+    "brand": "terlon",
+    "name": "Filtrez™ 531A",
+    "slug": "filtrez-531a",
+    "description": "Filtrez™ 531 A is an alcohol soluble fumaric acid modified rosin ester with a high softening point and moderately high acid value. Filtrez™ 531 A can be used in solvent and water-based flexographic and in gravure inks. This resin can also be used as a leveling and gloss-promoting agent in floor polishes.",
+    "company_name": "Lawter",
+    "company_slug": "lawter",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112376/production/Company/14122/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1686112376/production/Company/14122/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Flooring & Surfaces",
+            "Building & Construction",
+            "Printing & Inks",
+            "Floor Coatings",
+            "Architectural Coatings",
+            "Building Envelope & Roofing",
+            "Other Printing Applications",
+            "Flexography",
+            "Gravure Printing",
+            "Building Envelope"
+        ],
+        "Product Families": [
+            "Other Resins & Binders",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Modified Rosins"
+        ],
+        "End Uses": [
+            "Solventborne Ink",
+            "Gravure Ink",
+            "Waterborne Ink",
+            "Flexography Ink"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Modified Rosins"
+        ],
+        "End Uses": [
+            "Flexography Ink",
+            "Waterborne Ink",
+            "Gravure Ink",
+            "Solventborne Ink"
+        ],
+        "Glass Transition Temperature (Tg)": [
+            "105.0 - 105.0 °C"
+        ]
+    }
+}

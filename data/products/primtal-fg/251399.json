@@ -1,0 +1,48 @@
+{
+    "id": 251399,
+    "brand": "primtal-fg",
+    "name": "Pinophytal",
+    "slug": "pinophytal",
+    "description": "PINOPHYTAL is a self-defense inducer, result of an exhaustive process of development carried out by the Artal Smart Agriculture R+D+I Department, based in pinophytes and complexed copper. PINOPHYTAL promotes the synthesis of phenolic substances and phytoalexins that are created by the plants to defend themselves against specific stress situations.Phytoalexins are secondary metabolites of complex chemical nature, synthesized in plants in front of certain adverse condictions, PINOPHYTAL does not adversely affect crop development, does not stain or produce phytotoxicity at the recommended doses, completely natural, free of residues.",
+    "company_name": "Artal",
+    "company_slug": "artal",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672667/production/Company/19266/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708672667/production/Company/19266/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Oilseeds",
+            "Fiber Crops",
+            "Legumes",
+            "Fodder & Forage",
+            "Other Agricultural Crops",
+            "Herbs & Spice Crops",
+            "Sugar & Starch Crops",
+            "Ornamentals",
+            "Vegetables",
+            "Fruits",
+            "Agricultural Crops",
+            "Turf, Ornamentals & Landscape"
+        ],
+        "Product Families": [
+            "Plant Growth Regulators (PGR) & Harvest Aids",
+            "Plant Health, Nutrients & Soil Management"
+        ],
+        "Chemical Family": [
+            "Copper-based Compounds",
+            "Copper Salts"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Plant Growth Regulator (PGR)"
+        ],
+        "Chemical Family": [
+            "Copper Salts",
+            "Copper-based Compounds"
+        ],
+        "Application Technique": [
+            "Sprinklers",
+            "Chemigation"
+        ]
+    }
+}

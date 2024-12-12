@@ -1,0 +1,29 @@
+{
+    "id": 374583,
+    "brand": "fs-talent",
+    "name": "FS Intention Advanced™",
+    "slug": "fs-intention-advanced",
+    "description": "FS Intention Advanced is a concentrated premix of drift reduction technology and water conditioning agents that minimize off target movement while protecting the performance potential of glyphosate and dicamba.",
+    "company_name": "Insight FS",
+    "company_slug": "insight-fs",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708683765/production/Brand/28019/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608161/production/CategoryImage/546/category_image/AgricultureFeed_02.jpg",
+    "properties": {
+        "Applications": [
+            "Other Agricultural Crops",
+            "Agricultural Crops"
+        ],
+        "Product Families": [
+            "Drift Control, Foam Markers & Thickeners",
+            "Adjuvants & Formulation Ingredients"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Drift Control Agent"
+        ],
+        "Application Technique": [
+            "Sprayers"
+        ]
+    }
+}

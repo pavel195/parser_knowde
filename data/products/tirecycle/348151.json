@@ -1,0 +1,57 @@
+{
+    "id": 348151,
+    "brand": "tirecycle",
+    "name": "Norst® PB-402-24",
+    "slug": "norst-pb-402-24",
+    "description": "Norst® PB-402-24 is a highly modified polyisobutylene polymer that exhibits high tack and cold flow over a very wide temperature range (-70°F to 450°F, with variants stable to 650°F and 800°F). It is impermeable to water or oxygen. It has good tensile and bond strength, high film strength, permanent tackiness, excellent aging/weather resistance, low stain, low electrical conductivity. It is odorless, colorless, and highly stable. Chemical resistance is comparable to other polyisobutylene polymers. PB-402-24 can be used as a high performance additive in any non-aqueous system where high tack and elasticity are needed.",
+    "company_name": "NorthStar Elastomers",
+    "company_slug": "northstar-elastomers",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708692216/production/Brand/25992/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608962/production/CategoryImage/587/category_image/AdhesivesSealants_04.jpg",
+    "properties": {
+        "Applications": [
+            "Tape & Label Adhesives",
+            "Tapes & Labels",
+            "Packaging & Paper",
+            "Tapes, Labels & Adhesives"
+        ],
+        "Product Families": [
+            "Surface Modifiers",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Hydrocarbons"
+        ],
+        "End Uses": [
+            "Solventborne Adhesive",
+            "Pressure Sensitive Adhesive"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Tackifier"
+        ],
+        "Chemical Family": [
+            "Hydrocarbons"
+        ],
+        "End Uses": [
+            "Solventborne Adhesive",
+            "Pressure Sensitive Adhesive"
+        ],
+        "Compatible Polymers & Resins": [
+            "Polypropylenes (PP)",
+            "Polyethylenes (PE)"
+        ],
+        "Features": [
+            "Water Resistance",
+            "Good Elasticity",
+            "Stain Resistance",
+            "Oxidation Resistant",
+            "High Film Thickness",
+            "Temperature Resistance",
+            "Good Tack",
+            "High Tensile Strength",
+            "Weather Resistance"
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "id": 412100,
+    "brand": "touchstone",
+    "name": "Bonstone® Historic Restoration Mortar (HRM™)",
+    "slug": "bonstone-historic-restoration-mortar-hrm",
+    "description": "Bonstone® Historic Restoration Mortar (HRM™) is a two-component, lime-based, latex modified mortar for the restoration of historic masonry structures.",
+    "company_name": "Bonstone Materials",
+    "company_slug": "bonstone-materials",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1694073670/production/Brand/32156/logo/image",
+    "banner_url": "https://static.knowde.com/card-banners/knowde-card-for-raw-materials-8.jpg",
+    "properties": {
+        "Applications": [
+            "Concrete Coatings & Stains",
+            "Repair & Rehabilitation",
+            "Infrastructure, Roads & Paving",
+            "Building & Construction"
+        ],
+        "Product Families": [
+            "Mortar & Grouts",
+            "Construction Materials"
+        ]
+    },
+    "summary": {}
+}

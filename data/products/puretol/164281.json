@@ -1,0 +1,48 @@
+{
+    "id": 164281,
+    "brand": "puretol",
+    "name": "PURETOL™ 38",
+    "slug": "puretol-38",
+    "description": "PURETOL™ 38 is an odorless and colorless white mineral oil with a Saybolt viscosity of 380 and a specific gravity of 0.867. This product meets US FDA CFR 172.878 and FDA 21 CFR 178.3620(a) requirements. This material meets United States Pharmacopeia (USP) - Mineral Oil requirements which is used for a variety of applications such as blending food grade lubricants and in the production of cosmetics and pharmaceuticals.",
+    "company_name": "Petro-Canada",
+    "company_slug": "petro-canada",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1693577754/production/Company/3236/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1693577754/production/Company/3236/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Industrial Manufacturing",
+            "Industrial Adhesives & Sealants",
+            "Leather Manufacturing",
+            "Textile Manufacturing",
+            "Baby Care",
+            "Hair Care",
+            "Skin Care",
+            "Sun Care",
+            "Color Cosmetics",
+            "Industrial Cleaning",
+            "Feed Production & Processing",
+            "Other Textile Applications",
+            "Other Leather Applications",
+            "Industrial Coatings",
+            "Fluids & Lubricants",
+            "Industrial & Assembly Adhesives",
+            "Animal Health & Nutrition",
+            "Chemical & Industrial Manufacturing",
+            "Leather",
+            "Textiles & Nonwovens",
+            "Institutional & Industrial Care",
+            "Beauty & Care",
+            "Leather & Textiles"
+        ],
+        "Product Families": [
+            "API Group III",
+            "API Group II",
+            "API Group I",
+            "Base Stocks & Oils"
+        ],
+        "End Uses": [
+            "Lipstick"
+        ]
+    },
+    "summary": {}
+}

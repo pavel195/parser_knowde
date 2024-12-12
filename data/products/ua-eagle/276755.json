@@ -1,0 +1,55 @@
+{
+    "id": 276755,
+    "brand": "ua-eagle",
+    "name": "SDA-EAGLE (SX41-20/60)70%",
+    "slug": "eagle-chemicals-sda-eagle-sx41-20-60-70",
+    "description": "SDA-EAGLE (SX41-20/60)70% is a semi-drying short dry alkyd resin with excellent flexibility, high gloss and good adhesion resistance.",
+    "company_name": "Eagle Chemicals",
+    "company_slug": "eagle-chemicals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112482/production/Company/20967/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608611/production/CategoryImage/569/category_image/PaintingsCoatings_05.jpg",
+    "properties": {
+        "Applications": [
+            "Building & Construction",
+            "Wood Coatings & Finishes"
+        ],
+        "Product Families": [
+            "Resins & Binders",
+            "Alkyds"
+        ],
+        "Chemical Family": [
+            "Alkyds",
+            "Alkyds (Short Oil)"
+        ],
+        "End Uses": [
+            "Lacquers",
+            "Primer",
+            "Top Coat",
+            "Enamel",
+            "2K (2 component) Coating",
+            "Undercoat"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Alkyds (Short Oil)",
+            "Alkyds"
+        ],
+        "End Uses": [
+            "Lacquers",
+            "Primer",
+            "Enamel",
+            "2K (2 component) Coating",
+            "Undercoat",
+            "Top Coat"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Wood"
+        ],
+        "Features": [
+            "High Gloss",
+            "Improved Flexibility",
+            "Excellent Adhesion"
+        ]
+    }
+}

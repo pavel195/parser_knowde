@@ -1,0 +1,63 @@
+{
+    "id": 335788,
+    "brand": "nutrigut",
+    "name": "Benegut®",
+    "slug": "benegut",
+    "description": "Benegut® guarantees highest, consistent and defined quality. It is scientifically proven, IP protected, and frequently used in food supplements. Benegut is marketed in Europe and Australia under the brand name Nutrigut.",
+    "company_name": "Vital Solutions",
+    "company_slug": "vital-solutions",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708691650/production/Brand/24816/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607247/production/CategoryImage/513/category_image/FoodNutrition_13.jpg",
+    "properties": {
+        "Applications": [
+            "Nutraceuticals & Supplements",
+            "Savory & Culinary",
+            "Food",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Plant & Herb Products & Extracts",
+            "Whole Foods, Extracts & Premixes"
+        ],
+        "End Uses": [
+            "Dietary Supplements",
+            "Spice Seasoning"
+        ]
+    },
+    "summary": {
+        "Physical Form": [
+            "Capsules",
+            "Solid",
+            "Powder"
+        ],
+        "Labeling Claims": [
+            "Kosher",
+            "Halal",
+            "Natural",
+            "Naturally Derived",
+            "Plant-Based"
+        ],
+        "Certifications & Compliance": [
+            "GMP",
+            "IP Certified",
+            "European Pharmacopeia (Ph. Eur.)",
+            "Halal",
+            "United States Pharmacopeia (USP)",
+            "ISO 22000",
+            "Kosher",
+            "ISO 9001"
+        ],
+        "Features": [
+            "High Quality",
+            "Promotes Healthy Gastrointestinal Tract",
+            "Neutral Taste",
+            "Healthy Ageing",
+            "Promotes Digestive Health",
+            "Anti-Inflammatory"
+        ],
+        "Functions": [
+            "Supplement",
+            "Dietary Supplement"
+        ]
+    }
+}

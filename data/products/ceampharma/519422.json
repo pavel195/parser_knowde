@@ -1,0 +1,62 @@
+{
+    "id": 519422,
+    "brand": "ceampharma",
+    "name": "CEAMPHARMA®",
+    "slug": "ceampharma",
+    "description": "CEAMPHARMA® is a plant based alternative to gelatin used as gelling, texturizing, heat resistance or viscosity agent in a wide range of nutraceutical applications. In syrup applications, it is  used as a suspension and viscosity agent in liquid pharmaceutical formats.",
+    "company_name": "CEAMSA",
+    "company_slug": "ceamsa",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,c_crop,x_159,y_0,w_1780,h_1780/v1717066546/production/Company/35296/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,c_crop,x_0,y_1428,w_3264,h_1020/v1717066546/production/Brand/41946/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Oral",
+            "Nutraceuticals & Supplements",
+            "Skin Care",
+            "Nutrition & Well Being",
+            "Drug Delivery & Care Solutions",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Conditioners & Emollients",
+            "Binders & Disintegrants",
+            "Rheology Modifiers",
+            "Functionals",
+            "Excipients"
+        ],
+        "INCI Name": [
+            "Carrageenan"
+        ],
+        "Ingredient Name": [
+            "Carrageenan"
+        ],
+        "End Uses": [
+            "Body Firming Lotion",
+            "Face Cream",
+            "Body Lotion"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Carrageenan"
+        ],
+        "CAS Number": [
+            "9000-07-01"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Marine Origin"
+        ],
+        "Labeling Claims": [
+            "Sustainable",
+            "Naturally Derived",
+            "Natural"
+        ],
+        "Certifications & Compliance": [
+            "EC No.1907/2006",
+            "Regulation (EU) No. 2015/830",
+            "Regulation (EU) No. 1272/2008",
+            "Regulation (EU) No. 453/2010"
+        ]
+    }
+}

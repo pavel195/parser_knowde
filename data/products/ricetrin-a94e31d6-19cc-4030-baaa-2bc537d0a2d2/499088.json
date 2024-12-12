@@ -1,0 +1,63 @@
+{
+    "id": 499088,
+    "brand": "ricetrin-a94e31d6-19cc-4030-baaa-2bc537d0a2d2",
+    "name": "AvenaSweet™ 42",
+    "slug": "avenasweet-42",
+    "description": "AvenaSweet 42 is a 42 DE oat syrup crafted through a natural enzymatic process. This concentrated syrup delivers a pleasing sweetness and is non-GMO. Manufactured in the USA.\r\n",
+    "company_name": "Sweet Additions",
+    "company_slug": "sweet-additions",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708696320/production/Company/21332/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708696320/production/Company/21332/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Dairy",
+            "Tea, Cocoa & Coffee",
+            "Savory & Culinary",
+            "Desserts & Fruit Preparations",
+            "Confectionery",
+            "Cereals & Snacks",
+            "Bakery",
+            "Other Non-Alcoholic Beverages",
+            "Beverage",
+            "Food"
+        ],
+        "Product Families": [
+            "Other Texture & Consistency Products",
+            "Sweeteners & Syrups",
+            "Taste & Flavor",
+            "Texture & Consistency"
+        ],
+        "End Uses": [
+            "Creamer"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Oat Syrups"
+        ],
+        "Functions": [
+            "Nutritive Sweetener",
+            "Mouthfeel Improvement"
+        ],
+        "Labeling Claims": [
+            "Hypoallergenic",
+            "Natural",
+            "Naturally Derived",
+            "Gluten-free",
+            "Organic",
+            "Non-GMO",
+            "Allergen-free",
+            "Kosher"
+        ],
+        "Physical Form": [
+            "Liquid"
+        ],
+        "Packaging Type": [
+            "Totes (IBC)"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Plant Origin"
+        ]
+    }
+}

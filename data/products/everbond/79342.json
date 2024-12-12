@@ -1,0 +1,97 @@
+{
+    "id": 79342,
+    "brand": "everbond",
+    "name": "TRIstat ECO",
+    "slug": "tristat-eco",
+    "description": null,
+    "company_name": "TRI-K Industries, Inc.",
+    "company_slug": "tri-k-industries-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1671652737/production/Product/79342/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,c_crop,x_317,y_0,w_1267,h_396/v1717531447/production/Brand/6738/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Bath & Shower",
+            "Hand Hygiene",
+            "Baby Care",
+            "Treatment Products",
+            "Sun Care",
+            "Hair Care",
+            "Skin Care",
+            "Beauty & Care",
+            "Personal Hygiene"
+        ],
+        "Product Families": [
+            "Antioxidants & Preservatives",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Glyceryl Undecylenate",
+            "Glyceryl Caprylate",
+            "Benzyl Alcohol"
+        ],
+        "End Uses": [
+            "Sunscreen Lotion",
+            "Shaving Lotion",
+            "Face Lotion",
+            "Face Cream",
+            "Body Lotion",
+            "Body Cream",
+            "Shaving Gel",
+            "Shaving Foam",
+            "Shaving Cream",
+            "Acne Treatments",
+            "After Sun Products",
+            "Body Oil",
+            "Foot Moisturizer",
+            "Hand Cream",
+            "Moisturizers",
+            "Skin Serums",
+            "Hand Cleansers",
+            "Hair Conditioner",
+            "Shampoos & Rinses",
+            "Hair Gel",
+            "Bubble Bath",
+            "Shower Gels"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Glyceryl Undecylenate",
+            "Glyceryl Caprylate",
+            "Benzyl Alcohol"
+        ],
+        "Functions": [
+            "Anti-Microbial Agent",
+            "Preservative"
+        ],
+        "Benefit Claims": [
+            "Antimicrobial",
+            "Low Odor",
+            "Humectancy",
+            "Refatting",
+            "Preservation",
+            "Broad pH Stability",
+            "Outstanding Skin feel",
+            "Emulsifying"
+        ],
+        "Labeling Claims": [
+            "GMO-free",
+            "Natural",
+            "BSE-free",
+            "Environmentally Friendly",
+            "Credo Clean Standard",
+            "Gluten-free",
+            "Organic",
+            "Clean at Sephora",
+            "TSE-free"
+        ],
+        "Certifications & Compliance": [
+            "BDIH Standard",
+            "Organic Certified",
+            "NaTrue",
+            "ECOCERT",
+            "COSMOS",
+            "Soil Association Approved"
+        ]
+    }
+}

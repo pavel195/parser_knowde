@@ -1,0 +1,43 @@
+{
+    "id": 411699,
+    "brand": "airoil",
+    "name": "ImmunOil™ (Immunostimulator)",
+    "slug": "immunoil-immunostimulator",
+    "description": "Immunoil™ is a unique blend of natural essential oils designed to stimulate high influence on immune system development.",
+    "company_name": "A.W.P. srl",
+    "company_slug": "a-w-p-srl",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708688865/production/Brand/32097/logo/image",
+    "banner_url": "https://static.knowde.com/card-banners/knowde-card-for-raw-materials-8.jpg",
+    "properties": {
+        "Applications": [
+            "Birds & Poultry",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Immunomodulators",
+            "Fats & Oils",
+            "Health & Well-Being",
+            "Nutritional Ingredients"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Immunomodulator"
+        ],
+        "Features": [
+            "Improves Bone Growth & Strength",
+            "Improves Growth Performance"
+        ],
+        "Labeling Claims": [
+            "Natural"
+        ],
+        "Certifications & Compliance": [
+            "ISO 22000",
+            "FAMI-QS",
+            "ISO 9001"
+        ],
+        "Animal Species": [
+            "Broilers"
+        ]
+    }
+}

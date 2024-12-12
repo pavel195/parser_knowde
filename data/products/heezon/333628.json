@@ -1,0 +1,57 @@
+{
+    "id": 333628,
+    "brand": "heezon",
+    "name": "RedNite®",
+    "slug": "rednite",
+    "description": "RedNite® is the 1st fresh beetroot concentrate powder to be standardized for 1.5%-2.75% natural nitrate. It is completely water soluble with lovely red color and pleasant taste. RedNite® is free from nitrites and synthetic nitrates .",
+    "company_name": "ENovate Biolife",
+    "company_slug": "enovate-biolife",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708516617/production/Brand/24573/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607026/production/CategoryImage/510/category_image/FoodNutrition_11.jpg",
+    "properties": {
+        "Applications": [
+            "Nutraceuticals & Supplements",
+            "Functional Foods",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Vegetable Products & Extracts",
+            "Whole Foods, Extracts & Premixes"
+        ],
+        "Chemical Family": [
+            "Botanical Extracts"
+        ],
+        "End Uses": [
+            "Functional Foods",
+            "Nutritional Bars"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Beetroot Concentrate"
+        ],
+        "Physical Form": [
+            "Solid",
+            "Powder"
+        ],
+        "Labeling Claims": [
+            "Non-GMO",
+            "Kosher",
+            "Vegan",
+            "Pesticide-free"
+        ],
+        "Certifications & Compliance": [
+            "Kosher",
+            "Prop 65 Compliant",
+            "Vegan"
+        ],
+        "Features": [
+            "Anti-Fatigue",
+            "Antioxidant Properties"
+        ],
+        "End Uses": [
+            "Functional Foods",
+            "Nutritional Bars"
+        ]
+    }
+}

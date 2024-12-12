@@ -1,0 +1,41 @@
+{
+    "id": 419332,
+    "brand": "biota",
+    "name": "Biota NPK 7-2-3",
+    "slug": "biota-npk-7-2-3",
+    "description": "Biota NPK 7-2-3 is unique because it is the highest concentration liquid organic multi-nutrient fertilizer on the market. Due to the unique production process, the nutrients are 100% present in the solution and can therefore be taken up directly by the plant.",
+    "company_name": "BENEFERT",
+    "company_slug": "benefert",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708688261/production/Brand/32898/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608238/production/CategoryImage/552/category_image/AgricultureFeed_08.jpg",
+    "properties": {
+        "Applications": [
+            "Oilseeds",
+            "Fiber Crops",
+            "Sugar & Starch Crops",
+            "Ornamentals",
+            "Trees & Woodlands",
+            "Fruits",
+            "Vegetables",
+            "Agricultural Crops",
+            "Turf, Ornamentals & Landscape"
+        ],
+        "Product Families": [
+            "Fertilizers & Nutrients",
+            "Plant Health, Nutrients & Soil Management"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Fertilizer"
+        ],
+        "Application Technique": [
+            "Foliage Applied"
+        ],
+        "Labeling Claims": [
+            "Organic",
+            "Natural",
+            "Plant-Based"
+        ]
+    }
+}

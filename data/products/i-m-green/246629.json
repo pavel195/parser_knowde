@@ -1,0 +1,60 @@
+{
+    "id": 246629,
+    "brand": "i-m-green",
+    "name": "RPR 5A1 WE Recycled Polyethylene",
+    "slug": "wenew-recycled-polyolefins-rpr-5a1-we-recycled-polyethylene",
+    "description": "<p>Braskem Recycled PRP 5A1 WE recycled polyethylene is a high-density polyethylene (HDPE) embodying eco-conscious attributes. With labeling claims containing PCR resin, and having a low carbon footprint (PCF), this polymer emphasizes sustainability. Its notable feature includes excellent environmental stress crack resistance (ESCR). Tailored for containers, small bottles, and blow molding of up to 20 L for chemicals, domestic use, and oils Available in a natural color.</p><p style=\"text-align:justify\">For more information regarding REACH, please visit Braskem&#39;s <a href=\"https://www.braskem.com/reach-en\">REACH</a> site</p>",
+    "company_name": "Braskem America",
+    "company_slug": "braskem-america",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,c_crop,x_228,y_0,w_3088,h_3088/v1717397317/production/Brand/16043/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1697566031/production/Product/246629/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Food & Beverage Packaging",
+            "Industrial & Transport Packaging",
+            "Non-Food Consumer Packaging",
+            "Pipes & Plumbing",
+            "Housewares",
+            "Building Materials",
+            "Packaging"
+        ],
+        "Product Families": [
+            "Polyolefins",
+            "Recycled Polymers",
+            "Basic Thermoplastics"
+        ],
+        "Chemical Family": [
+            "Polyethylenes",
+            "Polyolefins"
+        ],
+        "Polymer Name": [
+            "High Density Polyethylene (HDPE)"
+        ],
+        "End Uses": [
+            "Cosmetic Packaging",
+            "Industrial Containers",
+            "Containers",
+            "Blown Containers",
+            "Corrugated Pipe"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "High Density Polyethylene (HDPE)"
+        ],
+        "Labeling Claims": [
+            "Sustainable",
+            "Low Carbon Footprint (PCF)",
+            "Recycled",
+            "Food Contact Acceptable",
+            "Contains PCR Resin"
+        ],
+        "Processing Methods": [
+            "Extrusion",
+            "Blow Molding"
+        ],
+        "Density:": [
+            "955.0 - 955.0 kg/m³"
+        ]
+    }
+}

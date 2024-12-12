@@ -1,0 +1,62 @@
+{
+    "id": 416362,
+    "brand": "js",
+    "name": "JS Defatted Cocoa Expeller Cake",
+    "slug": "js-defatted-cocoa-expeller-cake",
+    "description": "JS Defatted Cocoa Expeller Cake is obtained from Theobroma cocoa.",
+    "company_name": "JS Cocoa",
+    "company_slug": "js-cocoa",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709127840/production/Company/55267/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1709127840/production/Product/416362/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Ruminants",
+            "Tea, Cocoa & Coffee",
+            "Animal Health & Nutrition",
+            "Beverage"
+        ],
+        "Product Families": [
+            "Nutrient Premixes",
+            "Whole Foods & Extracts",
+            "Cocoa & Chocolate",
+            "Whole Foods, Extracts & Premixes",
+            "Nutritional Ingredients",
+            "Formulated Feeds, Whole Foods and Extracts"
+        ],
+        "End Uses": [
+            "Cocoa Powder"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Cocoa Expeller Cake"
+        ],
+        "Functions": [
+            "Whole Food Ingredient"
+        ],
+        "Animal Species": [
+            "Cattle"
+        ],
+        "Labeling Claims": [
+            "Biodegradable",
+            "Not Tested on Animals",
+            "Kosher",
+            "Natural",
+            "Halal",
+            "Non-GMO"
+        ],
+        "Certifications & Compliance": [
+            "SEDEX Approved",
+            "FSSC 22000",
+            "Kosher",
+            "JECFA (FAO/WHO)",
+            "GMP",
+            "FDA Compliant",
+            "Halal"
+        ],
+        "Physical Form": [
+            "Solid",
+            "Powder"
+        ]
+    }
+}

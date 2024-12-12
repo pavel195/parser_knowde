@@ -1,0 +1,31 @@
+{
+    "id": 396085,
+    "brand": "sentinel-products-sentinel",
+    "name": "Sentinel 610 Citrus Emulsion Degreaser",
+    "slug": "sentinel-610-citrus-emulsion-degreaser",
+    "description": "Sentinel 610 Citrus Emulsion Degreaser is a concentrated, biodegradable, industrial-strength degreaser. Strong degreasing properties in a water-based formula make 610 ideal for cleaning heavy concentrations of dirt, dust, grease, oils and grime. 610 also dissolves many resins, adhesives, rubber tire marks and other tough compounds from floors and industrial surfaces.",
+    "company_name": "Sentinel Products",
+    "company_slug": "sentinel-products",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1670414849/production/Company/50293/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515671/production/CategoryImage/1057/category_image/HII_09.jpg",
+    "properties": {
+        "Applications": [
+            "Institutional & Industrial Care",
+            "Surface Care",
+            "Industrial Cleaning",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Industrial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Degreasers"
+        ],
+        "Features": [
+            "Degreasing"
+        ]
+    }
+}

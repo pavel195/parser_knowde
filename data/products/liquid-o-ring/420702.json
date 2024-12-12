@@ -1,0 +1,45 @@
+{
+    "id": 420702,
+    "brand": "liquid-o-ring",
+    "name": "Liquid-O-Ring® PM100L",
+    "slug": "liquid-o-ring-pm100l",
+    "description": "Liquid-O-Ring® PM100L is a heavy-duty, premium, industrial quality gear oil manufactured using highlyrefined paraffinic base oils. Made with LIQUILON®*, PM100L is formulated with outstanding extreme pressure (EP) characteristics and load-carrying properties intended for use in heavy-duty gearboxes. Extreme conditions like extended running times and inclement weather conditions are commonplace in today’s manufacturing and oilfield industries. PM100L was developed to protect gears from major problems particularly water contamination, overheating, heavy loads, and wear. PM100L exceeds the demands placed on gear oil used in automotives and heavy-duty equipment.",
+    "company_name": "Oil Center Research",
+    "company_slug": "oil-center-research",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680108893/production/Brand/33034/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Lubricants & Functional Fluids",
+            "Powertrain & UTH",
+            "Automotive Fluids & Lubricants",
+            "Chemical & Industrial Manufacturing",
+            "Automotive ",
+            "Transportation",
+            "Off Road & Recreational Vehicle (RV)",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Lubricants & Oils",
+            "Fluids & Lubricants"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Oil"
+        ],
+        "Application Area": [
+            "Gearboxes",
+            "Gears"
+        ],
+        "Features": [
+            "Heavy Duty",
+            "Wear Resistant",
+            "High Loading Absorption Capability",
+            "Extreme Pressure Performance"
+        ],
+        "SAE Viscosity Grade": [
+            "SAE 80W-90"
+        ]
+    }
+}

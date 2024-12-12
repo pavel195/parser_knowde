@@ -1,0 +1,63 @@
+{
+    "id": 473828,
+    "brand": "namino",
+    "name": "Daesang America, Inc. Monosodium Glutamate (MSG)",
+    "slug": "daesang-america-inc-monosodium-glutamate-msg",
+    "description": "Daesang America, Inc. Monosodium Glutamate (MSG) is a sodium salt of glutamate, which is one of the most abundant non-essential amino acids that naturally exist in various unprocessed foods, including corn, grain, cheese, rice, milk, sea tangle, and human breast milk. Its superior flavor-enhancing capabilities can lead to substantial cost savings for food processors.Please find more information on https://ingredient.daesang.com/s/?language=en_US",
+    "company_name": "Daesang America, Inc.",
+    "company_slug": "daesang-america",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672217/production/Company/46517/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606914/production/CategoryImage/502/category_image/FoodNutrition_03.jpg",
+    "properties": {
+        "Applications": [
+            "Confectionery",
+            "Savory & Culinary",
+            "Convenience Foods",
+            "Food"
+        ],
+        "Product Families": [
+            "Flavor Enhancers",
+            "Proteins & Amino Acids",
+            "Taste & Flavor",
+            "Nutrition & Fortification"
+        ],
+        "Ingredient Name": [
+            "Monosodium Glutamate"
+        ],
+        "End Uses": [
+            "Dressings",
+            "Sauces",
+            "Food Seasonings",
+            "Soups",
+            "Instant Noodle"
+        ],
+        "Labeling Claims": [
+            "Kosher",
+            "Halal",
+            "Not Listed In California Proposition 65",
+            "Non-GMO"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Monosodium Glutamate"
+        ],
+        "Functions": [
+            "Amino Acid",
+            "Flavor Enhancer"
+        ],
+        "Ingredient Origin": [
+            "Fermentation"
+        ],
+        "Labeling Claims": [
+            "Not Listed In California Proposition 65",
+            "Kosher",
+            "Halal",
+            "Non-GMO"
+        ],
+        "Features": [
+            "Low Sodium",
+            "Cost Effective"
+        ]
+    }
+}

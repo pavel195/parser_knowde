@@ -1,0 +1,48 @@
+{
+    "id": 405463,
+    "brand": "globaltech",
+    "name": "GlobalTech® BSC-10A Electronics Cleaner",
+    "slug": "globaltech-bsc-10a-electronics-cleaner",
+    "description": "GlobalTech® BSC-10A Electronics Cleaner (BSC) is the ultimate solvent product for benchtop defluxing and stencil/misprint cleaning. Effectively removes reflowed lead and lead-free paste residues, all types of flux residues, solder pastes, uncured SMD adhesives, silicone and acrylic conformal coatings and baked-on flux residues. It is a drop-in replacement for Bioact SC-10 and a suitable alternative to isopropyl alcohol (IPA), hydrocarbons, hydrofluoroethers (HFEs), hydrofluorocarbons (HFCs), HCFC-141b and HCFC-225.",
+    "company_name": "JNJ Industries",
+    "company_slug": "jnj-industries",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1682593048/production/Brand/31079/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515657/production/CategoryImage/1056/category_image/HII_08.jpg",
+    "properties": {
+        "Applications": [
+            "Institutional & Industrial Care",
+            "Industrial Cleaning",
+            "Institutional & Catering",
+            "Technical Cleaning"
+        ],
+        "Product Families": [
+            "Industrial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Adhesive Remover",
+            "Degreasers",
+            "Cleaner"
+        ],
+        "Application Area": [
+            "Immersion Cleaner",
+            "Electrical Components",
+            "Electronic Components"
+        ],
+        "Certifications & Compliance": [
+            "RoHS Compliant",
+            "REACH (Europe)",
+            "Waste Electrical & Electronic Equipment Directive (WEEE)"
+        ],
+        "Features": [
+            "Fast Drying",
+            "Water Soluble",
+            "Degreasing",
+            "Effective Soil Removal",
+            "Excellent Compatibility",
+            "High Solvency"
+        ]
+    }
+}

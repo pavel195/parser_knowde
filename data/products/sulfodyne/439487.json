@@ -1,0 +1,30 @@
+{
+    "id": 439487,
+    "brand": "sulfodyne",
+    "name": "Triballat Ingredients Extra fine soft butter",
+    "slug": "triballat-ingredients-extra-fine-soft-butter",
+    "description": "Triballat Ingredients Extra fine soft butter is a churned butter is made from fresh milk collected in Brittany and Normandy, France’s most famous regions for superior dairy products. Churned butter has a superior quality, a creamier texture, more developed aroma and a richer taste than a classic butter.",
+    "company_name": "Triballat Ingredients",
+    "company_slug": "triballat-ingredients",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697221651/production/Company/63651/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606914/production/CategoryImage/502/category_image/FoodNutrition_03.jpg",
+    "properties": {
+        "Applications": [
+            "Confectionery",
+            "Cooking Oils & Fat Products",
+            "Bakery",
+            "Food"
+        ],
+        "Product Families": [
+            "Edible Oils & Fats",
+            "Dairy Products",
+            "Whole Foods, Extracts & Premixes"
+        ],
+        "End Uses": [
+            "Cooking Oil",
+            "Biscuits",
+            "Chocolates"
+        ]
+    },
+    "summary": {}
+}

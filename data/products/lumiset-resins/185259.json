@@ -1,0 +1,27 @@
+{
+    "id": 185259,
+    "brand": "lumiset-resins",
+    "name": "Bomar Oligomers® BR-640D",
+    "slug": "bomar-oligomers-br-640d",
+    "description": "Bomar™BR-640Dis a polybutadiene (PBD) urethane acrylate with a functionality of two. Designed to meet rigorous electronic applications, BR-640D has many desirable properties typical to PBD resins, combined with radiation curability. In applications requiring thermal cycling resistance, BR-640Dwithstands the extremes of temperature typical of such tests, without undue degradation of properties.Excellent hydrophobic properties exhibited where 0.012 and 0.037% water was absorbed by cured coating when submerged in water for 24 hours.  In addition to the adhesion properties, BR-640D showed excellent adhesion to ABS, acrylic, nylon-6, PVC, and PS.",
+    "company_name": "Bomar Specialties LLC",
+    "company_slug": "bomar-specialties-llc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697223213/production/Company/1204/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1697223213/production/Product/185259/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Potting Compounds",
+            "Electronics Coatings",
+            "Packaging & Assembly",
+            "Specialty Coatings"
+        ],
+        "Product Families": [
+            "Oligomers",
+            "Monomers & Intermediates"
+        ],
+        "Chemical Family": [
+            "Urethane Acrylate/Isocyanate"
+        ]
+    },
+    "summary": {}
+}

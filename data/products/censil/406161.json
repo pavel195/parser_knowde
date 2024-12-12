@@ -1,0 +1,39 @@
+{
+    "id": 406161,
+    "brand": "censil",
+    "name": "CENSIL 300",
+    "slug": "censil-300",
+    "description": null,
+    "company_name": "Longyan Shenghe",
+    "company_slug": "longyan-shenghe",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708686445/production/Company/52388/logo/image",
+    "banner_url": "https://static.knowde.com/card-banners/knowde-card-for-raw-materials-8.jpg",
+    "properties": {
+        "Product Families": [
+            "Fillers & Extenders",
+            "Polymer Additives",
+            "Elastomer Additives"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Filler"
+        ],
+        "Compatible Polymers & Resins": [
+            "Silicones"
+        ],
+        "Features": [
+            "Excellent Transparency Properties",
+            "Thixotropic",
+            "Good Balance of Properties",
+            "Good Dispersibility",
+            "Excellent Seal Properties",
+            "Cost Effective",
+            "Enhanced Tear Resistant",
+            "Consistent High Quality"
+        ],
+        "Synonyms": [
+            "Fumed Silica, Silica, Silicon Dioxide"
+        ]
+    }
+}

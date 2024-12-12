@@ -1,0 +1,42 @@
+{
+    "id": 274063,
+    "brand": "bas",
+    "name": "BUP 640",
+    "slug": "bup-640",
+    "description": "BUP 640 is an un-promoted orthophthalic based unsaturated polyester resin with very low color, high solid and viscosity, good flexibility, transparency and mechanical properties for ambient temperature cure with MEK peroxide.",
+    "company_name": "Bonyan Kala Chemie",
+    "company_slug": "bonyan-kala-chemie",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708529030/production/Company/20956/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608454/production/CategoryImage/560/category_image/BuildingConstruction_04.jpg",
+    "properties": {
+        "Product Families": [
+            "Polyesters",
+            "Thermoset Resins",
+            "Polymers & Resins"
+        ],
+        "Chemical Family": [
+            "Orthophthalics",
+            "Unsaturated Polyester (UPE)",
+            "Polyesters"
+        ],
+        "Polymer Name": [
+            "Thermoset Polyester"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Thermoset Polyester"
+        ],
+        "Chemical Family": [
+            "Polyesters",
+            "Orthophthalics",
+            "Unsaturated Polyester (UPE)"
+        ],
+        "Cure Method": [
+            "Heat Cure"
+        ],
+        "Density": [
+            "1170.0 - 1170.0 kg/m³"
+        ]
+    }
+}

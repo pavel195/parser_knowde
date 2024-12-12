@@ -1,0 +1,37 @@
+{
+    "id": 193040,
+    "brand": "fermapro",
+    "name": "Chocamine®",
+    "slug": "chocamine",
+    "description": "Chocamine® is a patented cocoa-based ingredient that delivers the best of chocolate-its taste, aroma and health benefits-without the guilt, sugar, fat and dairy.",
+    "company_name": "RFI Ingredients",
+    "company_slug": "rfi-ingredients",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1693579100/production/Product/193040/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1693579100/production/Product/193040/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Other Nutrition Applications",
+            "Clinical Nutrition",
+            "Other Food Applications",
+            "Functional Foods",
+            "Confectionery",
+            "Bakery",
+            "Other Non-Alcoholic Beverages",
+            "Sports Nutrition",
+            "Nutraceuticals & Supplements",
+            "Cereals & Snacks",
+            "Beverage",
+            "Food",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Cocoa & Chocolate",
+            "Whole Foods, Extracts & Premixes"
+        ],
+        "End Uses": [
+            "Dietary Supplements",
+            "Snacks"
+        ]
+    },
+    "summary": {}
+}

@@ -1,0 +1,49 @@
+{
+    "id": 321777,
+    "brand": "corrosperse",
+    "name": "Waynflash™ 115",
+    "slug": "waynflash-115",
+    "description": "Waynflash™ 115 is a liquid flash rust inhibitor that is based on WPC’s nitrite free chemistry. It is a highly effective inhibitor against flash rusting on ferrous substrates (such as galvanized steel) during the aqueous paint phase. Typical use levels range from 0.25 – 1.0% based upon total formula weight. It can be used in any water based primer or DTM system. Waynflash™ 115 exhibits good paint stability and can be incorporated at any stage of paint manufacturing. It is both HAPS and APEO free.",
+    "company_name": "WPC Technologies",
+    "company_slug": "wpc-technologies",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708687888/production/Company/27350/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608640/production/CategoryImage/572/category_image/PaintingsCoatings_08.jpg",
+    "properties": {
+        "Applications": [
+            "Primers & Lacquers",
+            "Metal Coatings",
+            "Industrial Coatings",
+            "Packaging Coatings"
+        ],
+        "Product Families": [
+            "Functional Additives",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Phosphates"
+        ],
+        "End Uses": [
+            "Waterborne Coating"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Corrosion Inhibitor"
+        ],
+        "Chemical Family": [
+            "Phosphates"
+        ],
+        "End Uses": [
+            "Waterborne Coating"
+        ],
+        "Labeling Claims": [
+            "Nitrite-free",
+            "VOC-free",
+            "APEO-free",
+            "HAPs-free"
+        ],
+        "Features": [
+            "Improved Stability"
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "id": 329901,
+    "brand": "quali-pro-propiconazole",
+    "name": "CHLOROTHALONIL 720F",
+    "slug": "chlorothalonil-720f",
+    "description": "Chlorothalonil 720F is the foundation to your disease control program. Economical, cost-effective, broad-spectrum disease control for grasses, and labeled trees, shrubs and flowers.",
+    "company_name": "Quali-Pro",
+    "company_slug": "quali-pro",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672737/production/Brand/23842/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608215/production/CategoryImage/550/category_image/AgricultureFeed_06.jpg",
+    "properties": {
+        "Applications": [
+            "Agricultural Pest Control",
+            "Vegetables",
+            "Residential Pest Control",
+            "Commercial Pest Control",
+            "Ornamentals",
+            "Turf Management",
+            "Agricultural Crops",
+            "Pest Control",
+            "Turf, Ornamentals & Landscape"
+        ],
+        "Product Families": [
+            "Fungicides",
+            "Crop Protection & Pest Control"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Fungicide"
+        ],
+        "FRAC Code": [
+            "M"
+        ]
+    }
+}

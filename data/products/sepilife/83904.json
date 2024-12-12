@@ -1,0 +1,51 @@
+{
+    "id": 83904,
+    "brand": "sepilife",
+    "name": "SEPIPLUS™ 400",
+    "slug": "sepiplus-400",
+    "description": "SEPIPLUS™ 400 is a liquid polymer produced by inverse emulsion polymerization. This is a solvent-free, energy efficient manufacturing process technology. In concentrated form, the transport of water can be reduced in comparison to standard (non-concentrated) grades.",
+    "company_name": "SEPPIC INC",
+    "company_slug": "seppic-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708691957/production/Company/1405/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708691957/production/Product/83904/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Hair Care",
+            "Skin Care",
+            "Color Cosmetics",
+            "Bath & Shower",
+            "Sun Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Rheology Modifiers",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Polyisobutene",
+            "Polyacrylate-13",
+            "Polysorbate 20"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Polysorbate 20",
+            "Polyacrylate-13",
+            "Polyisobutene"
+        ],
+        "Functions": [
+            "Emulsifier",
+            "Viscosity Modifier"
+        ],
+        "Benefit Claims": [
+            "Spreadability",
+            "Ready-To-Use"
+        ],
+        "Labeling Claims": [
+            "Clean at Sephora",
+            "Solvent-free",
+            "Ulta Beauty's Conscious Beauty",
+            "Preservative-free"
+        ]
+    }
+}

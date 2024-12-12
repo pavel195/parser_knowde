@@ -1,0 +1,42 @@
+{
+    "id": 403527,
+    "brand": "trans-pharma",
+    "name": "TRANSPROP® CPPHS2-F",
+    "slug": "transprop-cpphs2-f",
+    "description": "TRANSPROP® CPPHS2-F has Excellent sealing characteristics. It has good tear resistance.",
+    "company_name": "Transcendia",
+    "company_slug": "transcendia",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709127741/production/Brand/30871/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609128/production/CategoryImage/597/category_image/PrintingPackaging_08.jpg",
+    "properties": {
+        "Applications": [
+            "Food & Beverage Packaging",
+            "Healthcare Packaging",
+            "Packaging"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Polymer Name": [
+            "BOPP (Polypropylene) Film"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "BOPP (Polypropylene) Film"
+        ],
+        "Physical Form": [
+            "Film"
+        ],
+        "Features": [
+            "Good Machinability",
+            "Excellent Seal Properties",
+            "Enhanced Tear Resistant",
+            "Corona Treated",
+            "Puncture Resistant",
+            "High Tensile Strength",
+            "Improved Stick-Slip Response",
+            "Good Optical Properties"
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": 351784,
+    "brand": "frau-pharma-neuropeak",
+    "name": "Frau Pharma Teriflunomide",
+    "slug": "frau-pharma-teriflunomide",
+    "description": "Frau Pharma Teriflunomide is an immunomodulatory drug indicated for the treatment of multiple sclerosis. Teriflunomide provides a therapeutic benefit, and importantly, does not cause clinical immune suppression.",
+    "company_name": "Frau Pharma",
+    "company_slug": "frau-pharma",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708516679/production/Company/38029/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607009/production/CategoryImage/509/category_image/FoodNutrition_10.jpg",
+    "properties": {
+        "Applications": [
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Active Pharmaceutical Ingredients (APIs)",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements",
+            "Pharmaceutical Actives & Precursors"
+        ]
+    },
+    "summary": {}
+}

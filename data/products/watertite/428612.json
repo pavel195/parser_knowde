@@ -1,0 +1,61 @@
+{
+    "id": 428612,
+    "brand": "watertite",
+    "name": "Pennkote Pennmarine",
+    "slug": "pennkote-pennmarine",
+    "description": "Pennkote Pennmarine is high solids water based synthetic rubber compound based on acrylic elastomeric. PENNMARINE has been specially designed for deck surfaces, super structures etc., of boats, yachts, cruisers, commercial vessels etc. It is supplied as a single component thixotropic soft paste which is easily applied by brush or spray to form upon drying, hard wearing, water tight, non-slip and durable surface. This flexible coating will effectively bond to and protect wood, polyester. canvas. metal, bitumen and other common materials from water, salt, ozone and rapid temperature changes.",
+    "company_name": "Pennkote",
+    "company_slug": "pennkote",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1666072004/production/Company/61344/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608438/production/CategoryImage/559/category_image/BuildingConstruction_03.jpg",
+    "properties": {
+        "Applications": [
+            "Coatings & Finishes",
+            "Building Materials",
+            "Flooring & Surfaces",
+            "Marine",
+            "Fence, Decks & Rails",
+            "Fillers, Levellers & Joints",
+            "Marine Coatings",
+            "Transportation"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Other Paints & Coatings"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Solventless & High Solids Coating",
+            "1K (1 component) Coating",
+            "Elastomeric Coating",
+            "Waterborne Coating"
+        ],
+        "Application Areas": [
+            "Marine Applications",
+            "Yacht"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Wood",
+            "Metal",
+            "Polyesters"
+        ],
+        "Features": [
+            "High Hardness",
+            "Durable",
+            "Flexible",
+            "Anti-Slip",
+            "Thixotropic"
+        ],
+        "Application Method": [
+            "Spray",
+            "Brush"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "id": 179161,
+    "brand": "solprene",
+    "name": "Emulprene™ 1012",
+    "slug": "emulprene-1012",
+    "description": "Emulprene 1012 is a high viscosity hot emulsion styrene-butadiene copolymer, polymerized using fatty acid emulsifier and coagulated with salt-acid. It is very light color product stabilized with a non-staining antioxidant.",
+    "company_name": "Dynasol Elastomers",
+    "company_slug": "dynasol-elastomers",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1703849624/production/Company/2771/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1703849624/production/Company/2771/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Chemical Manufacturing",
+            "Other Adhesives & Sealants Applications",
+            "Other Flooring & Surface Applications",
+            "Flooring & Surfaces",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Styrenic Thermoplastic Elastomers (TPE-S)",
+            "Other Resins & Binders",
+            "Resins & Binders",
+            "Thermoplastic Elastomers"
+        ],
+        "Chemical Family": [
+            "Styrenics",
+            "Styrene Copolymers"
+        ],
+        "Polymer Name": [
+            "Styrene Butadiene Block Copolymer"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Styrene Butadiene Block Copolymer"
+        ],
+        "Chemical Family": [
+            "Styrenics",
+            "Styrene Copolymers"
+        ],
+        "Synonyms": [
+            "Tris (4-Nonylphenyl)Phosphite, Tris(P-Nonylphenyl)Phosphite"
+        ]
+    }
+}

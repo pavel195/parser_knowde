@@ -1,0 +1,38 @@
+{
+    "id": 583699,
+    "brand": "stadex-1c5e2439-ece6-4b7e-9b26-545354f7e5b7",
+    "name": "Liquid Citric Acid 50% - L",
+    "slug": "50-liquid-citric-l",
+    "description": "Liquid Citric Acid 50% - L is a technical Grade that is not intended for food or feed applications.",
+    "company_name": "Primient",
+    "company_slug": "primient",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1729086403/production/Company/50022/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606846/production/CategoryImage/500/category_image/FoodNutrition_01.jpg",
+    "properties": {
+        "Applications": [
+            "Other Non-Alcoholic Beverages",
+            "Beverage"
+        ],
+        "Product Families": [
+            "Organic Acids",
+            "Intermediates"
+        ],
+        "Chemical Family": [
+            "Organic Acids"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Citric Acid"
+        ],
+        "CAS Number": [
+            "77-92-9"
+        ],
+        "Grade": [
+            "Technical Grade"
+        ],
+        "Purity (Assay)": [
+            "50.0 - 50.3 %"
+        ]
+    }
+}

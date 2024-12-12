@@ -1,0 +1,97 @@
+{
+    "id": 329765,
+    "brand": "printex",
+    "name": "PRINTEX® zeta A",
+    "slug": "printex-zeta-a",
+    "description": null,
+    "company_name": "Orion Engineered Carbons",
+    "company_slug": "orion-engineered-carbons",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708686688/production/Company/9856/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608477/production/CategoryImage/562/category_image/BuildingConstruction_06.jpg",
+    "properties": {
+        "Applications": [
+            "Technical Fabrics",
+            "Gravure Printing",
+            "Flexography",
+            "Consumer Electronics",
+            "Automotive Electronics",
+            "Furniture",
+            "Appliances & Electronics",
+            "Pipes & Plumbing",
+            "Interior",
+            "Exterior & Body",
+            "Electrical & Electronic Systems",
+            "Pipes & Hoses",
+            "Other Agricultural Films",
+            "Agricultural Films",
+            "Automotive",
+            "Building Materials",
+            "Devices & Assemblies",
+            "Textiles & Nonwovens",
+            "Printing & Inks",
+            "Leather & Textiles"
+        ],
+        "Product Families": [
+            "Inorganic Pigments",
+            "Color Pigments",
+            "Pigments & Colorants",
+            "Polymer Additives"
+        ],
+        "Chemical Family": [
+            "Carbon Blacks"
+        ],
+        "End Uses": [
+            "Lawn Equipment",
+            "Garden Equipment",
+            "Waterborne Ink",
+            "Gravure Ink",
+            "Flexography Ink",
+            "Textile Applications",
+            "Pipes",
+            "Geo Membranes",
+            "Furniture",
+            "Fenders",
+            "Automotive Interior Parts",
+            "Automotive Exterior Parts",
+            "Automotive Electronics",
+            "Appliances",
+            "Agricultural Applications"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Carbon Blacks"
+        ],
+        "Functions": [
+            "Pigment",
+            "Colorant"
+        ],
+        "Pigment Type": [
+            "Inorganic Pigments"
+        ],
+        "Color": [
+            "Black"
+        ],
+        "Compatible Polymers & Resins": [
+            "Acrylonitrile Butadiene Styrene (ABS)",
+            "Styrene Acrylonitrile (SAN)",
+            "Polyamide 6 (PA 6)",
+            "Polylactic Acid (PLA)",
+            "Polyethylenes (PE)",
+            "Polyamides",
+            "Polypropylenes (PP)",
+            "Acrylonitrile Styrene Acrylate (ASA)",
+            "Polyvinyl Chloride (PVC)",
+            "Poly(Methyl Methacrylate) (PMMA)",
+            "Polycarbonates (PC)",
+            "Polystyrenes (PS)"
+        ],
+        "Processing Methods": [
+            "Extrusion",
+            "Injection Molding"
+        ],
+        "Synonyms": [
+            "Acetylene Black, Furnace Black, Lamp Black, Thermal Black"
+        ]
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "id": 583803,
+    "brand": "stadex-1c5e2439-ece6-4b7e-9b26-545354f7e5b7",
+    "name": "STALEY® 300 Corn Syrup",
+    "slug": "staley-300",
+    "description": "STALEY® 300 Corn Syrup is a nutritive sweetener in liquid form, offering water solubility. It is suitable for vegans, vegetarians, and ovo-lacto vegetarians, and is certified as sewage sludge free, ensuring an environmentally conscious ingredient.",
+    "company_name": "Primient",
+    "company_slug": "primient",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1729086403/production/Company/50022/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606641/production/CategoryImage/493/category_image/FoodIngredients_07.jpg",
+    "properties": {
+        "Applications": [
+            "Desserts & Fruit Preparations",
+            "Other Non-Alcoholic Beverages",
+            "Sports Drinks",
+            "Cereals & Snacks",
+            "Confectionery",
+            "Bakery",
+            "Dairy",
+            "Beverage",
+            "Food"
+        ],
+        "Product Families": [
+            "Sweeteners & Syrups",
+            "Taste & Flavor"
+        ],
+        "Ingredient Name": [
+            "Corn Syrup"
+        ],
+        "End Uses": [
+            "Candies",
+            "Cakes",
+            "Sports Drinks",
+            "Ice Cream",
+            "Snacks"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Corn Syrup"
+        ],
+        "Functions": [
+            "Nutritive Sweetener"
+        ],
+        "Calories (Energy)": [
+            "319.0 - 319.0 Cal/100 g"
+        ],
+        "Labeling Claims": [
+            "Animal Products-free",
+            "Allergen-free",
+            "Irradiation-free",
+            "Kosher",
+            "Not Listed In California Proposition 65",
+            "Ethylene Oxide-free",
+            "Halal"
+        ],
+        "Physical Form": [
+            "Liquid"
+        ],
+        "End Uses": [
+            "Cakes",
+            "Ice Cream",
+            "Candies",
+            "Sports Drinks",
+            "Snacks"
+        ]
+    }
+}

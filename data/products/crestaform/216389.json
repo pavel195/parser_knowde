@@ -1,0 +1,48 @@
+{
+    "id": 216389,
+    "brand": "crestaform",
+    "name": "Texicryl® 13-602",
+    "slug": "texicryl-13-602",
+    "description": "Texicryl® 13-602 is a styrene acrylic copolymer emulsion designed for use in flexible fillers, caulks, sealant applications and architectural coatings. It enhances the workability and technical performance of many products. It meets all environmental demands, such as low VOC, APEO-free and formaldehyde-free with no compromise on quality and performance.",
+    "company_name": "Scott Bader",
+    "company_slug": "scott-bader",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1625045994/production/Product/216389/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1625746193/production/Product/216389/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Sealants & Caulks",
+            "Decorative Paints, Coatings & Stains",
+            "Architectural Coatings",
+            "Fillers, Levellers & Joints",
+            "Decorative Paints",
+            "Building & Construction",
+            "Building Envelope",
+            "Building Materials",
+            "Construction Chemicals",
+            "Flooring & Surfaces",
+            "Roofing",
+            "Building Envelope & Roofing",
+            "Decorative Materials & Finishes"
+        ],
+        "Product Families": [
+            "Acrylics",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates",
+            "Styrene-Acrylic Copolymer"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Acrylics & Acrylates",
+            "Styrene-Acrylic Copolymer"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Wood"
+        ],
+        "Glass Transition Temperature (Tg):": [
+            "30.0 - 30.0 °C"
+        ]
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "id": 283619,
+    "brand": "kwark",
+    "name": "Kwark® GM",
+    "slug": "kwark-gm",
+    "description": "Kwark® GM is used as an additive / raw material and mixed in various formulations in order to improve key properties of the final product. Kwark® is available under several particle size distributions to match various applications.",
+    "company_name": "ENERSENS",
+    "company_slug": "enersens",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708695834/production/Company/21379/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608769/production/CategoryImage/577/category_image/AutomotiveTransportation_05.jpg",
+    "properties": {
+        "Applications": [
+            "Other Paints & Coatings Applications",
+            "Other Building & Construction Applications",
+            "Appliances & Electronics",
+            "Automotive OEM Coatings",
+            "Coatings & Finishes",
+            "Automotive & Transportation"
+        ],
+        "Product Families": [
+            "Cement & Concrete Additives",
+            "Mortar & Gypsum Additives",
+            "Fillers & Extenders",
+            "Additives",
+            "Construction Chemicals"
+        ],
+        "End Uses": [
+            "Electronics",
+            "Building Materials",
+            "Cement"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Filler"
+        ],
+        "Physical Form": [
+            "Granules",
+            "Solid"
+        ],
+        "Particle Size": [
+            "1250.0 - 3500.0 microns"
+        ],
+        "Features": [
+            "Alkali Resistance",
+            "Good Shrinkage Resistance",
+            "Thermal Resistance",
+            "Conductive"
+        ]
+    }
+}

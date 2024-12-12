@@ -1,0 +1,51 @@
+{
+    "id": 328560,
+    "brand": "novacryl",
+    "name": "Nova Polymers Inc. PT-060BLKM",
+    "slug": "nova-polymers-inc-pt-060blkm",
+    "description": "PT-060BLKM is a .060” BLACK Series / .032” photopolymer layer.",
+    "company_name": "Nova Polymers Inc.",
+    "company_slug": "nova-polymers-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686150336/production/Brand/24413/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608490/production/CategoryImage/563/category_image/BuildingConstruction_07.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Flooring & Surfaces",
+            "Wall Panels",
+            "Wallcovering & Decorative Laminates",
+            "Decorative Materials & Finishes",
+            "Wallcoverings & Decorative Laminates",
+            "Interior Fixtures"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Polyethylene Terephthalate (PET)",
+            "Glycols"
+        ],
+        "Polymer Name": [
+            "Polyethylene Terephthalate Glycol (PETG)"
+        ],
+        "End Uses": [
+            "Displays",
+            "Screen Printing"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyethylene Terephthalate Glycol (PETG)"
+        ],
+        "Physical Form": [
+            "Sheets"
+        ],
+        "Features": [
+            "Moisture Resistant",
+            "Resilient"
+        ],
+        "Color": [
+            "Black"
+        ]
+    }
+}

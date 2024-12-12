@@ -1,0 +1,37 @@
+{
+    "id": 622712,
+    "brand": "texturlux-80749beb-da8b-4a3b-8d33-5878eb6427e6",
+    "name": "Wet Corn Protein Feed",
+    "slug": "wet-corn-protein-feed",
+    "description": null,
+    "company_name": "Primient",
+    "company_slug": "primient",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1729086403/production/Company/50022/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625604505/production/CategoryImage/418/category_image/AnimalFeed_01.jpg",
+    "properties": {
+        "Product Families": [
+            "Amino Acids & Proteins",
+            "Nutritional Ingredients"
+        ],
+        "Ingredient Name": [
+            "Corn Protein"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Corn Protein"
+        ],
+        "Functions": [
+            "Protein Source"
+        ],
+        "Labeling Claims": [
+            "Animal Products-free",
+            "TSE-free",
+            "BSE-free"
+        ],
+        "Certifications & Compliance": [
+            "cGMP",
+            "Hazard Analysis Critical Control Point (HACCP)"
+        ]
+    }
+}

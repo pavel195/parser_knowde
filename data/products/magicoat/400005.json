@@ -1,0 +1,42 @@
+{
+    "id": 400005,
+    "brand": "magicoat",
+    "name": "Inkcups DL Series UV Ink For Glass",
+    "slug": "inkcups-dl-series-uv-ink-for-glass",
+    "description": "The DL Series UV ink for glass is the solution for glass and other substrates. This UV ink for glass can be utilized in either a UV flatbed inkjet printer or in a rotary inkjet printer. The DL series is cured using UV LED light and can be paired with primers for longer lasting adhesion. DL UV ink for glass works perfectly with MagiCoat® glass primer to make glassware pieces more durable and resistant to wash cycles. In general, some type of pretreatment method for glass must be done prior to printing.",
+    "company_name": "Inkcups",
+    "company_slug": "inkcups",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292240/production/Company/43730/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1664292240/production/Product/400005/card_banner/image.png",
+    "properties": {
+        "Applications": [
+            "Printing & Inks",
+            "Digital Printing",
+            "Inkjet Printing"
+        ],
+        "Product Families": [
+            "Inks & Pastes",
+            "Digital Printing Inks",
+            "Inkjet Inks"
+        ]
+    },
+    "summary": {
+        "Color": [
+            "Magenta",
+            "Cyan",
+            "Black",
+            "White",
+            "Yellow"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Plastics",
+            "Glass"
+        ],
+        "Features": [
+            "Durable",
+            "UV Curable",
+            "Good Washability",
+            "Good Adhesion"
+        ]
+    }
+}

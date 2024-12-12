@@ -1,0 +1,42 @@
+{
+    "id": 212273,
+    "brand": "omnilane",
+    "name": "Photomer 2012",
+    "slug": "photomer-2012",
+    "description": "PHOTOMER® 2012 (IBOMA) is a very low viscosity monofunctional methacrylated monomer which can be polymerized in the presence of free radicals. It is typically used in UV and EB curable applications.",
+    "company_name": "IGM Resins",
+    "company_slug": "igm-resins",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1703849700/production/Company/7406/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608939/production/CategoryImage/585/category_image/AdhesivesSealants_02.jpg",
+    "properties": {
+        "Applications": [
+            "Stationery, Art & Office Supplies",
+            "Other Adhesives & Sealants Applications",
+            "Metal Coatings",
+            "Industrial Coatings"
+        ],
+        "Product Families": [
+            "Acrylics, Acrylates & Methacrylates",
+            "Monomers",
+            "Monomers & Intermediates",
+            "Monomers & Oligomers"
+        ],
+        "Chemical Family": [
+            "Methacrylates"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Isobornyl methacrylate"
+        ],
+        "CAS Number": [
+            "7534-94-3"
+        ],
+        "Chemical Family": [
+            "Methacrylates"
+        ],
+        "Synonyms": [
+            "IBOMA"
+        ]
+    }
+}

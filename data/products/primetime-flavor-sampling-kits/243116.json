@@ -1,0 +1,52 @@
+{
+    "id": 243116,
+    "brand": "primetime-flavor-sampling-kits",
+    "name": "PRIMETIME EverFresh 101 Nat Shrimp Flavor Type (BD-11002)",
+    "slug": "primetime-everfresh-101-nat-shrimp-flavor-type-bd-11002",
+    "description": "\nSensory Profile:\nPet Food, Animal Feed: Shrimp, fish fresh/surimi, fishy",
+    "company_name": "Givaudan",
+    "company_slug": "givaudan",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1723098084/production/Brand/15807/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1723098084/production/Product/243116/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Other Food Applications",
+            "Other Non-Alcoholic Beverages",
+            "Functional & Flavored Water",
+            "Savory & Culinary",
+            "Meat Substitutes",
+            "Beverage",
+            "Food"
+        ],
+        "Product Families": [
+            "Flavor Ingredients",
+            "Taste & Flavor"
+        ],
+        "Flavor Family": [
+            "Meat, Egg & Seafood Flavors"
+        ],
+        "End Uses": [
+            "Flavored Water",
+            "Savory Products",
+            "Meat Substitutes"
+        ]
+    },
+    "summary": {
+        "Physical Form": [
+            "Solid"
+        ],
+        "Soluble In": [
+            "Water Soluble"
+        ],
+        "Certifications & Compliance": [
+            "Kosher",
+            "Halal"
+        ],
+        "Labeling Claims": [
+            "Allergen-free",
+            "Gluten-free",
+            "Vegan",
+            "Natural"
+        ]
+    }
+}

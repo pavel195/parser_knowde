@@ -1,0 +1,43 @@
+{
+    "id": 388693,
+    "brand": "egysafe",
+    "name": "EGYSAFE HB190001",
+    "slug": "egysafe-hb190001",
+    "description": "EGYSAFE HB190001 is a zero halogen, low smoke, flame retardant thermoplastic compound, polyolefin based for cable bedding application. EGYSAFE HB 190001 is characterized by halogen free, smoke and toxic gasses low emission, water solution low acidity and high oxygen index.",
+    "company_name": "EGYPLAST",
+    "company_slug": "egyplast",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686113264/production/Brand/29188/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607546/production/CategoryImage/524/category_image/ElectricalElectronics_09.jpg",
+    "properties": {
+        "Applications": [
+            "Wire & Cable",
+            "Jacketing & Insulation",
+            "Other Wire & Cable Applications"
+        ],
+        "Product Families": [
+            "Thermoplastic Elastomers",
+            "Thermoplastic Olefin Elastomers (TPO)"
+        ],
+        "Chemical Family": [
+            "Polyolefins"
+        ],
+        "Polymer Name": [
+            "Thermoplastic Polyolefin (TPO)"
+        ],
+        "End Uses": [
+            "Cables"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Thermoplastic Polyolefin (TPO)"
+        ],
+        "Features": [
+            "Flame Retardant",
+            "Low Emissions",
+            "High Oxygen Index",
+            "Low Smoke Emission",
+            "UV Stabilized"
+        ]
+    }
+}

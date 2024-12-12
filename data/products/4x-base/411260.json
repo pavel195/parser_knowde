@@ -1,0 +1,35 @@
+{
+    "id": 411260,
+    "brand": "4x-base",
+    "name": "Hydro Balance Corporation PRE-CLEAN",
+    "slug": "hydro-balance-corporation-pre-clean",
+    "description": "PRE-CLEAN is a coil and component parts cleaner. It is used prior to anti-foulant treatment.",
+    "company_name": "Hydro Balance Corporation",
+    "company_slug": "hydro-balance-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292401/production/Company/36132/logo/image.png",
+    "banner_url": "https://static.knowde.com/card-banners/knowde-card-for-raw-materials-8.jpg",
+    "properties": {
+        "Applications": [
+            "Home Care",
+            "Institutional & Industrial Care",
+            "Surface Care",
+            "Industrial Cleaning"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Other Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner"
+        ],
+        "Application Areas": [
+            "Coils",
+            "Machine Parts"
+        ],
+        "Certifications & Compliance": [
+            "SARA 311/312"
+        ]
+    }
+}

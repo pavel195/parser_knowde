@@ -1,0 +1,88 @@
+{
+    "id": 343549,
+    "brand": "texta-feve",
+    "name": "HERBAMYL® H200",
+    "slug": "herbamyl-h200",
+    "description": "HerbaMYL® H200 is a food grade rice starch powder with a coarse granulation, obtained by a physical separation process from broken rice. This used rice variety is characterized by a high amylose content",
+    "company_name": "A&B Ingredients",
+    "company_slug": "a-b-ingredients",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1713788813/production/Brand/24922/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1713788813/production/Brand/24922/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Other Food Applications",
+            "Infant & Baby Food",
+            "Dairy",
+            "Savory & Culinary",
+            "Meat, Poultry & Seafood",
+            "Convenience Foods",
+            "Confectionery",
+            "Cereals & Snacks",
+            "Bakery",
+            "Food"
+        ],
+        "Product Families": [
+            "Starches & Thickeners",
+            "Texture & Consistency"
+        ],
+        "Ingredient Name": [
+            "Rice Starch"
+        ],
+        "End Uses": [
+            "Soups",
+            "Snacks",
+            "Sauces",
+            "Ready Meals",
+            "Food Coatings",
+            "Dairy Products",
+            "Confectionery Products",
+            "Confectionery Coatings",
+            "Breakfast Cereals"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Rice Starch"
+        ],
+        "Functions": [
+            "Carbohydrate Source"
+        ],
+        "Labeling Claims": [
+            "Naturally Derived",
+            "Gluten-free",
+            "Natural",
+            "Kosher",
+            "Halal",
+            "Clean Label",
+            "Non-Corrosive",
+            "Non-GMO"
+        ],
+        "Physical Form": [
+            "Powder",
+            "Solid"
+        ],
+        "Features": [
+            "High Amylose Content",
+            "Low Protein Content",
+            "Coarse Grade",
+            "Improved Crispiness",
+            "Neutral Taste",
+            "Creamy Texture",
+            "Inhibits Staling",
+            "Enhanced Crunchiness",
+            "Low Fat",
+            "Decreased Syneresis"
+        ],
+        "End Uses": [
+            "Ready Meals",
+            "Soups",
+            "Sauces",
+            "Breakfast Cereals",
+            "Confectionery Coatings",
+            "Snacks",
+            "Confectionery Products",
+            "Food Coatings",
+            "Dairy Products"
+        ]
+    }
+}

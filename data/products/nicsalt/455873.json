@@ -1,0 +1,38 @@
+{
+    "id": 455873,
+    "brand": "nicsalt",
+    "name": "Chemnovatic Salicylic Acid",
+    "slug": "chemnovatic-salicylic-acid",
+    "description": "Chemnovatic Salicylic Acid is a white or almost white crystalline powder with a melting point of 158.0 - 161.0°C. This acid is commonly found in fruits and vegetables and is used as a medicine. Its major application is in chemical manufacturing.\r\n",
+    "company_name": "Chemnovatic",
+    "company_slug": "chemnovatic",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704106944/production/Company/63320/logo/image",
+    "banner_url": "https://static.knowde.com/card-banners/knowde-card-for-raw-materials-8.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical Manufacturing",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Organic Acids",
+            "Intermediates"
+        ],
+        "Chemical Family": [
+            "Organic Acids"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Salicylic acid"
+        ],
+        "CAS Number": [
+            "69-72-7"
+        ],
+        "Purity (Assay)": [
+            "99.0 - 100.0 %"
+        ],
+        "Synonyms": [
+            "2-carboxyphenol, 2-hydroxybenzenecarboxylic acid, 2-hydroxybenzoic acid, o-Carboxyphenol, o-Hydroxybenzoic acid, Phenol-2-Carboxylic Acid"
+        ]
+    }
+}

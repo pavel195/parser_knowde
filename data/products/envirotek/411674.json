@@ -1,0 +1,37 @@
+{
+    "id": 411674,
+    "brand": "envirotek",
+    "name": "ISO-TEK™",
+    "slug": "iso-tek",
+    "description": "ISO-TEK™ is a high-purity decontaminant used in pharmaceutical, semiconductor, and aerospace fabrication environments for pre-assembly decontamination of parts and critical surfaces. Quick, residue-free drying.",
+    "company_name": "Formula Science",
+    "company_slug": "formula-science",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292345/production/Brand/32091/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515589/production/CategoryImage/1050/category_image/HII_02.jpg",
+    "properties": {
+        "Applications": [
+            "Home Care",
+            "Institutional & Industrial Care",
+            "Surface Care",
+            "Technical Cleaning"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Commercial Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner"
+        ],
+        "Application Areas": [
+            "Machine Parts",
+            "Electronic Components",
+            "Equipment"
+        ],
+        "Features": [
+            "Fast Drying",
+            "High Purity"
+        ]
+    }
+}

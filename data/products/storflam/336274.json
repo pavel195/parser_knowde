@@ -1,0 +1,34 @@
+{
+    "id": 336274,
+    "brand": "storflam",
+    "name": "Storflam® PMB 9522",
+    "slug": "storflam-pmb-9522",
+    "description": "Storflam® PMB 9522 has its applications in multi-purpose additive.",
+    "company_name": "Specialty Chemicals Lardello",
+    "company_slug": "specialty-chemicals-lardello",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708688092/production/Brand/24867/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607403/production/CategoryImage/516/category_image/ElectricalElectronics_01.jpg",
+    "properties": {
+        "Applications": [
+            "Other Automotive Applications",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Flame Retardants",
+            "Polymer Additives"
+        ],
+        "Chemical Family": [
+            "Borates",
+            "Boron-based Compounds"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Boron-based Compounds",
+            "Borates"
+        ],
+        "Functions": [
+            "Flame Retardant"
+        ]
+    }
+}

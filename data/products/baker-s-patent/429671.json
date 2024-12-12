@@ -1,0 +1,34 @@
+{
+    "id": 429671,
+    "brand": "baker-s-patent",
+    "name": "Genuine Stone Ground Heirloom Wheat Flour",
+    "slug": "genuine-stone-ground-heirloom-wheat-flour",
+    "description": "Genuine Stone Ground Heirloom Wheat Flour has a finer texture than traditional whole wheat. It is 100% genuine stone-ground and is ideal for cookies, biscuits, quick breads, pizza and more.\r\n",
+    "company_name": "Farmer Direct Foods",
+    "company_slug": "farmer-direct-foods",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1693581225/production/Product/429671/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606996/production/CategoryImage/508/category_image/FoodNutrition_09.jpg",
+    "properties": {
+        "Applications": [
+            "Bakery",
+            "Food"
+        ],
+        "Product Families": [
+            "Flours & Grains Products",
+            "Whole Foods, Extracts & Premixes"
+        ],
+        "End Uses": [
+            "Biscuits",
+            "Pizza",
+            "Cookies",
+            "Bread Products",
+            "Bread"
+        ],
+        "Labeling Claims": [
+            "Plant-Based",
+            "Naturally Derived",
+            "Natural"
+        ]
+    },
+    "summary": {}
+}

@@ -1,0 +1,46 @@
+{
+    "id": 401536,
+    "brand": "zerust",
+    "name": "Zerust® AxxaWash™ KF-124",
+    "slug": "zerust-axxawash-kf-124",
+    "description": "Zerust® AxxaWash™ KF-124 is a low foaming mildly alkaline aqueous-based cleaner with flash-rust inhibitors.",
+    "company_name": "Zerust Corrosion",
+    "company_slug": "zerust-corrosion",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292058/production/Brand/30585/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515657/production/CategoryImage/1056/category_image/HII_08.jpg",
+    "properties": {
+        "Applications": [
+            "Surface Care",
+            "Industrial Cleaning",
+            "Institutional & Industrial Care",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Industrial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner",
+            "Degreasers",
+            "Rust Removers",
+            "Alkaline Cleaners"
+        ],
+        "Application Areas": [
+            "Machine Parts"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Iron",
+            "Metal"
+        ],
+        "Certifications & Compliance": [
+            "ISO 9001"
+        ],
+        "Features": [
+            "Effective Soil Removal",
+            "Degreasing",
+            "Low Foaming"
+        ]
+    }
+}

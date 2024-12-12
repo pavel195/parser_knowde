@@ -1,0 +1,37 @@
+{
+    "id": 381072,
+    "brand": "agsoy",
+    "name": "AGSOY® RBD-Soybean Oil",
+    "slug": "agsoy-rbd-soybean-oil",
+    "description": "AGSOY® RBD-Soybean Oil is a 100% fully refined, bleached, and deodorized soybean oil. Careful bleaching assures oil with light color making it the oil of choice when AGSOY® is bottled for foodservice or retail distribution. Thorough refining and deodorization guarantee that AGSOY® will not mask the natural flavor profile of your food products. AGSOY® maintains excellent stability and is high in polyunsaturates making it the healthful choice when a liquid vegetable oil is preferred.",
+    "company_name": "Ag Processing",
+    "company_slug": "ag-processing",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686105021/production/Brand/28590/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608150/production/CategoryImage/545/category_image/AgricultureFeed_01.jpg",
+    "properties": {
+        "Applications": [
+            "Food",
+            "Bakery",
+            "Cereals & Snacks",
+            "Savory & Culinary",
+            "Cooking Oils & Fat Products"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Edible Oils & Fats"
+        ],
+        "End Uses": [
+            "Chips",
+            "Cooking Oil",
+            "Margarine",
+            "Packaged Salads",
+            "Mayonnaise",
+            "Shortening"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Soybean Oil"
+        ]
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "id": 249313,
+    "brand": "nutrigp",
+    "name": "SharpPS® Phosphatidyl Serine (70P)",
+    "slug": "sharpps-phosphatidyl-serine-70p",
+    "description": "SharpPS® Phosphatidyl Serine (70P) is a naturally occurring phospholipid that is consumed as part of a normal diet. Clinical studies indicate that supplemental phosphatidyl serine may be beneficial for memory loss conditions, cognitive performance, improving mood and learning disabilities. Phosphatidyl Serine has also been shown to improve the exercise experience, by demonstrating the ability to help with increasing the time to exhaustion, allowing for optimal utilization of training time; improving recovery following training; and also with reducing muscle soreness following training.",
+    "company_name": "NutriScience Innovations",
+    "company_slug": "nutriscience-innovations",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708689266/production/Product/249313/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708689266/production/Product/249313/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Sports Nutrition",
+            "Energy Drinks",
+            "Functional Foods",
+            "Nutraceuticals & Supplements",
+            "Beverage",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Fatty Acids, Specialty Lipids & Oils",
+            "Fatty Acids & Specialty Lipids",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Functional Foods",
+            "Functional Beverages",
+            "Dietary Supplements",
+            "Sports Nutrition"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Phosphatidyl Serine"
+        ],
+        "Functions": [
+            "Fatty Acid & Lipid",
+            "Supplement",
+            "Dietary Supplement"
+        ],
+        "Labeling Claims": [
+            "Kosher",
+            "Natural",
+            "Halal",
+            "Vegan"
+        ],
+        "Certifications & Compliance": [
+            "Halal",
+            "Kosher",
+            "Generally Recognized As Safe (GRAS)"
+        ],
+        "Benefit Claims (Health)": [
+            "Improves Cognitive Health"
+        ]
+    }
+}

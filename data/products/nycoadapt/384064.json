@@ -1,0 +1,75 @@
+{
+    "id": 384064,
+    "brand": "nycoadapt",
+    "name": "NYCOSIX 438",
+    "slug": "nycosix-438",
+    "description": "NYCO6 438 Nylon is general-purpose low viscosity injection-molding grade Nylon 6 that exhibits excellent melt fluidity, good toughness, stiffness, and strength.",
+    "company_name": "Nylon Corporation of America (NYCOA)",
+    "company_slug": "nylon-corporation-of-america-nycoa",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708529361/production/Brand/26603/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607471/production/CategoryImage/520/category_image/ElectricalElectronics_05.jpg",
+    "properties": {
+        "Applications": [
+            "Non-Food Consumer Packaging",
+            "Equipment & Parts",
+            "Terminal Blocks, Plugs & Sockets",
+            "Other Parts & Components",
+            "Consumer Electronics",
+            "Sports & Recreation",
+            "Appliances & Electronics",
+            "Pipes & Plumbing",
+            "Powertrain & UTH",
+            "Aftermarket Parts & Components",
+            "Automotive",
+            "Building Materials",
+            "Devices & Assemblies",
+            "Parts & Components",
+            "Chemical & Industrial Manufacturing",
+            "Packaging"
+        ],
+        "Product Families": [
+            "Polyamides",
+            "Engineering & Specialty Polymers"
+        ],
+        "Chemical Family": [
+            "Polyamides"
+        ],
+        "Polymer Name": [
+            "Polyamide 6 (PA 6)"
+        ],
+        "End Uses": [
+            "Side Spoiler",
+            "Shrouds",
+            "Front Spoiler",
+            "Fans",
+            "Toys",
+            "Radiator End Caps",
+            "Plugs",
+            "Housings",
+            "General Purpose",
+            "Gears",
+            "Fittings",
+            "Fasteners",
+            "Engine Covers",
+            "Electrical/Electronic Applications",
+            "Caps",
+            "Bearings",
+            "Automotive Under The Hood"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyamide 6 (PA 6)"
+        ],
+        "Processing Methods": [
+            "Injection Molding"
+        ],
+        "Additives Included": [
+            "Nucleating Agent",
+            "Lubricant (Unspecified)"
+        ],
+        "Flexural Modulus": [
+            "2652.65 - 2652.65 MPa"
+        ]
+    }
+}

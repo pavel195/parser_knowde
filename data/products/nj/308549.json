@@ -1,0 +1,34 @@
+{
+    "id": 308549,
+    "brand": "nj",
+    "name": "NJ 219A",
+    "slug": "nj-219a",
+    "description": "NJ 219A can be used to produce coatings, adhesives, sealants, elastomers, etc.",
+    "company_name": "Jurong Ningwu New Material Development",
+    "company_slug": "jurong-ningwu-new-material-development",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686148498/production/Product/308549/logo/image",
+    "banner_url": "https://static.knowde.com/card-banners/knowde-card-for-raw-materials-8.jpg",
+    "properties": {
+        "Applications": [
+            "Other Adhesives & Sealants Applications",
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Monomers & Intermediates",
+            "Prepolymers & Polyols"
+        ],
+        "Chemical Family": [
+            "Polyols",
+            "Polyols (Polyether)"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Polyols",
+            "Polyols (Polyether)"
+        ],
+        "Hydroxyl Value": [
+            "58.5 - 60.5 mg KOH/g"
+        ]
+    }
+}

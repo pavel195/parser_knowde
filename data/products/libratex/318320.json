@@ -1,0 +1,56 @@
+{
+    "id": 318320,
+    "brand": "libratex",
+    "name": "Libratex DOS70K",
+    "slug": "libratex-dos70k",
+    "description": "Libratex DOS70K is a solution containing 70% di-octylsulphosuccinate in odorless kerosene. This product is insoluble in water but has a wide range of applications in oil and solvent systems. As an anionic substance, Libratex DOS70K is compatible with both anionic and nonionic surfactants. It is particularly valuable in agricultural formulations, where it aids in the emulsification of oils and solvents. Additionally, it finds use in lubricants, dispersants, and paints, offering excellent wetting abilities and oil solubility, enhancing performance in these applications.\r\n",
+    "company_name": "Libra Speciality Chemicals",
+    "company_slug": "libra-speciality-chemicals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1624014050/production/Product/318320/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1696607072/production/Company/19248/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Fluids & Lubricants",
+            "Chemical Manufacturing",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Stickers, Surfactants & Wetting Agents",
+            "Oilfield & Transport Chemicals",
+            "Inorganics",
+            "Adjuvants & Formulation Ingredients",
+            "Technical Salts & Inorganics",
+            "Oil, Gas & Mining Chemicals"
+        ],
+        "Chemical Family": [
+            "Sulfonates",
+            "Fatty Acid Esters"
+        ],
+        "End Uses": [
+            "Paints",
+            "Lubricants",
+            "Dispersants",
+            "Oil & Gas Applications"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Docusate sodium"
+        ],
+        "Functions": [
+            "Surfactant",
+            "Surfactant (Nonionic)",
+            "Surfactant (Anionic)"
+        ],
+        "CAS Number": [
+            "577-11-7"
+        ],
+        "Chemical Family": [
+            "Fatty Acid Esters",
+            "Sulfonates"
+        ],
+        "Synonyms": [
+            "Dioctyl Sodium Sulfosuccinate, Dioctyl Sulfosuccinate"
+        ]
+    }
+}

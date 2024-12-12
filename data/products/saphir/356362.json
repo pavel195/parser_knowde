@@ -1,0 +1,60 @@
+{
+    "id": 356362,
+    "brand": "saphir",
+    "name": "SAPHIR® AS",
+    "slug": "saphir-as",
+    "description": "SAPHIR® AS, is an antistatic coated polycarbonate sheet with a unique protection against electrostatic charging.",
+    "company_name": "Arla Plast A B",
+    "company_slug": "arla-plast-a-b",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686149782/production/Brand/26526/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608769/production/CategoryImage/577/category_image/AutomotiveTransportation_05.jpg",
+    "properties": {
+        "Applications": [
+            "Exterior & Body",
+            "Glazing & Window Elements",
+            "Building Envelope & Roofing",
+            "Chemical & Industrial Manufacturing",
+            "Automotive",
+            "Other Industrial Applications",
+            "Building Envelope"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Polycarbonate (PC)"
+        ],
+        "Polymer Name": [
+            "Polycarbonate (PC)"
+        ],
+        "End Uses": [
+            "Automotive Under The Hood",
+            "Glazing"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polycarbonate (PC)"
+        ],
+        "Physical Form": [
+            "Sheets"
+        ],
+        "Features": [
+            "ESD Protection",
+            "Anti-Static",
+            "Flame Resistant",
+            "Excellent Transparency Properties",
+            "Improved Optical Clarity",
+            "Good Optical Properties",
+            "Good Impact Strength",
+            "Impact Resistance",
+            "Dust-Free"
+        ],
+        "Density": [
+            "1200.0 - 1200.0 kg/m³"
+        ],
+        "Tensile Modulus": [
+            "2300.0 - 2300.0 MPa"
+        ]
+    }
+}

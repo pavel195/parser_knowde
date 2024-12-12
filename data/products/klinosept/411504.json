@@ -1,0 +1,49 @@
+{
+    "id": 411504,
+    "brand": "klinosept",
+    "name": "KLINTENSIV® Ready-to-use surface disinfectan",
+    "slug": "klintensiv-ready-to-use-surface-disinfectan",
+    "description": "Klintensiv® Surface Disinfectant is a solution with detergent and disinfectant properties, without aldehydes, with a wide spectrum of biocidal action, created according to the regulations of the harmonized European norms on disinfection. The active substances are quaternary ammonium salts.",
+    "company_name": "Klintensiv SRL",
+    "company_slug": "klintensiv-srl",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292413/production/Brand/32047/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515647/production/CategoryImage/1055/category_image/HII_07.jpg",
+    "properties": {
+        "Applications": [
+            "Surface Care",
+            "Industrial Cleaning",
+            "Institutional & Catering",
+            "Food & Beverage Manufacturing",
+            "Food Facility Cleaning & Sanitization",
+            "Processing & Packaging",
+            "Institutional & Industrial Care",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Industrial Cleaners",
+            "Commercial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Sanitizers",
+            "Institutional Cleaners",
+            "Disinfectant Products",
+            "Cleaner"
+        ],
+        "Application Areas": [
+            "Hard Surfaces",
+            "Equipment",
+            "Immersion Cleaner"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Plastics",
+            "Ceramic",
+            "Glass",
+            "Wood",
+            "Stainless Steel"
+        ]
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "id": 405360,
+    "brand": "supergreen",
+    "name": "NuGenTec NuGenTec HDS 90",
+    "slug": "nugentec-nugentec-hds-90",
+    "description": "NuGenTec NuGenTec HDS 90 is used in parts cabinet washing - high pressure spray cleaning of fabricated metals, parts cleaning, metal finishing and solvent free degreasing.",
+    "company_name": "NuGenTec",
+    "company_slug": "nugentec",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1672225342/production/Company/9259/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515684/production/CategoryImage/1058/category_image/HII_10.jpg",
+    "properties": {
+        "Applications": [
+            "Institutional & Industrial Care",
+            "Surface Care",
+            "Industrial Cleaning",
+            "Institutional & Catering",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Industrial Cleaners",
+            "Commercial Cleaners",
+            "Cleaners"
+        ],
+        "End Uses": [
+            "Cabinetry",
+            "Machine Parts"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Alkaline Cleaners",
+            "Cleaner",
+            "Degreasers"
+        ],
+        "Certifications & Compliance": [
+            "California Proposition 65",
+            "ISO 14001",
+            "ISO 9001"
+        ],
+        "Application Areas": [
+            "Cabinetry",
+            "Machine Parts"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Plastics",
+            "Metal",
+            "Aluminum",
+            "Stainless Steel",
+            "Steel"
+        ],
+        "Features": [
+            "Non-Foaming",
+            "Degreasing",
+            "Carbon Deposits Removing",
+            "Biodegradable",
+            "Effective Soil Removal",
+            "Cost Effective"
+        ]
+    }
+}

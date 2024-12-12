@@ -1,0 +1,35 @@
+{
+    "id": 409846,
+    "brand": "esnalube",
+    "name": "EVERLUBE® 9005",
+    "slug": "everlube-9005",
+    "description": "Everlube® 9005 is a MoS2 based solid film lubricant with an epoxy binder system. Everlube® 9005 is Lead &amp; Antimony free.",
+    "company_name": "Everlube Products",
+    "company_slug": "everlube-products",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680108695/production/Brand/31767/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Military & Defense",
+            "Other Military & Defense Applications",
+            "Chemical & Industrial Manufacturing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Lubricants & Oils",
+            "Fluids & Lubricants"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Industrial Lubricants",
+            "Dry Lubricants"
+        ],
+        "Features": [
+            "Corrosion Resistant",
+            "Good Thermal Stability",
+            "Low Friction",
+            "Low VOC"
+        ]
+    }
+}

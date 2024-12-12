@@ -1,0 +1,36 @@
+{
+    "id": 368640,
+    "brand": "bio-cosmos",
+    "name": "ARDA NATURA WATER OF CENTELLA PE 010630",
+    "slug": "arda-natura-water-of-centella-pe-010630",
+    "description": "Water of Centella PE is a distilled water extracted from Centella Flowers used in hair and skin applications.",
+    "company_name": "ARDA NATURA",
+    "company_slug": "arda-natura",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664291365/production/Company/42621/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515751/production/CategoryImage/1063/category_image/PersonalCare_05.jpg",
+    "properties": {
+        "Applications": [
+            "Beauty & Care",
+            "Hair Care",
+            "Skin Care"
+        ],
+        "Product Families": [
+            "Vitamins, Extracts & Oils",
+            "Hydrosols & Waters"
+        ],
+        "Chemical Family": [
+            "Botanical Derivatives"
+        ]
+    },
+    "summary": {
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Plant Origin",
+            "Non-Animal Origin"
+        ],
+        "Labeling Claims": [
+            "Plant-Based",
+            "Naturally Derived"
+        ]
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "id": 428373,
+    "brand": "citricut",
+    "name": "CitriCut® PC22471GL",
+    "slug": "citricut-pc22471gl",
+    "description": "CitriCut® PC22471GL is a citrus based cleaner concentrate providing a wide range of airframe and aircraft cleaning capabilities. it is used to clean heavy build-up soil conditions on aircraft wheel wells and bellies, and exterior painted and metal surfaces. It can be used for periodic cleaning of exterior surfaces, debugging and more.",
+    "company_name": "Nuvite Chemical Compounds",
+    "company_slug": "nuvite-chemical-compounds",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1682593274/production/Brand/33984/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515657/production/CategoryImage/1056/category_image/HII_08.jpg",
+    "properties": {
+        "Applications": [
+            "Institutional & Industrial Care",
+            "Industrial Cleaning",
+            "Institutional & Catering",
+            "Vehicle & Machinery"
+        ],
+        "Product Families": [
+            "Industrial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner",
+            "Degreasers"
+        ],
+        "Application Area": [
+            "Hard Surfaces",
+            "Wheel",
+            "Aircraft"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Painted Surfaces",
+            "Metal"
+        ],
+        "Features": [
+            "Heavy Duty",
+            "High Performance",
+            "Effective Soil Removal",
+            "Degreasing",
+            "Cost Effective"
+        ]
+    }
+}

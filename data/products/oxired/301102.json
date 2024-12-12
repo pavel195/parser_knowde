@@ -1,0 +1,59 @@
+{
+    "id": 301102,
+    "brand": "oxired",
+    "name": "OXIRED® MR50",
+    "slug": "oxired-mr50",
+    "description": "OXIRED® MR50 is multi-purpose excellent value pigment.",
+    "company_name": "ORM OXIDOS ROJOS DE MALAGA",
+    "company_slug": "orm-oxidos-rojos-de-malaga",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708522126/production/Company/24280/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608769/production/CategoryImage/577/category_image/AutomotiveTransportation_05.jpg",
+    "properties": {
+        "Applications": [
+            "Shingles & Tiles",
+            "Other Industrial Coatings",
+            "Other Industrial Applications",
+            "Roof Shingles & Tiles",
+            "Marine Coatings",
+            "Marine",
+            "Transportation",
+            "Roofing",
+            "Chemical & Industrial Manufacturing",
+            "Automotive & Transportation",
+            "Industrial Coatings",
+            "Building Envelope & Roofing"
+        ],
+        "Product Families": [
+            "Inorganic Pigments",
+            "Color Pigments",
+            "Pigments & Colorants"
+        ],
+        "Chemical Family": [
+            "Iron & Iron Compounds",
+            "Iron Oxides"
+        ],
+        "End Uses": [
+            "Electronics",
+            "Primer"
+        ]
+    },
+    "summary": {
+        "Color": [
+            "Red"
+        ],
+        "Pigment Type": [
+            "Inorganic Pigments"
+        ],
+        "Chemical Family": [
+            "Iron Oxides",
+            "Iron & Iron Compounds"
+        ],
+        "End Uses": [
+            "Primer",
+            "Electronics"
+        ],
+        "Particle Size": [
+            "47.0 - 47.0 microns"
+        ]
+    }
+}

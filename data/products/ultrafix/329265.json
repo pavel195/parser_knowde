@@ -1,0 +1,50 @@
+{
+    "id": 329265,
+    "brand": "ultrafix",
+    "name": "Ultrafix SB5 plus",
+    "slug": "ultrafix-sb5-plus",
+    "description": "Saati Chemicals Ultrafix SB5 Plus is a 2-part frame adhesive.",
+    "company_name": "Saati Americas Corp.",
+    "company_slug": "saati-americas-corp",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680110781/production/Brand/23750/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Textiles & Nonwovens",
+            "Printing & Inks",
+            "Leather & Textiles",
+            "Screen Printing",
+            "Textile Coatings & Inks",
+            "Textile Manufacturing"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Contact Adhesives"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Contact Adhesive",
+            "2K (2 component) Adhesive"
+        ],
+        "Application Area": [
+            "Textiles"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Aluminum",
+            "Metal",
+            "Steel",
+            "Wood",
+            "Iron"
+        ],
+        "Application Method": [
+            "Brush"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ]
+    }
+}

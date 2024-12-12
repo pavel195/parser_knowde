@@ -1,0 +1,54 @@
+{
+    "id": 402973,
+    "brand": "rtx-9",
+    "name": "RTX 9™ Turbo",
+    "slug": "rtx-9-turbo",
+    "description": "RTX 9™ Turbo has the cleaning performance and versatility to replace multiple cleaners.RTX 9™ Turbo is a all-purpose heavy duty cleaner-degreaser.",
+    "company_name": "Bradley Systems",
+    "company_slug": "bradley-systems",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292173/production/Brand/30778/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515589/production/CategoryImage/1050/category_image/HII_02.jpg",
+    "properties": {
+        "Applications": [
+            "Auto Care",
+            "Carpet & Upholstery",
+            "Surface Care",
+            "Industrial Cleaning",
+            "Institutional & Catering",
+            "Institutional & Industrial Care",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Other Cleaners",
+            "Industrial Cleaners",
+            "Commercial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Automotive Cleaners",
+            "Cleaner",
+            "Bug Cleaner",
+            "Degreasers",
+            "Industrial Cleaners",
+            "Spot Removers"
+        ],
+        "Application Areas": [
+            "Car",
+            "Truck",
+            "Wheel",
+            "Equipment",
+            "Engine",
+            "Ovens",
+            "Floor",
+            "Carpets"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Plastics"
+        ],
+        "Features": [
+            "Heavy Duty"
+        ]
+    }
+}

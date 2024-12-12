@@ -1,0 +1,39 @@
+{
+    "id": 375372,
+    "brand": "pidolin",
+    "name": "PIDOLin® PCa",
+    "slug": "pidolin-pca",
+    "description": "PIDOLin® PCa is a precursor of Arginine and Proline in the intestinal cell.",
+    "company_name": "DIETAXION",
+    "company_slug": "dietaxion",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686132056/production/Brand/28156/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608173/production/CategoryImage/547/category_image/AgricultureFeed_03.jpg",
+    "properties": {
+        "Applications": [
+            "Animal Health & Nutrition",
+            "Ruminants",
+            "Swine",
+            "Birds & Poultry"
+        ],
+        "Product Families": [
+            "Nutritional Ingredients",
+            "Minerals"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Calcium Pidolate"
+        ],
+        "Features": [
+            "Improves Body Weight Gain",
+            "Improves Consistency of Litter",
+            "Improves Hatchability",
+            "Improves Bone Growth & Strength",
+            "Maintaining Egg Production",
+            "Improved Milk Yield",
+            "Reduces Skeletal Problems",
+            "Improves Bone Mineralization",
+            "Strengthens Egg Shells"
+        ]
+    }
+}

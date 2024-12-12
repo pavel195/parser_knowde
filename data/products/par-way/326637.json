@@ -1,0 +1,38 @@
+{
+    "id": 326637,
+    "brand": "par-way",
+    "name": "Bak-klene® Cake Masters",
+    "slug": "bak-klene-cake-masters",
+    "description": "Bak-klene® Cake Masters isA blend of Soybean Oil, Starch and Flavor for high sugar ratio cake and muffin formulas.Provides a uniform release even on the most difficult doughs.",
+    "company_name": "Par-Way Tryson",
+    "company_slug": "par-way-tryson",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708686764/production/Company/31045/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606996/production/CategoryImage/508/category_image/FoodNutrition_09.jpg",
+    "properties": {
+        "Applications": [
+            "Bakery",
+            "Food"
+        ],
+        "Product Families": [
+            "Processing Aids",
+            "Functional Additives"
+        ],
+        "End Uses": [
+            "Cakes",
+            "Muffins"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Cake Mix"
+        ],
+        "Functions": [
+            "Release Agent",
+            "Anti-Sticking Agent"
+        ],
+        "End Uses": [
+            "Muffins",
+            "Cakes"
+        ]
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "id": 332312,
+    "brand": "cran-d-or",
+    "name": "Artemis International Milled Cranberry Fiber",
+    "slug": "artemis-international-milled-cranberry-fiber",
+    "description": "Milled Cranberry Fiber is a Pure cranberry pomace; dried, milled, and sifted into powder.",
+    "company_name": "Artemis International",
+    "company_slug": "artemis-international",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686104189/production/Company/32513/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606846/production/CategoryImage/500/category_image/FoodNutrition_01.jpg",
+    "properties": {
+        "Applications": [
+            "Nutrition & Well Being",
+            "Functional Foods"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Fruit Products & Extracts"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Cranberry Extract Powder"
+        ],
+        "Physical Form": [
+            "Powder",
+            "Solid"
+        ],
+        "Labeling Claims": [
+            "Vegan",
+            "Plant-Based",
+            "Allergen-free",
+            "Solvent-free",
+            "Non-GMO",
+            "Kosher",
+            "Gluten-free",
+            "Naturally Derived",
+            "BSE-free",
+            "TSE-free"
+        ],
+        "Certifications & Compliance": [
+            "Kosher",
+            "Generally Recognized As Safe (GRAS)"
+        ],
+        "Features": [
+            "Reduction in Cholesterol",
+            "Stimulates Immune System",
+            "Promotes Oral Health"
+        ]
+    }
+}

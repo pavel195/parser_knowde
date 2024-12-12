@@ -1,0 +1,66 @@
+{
+    "id": 121505,
+    "brand": "sulf-n",
+    "name": "Aegis® H135ZP",
+    "slug": "advansix-aegis-h135zp",
+    "description": "Aegis® H135ZP resin is a high-viscosity nylon 6 extrusion grade homopolymer for cast or blown film applications. It offers a combination of strength, toughness and thermoforming properties as well as excellent heat, chemical and abrasion resistance.",
+    "company_name": "AdvanSix",
+    "company_slug": "advansix",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697438354/production/Company/4618/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1612956914/production/Product/121505/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Food & Beverage Packaging",
+            "Industrial & Transport Packaging",
+            "Other Consumer Goods Applications",
+            "Sports & Recreation",
+            "Processing & Packaging",
+            "Packaging"
+        ],
+        "Product Families": [
+            "Polyamides",
+            "Engineering & Specialty Polymers"
+        ],
+        "Chemical Family": [
+            "Polyamides"
+        ],
+        "Polymer Name": [
+            "Polyamide 6 (PA 6)"
+        ],
+        "End Uses": [
+            "Door Profiles",
+            "Profiles",
+            "Stretch Films",
+            "Shrink Wrap",
+            "Food Packaging",
+            "Form Fill Seal Packaging",
+            "Film",
+            "Netting",
+            "Tubing",
+            "Balloons",
+            "Book Covers",
+            "Retort Pouches",
+            "Pouches Flexible Packaging",
+            "Monofilaments",
+            "Flexible Packaging",
+            "Cast Films"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyamide 6 (PA 6)"
+        ],
+        "Processing Methods": [
+            "Blow Molding",
+            "Extrusion",
+            "Film Extrusion",
+            "Thermoforming",
+            "Profile Extrusion",
+            "Blown Film Extrusion",
+            "Compounding"
+        ],
+        "Flexural Modulus:": [
+            "2610.0 - 2610.0 MPa"
+        ]
+    }
+}

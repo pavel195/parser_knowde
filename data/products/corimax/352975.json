@@ -1,0 +1,42 @@
+{
+    "id": 352975,
+    "brand": "corimax",
+    "name": "Corimax® Red HF3C",
+    "slug": "corimax-red-hf3c",
+    "description": "Corimax Red HF3C belongs to Benzimidazolones Chemical Class and Offset Ink Category.",
+    "company_name": "ZEYA Chemicals (Haimen) Co., Ltd.",
+    "company_slug": "zeya-chemicals-haimen-co-ltd",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708517011/production/Brand/26321/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609103/production/CategoryImage/595/category_image/PrintingPackaging_06.jpg",
+    "properties": {
+        "Applications": [
+            "Offset & Lithographic Printing",
+            "Printing & Inks"
+        ],
+        "Product Families": [
+            "Organic Pigments",
+            "Color Pigments",
+            "Pigments & Colorants"
+        ],
+        "Chemical Family": [
+            "Azo Compounds"
+        ],
+        "End Uses": [
+            "Offset Ink"
+        ]
+    },
+    "summary": {
+        "Color": [
+            "Red"
+        ],
+        "Pigment Type": [
+            "Organic Pigments"
+        ],
+        "Chemical Family": [
+            "Azo Compounds"
+        ],
+        "End Uses": [
+            "Offset Ink"
+        ]
+    }
+}

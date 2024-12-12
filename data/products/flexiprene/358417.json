@@ -1,0 +1,37 @@
+{
+    "id": 358417,
+    "brand": "flexiprene",
+    "name": "Polymeric Systems PSI-75",
+    "slug": "polymeric-systems-psi-75",
+    "description": "Polymeric Systems PSI-75 is an epoxy based solution used as a primer in professional application of PSI polysulfide and silicone sealants on porous and non-porous substrates.",
+    "company_name": "Polymeric Systems",
+    "company_slug": "polymeric-systems",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664290897/production/Company/41294/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608953/production/CategoryImage/586/category_image/AdhesivesSealants_03.jpg",
+    "properties": {
+        "Applications": [
+            "Other Adhesives & Sealants Applications"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Primer",
+            "2K (2 component) Coating"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Steel",
+            "Ceramic",
+            "Concrete",
+            "Plastics"
+        ],
+        "Application Method": [
+            "Roller",
+            "Brush"
+        ]
+    }
+}

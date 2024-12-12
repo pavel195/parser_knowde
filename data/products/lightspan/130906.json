@@ -1,0 +1,28 @@
+{
+    "id": 130906,
+    "brand": "lightspan",
+    "name": "NuSil™ CV-1142",
+    "slug": "nusil-cv-1142",
+    "description": "NuSil™ CV-1142 is a non-corrosive controlled volatility RTV silicone adhesive/sealant.",
+    "company_name": "NuSil Technology",
+    "company_slug": "nusil-technology",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697221147/production/Company/1345/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1697221147/production/Company/1345/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Adhesives & Sealants",
+            "Appliances & Electronics",
+            "Fillers, Levellers & Joints",
+            "Flooring & Surfaces",
+            "Packaging & Assembly"
+        ],
+        "Product Families": [
+            "Encapsulants",
+            "Adhesives & Sealants"
+        ],
+        "Chemical Family": [
+            "Silicones"
+        ]
+    },
+    "summary": {}
+}

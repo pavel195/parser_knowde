@@ -1,0 +1,37 @@
+{
+    "id": 274034,
+    "brand": "bas",
+    "name": "BAM 208 WSX-55",
+    "slug": "bam-208-wsx-55",
+    "description": "BAM 208 WSX-55 is a medium oil alkyd resin based on soybean oil fatty acid which offers very good hardness, surface and deep drying and adhesion and excellent gloss and gloss retention.",
+    "company_name": "Bonyan Kala Chemie",
+    "company_slug": "bonyan-kala-chemie",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691739721/production/Company/20956/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608454/production/CategoryImage/560/category_image/BuildingConstruction_04.jpg",
+    "properties": {
+        "Applications": [
+            "Furniture",
+            "Appliances & Electronics",
+            "Vehicle Refinish",
+            "Automotive OEM Coatings",
+            "Infrastructure, Roads & Paving",
+            "Industrial Coatings",
+            "Furniture Coatings",
+            "Appliances & Consumer Goods",
+            "Coatings & Markings",
+            "Body Shop & Repair",
+            "Bonding & Assembly",
+            "Coatings & Finishes",
+            "Automotive & Transportation",
+            "Building & Construction"
+        ],
+        "Product Families": [
+            "Alkyds",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Alkyds (Medium Oil)"
+        ]
+    },
+    "summary": {}
+}

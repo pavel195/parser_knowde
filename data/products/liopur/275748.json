@@ -1,0 +1,47 @@
+{
+    "id": 275748,
+    "brand": "liopur",
+    "name": "SYNTHOESTER W 142",
+    "slug": "synthoester-w-142",
+    "description": "Waterborne, cyclo-Aliphatic, polyester resin containing hydroxyl groups",
+    "company_name": "Synthopol",
+    "company_slug": "synthopol",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112302/production/Company/22068/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608630/production/CategoryImage/571/category_image/PaintingsCoatings_07.jpg",
+    "properties": {
+        "Applications": [
+            "Coatings & Finishes",
+            "Automotive & Transportation",
+            "Industrial Coatings",
+            "Automotive OEM Coatings",
+            "Metal Coatings"
+        ],
+        "Product Families": [
+            "Polyesters",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Polyesters"
+        ],
+        "End Uses": [
+            "Top Coat"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Polyesters"
+        ],
+        "End Uses": [
+            "Top Coat"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Glass",
+            "Metal",
+            "Plastics"
+        ],
+        "Features": [
+            "Weather Resistance",
+            "Chemical Resistance"
+        ]
+    }
+}

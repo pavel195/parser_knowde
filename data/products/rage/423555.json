@@ -1,0 +1,35 @@
+{
+    "id": 423555,
+    "brand": "rage",
+    "name": "RAGE™",
+    "slug": "rage",
+    "description": "RAGE™ is an environmentally friendly, user safe and a non-hazardous concrete remover. It is the strongest among our non-hazardous concrete removers that we have to offer. This product works wonders on even the toughest jobs. Product quantity sold in 5 Gallons, 15 Gallons, 30 Gallons, 55 Gallons, 275 Gallons.",
+    "company_name": "Ankem of Texas, inc.",
+    "company_slug": "ankem-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292767/production/Product/423555/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1664292767/production/Product/423555/card_banner/image.png",
+    "properties": {
+        "Applications": [
+            "Institutional & Industrial Care",
+            "Industrial Cleaning"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Industrial Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner",
+            "Rust Removers"
+        ],
+        "Application Areas": [
+            "Masonry",
+            "Equipment",
+            "Concrete Cleaner"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Concrete"
+        ]
+    }
+}

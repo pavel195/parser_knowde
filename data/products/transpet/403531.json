@@ -1,0 +1,28 @@
+{
+    "id": 403531,
+    "brand": "transpet",
+    "name": "TRANSPROP® HS1LSI-F",
+    "slug": "transprop-hs1lsi-f",
+    "description": "TRANSPROP® HS1LSI-F is a clear heat sealable one side polypropylene, ultra-low seal initiation, high energy treatment on the non-sealable side",
+    "company_name": "Transcendia",
+    "company_slug": "transcendia",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709127757/production/Brand/30871/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609128/production/CategoryImage/597/category_image/PrintingPackaging_08.jpg",
+    "properties": {
+        "Applications": [
+            "Food & Beverage Packaging",
+            "Packaging"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ]
+    },
+    "summary": {
+        "Features": [
+            "Slip",
+            "Uniform Distribution",
+            "Heat Sealable",
+            "Good Optical Properties"
+        ]
+    }
+}

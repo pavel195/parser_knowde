@@ -1,0 +1,35 @@
+{
+    "id": 381070,
+    "brand": "agsoy",
+    "name": "Ag Processing Soybean Meal",
+    "slug": "ag-processing-soybean-meal",
+    "description": "Ag Processing Soybean Meal is a high protein feed ingredient. Soybean meal is also utilized as feed in aquaculture operations.",
+    "company_name": "Ag Processing",
+    "company_slug": "ag-processing",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708689401/production/Company/46008/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608150/production/CategoryImage/545/category_image/AgricultureFeed_01.jpg",
+    "properties": {
+        "Applications": [
+            "Aquaculture",
+            "Ruminants",
+            "Birds & Poultry",
+            "Swine",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Whole Foods & Extracts",
+            "Formulated Feeds, Whole Foods and Extracts"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Soybean Meal"
+        ],
+        "Features": [
+            "High Protein Content"
+        ],
+        "Functions": [
+            "Whole Food Ingredient"
+        ]
+    }
+}

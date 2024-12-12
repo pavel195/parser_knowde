@@ -1,0 +1,78 @@
+{
+    "id": 389920,
+    "brand": "kodak-estar",
+    "name": "KODAK ESTAR™ HIGHLY CONDUCTIVE (HCF) FILMS 6RF1-922T",
+    "slug": "kodak-estar-highly-conductive-hcf-films-6rf1-922t",
+    "description": "KODAK ESTAR™ HIGHLY CONDUCTIVE (HCF) FILMS 6RF1-922T is an optically clear and highly conductive flexible film. It is a high-quality polyester film (PET) featuring a proprietary conductive polymer (PEDOT/PSS) coated in-line during the manufacturing process.",
+    "company_name": "Kodak Specialty Chemicals",
+    "company_slug": "kodak-specialty-chemicals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686150417/production/Brand/29336/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607454/production/CategoryImage/519/category_image/ElectricalElectronics_04.jpg",
+    "properties": {
+        "Applications": [
+            "Parts & Components",
+            "Medical",
+            "Interior",
+            "Automotive Electronics",
+            "Consumer Electronics",
+            "Displays",
+            "Medical Devices & Assemblies",
+            "Military & Defense",
+            "Advanced Materials",
+            "Other Industrial Applications",
+            "Packaging",
+            "Industrial & Transport Packaging",
+            "Non-Food Consumer Packaging",
+            "Aerospace & Aviation",
+            "Devices & Assemblies",
+            "Chemical & Industrial Manufacturing",
+            "Transportation",
+            "Automotive",
+            "Sensors & Actuators",
+            "Switches & Relays",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Polyesters"
+        ],
+        "Polymer Name": [
+            "Polyester (unspecified)"
+        ],
+        "End Uses": [
+            "Medical Devices",
+            "Film",
+            "Industrial Applications",
+            "Appliances",
+            "Soft Touch Applications",
+            "Aerospace Applications",
+            "Membrane Touch Switches",
+            "Military Applications"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyester (unspecified)"
+        ],
+        "Physical Form": [
+            "Film"
+        ],
+        "Features": [
+            "High Light Transmission",
+            "Cost Effective",
+            "Flexible",
+            "Consistent High Quality",
+            "Dimensional Stability",
+            "Soft Touch",
+            "Conductive",
+            "Low Haze",
+            "Uniform Distribution",
+            "High Resilience"
+        ],
+        "Color": [
+            "Transparent"
+        ]
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "id": 417846,
+    "brand": "pecobead-150",
+    "name": "RM-1012™",
+    "slug": "rm-1012",
+    "description": "RM-1012™ is a Low End Rheological Modifier is a high efficiency viscosity modifier/booster for all invert fluids, including synthetics RM-1012™ enhances rheology and stability of both invert and all-oil drilling fluids, with an emphasis on low end rheology increase. This allows LEM to provide excellent anti-settling properties for stored fluids and low end modification for fluids requiring low shear viscosity.",
+    "company_name": "Prime Eco Group",
+    "company_slug": "prime-eco-group",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672540/production/Brand/32688/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Exploration & Upstream",
+            "Oil, Gas & Mining"
+        ],
+        "Product Families": [
+            "Oilfield & Transport Chemicals",
+            "Oil, Gas & Mining Chemicals"
+        ],
+        "End Uses": [
+            "Oil & Gas Applications"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Rheology Modifier"
+        ],
+        "End Uses": [
+            "Oil & Gas Applications"
+        ],
+        "Applicable Processes": [
+            "Drilling Applications"
+        ],
+        "Features": [
+            "Anti-Settling",
+            "Stability Booster",
+            "Low Shear Viscosity",
+            "Improved Rheology"
+        ]
+    }
+}

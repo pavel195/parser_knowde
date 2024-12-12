@@ -1,0 +1,30 @@
+{
+    "id": 392808,
+    "brand": "aurorared",
+    "name": "AuroraGreen®",
+    "slug": "auroragreen",
+    "description": "AuroraGreen® is a proprietary whole herb blend of hand-harvested plants in the flowering phase. The plants are gently dried by Refractance Window® drying to preserve their bioactive constituents, while naturally minimizing the microbial count, so often associated with using roots in a herb product.",
+    "company_name": "Denali BioTechnologies",
+    "company_slug": "denali-biotechnologies",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686109529/production/Company/48863/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606984/production/CategoryImage/507/category_image/FoodNutrition_08.jpg",
+    "properties": {
+        "Applications": [
+            "Food",
+            "Other Food Applications"
+        ],
+        "Product Families": [
+            "Taste & Flavor",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements",
+            "Phytochemicals",
+            "Spices, Herbs & Seasonings",
+            "Phytochemicals & Plant Extracts"
+        ]
+    },
+    "summary": {
+        "Active Component": [
+            "Flavones"
+        ]
+    }
+}

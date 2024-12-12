@@ -1,0 +1,61 @@
+{
+    "id": 77983,
+    "brand": "phytoplenolin",
+    "name": "Bio-Botanica Pomegranate In Glycerin",
+    "slug": "bio-botanica-pomegranate-in-glycerin-in-glycerin",
+    "description": "Pomegranate is a natural extract of the fruit of Punica Granatum. Pomegranate is an antioxidant that contains vitamins A, C and E and is also a good source for folic acid. Topical application of pomegranate has anti-aging, anti-acne and healing properties. It can be used in a variety of lotions, body washes, facial cleansers and in many other types of applications.",
+    "company_name": "Bio-Botanica",
+    "company_slug": "bio-botanica",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1720551958/production/Company/1158/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1720551958/production/Company/1158/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Bath & Shower",
+            "Skin Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Skin Actives",
+            "Botanical Ingredients & Extracts",
+            "Cosmetic Actives",
+            "Vitamins, Extracts & Oils"
+        ],
+        "Chemical Family": [
+            "Botanical Extracts"
+        ],
+        "INCI Name": [
+            "Punica Granatum Fruit Juice"
+        ],
+        "End Uses": [
+            "Body Wash",
+            "Facial Cleanser"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Punica Granatum Fruit Juice"
+        ],
+        "Functions": [
+            "Anti-Acne Agent",
+            "Anti-Aging Agent",
+            "Antioxidant",
+            "Healing Agent"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Plant Origin"
+        ],
+        "Labeling Claims": [
+            "Ulta Beauty's Conscious Beauty",
+            "Natural",
+            "Clean at Sephora",
+            "Naturally Derived"
+        ],
+        "Benefit Claims": [
+            "Conditioning",
+            "Anti-Aging",
+            "Anti-Acne",
+            "Healing"
+        ]
+    }
+}

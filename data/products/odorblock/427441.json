@@ -1,0 +1,45 @@
+{
+    "id": 427441,
+    "brand": "odorblock",
+    "name": "BRA-NEWPHEN® 100M",
+    "slug": "bra-newphen-100m",
+    "description": "BRA-NEWPHEN® 100M is a bactericidal, fungicidal, liquid disinfectant with a broad spectrum of biocidal action and a wide field of use.",
+    "company_name": "NEWPHARM S R L",
+    "company_slug": "newpharm-s-r-l",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664293060/production/Brand/33868/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515647/production/CategoryImage/1055/category_image/HII_07.jpg",
+    "properties": {
+        "Applications": [
+            "Home Care",
+            "Institutional & Industrial Care",
+            "Surface Care",
+            "Industrial Cleaning",
+            "Institutional & Catering"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Industrial Cleaners",
+            "Commercial Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Sanitizers",
+            "Disinfectant Products"
+        ],
+        "Application Areas": [
+            "Containers",
+            "Equipment",
+            "Furniture",
+            "Pipes"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Plastics",
+            "Wood"
+        ],
+        "Features": [
+            "Anti-Fungal",
+            "Anti-Bacterial"
+        ]
+    }
+}

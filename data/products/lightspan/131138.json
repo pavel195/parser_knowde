@@ -1,0 +1,32 @@
+{
+    "id": 131138,
+    "brand": "lightspan",
+    "name": "NuSil™ MED1-4013",
+    "slug": "nusil-med1-4013",
+    "description": "NuSil™ MED1-4013 is a fast-cure silicone adhesive.",
+    "company_name": "NuSil Technology",
+    "company_slug": "nusil-technology",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697221162/production/Company/1345/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1697221162/production/Company/1345/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Medical Tapes & Adhesives",
+            "Medical Devices & Assemblies",
+            "Other Medical Applications",
+            "Tooling & Moldmaking",
+            "Medical",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Other Adhesives & Sealants",
+            "Adhesives & Sealants"
+        ],
+        "Chemical Family": [
+            "Silicones"
+        ],
+        "End Uses": [
+            "Drug Delivery Pens"
+        ]
+    },
+    "summary": {}
+}

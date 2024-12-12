@@ -1,0 +1,48 @@
+{
+    "id": 420496,
+    "brand": "geomet",
+    "name": "Geomet® 360",
+    "slug": "geomet-360",
+    "description": "Geomet® 360 has been specifically formulated to protect brake disks against corrosion. Applied from a chrome-free, water-based dispersion system of zinc and aluminum flakes, the surface of the brake disk can be treated with a thin layer of coating and still provide a high-performance level without any influence on normal braking characteristics.",
+    "company_name": "NOF Metal Coatings Group",
+    "company_slug": "nof-metal-coatings-group",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520389/production/Brand/33004/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608744/production/CategoryImage/575/category_image/AutomotiveTransportation_03.jpg",
+    "properties": {
+        "Applications": [
+            "Coatings & Finishes",
+            "Chassis & Brake",
+            "Automotive OEM Coatings",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Base Coats & Undercoats",
+            "Protective Coatings"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Waterborne Coating",
+            "Base Coat",
+            "Coating"
+        ],
+        "Application Area": [
+            "Brakes"
+        ],
+        "Application Method": [
+            "Spray"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal"
+        ],
+        "Features": [
+            "Oxidation Resistant",
+            "High Performance",
+            "Temperature Resistance",
+            "Water-based",
+            "Corrosion Resistant",
+            "Thin Wall Thickness"
+        ]
+    }
+}

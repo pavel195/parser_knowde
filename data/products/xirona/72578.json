@@ -1,0 +1,46 @@
+{
+    "id": 72578,
+    "brand": "xirona",
+    "name": "RonaCare® CPC",
+    "slug": "ronacare-cpc",
+    "description": "RonaCare® CPC has an active ingredient of cetylpyridinium chloride, a cationic wetting and/ or surface-active agent, similar to soap. It can be used in oral care, hair care, and skin care products.",
+    "company_name": "EMD Performance Materials",
+    "company_slug": "emd-performance-materials",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708683101/production/Company/1106/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708683101/production/Company/1106/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Oral Care",
+            "Skin Care",
+            "Hair Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Emulsifiers, Solubilizers & Dispersants",
+            "Other OTC Actives",
+            "Cosmetic Actives",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Cetylpyridinium Chloride"
+        ],
+        "End Uses": [
+            "Mouthwash"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Cetylpyridinium Chloride"
+        ],
+        "Functions": [
+            "Wetting Agent",
+            "Anti-Septic"
+        ],
+        "Labeling Claims": [
+            "Ulta Beauty's Conscious Beauty"
+        ],
+        "Synonyms": [
+            "1-Cetylpyridinium Chloride, 1-palmitylpyridinium chloride, Hexadecylpyridinium Chloride, N-Cetylpyridinium Chloride, N-Hexadecylpyridinium Chloride"
+        ]
+    }
+}

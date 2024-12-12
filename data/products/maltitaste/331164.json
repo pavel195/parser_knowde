@@ -1,0 +1,63 @@
+{
+    "id": 331164,
+    "brand": "maltitaste",
+    "name": "SMF 42 Glucose-Fructose Syrup",
+    "slug": "smf-42-glucose-fructose-syrup",
+    "description": "SMF 42 Glucose-Fructose Syrup is the purified and condensed natural glucose-fructose syrup is obtained after the hydrolysis of corn starch. It is clear, colorless and natural. It is a source of fermentable carbohydrates.",
+    "company_name": "Sunar Group",
+    "company_slug": "sunar-group",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709127482/production/Brand/24117/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607026/production/CategoryImage/510/category_image/FoodNutrition_11.jpg",
+    "properties": {
+        "Applications": [
+            "Juice & Juice Drinks",
+            "Savory & Culinary",
+            "Confectionery",
+            "Energy Drinks",
+            "Other Non-Alcoholic Beverages",
+            "Desserts & Fruit Preparations",
+            "Bakery",
+            "Beverage",
+            "Food"
+        ],
+        "Product Families": [
+            "Sweeteners & Syrups",
+            "Taste & Flavor"
+        ],
+        "End Uses": [
+            "Ketchup",
+            "Sauces",
+            "Caramels",
+            "Cakes",
+            "Biscuits",
+            "Energy Drinks",
+            "Fruit Juice"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Glucose Fructose Syrup"
+        ],
+        "Functions": [
+            "Carbohydrate Source",
+            "Nutritive Sweetener"
+        ],
+        "Labeling Claims": [
+            "GMO-free",
+            "Naturally Derived",
+            "Kosher",
+            "Natural",
+            "Halal",
+            "Non-GMO"
+        ],
+        "End Uses": [
+            "Caramels",
+            "Cakes",
+            "Fruit Juice",
+            "Ketchup",
+            "Sauces",
+            "Biscuits",
+            "Energy Drinks"
+        ]
+    }
+}

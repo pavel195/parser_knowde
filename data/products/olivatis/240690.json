@@ -1,0 +1,86 @@
+{
+    "id": 240690,
+    "brand": "olivatis",
+    "name": "Olivatis® 12C",
+    "slug": "olivatis-12c",
+    "description": "Developed and produced exclusively by the Medolla Limited, Olivatis 12C is an innovative â€œPeg-freeâ€ and â€œPalm-freeâ€, liquid crystals promoting, non-ionic W/O emulsifier.",
+    "company_name": "Medolla Speciality Chemicals",
+    "company_slug": "medolla-iberia",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708673165/production/Brand/15532/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708673165/production/Product/240690/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Skin Care",
+            "Color Cosmetics",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Emulsifiers, Solubilizers & Dispersants",
+            "Functionals"
+        ],
+        "Chemical Family": [
+            "Non-Ionics"
+        ],
+        "INCI Name": [
+            "Polyglyceryl-6 Pentaoleate",
+            "Olive Oil Polyglyceryl-6 Esters"
+        ],
+        "End Uses": [
+            "Lip Gloss"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Olive Oil Polyglyceryl-6 Esters",
+            "Polyglyceryl-6 Pentaoleate"
+        ],
+        "Functions": [
+            "Emulsifier (W/O)",
+            "Dispersant",
+            "Emulsifier"
+        ],
+        "Ingredient Origin": [
+            "Non-Animal Origin",
+            "Natural Origin",
+            "Vegetable Origin",
+            "Plant Origin"
+        ],
+        "Labeling Claims": [
+            "Glycol ether-free",
+            "Not Listed In California Proposition 65",
+            "BSE-free",
+            "Nanomaterials-free",
+            "Amine-free",
+            "Clean at Sephora",
+            "TSE-free",
+            "Pesticide-free",
+            "VOC-free",
+            "Impurities-free",
+            "Naturally Derived",
+            "Palm Oil-free",
+            "Kosher",
+            "Petroleum-free",
+            "Non-Irritant",
+            "Latex-free",
+            "Additive-free",
+            "Animal Products-free",
+            "Ulta Beauty's Conscious Beauty",
+            "Phthalates-free",
+            "1,4-Dioxane-free",
+            "GMO-free",
+            "Gluten-free",
+            "Glycol-free",
+            "PAH-Free",
+            "Lactose-free",
+            "Halal",
+            "CMR Substances-free"
+        ],
+        "Certifications & Compliance": [
+            "Halal",
+            "EU Cosmetic Regulation 1223/2009 Compliant",
+            "EU Compliant",
+            "ISO 16128",
+            "Kosher"
+        ]
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "id": 356357,
+    "brand": "makrotech",
+    "name": "MAKROCLEAR™ FR",
+    "slug": "makroclear-fr",
+    "description": "MAKROCLEAR™ FR is flame Retardant Polycarbonate with high clarity and surface quality. The product can be used where fire performance is required. The product is virtually unbreakable with extremely high impact resistance and offers high temperature performance too.",
+    "company_name": "Arla Plast A B",
+    "company_slug": "arla-plast-a-b",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691742068/production/Brand/26525/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608769/production/CategoryImage/577/category_image/AutomotiveTransportation_05.jpg",
+    "properties": {
+        "Applications": [
+            "Glazing & Window Elements",
+            "Medical Devices & Assemblies",
+            "Displays",
+            "Sports & Recreation",
+            "Safety Systems",
+            "Exterior & Body",
+            "Medical",
+            "Building Envelope & Roofing",
+            "Devices & Assemblies",
+            "Automotive",
+            "Building Envelope"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Polycarbonate (PC)"
+        ],
+        "Polymer Name": [
+            "Polycarbonate (PC)"
+        ],
+        "End Uses": [
+            "Door Profiles",
+            "Profiles",
+            "Thermoforming Applications",
+            "Signage",
+            "Safety Helmets",
+            "Medical Devices",
+            "Glazing",
+            "Displays"
+        ]
+    },
+    "summary": {
+        "Density": [
+            "1200.0 - 1200.0 kg/m³"
+        ],
+        "Tensile Modulus": [
+            "2300.0 - 2300.0 MPa"
+        ]
+    }
+}

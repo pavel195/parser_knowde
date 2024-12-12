@@ -1,0 +1,45 @@
+{
+    "id": 358682,
+    "brand": "optiseal",
+    "name": "Eurogrip 4500",
+    "slug": "eurogrip-4500",
+    "description": "Eurogrip 4500 is a high build coating that combines tough, flexible polyurethane resins with highly abrasion resistant aggregate. It has been specially formulated to accept a surface dressing of up to 5mm stone and to cure very quickly keeping disruption to the minimum and enabling a road or ramp to be returned to full use in about 3 hours depending on temperature. It also cures at low temperatures, adheres tenaciously to substrates.",
+    "company_name": "Optus",
+    "company_slug": "optus",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520200/production/Brand/26757/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608566/production/CategoryImage/566/category_image/PaintingsCoatings_02.jpg",
+    "properties": {
+        "Applications": [
+            "Coatings & Finishes",
+            "Infrastructure, Roads & Paving",
+            "Automotive OEM Coatings",
+            "Pavement, Highways, Roads & Bridges"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Coating"
+        ],
+        "Features": [
+            "High Friction",
+            "Flexible",
+            "Oil Resistant",
+            "Wear Resistant",
+            "Provides Solvent Resistance",
+            "Abrasion Resistant",
+            "Excellent Toughness",
+            "Skid Resistant",
+            "Long Shelf Life"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Concrete",
+            "Steel",
+            "Wood"
+        ]
+    }
+}

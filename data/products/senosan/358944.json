@@ -1,0 +1,44 @@
+{
+    "id": 358944,
+    "brand": "senosan",
+    "name": "Senosan® C60FR-5",
+    "slug": "senosan-c60fr-5",
+    "description": "Senosan® C60FR-5 has a flame retardant coextruded PC/ABS-sheet with a matt surface for Railway application R1 with HL2 classification.",
+    "company_name": "Senoplast Klepsch & Co. GmbH",
+    "company_slug": "senoplast-klepsch-co-gmbh",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686148473/production/Brand/26773/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608760/production/CategoryImage/576/category_image/AutomotiveTransportation_04.jpg",
+    "properties": {
+        "Applications": [
+            "Rail & Mass Transit",
+            "Transportation"
+        ],
+        "Product Families": [
+            "Parts & Shapes"
+        ],
+        "Polymer Name": [
+            "PC/ABS Alloy"
+        ],
+        "End Uses": [
+            "Ceiling Panels"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "PC/ABS Alloy"
+        ],
+        "Physical Form": [
+            "Sheets"
+        ],
+        "Density": [
+            "1300.0 - 1300.0 kg/m³"
+        ],
+        "Features": [
+            "High Temperature Insulation Properties",
+            "Matte Finish",
+            "Flame Retardant",
+            "Chemical Resistant",
+            "Recyclable"
+        ]
+    }
+}

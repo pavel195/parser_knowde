@@ -1,0 +1,32 @@
+{
+    "id": 427928,
+    "brand": "deha",
+    "name": "DJCHEM CHEMICALS POLAND S.A. SEHA 34",
+    "slug": "djchem-chemicals-poland-s-a-seha-34",
+    "description": "SEHA 34 is Highly effective antioxidant, used as a developer in color photography, especially in satellite photography.",
+    "company_name": "DJCHEM CHEMICALS POLAND S.A.",
+    "company_slug": "djchem-chemicals-poland-s-a",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704106646/production/Company/61170/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Other Printing Applications",
+            "Printing & Inks"
+        ],
+        "Product Families": [
+            "Organic Salts",
+            "Technical Salts & Inorganics"
+        ],
+        "Chemical Family": [
+            "Sodium Salts"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "2,2’-(Hydroxyimino)bisethanesulfonicacid, disodium salt"
+        ],
+        "CAS Number": [
+            "133986-51-3"
+        ]
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "id": 330278,
+    "brand": "floranova",
+    "name": "FLORAPRO™ HARDWATER + MICROS",
+    "slug": "florapro-hardwater-micros",
+    "description": "FLORAPRO™ HARDWATER + MICROS is for facilities with hard water, we recommend Flora Pro™Hardwater + Micros as part of the FloraPro™nutrient system. FloraPro™ is specially formulated for high-value production crops where results and consistency are paramount. Our unique formulation and methodology produce superior results in large-scale operations. Designed from the ground up for fertilizer injection systems, FloraPro™ is easy to use and highly water soluble. Our complete and balanced formula is cost effective, scalable and consistent to meet the high standards of a competitive industry.",
+    "company_name": "General Hydroponics",
+    "company_slug": "general-hydroponics",
+    "logo_url": null,
+    "banner_url": "https://media.knowde.com/image/upload/v1625608200/production/CategoryImage/549/category_image/AgricultureFeed_05.jpg",
+    "properties": {
+        "Applications": [
+            "Ornamentals",
+            "Fiber Crops",
+            "Fruits",
+            "Herbs & Spice Crops",
+            "Other Agricultural Crops",
+            "Vegetables",
+            "Agricultural Crops",
+            "Turf, Ornamentals & Landscape"
+        ],
+        "Product Families": [
+            "Fertilizers & Nutrients",
+            "Plant Health, Nutrients & Soil Management"
+        ],
+        "Chemical Family": [
+            "Copper-based Compounds",
+            "Zinc & Zinc Compounds",
+            "Iron & Iron Compounds",
+            "Copper Salts",
+            "Calcium Salts",
+            "Nitrogen"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Fertilizer"
+        ],
+        "Chemical Family": [
+            "Copper Salts",
+            "Nitrogen",
+            "Iron & Iron Compounds",
+            "Zinc & Zinc Compounds",
+            "Copper-based Compounds",
+            "Calcium Salts"
+        ],
+        "Application Technique": [
+            "Tree Injection",
+            "Hydroponics",
+            "Ground Soil Applied"
+        ]
+    }
+}

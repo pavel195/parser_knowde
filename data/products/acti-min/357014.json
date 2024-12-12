@@ -1,0 +1,51 @@
+{
+    "id": 357014,
+    "brand": "acti-min",
+    "name": "Acti-Min® Sunblock",
+    "slug": "acti-min-sunblock",
+    "description": "Acti-Min™ Sunblock kaolin-based mineral product, when properly applied to plant leaves and fruit, forms a dry white barrier film that can provide protective benefits to agricultural crops. Through independent studies1 and a decade of Active Minerals’ Acti-Min kaolin products in commercial field experience, kaolin mineral film barriers have shown effectiveness in reducing plant stress, minimizing sunburn, and enhancing growth across a multitude of crops. This product is OMRI listed for organic use.",
+    "company_name": "Active Minerals",
+    "company_slug": "active-minerals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708686855/production/Company/27020/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608422/production/CategoryImage/558/category_image/BuildingConstruction_02.jpg",
+    "properties": {
+        "Applications": [
+            "Legumes",
+            "Sugar & Starch Crops",
+            "Nuts",
+            "Vegetables",
+            "Ornamentals",
+            "Fruits",
+            "Agricultural Crops",
+            "Turf, Ornamentals & Landscape"
+        ],
+        "Product Families": [
+            "Abiotic Stress Mitigators",
+            "Other Plant Health, Nutrients & Soil Management Products",
+            "Other Formulation Ingredients",
+            "UV Protectants",
+            "Adjuvants & Formulation Ingredients",
+            "Plant Health, Nutrients & Soil Management"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Abiotic Stress Mitigator",
+            "Heat Stress Mitigator",
+            "Growth Stimulant",
+            "UV Protectant",
+            "Film Former"
+        ],
+        "Application Technique": [
+            "Foliage Applied",
+            "Sprayers"
+        ],
+        "Features": [
+            "Approved For Organic Farming",
+            "Reduces Heat Stress",
+            "Improved Appearance",
+            "Increased Disease Suppression",
+            "Enhanced Crop Yield & Quality"
+        ]
+    }
+}

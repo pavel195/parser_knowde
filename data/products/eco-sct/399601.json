@@ -1,0 +1,23 @@
+{
+    "id": 399601,
+    "brand": "eco-sct",
+    "name": "ReVue™ CRM",
+    "slug": "revue-crm",
+    "description": "ReVue™ CRM is a high-quality repair mortar. It is simple to work with and can be used for both interior and exterior applications.",
+    "company_name": "Tennant Coatings",
+    "company_slug": "tennant-coatings",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1694073661/production/Company/27358/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608490/production/CategoryImage/563/category_image/BuildingConstruction_07.jpg",
+    "properties": {
+        "Applications": [
+            "Repair & Rehabilitation",
+            "Pavement, Highways, Roads & Bridges",
+            "Infrastructure, Roads & Paving"
+        ],
+        "Product Families": [
+            "Mortar & Grouts",
+            "Construction Materials"
+        ]
+    },
+    "summary": {}
+}

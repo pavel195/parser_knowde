@@ -1,0 +1,39 @@
+{
+    "id": 347589,
+    "brand": "nipam",
+    "name": "KJCMPA® 100 (3-methoxy-N,N-dimethylpropanamide）",
+    "slug": "kjcmpa-100-3-methoxy-n-n-dimethylpropanamide",
+    "description": "KJCMPA® 100 (3-methoxy-N,N-dimethylpropanamide) can dissolve a variety of substances with different polar characters. Even for poorly-soluble polymers such as polyimide and polyamide-imide. KJCMPA-100 is a good candidate for alternative to NMP, DMF and 2-P.",
+    "company_name": "kj Chemicals",
+    "company_slug": "kj-chemicals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1693579931/production/Brand/25929/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Other Printing & Packaging Applications",
+            "Other Paints & Coatings Applications",
+            "Other Institutional & Industrial Care",
+            "Other Adhesives & Sealants Applications",
+            "Institutional & Industrial Care"
+        ],
+        "Product Families": [
+            "Amides",
+            "Monomers & Oligomers"
+        ],
+        "Chemical Family": [
+            "Amides"
+        ],
+        "End Uses": [
+            "Adhesives",
+            "Cleaners",
+            "Coatings",
+            "Inks",
+            "Solvent"
+        ]
+    },
+    "summary": {
+        "Molecular Weight": [
+            "131.17 - 131.17 g/mol"
+        ]
+    }
+}

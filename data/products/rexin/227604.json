@@ -1,0 +1,45 @@
+{
+    "id": 227604,
+    "brand": "rexin",
+    "name": "POLURENE BK 1175",
+    "slug": "polurene-bk-1175",
+    "description": "POLURENE BK 1175 is a blocked isocyanate suitable for the formulation of non-yellowing IK stoving enamels; it can be used in traditional stoving enamels to flexibilize and to increase adhesion.",
+    "company_name": "Sapici Spa",
+    "company_slug": "sapici-spa",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686148527/production/Company/8918/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1686148527/production/Company/8918/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Monomers & Intermediates",
+            "Prepolymers & Polyols"
+        ],
+        "Chemical Family": [
+            "Polyisocyanates",
+            "Aliphatics"
+        ],
+        "End Uses": [
+            "Solventborne Coating",
+            "Coil Coating"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Aliphatics",
+            "Polyisocyanates"
+        ],
+        "End Uses": [
+            "Coil Coating",
+            "Solventborne Coating"
+        ],
+        "Viscosity": [
+            "24000.0 - 36000.0 cps"
+        ],
+        "Features": [
+            "Improved Flexibility",
+            "Excellent Adhesion"
+        ]
+    }
+}

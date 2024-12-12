@@ -1,0 +1,47 @@
+{
+    "id": 176375,
+    "brand": "resiprene",
+    "name": "Resirene® 4220",
+    "slug": "resirene-4220",
+    "description": "Resirene® 4220 by Resirene is comprised of High Impact Polystyrene. It is commonly used Resirene® 4220 is certified as UL Flame Rated. It is available in Granules form.",
+    "company_name": "Resirene",
+    "company_slug": "resirene",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708531605/production/Company/4435/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607988/production/CategoryImage/537/category_image/HomePersonalCare_03.jpg",
+    "properties": {
+        "Applications": [
+            "Consumer Electronics",
+            "Appliances & Electronics",
+            "Sports & Recreation",
+            "Other Devices & Assemblies",
+            "Devices & Assemblies"
+        ],
+        "Product Families": [
+            "Styrenics",
+            "Basic Thermoplastics"
+        ],
+        "Chemical Family": [
+            "Styrenics",
+            "High-Impact Polystyrene (HIPS)"
+        ],
+        "Polymer Name": [
+            "High Impact Polystyrene (HIPS)"
+        ],
+        "End Uses": [
+            "Toys",
+            "Electrical/Electronic Applications",
+            "Printer"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "High Impact Polystyrene (HIPS)"
+        ],
+        "Processing Methods": [
+            "Injection Molding"
+        ],
+        "Melt Flow Index": [
+            "8.0 - 8.0 g/10 min"
+        ]
+    }
+}

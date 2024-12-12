@@ -1,0 +1,48 @@
+{
+    "id": 441514,
+    "brand": "glissawax",
+    "name": "Glissawax Plus",
+    "slug": "glissawax-plus",
+    "description": "Glissawax Plus is a micronized PTFE wax blend.",
+    "company_name": "Parchvale Ltd",
+    "company_slug": "parchvale-limited",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708691519/production/Company/56428/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708691519/production/Company/56428/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Coil Coatings",
+            "Wood Coatings & Finishes",
+            "Building & Construction",
+            "Industrial Coatings"
+        ],
+        "Product Families": [
+            "Surface Modifiers",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Fluoropolymers",
+            "Waxes",
+            "Polytetrafluoroethylene (PTFE) Waxes"
+        ],
+        "End Uses": [
+            "Waterborne Coating",
+            "Powder Coating",
+            "Coil Coating"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Polytetrafluoroethylene (PTFE) Waxes",
+            "Fluoropolymers",
+            "Waxes"
+        ],
+        "Functions": [
+            "Surface Modifier"
+        ],
+        "End Uses": [
+            "Waterborne Coating",
+            "Powder Coating",
+            "Coil Coating"
+        ]
+    }
+}

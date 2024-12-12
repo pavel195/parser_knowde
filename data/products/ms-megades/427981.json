@@ -1,0 +1,33 @@
+{
+    "id": 427981,
+    "brand": "ms-megades",
+    "name": "MS TopFoam Power",
+    "slug": "ms-topfoam-power",
+    "description": "MS TopFoam Power is a very strong foam cleaner with &gt;60 min contact time and the most powerful cleaning capabilities of the TopFoam range. This foam will effectively remove even the most tenacious dirt.",
+    "company_name": "The Schippers Group",
+    "company_slug": "the-schippers-group",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292903/production/Brand/33943/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515575/production/CategoryImage/1049/category_image/HII_01.jpg",
+    "properties": {
+        "Applications": [
+            "Home Care",
+            "Surface Care"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Commercial Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner"
+        ],
+        "Application Areas": [
+            "Hard Surfaces"
+        ],
+        "Features": [
+            "Good Surface Care",
+            "Foamable"
+        ]
+    }
+}

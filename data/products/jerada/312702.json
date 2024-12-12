@@ -1,0 +1,30 @@
+{
+    "id": 312702,
+    "brand": "jerada",
+    "name": "TRAFFORD RZ F1 (55-84)",
+    "slug": "trafford-rz-f1-55-84",
+    "description": "TRAFFORD RZ F1 (55-84) it has a very low nitrate content. Strong on cold shot.",
+    "company_name": "Rijk Zwaan (Nederland)",
+    "company_slug": "rijk-zwaan-nederland",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686124903/production/Product/312702/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608224/production/CategoryImage/551/category_image/AgricultureFeed_07.jpg",
+    "properties": {
+        "Applications": [
+            "Agricultural Crops",
+            "Vegetables"
+        ],
+        "Product Families": [
+            "Seeds & Traits",
+            "Conventional Seeds"
+        ]
+    },
+    "summary": {
+        "Crop & Plant Type": [
+            "Carrot"
+        ],
+        "Features": [
+            "Enhanced Crop Yield & Quality",
+            "Improves Harvest Efficiency"
+        ]
+    }
+}

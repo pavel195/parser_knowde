@@ -1,0 +1,44 @@
+{
+    "id": 409876,
+    "brand": "h2o-dustreat",
+    "name": "Essential Industries Neutral Cleaner Plus",
+    "slug": "essential-industries-neutral-cleaner-plus",
+    "description": "Neutral Cleaner Plus is Environmentally-responsible, Green Seal™ Certified formula is non-flammable, non-corrosive and phosphate-free. It is Excellent for cleaning resilient floors, stone floors and sealed wood floors.",
+    "company_name": "Essential Industries, Inc.",
+    "company_slug": "essential-industries-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708003409/production/Company/6413/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515602/production/CategoryImage/1051/category_image/HII_03.jpg",
+    "properties": {
+        "Applications": [
+            "Surface Care",
+            "Industrial Cleaning",
+            "Home Care",
+            "Institutional & Industrial Care"
+        ],
+        "Product Families": [
+            "Commercial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Product Type": [
+            "Cleaner"
+        ],
+        "Application Area": [
+            "Floor"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Wood",
+            "Stone"
+        ],
+        "Certifications & Compliance": [
+            "Green Seal"
+        ],
+        "Features": [
+            "Anti-Slip",
+            "UL Listed",
+            "Grime Cleaning",
+            "Neutral pH"
+        ]
+    }
+}

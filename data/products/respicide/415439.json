@@ -1,0 +1,37 @@
+{
+    "id": 415439,
+    "brand": "respicide",
+    "name": "EnviroCON®",
+    "slug": "envirocon",
+    "description": "Bio-Cide’s EnviroCON® product is highly effective in eliminating odor-causing microorganisms as well as those associated with mold, mildew and bacterial growth. A point of contact application, EnviroCON® eliminates odors at their source through a chlorine dioxide release-process that destroys organisms at the origin. EnviroCON® uses no perfumes or masking agents.",
+    "company_name": "Bio-Cide International",
+    "company_slug": "bio-cide-international",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292534/production/Brand/32393/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515612/production/CategoryImage/1052/category_image/HII_04.jpg",
+    "properties": {
+        "Applications": [
+            "Home Care",
+            "Institutional & Industrial Care",
+            "Air Care",
+            "Institutional & Catering"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Commercial Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Deodorizers"
+        ],
+        "Certifications & Compliance": [
+            "EPA Registered"
+        ],
+        "Features": [
+            "Bacteria Resistant",
+            "Low Toxicity",
+            "Neutralizes Odor",
+            "No-Rinse"
+        ]
+    }
+}

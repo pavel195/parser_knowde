@@ -1,0 +1,45 @@
+{
+    "id": 426306,
+    "brand": "lift",
+    "name": "Evans Vanodine International Plc Descale",
+    "slug": "evans-vanodine-international-plc-descale",
+    "description": "Evans Vanodine International Descale is for automatic machines and equipment. It is a concentrated acid-based liquid for descaling industrial automatic dish &amp; glass wash machines.",
+    "company_name": "Evans Vanodine International Plc",
+    "company_slug": "evans-vanodine-international-plc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292841/production/Company/60835/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515602/production/CategoryImage/1051/category_image/HII_03.jpg",
+    "properties": {
+        "Applications": [
+            "Dish Care",
+            "Surface Care",
+            "Industrial Cleaning",
+            "Food & Beverage Manufacturing",
+            "Food Facility Cleaning & Sanitization",
+            "Processing & Packaging",
+            "Institutional & Industrial Care",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Industrial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Descalers"
+        ],
+        "Application Areas": [
+            "Kitchenware"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Stainless Steel",
+            "Glass"
+        ],
+        "Features": [
+            "Effective Soil Removal",
+            "Scale Inhibiting",
+            "Biodegradable"
+        ]
+    }
+}

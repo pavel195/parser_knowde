@@ -1,0 +1,65 @@
+{
+    "id": 329035,
+    "brand": "silco-inc-ultra-flex",
+    "name": "GEN-SIL RTV-45 (Acetoxy)",
+    "slug": "gen-sil-rtv-45-acetoxy",
+    "description": "Gen-Sil RTV-45 (Acetoxy) is a premium general purpose, one component room temperature vulcanizing RTV acetoxy cure silicone sealant and adhesive. When fully cured, this unique VOC compliant formula offers UV stability to form waterproof and airtight bonds to metal, steel, tile, fiberglass, ceramic, glass, aluminum, painted surfaces, plywood, marble, plus many other common substrates. This product is specifically formulated to offer all weather performance to meet today's Green Building Standards.",
+    "company_name": "Silco, Inc.",
+    "company_slug": "silco-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520112/production/Brand/23723/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608962/production/CategoryImage/587/category_image/AdhesivesSealants_04.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial & Assembly Adhesives",
+            "Bonding & Assembly",
+            "Building Materials",
+            "Construction Chemicals",
+            "Roofing",
+            "Other Industrial & Assembly Applications",
+            "Interior",
+            "Transportation Assembly",
+            "Marine",
+            "Adhesives",
+            "Sealants & Caulks",
+            "Construction Adhesives",
+            "Industrial Adhesives & Sealants",
+            "Chemical & Industrial Manufacturing",
+            "Transportation",
+            "Automotive",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Structural Adhesives",
+            "Other Adhesives & Sealants"
+        ],
+        "Chemical Family": [
+            "Silicones"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Silicones"
+        ],
+        "Ready-to-Use Product Type": [
+            "1K (1 component) Adhesive",
+            "Structural Sealant",
+            "Structural Adhesive",
+            "1K (1 component) Sealant"
+        ],
+        "Application Area": [
+            "Universal Joints",
+            "Marine Applications"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Aluminum",
+            "Glass",
+            "Fiberglass",
+            "Painted Surfaces",
+            "Marble",
+            "Wood",
+            "Ceramic"
+        ]
+    }
+}

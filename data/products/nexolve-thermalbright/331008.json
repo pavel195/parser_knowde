@@ -1,0 +1,61 @@
+{
+    "id": 331008,
+    "brand": "nexolve-thermalbright",
+    "name": "Thermalbright® Polyimide",
+    "slug": "nexolve-corporation-thermalbright-polyimide",
+    "description": "Thermalbright® Polyimide High performance white polyimide \nThermalbright® Polyimide is a high performance white polyimide with wide ranging uses in display applications, electrical insulators, composites, industrial tapes, space structures, and many others. Thermalbright® Polyimide is useful in thermal control applications requiring low absorptivity, high emissivity, UV stability, and high temperature colorfastness. Thermalbright® Polyimide exhibits high optical density and hiding, making it an excellent high temperature white paint replacement material. Thermalbright® Polyimide is available in two grades: Thermalbright® C for Electrostatic Dissipative (ESD) applications, and Thermalbright® N for applications that require electrical insulation. Thermalbright® Polyimide is available as a liquid casting resin or film product.",
+    "company_name": "NeXolve",
+    "company_slug": "nexolve",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686150094/production/Brand/24096/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607422/production/CategoryImage/517/category_image/ElectricalElectronics_02.jpg",
+    "properties": {
+        "Applications": [
+            "Wire & Cable",
+            "Displays",
+            "Jacketing & Insulation",
+            "Aerospace & Aviation",
+            "Devices & Assemblies",
+            "Transportation"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Polyimides (PI)"
+        ],
+        "Polymer Name": [
+            "Polyimide (PI)"
+        ],
+        "End Uses": [
+            "Film",
+            "Aerospace Applications",
+            "Tape",
+            "Electrical Insulation"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyimide (PI)"
+        ],
+        "Physical Form": [
+            "Liquid",
+            "Film"
+        ],
+        "Features": [
+            "UV Stabilized",
+            "Low Moisture Absorption",
+            "High Performance",
+            "Good Printability",
+            "Low Temperature Curing"
+        ],
+        "Density": [
+            "2080.0 - 2080.0 kg/m³"
+        ],
+        "Tensile Modulus": [
+            "3500.0 - 3500.0 MPa"
+        ],
+        "Color": [
+            "White"
+        ]
+    }
+}

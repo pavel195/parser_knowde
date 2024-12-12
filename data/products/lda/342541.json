@@ -1,0 +1,26 @@
+{
+    "id": 342541,
+    "brand": "lda",
+    "name": "LWD® 100",
+    "slug": "lwd-100",
+    "description": "LWD® 100 is an innovative modifying additive that is designed to be used in interior water-based wiping stains, enabling the formulation to approach solvent like stain application performance.",
+    "company_name": "Lorama Group",
+    "company_slug": "lorama-group",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1693577843/production/Company/8793/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1693577843/production/Product/342541/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Wood Coatings & Finishes",
+            "Building & Construction"
+        ],
+        "Product Families": [
+            "Surface Modifiers",
+            "Additives"
+        ],
+        "End Uses": [
+            "Stains",
+            "Waterborne Coating"
+        ]
+    },
+    "summary": {}
+}

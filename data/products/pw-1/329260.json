@@ -1,0 +1,43 @@
+{
+    "id": 329260,
+    "brand": "pw-1",
+    "name": "Versaproof™ Primer E",
+    "slug": "versaproof-primer-e",
+    "description": "Versaproof™ Primer E is a 100% solids, zero VOC, two component, epoxy sealer and primer. VersaProof Primer E is a penetrating primer/sealer, uniquely formulated to reduce outgassing and improve adhesion. VersaProof Primer E is ideal for damp concrete substrates, or substrates where trapped moisture and/or high moisture vapor drive is expected, such as split slab construction, or with stay in place forms. VersaProof Primer E is typically thinned by 50% with Acetone, and may be applied at temperatures greater than 40° F by airless or air assisted spraying, brush, roller, or squeegee. VersaProof Primer E may be used with all VersaProof rapid curing sealants and coatings for interior and exterior application.",
+    "company_name": "Versaflex",
+    "company_slug": "versaflex",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520259/production/Company/32382/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608566/production/CategoryImage/566/category_image/PaintingsCoatings_02.jpg",
+    "properties": {
+        "Applications": [
+            "Architectural Coatings",
+            "Building Envelope & Roofing",
+            "Building Envelope"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Primer",
+            "Solventless & High Solids Coating",
+            "2K (2 component) Coating"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Concrete"
+        ],
+        "Features": [
+            "Improved Adhesion",
+            "Highly Versatile"
+        ],
+        "Application Method": [
+            "Spray",
+            "Broom",
+            "Roller",
+            "Brush",
+            "Wipe"
+        ]
+    }
+}

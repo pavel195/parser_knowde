@@ -1,0 +1,42 @@
+{
+    "id": 335668,
+    "brand": "primex-golden-flex",
+    "name": "Alpine Soy Flex® Icing Shortening",
+    "slug": "alpine-soy-flex-icing-shortening",
+    "description": "Soy Flex is a domestic soybean based shortening that offers a creamier, more consistent texture, a wider temperature range and contains no tropical oils. Soy Flex, for shortening that's as smooth as silk and consistent from cube to cube. Alpine Soy Flex is a zero grams trans-fat icing shortening usable over a wide temperature range so you can create higher-volume, creamier bright white icings.",
+    "company_name": "STRATAS FOODS - Food Ingredients Division",
+    "company_slug": "stratas-foods-food-ingredients-division",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686104172/production/Brand/24805/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606961/production/CategoryImage/506/category_image/FoodNutrition_07.jpg",
+    "properties": {
+        "Applications": [
+            "Food",
+            "Bakery",
+            "Confectionery",
+            "Desserts & Fruit Preparations"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Edible Oils & Fats"
+        ],
+        "End Uses": [
+            "Icing",
+            "Filling Applications",
+            "Shortening"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Vegetable Fat"
+        ],
+        "Labeling Claims": [
+            "Trans fat-free"
+        ],
+        "Features": [
+            "Improved Expansion",
+            "Good Consistency",
+            "Creamy Mouthfeel",
+            "Creamy Texture"
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "id": 415268,
+    "brand": "bug-eliminator",
+    "name": "Kaady Chemical Wall Cleaner",
+    "slug": "kaady-chemical-wall-cleaner",
+    "description": "Wall Cleaner is a safe, alkaline-based cleaner for daily use; designed to supplement applications of our less frequently needed “Clean All” acid-based wall cleaner.",
+    "company_name": "Kaady Chemical",
+    "company_slug": "kaady-chemical",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292532/production/Company/55394/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515684/production/CategoryImage/1058/category_image/HII_10.jpg",
+    "properties": {
+        "Applications": [
+            "Home Care",
+            "Institutional & Industrial Care",
+            "Surface Care",
+            "Industrial Cleaning"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Commercial Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Alkaline Cleaners",
+            "Cleaner"
+        ],
+        "Application Areas": [
+            "Wall"
+        ]
+    }
+}

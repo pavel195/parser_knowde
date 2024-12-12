@@ -1,0 +1,40 @@
+{
+    "id": 403201,
+    "brand": "arma",
+    "name": "Arma 60A",
+    "slug": "arma-60a",
+    "description": "Arma 60A polyurea/polyurethane hybrid is waterproof, soft and rubber-like. It is skid-resistant and provides an extremely tough monolithic membrane for flexible surfaces. This product exhibits excellent abrasion and chemical resistance and contains no VOCs.",
+    "company_name": "Arma Coatings",
+    "company_slug": "arma-coatings",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292172/production/Brand/30811/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608465/production/CategoryImage/561/category_image/BuildingConstruction_05.jpg",
+    "properties": {
+        "Applications": [
+            "Other Paints & Coatings Applications",
+            "Building Envelope & Roofing",
+            "Waterproofing & Weatherproofing"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Other Paints & Coatings"
+        ],
+        "Chemical Family": [
+            "Polyureas"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Coating"
+        ],
+        "Features": [
+            "Chemical Resistant",
+            "Abrasion Resistant",
+            "Good Toughness",
+            "Soft",
+            "Skid Resistant"
+        ],
+        "Chemical Family": [
+            "Polyureas"
+        ]
+    }
+}

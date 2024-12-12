@@ -1,0 +1,64 @@
+{
+    "id": 85028,
+    "brand": "creasperse-bb",
+    "name": "Pelavie® White Clay",
+    "slug": "pelavie-white-clay",
+    "description": "Pelavie® White Clay is a natural white bentonite, which has a capacity to adsorb toxins. The natural color of the clay depends on the mineral content. Pelavie® White Clay is rich in boron and fluoride.",
+    "company_name": "The Innovation Company",
+    "company_slug": "the-innovation-company",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672875/production/Product/85028/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708672875/production/Brand/7268/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Baby Care",
+            "Bath & Shower",
+            "Color Cosmetics",
+            "Skin Care",
+            "Sun Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Texturizers & Fillers",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Bentonite"
+        ],
+        "End Uses": [
+            "Body Wash",
+            "Facial Treatments",
+            "Facial Mask",
+            "Baby Sunscreen",
+            "Facial Cleanser",
+            "Face Powder",
+            "Eye Liner",
+            "Diaper Cream",
+            "Concealer",
+            "Blush",
+            "Baby Powder",
+            "Baby Lotion",
+            "Anti-Aging Products",
+            "Facial Moisturizer"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Bentonite"
+        ],
+        "Functions": [
+            "Suspending Agent",
+            "Bulking Agent",
+            "Absorbent",
+            "Adsorbent"
+        ],
+        "Labeling Claims": [
+            "Credo Clean Standard",
+            "Clean at Sephora",
+            "Organic"
+        ],
+        "Certifications & Compliance": [
+            "ECOCERT",
+            "Organic Certified"
+        ]
+    }
+}

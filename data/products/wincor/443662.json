@@ -1,0 +1,34 @@
+{
+    "id": 443662,
+    "brand": "wincor",
+    "name": "Wincor 2105",
+    "slug": "wincor-2105",
+    "description": "Himipex Oil Wincor 2105 is a washing and anticorrosive fluid. It gives corrosion protection for oil and gas industry.",
+    "company_name": "Himipex Oil",
+    "company_slug": "himipex-oil",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664569258/production/Company/65031/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515612/production/CategoryImage/1052/category_image/HII_04.jpg",
+    "properties": {
+        "Applications": [
+            "Institutional & Industrial Care",
+            "Industrial Cleaning"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Industrial Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner",
+            "Rust Preventative"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Asphalt"
+        ],
+        "Features": [
+            "Corrosion Resistant",
+            "Protects Metal Surfaces"
+        ]
+    }
+}

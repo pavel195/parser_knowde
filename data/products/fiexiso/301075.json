@@ -1,0 +1,44 @@
+{
+    "id": 301075,
+    "brand": "fiexiso",
+    "name": "Hostaphan® RN FI 13011",
+    "slug": "hostaphan-rn-fi-13011",
+    "description": "Hostaphan® RN FI 13011 is a transparent biaxial stretched film made of polyethylene terephthalate (PET). It characterizes by special physical properties. Hostaphan® RN FI 13011 offers unique construction possibilities because of the excellent balance of its electrical properties in combination with chemical, thermal and physical properties. Furthermore Hostaphan® RN FI 13011 characterizes by excellent resistance against humidity and common solvents. Since Hostaphan® RN FI 13011 does not contain any softeners it does not become brittle while aging under normal conditions.",
+    "company_name": "Dr. D. Mueller",
+    "company_slug": "dr-d-mueller",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686150295/production/Company/24190/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Power, Water & Utilities",
+            "Electrical Protection",
+            "Other Electrical & Electronics Applications"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Polyesters",
+            "Polyethylene Terephthalate (PET)"
+        ],
+        "Polymer Name": [
+            "Polyethylene Terephthalate (PET)"
+        ],
+        "End Uses": [
+            "Electric Motors"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyethylene Terephthalate (PET)"
+        ],
+        "Physical Form": [
+            "Film"
+        ],
+        "Features": [
+            "Excellent Humidity Resistance",
+            "Good Balance of Properties",
+            "Solvent Resistant"
+        ]
+    }
+}

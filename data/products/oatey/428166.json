@@ -1,0 +1,45 @@
+{
+    "id": 428166,
+    "brand": "oatey",
+    "name": "Harvey™ Clear Primer",
+    "slug": "harvey-clear-primer",
+    "description": "Harvey™ Clear Primer is a professional grade clear primer for use on all schedules and classes of CPVC and PVC pipe and fittings.",
+    "company_name": "Oatey",
+    "company_slug": "oatey",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520396/production/Brand/33970/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608454/production/CategoryImage/560/category_image/BuildingConstruction_04.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Packaging Coatings",
+            "Primers & Lacquers",
+            "Chemical & Industrial Manufacturing",
+            "Pipes & Plumbing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Primer"
+        ],
+        "Application Area": [
+            "Pipes",
+            "Pipe Fittings"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Polyvinyl Chloride (PVC)"
+        ],
+        "Features": [
+            "Low VOC"
+        ],
+        "Application Method": [
+            "Spray",
+            "Roller",
+            "Brush"
+        ]
+    }
+}

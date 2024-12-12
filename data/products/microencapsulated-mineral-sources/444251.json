@@ -1,0 +1,43 @@
+{
+    "id": 444251,
+    "brand": "microencapsulated-mineral-sources",
+    "name": "Microencapsulated Ferrous Sulphate ",
+    "slug": "lipotech-ferrous-sulphate-microencapsulated",
+    "description": null,
+    "company_name": "LipoTech",
+    "company_slug": "lipotech",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708689824/production/Product/444251/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708689824/production/Product/444251/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Minerals",
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Nutraceuticals"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Dietary Supplement",
+            "Mineral Source",
+            "Supplement",
+            "Mineral Source"
+        ],
+        "Labeling Claims": [
+            "Non-GMO",
+            "Allergen-free"
+        ],
+        "Certifications & Compliance": [
+            "FCC Compliant",
+            "European Pharmacopeia (Ph. Eur.)"
+        ]
+    }
+}

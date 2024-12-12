@@ -1,0 +1,35 @@
+{
+    "id": 301110,
+    "brand": "aricryl",
+    "name": "ARICRYL 7110",
+    "slug": "aricryl-7110",
+    "description": "ARICRYL 7110 is used in general metal coating and compatible with CAB, excellent chemical and stain resistance, excellent adhesion, excellent hardness.",
+    "company_name": "PT. Aristek Highpolymer",
+    "company_slug": "pt-aristek-highpolymer",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112228/production/Company/24311/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608585/production/CategoryImage/567/category_image/PaintingsCoatings_03.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial Coatings",
+            "Metal Coatings"
+        ],
+        "Product Families": [
+            "Resins & Binders",
+            "Acrylics"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ],
+        "Features": [
+            "Chemical Resistance",
+            "Excellent Adhesion",
+            "Improved Hardness",
+            "Stain Resistance"
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": 374008,
+    "brand": "capsopearl",
+    "name": "Frey & Lau Cumarin",
+    "slug": "frey-lau-cumarin",
+    "description": "Cumarin has a spicy, sweet, characteristic woodruff flavor, association with hay.",
+    "company_name": "Frey & Lau",
+    "company_slug": "frey-lau",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697221581/production/Company/44194/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606924/production/CategoryImage/503/category_image/FoodNutrition_04.jpg",
+    "properties": {
+        "Applications": [
+            "Other Food Applications",
+            "Food"
+        ],
+        "Product Families": [
+            "Flavor Ingredients",
+            "Taste & Flavor"
+        ],
+        "Flavor Family": [
+            "Sweet Flavors"
+        ]
+    },
+    "summary": {}
+}

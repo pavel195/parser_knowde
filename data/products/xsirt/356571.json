@@ -1,0 +1,52 @@
+{
+    "id": 356571,
+    "brand": "xsirt",
+    "name": "InstaKOMBU™",
+    "slug": "instakombu",
+    "description": "InstaKOMBU™ is a healthy drink that has become popular among international celebrities in recent years. After the black tea liquid is fermented with kombucha SCOBY, it is rich in beneficial bacteria, organic acids, tea polyphenols, flavonoids, and other healthy components. This process enables kombucha to have anti-oxidation, anti-inflammatory, intestinal care, and physical health improving effects on the human body.",
+    "company_name": "Ming Chyi Biotechnology",
+    "company_slug": "ming-chyi-biotechnology",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708690843/production/Brand/26536/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607215/production/CategoryImage/511/category_image/FoodNutrition_12.jpg",
+    "properties": {
+        "Applications": [
+            "Dairy",
+            "Juice & Juice Drinks",
+            "Nutraceuticals & Supplements",
+            "Functional Foods",
+            "Beverage",
+            "Food",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Antioxidants",
+            "Tea & Coffee Products",
+            "Nutrition & Fortification",
+            "Whole Foods, Extracts & Premixes",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Yogurt",
+            "Juices",
+            "Dietary Supplements",
+            "Functional Foods"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Kombu"
+        ],
+        "Functions": [
+            "Supplement",
+            "Dietary Supplement",
+            "Antioxidant"
+        ],
+        "Physical Form": [
+            "Powder",
+            "Solid"
+        ],
+        "Benefit Claims (Health)": [
+            "Antioxidant Properties"
+        ]
+    }
+}

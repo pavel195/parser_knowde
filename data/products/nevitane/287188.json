@@ -1,0 +1,42 @@
+{
+    "id": 287188,
+    "brand": "nevitane",
+    "name": "Neviester B1 V30 NERO",
+    "slug": "neviester-b1-v30-nero",
+    "description": "Neviester B1 V30 NERO is a black color. Its used in Electric &amp; Electronic Consumer Goods.",
+    "company_name": "Nevicolor",
+    "company_slug": "nevicolor",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708518269/production/Company/21364/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608744/production/CategoryImage/575/category_image/AutomotiveTransportation_03.jpg",
+    "properties": {
+        "Applications": [
+            "Other Parts & Components",
+            "Other Consumer Goods Applications",
+            "Other Devices & Assemblies",
+            "Devices & Assemblies",
+            "Parts & Components"
+        ],
+        "Product Families": [
+            "Polyesters & Copolyesters",
+            "Engineering & Specialty Polymers"
+        ],
+        "Chemical Family": [
+            "Polyesters"
+        ],
+        "Polymer Name": [
+            "Polybutylene Terephthalate (PBT)"
+        ],
+        "End Uses": [
+            "Electrical/Electronic Applications",
+            "Consumer Applications"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polybutylene Terephthalate (PBT)"
+        ],
+        "Fillers Included": [
+            "Glass Fiber"
+        ]
+    }
+}

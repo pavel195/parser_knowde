@@ -1,0 +1,99 @@
+{
+    "id": 406142,
+    "brand": "censil",
+    "name": "Censil Hydrophobic silica 17",
+    "slug": "longyan-shenge-hydrophobic-silica",
+    "description": null,
+    "company_name": "Longyan Shenghe",
+    "company_slug": "longyan-shenghe",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708696312/production/Product/406142/logo/image",
+    "banner_url": "https://static.knowde.com/card-banners/knowde-card-for-raw-materials-8.jpg",
+    "properties": {
+        "Applications": [
+            "Sealants & Caulks",
+            "Screen Printing",
+            "Resin Manufacturing",
+            "Skin Care",
+            "Jacketing & Insulation",
+            "Fluids & Lubricants",
+            "Building Wires & Power Cables",
+            "Food & Beverage Manufacturing",
+            "Building & Construction",
+            "Building Materials",
+            "Construction Chemicals",
+            "Roofing",
+            "Wire & Cable",
+            "Processing & Packaging",
+            "Chemical & Industrial Manufacturing",
+            "Printing & Inks",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Foaming & Antifoaming Aids",
+            "Drift Control, Foam Markers & Thickeners",
+            "Rheology Modifiers",
+            "Performance Additives",
+            "Flame Retardants",
+            "Inorganics",
+            "Fillers & Extenders",
+            "Other Functional Additives",
+            "Additives",
+            "Functionals",
+            "Functional Additives",
+            "Polymer Additives",
+            "Elastomer Additives",
+            "Adjuvants & Formulation Ingredients",
+            "Technical Salts & Inorganics"
+        ],
+        "Chemical Family": [
+            "Carbonates",
+            "Calcium Salts",
+            "Barites & Barium Salts",
+            "Silica",
+            "Silicon-based Compounds"
+        ],
+        "INCI Name": [
+            "Calcium Carbonate",
+            "Hydrated Silica"
+        ],
+        "End Uses": [
+            "Screen Printing Ink",
+            "Wires",
+            "Cables",
+            "Toner"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Calcium Carbonate",
+            "Hydrated Silica"
+        ],
+        "Ingredient Name": [
+            "Silicon Dioxide",
+            "Calcium Carbonate"
+        ],
+        "Chemical Name": [
+            "Silicon Dioxide",
+            "Silica Dimethyl Silylate",
+            "Alumina Trihydrate (ATH)",
+            "Calcium Carbonate"
+        ],
+        "Functions": [
+            "Base Stock & Oil",
+            "Flame Retardant",
+            "Defoamer",
+            "Anti-Foaming Agent",
+            "Anti-Caking Agent",
+            "Thickener",
+            "Filler",
+            "Viscosity Modifier"
+        ],
+        "Chemical Family": [
+            "Calcium Salts",
+            "Carbonates",
+            "Barites & Barium Salts",
+            "Silica",
+            "Silicon-based Compounds"
+        ]
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "id": 412113,
+    "brand": "fastex",
+    "name": "FASTEX® FBOG220",
+    "slug": "fastex-fbog220",
+    "description": "FASTEX® FBOG220 is a premium, extreme pressure GEAR OIL for Industrial and Marine service. It is formulated from high viscosity index (VI) paraffinic base oils and blended with a Fastex Surface Modifier. This proprietary Extreme Pressure (EP) &amp; Anti-Wear (AW) package is used to provide very high load and wear protection to the gear sets and bearings against seizure and surface distress. Protects equipment against thermal damage, corrosion. Proven results for FASTEX® FBOG220 confirm a long service life and dramatically reduced oil change frequencies.",
+    "company_name": "Glenveigh Distribution",
+    "company_slug": "glenveigh-distribution",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680109037/production/Brand/32160/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Lubricants & Functional Fluids",
+            "Marine",
+            "Marine Fluids & Lubricants",
+            "Chemical & Industrial Manufacturing",
+            "Transportation",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Lubricants & Oils",
+            "Fluids & Lubricants"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Oil"
+        ],
+        "Application Area": [
+            "Gears",
+            "Hydraulic Pumps",
+            "Marine Applications",
+            "Industrial Conveyors"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Steel"
+        ],
+        "Features": [
+            "Oxidation Resistant",
+            "Sludge Build-up Prevention",
+            "Chemical Resistant",
+            "Corrosion Resistant",
+            "Anti-Wear Properties",
+            "Extreme Pressure Performance",
+            "Varnish Build-up Prevention",
+            "Service Life Extension",
+            "Low Friction"
+        ]
+    }
+}

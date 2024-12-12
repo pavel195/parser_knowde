@@ -1,0 +1,50 @@
+{
+    "id": 261806,
+    "brand": "cliqsperse",
+    "name": "CLiQFLOW® 680",
+    "slug": "cliqflow-680",
+    "description": "CLiQFLOW® 680 is a VOC-, APE and tin-free associative thickener for aqueous clear and pigmented systems. The polyurethane thickener improves the viscosity at high shear rates and provides anearly Newtonian flow behavior.",
+    "company_name": "CLiQ SwissTech",
+    "company_slug": "cliq-swisstech",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708671883/production/Company/20571/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608557/production/CategoryImage/565/category_image/PaintingsCoatings_01.jpg",
+    "properties": {
+        "Applications": [
+            "Decorative Paints, Coatings & Stains",
+            "Decorative Paints",
+            "Building Materials",
+            "Building & Construction",
+            "Decorative Materials & Finishes"
+        ],
+        "Product Families": [
+            "Rheology Modifiers & Stabilizers",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ],
+        "End Uses": [
+            "Waterborne Coating"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Thickener",
+            "Rheology Modifier"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ],
+        "End Uses": [
+            "Waterborne Coating"
+        ],
+        "Labeling Claims": [
+            "Tin-free",
+            "VOC-free",
+            "APEO-free"
+        ],
+        "Physical Form": [
+            "Liquid"
+        ]
+    }
+}

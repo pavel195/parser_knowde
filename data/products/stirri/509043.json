@@ -1,0 +1,33 @@
+{
+    "id": 509043,
+    "brand": "stirri",
+    "name": "STIRRI V2",
+    "slug": "stirri-v2-no-clean-solder-paste-tacky-paste-flux",
+    "description": "STIRRI V2™ is a no-clean solder paste and tacky flux recognized for its high performance and suitability for stencil applications. It falls under the rosin chemical family and meets regulatory standards such as REACH (Europe), ensuring compliance and safety. With labeling claims of being halogen-free, it offers reliability and efficiency in soldering tasks.",
+    "company_name": "STIRRI® USA",
+    "company_slug": "stirri",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto/v1719483202/production/Company/110213/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607618/production/CategoryImage/522/category_image/ElectricalElectronics_07.jpg",
+    "properties": {
+        "Product Families": [
+            "Other Ready-to-Use Products"
+        ],
+        "Chemical Family": [
+            "Rosins"
+        ]
+    },
+    "summary": {
+        "Product Type": [
+            "Solder Paste"
+        ],
+        "Application Area": [
+            "Stencil"
+        ],
+        "Features": [
+            "High Performance"
+        ],
+        "Chemical Family": [
+            "Rosins"
+        ]
+    }
+}

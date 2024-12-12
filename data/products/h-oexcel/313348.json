@@ -1,0 +1,50 @@
+{
+    "id": 313348,
+    "brand": "h-oexcel",
+    "name": "Ammocure Yucca Powder 30%",
+    "slug": "ammocure-yucca-powder-30",
+    "description": "Ammocure Yucca Powder 30% is a specially formulated, all-natural source of saponin derived from the Yucca Schidigera plant for addition to animal feeds to control animal waste volume and odor.\r\n",
+    "company_name": "Brookside Agra",
+    "company_slug": "brookside-agra",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709127418/production/Product/313348/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1709127418/production/Product/313348/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Ruminants",
+            "Birds & Poultry",
+            "Swine",
+            "Other Animal Health & Nutrition",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Litter & Waste Management",
+            "Health & Well-Being"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Deodorant"
+        ],
+        "Animal Species": [
+            "Goat",
+            "Piglets",
+            "Sheep",
+            "Horses",
+            "Calves",
+            "Buffalo",
+            "Swine",
+            "Cows",
+            "Cattle"
+        ],
+        "Labeling Claims": [
+            "Non-Toxic",
+            "Natural"
+        ],
+        "Features": [
+            "Eliminates Odor"
+        ],
+        "Certifications & Compliance": [
+            "FDA Compliant"
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "id": 427942,
+    "brand": "nutrivit",
+    "name": "Nutrilab Kimya Ve Ilac S Repromax",
+    "slug": "nutrilab-kimya-ve-ilac-s-repromax",
+    "description": "Nutrilab Kimya Ve Ilac S Repromax provides protein, mineral and vitamin support that ruminants need during their reproductive period.",
+    "company_name": "Nutrilab",
+    "company_slug": "nutrilab",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686635448/production/Company/61182/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608224/production/CategoryImage/551/category_image/AgricultureFeed_07.jpg",
+    "properties": {
+        "Applications": [
+            "Animal Health & Nutrition",
+            "Ruminants"
+        ],
+        "Product Families": [
+            "Nutritional Ingredients",
+            "Nutrient Premixes"
+        ]
+    },
+    "summary": {
+        "Animal Species": [
+            "Cattle",
+            "Cows"
+        ],
+        "Certifications & Compliance": [
+            "GMP",
+            "ISO 9001"
+        ],
+        "Features": [
+            "Mineral Rich",
+            "High Protein Content",
+            "Improved Fertility",
+            "Vitamin Rich",
+            "Improved Reproductive Efficiency",
+            "Improves Immunity"
+        ]
+    }
+}

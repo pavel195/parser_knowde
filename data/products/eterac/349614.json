@@ -1,0 +1,45 @@
+{
+    "id": 349614,
+    "brand": "eterac",
+    "name": "ETERAC 7005-40",
+    "slug": "eterac-7005-40",
+    "description": "ETERAC 7005-40 is Solvent-based PSA.",
+    "company_name": "Eternal Materials Co Ltd",
+    "company_slug": "eternal-materials",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112352/production/Brand/26088/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608621/production/CategoryImage/570/category_image/PaintingsCoatings_06.jpg",
+    "properties": {
+        "Applications": [
+            "Tapes & Labels",
+            "Packaging & Paper",
+            "Tapes, Labels & Adhesives",
+            "Tape & Label Adhesives"
+        ],
+        "Product Families": [
+            "Resins & Binders",
+            "Acrylics"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ],
+        "End Uses": [
+            "Pressure Sensitive Adhesive",
+            "Solventborne Adhesive"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ],
+        "End Uses": [
+            "Pressure Sensitive Adhesive",
+            "Solventborne Adhesive"
+        ],
+        "Features": [
+            "Good Tack",
+            "Solvent Resistance",
+            "Good Color Stability",
+            "Good Peeling Strength"
+        ]
+    }
+}

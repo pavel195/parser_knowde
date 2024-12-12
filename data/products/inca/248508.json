@@ -1,0 +1,43 @@
+{
+    "id": 248508,
+    "brand": "inca",
+    "name": "BAJA YE ORGANIC",
+    "slug": "baja-ye-organic",
+    "description": "BAJA YE ORGANIC is a concentrated natural extract of the Mohave Yucca Plant, Yucca Schidigera. BAJA YE ORGANIC is a dark brown liquid. It is used as foaming agent and surfactant.",
+    "company_name": "Desert King International",
+    "company_slug": "desert-king-international",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708688271/production/Product/248508/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708688271/production/Product/248508/card_banner/image",
+    "properties": {
+        "Product Families": [
+            "Blends & Other Cleansers",
+            "Surfactants & Cleansers"
+        ],
+        "Chemical Family": [
+            "Plant Extracts"
+        ],
+        "INCI Name": [
+            "Yucca Schidigera Leaf/Root/Stem Extract"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Yucca Schidigera Leaf/Root/Stem Extract"
+        ],
+        "Functions": [
+            "Foaming Agent",
+            "Surfactant"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Plant Origin"
+        ],
+        "Labeling Claims": [
+            "Ulta Beauty's Conscious Beauty",
+            "Natural",
+            "Credo Clean Standard",
+            "Organic",
+            "Naturally Derived"
+        ]
+    }
+}

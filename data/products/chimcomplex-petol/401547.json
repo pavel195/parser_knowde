@@ -1,0 +1,44 @@
+{
+    "id": 401547,
+    "brand": "chimcomplex-petol",
+    "name": "PETOL® 250-3",
+    "slug": "chimcomplex-petol-250-3",
+    "description": "PETOL® 250-3 is a propoxylated glycerol, polyether polyol triol with an average molecular weight of 670.",
+    "company_name": "CHIMCOMPLEX",
+    "company_slug": "chimcomplex",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686138063/production/Brand/30586/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Other Adhesives & Sealants Applications",
+            "Resin Manufacturing",
+            "Other Paints & Coatings Applications",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Diols & Polyols",
+            "Monomers & Oligomers"
+        ],
+        "Chemical Family": [
+            "Polyols",
+            "Triols",
+            "Glycerol Esters & Derivatives"
+        ],
+        "End Uses": [
+            "Coatings",
+            "Resins",
+            "Polyurethane Foams",
+            "Adhesives"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Triols",
+            "Glycerol Esters & Derivatives",
+            "Polyols"
+        ],
+        "Hydroxyl Value": [
+            "240.0 - 260.0 mg KOH/g"
+        ]
+    }
+}

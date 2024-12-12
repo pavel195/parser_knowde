@@ -1,0 +1,35 @@
+{
+    "id": 509042,
+    "brand": "stirri",
+    "name": "HYDRA UHF",
+    "slug": "hydra-uhf-water-soluble-solder-paste-tacky-paste-flux",
+    "description": "HYDRA UHF™ is a water-soluble solder paste and tacky paste flux designed for stencil applications. It belongs to the rosin chemical family and complies with regulatory standards such as REACH in Europe. This product offers excellent printability and is halogen-free, making it suitable for various soldering tasks, including aerospace applications.",
+    "company_name": "STIRRI® USA",
+    "company_slug": "stirri",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto/v1719484100/production/Company/110213/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607618/production/CategoryImage/522/category_image/ElectricalElectronics_07.jpg",
+    "properties": {
+        "Product Families": [
+            "Other Ready-to-Use Products"
+        ],
+        "Chemical Family": [
+            "Rosins"
+        ]
+    },
+    "summary": {
+        "Product Type": [
+            "Solder Paste"
+        ],
+        "Application Area": [
+            "Stencil",
+            "Aerospace Applications"
+        ],
+        "Features": [
+            "Excellent Printability",
+            "Water Soluble"
+        ],
+        "Chemical Family": [
+            "Rosins"
+        ]
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "id": 343094,
+    "brand": "gojimax",
+    "name": "Phytossea™",
+    "slug": "phytossea",
+    "description": "Phytossea™ is developed from the medicinal plant Citrus reticulata, which is used commonly as a part of the food matrix. It has been a part of the traditional Indian system of Medicine, used to promote bone health",
+    "company_name": "Avesthagen",
+    "company_slug": "avesthagen",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708691846/production/Brand/25379/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607009/production/CategoryImage/509/category_image/FoodNutrition_10.jpg",
+    "properties": {
+        "Applications": [
+            "Functional Foods",
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Phytochemicals",
+            "Phytochemicals & Plant Extracts",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "Chemical Family": [
+            "Phytochemicals"
+        ],
+        "End Uses": [
+            "Dietary Supplements"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Mandarin Extract"
+        ],
+        "Functions": [
+            "Supplement",
+            "Dietary Supplement"
+        ],
+        "Features": [
+            "Improved Bone Health"
+        ]
+    }
+}

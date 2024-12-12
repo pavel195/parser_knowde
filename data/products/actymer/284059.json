@@ -1,0 +1,30 @@
+{
+    "id": 284059,
+    "brand": "actymer",
+    "name": "ACTYMER® AJ-1040S",
+    "slug": "actymer-aj-1040s",
+    "description": "ACTYMER® AJ-1040S is an elastomeric compound with excellent flexibility for making door switches in the automotive or automobile/exteriors industry.",
+    "company_name": "RIKEN TECHNOS CORP.",
+    "company_slug": "riken-technos-corp",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1693579690/production/Company/18883/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608760/production/CategoryImage/576/category_image/AutomotiveTransportation_04.jpg",
+    "properties": {
+        "Applications": [
+            "Switches & Relays",
+            "Exterior & Body",
+            "Automotive",
+            "Parts & Components"
+        ],
+        "Product Families": [
+            "Thermoplastic Vulcanizates (TPV)",
+            "Thermoplastic Elastomers"
+        ],
+        "Polymer Name": [
+            "Thermoplastic Vulcanizate (TPV)"
+        ],
+        "End Uses": [
+            "Switches"
+        ]
+    },
+    "summary": {}
+}

@@ -1,0 +1,31 @@
+{
+    "id": 373249,
+    "brand": "equalize",
+    "name": "Viribus™ T",
+    "slug": "viribus-t",
+    "description": "Viribus™ T is a proprietary feeding ingredient specifically designed for turkeys that provides critical vitamins, minerals and exclusive phytonutrients. The proprietary combination of ingredients included in Viribus™ T enables the turkeys to successfully adapt to nutritional, environmental and health stress factors.",
+    "company_name": "Furst-McNess Company",
+    "company_slug": "furst-mcness-company",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686133251/production/Brand/27878/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608173/production/CategoryImage/547/category_image/AgricultureFeed_03.jpg",
+    "properties": {
+        "Applications": [
+            "Animal Health & Nutrition",
+            "Birds & Poultry"
+        ],
+        "Product Families": [
+            "Nutritional Ingredients",
+            "Nutrient Premixes"
+        ]
+    },
+    "summary": {
+        "Certifications & Compliance": [
+            "Association Of American Feed Control Officials (AAFCO)"
+        ],
+        "Features": [
+            "Efficient Protein Absorption",
+            "Improves Feed Conversion Ratio",
+            "Improves Feed Intake"
+        ]
+    }
+}

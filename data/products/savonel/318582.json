@@ -1,0 +1,50 @@
+{
+    "id": 318582,
+    "brand": "savonel",
+    "name": "AquaPlus Red 808",
+    "slug": "aquaplus-red-808",
+    "description": "AquaPlus Red 808 is a high strength Toluidine Red water-based pigment dispersion used in tinting in-plant water-based architectural paints. This dispersion is stringently controlled in color shade, strength, and gravimetric accuracy.",
+    "company_name": "Chemrez Technologies",
+    "company_slug": "chemrez-technologies",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708521867/production/Product/318582/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608611/production/CategoryImage/569/category_image/PaintingsCoatings_05.jpg",
+    "properties": {
+        "Applications": [
+            "Architectural Coatings",
+            "Building Envelope",
+            "Building & Construction",
+            "Building Envelope & Roofing"
+        ],
+        "Product Families": [
+            "Organic Pigments",
+            "Color Dispersions",
+            "Color Pigments",
+            "Dispersions & Masterbatches"
+        ],
+        "Chemical Family": [
+            "Azo Compounds",
+            "Amines"
+        ],
+        "End Uses": [
+            "Waterborne Coating"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Azo Compounds",
+            "Amines"
+        ],
+        "Pigment Type": [
+            "Organic Pigments"
+        ],
+        "CI Number": [
+            "12120"
+        ],
+        "Color": [
+            "Red"
+        ],
+        "Carrier": [
+            "Water"
+        ]
+    }
+}

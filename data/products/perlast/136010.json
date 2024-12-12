@@ -1,0 +1,65 @@
+{
+    "id": 136010,
+    "brand": "perlast",
+    "name": "Perlast® G76W",
+    "slug": "perlast-g76w",
+    "description": "Perlast® G76W is an ivory colored perfluoroelastomer developed as a cost effective material for use in demanding applications within the industrial, analytical and automotive sectors.Perlast® G76W incorporates a reinforcing filler system which delivers outstanding chemical resistance against a wide range of chemicals and solvents typically used in paint spray, chromatography, mass spectroscopy, detergent dispensers, printing and industrial applications.Perlast® G76W provides excellent sealing performance in cost sensitive applications and its superior chemical resistance is complimented by exceptionally low compression set, high elongation and high tensile strength, ensuring maximum sealing efficiency. High elongation allows easy installation into small diameter piston grooves.Key Attributes Cost effective high performance perfluoroelastomer Outstanding solvent resistance Excellent resistance to reactive chemistries and oxidizing agents Low compression set High sealing efficiency Strong physical characteristics Easy to install Typical Applications O-rings Static &amp; Dynamic seals Lip Seals Check Valves Miniature Pumps &amp; Valves Paint Spray Heads Ink Jet heads Detergent Dispensers",
+    "company_name": "Precision Polymer Engineering",
+    "company_slug": "precision-polymer-engineering",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1703115598/production/Company/2831/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1703115598/production/Company/2831/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Marine",
+            "Aerospace & Aviation",
+            "Equipment & Parts",
+            "Pumps, Turbines & Compressors",
+            "Pipes & Hoses",
+            "Pipes & Plumbing",
+            "Cooling & Climate",
+            "Fuel Systems",
+            "Other Parts & Components",
+            "Appliances & Electronics",
+            "Other Industrial Applications",
+            "Other Automotive Applications",
+            "Agricultural Films",
+            "Automotive",
+            "Transportation",
+            "Building Materials",
+            "Parts & Components",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Fluoroelastomers",
+            "Specialty Elastomers"
+        ],
+        "Chemical Family": [
+            "Fluoropolymers"
+        ],
+        "Polymer Name": [
+            "Perfluoroelastomer (FFKM)"
+        ],
+        "End Uses": [
+            "Seals",
+            "Pumps",
+            "Valve Parts",
+            "Pump Parts",
+            "Valves",
+            "Industrial Applications",
+            "Automotive Applications"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Perfluoroelastomer (FFKM)"
+        ],
+        "Features": [
+            "High Strength",
+            "Low Compression Set",
+            "Oxidation Resistant",
+            "Solvent Resistant",
+            "High Elongation",
+            "Chemical Resistant"
+        ]
+    }
+}

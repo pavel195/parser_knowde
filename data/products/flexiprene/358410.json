@@ -1,0 +1,37 @@
+{
+    "id": 358410,
+    "brand": "flexiprene",
+    "name": "MIX2FIX® FC Steel",
+    "slug": "mix2fix-fc-steel",
+    "description": "MIX2FIX FC Steel is a fast-curing, general-purpose, two-part epoxy paste with a high steel alloy particle content (40%). It can be used to make tough, permanent repairs that will be rust free and can be machined like steel.",
+    "company_name": "Polymeric Systems",
+    "company_slug": "polymeric-systems",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520058/production/Brand/26725/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608953/production/CategoryImage/586/category_image/AdhesivesSealants_03.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Construction Chemicals",
+            "Roofing",
+            "Maintenance, Repair & Overhaul",
+            "Sealants & Caulks"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Caulks & Sealants"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Epoxy Sealant",
+            "2K (2 component) Sealant"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Wood",
+            "Concrete",
+            "Metal",
+            "Plastics",
+            "Ceramic"
+        ]
+    }
+}

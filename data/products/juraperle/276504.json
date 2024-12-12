@@ -1,0 +1,62 @@
+{
+    "id": 276504,
+    "brand": "juraperle",
+    "name": "Juraperle 15",
+    "slug": "juraperle-15",
+    "description": "Juraperle 15 is a coarse calcium carbonate powder designed for use as a filler, pigment, or mixing agent in manufacturing processes. Common applications of this product include paper, paperboard, paints, varnishes, coatings, printing inks, mastics, soaps, detergents, rubber, cleaning mixtures, and polishing mixtures. Juraperle 15 is a solid powder in appearance with a characteristic odor and a loose bulk density of 0.75 g/cm3.",
+    "company_name": "Eduard Merkle",
+    "company_slug": "eduard-merkle",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708696208/production/Company/20594/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608600/production/CategoryImage/568/category_image/PaintingsCoatings_04.jpg",
+    "properties": {
+        "Applications": [
+            "Architectural Coatings",
+            "Other Printing Applications",
+            "Overprint Varnishes",
+            "Other Printing & Packaging Applications",
+            "Other Paints & Coatings Applications",
+            "Building Envelope",
+            "Building & Construction",
+            "Packaging Coatings",
+            "Printing & Inks",
+            "Building Envelope & Roofing"
+        ],
+        "Product Families": [
+            "Functional Additives",
+            "Filler & Extender Pigments",
+            "Inorganic Pigments",
+            "Functional Pigments",
+            "Fillers & Extenders",
+            "Additives",
+            "Pigments & Colorants",
+            "Color Pigments"
+        ],
+        "Chemical Family": [
+            "Waxes",
+            "Carbonates",
+            "Calcium Salts"
+        ],
+        "End Uses": [
+            "Latex",
+            "Varnishes"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Colorant",
+            "Filler",
+            "Anti-Caking Agent"
+        ],
+        "Chemical Family": [
+            "Waxes",
+            "Carbonates",
+            "Calcium Salts"
+        ],
+        "Pigment Type": [
+            "Inorganic Pigments"
+        ],
+        "Color": [
+            "White"
+        ]
+    }
+}

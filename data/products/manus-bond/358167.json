@@ -1,0 +1,41 @@
+{
+    "id": 358167,
+    "brand": "manus-bond",
+    "name": "Manus-Bond 75-AM HV",
+    "slug": "manus-bond-75-am-hv",
+    "description": "Manus-Bond 75-AM HV exhibits adhesion to many substrates including aluminum, brass, steel, granite, marble, wood and many plastics. Cures fast, even at low temperatures. 75-AM HV is highly weather resistant and can be painted with most paints. Contains no solvents or isocyanates and is non-yellowing.",
+    "company_name": "Manus Products",
+    "company_slug": "manus-products",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664290778/production/Brand/26664/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608953/production/CategoryImage/586/category_image/AdhesivesSealants_03.jpg",
+    "properties": {
+        "Applications": [
+            "Other Adhesives & Sealants Applications"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Contact Adhesives"
+        ],
+        "Chemical Family": [
+            "Polyethers"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Adhesive"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Brass",
+            "Aluminum",
+            "Painted Surfaces",
+            "Metal",
+            "Steel",
+            "Wood",
+            "Marble",
+            "Plastics"
+        ],
+        "Chemical Family": [
+            "Polyethers"
+        ]
+    }
+}

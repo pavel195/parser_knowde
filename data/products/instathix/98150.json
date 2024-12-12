@@ -1,0 +1,72 @@
+{
+    "id": 98150,
+    "brand": "instathix",
+    "name": "Sucrabase C",
+    "slug": "alchemy-ingredients-sucrabase-c",
+    "description": "Sucrabase C is a thick oily gel which immediately turns into a thin emulsion on addition of water. It can be used to create a number of different formulations by simply stirring in other ingredients at room temperature. ",
+    "company_name": "Alchemy Ingredients",
+    "company_slug": "alchemy-ingredients",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672650/production/Product/98150/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708672650/production/Product/98150/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Bath & Shower",
+            "Skin Care",
+            "Baby Care",
+            "Hair Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Marine Extracts",
+            "Other Functional Additives",
+            "Emulsifiers, Solubilizers & Dispersants",
+            "Vitamins, Extracts & Oils",
+            "Functionals"
+        ],
+        "Chemical Family": [
+            "Plant Extracts"
+        ],
+        "INCI Name": [
+            "Sucrose Stearate",
+            "Sucrose Laurate",
+            "Caprylic/Capric Triglyceride"
+        ],
+        "End Uses": [
+            "Body Wash",
+            "Facial Mask",
+            "Body Cream",
+            "Body Lotion",
+            "Spa Treatments",
+            "Make Up Remover"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Caprylic/Capric Triglyceride",
+            "Sucrose Stearate",
+            "Sucrose Laurate"
+        ],
+        "Functions": [
+            "Cleansing Agent",
+            "Moisturizing Agent",
+            "Emulsifier"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Vegetable Origin"
+        ],
+        "Labeling Claims": [
+            "Credo Clean Standard",
+            "COSMOS Approved",
+            "Clean at Sephora",
+            "Biodegradable",
+            "Preservative-free",
+            "Ulta Beauty's Conscious Beauty"
+        ],
+        "Certifications & Compliance": [
+            "RSPO Supply Chain Certified",
+            "ECOCERT GREENLIFE",
+            "ECOCERT"
+        ]
+    }
+}

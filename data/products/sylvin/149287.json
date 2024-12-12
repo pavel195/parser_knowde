@@ -1,0 +1,43 @@
+{
+    "id": 149287,
+    "brand": "sylvin",
+    "name": "Sylvin™ 5195-80 Clear 876",
+    "slug": "sylvin-5195-80-clear-876",
+    "description": "Sylvin™ 5195-80 Clear 876 is a vinyl compound formulated for Clear grounding cable applications.",
+    "company_name": "Sylvin Technologies",
+    "company_slug": "sylvin-technologies",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708524712/production/Company/2849/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708524712/production/Company/2849/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Jacketing & Insulation",
+            "Wire & Cable"
+        ],
+        "Product Families": [
+            "Vinyl Polymers",
+            "Basic Thermoplastics"
+        ],
+        "Chemical Family": [
+            "Vinyls, Vinylics & Vinyl Derivatives"
+        ],
+        "Polymer Name": [
+            "Polyvinyl Chloride (PVC)"
+        ],
+        "End Uses": [
+            "Wires",
+            "Cables"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyvinyl Chloride (PVC)"
+        ],
+        "Processing Methods": [
+            "Extrusion"
+        ],
+        "End Uses": [
+            "Wires",
+            "Cables"
+        ]
+    }
+}

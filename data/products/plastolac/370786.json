@@ -1,0 +1,39 @@
+{
+    "id": 370786,
+    "brand": "plastolac",
+    "name": "POLIPLAST RCM1111",
+    "slug": "poliplast-rcm1111",
+    "description": "Poliplast RCM1111 is a specially developed to obtain particular properties. These products are developed for use in specific applications.",
+    "company_name": "POLIPLAST",
+    "company_slug": "poliplast",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708528691/production/Company/43280/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Pipes & Hoses",
+            "Agricultural Films"
+        ],
+        "Product Families": [
+            "Polyolefins",
+            "Basic Thermoplastics"
+        ],
+        "Chemical Family": [
+            "Polyolefins",
+            "Polyethylenes"
+        ],
+        "Polymer Name": [
+            "Polyethylene (unspecified)"
+        ],
+        "End Uses": [
+            "Agricultural Tanks"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyethylene (unspecified)"
+        ],
+        "Melt Flow Index": [
+            "4.4 - 4.4 g/10 min"
+        ]
+    }
+}

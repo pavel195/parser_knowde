@@ -1,0 +1,51 @@
+{
+    "id": 405467,
+    "brand": "globaltech",
+    "name": "GlobalTech® Isopropyl Alcohol & DI Water 70/30%",
+    "slug": "globaltech-isopropyl-alcohol-di-water-70-30",
+    "description": "GlobalTech® Isopropyl Alcohol &amp; DI Water 70/30% blend (IPA/DI) is a non-aggressive universal cleaner, degreaser and disinfectant. Removes most types of inks, pastes, fluxes, light oils and other contaminates associated with assembly, machining, soldering and printing. Ideal for use in surface preparation prior to manufacturing or assembly processes. Saturated wipe material options: polyester, industrial grade and critical-clean. Available in Isopropyl Alcohol 99%.",
+    "company_name": "JNJ Industries",
+    "company_slug": "jnj-industries",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1682593099/production/Brand/31079/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515657/production/CategoryImage/1056/category_image/HII_08.jpg",
+    "properties": {
+        "Applications": [
+            "Institutional & Industrial Care",
+            "Industrial Cleaning",
+            "Institutional & Catering",
+            "Technical Cleaning"
+        ],
+        "Product Families": [
+            "Industrial Cleaners",
+            "Commercial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Disinfectant Products",
+            "Cleaner",
+            "Degreasers"
+        ],
+        "Certifications & Compliance": [
+            "REACH (Europe)",
+            "Waste Electrical & Electronic Equipment Directive (WEEE)",
+            "RoHS Compliant"
+        ],
+        "Application Area": [
+            "Fiber Optic Cables",
+            "Equipment",
+            "Wire Cables",
+            "Electrical Components",
+            "Electronic Components",
+            "Printed Circuit Boards"
+        ],
+        "Features": [
+            "Degreasing",
+            "Low Toxicity",
+            "Excellent Drying Properties",
+            "Cost Effective",
+            "Fast Drying"
+        ]
+    }
+}

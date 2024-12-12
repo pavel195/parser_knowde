@@ -1,0 +1,46 @@
+{
+    "id": 407093,
+    "brand": "microring",
+    "name": "ExpresSeal® NBR (Black) (Nitrile Butadiene Rubber)",
+    "slug": "expresseal-nbr-black-nitrile-butadiene-rubber",
+    "description": "ExpresSeal® NBR (Black) (Nitrile Butadiene Rubber) has good abrasion resistance. elastic, allowing for ease of installation. used for hydraulic and pneumatic applications.",
+    "company_name": "Apple Rubber Products",
+    "company_slug": "apple-rubber-products",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686149708/production/Brand/31402/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608769/production/CategoryImage/577/category_image/AutomotiveTransportation_05.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical & Industrial Manufacturing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Parts & Shapes"
+        ],
+        "Polymer Name": [
+            "Acrylonitrile Butadiene Rubber (NBR)"
+        ],
+        "End Uses": [
+            "Hydraulic Applications",
+            "Pneumatic Applications"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Acrylonitrile Butadiene Rubber (NBR)"
+        ],
+        "Physical Form": [
+            "Seals"
+        ],
+        "Features": [
+            "Good Abrasion Resistance",
+            "High Elasticity"
+        ],
+        "End Uses": [
+            "Pneumatic Applications",
+            "Hydraulic Applications"
+        ],
+        "Color": [
+            "Black"
+        ]
+    }
+}

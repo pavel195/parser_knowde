@@ -1,0 +1,53 @@
+{
+    "id": 93255,
+    "brand": "asfier",
+    "name": "DANOX® HC-30",
+    "slug": "danox-hc-30",
+    "description": "DANOX® HC-30 is a solid, 100% active matter and ready-to-use conditioning agent that allows a single-step formulation process. It shows a great compatibility with silicones and is also compatible with other additives. Additionally, it is biodegradable and non-toxic to aquatic organisms, which means a friendlier labeling than traditional cationic surfactants.",
+    "company_name": "Kao Chemicals",
+    "company_slug": "kao-chemicals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708700171/production/Company/1283/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708700171/production/Company/1283/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Skin Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Conditioners & Emollients",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Lactic Acid",
+            "Stearyl Alcohol",
+            "Cetyl Alcohol",
+            "Dipalmitoylethyl Hydroxyethylmonium Methosulfate",
+            "Behenamidopropyl Dimethylamine"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Stearyl Alcohol",
+            "Lactic Acid",
+            "Dipalmitoylethyl Hydroxyethylmonium Methosulfate",
+            "Cetyl Alcohol",
+            "Behenamidopropyl Dimethylamine"
+        ],
+        "Functions": [
+            "Conditioner"
+        ],
+        "Labeling Claims": [
+            "Biodegradable",
+            "Non-Toxic"
+        ],
+        "Benefit Claims": [
+            "Softening",
+            "Moisturizing",
+            "Anti-Aging",
+            "Conditioning",
+            "Ready-To-Use",
+            "Anti-Acne",
+            "Healing"
+        ]
+    }
+}

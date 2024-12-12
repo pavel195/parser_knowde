@@ -1,0 +1,69 @@
+{
+    "id": 348198,
+    "brand": "flurocarbon",
+    "name": "Flurocarbon 9167-60",
+    "slug": "flurocarbon-9167-60",
+    "description": "Flurocarbon 9167-60 is fluorocarbon seal designed for low-pressure applications requiring broad chemical resistance at low temperatures. Parco 9167-60 seals are suitable for static applications ranging from -65 to +450°F and dynamic applications ranging from -40 to +450°F.",
+    "company_name": "Parco",
+    "company_slug": "parco",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686149355/production/Brand/25996/logo/image",
+    "banner_url": "https://static.knowde.com/card-banners/knowde-card-for-raw-materials-8.jpg",
+    "properties": {
+        "Applications": [
+            "Fuel Systems",
+            "Cooling & Climate",
+            "Other Automotive Applications",
+            "Exploration & Upstream",
+            "Midstream",
+            "Aerospace & Aviation",
+            "Oil, Gas & Mining",
+            "Transportation",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Parts & Shapes"
+        ],
+        "Chemical Family": [
+            "Fluoropolymers"
+        ],
+        "Polymer Name": [
+            "Fluoroelastomer (FKM)"
+        ],
+        "End Uses": [
+            "O Rings",
+            "General Purpose"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Fluoroelastomer (FKM)"
+        ],
+        "Physical Form": [
+            "Seals",
+            "O-rings"
+        ],
+        "Features": [
+            "Low Temperature Resistant",
+            "High Temperature Resistance",
+            "Gasoline Resistant",
+            "Low Compression Set",
+            "Steam Resistant",
+            "Chemical Resistant",
+            "Cost Effective",
+            "Wide Temperature Operating Range",
+            "General Purpose",
+            "UL Listed",
+            "Automotive Fluid Resistant"
+        ],
+        "End Uses": [
+            "O Rings",
+            "General Purpose"
+        ],
+        "Tensile Strength": [
+            "11.16869 - 11.16869 MPa"
+        ],
+        "Color": [
+            "Black"
+        ]
+    }
+}

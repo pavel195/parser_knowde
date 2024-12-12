@@ -1,0 +1,58 @@
+{
+    "id": 292135,
+    "brand": "polsil",
+    "name": "POLSIL® GUM 100/60",
+    "slug": "polsil-gum-100-60",
+    "description": "Polsil® GUM 100/60 is general purpose heat cured elastomer widely used for molding and extrusion in various industries.",
+    "company_name": "Silikony Polskie",
+    "company_slug": "silikony-polskie",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112572/production/Company/21376/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607436/production/CategoryImage/518/category_image/ElectricalElectronics_03.jpg",
+    "properties": {
+        "Applications": [
+            "Agricultural Films",
+            "Building Materials",
+            "Pipes & Hoses",
+            "Chassis & Brake",
+            "Powertrain & UTH",
+            "Automotive",
+            "Structural Components"
+        ],
+        "Product Families": [
+            "Specialty Elastomers",
+            "Silicone Elastomers"
+        ],
+        "Chemical Family": [
+            "Silicones"
+        ],
+        "Polymer Name": [
+            "Silicone Elastomer"
+        ],
+        "End Uses": [
+            "Shock Absorbing Pads",
+            "Hoses"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Silicone Elastomer"
+        ],
+        "Processing Methods": [
+            "Compression Molding",
+            "Extrusion"
+        ],
+        "End Uses": [
+            "Shock Absorbing Pads",
+            "Hoses"
+        ],
+        "Features": [
+            "Durable",
+            "Good UV Resistance",
+            "Chemical Resistant",
+            "Ozone Resistant",
+            "Flexible",
+            "Heat Resistance",
+            "High Gas Permeability"
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "id": 346534,
+    "brand": "egmont",
+    "name": "NZMP (USA) / Fonterra North America Cream Cheese Traditional",
+    "slug": "nzmp-usa-fonterra-north-america-cream-cheese-traditional",
+    "description": "NZMP Cream Cheese Traditional is a multi-purpose product, made by fermenting our pasteurized whole milk with fresh cream, creating an unripened cheese with a smooth body and a mild, creamy flavor.",
+    "company_name": "NZMP (USA) / Fonterra North America",
+    "company_slug": "nzmp-usa-fonterra-north-america",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1693576206/production/Company/37327/logo/image",
+    "banner_url": "https://static.knowde.com/card-banners/knowde-card-for-raw-materials-8.jpg",
+    "properties": {
+        "Applications": [
+            "Desserts & Fruit Preparations",
+            "Confectionery",
+            "Bakery",
+            "Convenience Foods",
+            "Savory & Culinary",
+            "Food"
+        ],
+        "Product Families": [
+            "Dairy Products",
+            "Whole Foods, Extracts & Premixes"
+        ],
+        "End Uses": [
+            "Confectionery Products",
+            "Filling Applications",
+            "Cheesecake",
+            "Frozen Bakery Products",
+            "Cream Spreads",
+            "Dips"
+        ]
+    },
+    "summary": {}
+}

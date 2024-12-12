@@ -1,0 +1,28 @@
+{
+    "id": 301513,
+    "brand": "sancryl",
+    "name": "POLISAT 714 70 HF",
+    "slug": "polisat-714-70-hf",
+    "description": "POLISAT 714 70 HF is a hydroxylated saturated polyester.",
+    "company_name": "Polidur San Luis",
+    "company_slug": "polidur-san-luis",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691737575/production/Company/24298/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609091/production/CategoryImage/594/category_image/PrintingPackaging_05.jpg",
+    "properties": {
+        "Applications": [
+            "Can Coatings",
+            "Coil Coatings",
+            "Appliances & Electronics",
+            "Industrial Coatings",
+            "Packaging Coatings"
+        ],
+        "Product Families": [
+            "Polyesters",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Polyesters"
+        ]
+    },
+    "summary": {}
+}

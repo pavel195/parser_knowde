@@ -1,0 +1,40 @@
+{
+    "id": 274055,
+    "brand": "bas",
+    "name": "BUP 620",
+    "slug": "bup-620",
+    "description": "BUP 620 is an un-promoted orthophthalic based unsaturated polyester resin with low reactivity, medium viscosity, good flexibility and transparency for ambient temperature cure with MEK peroxide.",
+    "company_name": "Bonyan Kala Chemie",
+    "company_slug": "bonyan-kala-chemie",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112143/production/Company/20956/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608454/production/CategoryImage/560/category_image/BuildingConstruction_04.jpg",
+    "properties": {
+        "Applications": [
+            "Other Paints & Coatings Applications",
+            "Chemical & Industrial Manufacturing",
+            "Pipes & Tanks",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Polyesters",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Polyesters"
+        ],
+        "End Uses": [
+            "Gelcoat"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Polyesters"
+        ],
+        "End Uses": [
+            "Gelcoat"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Glass"
+        ]
+    }
+}

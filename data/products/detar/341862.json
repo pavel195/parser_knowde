@@ -1,0 +1,39 @@
+{
+    "id": 341862,
+    "brand": "detar",
+    "name": "DETAR ACID",
+    "slug": "detar-acid",
+    "description": "DETAR ACID is a detergent and descaling agent based on acid reaction designed for removing inorganic deposits from the surfaces of machines and equipment. Detar Acid has been specially formulated to dissolve and remove inorganic residues, whether caused by processing operations (e.g. milkstone) or the utility water supply (limescale).",
+    "company_name": "Perdomini IOC",
+    "company_slug": "perdomini-ioc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708687172/production/Brand/25253/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608045/production/CategoryImage/542/category_image/HomePersonalCare_08.jpg",
+    "properties": {
+        "Applications": [
+            "Food & Beverage Manufacturing",
+            "Food Facility Cleaning & Sanitization",
+            "Industrial Cleaning",
+            "Processing & Packaging",
+            "Institutional & Industrial Care"
+        ],
+        "Product Families": [
+            "Other Functional Additives",
+            "Functional Additives"
+        ],
+        "End Uses": [
+            "Cooling Circuit Cleaner",
+            "Dairy Cleaners",
+            "Tank Cleaners"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Descalant"
+        ],
+        "End Uses": [
+            "Dairy Cleaners",
+            "Cooling Circuit Cleaner",
+            "Tank Cleaners"
+        ]
+    }
+}

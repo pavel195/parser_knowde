@@ -1,0 +1,40 @@
+{
+    "id": 328339,
+    "brand": "abs-esd7",
+    "name": "Solaxis PC",
+    "slug": "solaxis-pc",
+    "description": "Solaxis PC is widely used in automotive, aerospace, medical and many other applications. PC offers accuracy, durability and stability, creating strong parts that withstand functional testing. A PC part manufactured on a Fortus® 3D Printer is 5 to 60 percent stronger than a part made on previous FDM® systems. It also has superior mechanical properties to ABS and a number of other thermoplastics. When combined with a Fortus 3D Printer, PC gives you strong parts for conceptual modeling, functional prototyping, manufacturing tools, and production parts. PC runs the Xtend 500 Fortus Plus option, which enables more than 400 hours of unattended build time.",
+    "company_name": "Solaxis",
+    "company_slug": "solaxis",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691744168/production/Company/32083/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Interior",
+            "Other Medical Applications",
+            "Tooling & Moldmaking",
+            "Other Consumer Goods Applications",
+            "Other Automotive Applications",
+            "Aerospace & Aviation",
+            "Medical",
+            "Chemical & Industrial Manufacturing",
+            "Transportation",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Other 3D Printing Polymers",
+            "3D Printing Polymers"
+        ],
+        "Chemical Family": [
+            "Polycarbonate (PC)"
+        ],
+        "Polymer Name": [
+            "Polycarbonate (PC)"
+        ],
+        "End Uses": [
+            "Prototyping",
+            "3D Printing Applications"
+        ]
+    },
+    "summary": {}
+}

@@ -1,0 +1,100 @@
+{
+    "id": 452543,
+    "brand": "cellosize-tm",
+    "name": "DOWSIL(TM) 556 Cosmetic Grade Fluid",
+    "slug": "dowsil-tm-556-cosmetic-grade-fluid",
+    "description": "\r\n\r\nDOWSIL(TM) 556 Cosmetic Grade Fluid is a phenyl functionalized siloxane polymer with uses in a wide range of cosmetic formulations. It provides non-oily, easy to spread emolliency in skin and sun care applications; shine, softness, and better manageability in hair care; and improved dispersibility of pigments color cosmetic applications. DOWSIL(TM) 556 Cosmetic Grade Fluid also has good compatibility with many cosmetic ingredients, including non-silicone ingredients.\r\n",
+    "company_name": "Dow North America",
+    "company_slug": "dow-north-america",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709824440/production/Company/1/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515700/production/CategoryImage/1059/category_image/PersonalCare_01.jpg",
+    "properties": {
+        "Applications": [
+            "AP/Deo",
+            "Color Cosmetics",
+            "Sun Care",
+            "Hair Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Conditioners & Emollients",
+            "Solvents & Carriers",
+            "Visual Modifiers",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Phenyl Trimethicone"
+        ],
+        "End Uses": [
+            "Suntan Spray",
+            "Suntan Lotion",
+            "Body Lotion",
+            "Body Cream",
+            "Pre-Shave Lotion",
+            "Hair Conditioner",
+            "Hair Spray"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Phenyl Trimethicone"
+        ],
+        "Ingredient Origin": [
+            "Non-Animal Origin",
+            "Synthetic"
+        ],
+        "Functions": [
+            "Gloss Enhancer",
+            "SPF Booster",
+            "Water Repellent"
+        ],
+        "Labeling Claims": [
+            "Not Listed In California Proposition 65",
+            "BSE-free",
+            "Nanomaterials-free",
+            "Endocrine Disruptor-free",
+            "TSE-free",
+            "Palm Oil-free",
+            "Allergen-free",
+            "Vegan",
+            "Non-Carcinogenic",
+            "Non-GMO",
+            "Animal Products-free",
+            "Non-Mutagenic",
+            "Non-Toxic",
+            "Irradiation-free",
+            "Preservative-free",
+            "Porcine-free",
+            "Halal",
+            "CMR Substances-free"
+        ],
+        "Certifications & Compliance": [
+            "Halal",
+            "EU Cosmetic Regulation 1223/2009 Compliant",
+            "Directive 2011/65/EC amended through EU/2015/863 (RoHS)",
+            "REACH (Europe)",
+            "SVHC Compliant"
+        ],
+        "Benefit Claims": [
+            "Hair Softening",
+            "Non-Oily Feel",
+            "Gloss Enhancement",
+            "White Residue Reduction",
+            "Good Dry Combing",
+            "Shine & Radiance",
+            "Manageability",
+            "Non-Tacky",
+            "SPF Enhancement",
+            "Reduces Stickiness",
+            "Wash Off Resistance",
+            "Compatibility",
+            "Good Oxidative Stability",
+            "Non-Staining",
+            "Good Color Retention",
+            "Spreadability",
+            "Hair Conditioning",
+            "Sensory Enhancement",
+            "Emulsifying"
+        ]
+    }
+}

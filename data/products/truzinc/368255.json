@@ -1,0 +1,43 @@
+{
+    "id": 368255,
+    "brand": "truzinc",
+    "name": "TCI Powder Coatings OGF Epoxy Hybrid Primer (7820-12396)",
+    "slug": "tci-powder-coatings-ogf-epoxy-hybrid-primer-7820-12396",
+    "description": "TCI Powder Coatings OGF Epoxy Hybrid Primer (7820-12396) is an epoxy coating formulated to provide excellent chemical and corrosion resistance, as well as good properties such as adhesion and flexibility. It is ideally suited for interior applications or as a primer. Reduce cure schedule to 5min at 375F if followed by powder top coat. Fully cure as indicated if used with liquid top coat. Pre-test with intended top coat to validate production conditions.",
+    "company_name": "TCI Powder Coatings",
+    "company_slug": "tci-powder-coatings",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664291213/production/Company/42507/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608585/production/CategoryImage/567/category_image/PaintingsCoatings_03.jpg",
+    "properties": {
+        "Applications": [
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Powder Coatings",
+            "Primers & Sealers"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ],
+        "Ready to Use Product Type": [
+            "Primer",
+            "Epoxy Coating",
+            "Powder Coating",
+            "Hybrid Coating"
+        ],
+        "Features": [
+            "Good Barrier Properties",
+            "Corrosion Resistant",
+            "Chemical Resistant",
+            "High Hardness",
+            "Good Flexibility",
+            "Excellent Substrate Adhesion"
+        ]
+    }
+}

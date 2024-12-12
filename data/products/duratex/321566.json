@@ -1,0 +1,45 @@
+{
+    "id": 321566,
+    "brand": "duratex",
+    "name": "Vetronite® EGS 102 T",
+    "slug": "vetronite-egs-102-t",
+    "description": "Vetronite® EGS 102 T is composed of epoxy resin and glass fabric reinforement. ",
+    "company_name": "Von Roll Isola",
+    "company_slug": "von-roll-isola",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691737615/production/Company/30787/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607403/production/CategoryImage/516/category_image/ElectricalElectronics_01.jpg",
+    "properties": {
+        "Applications": [
+            "Textile Manufacturing",
+            "Other Textile Applications",
+            "Other Industrial Applications",
+            "Equipment & Parts",
+            "Tubing & Fluids Handling",
+            "Appliances & Electronics",
+            "Fuel Systems",
+            "Electrical & Electronic Systems",
+            "Cooling & Climate",
+            "Chassis & Brake",
+            "Medical",
+            "Textiles & Nonwovens",
+            "Leather & Textiles",
+            "Chemical & Industrial Manufacturing",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ],
+        "Polymer Name": [
+            "Epoxy Resins & Compounds"
+        ],
+        "End Uses": [
+            "Tubes",
+            "Coiled Tubes",
+            "Bobbins"
+        ]
+    },
+    "summary": {}
+}

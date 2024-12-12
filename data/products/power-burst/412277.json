@@ -1,0 +1,41 @@
+{
+    "id": 412277,
+    "brand": "power-burst",
+    "name": "Power Burst®",
+    "slug": "power-burst",
+    "description": "Power Burst® is enhanced by polymeric technology. Power Burst® is an odorless, premium laundry detergent fortified with enzymes and optical brighteners to quickly digest and wash away stubborn stains and soils, while leaving the fabric cleaner and brighter than ever before.",
+    "company_name": "Theochem Laboratories",
+    "company_slug": "theochem-laboratories",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292482/production/Brand/32172/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515647/production/CategoryImage/1055/category_image/HII_07.jpg",
+    "properties": {
+        "Applications": [
+            "Laundry & Fabric Care",
+            "Commercial Laundry",
+            "Institutional & Industrial Care",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Commercial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Detergents",
+            "Cleaner"
+        ],
+        "Application Areas": [
+            "Commercial Laundry Applications"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Fibers & Fabrics"
+        ],
+        "Features": [
+            "Heavy Duty",
+            "Effective Soil Removal",
+            "Stain Removing",
+            "Excellent Brightness"
+        ]
+    }
+}

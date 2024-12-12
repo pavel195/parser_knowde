@@ -1,0 +1,50 @@
+{
+    "id": 318461,
+    "brand": "sternzym",
+    "name": "Sternzym PT 100 FB",
+    "slug": "sternzym-pt-100-fb",
+    "description": "Sternzym PT 100 FB creates new covalent links within proteins and also between different proteins. The enzyme connects residues of the amino acid L-glutamine to the amino acid L-lysine. The enzyme’s formulation acts as general binder and texture improver for fish &amp; Meat products as processing aid.",
+    "company_name": "SternEnzym GmbH & Co. KG",
+    "company_slug": "sternenzym-gmbh-co-kg",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708689392/production/Product/318461/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708689392/production/Product/318461/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Meat, Poultry & Seafood",
+            "Food"
+        ],
+        "Product Families": [
+            "Processing Aids",
+            "Texturizers",
+            "Binders & Disintegrants",
+            "Functional Additives",
+            "Texture & Consistency"
+        ],
+        "Chemical Family": [
+            "Enzymes"
+        ],
+        "End Uses": [
+            "Processed Meat Products"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Binder",
+            "Texturizing Agent"
+        ],
+        "Labeling Claims": [
+            "Non-GMO",
+            "BSE-free",
+            "Non-Irritant",
+            "Nanomaterials-free",
+            "TSE-free"
+        ],
+        "Certifications & Compliance": [
+            "Generally Recognized As Safe (GRAS)"
+        ],
+        "Physical Form": [
+            "Solid",
+            "Powder"
+        ]
+    }
+}

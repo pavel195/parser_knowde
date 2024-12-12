@@ -1,0 +1,41 @@
+{
+    "id": 357836,
+    "brand": "mazpound",
+    "name": "MAZPOUND RP-M",
+    "slug": "mazpound-rp-m",
+    "description": "MAZPOUND RP-M is processed by extrusion method for the purpose of high &amp; low pressure, rigid spiral for duct, drainage, trunking, conduit, profile and rails.",
+    "company_name": "Mazda Plastic Factory",
+    "company_slug": "mazda-plastic-factory",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708530293/production/Brand/26619/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607454/production/CategoryImage/519/category_image/ElectricalElectronics_04.jpg",
+    "properties": {
+        "Applications": [
+            "Pipes & Plumbing",
+            "Building Materials"
+        ],
+        "Product Families": [
+            "Vinyl Polymers",
+            "Basic Thermoplastics"
+        ],
+        "Chemical Family": [
+            "Vinyls, Vinylics & Vinyl Derivatives"
+        ],
+        "Polymer Name": [
+            "Polyvinyl Chloride (PVC)"
+        ],
+        "End Uses": [
+            "Pipes"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyvinyl Chloride (PVC)"
+        ],
+        "Processing Methods": [
+            "Extrusion"
+        ],
+        "End Uses": [
+            "Pipes"
+        ]
+    }
+}

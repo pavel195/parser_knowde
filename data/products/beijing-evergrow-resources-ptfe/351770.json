@@ -1,0 +1,41 @@
+{
+    "id": 351770,
+    "brand": "beijing-evergrow-resources-ptfe",
+    "name": "PTFE LABWARE",
+    "slug": "ptfe-labware",
+    "description": "PTFE Labware is widely used in the range of medicine ,chemical , education etc. It has the highest purity and excellent anti-corrosion resistance.",
+    "company_name": "Beijing Evergrow Resources",
+    "company_slug": "beijing-evergrow-resources",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686150104/production/Company/38231/logo/image",
+    "banner_url": "https://static.knowde.com/card-banners/knowde-card-for-raw-materials-8.jpg",
+    "properties": {
+        "Applications": [
+            "Medical",
+            "Laboratory & Diagnostics"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Fluoropolymers"
+        ],
+        "Polymer Name": [
+            "Polytetrafluoroethylene (PTFE)"
+        ],
+        "End Uses": [
+            "Labware"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polytetrafluoroethylene (PTFE)"
+        ],
+        "Physical Form": [
+            "Custom"
+        ],
+        "Features": [
+            "High Purity",
+            "Wide Temperature Operating Range"
+        ]
+    }
+}

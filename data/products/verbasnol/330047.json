@@ -1,0 +1,32 @@
+{
+    "id": 330047,
+    "brand": "verbasnol",
+    "name": "Zylaria™",
+    "slug": "zylaria",
+    "description": "Zylaria™ (Xylaria nigripes), a unique species of Xylaria promoting gamma-aminobutyric acid (GABA) function to support relaxation and normal sleep quality. Zylaria™, developed by NuLiv Science, belongs to a specific subgenus of Xylaria that is exclusively hidden deep down in the dirt lies nutritious, yet obscure fungi hidden within the nest of the Odontotermes formosanus termite.",
+    "company_name": "NuLiv Science USA",
+    "company_slug": "nuliv-science-usa",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708525277/production/Brand/23877/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607247/production/CategoryImage/513/category_image/FoodNutrition_13.jpg",
+    "properties": {
+        "Applications": [
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Proteins & Amino Acids",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "γ-aminobutyric acid"
+        ],
+        "Labeling Claims": [
+            "Vegan",
+            "Gluten-free",
+            "BSE-free"
+        ]
+    }
+}

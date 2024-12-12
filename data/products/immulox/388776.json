@@ -1,0 +1,40 @@
+{
+    "id": 388776,
+    "brand": "immulox",
+    "name": "APS BioGroup APS Skim Colostrum Powders",
+    "slug": "aps-biogroup-aps-skim-colostrum-powders",
+    "description": "APS BioGroup APS Skim Colostrum Powders are low fat colostrum powders that are available with different immunoglobulin levels. APS BioGroup offers a vast portfolio of standardized and high protein skim colostrum powders.",
+    "company_name": "APS BioGroup",
+    "company_slug": "aps-biogroup",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708521440/production/Company/47852/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608186/production/CategoryImage/548/category_image/AgricultureFeed_04.jpg",
+    "properties": {
+        "Applications": [
+            "Oral",
+            "Other Non-Alcoholic Beverages",
+            "Other Nutrition Applications",
+            "Nutraceuticals & Supplements",
+            "Sports Nutrition",
+            "Sports Drinks",
+            "Beverage",
+            "Nutrition & Well Being",
+            "Drug Delivery & Care Solutions"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Sports Nutrition",
+            "Sports Drinks"
+        ]
+    },
+    "summary": {
+        "Features": [
+            "Low Fat",
+            "High Protein Content"
+        ]
+    }
+}

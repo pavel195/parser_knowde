@@ -1,0 +1,44 @@
+{
+    "id": 77052,
+    "brand": "dermacet",
+    "name": "Bernel Ester™ TCC",
+    "slug": "bernel-ester-tcc",
+    "description": "Bernel Ester TCC is a natural ester derived from tricaprylyl citrate.  It is suitable for use in waterproof formulations and as an alternative for jojoba oil and squalane.",
+    "company_name": "ALZO International Inc.",
+    "company_slug": "alzo-international-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672662/production/Brand/6399/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708672662/production/Product/77052/card_banner/image",
+    "properties": {
+        "Applications": [
+            "AP/Deo",
+            "Skin Care",
+            "Color Cosmetics",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Emulsifiers, Solubilizers & Dispersants",
+            "Conditioners & Emollients",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Tricaprylyl Citrate"
+        ],
+        "End Uses": [
+            "Body Lotion",
+            "Body Cream",
+            "Antiperspirants"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Tricaprylyl Citrate"
+        ],
+        "Functions": [
+            "Solubilizer",
+            "Emollient"
+        ],
+        "Labeling Claims": [
+            "Ulta Beauty's Conscious Beauty"
+        ]
+    }
+}

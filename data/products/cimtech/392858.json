@@ -1,0 +1,38 @@
+{
+    "id": 392858,
+    "brand": "cimtech",
+    "name": "CIMTECH® C205",
+    "slug": "cimtech-c205",
+    "description": "CIMTECH® C205 metalworking fluid is a clear biostable synthetic with a low foaming rate that is ideal for central systems and individual machines. Cast iron, nodular iron, carbon steels, and ferrous metals are examples of metals. Duty Classification: Moderate to Heavy-Duty Water Quality: Soft to Medium",
+    "company_name": "Cimcool Fluid Technology",
+    "company_slug": "cimcool-fluid-technology",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1682592983/production/Brand/29596/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical & Industrial Manufacturing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Metalworking Fluids",
+            "Fluids & Lubricants"
+        ]
+    },
+    "summary": {
+        "Application Area": [
+            "Machining Operations"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Steel",
+            "Iron",
+            "Metal"
+        ],
+        "Features": [
+            "Corrosion Resistant",
+            "Low Foaming"
+        ],
+        "Metalworking Fluid Type": [
+            "Synthetic"
+        ]
+    }
+}

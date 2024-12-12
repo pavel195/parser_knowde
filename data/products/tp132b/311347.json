@@ -1,0 +1,43 @@
+{
+    "id": 311347,
+    "brand": "tp132b",
+    "name": "Multipower M4®",
+    "slug": "multipower-m4",
+    "description": "Multipower M4® is an ideal for removing proteins, mineral oils, grease, and glutens in the food processing industry. It also removes soot and atmospheric pollution effortlessly. Multipower M4® has been accepted by the Council of Fatwa and The Chief Rabbinate Council, enabling companies operating according to the Kosher and Halal guidelines to use it as well. Multipower M4® is produced in the EU, NSF approved, according to the OECD guideline 301B biodegradability directive.",
+    "company_name": "Ecotec Products",
+    "company_slug": "ecotec-products",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664289636/production/Brand/21551/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1664289636/production/Product/311347/card_banner/image.png",
+    "properties": {
+        "Applications": [
+            "Industrial Cleaning",
+            "Food & Beverage Manufacturing",
+            "Food Facility Cleaning & Sanitization",
+            "Processing & Packaging",
+            "Institutional & Industrial Care"
+        ],
+        "Product Families": [
+            "Food Grade Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Industrial Surface Care",
+            "Cleaner",
+            "Multipurpose Cleaners"
+        ],
+        "Application Areas": [
+            "Industrial Surfaces"
+        ],
+        "Certifications & Compliance": [
+            "OECD Certified",
+            "Halal",
+            "Kosher",
+            "NSF Approved"
+        ],
+        "Features": [
+            "Cleanable"
+        ]
+    }
+}

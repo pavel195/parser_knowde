@@ -1,0 +1,45 @@
+{
+    "id": 399241,
+    "brand": "iparsol",
+    "name": "Hydrosol P135",
+    "slug": "hydrosol-p135",
+    "description": "Hydrosol P135 is a white spirits mixture of paraffinic and naphthenic hydrocarbons. Standard qualities contain up to 20% mass fraction of aromatic compounds. By using suitable raw materials and hydrogenation processes, we are able to produce these products with only a mild odor. The high naphthenic content is what gives DHC white spirits their increased solvating power.",
+    "company_name": "DHC Solvent Chemie",
+    "company_slug": "dhc-solvent-chemie",
+    "logo_url": null,
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Textile Manufacturing",
+            "Resin Manufacturing",
+            "Furniture",
+            "Footwear",
+            "Other Paper & Pulp Applications",
+            "Screen Printing",
+            "Chemical & Industrial Manufacturing",
+            "Paper & Pulp",
+            "Printing & Inks",
+            "Leather & Textiles"
+        ],
+        "Product Families": [
+            "Hydrocarbons",
+            "Solvents"
+        ],
+        "Chemical Family": [
+            "Hydrocarbons"
+        ],
+        "End Uses": [
+            "Floorings",
+            "Shoe Polish",
+            "Wood Imitations",
+            "Cleaning Agent",
+            "Resin Solvent",
+            "Alkyd Coatings"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Hydrotreated Heavy Naphtha"
+        ]
+    }
+}

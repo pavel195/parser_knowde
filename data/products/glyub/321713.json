@@ -1,0 +1,41 @@
+{
+    "id": 321713,
+    "brand": "glyub",
+    "name": "Glylub 24",
+    "slug": "glylub-24",
+    "description": "Glylub 24 is designed to offer excellent performance at very low temperature with a high lubricity performance above all in two stroke engines. They are formulated particularly for low temperature performances. Obtained from sebacic acid and linear or branched alcohol are designed for 2/4 stroke engine lubricants and hydraulic fluids.",
+    "company_name": "Condensia",
+    "company_slug": "condensia",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704100227/production/Brand/22926/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Fluids & Lubricants",
+            "Automotive Fluids & Lubricants",
+            "Lubricants & Functional Fluids",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Performance Additives",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Adipates, Sebacates & Maleates"
+        ],
+        "End Uses": [
+            "Hydraulic Fluids"
+        ]
+    },
+    "summary": {
+        "End Uses": [
+            "Hydraulic Fluids"
+        ],
+        "Chemical Family": [
+            "Adipates, Sebacates & Maleates"
+        ],
+        "Features": [
+            "Low Temperature Performance",
+            "Excellent Lubricity"
+        ]
+    }
+}

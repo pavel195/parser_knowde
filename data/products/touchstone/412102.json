@@ -1,0 +1,55 @@
+{
+    "id": 412102,
+    "brand": "touchstone",
+    "name": "TouchStone™ T-2000 Epoxy",
+    "slug": "touchstone-t-2000-epoxy",
+    "description": "TouchStone™ T-2000 Epoxy is a two component, water cleanable, 100% solid epoxy adhesive compound developed for setting of ceramic tile and stone on horizontal or vertical surfaces.",
+    "company_name": "Bonstone Materials",
+    "company_slug": "bonstone-materials",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292481/production/Brand/32157/logo/image.png",
+    "banner_url": "https://static.knowde.com/card-banners/knowde-card-for-raw-materials-8.jpg",
+    "properties": {
+        "Applications": [
+            "Marine",
+            "Fence, Decks & Rails",
+            "Transportation",
+            "Pools & Landscaping",
+            "Structural Components",
+            "Wall Panels",
+            "Shingles & Tiles",
+            "Building Envelope & Roofing",
+            "Building Materials"
+        ],
+        "Product Families": [
+            "Structural Adhesives",
+            "Adhesives & Sealants"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Solvent free (100% Solids) Adhesive",
+            "Epoxy Adhesive",
+            "Structural Adhesive",
+            "Adhesive",
+            "2K (2 component) Adhesive"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Tile",
+            "Metal",
+            "Stone",
+            "Wood",
+            "Masonry",
+            "Marble",
+            "Plastics"
+        ],
+        "Application Method": [
+            "Trowel"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    }
+}

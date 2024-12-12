@@ -1,0 +1,36 @@
+{
+    "id": 420651,
+    "brand": "butyl-tite",
+    "name": "Butyl-Tite™ Wrap",
+    "slug": "butyl-tite-wrap",
+    "description": "Butyl-Tite™ Wrap is an extruded soft, tacky butyl sealant that is bonded to a polyethylene backing and wound on a release film. The wrap is designed to provide a high strength water tight seal on clean, dry concrete surfaces and joints. Butyl-Tite™ Wrap meets or exceeds the requirements of ASTM C877-01 Type III and C990-O1A.",
+    "company_name": "MultiSeal",
+    "company_slug": "multiseal",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1682593244/production/Brand/33020/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608490/production/CategoryImage/563/category_image/BuildingConstruction_07.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Flooring & Surfaces",
+            "Fillers, Levellers & Joints",
+            "Sealants & Caulks",
+            "Pipes & Plumbing"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Caulks & Sealants"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Structural Sealant"
+        ],
+        "Application Area": [
+            "Pipes",
+            "Manholes"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Concrete"
+        ]
+    }
+}

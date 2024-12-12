@@ -1,0 +1,57 @@
+{
+    "id": 313800,
+    "brand": "futuresol",
+    "name": "FUTURECHEM® SBA",
+    "slug": "futurechem-sba",
+    "description": "FUTURECHEM® SBA (3-Sodiosulfobenzoic Acid) is used as monomers for polyesters, nylon fibers and membranes.",
+    "company_name": "Future Fuel Corp.",
+    "company_slug": "future-fuel-corp",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704100176/production/Product/313800/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Textile Manufacturing",
+            "Chemical Manufacturing",
+            "Other Industrial Applications",
+            "Other Textile Applications",
+            "Chemical & Industrial Manufacturing",
+            "Textiles & Nonwovens",
+            "Leather & Textiles"
+        ],
+        "Product Families": [
+            "Other Monomers & Oligomers",
+            "Monomers & Oligomers"
+        ],
+        "Chemical Family": [
+            "Sulfonic Acids & Derivatives",
+            "Sulfonates",
+            "Benzoic Acids"
+        ],
+        "End Uses": [
+            "Polyamide",
+            "Polyester"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "3-Sulfobenzoic Acid Sodium Salt"
+        ],
+        "CAS Number": [
+            "17625-03-5"
+        ],
+        "Chemical Family": [
+            "Sulfonates",
+            "Sulfonic Acids & Derivatives",
+            "Benzoic Acids"
+        ],
+        "Molecular Weight": [
+            "224.17 - 224.17 g/mol"
+        ],
+        "Labeling Claims": [
+            "Odor-free"
+        ],
+        "Synonyms": [
+            "3-Carboxybenzenesulfonic acid sodium salt, 3-Sulfobenzoic acid monosodium salt, Sodium 3-Sulfobenzoate"
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "id": 408384,
+    "brand": "zeolyst",
+    "name": "Zeolyst CBV 760",
+    "slug": "zeolyst-cbv-760",
+    "description": "Zeolyst CBV 760 are standard zeolite powders coming under Zeolite Y category.\r\n",
+    "company_name": "Ecovyst",
+    "company_slug": "ecovyst",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708688756/production/Company/36479/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708688756/production/Brand/34146/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Refining & Gas Processing",
+            "Oil, Gas & Mining"
+        ],
+        "Product Families": [
+            "RTU Catalysts",
+            "Catalyst Ingredients"
+        ],
+        "Chemical Family": [
+            "Zeolites"
+        ]
+    },
+    "summary": {
+        "Catalyst Type": [
+            "Heterogeneous Catalyst",
+            "Homogeneous Catalyst"
+        ],
+        "Functions": [
+            "Catalyst"
+        ],
+        "Chemical Family": [
+            "Zeolites"
+        ],
+        "Applicable Processes": [
+            "Petroleum Processing"
+        ]
+    }
+}

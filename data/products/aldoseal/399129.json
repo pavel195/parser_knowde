@@ -1,0 +1,51 @@
+{
+    "id": 399129,
+    "brand": "aldoseal",
+    "name": "ALDOPRIME 710",
+    "slug": "aldoprime-710",
+    "description": "ALDOPRIME 710 is a water based rust inhibiting environmentally friendly roofing primer developed to be used on corroded metal substrates. This product can be applied as a primer coat for a variety of roof coatings. It has excellent resistance to heat, cold, moisture and weathering. This primer also sets up quickly to allow the base coat of the desired elastomeric to be applied soon after application.",
+    "company_name": "Aldo Products Company",
+    "company_slug": "aldo-products-company",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520321/production/Brand/30294/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1687520321/production/Product/399129/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Roofing",
+            "Roof Coatings"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers",
+            "Protective Coatings"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Primer",
+            "Waterborne Coating"
+        ],
+        "Application Area": [
+            "Roofing Membranes"
+        ],
+        "Application Method": [
+            "Roller",
+            "Spray"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Polyurethane",
+            "Masonry",
+            "Plastics",
+            "Wood",
+            "Metal",
+            "Concrete"
+        ],
+        "Features": [
+            "Moisture Resistant",
+            "Cold Resistance",
+            "Good Weather Stability",
+            "Corrosion Resistant",
+            "Excellent Substrate Adhesion",
+            "Heat Resistance"
+        ]
+    }
+}

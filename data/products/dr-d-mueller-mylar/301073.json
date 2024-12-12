@@ -1,0 +1,47 @@
+{
+    "id": 301073,
+    "brand": "dr-d-mueller-mylar",
+    "name": "Fiexiso® PET weiß FI 13001",
+    "slug": "fiexiso-pet-weiss-fi-13001",
+    "description": "Fiexiso® Pet Weiß FI 13001 is made from polyethylene terephalate Electrical insulation film and is used as a flat insulation material up to and including insulation class B (130 ° C) is used.",
+    "company_name": "Dr. D. Mueller",
+    "company_slug": "dr-d-mueller",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686150294/production/Company/24190/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Tapes & Labels",
+            "Packaging & Paper",
+            "Tapes, Labels & Adhesives",
+            "Other Electrical & Electronics Applications",
+            "Tape & Label Adhesives"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Polyesters",
+            "Polyethylene Terephthalate (PET)"
+        ],
+        "Polymer Name": [
+            "Polyethylene Terephthalate (PET)"
+        ],
+        "End Uses": [
+            "Tape"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyethylene Terephthalate (PET)"
+        ],
+        "Physical Form": [
+            "Film"
+        ],
+        "Features": [
+            "Dimensional Stability",
+            "Good Electrical Properties",
+            "Tear Resistance",
+            "Very Good Heat Resistance"
+        ]
+    }
+}

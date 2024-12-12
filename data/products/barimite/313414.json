@@ -1,0 +1,104 @@
+{
+    "id": 313414,
+    "brand": "barimite",
+    "name": "CIMBAR® BF",
+    "slug": "cimbar-bf",
+    "description": "Cimbar BF is a high purity, precipiated natural barium sulfate. Cimbar BF is recommended for use in coatings, especially automotive and industrial primers and topcoats. Additionally, Cimbar BF is often used in high gloss enamels, powder coatings and semi-gloss and gloss latexes.Cimbar BF can be used as a filler in plastics, cosmetics, batteries, and in pharamceutical applications. Cimbar BF is easily dispersable and is often used to impart higher surface gloss, improved hide, improved mar resistance and impact resistance.Cimbar BF also offers excellent sanding resistance, and good scrub resistance to formulations. Cimbar BF is chemically inert and is an excellent choice as a filler in corrosion resistant applications, flame retardant applications, and applications that require excellent weather resistance. Moreover, Cimbar BF exhibits superior thermal stabilty up to 1580 °C. It is therefore recommended for use in heat resistant applications.",
+    "company_name": "Cimbar Performance Minerals",
+    "company_slug": "cimbar",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708695893/production/Company/27817/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "EIFS & Insulation",
+            "Architectural Coatings",
+            "Industrial Coatings",
+            "Automotive OEM Coatings",
+            "Insulation",
+            "Equipment & Parts",
+            "Jacketing & Insulation",
+            "Footwear",
+            "Exterior Insulation & Finishing Systems (EIFS)",
+            "Coatings & Finishes",
+            "Building Envelope",
+            "Wire & Cable",
+            "Chemical & Industrial Manufacturing",
+            "Automotive & Transportation",
+            "Building & Construction",
+            "Building Envelope & Roofing"
+        ],
+        "Product Families": [
+            "Fillers & Extenders",
+            "Additives",
+            "Polymer Additives",
+            "Elastomer Additives"
+        ],
+        "Chemical Family": [
+            "Carbonates",
+            "Silicates",
+            "Sulfates",
+            "Barium Salts",
+            "Barites & Barium Salts"
+        ],
+        "End Uses": [
+            "Skim Coat",
+            "Base Coat",
+            "Lacquers",
+            "Radiation Curable Coating",
+            "Waterborne Coating",
+            "Paper Making Chemicals",
+            "Top Coat",
+            "Primer",
+            "Powder Coating",
+            "Latex",
+            "Enamel",
+            "Lead-acid Batteries",
+            "Footwear",
+            "Batteries"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Filler"
+        ],
+        "Chemical Family": [
+            "Barium Salts",
+            "Sulfates",
+            "Barites & Barium Salts",
+            "Carbonates",
+            "Silicates"
+        ],
+        "Compatible Polymers & Resins": [
+            "Polyurethanes (PU)",
+            "Latex",
+            "Polypropylenes (PP)"
+        ],
+        "Particle Size": [
+            "0.7 - 0.7 microns"
+        ],
+        "Features": [
+            "High Heat Deflection Temperature",
+            "High Energy Absorption",
+            "Impact Resistance",
+            "High Density",
+            "Excellent Dispersibility",
+            "Good Thermal Stability",
+            "Corrosion Resistant",
+            "High Purity",
+            "Sound Dampening Properties",
+            "Good Dispersion",
+            "Low Oil Absorption",
+            "Weather Resistance",
+            "Good Hiding Power",
+            "Good Sanding Properties",
+            "Stain Resistance",
+            "Heat Resistance",
+            "High Gloss",
+            "Chemically Inert",
+            "Good Brightness",
+            "Mar Resistant",
+            "Flame Resistant",
+            "Sound Damping"
+        ]
+    }
+}

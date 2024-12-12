@@ -1,0 +1,31 @@
+{
+    "id": 252711,
+    "brand": "guardicate",
+    "name": "ECONOMASE™",
+    "slug": "economase",
+    "description": "Economase™ is a proprietary blend of ingredients that maximizes and maintains the antioxidant status of the animal. Researchers at the Alltech® Center for Animal Nutrigenomics and Applied Animal Nutrition found that feeding certain antioxidants in conjunction with lower vitamin E levels optimizes feed conversion in animals. Economase offers a new opportunity to maximize animal performance, manage costs and protect your profitability.",
+    "company_name": "Alltech",
+    "company_slug": "alltech",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708688371/production/Company/19217/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608161/production/CategoryImage/546/category_image/AgricultureFeed_02.jpg",
+    "properties": {
+        "Applications": [
+            "Other Animal Health & Nutrition",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Antioxidants",
+            "Nutrient Premixes",
+            "Nutrition & Fortification",
+            "Health & Well-Being"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Antioxidant"
+        ],
+        "Animal Species": [
+            "Other Animal Species"
+        ]
+    }
+}

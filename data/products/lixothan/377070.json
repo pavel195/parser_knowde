@@ -1,0 +1,40 @@
+{
+    "id": 377070,
+    "brand": "lixothan",
+    "name": "LIXOTHAN UAL 55 60",
+    "slug": "lixothan-ual-55-60",
+    "description": "LIXOTHAN UAL 55 60 is a resin for paint and stain in pastel and white shades with excellent UV resistance and reduced VOC content.",
+    "company_name": "LIXOL",
+    "company_slug": "lixol",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704101915/production/Brand/28199/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608557/production/CategoryImage/565/category_image/PaintingsCoatings_01.jpg",
+    "properties": {
+        "Applications": [
+            "Decorative Paints, Coatings & Stains",
+            "Decorative Paints",
+            "Other Paints & Coatings Applications",
+            "Concrete Coatings & Stains",
+            "Building Materials",
+            "Building & Construction",
+            "Decorative Materials & Finishes"
+        ],
+        "Product Families": [
+            "Alkyds",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Alkyds",
+            "Fatty Acids"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Fatty Acids",
+            "Alkyds"
+        ],
+        "Features": [
+            "UV Resistance",
+            "Low VOC"
+        ]
+    }
+}

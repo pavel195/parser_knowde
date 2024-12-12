@@ -1,0 +1,30 @@
+{
+    "id": 512700,
+    "brand": "cossil",
+    "name": "Disperlat® SCF",
+    "slug": "disperlat-scf",
+    "description": "Disperlat® SCF is composed of tristyrylphenyl ether phosphate tea salt. It serves as a highly effective wetting agent, specifically designed for suspension concentrate (SC) formulations. This product functions excellently as both a dispersing and wetting agent. Its superior suspension properties contribute significantly to the overall quality of the product. Disperlat® SCF typically appears as a dark yellow to light amber viscous liquid.",
+    "company_name": "Latro Kimya Dış Ticaret A.Ş.",
+    "company_slug": "latro-kimya",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1713376788/production/Company/62342/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606336/production/CategoryImage/478/category_image/FluidsLubricants_03.jpg",
+    "properties": {
+        "Product Families": [
+            "Dispersants & Emulsifiers",
+            "Stickers, Surfactants & Wetting Agents",
+            "Adjuvants & Formulation Ingredients"
+        ]
+    },
+    "summary": {
+        "Physical Form": [
+            "Liquid"
+        ],
+        "Features": [
+            "Water Soluble",
+            "Good Suspensibility",
+            "Dispersing",
+            "Excellent Wetting",
+            "Improved Suspension Stability"
+        ]
+    }
+}

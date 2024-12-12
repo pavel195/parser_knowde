@@ -1,0 +1,50 @@
+{
+    "id": 318774,
+    "brand": "stretch-vac",
+    "name": "Northern Composites NRF-6200",
+    "slug": "northern-composites-nrf-6200",
+    "description": "NRF-6200 is a high elongation release film suitable for cure cycles up to 450°F (232°C). It is compatible with most commercial resins and releases easily.",
+    "company_name": "Northern Composites",
+    "company_slug": "northern-composites",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686150310/production/Company/29321/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608769/production/CategoryImage/577/category_image/AutomotiveTransportation_05.jpg",
+    "properties": {
+        "Applications": [
+            "Medical",
+            "Marine",
+            "Other Medical Applications",
+            "Aerospace & Aviation",
+            "Transportation"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Fluoropolymers",
+            "Polyolefins"
+        ],
+        "Polymer Name": [
+            "Ethylene Tetrafluoroethylene Copolymer (ETFE)"
+        ],
+        "End Uses": [
+            "Film",
+            "Vacuum Bagging Film"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Ethylene Tetrafluoroethylene Copolymer (ETFE)"
+        ],
+        "Physical Form": [
+            "Film"
+        ],
+        "Features": [
+            "Good Toughness",
+            "High Elongation"
+        ],
+        "Color": [
+            "Red",
+            "Blue"
+        ]
+    }
+}

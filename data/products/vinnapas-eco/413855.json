@@ -1,0 +1,55 @@
+{
+    "id": 413855,
+    "brand": "vinnapas-eco",
+    "name": "ELASTOSIL® R Plus 4370/50",
+    "slug": "elastosil-r-plus-4370-50",
+    "description": "ELASTOSIL® R Plus 4370/50 is a two-component high consistency silicone rubber designed for the manufacturing of extruded articles. It utilizes addition curing and possesses self-bonding properties. This product is well suited for the production of two-component combinations using pressure-free extrusion or co-extrusion techniques.",
+    "company_name": "Wacker Chemie AG",
+    "company_slug": "wacker-chemie-ag",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1713789561/production/Company/55284/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1713789561/production/Company/55284/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Pipes & Plumbing",
+            "Building Materials"
+        ],
+        "Product Families": [
+            "Silicone Elastomers",
+            "Specialty Elastomers"
+        ],
+        "Chemical Family": [
+            "Silicones"
+        ],
+        "Polymer Name": [
+            "Silicone Elastomer"
+        ],
+        "End Uses": [
+            "Tubes",
+            "Profiles",
+            "Exhaust Duct Systems"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Silicone Elastomer"
+        ],
+        "Processing Methods": [
+            "Extrusion",
+            "Coextrusion"
+        ],
+        "End Uses": [
+            "Profiles",
+            "Tubes",
+            "Exhaust Duct Systems"
+        ],
+        "Features": [
+            "Heat Stabilized",
+            "Fast Curing",
+            "Good Mechanical Properties",
+            "High Consistency"
+        ],
+        "Tear Strength": [
+            "42.0 - 42.0 kN/m"
+        ]
+    }
+}

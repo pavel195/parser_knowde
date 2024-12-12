@@ -1,0 +1,53 @@
+{
+    "id": 467440,
+    "brand": "seasonnings-spices",
+    "name": "Meat & Seafood Flavours BBQ Flavouring (23-0096-NA)",
+    "slug": "nactarome-bbq-flavouring-23-0096-na",
+    "description": "Nactarome BBQ Flavouring (23-0096-NA) is our premium quality natural flavoring ingredient which is oil soluble. This product is ideal for adding barbeque flavor to your food products. This product is allergen free, halal, kosher, vegan and sustainably produced. This can be used in Bread &amp; Vapo Bread among many other food applications.",
+    "company_name": "Nactarome",
+    "company_slug": "nactarome",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1707730581/production/Company/61385/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606924/production/CategoryImage/503/category_image/FoodNutrition_04.jpg",
+    "properties": {
+        "Applications": [
+            "Bakery",
+            "Food"
+        ],
+        "Product Families": [
+            "Flavor Ingredients",
+            "Taste & Flavor"
+        ],
+        "Flavor Family": [
+            "Meat, Egg & Seafood Flavors"
+        ],
+        "End Uses": [
+            "Vapo Bread",
+            "Bread"
+        ]
+    },
+    "summary": {
+        "Physical Form": [
+            "Liquid"
+        ],
+        "Solubility": [
+            "Water Soluble"
+        ],
+        "Flavor": [
+            "Barbecue"
+        ],
+        "Certifications & Compliance": [
+            "TTB Approved"
+        ],
+        "Labeling Claims": [
+            "Halal",
+            "Vegan",
+            "Allergen-free",
+            "Kosher",
+            "Natural"
+        ],
+        "End Uses": [
+            "Vapo Bread",
+            "Bread"
+        ]
+    }
+}

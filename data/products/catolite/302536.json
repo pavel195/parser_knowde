@@ -1,0 +1,46 @@
+{
+    "id": 302536,
+    "brand": "catolite",
+    "name": "CATONE CERISE TONER",
+    "slug": "catone-cerise-toner",
+    "description": "CATONE CERISE TONER adds excellent color, brilliance and enhance color performance in various application be it offset inks, flexographic inks, gravure inks and packaging inks.",
+    "company_name": "City Cat Pigments (City Cat Group)",
+    "company_slug": "city-cat-pigments-city-cat-group",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708516877/production/Company/24178/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609057/production/CategoryImage/591/category_image/PrintingPackaging_02.jpg",
+    "properties": {
+        "Applications": [
+            "Flexography",
+            "Offset & Lithographic Printing",
+            "Gravure Printing",
+            "Printing & Inks"
+        ],
+        "Product Families": [
+            "Organic Pigments",
+            "Color Pigments",
+            "Pigments & Colorants"
+        ],
+        "End Uses": [
+            "Offset Ink",
+            "Gravure Ink",
+            "Flexography Ink",
+            "Waterborne Ink",
+            "Solventborne Ink"
+        ]
+    },
+    "summary": {
+        "Color": [
+            "Violet"
+        ],
+        "Pigment Type": [
+            "Toners"
+        ],
+        "End Uses": [
+            "Solventborne Ink",
+            "Flexography Ink",
+            "Gravure Ink",
+            "Offset Ink",
+            "Waterborne Ink"
+        ]
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "id": 329254,
+    "brand": "pw-1",
+    "name": "VF 502™",
+    "slug": "vf-502",
+    "description": "VF 502™ is a fast set, rapid curing, 100% solids, flexible, two-component polyurethane/polyurea elastomer spray coating material. VF 502 was developed for use in high-pressure spray equipment and is used by itself or in combination with other materials to produce a protective coating on metal, concrete, aluminum, and composite substrates. VF 502 creates an extremely tough film at all thicknesses and can produce films from 10 mils to 250 mils without visible sag or runs in single or multiple pass applications. This material is relatively moisture and temperature insensitive, allowing use in the most problematic ambient conditions.",
+    "company_name": "Versaflex",
+    "company_slug": "versaflex",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520203/production/Company/32382/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608566/production/CategoryImage/566/category_image/PaintingsCoatings_02.jpg",
+    "properties": {
+        "Applications": [
+            "Coatings & Finishes",
+            "Power, Water & Utilities",
+            "Industrial Coatings",
+            "Water Treatment",
+            "Automotive OEM Coatings"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "2K (2 component) Coating"
+        ],
+        "Features": [
+            "Rapid Curing Speed",
+            "Good Sagging Resistance",
+            "Good Flexibility",
+            "Fast Setting"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Aluminum",
+            "Composites",
+            "Metal",
+            "Concrete",
+            "Wood"
+        ],
+        "Application Method": [
+            "Spray"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ]
+    }
+}

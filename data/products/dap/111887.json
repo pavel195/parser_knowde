@@ -1,0 +1,58 @@
+{
+    "id": 111887,
+    "brand": "dap",
+    "name": "Cosmic Alkyd 3D36",
+    "slug": "cosmic-alkyd-3d36",
+    "description": "Cosmic Alkyd 3D36 is a specialized alkyd molding compound that incorporates long glass fibers for enhanced impact resistance and flame retardant properties. Supplied in flake form, it is designed for ease of use and versatility in molding applications. This compound molds readily using standard compression or transfer equipment, and it maintains its performance for up to one year when stored at temperatures of 100°C or below. Its unique blend of properties makes it suitable for applications that require both impact resistance and flame retardancy.",
+    "company_name": "Cosmic Plastics Inc.",
+    "company_slug": "cosmic-plastics",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1723495793/production/Company/2760/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,c_crop,x_0,y_270,w_3000,h_938/v1723495793/production/Company/2760/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Jacketing & Insulation",
+            "Connectors",
+            "Parts & Components",
+            "Wire & Cable"
+        ],
+        "Product Families": [
+            "Polyesters",
+            "Thermoset Resins"
+        ],
+        "Chemical Family": [
+            "Polyesters",
+            "Alkyds"
+        ],
+        "Polymer Name": [
+            "Alkyd Resin"
+        ],
+        "End Uses": [
+            "Electrical Insulation",
+            "Electrical Connectors"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Alkyd Resin"
+        ],
+        "Processing Methods": [
+            "Transfer Molding",
+            "Compression Molding"
+        ],
+        "End Uses": [
+            "Electrical Insulation",
+            "Electrical Connectors"
+        ],
+        "Features": [
+            "High Strength",
+            "Excellent Surface Properties",
+            "Dimensional Stability",
+            "Electrically Insulating",
+            "Impact Resistance",
+            "Low Odor",
+            "Fast Curing",
+            "Easy To Mold",
+            "Flame Retardant"
+        ]
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "id": 324613,
+    "brand": "facilan",
+    "name": "Luvocom® 3F PAHT CF 9891 BK Filament",
+    "slug": "luvocom-3f-paht-cf-9891-bk-filament",
+    "description": "Luvocom® 3F PAHT CF 9891 BK Filament is a high temperature carbon fiber (15%) reinforced polyamide (PA). This grade is based on PA6 and is easy to print with low warping and improved layer bonding is optimized for industrial applications. Typical industries where it is commonly used are in robotics, drones, automotive, aerospace and also widely in the field of functional prototypes and end parts. This particular engineering polymer grade is tailored made for the 3D printing industry to match the injection molding strength requirements and focusing on the serial production of end-parts, the filament can be used on conventional FFF / FDM 3D printing systems without an heated chamber.",
+    "company_name": "Elogio AM",
+    "company_slug": "elogio-am",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686113280/production/Brand/23179/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608779/production/CategoryImage/578/category_image/AutomotiveTransportation_06.jpg",
+    "properties": {
+        "Applications": [
+            "Exterior & Body",
+            "Interior",
+            "Other Devices & Assemblies",
+            "Aerospace & Aviation",
+            "Devices & Assemblies",
+            "Chemical & Industrial Manufacturing",
+            "Transportation",
+            "Automotive",
+            "Tooling & Moldmaking"
+        ],
+        "Product Families": [
+            "3D Printing Polymers",
+            "Thermoplastic Filament"
+        ],
+        "Chemical Family": [
+            "Polyamides"
+        ],
+        "Polymer Name": [
+            "Polyamide 6 (PA 6)"
+        ],
+        "End Uses": [
+            "Automotive Applications",
+            "Automotive Exterior Parts",
+            "Prototyping",
+            "Automotive Interior Parts",
+            "Electrical/Electronic Applications",
+            "Aerospace Applications"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyamide 6 (PA 6)"
+        ],
+        "Processing Methods": [
+            "Fused Filament Fabrication"
+        ],
+        "End Uses": [
+            "Aerospace Applications",
+            "Prototyping",
+            "Automotive Exterior Parts",
+            "Automotive Applications",
+            "Electrical/Electronic Applications",
+            "Automotive Interior Parts"
+        ],
+        "Density": [
+            "1240.0 - 1240.0 kg/m³"
+        ]
+    }
+}

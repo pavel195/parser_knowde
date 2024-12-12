@@ -1,0 +1,50 @@
+{
+    "id": 413622,
+    "brand": "geniosil-stp-e",
+    "name": "ELASTOSIL® LR 3071/30 A/B",
+    "slug": "elastosil-lr-3071-30-a-b",
+    "description": "ELASTOSIL® LR 3071/30 A/B is a self-adhesive liquid silicone rubber of the ELASTOSIL® LR 3071 series. This product is a paste-like, easily pigmentable, two-component compound with an extremely short curing time. Its vulcanizates are noted for excellent mechanical and electrical properties.",
+    "company_name": "Wacker Chemie AG",
+    "company_slug": "wacker-chemie-ag",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1713789661/production/Company/55284/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1713789661/production/Company/55284/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Housewares"
+        ],
+        "Product Families": [
+            "Silicone Elastomers",
+            "Specialty Elastomers"
+        ],
+        "Chemical Family": [
+            "Silicones"
+        ],
+        "Polymer Name": [
+            "Liquid Silicone Rubber (LSR)"
+        ],
+        "End Uses": [
+            "Bathroom Accessories"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Liquid Silicone Rubber (LSR)"
+        ],
+        "End Uses": [
+            "Bathroom Accessories"
+        ],
+        "Features": [
+            "Pigmentable",
+            "Low VOC",
+            "Cost Effective",
+            "Good Electrical Properties",
+            "Food Contact Acceptable",
+            "Low Volatility",
+            "Fast Curing",
+            "Good Mechanical Properties"
+        ],
+        "Tear Strength": [
+            "20.0 - 20.0 kN/m"
+        ]
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "id": 342223,
+    "brand": "centrotron",
+    "name": "CENTROMID 6 E / PA 6 E",
+    "slug": "centromid-6-e-pa-6-e",
+    "description": "CENTROMID 6 E / PA 6 E is a high crystalline thermoplastic, which is comprised of one basic unit. The number 6 indicates the number of C-atoms of the basic molecular structure. PA 6 E possesses high toughness and heat stability. A high elastic-module is reached through hydrogen binding. PA 6 E is applicable within a temperature range of -40 to +160 °C. PA 6 E-parts are often used as bearings, gear wheels, rollers or seals. The BfR-/FDA approval assures physiological safety. PA 6 E is available in the colors natural and black.",
+    "company_name": "Centroplast",
+    "company_slug": "centroplast",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709127513/production/Brand/25295/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608730/production/CategoryImage/574/category_image/AutomotiveTransportation_02.jpg",
+    "properties": {
+        "Applications": [
+            "Other Industrial Applications",
+            "Other Parts & Components",
+            "Structural Components",
+            "Other Automotive Applications",
+            "Fuel Systems",
+            "Automotive",
+            "Building Materials",
+            "Parts & Components",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Polyamides"
+        ],
+        "Polymer Name": [
+            "Polyamide 6 (PA 6)"
+        ],
+        "End Uses": [
+            "Side Spoiler",
+            "Front Spoiler",
+            "Electrical Seals",
+            "Flanges",
+            "Bearings"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyamide 6 (PA 6)"
+        ],
+        "Physical Form": [
+            "Sheets",
+            "Film",
+            "Rods",
+            "Plates",
+            "Tube"
+        ],
+        "Features": [
+            "Food Contact Acceptable",
+            "Crystalline"
+        ],
+        "Density": [
+            "1140.0 - 1140.0 kg/m³"
+        ],
+        "Tensile Modulus": [
+            "3250.0 - 3250.0 MPa"
+        ],
+        "Color": [
+            "Black",
+            "Natural"
+        ]
+    }
+}

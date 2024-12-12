@@ -1,0 +1,101 @@
+{
+    "id": 78244,
+    "brand": "alistin",
+    "name": "Biolsil™ Phytic Acid Extreme",
+    "slug": "biolsil-phytic-acid-extreme",
+    "description": "Phytic Acid is a naturally sourced acid found in many plant sources, including corn, wheat, rice, soybean, sesame, and oat. Phytic Acid Extreme is a water clear 50% active solution sourced from rice.",
+    "company_name": "Biosil Technologies Inc.",
+    "company_slug": "biosil-technologies-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672518/production/Company/1163/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708672518/production/Company/1163/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Baby Care",
+            "Bath & Shower",
+            "Color Cosmetics",
+            "Hair Care",
+            "Skin Care",
+            "Wipes, Tissue & Towel",
+            "Sun Care",
+            "Beauty & Care",
+            "Personal Hygiene"
+        ],
+        "Product Families": [
+            "Oral Care Agents",
+            "Stabilizers",
+            "Skin Actives",
+            "Texturizers & Fillers",
+            "Sensory Modifiers",
+            "Cosmetic Actives",
+            "Functionals"
+        ],
+        "Chemical Family": [
+            "Acids"
+        ],
+        "INCI Name": [
+            "Phytic Acid"
+        ],
+        "End Uses": [
+            "Body Wash",
+            "Baby Bubble Bath",
+            "Anti-Dandruff Products",
+            "Detanglers",
+            "Anti-Aging Products",
+            "Baby Lotion",
+            "Baby Shampoo",
+            "Baby Soap",
+            "Baby Wipes",
+            "Bubble Bath",
+            "Concealer",
+            "Facial Moisturizer",
+            "Foot Moisturizer",
+            "BB Creams",
+            "Hair Conditioner",
+            "Shampoos & Rinses",
+            "Hair Styling Products",
+            "Moisturizers",
+            "Facial Cleanser"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Phytic Acid"
+        ],
+        "Functions": [
+            "Chelating Agent",
+            "Exfoliant (Physical)",
+            "Lightening Agent",
+            "Whitening Agent"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Non-Animal Origin",
+            "Plant Origin"
+        ],
+        "Labeling Claims": [
+            "Ulta Beauty's Conscious Beauty",
+            "Credo Clean Standard",
+            "Clean at Sephora",
+            "Plant-Based",
+            "Naturally Derived",
+            "Organic"
+        ],
+        "Certifications & Compliance": [
+            "NPA Certified",
+            "Organic Certified",
+            "COSMOS",
+            "NSF Approved",
+            "ECOCERT"
+        ],
+        "Benefit Claims": [
+            "Peeling",
+            "Exfoliating",
+            "Skin Whitening",
+            "Antioxidant Properties",
+            "Whitening",
+            "Anti-Dandruff",
+            "Skin Lightening",
+            "Free Radical Scavenging"
+        ]
+    }
+}

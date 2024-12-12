@@ -1,0 +1,59 @@
+{
+    "id": 317666,
+    "brand": "polyknit",
+    "name": "POLYMAT FREE FLOW – PP250",
+    "slug": "polymat-free-flow-pp250",
+    "description": "Polymat Free Flow – PP250 is a mechanically stitch bonded 3-dimensional reinforcement fabric consisting of a polypropylene needle bonded core sandwiched between two layers of chopped strand E-glass fiber.",
+    "company_name": "Scott & Fyfe",
+    "company_slug": "scott-fyfe",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686149418/production/Product/317666/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608779/production/CategoryImage/578/category_image/AutomotiveTransportation_06.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Medical",
+            "Marine",
+            "Dental",
+            "Transportation",
+            "Other Building Materials"
+        ],
+        "Product Families": [
+            "Reinforcements",
+            "Glass Fiber",
+            "Other Reinforcements"
+        ],
+        "Chemical Family": [
+            "Glass Beads & Fibers"
+        ],
+        "End Uses": [
+            "FRP Boats"
+        ]
+    },
+    "summary": {
+        "Reinforcement Material": [
+            "Polypropylene (PP)",
+            "Glass Fibers"
+        ],
+        "Reinforcement Form": [
+            "Chopped Strand Mat"
+        ],
+        "Compatible Polymers & Resins": [
+            "Epoxies (EP)",
+            "Polyesters",
+            "Vinyl Esters"
+        ],
+        "Processing Methods": [
+            "Resin Transfer Molding (RTM)",
+            "Vacuum Infusion Processing (VIP)"
+        ],
+        "Features": [
+            "Excellent Surface Finish",
+            "Good Surface Finish",
+            "Excellent Wetting Behaviour",
+            "High Flow",
+            "Excellent Flow",
+            "Cost Effective",
+            "Good Wetting Properties"
+        ]
+    }
+}

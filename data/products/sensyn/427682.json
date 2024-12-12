@@ -1,0 +1,38 @@
+{
+    "id": 427682,
+    "brand": "sensyn",
+    "name": "Sensyn 23699 Std (G)",
+    "slug": "sensyn-23699-std-g",
+    "description": "Sentinel CanadaSenSyn 23699 Std (G)is the unique synthetic lubricant manufactured for use in aircraft turbine engines and stationary engines operating under very severe and harsh conditions. SenSyn 23699 Std (G) is qualified under the latest U.S. Military specification MIL-PRF-23699 Std. It meets and exceeds Pratt &amp; Whitney Canada, Pratt &amp; Whitney Aero Power APUs, United Technologies Aerospace Systems, Rolls Royce, GE",
+    "company_name": "Sentinel Canada",
+    "company_slug": "sentinel-canada",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680108731/production/Brand/33897/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Lubricants & Functional Fluids",
+            "Aerospace Fluids & Lubricants",
+            "Chemical & Industrial Manufacturing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Lubricants & Oils",
+            "Fluids & Lubricants"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Lubricant"
+        ],
+        "Application Area": [
+            "Aircraft Engine",
+            "Aerospace Applications",
+            "Turbines"
+        ],
+        "Features": [
+            "Oxidation Resistant",
+            "Biodegradable",
+            "High Hydrolytic Stability"
+        ]
+    }
+}

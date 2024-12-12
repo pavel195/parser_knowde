@@ -1,0 +1,42 @@
+{
+    "id": 428174,
+    "brand": "hercules",
+    "name": "Oatey® 903 Series Plasti-Weld™ Purple Primer",
+    "slug": "oatey-903-series-plasti-weld-purple-primer",
+    "description": "Oatey® 903 Series Plasti-Weld™ Purple Primer is formulated for PVC and CPVC pipe and fittings. Removes surface dirt, grease and grime as well as softens the pipe surface to allow a fast, secure solvent weld. Oatey products have earned the trust of plumbing professionals for over 100 years.",
+    "company_name": "Oatey",
+    "company_slug": "oatey",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520442/production/Brand/33972/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608454/production/CategoryImage/560/category_image/BuildingConstruction_04.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Packaging Coatings",
+            "Primers & Lacquers",
+            "Chemical & Industrial Manufacturing",
+            "Pipes & Plumbing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Primer"
+        ],
+        "Application Area": [
+            "Pipes",
+            "Pipe Fittings"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Polyvinyl Chloride (PVC)"
+        ],
+        "Application Method": [
+            "Brush",
+            "Spray",
+            "Roller"
+        ]
+    }
+}

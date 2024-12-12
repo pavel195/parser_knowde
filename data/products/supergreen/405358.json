@@ -1,0 +1,72 @@
+{
+    "id": 405358,
+    "brand": "supergreen",
+    "name": "NuGenTec Citra-Soy 3",
+    "slug": "nugentec-citra-soy-3",
+    "description": "NuGenTec Citra-Soy 3 is an all-natural liquid, concentrated (contains NO water) cleaner, formulated with the natural solvents derived from orange peels and soybeans. It offers environmental compatibility, user safety and low cost for disposal, all while providing heavy-duty cleaning of all surfaces. Excellent on electronics such as PCB’s (Printed Circuit Boards), flat panel displays and metal surfaces.",
+    "company_name": "NuGenTec",
+    "company_slug": "nugentec",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709127744/production/Company/9259/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515684/production/CategoryImage/1058/category_image/HII_10.jpg",
+    "properties": {
+        "Applications": [
+            "Carpet & Upholstery",
+            "Vehicle & Machinery",
+            "Surface Care",
+            "Technical Cleaning",
+            "Institutional & Catering",
+            "Industrial Cleaning",
+            "Home Care",
+            "Institutional & Industrial Care"
+        ],
+        "Product Families": [
+            "Commercial Cleaners",
+            "Industrial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Product Type": [
+            "Tar Cleaner",
+            "Degreasers",
+            "Multipurpose Cleaners",
+            "Cleaner",
+            "Adhesive Remover"
+        ],
+        "Certifications & Compliance": [
+            "California Proposition 65",
+            "ISO 14001",
+            "ISO 9001",
+            "FDA Compliant",
+            "USDA Certified"
+        ],
+        "Application Area": [
+            "Ultrasonic Cleaner",
+            "Engine",
+            "Immersion Cleaner",
+            "Machine Parts",
+            "Electronic Components",
+            "Circuit Board Connectors",
+            "Carpets",
+            "Floor",
+            "Automotive Engine",
+            "Equipment",
+            "Printed Circuit Boards"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Plastics",
+            "Concrete",
+            "Metal"
+        ],
+        "Features": [
+            "Cost Effective",
+            "Degreasing",
+            "Non Corrosive",
+            "Neutral pH",
+            "Heavy Duty",
+            "Effective Soil Removal",
+            "Biocompatible",
+            "Biodegradable"
+        ]
+    }
+}

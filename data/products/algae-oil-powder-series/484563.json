@@ -1,0 +1,79 @@
+{
+    "id": 484563,
+    "brand": "algae-oil-powder-series",
+    "name": "ProbioAid® SNK",
+    "slug": "probioaid-postbiotics-snk",
+    "description": "ProbioAid® SNK is a heat-sealed Lactobacillus plantarum designed to support both brain development and the immune system. This specialized postbiotics is engineered to preserve the balance between Th1 and Th2 cells, crucial for a healthy immune response. Moreover, emerging research indicates that ProbioAid® SNK may play a role in stimulating GABA receptor and BDNF activity, potentially contributing to improved brain development and enhanced sleep quality.",
+    "company_name": "Chambio Co., Ltd.",
+    "company_slug": "chambio-co-ltd",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1710845187/production/Product/484563/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1710845187/production/Product/484563/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Other Drug & Care Solutions",
+            "Desserts & Fruit Preparations",
+            "Bakery",
+            "Cereals & Snacks",
+            "Infant & Baby Food",
+            "Convenience Foods",
+            "Confectionery",
+            "Nutraceuticals & Supplements",
+            "Powdered Beverages",
+            "Energy Drinks",
+            "Functional Foods",
+            "Beverage",
+            "Food",
+            "Nutrition & Well Being",
+            "Drug Delivery & Care Solutions"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Prebiotics, Probiotics & Postbiotics",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "Ingredient Name": [
+            "Lactobacillus Plantarum"
+        ],
+        "End Uses": [
+            "Nutritional Bars",
+            "Energy Bars",
+            "Dessert Bar",
+            "Granola",
+            "Snacks",
+            "Baby Meals",
+            "Meal Replacers",
+            "Gummies",
+            "Beverage Mixes",
+            "Dietary Supplements"
+        ],
+        "Labeling Claims": [
+            "Biodegradable"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Lactobacillus Plantarum"
+        ],
+        "Ingredient Origin": [
+            "Fermentation"
+        ],
+        "Functions": [
+            "Postbiotic"
+        ],
+        "Labeling Claims": [
+            "Biodegradable"
+        ],
+        "Certifications & Compliance": [
+            "ISO 9001",
+            "Hazard Analysis Critical Control Point (HACCP)",
+            "ISO 22000"
+        ],
+        "Benefit Claims (Health)": [
+            "Stimulates Immune System",
+            "Supports Brain Health",
+            "Excellent Digestive Tolerance"
+        ]
+    }
+}

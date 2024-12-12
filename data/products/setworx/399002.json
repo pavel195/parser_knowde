@@ -1,0 +1,42 @@
+{
+    "id": 399002,
+    "brand": "setworx",
+    "name": "EpoxySet Inc. EC-1012MFR-HT",
+    "slug": "epoxyset-inc-ec-1012mfr-ht",
+    "description": "EC-1012MFR-HT is a pourable, self-extinguishing, filled epoxy resin system featuring high thermal conductivity, good electrical insulation, and low shrinkage during cure. It is useful for potting and encapsulating components and modules where removal of heat and resistance to mechanical and thermal shock are prime considerations.",
+    "company_name": "EpoxySet Inc.",
+    "company_slug": "epoxyset",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292112/production/Company/32010/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608972/production/CategoryImage/588/category_image/AdhesivesSealants_05.jpg",
+    "properties": {
+        "Applications": [
+            "Power Transmission & Distribution",
+            "Potting Compounds",
+            "Printed Circuit Boards (PCBs)",
+            "Wire & Cable",
+            "Parts & Components",
+            "Packaging & Assembly"
+        ],
+        "Product Families": [
+            "Encapsulants",
+            "Adhesives & Sealants"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Encapsulant",
+            "Potting Compound"
+        ],
+        "Application Areas": [
+            "Capacitor Bushings",
+            "Power Transformers",
+            "Integrated Circuits"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    }
+}

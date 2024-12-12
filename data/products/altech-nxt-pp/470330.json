@@ -1,0 +1,72 @@
+{
+    "id": 470330,
+    "brand": "altech-nxt-pp",
+    "name": "ALFATER® XL A65I 2GP0050",
+    "slug": "mocom-alfater-xl-a65i-2gp0050",
+    "description": "MOCOM Compounds ALFATER® XL A65I 2GP0050 is a black thermoplastic vulcanisate (PP+EPDM) with good recovery, good weathering resistance, good chemical resistance, good ozone resistance, good hot air resistance, and good hydrolysis resistance. It is suitable for use in injection molded parts such as seals, sealing lips, handles, soft touch elements, impact protection/shock absorbers, protection caps, cable ducts, casters, plugs, fasteners &amp; connectors, and 2K components. It can be adhered to polypropylene homopolymer, polypropylene copolymer, polyethylene, thermoplastic vulcanisate (PP+EPDM), thermoplastic olefin elastomer, and thermoplastic elastomer general. It has excellent durability and performance.",
+    "company_name": "MOCOM Compounds",
+    "company_slug": "mocom",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1713790152/production/Company/50276/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1713790152/production/Company/50276/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Sensors & Actuators",
+            "Terminal Blocks, Plugs & Sockets",
+            "Connectors",
+            "Consumer Electronics",
+            "Interior",
+            "Exterior & Body",
+            "Chassis & Brake",
+            "Furniture",
+            "Appliances & Electronics",
+            "Automotive",
+            "Devices & Assemblies",
+            "Parts & Components"
+        ],
+        "Product Families": [
+            "Thermoplastic Vulcanizates (TPV)",
+            "Thermoplastic Elastomers"
+        ],
+        "Polymer Name": [
+            "PP/EPDM"
+        ],
+        "End Uses": [
+            "Sealing Lip",
+            "Casters",
+            "Cable Ducts",
+            "Protective Caps",
+            "Seals",
+            "Soft Touch Applications",
+            "Shock Absorbers",
+            "Plugs",
+            "Machine/Mechanical Parts",
+            "Handles",
+            "Furniture",
+            "Fasteners",
+            "Electrical/Electronic Applications",
+            "Construction Applications",
+            "Connectors",
+            "Automotive Interior Parts",
+            "Automotive Exterior Parts",
+            "Automotive Applications"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "PP/EPDM"
+        ],
+        "Processing Methods": [
+            "Injection Blow Molding",
+            "Injection Molding"
+        ],
+        "Density": [
+            "940.0 - 940.0 kg/m³"
+        ],
+        "CAS Number": [
+            "123-11-5"
+        ],
+        "Tear Strength": [
+            "25.0 - 25.0 kN/m"
+        ]
+    }
+}

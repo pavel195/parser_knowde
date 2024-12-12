@@ -1,0 +1,43 @@
+{
+    "id": 381075,
+    "brand": "agsoy",
+    "name": "AminoPlus®",
+    "slug": "aminoplus",
+    "description": "AminoPlus® is a natural all soybean-based bypass protein ingredient, providing dairy producers a feed source that can help ensure superior performance and milk yield.",
+    "company_name": "Ag Processing",
+    "company_slug": "ag-processing",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708691675/production/Brand/28591/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608150/production/CategoryImage/545/category_image/AgricultureFeed_01.jpg",
+    "properties": {
+        "Applications": [
+            "Ruminants",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Whole Foods & Extracts",
+            "Amino Acids & Proteins",
+            "Nutritional Ingredients",
+            "Formulated Feeds, Whole Foods and Extracts"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Soybean Meal"
+        ],
+        "Functions": [
+            "Whole Food Ingredient",
+            "Protein Source"
+        ],
+        "Labeling Claims": [
+            "Natural"
+        ],
+        "Protein Content": [
+            "50.0 - 50.0 %"
+        ],
+        "Features": [
+            "High Protein Content",
+            "Amino Acid Rich",
+            "Increased Digestibility"
+        ]
+    }
+}

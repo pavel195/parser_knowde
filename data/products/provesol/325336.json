@@ -1,0 +1,48 @@
+{
+    "id": 325336,
+    "brand": "provesol",
+    "name": "Provesol PQ 6003",
+    "slug": "provesol-pq-6003",
+    "description": "PROVESOL PQ 6003 is a protein product obtained by the aqueous extraction of soluble components of defatted (non-genetically modified) soy flour, subjected to appropriate heat treatment for inactivation of antinutritional factors dried by a spray-drying process, resulting in a product of great power fat emulsifier. It comes in the form of a fine powder, with high solubility and dispersibility. Naturally free of lactose, sucrose, casein and gluten. No chemical additives.",
+    "company_name": "Olvebra Industrial",
+    "company_slug": "olvebra-industrial",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708689726/production/Company/29333/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606914/production/CategoryImage/502/category_image/FoodNutrition_03.jpg",
+    "properties": {
+        "Applications": [
+            "Dairy",
+            "Food"
+        ],
+        "Product Families": [
+            "Emulsifiers",
+            "Proteins & Amino Acids",
+            "Plant Proteins",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements",
+            "Texture & Consistency"
+        ],
+        "End Uses": [
+            "Cheese"
+        ]
+    },
+    "summary": {
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Plant Origin"
+        ],
+        "Functions": [
+            "Protein Source",
+            "Emulsifier"
+        ],
+        "Labeling Claims": [
+            "Natural",
+            "Plant-Based",
+            "Lactose-free",
+            "Vegan",
+            "Additive-free",
+            "Sugar-free",
+            "Non-GMO",
+            "Naturally Derived"
+        ]
+    }
+}

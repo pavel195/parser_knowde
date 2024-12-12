@@ -1,0 +1,38 @@
+{
+    "id": 268370,
+    "brand": "eraspray",
+    "name": "Eracure L",
+    "slug": "eracure-l",
+    "description": "Eracure L is a high performance curative that can be used to cure TDI based prepolymers. It provides significant improvements in dynamic and high temperature properties compared with commercially available systems. It provides improvement in dynamic performance, increased service temperature of elastomers by at least 25°C, increased abrasion resistance, improved resilience, low toxicity and it imparts transparent qualities.",
+    "company_name": "Era Polymers",
+    "company_slug": "era-polymers",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708690611/production/Company/20716/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Other Industrial Applications",
+            "Other Electrical & Electronics Applications",
+            "Other Consumer Goods Applications",
+            "Other Building & Construction Applications"
+        ],
+        "Product Families": [
+            "Catalysts, Initiators & Crosslinkers",
+            "Polymer Additives",
+            "Elastomer Additives"
+        ],
+        "Chemical Family": [
+            "Amines"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Curing Agent"
+        ],
+        "Chemical Family": [
+            "Amines"
+        ],
+        "Compatible Polymers & Resins": [
+            "Polyurethanes (PU)"
+        ]
+    }
+}

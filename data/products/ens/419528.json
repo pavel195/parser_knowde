@@ -1,0 +1,51 @@
+{
+    "id": 419528,
+    "brand": "ens",
+    "name": "Classic™ 1",
+    "slug": "classic-1",
+    "description": "Classic™ 1 is exceptional wood protection system for logs, timbers and exteriors where a beautiful, natural, low luster finish is desired. Classic is deep penetrating and can be applied to wood of variable moisture contents.",
+    "company_name": "The Sansin Corporation",
+    "company_slug": "the-sansin-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1682593253/production/Brand/32916/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608454/production/CategoryImage/560/category_image/BuildingConstruction_04.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Building & Construction",
+            "Wood Coatings & Finishes",
+            "Wood"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ],
+        "Chemical Family": [
+            "Alkyds"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Waterborne Coating"
+        ],
+        "Features": [
+            "Good Penetration",
+            "Excellent UV Stability",
+            "Clarity",
+            "Low VOC",
+            "Long Term Protection",
+            "Dimensional Stability",
+            "Breathable"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Wood"
+        ],
+        "Application Method": [
+            "Spray",
+            "Brush",
+            "Dip Coating"
+        ],
+        "Chemical Family": [
+            "Alkyds"
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": 355315,
+    "brand": "rowlux",
+    "name": "SolaTuf® AC1",
+    "slug": "solatuf-ac1",
+    "description": "SolaTuf® AC1 is used in the following processes: printing, die-cutting, thermoforming, hot stamping, insert molding, laminating, and coating.",
+    "company_name": "ORAFOL",
+    "company_slug": "orafol",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697223637/production/Brand/26471/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609128/production/CategoryImage/597/category_image/PrintingPackaging_08.jpg",
+    "properties": {
+        "Applications": [
+            "Housewares",
+            "Other Packaging Materials",
+            "Other Printing & Packaging Applications",
+            "Packaging"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ],
+        "Polymer Name": [
+            "Acrylic Film"
+        ],
+        "End Uses": [
+            "Household Goods",
+            "Flexible Packaging",
+            "Thermoforming Applications",
+            "Film"
+        ]
+    },
+    "summary": {}
+}

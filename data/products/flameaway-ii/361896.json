@@ -1,0 +1,34 @@
+{
+    "id": 361896,
+    "brand": "flameaway-ii",
+    "name": "FlameAway I™ 168",
+    "slug": "flameaway-i-168",
+    "description": "FlameAway I™ 168 is an aqueous flame retardant for treating raw wood, paper, cotton, muslin, duct canvas &amp; non-synthetic fabrics. It is used for interior use only.",
+    "company_name": "Zeller International",
+    "company_slug": "zeller-international",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708686636/production/Brand/27098/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608640/production/CategoryImage/572/category_image/PaintingsCoatings_08.jpg",
+    "properties": {
+        "Applications": [
+            "Textile Manufacturing",
+            "Wood Coatings & Finishes",
+            "Building & Construction",
+            "Leather & Textiles"
+        ],
+        "Product Families": [
+            "Functional Additives",
+            "Additives"
+        ],
+        "End Uses": [
+            "Waterborne Coating"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Flame Retardant"
+        ],
+        "End Uses": [
+            "Waterborne Coating"
+        ]
+    }
+}

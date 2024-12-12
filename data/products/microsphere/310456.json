@@ -1,0 +1,56 @@
+{
+    "id": 310456,
+    "brand": "microsphere",
+    "name": "Microsphere® FN-100M",
+    "slug": "microsphere-fn-100m",
+    "description": "Microsphere® FN-100M is chlorinated free grade and is high temperature expansive product.",
+    "company_name": "Matsumoto Yushi Seiyaku",
+    "company_slug": "matsumoto-yushi-seiyaku",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708689347/production/Product/310456/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608779/production/CategoryImage/578/category_image/AutomotiveTransportation_06.jpg",
+    "properties": {
+        "Applications": [
+            "Equipment & Parts",
+            "Other Wire & Cable Applications",
+            "Belts & Conveyers",
+            "Other Consumer Goods Applications",
+            "Tires",
+            "Automotive",
+            "Wire & Cable",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Fillers & Extenders",
+            "Polymer Additives",
+            "Elastomer Additives"
+        ],
+        "Chemical Family": [
+            "Acrylics, Acrylates & Methacrylates"
+        ],
+        "End Uses": [
+            "Wires",
+            "Cables",
+            "Belts/Belt Repair",
+            "Conveyor Parts",
+            "Tires"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Acrylics, Acrylates & Methacrylates"
+        ],
+        "Functions": [
+            "Filler"
+        ],
+        "Features": [
+            "Solvent Resistant"
+        ],
+        "End Uses": [
+            "Cables",
+            "Wires",
+            "Conveyor Parts",
+            "Belts/Belt Repair",
+            "Tires"
+        ]
+    }
+}

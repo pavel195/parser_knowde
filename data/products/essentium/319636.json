@@ -1,0 +1,43 @@
+{
+    "id": 319636,
+    "brand": "essentium",
+    "name": "ESSENTIUM PCTG",
+    "slug": "essentium-pctg",
+    "description": "Essentium PCTG is a member of the copolyester family, chemically similar to PETG. Our PCTG is an easy-to-use material with incredible surface finish and excellent impact resistance. This robust material can be printed in open air and over a large temperature range. Compared to PETG, our PCTG has a similar strength and stiffness, while offering superior impact strength and chemical resistance.",
+    "company_name": "Essentium",
+    "company_slug": "essentium",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686113030/production/Product/319636/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical & Industrial Manufacturing",
+            "Tooling & Moldmaking"
+        ],
+        "Product Families": [
+            "3D Printing Polymers",
+            "Thermoplastic Filament"
+        ],
+        "Chemical Family": [
+            "Polyesters"
+        ],
+        "Polymer Name": [
+            "Thermoplastic Polyester"
+        ],
+        "End Uses": [
+            "Molds/Dies/Tools",
+            "Prosthetics"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Thermoplastic Polyester"
+        ],
+        "End Uses": [
+            "Molds/Dies/Tools",
+            "Prosthetics"
+        ],
+        "Density": [
+            "1230.0 - 1230.0 kg/m³"
+        ]
+    }
+}

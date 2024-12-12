@@ -1,0 +1,50 @@
+{
+    "id": 319640,
+    "brand": "essentium",
+    "name": "ESSENTIUM TPU 74D-Z",
+    "slug": "essentium-tpu-74d-z",
+    "description": "Essentium TPU 74D-Z is a high durometer filament in Essentium’s electrostatically dissipative (ESD) portfolio. With non-marring surface properties, you don’t have to worry about latent failures in electronics. Essentium’s Z line of filaments are the only industrially-proven safe materials for ESD sensitive applications. Essentium TPU 74D-Z is a no-warp drop in replacement for ABS. It has excellent impact strength, tear strength, and abrasion resistance.",
+    "company_name": "Essentium",
+    "company_slug": "essentium",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686113275/production/Product/319640/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical & Industrial Manufacturing",
+            "Tooling & Moldmaking"
+        ],
+        "Product Families": [
+            "3D Printing Polymers",
+            "Thermoplastic Filament"
+        ],
+        "Chemical Family": [
+            "Thermoplastic Polyurethanes (TPU)",
+            "Polyurethanes (PU)"
+        ],
+        "Polymer Name": [
+            "Thermoplastic Polyurethane (unspecified)"
+        ],
+        "End Uses": [
+            "Molds/Dies/Tools",
+            "Electrical/Electronic Applications",
+            "Scr Structural Components",
+            "Industrial Connectors",
+            "Automotive Fuel Structural Components"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Thermoplastic Polyurethane (unspecified)"
+        ],
+        "End Uses": [
+            "Scr Structural Components",
+            "Industrial Connectors",
+            "Electrical/Electronic Applications",
+            "Automotive Fuel Structural Components",
+            "Molds/Dies/Tools"
+        ],
+        "Density": [
+            "1230.0 - 1230.0 kg/m³"
+        ]
+    }
+}

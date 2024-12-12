@@ -1,0 +1,41 @@
+{
+    "id": 410295,
+    "brand": "maxstim",
+    "name": "Maxstim™ Organic Agriculture+",
+    "slug": "maxstim-organic-agriculture",
+    "description": "Maxstim™ Organic Agriculture+ re used to grow plants faster and bigger. Maxstim™ Organic Agriculture+ helps in generating higher and better quality yields.",
+    "company_name": "Maxstim",
+    "company_slug": "maxstim",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672651/production/Brand/31873/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608150/production/CategoryImage/545/category_image/AgricultureFeed_01.jpg",
+    "properties": {
+        "Applications": [
+            "Sugar & Starch Crops",
+            "Fruits",
+            "Vegetables",
+            "Agricultural Crops"
+        ],
+        "Product Families": [
+            "Bioenhancers",
+            "Adjuvants & Formulation Ingredients"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Bioenhancer"
+        ],
+        "Application Technique": [
+            "Ground Soil Applied",
+            "Foliage Applied"
+        ],
+        "Features": [
+            "Good Roots Growth",
+            "Enhanced Crop Yield & Quality",
+            "Improves Crop Quality",
+            "Abiotic Resistant",
+            "Increased Disease Suppression",
+            "Improves Plant Growth",
+            "Resistance against Biotic Stress"
+        ]
+    }
+}

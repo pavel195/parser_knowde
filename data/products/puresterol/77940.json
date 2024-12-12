@@ -1,0 +1,62 @@
+{
+    "id": 77940,
+    "brand": "puresterol",
+    "name": "Bio-Botanica NeopeinÂ®",
+    "slug": "bio-botanica-neopeina",
+    "description": "Neopein® is an all natural preservative for multiple personal care and cosmetic applications, crémes, shampoos, soaps, lotions, etc. It is an ideal alternative to synthetic preservatives. Neopein® is a proprietary blend of botanical extracts with broad spectrum antimicrobial activity.",
+    "company_name": "Bio-Botanica",
+    "company_slug": "bio-botanica",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1720552879/production/Company/1158/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1720552879/production/Company/1158/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Hair Care",
+            "Skin Care",
+            "Bath & Shower",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Botanical Ingredients & Extracts",
+            "Antioxidants & Preservatives",
+            "Vitamins, Extracts & Oils",
+            "Functionals"
+        ],
+        "Chemical Family": [
+            "Botanical Extracts"
+        ],
+        "INCI Name": [
+            "Olea Europaea (Olive) Leaf Extract",
+            "Origanum Vulgare Extract",
+            "Thymus Vulgaris (Thyme) Extract",
+            "Rosmarinus Officinalis (Rosemary) Leaf Extract",
+            "Lavandula Angustifolia (Lavender) Flower Extract",
+            "Hydrastis Canadensis (Goldenseal) Root Extract"
+        ],
+        "End Uses": [
+            "Shampoos & Rinses",
+            "Bar Soaps"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Lavandula Angustifolia (Lavender) Flower Extract",
+            "Rosmarinus Officinalis (Rosemary) Leaf Extract",
+            "Olea Europaea (Olive) Leaf Extract",
+            "Thymus Vulgaris (Thyme) Extract",
+            "Hydrastis Canadensis (Goldenseal) Root Extract",
+            "Origanum Vulgare Extract"
+        ],
+        "Functions": [
+            "Anti-Microbial Agent",
+            "Preservative"
+        ],
+        "Ingredient Origin": [
+            "Plant Origin",
+            "Natural Origin"
+        ],
+        "Benefit Claims": [
+            "Antimicrobial",
+            "Conditioning"
+        ]
+    }
+}

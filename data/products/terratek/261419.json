@@ -1,0 +1,48 @@
+{
+    "id": 261419,
+    "brand": "terratek",
+    "name": "Terratek® FX2217",
+    "slug": "terratek-fx2217",
+    "description": null,
+    "company_name": "Green Dot Bioplastics Inc",
+    "company_slug": "green-dot",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691742443/production/Company/20762/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1691742443/production/Product/261419/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Non-Food Consumer Packaging",
+            "Jacketing & Insulation",
+            "Interior",
+            "Aftermarket Parts & Components",
+            "Sports & Recreation",
+            "Housewares",
+            "Footwear",
+            "Wire & Cable",
+            "Packaging",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Biodegradable Polymers",
+            "Other Thermoplastic Elastomers",
+            "Engineering & Specialty Polymers",
+            "Thermoplastic Elastomers"
+        ],
+        "Polymer Name": [
+            "Thermoplastic Elastomer (unspecified)"
+        ],
+        "End Uses": [
+            "Wires",
+            "Cables",
+            "Toys",
+            "Household Goods",
+            "Footwear",
+            "Automotive Interior Parts",
+            "Automotive Components"
+        ]
+    },
+    "summary": {
+        "Density": [
+            "1224.3 - 1224.3 kg/m³"
+        ]
+    }
+}

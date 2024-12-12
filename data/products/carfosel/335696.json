@@ -1,0 +1,42 @@
+{
+    "id": 335696,
+    "brand": "carfosel",
+    "name": "Praylev™ Aerosal",
+    "slug": "praylev-aerosal",
+    "description": "Praylev™ Aerosal has a sodium aluminum phosphate, acidic food grade and a white, free-flowing powdered material. It is used as a leavening agent in baking powders and in prepared institutional and retail cake, cookie, muffin and pancake mixes.",
+    "company_name": "Prayon S.A.",
+    "company_slug": "prayon-s-a",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708683251/production/Brand/24814/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607215/production/CategoryImage/511/category_image/FoodNutrition_12.jpg",
+    "properties": {
+        "Applications": [
+            "Bakery",
+            "Food"
+        ],
+        "Product Families": [
+            "Dough Conditioners & Flour Additives",
+            "Functional Additives"
+        ],
+        "End Uses": [
+            "Cookies",
+            "Pastries"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Leavening Agent"
+        ],
+        "Labeling Claims": [
+            "Halal",
+            "Kosher"
+        ],
+        "Certifications & Compliance": [
+            "Halal",
+            "Kosher"
+        ],
+        "End Uses": [
+            "Pastries",
+            "Cookies"
+        ]
+    }
+}

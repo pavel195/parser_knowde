@@ -1,0 +1,36 @@
+{
+    "id": 343469,
+    "brand": "zeoprime",
+    "name": "Lipidin",
+    "slug": "lipidin",
+    "description": "Lipidin is a natural gut emulsifier and nutrient absorption enhancer. Lipidin has been extensively evaluated on different species and has been proven to enhance performance.",
+    "company_name": "Avitech Nutrition",
+    "company_slug": "avitech-nutrition",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708686200/production/Brand/25431/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608215/production/CategoryImage/550/category_image/AgricultureFeed_06.jpg",
+    "properties": {
+        "Applications": [
+            "Swine",
+            "Birds & Poultry",
+            "Aquaculture",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Emulsifiers, Stabilizers & Thickeners",
+            "Production Aids and Processing Additives"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Emulsifier"
+        ],
+        "Features": [
+            "Efficient Protein Absorption",
+            "Good Mineral Absorption"
+        ],
+        "Physical Form": [
+            "Powder",
+            "Solid"
+        ]
+    }
+}

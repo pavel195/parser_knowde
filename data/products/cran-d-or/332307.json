@@ -1,0 +1,59 @@
+{
+    "id": 332307,
+    "brand": "cran-d-or",
+    "name": "Artemis International Cranberry Protein Powder",
+    "slug": "artemis-international-cranberry-protein-powder",
+    "description": "Cranberry Protein Powder is a Pure cranberry (Vaccinium macrocarpon) seed protein powder; cold pressed without enzymes or extraction solvents; 100% vegan.",
+    "company_name": "Artemis International",
+    "company_slug": "artemis-international",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686104912/production/Company/32513/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606846/production/CategoryImage/500/category_image/FoodNutrition_01.jpg",
+    "properties": {
+        "Applications": [
+            "Nutrition & Well Being",
+            "Functional Foods"
+        ],
+        "Product Families": [
+            "Nutrition & Fortification",
+            "Whole Foods, Extracts & Premixes",
+            "Plant Proteins",
+            "Fruit Products & Extracts",
+            "Nut & Seed Products",
+            "Nutraceuticals & Supplements",
+            "Proteins & Amino Acids"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Cranberry Protein Powder"
+        ],
+        "Ingredient Origin": [
+            "Plant Origin",
+            "Natural Origin"
+        ],
+        "Labeling Claims": [
+            "BSE-free",
+            "TSE-free",
+            "Vegan",
+            "Plant-Based",
+            "Allergen-free",
+            "Solvent-free",
+            "Non-GMO",
+            "Kosher",
+            "Gluten-free",
+            "Naturally Derived",
+            "Natural"
+        ],
+        "Protein Content": [
+            "23.0 - 28.0 %"
+        ],
+        "Certifications & Compliance": [
+            "Generally Recognized As Safe (GRAS)",
+            "Kosher"
+        ],
+        "Physical Form": [
+            "Powder",
+            "Solid"
+        ]
+    }
+}

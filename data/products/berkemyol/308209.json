@@ -1,0 +1,60 @@
+{
+    "id": 308209,
+    "brand": "berkemyol",
+    "name": "Berkem Bamboo water (R0767)",
+    "slug": "berkem-bamboo-water-r0767",
+    "description": "The Bamboo water is known for its anti-inflammatory and revitalizing properties. It brings the radiance back to the skin while it soothing it. Its reparative properties provide the regeneration of the skin cells.",
+    "company_name": "Berkem",
+    "company_slug": "berkem",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708683864/production/Product/308209/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708683864/production/Product/308209/card_banner/image",
+    "properties": {
+        "Product Families": [
+            "Skin Actives",
+            "Sensory Modifiers",
+            "Hydrosols & Waters",
+            "Cosmetic Actives",
+            "Vitamins, Extracts & Oils",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Bambusa Vulgaris Water"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Bambusa Vulgaris Water"
+        ],
+        "Functions": [
+            "Anti-Inflammatory",
+            "Soothing Agent"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Non-Animal Origin",
+            "Plant Origin"
+        ],
+        "Labeling Claims": [
+            "Clean at Sephora",
+            "Plant-Based",
+            "Sustainable",
+            "Naturally Derived",
+            "Allergen-free",
+            "Natural"
+        ],
+        "Certifications & Compliance": [
+            "IECIC (China)"
+        ],
+        "Benefit Claims": [
+            "Regenerating",
+            "Revitalizing",
+            "Repairing",
+            "Glowing Effect",
+            "Irritation Reduction",
+            "Suitable for Sensitive Skin",
+            "Shine & Radiance",
+            "Remineralizing",
+            "Soothing"
+        ]
+    }
+}

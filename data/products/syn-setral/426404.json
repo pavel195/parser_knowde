@@ -1,0 +1,41 @@
+{
+    "id": 426404,
+    "brand": "syn-setral",
+    "name": "PAC-setral -KN/M 1407",
+    "slug": "pac-setral-kn-m-1407",
+    "description": "Setral PAC-Setral-KN/M 1407 is an additive package for use in modern textile machine oils for circular knitting machines.",
+    "company_name": "Setral",
+    "company_slug": "setral",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708687482/production/Brand/33750/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Fluids & Lubricants",
+            "Textile Manufacturing",
+            "Chemical & Industrial Manufacturing",
+            "Leather & Textiles"
+        ],
+        "Product Families": [
+            "Additive Packages",
+            "Additives"
+        ],
+        "End Uses": [
+            "Textile Oils",
+            "Machining Oils"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Additive Packages"
+        ],
+        "End Uses": [
+            "Textile Oils",
+            "Machining Oils"
+        ],
+        "Features": [
+            "Wear Protection",
+            "Corrosion Resistant",
+            "Good Surface Affinity"
+        ]
+    }
+}

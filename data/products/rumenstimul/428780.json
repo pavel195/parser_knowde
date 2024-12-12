@@ -1,0 +1,48 @@
+{
+    "id": 428780,
+    "brand": "rumenstimul",
+    "name": "Vitalac Genilac Guardian",
+    "slug": "vitalac-genilac-guardian",
+    "description": "Vitalac Genilac Guardian milk powder neutralizes pathogens and toxins that calves are very often confronted with from birth: it ensures digestive safety while guaranteeing a high growth potential.",
+    "company_name": "Vitalac",
+    "company_slug": "vitalac",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686635492/production/Company/61348/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608224/production/CategoryImage/551/category_image/AgricultureFeed_07.jpg",
+    "properties": {
+        "Applications": [
+            "Animal Health & Nutrition",
+            "Ruminants"
+        ],
+        "Product Families": [
+            "Nutritional Ingredients",
+            "Amino Acids & Proteins"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Milk Replacer"
+        ],
+        "Features": [
+            "Promotes Digestive Health",
+            "Improves Growth Performance",
+            "Improving Stress Tolerance",
+            "Improves Body Weight Gain",
+            "Milk Replacers",
+            "Supports Immunity",
+            "Toxin Prevention",
+            "Reduces Inflammation",
+            "Decreases Pathogen Load"
+        ],
+        "Labeling Claims": [
+            "Organic"
+        ],
+        "Certifications & Compliance": [
+            "ECOCERT",
+            "Organic Certified"
+        ],
+        "Protein Content": [
+            "24.0 - 24.0 %",
+            "100.0 - 100.0 %"
+        ]
+    }
+}

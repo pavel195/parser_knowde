@@ -1,0 +1,35 @@
+{
+    "id": 386983,
+    "brand": "e-tec",
+    "name": "E-Seal 1000",
+    "slug": "e-seal-1000",
+    "description": "E-Seal 1000 is a high performance corrosion resistant polymer sealer that provides over 300 hours of salt spray protection to white rust and 500 hours of salt spray protection to red rust when applied over zinc plated (zinc plating thickness 0.0003\") parts in E-Brite Ultra Alk or E-Brite Ultra Chlor plating baths and chromated in E-Chrome hexavalent or trivalent chromates. E-Seal 1000 is a concentrated liquid that is diluted to 15-25 percent by volume with tap water.",
+    "company_name": "Electrochemical Products, Inc",
+    "company_slug": "electrochemical-products-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704101906/production/Brand/29004/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608611/production/CategoryImage/569/category_image/PaintingsCoatings_05.jpg",
+    "properties": {
+        "Applications": [
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Primers & Sealers",
+            "Paints & Coatings"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Sealer"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Polyvinyl Chloride (PVC)",
+            "Polypropylene (PP)",
+            "Plastics"
+        ],
+        "Features": [
+            "Excellent Performance",
+            "Corrosion Resistant",
+            "Excellent Salt Spray Resistance"
+        ]
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "id": 316787,
+    "brand": "reinste",
+    "name": "Reinste 206T",
+    "slug": "reinste-206t",
+    "description": "Reinste 206T is Used as a functional filler for polysulphide sealant.",
+    "company_name": "Reinste Nano Ventures",
+    "company_slug": "reinste-nano-ventures",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708696429/production/Product/316787/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608982/production/CategoryImage/589/category_image/AdhesivesSealants_06.jpg",
+    "properties": {
+        "Applications": [
+            "Sealants & Caulks",
+            "Inkjet Printing",
+            "Offset & Lithographic Printing",
+            "Gravure Printing",
+            "Sealants",
+            "Building & Construction",
+            "Bonding & Assembly",
+            "Building Materials",
+            "Construction Chemicals",
+            "Roofing",
+            "Printing & Inks"
+        ],
+        "Product Families": [
+            "Fillers & Extenders",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Mica",
+            "Silica",
+            "Carbonates",
+            "Calcium Salts"
+        ],
+        "End Uses": [
+            "Inkjet Ink",
+            "Offset Ink",
+            "Lithographic Ink",
+            "Gravure Ink"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Filler"
+        ],
+        "Chemical Family": [
+            "Silica",
+            "Carbonates",
+            "Mica",
+            "Calcium Salts"
+        ],
+        "End Uses": [
+            "Offset Ink",
+            "Gravure Ink",
+            "Lithographic Ink",
+            "Inkjet Ink"
+        ],
+        "Compatible Polymers & Resins": [
+            "Silicones",
+            "Polysulfide Rubber",
+            "Cement"
+        ]
+    }
+}

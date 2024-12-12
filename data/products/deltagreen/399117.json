@@ -1,0 +1,33 @@
+{
+    "id": 399117,
+    "brand": "deltagreen",
+    "name": "DeltaGreen® Stain Remover",
+    "slug": "deltagreen-stain-remover",
+    "description": "DeltaGreen® Stain Remover is designed to remove tannin based stains in fabric. Tannin based stains include tea, coffee, soft drinks, fruit juice, wine, and washable ink.",
+    "company_name": "DeltaGreen",
+    "company_slug": "deltagreen",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664291988/production/Company/50822/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515647/production/CategoryImage/1055/category_image/HII_07.jpg",
+    "properties": {
+        "Applications": [
+            "Home Care",
+            "Laundry & Fabric Care"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Commercial Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner",
+            "Stain Removers"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Fibers & Fabrics"
+        ],
+        "Features": [
+            "Stain Removing"
+        ]
+    }
+}

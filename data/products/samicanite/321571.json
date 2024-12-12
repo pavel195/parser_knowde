@@ -1,0 +1,46 @@
+{
+    "id": 321571,
+    "brand": "samicanite",
+    "name": "Dellit® PF CP 21 T",
+    "slug": "dellit-pf-cp-21-t",
+    "description": "Dellit® PF CP 21 T is composed of phenolic resin and paper reinforement.",
+    "company_name": "Von Roll Isola",
+    "company_slug": "von-roll-isola",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691737628/production/Company/30787/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607403/production/CategoryImage/516/category_image/ElectricalElectronics_01.jpg",
+    "properties": {
+        "Applications": [
+            "Textile Manufacturing",
+            "Other Textile Applications",
+            "Other Industrial Applications",
+            "Equipment & Parts",
+            "Tubing & Fluids Handling",
+            "Appliances & Electronics",
+            "Fuel Systems",
+            "Electrical & Electronic Systems",
+            "Cooling & Climate",
+            "Chassis & Brake",
+            "Medical",
+            "Textiles & Nonwovens",
+            "Leather & Textiles",
+            "Chemical & Industrial Manufacturing",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Parts & Shapes",
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Phenols & Phenolics"
+        ],
+        "Polymer Name": [
+            "Phenolic Compound"
+        ],
+        "End Uses": [
+            "Tubes",
+            "Coiled Tubes",
+            "Bobbins"
+        ]
+    },
+    "summary": {}
+}

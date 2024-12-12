@@ -1,0 +1,40 @@
+{
+    "id": 415900,
+    "brand": "thrive",
+    "name": "THRIVE® Full Synthetic SAE 10W-30",
+    "slug": "thrive-full-synthetic-sae-10w-30",
+    "description": "THRIVE® Full Synthetic SAE 10W-30 Oil use an advanced passenger car motor oil technology designed to meet the needs of today’s modern gasoline engines. They are formulated with the highest quality additives and base oils and are designed to meet or exceed the demands of turbocharged (TGDI), gasoline-fueled and flex-fuel passenger cars, light trucks and sport utility vehicles, including gasoline-electric hybrids. THRIVE™ Synthetic Engine Oils formulated to provide superior anti-wear protection and enhanced high temperature performance to resist oxidation breakdown and sludge. THRIVE™ Engine Oils exceed the industry engine performance requirements for the API Engine Oil Licensing and Certification System (EOLCS). This includes recently updated industry standards API SP and ILSAC GF-6 and acceptable for new car warranty requirements.",
+    "company_name": "U.S. Lubricants",
+    "company_slug": "u-s-lubricants",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1682593126/production/Brand/32474/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608779/production/CategoryImage/578/category_image/AutomotiveTransportation_06.jpg",
+    "properties": {
+        "Applications": [
+            "Lubricants & Functional Fluids",
+            "Automotive Fluids & Lubricants"
+        ],
+        "Product Families": [
+            "Lubricants & Oils",
+            "Fluids & Lubricants"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Oil"
+        ],
+        "Application Area": [
+            "Engine",
+            "Gasoline Engine"
+        ],
+        "Features": [
+            "High Temperature Performance",
+            "Low Emissions",
+            "Service Life Extension",
+            "Wear Resistant",
+            "Sludge Build-up Prevention"
+        ],
+        "SAE Viscosity Grade": [
+            "SAE 10W-30"
+        ]
+    }
+}

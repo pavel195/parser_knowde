@@ -1,0 +1,73 @@
+{
+    "id": 388132,
+    "brand": "selvol-polyvinyl-alcohol",
+    "name": "Selvol™ Polyvinyl Alcohol 325LA",
+    "slug": "selvol-polyvinyl-alcohol-325la",
+    "description": null,
+    "company_name": "Sekisui Specialty Chemicals",
+    "company_slug": "sekisui-specialty-chemicals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709127701/production/Company/1404/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625605610/production/CategoryImage/454/category_image/Plastics_10.jpg",
+    "properties": {
+        "Applications": [
+            "Case & Carton Sealing",
+            "Textile Manufacturing",
+            "Pulping & Processing",
+            "Non-Food Consumer Packaging",
+            "Other Specialty Coatings",
+            "Inkjet Printing",
+            "Coated Paper & Paperboard",
+            "Exploration & Upstream",
+            "Packaging & Paper",
+            "Oil, Gas & Mining",
+            "Paper & Pulp",
+            "Textiles & Nonwovens",
+            "Specialty Coatings",
+            "Printing & Inks",
+            "Tapes, Labels & Adhesives",
+            "Packaging",
+            "Leather & Textiles"
+        ],
+        "Product Families": [
+            "Other Resins & Binders",
+            "Finishing Additives & Treatments",
+            "Oilfield & Transport Chemicals",
+            "Alcohols",
+            "Functional Additives",
+            "Additives",
+            "Resins & Binders",
+            "Intermediates",
+            "Oil, Gas & Mining Chemicals",
+            "Textile & Leather Chemicals"
+        ],
+        "Chemical Family": [
+            "Alcohols",
+            "Polyvinyl Alcohols & Esters"
+        ],
+        "Polymer Name": [
+            "Polyvinyl Alcohol (PVOH)"
+        ],
+        "End Uses": [
+            "Film",
+            "Ceramics",
+            "Oil & Gas Applications",
+            "Inkjet Ink",
+            "Paper & Pulp",
+            "Seed Coating",
+            "Textiles"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Coupling Agent",
+            "Adhesion Promoter",
+            "Film Former",
+            "Intermediate",
+            "Binder & Resin"
+        ],
+        "Chemical Family": [
+            "Polyvinyl Alcohols & Esters",
+            "Alcohols"
+        ]
+    }
+}

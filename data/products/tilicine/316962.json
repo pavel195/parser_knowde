@@ -1,0 +1,86 @@
+{
+    "id": 316962,
+    "brand": "tilicine",
+    "name": "Greentech Margin Organic Water (SB)",
+    "slug": "greentech-margin-organic-water-sb",
+    "description": "Greentech Margin Organic Water (SB) is a cosmetic active and considered as a reparative extract thanks to it's antioxidant and soothing properties.",
+    "company_name": "Greentech",
+    "company_slug": "greentech",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709127445/production/Product/316962/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1709127445/production/Product/316962/card_banner/image",
+    "properties": {
+        "Product Families": [
+            "Skin Actives",
+            "Sensory Modifiers",
+            "Functionals",
+            "Cosmetic Actives"
+        ],
+        "INCI Name": [
+            "Potassium Sorbate",
+            "Sodium Benzoate",
+            "Citric Acid",
+            "Olea Europaea (Olive) Fruit Extract"
+        ],
+        "End Uses": [
+            "Anti-Aging Products"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Citric Acid",
+            "Sodium Benzoate",
+            "Potassium Sorbate",
+            "Olea Europaea (Olive) Fruit Extract"
+        ],
+        "Functions": [
+            "Antioxidant",
+            "Soothing Agent"
+        ],
+        "Ingredient Origin": [
+            "Non-Animal Origin",
+            "Natural Origin",
+            "Plant Origin"
+        ],
+        "Labeling Claims": [
+            "BSE-free",
+            "Nanomaterials-free",
+            "Credo Clean Standard",
+            "Clean at Sephora",
+            "TSE-free",
+            "VOC-free",
+            "Impurities-free",
+            "Naturally Derived",
+            "Residues-free",
+            "Not Tested on Animals",
+            "Palm Oil-free",
+            "Allergen-free",
+            "Alcohol-free",
+            "Vegan",
+            "Organic",
+            "Solvent-free",
+            "Microplastics-free",
+            "Ulta Beauty's Conscious Beauty",
+            "Plant-Based",
+            "GMO-free",
+            "Gluten-free",
+            "CMR Substances-free"
+        ],
+        "Certifications & Compliance": [
+            "EU Cosmetic Regulation 1223/2009 Compliant",
+            "ISO 16128",
+            "ASEAN Compliant",
+            "Organic Certified",
+            "COSMOS",
+            "REACH (Europe)",
+            "GMP",
+            "ECOCERT",
+            "FDA Compliant"
+        ],
+        "Benefit Claims": [
+            "Suitable for Sensitive Skin",
+            "Suitable for Oily Skin",
+            "Repairing",
+            "Sensitive"
+        ]
+    }
+}

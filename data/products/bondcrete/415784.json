@@ -1,0 +1,44 @@
+{
+    "id": 415784,
+    "brand": "bondcrete",
+    "name": "Graymont Pulverized lime",
+    "slug": "graymont-pulverized-lime",
+    "description": "Pulverized lime is a specially milled quicklime product for various metallurgical, industrial, chemical and agricultural applications. Final product size is milled to less than 100-mesh. Pulverized lime is also available with an additive for enhanced handling and flowability. High-calcium quicklime is lime made from rich deposits of high-calcium limestone containing less than 5% magnesium carbonate. Calcium oxide (CaO), commonly known as lime or quicklime, is a widely used chemical compound. It is a white, alkaline, and crystalline solid. High-calcium quicklime provides superior chemical performance. It will deliver exceptional performance for acid-neutralization, SO2-absorption, sludge-stabilization or other industrial-alkali applications.",
+    "company_name": "Graymont",
+    "company_slug": "graymont",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704106674/production/Company/55514/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Metal Manufacturing & Finishing",
+            "Chemical Manufacturing",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Metal Processing Additives",
+            "Inorganics",
+            "Technical Salts & Inorganics",
+            "Processing Aids"
+        ],
+        "Chemical Family": [
+            "Calcium & Calcium Compounds"
+        ],
+        "End Uses": [
+            "Steel Industry"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Calcium Oxide"
+        ],
+        "CAS Number": [
+            "1305-78-8"
+        ],
+        "Chemical Family": [
+            "Calcium & Calcium Compounds"
+        ],
+        "Synonyms": [
+            "Calcium Monoxide, Caustic Lime, Lime, Limestone, Pebble Lime, Quick Lime"
+        ]
+    }
+}

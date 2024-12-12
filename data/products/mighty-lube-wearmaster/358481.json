@@ -1,0 +1,38 @@
+{
+    "id": 358481,
+    "brand": "mighty-lube-wearmaster",
+    "name": "Mighty Lube® Type ML-L",
+    "slug": "mighty-lube-type-ml-l",
+    "description": "Mighty Lube® Type ML-L is a clear, heavy duty anti-wear lubricant which protects against wear and corrosion over temperature ranges of -65 degrees F to 425 degrees F.",
+    "company_name": "Mighty Lube",
+    "company_slug": "mighty-lube",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680108924/production/Brand/26728/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical & Industrial Manufacturing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Lubricants & Oils",
+            "Fluids & Lubricants"
+        ],
+        "Chemical Family": [
+            "Esters"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Clearcoat",
+            "Industrial Lubricants"
+        ],
+        "Features": [
+            "Anti-Wear Properties",
+            "Extreme Pressure Performance",
+            "Corrosion Resistant"
+        ],
+        "Chemical Family": [
+            "Esters"
+        ]
+    }
+}

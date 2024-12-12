@@ -1,0 +1,42 @@
+{
+    "id": 195150,
+    "brand": "beckopox-water-reducible-amine-hardener",
+    "name": "SETAQUA® PU F125",
+    "slug": "setaqua-pu-f125",
+    "description": "SETAQUA® PU F125 is intended for 1K (1 component) aqueous coatings and is especially suited for use in roofing and building envelope applications in the building and construction sector. Perfect for wood substrate insulation projects and Exterior Insulation and Finish Systems (EIFS). This clear liquid coating is a dependable solution for wood surfaces, blending invisibly with waterborne compositions. Its wood-compatibility guarantees a reliable and effective application procedure.",
+    "company_name": "allnex",
+    "company_slug": "allnex",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1705505854/production/Product/195150/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1705505854/production/Product/195150/card_banner/image",
+    "properties": {
+        "Applications": [
+            "EIFS & Insulation",
+            "Insulation",
+            "Building Envelope",
+            "Building Envelope & Roofing"
+        ],
+        "Product Families": [
+            "Polyurethanes (PU)",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ],
+        "End Uses": [
+            "Waterborne Coating",
+            "1K (1 component) Coating"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ],
+        "End Uses": [
+            "Waterborne Coating",
+            "1K (1 component) Coating"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Wood"
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "id": 330274,
+    "brand": "sibelius",
+    "name": "SIBELIUS™ : Sage",
+    "slug": "sibelius-limited-sibelius-sage",
+    "description": "SIBELIUS™: Sage provides a foast, natural lift to cognitive performance for consumers seekinga non-caffeinated, clinically proven natural boost. Sibelius™: Chamomile is a branded, scientifically evidenced, high-quality Roman chamomile extract, specially designed to support restful sleep naturally. ",
+    "company_name": "Sibelius Limited",
+    "company_slug": "sibelius-limited",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708690605/production/Product/330274/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708690605/production/Product/330274/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Oral",
+            "Desserts & Fruit Preparations",
+            "Other Non-Alcoholic Beverages",
+            "Dairy",
+            "Confectionery",
+            "Beverage",
+            "Food",
+            "Drug Delivery & Care Solutions"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Phytochemicals & Plant Extracts",
+            "Plant & Herb Products & Extracts",
+            "Nutrition & Fortification",
+            "Whole Foods, Extracts & Premixes",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Jellies",
+            "Dairy Products",
+            "Chewing Gum"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Sage Extract"
+        ],
+        "Functions": [
+            "Dietary Supplement"
+        ],
+        "Labeling Claims": [
+            "Natural"
+        ]
+    }
+}

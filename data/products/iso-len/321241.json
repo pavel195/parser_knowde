@@ -1,0 +1,55 @@
+{
+    "id": 321241,
+    "brand": "iso-len",
+    "name": "ISO-LEN® P",
+    "slug": "iso-len-p",
+    "description": "ISO-LEN® P is an ultra-high molecular weight low-pressure polyethylene based on the proven ISO-LEN® 1000. Due to the homogeneous reinforcement of glass microspheres with PE-UHMW, ISO-LEN® P achieves not only a significantly improved abrasion resistance - especially at high machine speeds - but also an optimization of the rigidity of the workpiece.",
+    "company_name": "ISO TECH Kunststoff GmbH",
+    "company_slug": "iso-tech-kunststoff-gmbh",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697223334/production/Product/321241/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Non-Food Consumer Packaging",
+            "Other Packaging Materials",
+            "Other Industrial Applications",
+            "Equipment & Parts",
+            "Belts & Conveyers",
+            "Other Parts & Components",
+            "Structural Components",
+            "Other Automotive Applications",
+            "Automotive",
+            "Building Materials",
+            "Parts & Components",
+            "Chemical & Industrial Manufacturing",
+            "Packaging"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Polyolefins",
+            "Polyethylenes"
+        ],
+        "Polymer Name": [
+            "Ultra High Molecular Weight Polyethylene (UHMWPE)"
+        ],
+        "End Uses": [
+            "Rigid Films",
+            "Film",
+            "Cosmetic Packaging",
+            "Rigid Packaging",
+            "Machine/Mechanical Parts",
+            "Flexible Packaging",
+            "Conveyors"
+        ]
+    },
+    "summary": {
+        "Density": [
+            "960.0 - 960.0 kg/m³"
+        ],
+        "Tensile Modulus": [
+            "700.0 - 700.0 MPa"
+        ]
+    }
+}

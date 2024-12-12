@@ -1,0 +1,69 @@
+{
+    "id": 399395,
+    "brand": "servo",
+    "name": "GARD™ Antimicrobial",
+    "slug": "gard-antimicrobial",
+    "description": "GARD™ Antimicrobial improves plastic by preventing the growth of harmful micro-ogranisms. This antimicrobial technology is highly effective against MRSA, Salmonella, Listeria, E. coli, Staphylococcus and dozens of dangerous microorganisms: including many gram-positive and gram-negative bacteria. This is designed to protect the health and well-being of both people and planet, our performance additives serve to reduce environmental impact while profoundly enhancing the behavior and beneficial properties of plastic.",
+    "company_name": "Smart Plastics",
+    "company_slug": "smart-plastics",
+    "logo_url": null,
+    "banner_url": "https://media.knowde.com/image/upload/v1625609117/production/CategoryImage/596/category_image/PrintingPackaging_07.jpg",
+    "properties": {
+        "Applications": [
+            "Non-Food Consumer Packaging",
+            "Food & Beverage Packaging",
+            "Surgical Instruments & Trays",
+            "Medical Devices & Assemblies",
+            "Consumer Electronics",
+            "Sports & Recreation",
+            "Furniture",
+            "Appliances & Electronics",
+            "Other Flooring & Surface Applications",
+            "Flooring & Surfaces",
+            "Devices & Assemblies",
+            "Medical",
+            "Packaging"
+        ],
+        "Product Families": [
+            "Microbial Control",
+            "Polymer Additives"
+        ],
+        "End Uses": [
+            "Trays",
+            "Toys",
+            "Sporting Goods",
+            "Medical Devices",
+            "Furniture",
+            "Food Packaging",
+            "Flooring",
+            "Containers",
+            "Appliances"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Anti-Microbial Agent"
+        ],
+        "Compatible Polymers & Resins": [
+            "Polypropylenes (PP)",
+            "Polyethylenes (PE)",
+            "Polyethylene Terephthalate (PET)",
+            "Polystyrenes (PS)"
+        ],
+        "End Uses": [
+            "Appliances",
+            "Food Packaging",
+            "Toys",
+            "Flooring",
+            "Medical Devices",
+            "Containers",
+            "Furniture",
+            "Trays",
+            "Sporting Goods"
+        ],
+        "Features": [
+            "Long Term Protection",
+            "Recyclable"
+        ]
+    }
+}

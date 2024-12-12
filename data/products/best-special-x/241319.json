@@ -1,0 +1,45 @@
+{
+    "id": 241319,
+    "brand": "best-special-x",
+    "name": "BEST Wheat Malt",
+    "slug": "best-wheat-malt",
+    "description": "BEST Wheat Malt emphasizes the effervescent freshness and typical top-fermented flavor of wheat beer. It is produced exclusively from high-quality brewing wheat. As it has a higher protein content than a Pilsen malt, BEST Wheat Malt is not only suited to producing typical wheat beers, but also enhances the mouth feel and improves the foam of all top-fermented beer styles. The malting process has been adapted to the raw material to guarantee excellent processability. BEST Wheat Malt is also available in organic quality.",
+    "company_name": "BESTMALZ",
+    "company_slug": "bestmalz",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686634665/production/Company/16830/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1686634665/production/Company/16830/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Beverage",
+            "Liquor & Spirits",
+            "Beer Brewing"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Flours & Grains Products"
+        ],
+        "End Uses": [
+            "Beer"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Wheat Malt"
+        ],
+        "Labeling Claims": [
+            "Kosher",
+            "Plant-Based",
+            "GMO-free",
+            "Naturally Derived"
+        ],
+        "Certifications & Compliance": [
+            "Hazard Analysis Critical Control Point (HACCP)",
+            "Kosher",
+            "ISO 9001",
+            "ISO 50001"
+        ],
+        "Features": [
+            "Stabilizing"
+        ]
+    }
+}

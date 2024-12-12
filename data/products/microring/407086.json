@@ -1,0 +1,55 @@
+{
+    "id": 407086,
+    "brand": "microring",
+    "name": "MicrOring® Seals BN",
+    "slug": "microring-seals-bn",
+    "description": "MicrOring® Seals BN is presently the seal industry’s most widely used elastomer. Nitrile combines excellent resistance to petroleum-based oils and fuels, silicone greases, hydraulic fluids, water and alcohols. It has a good balance of such desirable working properties as low compression set, high tensile strength and high abrasion resistance.",
+    "company_name": "Apple Rubber Products",
+    "company_slug": "apple-rubber-products",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686149904/production/Brand/31401/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608769/production/CategoryImage/577/category_image/AutomotiveTransportation_05.jpg",
+    "properties": {
+        "Applications": [
+            "Wire & Cable",
+            "Medical",
+            "Medical Devices & Assemblies",
+            "Aerospace & Aviation",
+            "Optical Fiber & Telecom",
+            "Transportation"
+        ],
+        "Product Families": [
+            "Parts & Shapes"
+        ],
+        "Polymer Name": [
+            "Acrylonitrile Butadiene Rubber (NBR)"
+        ],
+        "End Uses": [
+            "Medical Devices",
+            "O Rings",
+            "Aerospace Seals"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Acrylonitrile Butadiene Rubber (NBR)"
+        ],
+        "Physical Form": [
+            "O-rings"
+        ],
+        "Features": [
+            "High Tensile Strength",
+            "Grease Resistant",
+            "Low Compression Set",
+            "Oil Resistant",
+            "Water Resistant",
+            "Fuel Resistant",
+            "Good Abrasion Resistance",
+            "Alcohol Resistant"
+        ],
+        "End Uses": [
+            "O Rings",
+            "Aerospace Seals",
+            "Medical Devices"
+        ]
+    }
+}

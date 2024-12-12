@@ -1,0 +1,45 @@
+{
+    "id": 405771,
+    "brand": "accelera",
+    "name": "DUR-A-GLAZE® MVP PRIMER",
+    "slug": "dur-a-glaze-mvp-primer",
+    "description": "DUR-A-GLAZE® MVP PRIMER is a clear, 100% solids epoxy moisture mitigation system formulated to bond to concrete with relative humidity (RH) as high as 99% (at 40% depth). It is designed to reduce moisture vapor emission levels up to 20lbs/1000 sq. ft./24 hours to 3 lbs/1000 sq. ft./24 hours or less.",
+    "company_name": "Dur-A-Flex",
+    "company_slug": "dur-a-flex",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520303/production/Brand/31147/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608585/production/CategoryImage/567/category_image/PaintingsCoatings_03.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Flooring & Surfaces",
+            "Building & Construction",
+            "Decorative Paints, Coatings & Stains",
+            "Decorative Materials & Finishes",
+            "Concrete Coatings & Stains",
+            "Floor Coatings"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Primer",
+            "Solventless & High Solids Coating",
+            "2K (2 component) Coating",
+            "Epoxy Coating"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Concrete"
+        ],
+        "Features": [
+            "Good Adhesion",
+            "High pH Resistance"
+        ],
+        "Application Method": [
+            "Roller",
+            "Wipe"
+        ]
+    }
+}

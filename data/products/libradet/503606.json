@@ -1,0 +1,58 @@
+{
+    "id": 503606,
+    "brand": "libradet",
+    "name": "LibraCare APG 1214",
+    "slug": "libracare-apg-1214",
+    "description": "LibraCare APG 1214, identified as lauryl glucoside in the INCI name, stands out as a nonionic surfactant renowned for its diverse applications in the cosmetic and cleaning industries. As a surfactant, it fulfills various cosmetic ingredient functions, including being mild, low in toxicity, and delivering superior performance. Derived from renewable resources, LibraCare APG 1214 is characterized by its high quality, biodegradability, and natural origin. It caters to specific preferences, being vegan and GMO-free, while holding the RSPO MassBalance certified designation, attesting to its commitment to sustainable palm oil practices.",
+    "company_name": "Libra Speciality Chemicals",
+    "company_slug": "libra-speciality-chemicals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1696607086/production/Company/19248/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1696607072/production/Company/19248/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Bath & Shower",
+            "Industrial Cleaning",
+            "Laundry & Fabric Care",
+            "Surface Care",
+            "Home Care",
+            "Institutional & Industrial Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Stickers, Surfactants & Wetting Agents",
+            "Nonionic Surfactants",
+            "Surfactants & Cleansers",
+            "Soaps & Surfactants",
+            "Adjuvants & Formulation Ingredients"
+        ],
+        "Chemical Family": [
+            "Alkyl Polyglucosides"
+        ],
+        "INCI Name": [
+            "Lauryl Glucoside"
+        ],
+        "End Uses": [
+            "Industrial Surface Care",
+            "Textile Detergents",
+            "Multisurface Cleaners",
+            "Hard Surface Cleaners",
+            "Body Wash"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Lauryl Glucoside"
+        ],
+        "Chemical Name": [
+            "Lauryl Glucoside"
+        ],
+        "Functions": [
+            "Surfactant",
+            "Wetting Agent",
+            "Surfactant (Nonionic)"
+        ],
+        "Chemical Family": [
+            "Alkyl Polyglucosides"
+        ]
+    }
+}

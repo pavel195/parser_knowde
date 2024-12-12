@@ -1,0 +1,42 @@
+{
+    "id": 331763,
+    "brand": "imicide-hp",
+    "name": "Dinocide Hp®",
+    "slug": "dinocide-hp",
+    "description": "Dinocide Hp®, the first dinotefuran insecticide available for tree injection, is significantly different from soil, trunk spray, or foliar applications in its ability to deliver range, length and speed of control. Its active ingredient is systemic and able to move from a tree’s xylem to its phloem, making injectable Dinocide particularly effective against insects such as spotted lanternfly, longhorned borers and other insects that damage the phloem of a tree. Dinocide showed significant knockdown of Spotted Lanternfly within four (4) hours and can begin working in as little as 3 days for other insects.",
+    "company_name": "Mauget",
+    "company_slug": "mauget",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664290208/production/Brand/24217/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608150/production/CategoryImage/545/category_image/AgricultureFeed_01.jpg",
+    "properties": {
+        "Applications": [
+            "Ornamentals",
+            "Trees & Woodlands",
+            "Turf, Ornamentals & Landscape"
+        ],
+        "Product Families": [
+            "Insecticides",
+            "Crop Protection & Pest Control"
+        ]
+    },
+    "summary": {
+        "Insecticide Target Species": [
+            "Psylla",
+            "Beetles",
+            "Japanese Beeltes",
+            "Borers",
+            "Aphids",
+            "Thrips",
+            "Whiteflies",
+            "Lace Bugs",
+            "Mealybugs",
+            "Rice Weevils",
+            "Scale Insects",
+            "Leafhoppers",
+            "Leaf Miners"
+        ],
+        "Application Technique": [
+            "Tree Injection"
+        ]
+    }
+}

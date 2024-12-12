@@ -1,0 +1,80 @@
+{
+    "id": 95945,
+    "brand": "prolix",
+    "name": "Azeloglicina®",
+    "slug": "azeloglicina",
+    "description": "A multi functional ingredient with high whitening and sebum normalizing properties, able to prevent melanin production and significantly improve skin brightness. The glycine content also gives a moisturizing and elasticizing effect. Completely water soluble, it is recommended for oily, seborrheic and impure skin and to counteract melanic spots. It represents a valid alternative to Kojic Acid dipalmitate, Arbutin and Azelaic acid.",
+    "company_name": "Sinerga S.p.A.",
+    "company_slug": "sinerga-s-p-a",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708695825/production/Product/95945/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708695825/production/Product/95945/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Skin Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Skin Actives",
+            "Conditioners & Emollients",
+            "Cosmetic Actives",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Potassium Azeloyl Diglycinate"
+        ],
+        "End Uses": [
+            "Moisturizers"
+        ],
+        "Labeling Claims": [
+            "Credo Clean Standard",
+            "Ulta Beauty's Conscious Beauty",
+            "Clean at Sephora",
+            "Natural",
+            "Organic",
+            "Preservative-free"
+        ],
+        "Benefit Claims": [
+            "Hydrating",
+            "Anti-Aging",
+            "Improves Skin Elasticity",
+            "Purifying",
+            "Skin Whitening",
+            "Skin Lightening",
+            "Moisturizing",
+            "Anti-Acne"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Potassium Azeloyl Diglycinate"
+        ],
+        "Functions": [
+            "Anti-Inflammatory",
+            "Anti-Acne Agent",
+            "Whitening Agent",
+            "Anti-Aging Agent",
+            "Conditioner",
+            "Brightening Agent",
+            "Sebum Regulator",
+            "Moisturizing Agent"
+        ],
+        "Labeling Claims": [
+            "Ulta Beauty's Conscious Beauty",
+            "Credo Clean Standard",
+            "Clean at Sephora",
+            "Natural",
+            "Preservative-free",
+            "Organic"
+        ],
+        "Benefit Claims": [
+            "Hydrating",
+            "Improves Skin Elasticity",
+            "Skin Whitening",
+            "Moisturizing",
+            "Anti-Aging",
+            "Purifying",
+            "Anti-Acne",
+            "Skin Lightening"
+        ]
+    }
+}

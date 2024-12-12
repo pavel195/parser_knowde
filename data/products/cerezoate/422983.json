@@ -1,0 +1,49 @@
+{
+    "id": 422983,
+    "brand": "cerezoate",
+    "name": "Tangelal® BRI #387",
+    "slug": "tangelal-bri-387",
+    "description": "Tangelal® BRI #387 has a strong, waxy, aldehydic citrus peel notes.",
+    "company_name": "Bedoukian Research, Inc.",
+    "company_slug": "bedoukian-research-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708688807/production/Company/1983/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708688807/production/Company/1983/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Bath & Shower",
+            "Hair Care",
+            "AP/Deo",
+            "Laundry & Fabric Care",
+            "Dish Care",
+            "Fragrances & Perfumes",
+            "Home Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Aroma Ingredients",
+            "Functionals"
+        ],
+        "End Uses": [
+            "Antiperspirants",
+            "Deodorants",
+            "Shampoos & Rinses",
+            "Liquid Detergents",
+            "Dishwash Detergents",
+            "Fragrances & Perfumes"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Fragrance"
+        ],
+        "Fragrance Family": [
+            "Citrus"
+        ],
+        "Fragrance": [
+            "Orange"
+        ],
+        "Certifications & Compliance": [
+            "ISO 16128"
+        ]
+    }
+}

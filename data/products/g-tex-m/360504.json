@@ -1,0 +1,55 @@
+{
+    "id": 360504,
+    "brand": "g-tex-m",
+    "name": "G-TEX TM PP/60",
+    "slug": "g-tex-tm-pp-60",
+    "description": "G-TEX TM PP/60 is Nonwoven fabric made from recycled carbon fiber and mixed with thermoplastic fibers. PP/60 Denotes type and weight% of thermoplastic; it signifies inclusion of PP fiber at 60wt%.",
+    "company_name": "GEN 2 CARBON",
+    "company_slug": "gen-2-carbon",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686149324/production/Brand/26926/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608730/production/CategoryImage/574/category_image/AutomotiveTransportation_02.jpg",
+    "properties": {
+        "Applications": [
+            "Exterior & Body",
+            "Interior",
+            "Other Automotive Applications",
+            "Rail & Mass Transit",
+            "Other Devices & Assemblies",
+            "Aerospace & Aviation",
+            "Devices & Assemblies",
+            "Transportation",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Reinforcements",
+            "Hybrid Reinforcements"
+        ]
+    },
+    "summary": {
+        "Reinforcement Material": [
+            "Polypropylene (PP)",
+            "Carbon Fibers"
+        ],
+        "Reinforcement Form": [
+            "Mat"
+        ],
+        "Compatible Polymers & Resins": [
+            "Polyamide 6 (PA 6)",
+            "Polyphenylene Sulfide (PPS)",
+            "Polyethylene Terephthalate (PET)",
+            "Polyamide 66 (PA 66)",
+            "Polypropylenes (PP)",
+            "Polycarbonates (PC)"
+        ],
+        "Processing Methods": [
+            "Compression Molding"
+        ],
+        "Features": [
+            "Excellent Formability",
+            "Good Surface Finish",
+            "Fast Molding Cycle",
+            "High Modulus",
+            "Autoclaved"
+        ]
+    }
+}

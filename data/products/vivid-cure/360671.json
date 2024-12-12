@@ -1,0 +1,30 @@
+{
+    "id": 360671,
+    "brand": "vivid-cure",
+    "name": "Humiseal Urethane Adhesives Family",
+    "slug": "humiseal-urethane-adhesives-family",
+    "description": "Humiseal Urethane Adhesives Family are designed for demanding bonding requirements in industries including electronics, automotive, and health care devices among others. Polyurethanes are supplied as 2 component, chemical cure systems.",
+    "company_name": "Chase Corporation",
+    "company_slug": "chase-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691737762/production/Company/10899/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608630/production/CategoryImage/571/category_image/PaintingsCoatings_07.jpg",
+    "properties": {
+        "Applications": [
+            "Adhesives & Sealants",
+            "Appliances & Electronics",
+            "Medical Tapes & Adhesives",
+            "Other Automotive Applications",
+            "Packaging & Assembly",
+            "Medical",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Contact Adhesives",
+            "Adhesives & Sealants"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ]
+    },
+    "summary": {}
+}

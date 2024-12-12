@@ -1,0 +1,40 @@
+{
+    "id": 302644,
+    "brand": "ultra-pure",
+    "name": "Ultra Pure® #4 w/lime",
+    "slug": "ultra-pure-4-w-lime",
+    "description": "Ultra Pure® #4 w/lime meets ASTM D520 Type Ill Specification for Zinc Dust Pigment.",
+    "company_name": "Purity Zinc Metals",
+    "company_slug": "purity-zinc-metals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704100198/production/Company/24315/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical Manufacturing",
+            "Other Paints & Coatings Applications",
+            "Other Industrial Applications",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Metals",
+            "Metals, Alloys & Complexes"
+        ],
+        "Chemical Family": [
+            "Zinc & Zinc Compounds"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Zinc"
+        ],
+        "CAS Number": [
+            "7440-66-6"
+        ],
+        "Density": [
+            "7000.0 - 7100.0 kg/m³"
+        ],
+        "Synonyms": [
+            "Zn"
+        ]
+    }
+}

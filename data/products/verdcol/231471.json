@@ -1,0 +1,49 @@
+{
+    "id": 231471,
+    "brand": "verdcol",
+    "name": "Verdcol BML Yellow 151 GH",
+    "slug": "verdcol-bml-yellow-151-gh",
+    "description": "BML Yellow 151 GH is a exceptional green shade yellow, has good color strength and relatively good opacity and recommended as replacement for diarylide yellow and lead chromate",
+    "company_name": "Verdcol",
+    "company_slug": "verdcol",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708521345/production/Company/16405/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608760/production/CategoryImage/576/category_image/AutomotiveTransportation_04.jpg",
+    "properties": {
+        "Applications": [
+            "Decorative Paints, Coatings & Stains",
+            "Other Coatings & Finishes",
+            "Automotive OEM Coatings",
+            "Wood Coatings & Finishes",
+            "Coil Coatings",
+            "Decorative Paints",
+            "Industrial Coatings",
+            "Other Automotive & Transportation Coatings",
+            "Coatings & Finishes",
+            "Building Materials",
+            "Automotive & Transportation",
+            "Building & Construction",
+            "Decorative Materials & Finishes"
+        ],
+        "Product Families": [
+            "Organic Pigments",
+            "Color Pigments",
+            "Pigments & Colorants"
+        ],
+        "End Uses": [
+            "Coil Coating",
+            "Powder Coating"
+        ]
+    },
+    "summary": {
+        "Color": [
+            "Yellow"
+        ],
+        "Pigment Type": [
+            "Organic Pigments"
+        ],
+        "End Uses": [
+            "Powder Coating",
+            "Coil Coating"
+        ]
+    }
+}

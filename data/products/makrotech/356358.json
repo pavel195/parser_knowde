@@ -1,0 +1,63 @@
+{
+    "id": 356358,
+    "brand": "makrotech",
+    "name": "MAKROCLEAR™ FA",
+    "slug": "makroclear-fa",
+    "description": "MAKROCLEAR™ FA is transparent polycarbonate sheet. The product has high clarity and surface quality ideal to replace Glass in food contact applications. The product is virtually unbreakable with extremely high impact resistance and offers high temperature performance too.",
+    "company_name": "Arla Plast A B",
+    "company_slug": "arla-plast-a-b",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686150118/production/Brand/26525/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608769/production/CategoryImage/577/category_image/AutomotiveTransportation_05.jpg",
+    "properties": {
+        "Applications": [
+            "Displays",
+            "Packaging",
+            "Food & Beverage Packaging",
+            "Industrial & Transport Packaging",
+            "Devices & Assemblies",
+            "Flexible Packaging",
+            "Food Films & Packaging"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Polycarbonate (PC)"
+        ],
+        "Polymer Name": [
+            "Polycarbonate (PC)"
+        ],
+        "End Uses": [
+            "Displays",
+            "Stretch Films"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polycarbonate (PC)"
+        ],
+        "Physical Form": [
+            "Sheets"
+        ],
+        "Features": [
+            "Flame Resistant",
+            "Excellent Transparency Properties",
+            "Food Contact Acceptable",
+            "Consistent High Quality",
+            "High Temperature Strength",
+            "Good Machinability",
+            "Good Optical Properties",
+            "Good Impact Strength",
+            "High Temperature Resistance",
+            "Improved Optical Clarity",
+            "Impact Resistance",
+            "Good Printability"
+        ],
+        "Density": [
+            "1200.0 - 1200.0 kg/m³"
+        ],
+        "Tensile Modulus": [
+            "2300.0 - 2300.0 MPa"
+        ]
+    }
+}

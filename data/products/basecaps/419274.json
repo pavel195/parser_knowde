@@ -1,0 +1,38 @@
+{
+    "id": 419274,
+    "brand": "basecaps",
+    "name": "ProBlend 31",
+    "slug": "problend-31",
+    "description": "ProBlend 31 from SWT Group is a specially formulated emulsion that allows for high overhead film build while portraying excellent rheological properties for easy application and providing excellent resistance to salt water and air. Formulated with minerals and emulsified oil derivatives to yield barrier properties for the underbodies of cars, trucks, RV’s, trailers and any other application where water resistance is required.",
+    "company_name": "SWT Group",
+    "company_slug": "swt-group",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520206/production/Brand/32889/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608611/production/CategoryImage/569/category_image/PaintingsCoatings_05.jpg",
+    "properties": {
+        "Applications": [
+            "Coatings & Finishes",
+            "Powertrain & UTH",
+            "Automotive OEM Coatings",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ]
+    },
+    "summary": {
+        "Features": [
+            "Corrosion Resistant",
+            "Excellent Rheology",
+            "Good Barrier Properties",
+            "Anti Dripping",
+            "Low VOC",
+            "Salt Water/Spray Resistant",
+            "Cost Effective",
+            "Water Resistant"
+        ],
+        "Application Method": [
+            "Spray"
+        ]
+    }
+}

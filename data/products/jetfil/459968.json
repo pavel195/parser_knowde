@@ -1,0 +1,53 @@
+{
+    "id": 459968,
+    "brand": "jetfil",
+    "name": "AFCONA 3258",
+    "slug": "afcona-3258",
+    "description": "AFCONA 3258 is a leveling and flow control agent for solvent-based coatings with anti-crater properties. AFCONA 3258 has been developed to replace fluorocarbon modified leveling agents, providing the same leveling and anti-crater performance. It is the 100% active version of AFCONA 3758.",
+    "company_name": "Dar-Tech Inc.",
+    "company_slug": "dar-tech-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1713790201/production/Brand/36291/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1713790201/production/Company/75921/card_banner/image",
+    "properties": {
+        "Product Families": [
+            "Functional Additives",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Polyether Polysiloxanes",
+            "Polyacrylates"
+        ],
+        "End Uses": [
+            "Radiation Curable Coating",
+            "2K (2 component) Coating",
+            "Solventborne Coating"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Polyacrylates",
+            "Polyether Polysiloxanes"
+        ],
+        "Functions": [
+            "Flow Promoter",
+            "Leveling Agent"
+        ],
+        "End Uses": [
+            "Radiation Curable Coating",
+            "2K (2 component) Coating",
+            "Solventborne Coating"
+        ],
+        "Compatible Polymers & Resins": [
+            "Polyesters",
+            "Polyurethanes (PU)",
+            "Epoxies (EP)",
+            "Acrylics",
+            "Nitrocellulose",
+            "Cellulose Acetate Butyrate (CAB)",
+            "Alkyds"
+        ],
+        "Features": [
+            "Improved Substrate Wetting"
+        ]
+    }
+}

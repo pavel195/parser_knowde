@@ -1,0 +1,41 @@
+{
+    "id": 393956,
+    "brand": "vertec",
+    "name": "Vertec™ 1025",
+    "slug": "vertec-1025",
+    "description": "Vertec™ 1025 is an FDA compliant filled PTFE (polytetrafluoroethylene) material that possesses excellent load and wear characteristics, and works well against soft as well as hard surfaces, like aluminum, mild steel, and 303/316 stainless steels. It is capable of running in steam, wet, dry, and vacuum environments - without any moisture or lubrication. It is widely used in food processing industries.",
+    "company_name": "Vertec Polymers",
+    "company_slug": "vertec-polymers",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709127734/production/Brand/29755/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Equipment & Parts",
+            "Other Food Applications",
+            "Structural Components",
+            "Other Automotive Applications",
+            "Automotive",
+            "Building Materials",
+            "Food",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "High Performance Thermoplastics",
+            "Engineering & Specialty Polymers"
+        ],
+        "Chemical Family": [
+            "Fluoropolymers"
+        ],
+        "Polymer Name": [
+            "Polytetrafluoroethylene (PTFE)"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polytetrafluoroethylene (PTFE)"
+        ],
+        "Flexural Modulus": [
+            "1378.0 - 1378.0 MPa"
+        ]
+    }
+}

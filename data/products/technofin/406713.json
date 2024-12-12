@@ -1,0 +1,47 @@
+{
+    "id": 406713,
+    "brand": "technofin",
+    "name": "TECHNOFIN® CPG 0041",
+    "slug": "technofin-cpg-0041",
+    "description": "TECHNOFIN® CPG 0041 is a white 45% concentrate, produced based on titanium dioxide, evenly dissolved in a thermoplastic polymer matrix. It is recommended for use in the production of PE and PP pipes.",
+    "company_name": "technocom",
+    "company_slug": "technocom",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704101952/production/Brand/31344/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609128/production/CategoryImage/597/category_image/PrintingPackaging_08.jpg",
+    "properties": {
+        "Applications": [
+            "Pipes & Plumbing",
+            "Non-Food Consumer Packaging",
+            "Industrial & Transport Packaging",
+            "Building Materials",
+            "Packaging"
+        ],
+        "Product Families": [
+            "Color Masterbatches",
+            "Masterbatches",
+            "Dispersions & Masterbatches"
+        ],
+        "Chemical Family": [
+            "Titanium Compounds"
+        ],
+        "End Uses": [
+            "Pipes"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Titanium dioxide"
+        ],
+        "Color": [
+            "White"
+        ],
+        "Carrier": [
+            "Low-Density Polyethylene (LDPE)",
+            "Resin-based",
+            "Linear Low Density Polyethylene (LLDPE)"
+        ],
+        "Synonyms": [
+            "TiO2, Titania, Titanium Peroxide"
+        ]
+    }
+}

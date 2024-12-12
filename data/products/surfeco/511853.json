@@ -1,0 +1,54 @@
+{
+    "id": 511853,
+    "brand": "surfeco",
+    "name": "Cossil® VERTEX",
+    "slug": "cossil-vertex",
+    "description": "Cossil® VERTEX conditioning agent is a 40% active emulsion containing alkyl-modified amino fluid. The synergy between pendant amino and terminal alkyl groups within the silicone structure contributes to heightened thermal protection, improved smoothness, increased shine, enhanced softness, and better manageability for dry hair. This emulsion is easily formulated, presenting a versatile foundation for the development of various hair care applications.",
+    "company_name": "Latro Kimya Dış Ticaret A.Ş.",
+    "company_slug": "latro-kimya",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1724338871/production/Company/62342/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606336/production/CategoryImage/478/category_image/FluidsLubricants_03.jpg",
+    "properties": {
+        "Applications": [
+            "Bath & Shower",
+            "Hair Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Conditioners & Emollients",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Ceteareth-7",
+            "Ceteareth-25",
+            "Bis-Cetearyl Amodimethicone"
+        ],
+        "End Uses": [
+            "Shampoos & Rinses",
+            "Hair Serums",
+            "Hair Conditioner"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Ceteareth-25",
+            "Ceteareth-7",
+            "Bis-Cetearyl Amodimethicone"
+        ],
+        "Functions": [
+            "Conditioner"
+        ],
+        "Benefit Claims": [
+            "Shine Enhancing",
+            "Hair Conditioning",
+            "Thermal Protection",
+            "Non-Oily Feel",
+            "Smoothing",
+            "Excellent Softness",
+            "Smooth Texture",
+            "Manageability",
+            "Conditioning",
+            "Color Protection"
+        ]
+    }
+}

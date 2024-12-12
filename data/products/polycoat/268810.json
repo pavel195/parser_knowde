@@ -1,0 +1,41 @@
+{
+    "id": 268810,
+    "brand": "polycoat",
+    "name": "Polem A 1160",
+    "slug": "polem-a-1160",
+    "description": "Polem A 1160 is a branched, castor oil-based polyol.",
+    "company_name": "Nivapol",
+    "company_slug": "nivapol",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691744055/production/Company/20738/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608477/production/CategoryImage/562/category_image/BuildingConstruction_06.jpg",
+    "properties": {
+        "Applications": [
+            "Pavement, Highways, Roads & Bridges",
+            "Floor Coatings",
+            "Other Consumer Goods Applications",
+            "Other Building & Construction Applications",
+            "Other Paints & Coatings Applications",
+            "Flooring & Surfaces",
+            "Infrastructure, Roads & Paving",
+            "Building & Construction"
+        ],
+        "Product Families": [
+            "Prepolymers & Polyols",
+            "Monomers & Intermediates"
+        ],
+        "Chemical Family": [
+            "Polyols"
+        ],
+        "End Uses": [
+            "2K (2 component) Coating"
+        ]
+    },
+    "summary": {
+        "Hydroxyl Value": [
+            "171.6 - 184.8 mg KOH/g"
+        ],
+        "Viscosity": [
+            "1000.0 - 1000.0 cps"
+        ]
+    }
+}

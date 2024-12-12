@@ -1,0 +1,37 @@
+{
+    "id": 370626,
+    "brand": "multi-pro-plus",
+    "name": "Multi Pro Bio XP Yellow",
+    "slug": "multi-pro-bio-xp-yellow",
+    "description": "The Multi Pro Bio XP Yellow series is a modern all-round series designed for almost any type of high speed printing machines, even in perfecting and can be used for a large scale of absorbing printing substrates. It is mineral oil and cobalt free and based on renewable raw materials. Multi Pro Bio XP fulfills all requirements of ISO-Norm 2846-1. It’s color intensity and dot sharpness allows the printer to meet all requirements of ISO-Norm 12647-2 regarding the ink properties.",
+    "company_name": "Deutsche Druckfarben",
+    "company_slug": "deutsche-druckfarben",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1673942422/production/Brand/27604/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609091/production/CategoryImage/594/category_image/PrintingPackaging_05.jpg",
+    "properties": {
+        "Applications": [
+            "Paper & Pulp",
+            "Printing & Inks",
+            "Other Printing Applications",
+            "Coated Paper & Paperboard"
+        ],
+        "Product Families": [
+            "Other Inks",
+            "Inks & Pastes"
+        ]
+    },
+    "summary": {
+        "Compatible Substrates & Surfaces": [
+            "Paper"
+        ],
+        "Features": [
+            "Printability",
+            "Good Abrasion Resistance",
+            "Fast Setting",
+            "High Gloss"
+        ],
+        "Color": [
+            "Yellow"
+        ]
+    }
+}

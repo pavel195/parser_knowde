@@ -1,0 +1,40 @@
+{
+    "id": 309102,
+    "brand": "disvipol",
+    "name": "Disvipol 207",
+    "slug": "disvipol-207",
+    "description": "Disvipol 207 is used in high gloss quickset sheet fed and web offset inks.",
+    "company_name": "D.S.V. Chemicals",
+    "company_slug": "d-s-v-chemicals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112556/production/Product/309102/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609103/production/CategoryImage/595/category_image/PrintingPackaging_06.jpg",
+    "properties": {
+        "Applications": [
+            "Printing & Inks",
+            "Offset & Lithographic Printing"
+        ],
+        "Product Families": [
+            "Other Resins & Binders",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Phenols & Phenolics",
+            "Rosins"
+        ],
+        "End Uses": [
+            "Offset Ink"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Rosins",
+            "Phenols & Phenolics"
+        ],
+        "End Uses": [
+            "Offset Ink"
+        ],
+        "Features": [
+            "High Gloss"
+        ]
+    }
+}

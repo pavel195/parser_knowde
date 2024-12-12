@@ -1,0 +1,35 @@
+{
+    "id": 395930,
+    "brand": "sambatch",
+    "name": "SAMBATCH W 7000",
+    "slug": "sambatch-w-7000",
+    "description": "SAMBATCH W 7000 is a polyolefin based white masterbatch.",
+    "company_name": "Semerkand Plastik",
+    "company_slug": "semerkand-plastik",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691740986/production/Company/50038/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609091/production/CategoryImage/594/category_image/PrintingPackaging_05.jpg",
+    "properties": {
+        "Applications": [
+            "Non-Food Consumer Packaging",
+            "Industrial & Transport Packaging",
+            "Housewares",
+            "Pipes & Plumbing",
+            "Building Materials",
+            "Packaging"
+        ],
+        "Product Families": [
+            "Color Masterbatches",
+            "Masterbatches",
+            "Dispersions & Masterbatches"
+        ],
+        "End Uses": [
+            "Shopping Bags",
+            "Pipes",
+            "Jerrycans",
+            "Household Goods",
+            "Film",
+            "Bottles"
+        ]
+    },
+    "summary": {}
+}

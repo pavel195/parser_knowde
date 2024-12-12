@@ -1,0 +1,42 @@
+{
+    "id": 373648,
+    "brand": "acryrub",
+    "name": "Acryrub Fireblock",
+    "slug": "acryrub-fireblock",
+    "description": "Acryrub Fireblock is a one-part noncombustible sealant used for fireblocking applications around wires, pipes, ducts, vents, cable lines and other penetrations to the building envelope.",
+    "company_name": "Soudal USA",
+    "company_slug": "soudal",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520048/production/Brand/27895/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608438/production/CategoryImage/559/category_image/BuildingConstruction_03.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Construction Chemicals",
+            "Flooring & Surfaces",
+            "Roofing",
+            "Sealants & Caulks",
+            "Other Flooring & Surface Applications"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Caulks & Sealants"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "1K (1 component) Sealant"
+        ],
+        "Cure Method": [
+            "Moisture Cure"
+        ],
+        "Application Method": [
+            "Pneumatic Gun"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    }
+}

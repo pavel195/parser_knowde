@@ -1,0 +1,62 @@
+{
+    "id": 62150,
+    "brand": "daotan-waterborne-polyurethane-dispersions",
+    "name": "EBECRYL® 303",
+    "slug": "ebecryl-303",
+    "description": "EBECRYL® 303, crafted by CASE Ingredients, is a cutting-edge product tailored for paints and coatings and the printing and packaging sectors. Notably Bisphenol A-free and boasting a low carbon footprint, this solvent-free and VOC-free liquid is optimized for applications like film and foil coatings and overprint varnishes. Its versatility shines in printing techniques such as flexography, gravure, inkjet, and screen printing, especially on plastic substrates. With efficient curtain and gravure coating methods, it ensures rapid radiation curing, delivering a clear and impeccable finish.",
+    "company_name": "allnex",
+    "company_slug": "allnex",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708683928/production/Product/62150/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708683928/production/Product/62150/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Screen Printing",
+            "Gravure Printing",
+            "Inkjet Printing",
+            "Flexography",
+            "Overprint Varnishes",
+            "Other Packaging Coatings",
+            "Film & Foil Coatings",
+            "Packaging Coatings",
+            "Printing & Inks"
+        ],
+        "Product Families": [
+            "Functional Additives",
+            "Additives"
+        ],
+        "End Uses": [
+            "Screen Printing Ink",
+            "Gravure Ink",
+            "Varnishes",
+            "Inkjet Ink",
+            "Flexography Ink",
+            "Radiation Curable Coating"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Coupling Agent",
+            "Adhesion Promoter"
+        ],
+        "End Uses": [
+            "Varnishes",
+            "Inkjet Ink",
+            "Flexography Ink",
+            "Radiation Curable Coating",
+            "Gravure Ink",
+            "Screen Printing Ink"
+        ],
+        "Labeling Claims": [
+            "VOC-free",
+            "Bisphenol A-free",
+            "Low Carbon Footprint (PCF)",
+            "Solvent-free"
+        ],
+        "Features": [
+            "Low Energy Consumption",
+            "Low Temperature-Curing",
+            "Faster Cycle Time",
+            "Long Potlife"
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": 335137,
+    "brand": "tri-z",
+    "name": "Andersons Inc Manganese 5% 3.2 S, 5.0 Mn",
+    "slug": "andersons-inc-manganese-5-3-2-s-5-0-mn",
+    "description": null,
+    "company_name": "Andersons Inc",
+    "company_slug": "andersons-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708671723/production/Company/32472/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608215/production/CategoryImage/550/category_image/AgricultureFeed_06.jpg",
+    "properties": {
+        "Applications": [
+            "Oilseeds",
+            "Fodder & Forage",
+            "Sugar & Starch Crops",
+            "Vegetables",
+            "Other Agricultural Crops",
+            "Agricultural Crops"
+        ],
+        "Product Families": [
+            "Fertilizers & Nutrients",
+            "Plant Health, Nutrients & Soil Management"
+        ],
+        "Chemical Family": [
+            "Sulfur-based Compounds"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Micronutrient",
+            "Fertilizer"
+        ],
+        "Chemical Family": [
+            "Sulfur-based Compounds"
+        ],
+        "Application Technique": [
+            "Foliage Applied"
+        ]
+    }
+}

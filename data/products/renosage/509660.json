@@ -1,0 +1,33 @@
+{
+    "id": 509660,
+    "brand": "renosage",
+    "name": "Pharm-Rx Calcium Lysinate",
+    "slug": "pharm-rx-chemical-corp-calcium-lysinate",
+    "description": "Pharm-Rx Calcium Lysinate is a mineral source for pharma and nutraceuticals. The ingredient, calcium lysinate, is a type of calcium mineral.",
+    "company_name": "Pharm-Rx Chemical Corp.",
+    "company_slug": "pharm-rx",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto/v1724132485/production/Company/102900/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1724132485/production/Company/102900/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Minerals",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "Ingredient Name": [
+            "Calcium Lysinate"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Calcium Lysinate"
+        ],
+        "Mineral Type": [
+            "Calcium"
+        ]
+    }
+}

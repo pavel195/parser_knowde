@@ -1,0 +1,65 @@
+{
+    "id": 312235,
+    "brand": "green-balance-alkalizing-blend",
+    "name": "NP Nutra Broccoli Powder (organic)",
+    "slug": "np-nutra-broccoli-powder-organic",
+    "description": "Broccoli (Brassica oleracea italica) is an edible green plant belonging to the cabbage family. This cruciferous vegetable is best cultivated in cool weather and grows 18-30 inches tall. Both the stem and the large head of tight green flower buds can be consumed raw or cooked. Very low in fat and high in soluble fiber, broccoli provides protein and is packed with phytochemicals that include glucobrassicin, the carotenoids lutein, zeaxanthin and beta-carotene, and the flavonoid kaempferol. Broccoli also contains glucoraphanin (the precursor to sulforaphane) and Indole-3-carbinol. It has a high level of folate and calcium, and is a good source of potassium, vitamin C and pyridoxine. Broccoli sprouts, closely resembling alfalfa sprouts, are reported to contain 10-100 times the amount of glucoraphanin than full-grown broccoli and also contain a rich supply of Vitamin K, but less beta-carotene and vitamin C than full-grown broccoli.",
+    "company_name": "NP Nutra",
+    "company_slug": "np-nutra",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708691133/production/Product/312235/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607215/production/CategoryImage/511/category_image/FoodNutrition_12.jpg",
+    "properties": {
+        "Applications": [
+            "Oral",
+            "Pets",
+            "Nutraceuticals & Supplements",
+            "Functional Foods",
+            "Savory & Culinary",
+            "Convenience Foods",
+            "Cereals & Snacks",
+            "Bakery",
+            "Animal Health & Nutrition",
+            "Food",
+            "Nutrition & Well Being",
+            "Drug Delivery & Care Solutions"
+        ],
+        "Product Families": [
+            "Phytochemicals & Plant Extracts",
+            "Vegetable Products & Extracts",
+            "Whole Foods, Extracts & Premixes",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Pizza Base",
+            "Soups",
+            "Snacks",
+            "Ready Meals",
+            "Pastries",
+            "Muffins",
+            "Functional Foods",
+            "Dietary Supplements",
+            "Crackers",
+            "Chips",
+            "Bread"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Broccoli Powder"
+        ],
+        "Labeling Claims": [
+            "Kosher",
+            "Clean Label",
+            "Additive-free",
+            "Organic"
+        ],
+        "Certifications & Compliance": [
+            "Kosher",
+            "Organic Certified"
+        ],
+        "Physical Form": [
+            "Solid",
+            "Powder"
+        ]
+    }
+}

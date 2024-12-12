@@ -1,0 +1,56 @@
+{
+    "id": 280491,
+    "brand": "tergosol",
+    "name": "ShiraSol™",
+    "slug": "shirasol",
+    "description": "ShiraSol™ is a VOC-compliant, safe, low toxicity solvent that is an efficient, cost effective alternative to Mineral Spirits, Aromatic 100, Aromatic 150, Methyl Amyl Ketone, n-Butyl Acetate and other slow evaporating solvents. ShiraSol is formulated for use as a cleaner, primary or co-solvent in a variety of formulations involving aliphatic, aromatic and ketone solvent systems.",
+    "company_name": "TBF Environmental Technology Inc.",
+    "company_slug": "tbf-environmental-technology-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672389/production/Company/20750/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608611/production/CategoryImage/569/category_image/PaintingsCoatings_05.jpg",
+    "properties": {
+        "Applications": [
+            "Pavement, Highways, Roads & Bridges",
+            "Other Printing & Packaging Applications",
+            "Wood Coatings & Finishes",
+            "Primers & Lacquers",
+            "Overprint Varnishes",
+            "Other Adhesives & Sealants Applications",
+            "Infrastructure, Roads & Paving",
+            "Building & Construction",
+            "Packaging Coatings"
+        ],
+        "Product Families": [
+            "Other Solvents",
+            "Rheology Modifiers & Stabilizers",
+            "Other Solvents & Specialties",
+            "Additives",
+            "Solvents & Carriers",
+            "Solvents"
+        ],
+        "End Uses": [
+            "Solventborne Adhesive",
+            "Lacquers",
+            "Solventborne Coating",
+            "Varnishes",
+            "Solventborne Ink"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Solvent",
+            "Rheology Modifier",
+            "Thinner"
+        ],
+        "Labeling Claims": [
+            "Environmentally Friendly",
+            "Benzene-free",
+            "Recyclable",
+            "VOC-free",
+            "Non-Carcinogenic",
+            "Low VOC",
+            "HAPs-free",
+            "Other Labeling Claims"
+        ]
+    }
+}

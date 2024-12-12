@@ -1,0 +1,71 @@
+{
+    "id": 212222,
+    "brand": "omnilane",
+    "name": "Omnirad 184",
+    "slug": "omnirad-184",
+    "description": "Omnirad 184 is a highly efficient non-yellowing photoinitiator used to initiate the photo polymerization of chemically unsaturated prepolymers – e.g., acrylates – in combination with mono- or multifunctional vinyl monomers.",
+    "company_name": "IGM Resins",
+    "company_slug": "igm-resins",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708696410/production/Company/7406/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608939/production/CategoryImage/585/category_image/AdhesivesSealants_02.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial Manufacturing",
+            "Electronics Adhesives",
+            "Furniture Adhesives",
+            "Industrial Adhesives & Sealants",
+            "Furniture",
+            "Adhesives & Sealants",
+            "Stationery, Art & Office Supplies",
+            "Automotive Electronics",
+            "Consumer Electronics",
+            "Appliances & Electronics",
+            "Metal Coatings",
+            "Industrial Coatings",
+            "Wood Coatings & Finishes",
+            "Industrial & Assembly Adhesives",
+            "Devices & Assemblies",
+            "Packaging & Assembly",
+            "Chemical & Industrial Manufacturing",
+            "Building & Construction"
+        ],
+        "Product Families": [
+            "Catalysts & Initiators",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Ketones"
+        ],
+        "End Uses": [
+            "Waterborne Adhesive",
+            "Reactive Adhesive",
+            "Radiation Curable Adhesive",
+            "Waterborne Coating",
+            "Radiation Curable Coating"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Ketones"
+        ],
+        "Functions": [
+            "Photoinitiator"
+        ],
+        "CAS Number": [
+            "947-19-3"
+        ],
+        "End Uses": [
+            "Radiation Curable Adhesive",
+            "Waterborne Adhesive",
+            "Waterborne Coating",
+            "Radiation Curable Coating",
+            "Reactive Adhesive"
+        ],
+        "Compatible Polymers & Resins": [
+            "Acrylics"
+        ],
+        "Synonyms": [
+            "(1-Hydroxycyclohexyl)phenylmethanone, 1-Benzoyl-1-hydroxycyclohexane, 1-Benzoylcyclohexanol, 1-Hydroxy-1-cyclohexyl phenyl ketone, 1-Hydroxycyclohexyl phenyl ketone, NSC 401908, α-Hydroxy-α-cyclohexyl phenyl ketone, α-Hydroxycyclohexyl phenyl ketone"
+        ]
+    }
+}

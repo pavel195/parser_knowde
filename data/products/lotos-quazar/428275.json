@@ -1,0 +1,34 @@
+{
+    "id": 428275,
+    "brand": "lotos-quazar",
+    "name": "Lotos Quazar K SAE 5W-30",
+    "slug": "lotos-quazar-k-sae-5w-30",
+    "description": "Lotos Quazar K SAE 5W-30 is the latest generation synthetic oil designed mainly to meet the requirements of modern diesel engines with particulate filters for KIA passenger cars and delivery vans. It guarantees smaller energy intensity and excellent protection in high temperatures.",
+    "company_name": "Lotos Oil",
+    "company_slug": "lotos-oil",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664293034/production/Brand/33981/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608779/production/CategoryImage/578/category_image/AutomotiveTransportation_06.jpg",
+    "properties": {
+        "Applications": [
+            "Lubricants & Functional Fluids",
+            "Transportation",
+            "Automotive Fluids & Lubricants",
+            "Commercial"
+        ],
+        "Product Families": [
+            "Fluids & Lubricants",
+            "Lubricants & Oils"
+        ]
+    },
+    "summary": {
+        "Application Areas": [
+            "Automotive Engine"
+        ],
+        "Features": [
+            "High Temperature Strength"
+        ],
+        "SAE Viscosity Grade": [
+            "SAE 5W-30"
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "id": 378137,
+    "brand": "duraplex",
+    "name": "Sucralox™",
+    "slug": "sucralox",
+    "description": "Sucralox™ is formulated specifically to support gastric and intestinal health in horses of all ages and uses. Sucralox employs a two-pronged approach to gastric protection. Aids in maintaining a healthy digestive environment for optimal performance and disposition.",
+    "company_name": "Kentucky Equine Research",
+    "company_slug": "kentucky-equine-research",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708686964/production/Brand/28238/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608161/production/CategoryImage/546/category_image/AgricultureFeed_02.jpg",
+    "properties": {
+        "Applications": [
+            "Other Animal Health & Nutrition",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Metabolism Modifiers",
+            "Health & Well-Being"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Digestion Promotor"
+        ],
+        "Animal Species": [
+            "Horses"
+        ],
+        "Features": [
+            "Increased Digestibility",
+            "Improves Gut Microflora",
+            "Improves Gut Function",
+            "Reduces Feed Cost",
+            "Optimizing Gut Health",
+            "Improves Digestability & Intestinal Health"
+        ]
+    }
+}

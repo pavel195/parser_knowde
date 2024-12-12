@@ -1,0 +1,49 @@
+{
+    "id": 218183,
+    "brand": "valex",
+    "name": "NITRIFLEX® Styrene Butadiene Resin (SBR) S-6H",
+    "slug": "nitriflex-styrene-butadiene-resin-sbr-s-6h",
+    "description": "NITRIFLEX® Styrene Butadiene Resin (SBR) S-6H by Valex Group is commonly used as Reinforcing Resin for a variety of applications. It is available in Powder form.",
+    "company_name": "Valex Group LLC",
+    "company_slug": "valex-group",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1726584497/production/Product/218183/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608730/production/CategoryImage/574/category_image/AutomotiveTransportation_02.jpg",
+    "properties": {
+        "Applications": [
+            "Equipment & Parts",
+            "Footwear",
+            "Tires",
+            "Automotive",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Fillers & Extenders",
+            "Styrene Butadiene Rubbers (SBR)",
+            "Thermoset Elastomers",
+            "Elastomer Additives"
+        ],
+        "Chemical Family": [
+            "Styrene Copolymers"
+        ],
+        "Polymer Name": [
+            "Styrene Butadiene Copolymer"
+        ],
+        "End Uses": [
+            "Footwear",
+            "Machine/Mechanical Parts",
+            "Tires"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Styrene Butadiene Copolymer"
+        ],
+        "Functions": [
+            "Reinforcement",
+            "Resin"
+        ],
+        "Chemical Family": [
+            "Styrene Copolymers"
+        ]
+    }
+}

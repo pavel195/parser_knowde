@@ -1,0 +1,50 @@
+{
+    "id": 328675,
+    "brand": "hi-nicalon",
+    "name": "Hi-Nicalon™ SiC Fiber",
+    "slug": "hi-nicalon-sic-fiber",
+    "description": "Hi-Nicalon™ SiC Fiber is a multi-filament silicon carbide-type fiber manufactured by NGS Advanced Fibers Co., Ltd. (NGS) of Japan. NGS is known worldwide as the leading manufacturer and innovator of multifilament silicon carbide-type fibers. HINICALON™ is manufactured near-oxygen-free using electron-beam curing. The fiber is homogeneously composed of ultra-fine beta-SiC crystallites and carbon. The fiber has excellent strength and modulus properties, and has higher thermal stability than NICALON™.",
+    "company_name": "COI Ceramics",
+    "company_slug": "coi-ceramics",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704100117/production/Brand/23672/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608769/production/CategoryImage/577/category_image/AutomotiveTransportation_05.jpg",
+    "properties": {
+        "Applications": [
+            "Structural Components",
+            "Advanced Materials",
+            "Aerospace & Aviation",
+            "Transportation",
+            "Building Materials",
+            "Military & Defense"
+        ],
+        "Product Families": [
+            "Other Reinforcements",
+            "Reinforcements"
+        ],
+        "End Uses": [
+            "Military Applications",
+            "Structural Components",
+            "Aerospace Applications"
+        ]
+    },
+    "summary": {
+        "Reinforcement Material": [
+            "Other Reinforcement Material"
+        ],
+        "Reinforcement Form": [
+            "Satin Weave Fabric"
+        ],
+        "Features": [
+            "Chemical Resistant",
+            "Good Thermal Stability",
+            "Thermal Stability",
+            "Chemical Resistance",
+            "Oxidation Resistant",
+            "High Strength",
+            "High Modulus"
+        ],
+        "Synonyms": [
+            "Carbon Silicide, SiC, Silicon (IV) Carbide, Silicon Monocarbide"
+        ]
+    }
+}

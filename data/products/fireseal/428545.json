@@ -1,0 +1,36 @@
+{
+    "id": 428545,
+    "brand": "fireseal",
+    "name": "Airseal® 11",
+    "slug": "polymer-adhesives-airseal-11",
+    "description": "Airseal® 11 is a premium water-based duct sealant providing commercial-grade strength for the toughest applications.",
+    "company_name": "Polymer Adhesives",
+    "company_slug": "polymer-adhesives",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520279/production/Brand/34018/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608490/production/CategoryImage/563/category_image/BuildingConstruction_07.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Architectural Coatings",
+            "Decorative Paints, Coatings & Stains",
+            "Building Envelope"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Caulks & Sealants"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Waterborne Sealant",
+            "Solventless & High Solids Coating"
+        ],
+        "Application Area": [
+            "AC Ducts",
+            "HVAC Ducts"
+        ],
+        "Application Method": [
+            "Brush"
+        ]
+    }
+}

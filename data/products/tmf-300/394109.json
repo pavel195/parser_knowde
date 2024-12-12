@@ -1,0 +1,73 @@
+{
+    "id": 394109,
+    "brand": "tmf-300",
+    "name": "Mar-Con® 600 Acrylic",
+    "slug": "mar-con-600-acrylic",
+    "description": "Mar-Con® 600 Acrylic is an advanced technology abrasion resistant highly cross-linked hard coating with excellent abrasion resistance, solvent resistance, and anti-graffiti properties. It is designed for a variety of high-performance end uses. Mar-Con 600 hard coating provides enhanced resistance to abrasion of the sheet surfaces from cleaning, handling, and defacement efforts. Mar-Con® 600 Acrylic plastic substrate is a cell cast acrylic that exhibits excellent optical properties with superior weathering characteristics and solvent welding capabilities. This product can be used in many more applications than would be practical for an uncoated acrylic sheet. Mar-Con 600 can also be applied to thin gage materials without suffering from distortions caused by typical thermal curing coating processes.",
+    "company_name": "SciCron Technologies",
+    "company_slug": "scicron-technologies",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686149911/production/Brand/29763/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Building Envelope & Roofing",
+            "Chemical & Industrial Manufacturing",
+            "Interior Fixtures",
+            "Glazing & Window Elements",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Methacrylates"
+        ],
+        "Polymer Name": [
+            "Polymethyl Methacrylate (PMMA)"
+        ],
+        "End Uses": [
+            "Door Profiles",
+            "Housings",
+            "Profiles",
+            "Machine Guards",
+            "Display Cases",
+            "Glazing"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polymethyl Methacrylate (PMMA)"
+        ],
+        "Physical Form": [
+            "Sheets"
+        ],
+        "Features": [
+            "Mar Resistant",
+            "High Clarity",
+            "Good Scratch Resistance",
+            "Good Abrasion Resistance",
+            "Good Optical Properties",
+            "Good Weather Stability",
+            "Hydrophobic",
+            "High Performance",
+            "Cleanable",
+            "Durable",
+            "Chemical Resistant",
+            "High Gloss",
+            "Graffiti Resistant",
+            "Excellent Solvent Resistance"
+        ],
+        "Density": [
+            "1190.0 - 1190.0 kg/m³"
+        ],
+        "Tensile Modulus": [
+            "2756.0 - 2756.0 MPa"
+        ],
+        "Color": [
+            "White",
+            "Opaque",
+            "Transparent"
+        ]
+    }
+}

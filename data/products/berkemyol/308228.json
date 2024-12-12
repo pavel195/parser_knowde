@@ -1,0 +1,59 @@
+{
+    "id": 308228,
+    "brand": "berkemyol",
+    "name": "Berkem Lemon balm water (R0682)",
+    "slug": "berkem-lemon-balm-water-r0682",
+    "description": "Lemon balm water helps to fight against free radicals, and thus reduces DNA damages endured by UV, as well as other effects from sun. This water has photo-protective property which allows to protect skin. Lemon balm water is also antioxidant.",
+    "company_name": "Berkem",
+    "company_slug": "berkem",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708691945/production/Product/308228/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708691945/production/Product/308228/card_banner/image",
+    "properties": {
+        "Product Families": [
+            "Skin Actives",
+            "Hydrosols & Waters",
+            "Vitamins, Extracts & Oils",
+            "Cosmetic Actives"
+        ],
+        "INCI Name": [
+            "Melissa Officinalis Leaf Water"
+        ],
+        "End Uses": [
+            "Sunscreen Lotion",
+            "Anti-Aging Products"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Melissa Officinalis Leaf Water"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Non-Animal Origin",
+            "Plant Origin"
+        ],
+        "Functions": [
+            "Antioxidant"
+        ],
+        "Labeling Claims": [
+            "Plant-Based",
+            "Sustainable",
+            "Naturally Derived",
+            "Natural",
+            "Organic"
+        ],
+        "Certifications & Compliance": [
+            "Organic Certified",
+            "IECIC (China)",
+            "COSMOS",
+            "ECOCERT"
+        ],
+        "Benefit Claims": [
+            "Photo-Aging Protection",
+            "DNA Protection",
+            "UV Protection",
+            "Free Radical Scavenging",
+            "Skin Protection"
+        ]
+    }
+}

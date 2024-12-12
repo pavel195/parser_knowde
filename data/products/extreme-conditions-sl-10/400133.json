@@ -1,0 +1,46 @@
+{
+    "id": 400133,
+    "brand": "extreme-conditions-sl-10",
+    "name": "Metal Treatment MT-10® Transmission",
+    "slug": "metal-treatment-mt-10-transmission",
+    "description": "Metal Treatment MT-10® Transmission is an anti-friction additive designed to address extreme-pressure areas, such as planetary and worm gear systems, along with bushings, bearings and shafts. It is an industry leader in reducing those costly comebacks because it reduces frictional heat and wear without surface build up.",
+    "company_name": "Muscle Products",
+    "company_slug": "muscle-products",
+    "logo_url": null,
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Fluids & Lubricants",
+            "Transmission Fluids",
+            "Automotive Fluids & Lubricants",
+            "Lubricants & Functional Fluids",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Surface Protective Additives",
+            "Additives"
+        ],
+        "End Uses": [
+            "Manual/Automatic Transmissions Fluids",
+            "Gear Oils"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Friction Modifier"
+        ],
+        "End Uses": [
+            "Gear Oils",
+            "Manual/Automatic Transmissions Fluids"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal"
+        ],
+        "Features": [
+            "Extreme Pressure Performance",
+            "Low Operation Temperature",
+            "Improved Wear Protection",
+            "Varnish Build-up Prevention"
+        ]
+    }
+}

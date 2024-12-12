@@ -1,0 +1,31 @@
+{
+    "id": 394565,
+    "brand": "goldswaen",
+    "name": "BLACKSWAEN® BLACK EXTRA",
+    "slug": "blackswaen-black-extra",
+    "description": "BLACKSWAEN® BLACK EXTRA is our darkest roasted malt. Brings special character for your beer. Enhances the aroma of beers by producing a more determinative flavor than other colored malts. Imparts a slight burnt or smoky flavor. You just found the black diamond!",
+    "company_name": "The Swaen",
+    "company_slug": "the-swaen",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686109548/production/Brand/29828/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606846/production/CategoryImage/500/category_image/FoodNutrition_01.jpg",
+    "properties": {
+        "Applications": [
+            "Beverage",
+            "Liquor & Spirits",
+            "Beer Brewing"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Flours & Grains Products",
+            "Other Whole Foods & Extracts"
+        ],
+        "End Uses": [
+            "Beer"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Barley Malt"
+        ]
+    }
+}

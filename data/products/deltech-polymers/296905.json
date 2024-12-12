@@ -1,0 +1,37 @@
+{
+    "id": 296905,
+    "brand": "deltech-polymers",
+    "name": "Deltech Monomers Divinylbenzene 80% (DVB80)",
+    "slug": "deltech-monomers-divinylbenzene-80-dvb80",
+    "description": "Deltech Divinylbenzene 80% (DVB80) is an extremely reactive monomer. It appears as a clear to slightly hazy amber liquid and has an odor characteristic of aromatic hydrocarbons. Special care is needed with DVB80, as heat-initiated free radical polymerization can easily occur, making the monomer molecule unstable when heated. To prevent premature free radical polymerization, it is treated with tertiary Butyl Catechol (TBC) as an inhibitor. DVB80 is utilized in various fields, including coatings, adhesive tackifiers, functional polymers, molded composites, and insulating varnishes.\r\n",
+    "company_name": "Deltech",
+    "company_slug": "deltech",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1724223799/production/Product/296905/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical Manufacturing",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Vinyls, Vinylics & Vinyl Derivatives",
+            "Other Monomers & Oligomers",
+            "Monomers & Oligomers"
+        ],
+        "Chemical Family": [
+            "Vinyls, Vinylics & Vinyl Derivatives"
+        ],
+        "End Uses": [
+            "Polyester"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Ethylstyrene",
+            "Divinylbenzene"
+        ],
+        "Chemical Family": [
+            "Vinyls, Vinylics & Vinyl Derivatives"
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "id": 326260,
+    "brand": "glymed",
+    "name": "Medxtract Fenugreek 1:2 Organic",
+    "slug": "medxtract-fenugreek-1-2-organic",
+    "description": "MEDXTRACT FENUGREEK 1:2 ORGANIC is the extract of the seeds of organically grown Trigonella Foenum- Grae-cum in vegetable glycerine and is produced by ultrasounds at low temperature (25 °C).",
+    "company_name": "Medolla Speciality Chemicals",
+    "company_slug": "medolla-iberia",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708673331/production/Company/16680/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708673331/production/Company/16680/card_banner/image",
+    "properties": {
+        "Product Families": [
+            "Blends & Other Cleansers",
+            "Skin Actives",
+            "Botanical Ingredients & Extracts",
+            "Conditioners & Emollients",
+            "Cosmetic Actives",
+            "Vitamins, Extracts & Oils",
+            "Functionals",
+            "Surfactants & Cleansers"
+        ],
+        "Chemical Family": [
+            "Plant Extracts"
+        ],
+        "INCI Name": [
+            "Trigonella Foenum-Graecum Seed Extract",
+            "Sodium Benzoate",
+            "Potassium Sorbate",
+            "Benzyl Alcohol"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Potassium Sorbate",
+            "Sodium Benzoate",
+            "Benzyl Alcohol",
+            "Trigonella Foenum-Graecum Seed Extract"
+        ],
+        "Functions": [
+            "Firming Agent",
+            "Cleansing Agent",
+            "Emollient",
+            "Healing Agent"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Plant Origin"
+        ],
+        "Labeling Claims": [
+            "Credo Clean Standard",
+            "Clean at Sephora",
+            "Plant-Based",
+            "GMO-free",
+            "Naturally Derived",
+            "Organic"
+        ],
+        "Certifications & Compliance": [
+            "COSMOS"
+        ],
+        "Benefit Claims": [
+            "Calming",
+            "Firming",
+            "Cleansing",
+            "Anti-Bacterial",
+            "Emolliency",
+            "Healing"
+        ]
+    }
+}

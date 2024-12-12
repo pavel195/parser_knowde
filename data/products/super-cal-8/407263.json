@@ -1,0 +1,29 @@
+{
+    "id": 407263,
+    "brand": "super-cal-8",
+    "name": "Super Sul 26™",
+    "slug": "super-sul-26",
+    "description": "SULFUR is recognized as a secondary plant nutrient. It is in the same class as CALCIUM and MAGNESIUM. All life needs sulfur to survive. In plants it is an essential nutrient. It is essential that crops be kept supplied with sulfur throughout the growing season.",
+    "company_name": "UAS of America",
+    "company_slug": "uas-of-america",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708684289/production/Company/48822/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608173/production/CategoryImage/547/category_image/AgricultureFeed_03.jpg",
+    "properties": {
+        "Applications": [
+            "Trees & Woodlands",
+            "Turf, Ornamentals & Landscape"
+        ],
+        "Product Families": [
+            "Fertilizers & Nutrients",
+            "Plant Health, Nutrients & Soil Management"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Nutrient"
+        ],
+        "Application Technique": [
+            "Foliage Applied"
+        ]
+    }
+}

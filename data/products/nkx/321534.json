@@ -1,0 +1,53 @@
+{
+    "id": 321534,
+    "brand": "nkx",
+    "name": "NKX 230",
+    "slug": "nkx-230",
+    "description": "NKX-230 is a thin particle size resin and developed to formulate high adhesion water base topcoats and chemical resistance. Excellent in many PVC vinyl finish applications. It has an excellent relationship between flexibility and abrasion resistance making it suitable for rigid and flexible substrates, including plastics and especially PVC. It can also be used as laminating adhesive for manufacturing credit cards. Typical applications include coating for rigid and flexible substrates, including wood, paper, metallic surface and other synthetic laminates.",
+    "company_name": "Nokxeller Microdispersions",
+    "company_slug": "nokxeller-microdispersions",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112572/production/Brand/22902/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial Coatings",
+            "Other Adhesives & Sealants Applications",
+            "Metal Coatings"
+        ],
+        "Product Families": [
+            "Polyesters",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Polyesters",
+            "Polyethers",
+            "Aliphatics"
+        ],
+        "End Uses": [
+            "Waterborne Coating",
+            "Top Coat"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Polyethers",
+            "Aliphatics",
+            "Polyesters"
+        ],
+        "End Uses": [
+            "Top Coat",
+            "Waterborne Coating"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Paper",
+            "Metal",
+            "Wood"
+        ],
+        "Features": [
+            "Chemical Resistance",
+            "Improved Flexibility",
+            "Excellent Adhesion",
+            "Abrasion Resistance"
+        ]
+    }
+}

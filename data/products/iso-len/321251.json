@@ -1,0 +1,39 @@
+{
+    "id": 321251,
+    "brand": "iso-len",
+    "name": "ISO TECH Kunststoff GmbH ISO-PTFE",
+    "slug": "iso-tech-kunststoff-gmbh-iso-ptfe",
+    "description": "ISO TECH Kunststoff GmbH ISO-PTFE - colloquially known as Teflon - offers very high chemical and thermal resistance. In combination with its extremely low surface tension, ISO-PTFE is a very suitable material for different, challenging applications in the chemical, pharmaceutical and food industries.",
+    "company_name": "ISO TECH Kunststoff GmbH",
+    "company_slug": "iso-tech-kunststoff-gmbh",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697221845/production/Product/321251/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Food & Beverage Packaging",
+            "Other Industrial Applications",
+            "Medical Devices & Assemblies",
+            "Medical",
+            "Chemical & Industrial Manufacturing",
+            "Packaging"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Fluoropolymers"
+        ],
+        "Polymer Name": [
+            "Polytetrafluoroethylene (PTFE)"
+        ],
+        "End Uses": [
+            "Food Packaging",
+            "Medical Devices"
+        ]
+    },
+    "summary": {
+        "Density": [
+            "2150.0 - 2150.0 kg/m³"
+        ]
+    }
+}

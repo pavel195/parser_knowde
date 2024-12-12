@@ -1,0 +1,29 @@
+{
+    "id": 418545,
+    "brand": "plusmaster",
+    "name": "Tecnifol Calcium",
+    "slug": "tecnifol-calcium",
+    "description": "Tecnifol Calcium organic fertilizer with nutrients secondary calcium chloride solution.",
+    "company_name": "ADP Fertilizers",
+    "company_slug": "adp-fertilizers",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708687898/production/Brand/32798/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608215/production/CategoryImage/550/category_image/AgricultureFeed_06.jpg",
+    "properties": {
+        "Applications": [
+            "Other Agricultural Crops",
+            "Agricultural Crops"
+        ],
+        "Product Families": [
+            "Fertilizers & Nutrients",
+            "Plant Health, Nutrients & Soil Management"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Fertilizer"
+        ],
+        "Labeling Claims": [
+            "Non-Flammable"
+        ]
+    }
+}

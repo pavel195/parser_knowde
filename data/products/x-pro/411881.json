@@ -1,0 +1,49 @@
+{
+    "id": 411881,
+    "brand": "x-pro",
+    "name": "X-Pro® PP 4230",
+    "slug": "x-pro-pp-4230",
+    "description": "X-Pro® PP 4230 is a high-flow, 98% recycled-content, general-purpose black polypropylene copolymer suitable for houseware applications and thinner-walled parts in injection molding. It can be used as a low-cost alternative to virgin resin while providing comparably good quality and processability.",
+    "company_name": "CTC Plastics",
+    "company_slug": "ctc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1620673316/production/Company/15217/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1693401337/production/Product/411881/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Other Industrial Applications",
+            "Housewares",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Recycled Polymers",
+            "Polyolefins",
+            "Basic Thermoplastics"
+        ],
+        "Chemical Family": [
+            "Polypropylenes (PP)",
+            "Polyolefins"
+        ],
+        "Polymer Name": [
+            "Polypropylene Copolymer"
+        ],
+        "End Uses": [
+            "Industrial Applications",
+            "Construction Applications",
+            "Housewares",
+            "General Purpose"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polypropylene Copolymer"
+        ],
+        "Labeling Claims": [
+            "Contains PIR Resin",
+            "Recycled",
+            "Contains PCR Resin"
+        ],
+        "Processing Methods": [
+            "Injection Molding"
+        ]
+    }
+}

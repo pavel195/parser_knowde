@@ -1,0 +1,25 @@
+{
+    "id": 412641,
+    "brand": "cool-silver",
+    "name": "AI Technology ME 7155-AN",
+    "slug": "ai-technology-me-7155-an",
+    "description": "ME7155-AN is a reworkable, aluminum nitride filled, electrically insulating and thermally conductive epoxy paste adhesive which exhibits outstanding flexibility for bonding materials having highly mismatched CTE's (i.e., alumina to aluminum, silicon to copper). The high thermal conductivity of this material makes it useful for bonding high-powered, large area die and components. It can be readily reworked at 80-100°C.",
+    "company_name": "AI Technology",
+    "company_slug": "ai-technology",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697221701/production/Company/47026/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1637777015/production/CategoryImage/1496/category_image/PaperPulpWaterChemicals_ProductBanner_08.jpg",
+    "properties": {
+        "Applications": [
+            "Semiconductor Manufacturing",
+            "Adhesives & Sealants",
+            "Appliances & Electronics",
+            "Packaging & Assembly",
+            "Parts & Components"
+        ],
+        "Product Families": [
+            "Conductive Adhesives",
+            "Adhesives & Sealants"
+        ]
+    },
+    "summary": {}
+}

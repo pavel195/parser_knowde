@@ -1,0 +1,33 @@
+{
+    "id": 419052,
+    "brand": "aussie-skin",
+    "name": "AVM Industries Adhesive 501",
+    "slug": "avm-industries-adhesive-501",
+    "description": "Adhesive 501 is a low-VOC, quick drying, solvent-based, high-tack contact adhesive. AVM Adhesive 501 has a wide temperature application window, down to 25°F.",
+    "company_name": "AVM Industries",
+    "company_slug": "avm-industries",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520018/production/Company/34890/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608600/production/CategoryImage/568/category_image/PaintingsCoatings_04.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Construction Chemicals",
+            "Adhesives",
+            "Construction Adhesives"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Contact Adhesives"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Solventborne Adhesive"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Wood",
+            "Glass",
+            "Metal"
+        ]
+    }
+}

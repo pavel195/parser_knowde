@@ -1,0 +1,39 @@
+{
+    "id": 303615,
+    "brand": "brasmide",
+    "name": "BRASPOXY DR",
+    "slug": "braspoxy-dr",
+    "description": "BRASPOXY DR is a epoxy functional polyester.",
+    "company_name": "SGS",
+    "company_slug": "sgs",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708690867/production/Company/17927/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608611/production/CategoryImage/569/category_image/PaintingsCoatings_05.jpg",
+    "properties": {
+        "Applications": [
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Diluents",
+            "Rheology Modifiers & Stabilizers",
+            "Additives",
+            "Solvents & Carriers"
+        ],
+        "Chemical Family": [
+            "Polyesters"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Reactive Diluent"
+        ],
+        "Chemical Family": [
+            "Polyesters"
+        ],
+        "Labeling Claims": [
+            "Phthalates-free"
+        ],
+        "Compatible Polymers & Resins": [
+            "Epoxies (EP)"
+        ]
+    }
+}

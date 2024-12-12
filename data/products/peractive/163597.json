@@ -1,0 +1,79 @@
+{
+    "id": 163597,
+    "brand": "peractive",
+    "name": "Naxonate® 4LS (SXS)",
+    "slug": "naxonate-4ls",
+    "description": "Naxonate® 4LS is our standard sodium xylene sulfonate, exhibiting reduced sulfone levels, which can be imperative for achieving clarity in formulated systems, especially upon dilution. The lower sulfone content helps the formulator consistently meet customer needs, and the product is listed on the Cleangredients Chemical listing and meets DfE criteria.",
+    "company_name": "Catexel Nease",
+    "company_slug": "nease-performance-chemicals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1713790176/production/Company/1335/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1713790176/production/Company/1335/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Skin Care",
+            "Textile Manufacturing",
+            "Chemical Manufacturing",
+            "Metal Manufacturing & Finishing",
+            "Industrial Cleaning",
+            "Surface Care",
+            "Chemical & Industrial Manufacturing",
+            "Home Care",
+            "Institutional & Industrial Care",
+            "Beauty & Care",
+            "Leather & Textiles"
+        ],
+        "Product Families": [
+            "Emulsifiers, Solubilizers & Dispersants",
+            "Anionic Surfactants",
+            "Finishing Additives & Treatments",
+            "Other Processing Additives",
+            "Metal Processing Additives",
+            "Wetting & Dispersion Aids",
+            "Functionals",
+            "Surfactants & Cleansers",
+            "Cleaning Aids",
+            "Processing Aids",
+            "Textile & Leather Chemicals"
+        ],
+        "Chemical Family": [
+            "Sulfonates"
+        ],
+        "INCI Name": [
+            "Sodium Xylenesulfonate"
+        ],
+        "End Uses": [
+            "Photographic Industry",
+            "Heavy Duty Hand Cleaners",
+            "Detergents"
+        ],
+        "Labeling Claims": [
+            "Ulta Beauty's Conscious Beauty",
+            "CleanGredients (DfE)"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Sodium Xylenesulfonate"
+        ],
+        "Chemical Family": [
+            "Sulfonates"
+        ],
+        "Labeling Claims": [
+            "Ulta Beauty's Conscious Beauty",
+            "CleanGredients (DfE)"
+        ],
+        "Certifications & Compliance": [
+            "FDA 29 CFR 1910.1200",
+            "SARA 313",
+            "SARA 311/312",
+            "Design for Environment (DfE)",
+            "SARA 302"
+        ],
+        "Applicable Processes": [
+            "Printing",
+            "Dye Manufacturing",
+            "Metal Prep",
+            "Textiles Manufacturing"
+        ]
+    }
+}

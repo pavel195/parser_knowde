@@ -1,0 +1,43 @@
+{
+    "id": 256548,
+    "brand": "baktem",
+    "name": "Lecitem Pumpable S",
+    "slug": "lecitem-pumpable-s",
+    "description": "A liquid improver that offers a cost effective Process for the production of a wide range of Breads, rolls, buns, and other yeast raised goods.",
+    "company_name": "Bakels",
+    "company_slug": "bakels",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708690029/production/Company/19673/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708690029/production/Company/19673/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Bakery",
+            "Food"
+        ],
+        "Product Families": [
+            "Texturizers",
+            "Texture & Consistency"
+        ],
+        "Ingredient Name": [
+            "Texturizing Mix"
+        ],
+        "End Uses": [
+            "Bread",
+            "Pastries",
+            "Rolls"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Texturizing Mix"
+        ],
+        "Functions": [
+            "Texturizing Agent"
+        ],
+        "Physical Form": [
+            "Liquid"
+        ],
+        "Features": [
+            "Easy To Use"
+        ]
+    }
+}

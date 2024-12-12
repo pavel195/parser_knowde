@@ -1,0 +1,54 @@
+{
+    "id": 419530,
+    "brand": "ens",
+    "name": "Dec™",
+    "slug": "dec",
+    "description": "Dec™ is  durable protection for high-wear horizontal wood surfaces like decks, docks and balconies. Provides excellent UV and weather protection and will not crack, peel or blister.",
+    "company_name": "The Sansin Corporation",
+    "company_slug": "the-sansin-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1682593209/production/Brand/32917/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608454/production/CategoryImage/560/category_image/BuildingConstruction_04.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Fence, Decks & Rails",
+            "Wood"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ],
+        "Chemical Family": [
+            "Alkyds"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Waterborne Coating"
+        ],
+        "Features": [
+            "Wear Resistant",
+            "Good Weather Stability",
+            "Long Term Protection",
+            "Durable",
+            "Good Penetration",
+            "Excellent UV Stability",
+            "Clarity",
+            "Low VOC",
+            "Peel Resistance",
+            "Dimensional Stability",
+            "Crack Resistant"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Wood"
+        ],
+        "Application Method": [
+            "Spray",
+            "Dip Coating",
+            "Brush"
+        ],
+        "Chemical Family": [
+            "Alkyds"
+        ]
+    }
+}

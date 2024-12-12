@@ -1,0 +1,59 @@
+{
+    "id": 410814,
+    "brand": "fasteltack",
+    "name": "FastelTack ST2",
+    "slug": "fasteltack-st2",
+    "description": "FastelTack ST2 was created as a high performance acrylic-based pressure sensitive adhesive with excellent long-term adhesion to a wide variety of substrates. FastelTack is an unsupported acrylic pressure sensitive adhesive supplied on a moisture stable polycoated release liner available in continuous rolls, slit rolls, die cuts formats, or prelaminated by Fastel Adhesives to a wide range of substrates including aluminum, copper, stainless steel, PET Films, polyimide films, and customer required substrates. FastelTack ST2 has excellent long-term adhesion over a wide temperature range, as well as superior long-term aging properties. When in contact with flexible PVC, ST is designed to provide excellent resistance to plasticizer migration. ST exhibits sunlight resistance and moisture, solvents, mild acid, mild alkali, oil and grease.",
+    "company_name": "Fastel Adhesives",
+    "company_slug": "fastel-adhesives",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520187/production/Brand/31936/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609067/production/CategoryImage/592/category_image/PrintingPackaging_03.jpg",
+    "properties": {
+        "Applications": [
+            "Tapes & Labels",
+            "Industrial & Assembly Adhesives",
+            "Tapes, Labels & Adhesives",
+            "Other Industrial & Assembly Applications",
+            "Industrial Adhesives & Sealants",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Pressure Sensitive Adhesives & Tapes"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Pressure Sensitive Adhesive"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Aluminum",
+            "Polyimide",
+            "Metal",
+            "Stainless Steel",
+            "Copper",
+            "Polyethylene Terephthalate (PET)",
+            "Plastics"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ],
+        "Features": [
+            "Acid Resistant",
+            "Excellent Wetting Behaviour",
+            "Good Bonding Strength",
+            "Good Adhesion",
+            "Good Sunlight Resistance",
+            "Excellent Substrate Adhesion",
+            "High Performance",
+            "Alkali Resistant",
+            "Chemical Resistant",
+            "Grease Resistant",
+            "Excellent Solvent Resistance",
+            "Improved Ageing Resistance"
+        ]
+    }
+}

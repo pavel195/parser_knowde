@@ -1,0 +1,52 @@
+{
+    "id": 314668,
+    "brand": "virtiva",
+    "name": "Indena Centella asiatica",
+    "slug": "indena-centella-asiatica",
+    "description": "Indena Centella asiatica is a dry extract that is obtained from the leaves of Centella asiatica (L.) Urban. This product is used in the pharmaceutical industry as an anti-wrinkle and stretch mark improver. As determined by HPLC, it contains 36 - 44% asiaticoside and 56 - 64% genins as the sum of asiatic acid and madecassic acid.",
+    "company_name": "Indena",
+    "company_slug": "indena",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708696067/production/Company/1265/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708696067/production/Company/1265/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Phytochemicals",
+            "Phytochemicals & Plant Extracts",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "Ingredient Name": [
+            "Centella Asiatica Extract"
+        ],
+        "End Uses": [
+            "Nutraceuticals"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Centella Asiatica Extract"
+        ],
+        "Active Component": [
+            "Asiatic Acid",
+            "Asiaticoside",
+            "Madecassic Acid"
+        ],
+        "Functions": [
+            "Phytochemical"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Plant Origin"
+        ],
+        "Labeling Claims": [
+            "Naturally Derived",
+            "Plant-Based"
+        ]
+    }
+}

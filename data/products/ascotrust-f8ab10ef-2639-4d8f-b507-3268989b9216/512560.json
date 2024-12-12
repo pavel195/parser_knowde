@@ -1,0 +1,69 @@
+{
+    "id": 512560,
+    "brand": "ascotrust-f8ab10ef-2639-4d8f-b507-3268989b9216",
+    "name": "Afcona 4401",
+    "slug": "afcona-4401-49b2f515-746b-4749-a506-6eb233058f47",
+    "description": "Afcona - 4401 is a high molecular weight polymeric dispersant used for the deflocculation of all types of pigments.",
+    "company_name": "EM Sullivan",
+    "company_slug": "em-sullivan",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1712220626/production/Brand/41124/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Automotive OEM Coatings",
+            "Industrial Coatings",
+            "Coatings & Finishes",
+            "Automotive & Transportation"
+        ],
+        "Product Families": [
+            "Other Processing Additives",
+            "Dispersing & Wetting Additives",
+            "Additives",
+            "Processing Aids"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ],
+        "End Uses": [
+            "Inorganic Pigments",
+            "Top Coat",
+            "Organic Pigments",
+            "Solventless & High Solids Coating",
+            "2K (2 component) Coating",
+            "Solventborne Coating",
+            "Radiation Curable Coating",
+            "Baking Paint"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Dispersant"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ],
+        "End Uses": [
+            "Inorganic Pigments",
+            "Solventborne Coating",
+            "2K (2 component) Coating",
+            "Radiation Curable Coating",
+            "Top Coat",
+            "Organic Pigments",
+            "Baking Paint",
+            "Solventless & High Solids Coating"
+        ],
+        "Compatible Polymers & Resins": [
+            "Thermoplastic Acrylic",
+            "Polyesters",
+            "Polyurethanes (PU)",
+            "Acrylic-Melamine",
+            "Thermosetting Acrylics",
+            "Epoxies (EP)",
+            "Unsaturated Polyester (UPE)",
+            "Alkyds",
+            "Nitrocellulose",
+            "Cellulose Acetate Butyrate (CAB)",
+            "Acrylics"
+        ]
+    }
+}

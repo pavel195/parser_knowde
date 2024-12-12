@@ -1,0 +1,44 @@
+{
+    "id": 438857,
+    "brand": "superior",
+    "name": "BreadPartners Top Taste 8 Grain (#40176)",
+    "slug": "breadpartners-top-taste-8-grain-40176",
+    "description": "BreadPartners Top Taste 8 Grain (#40176) is a 20 - 50% powdery blend of 8 different seeds and grains for multigrain-style bread.",
+    "company_name": "BreadPartners",
+    "company_slug": "bread-partners",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686635395/production/Company/29172/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606996/production/CategoryImage/508/category_image/FoodNutrition_09.jpg",
+    "properties": {
+        "Applications": [
+            "Food",
+            "Bakery"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Nut & Seed Products",
+            "Flours & Grains Products"
+        ],
+        "End Uses": [
+            "Bread Products",
+            "Bread"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Grain-Seed Blend"
+        ],
+        "Labeling Claims": [
+            "Preservative-free",
+            "Kosher",
+            "Vegan",
+            "Clean Label"
+        ],
+        "Certifications & Compliance": [
+            "Kosher",
+            "SQF Certified"
+        ],
+        "Features": [
+            "Suitable for Vegans"
+        ]
+    }
+}

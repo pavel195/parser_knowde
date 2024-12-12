@@ -1,0 +1,63 @@
+{
+    "id": 176139,
+    "brand": "instathix",
+    "name": "Sapogel® Q",
+    "slug": "alchemy-ingredients-sapogel-q",
+    "description": "Sapogel Q is a liquid blend which acts as a natural oil thickening agent to make balm textures.",
+    "company_name": "Alchemy Ingredients",
+    "company_slug": "alchemy-ingredients",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708689459/production/Product/176139/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708689459/production/Product/176139/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Bath & Shower",
+            "Color Cosmetics",
+            "Skin Care",
+            "Baby Care",
+            "Hair Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Rheology Modifiers",
+            "Other Functional Additives",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Saponaria Officinalis Extract",
+            "Quillaja Saponaria Wood Extract"
+        ],
+        "End Uses": [
+            "Body Wash",
+            "Facial Mask",
+            "Spa Treatments",
+            "Lip Balm"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Quillaja Saponaria Wood Extract",
+            "Saponaria Officinalis Extract"
+        ],
+        "Functions": [
+            "Thickener",
+            "Moisturizing Agent",
+            "Viscosity Modifier"
+        ],
+        "Labeling Claims": [
+            "COSMOS Approved",
+            "Biodegradable",
+            "Palm Oil-free",
+            "Preservative-free",
+            "Ulta Beauty's Conscious Beauty"
+        ],
+        "Certifications & Compliance": [
+            "RSPO MassBalance Certified"
+        ],
+        "Benefit Claims": [
+            "Mild",
+            "Hydrating",
+            "Cleansing",
+            "Moisturizing"
+        ]
+    }
+}

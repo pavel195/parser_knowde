@@ -1,0 +1,38 @@
+{
+    "id": 357087,
+    "brand": "teijin-twaron-b-v-twaron",
+    "name": "Technora® Short-cut fiber",
+    "slug": "technora-short-cut-fiber",
+    "description": "Technora® Short-Cut Fiber can be converted into short-cut fibers or dipped chopped fibers with a range of lengths, typically between 1 mm and 30 mm, for use in, for instance, resin, cement and rubber reinforcement.",
+    "company_name": "Teijin Twaron B.V.",
+    "company_slug": "teijin-twaron-b-v",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686149552/production/Brand/26576/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Tires",
+            "Chemical & Industrial Manufacturing",
+            "Automotive",
+            "Other Industrial Applications"
+        ],
+        "Product Families": [
+            "Reinforcements",
+            "Aramid (Kevlar)"
+        ],
+        "Chemical Family": [
+            "Aramid (Kevlar)"
+        ]
+    },
+    "summary": {
+        "Reinforcement Material": [
+            "Aramid (Kevlar)"
+        ],
+        "Features": [
+            "High Strength",
+            "Heat Resistance",
+            "Chemical Resistant",
+            "Dimensional Stability",
+            "High Durability"
+        ]
+    }
+}

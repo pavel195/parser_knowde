@@ -1,0 +1,67 @@
+{
+    "id": 323451,
+    "brand": "gehr-pvdf",
+    "name": "GEHR PC®",
+    "slug": "gehr-pc",
+    "description": "GEHR PC® is a transparent material and belongs to the group of amorphous engineering plastics as well as to the polyester family of plastics. It has a high stiffness and extremely high impact strength. It also has a high glass transition temperature and heat deflection temperature (approx. +130 °C). The continuous operating temperature of PC ranges between approximately -60 °C and +120 °C. The material is highly resistant to high-energy radiation. However, it must be stabilized against UV rays, otherwise yellowing may occur. Like all polyesters, PC is not resistant to hot water (from approx. +60 °C) in the long term.",
+    "company_name": "GEHR",
+    "company_slug": "gehr",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686150078/production/Brand/23072/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Medical",
+            "Cooling & Climate",
+            "Medical Devices & Assemblies",
+            "Other Medical Applications",
+            "Other Devices & Assemblies",
+            "Devices & Assemblies",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Polycarbonate (PC)"
+        ],
+        "Polymer Name": [
+            "Polycarbonate (PC)"
+        ],
+        "End Uses": [
+            "Medical Devices",
+            "Electrical/Electronic Applications",
+            "Medical/Healthcare Applications",
+            "Water Jacket Spacer"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polycarbonate (PC)"
+        ],
+        "Physical Form": [
+            "Custom",
+            "Rods",
+            "Sheets"
+        ],
+        "Features": [
+            "High Glass Transition Temperature",
+            "High Stiffness",
+            "Excellent Transparency Properties",
+            "Excellent Mechanical Strength",
+            "Good Impact Strength",
+            "High Heat Deflection Temperature",
+            "High Temperature Resistance",
+            "Radiation Resistant",
+            "Dimensional Stability",
+            "High Temperature Insulation Properties",
+            "Chemical Resistant",
+            "Amorphous"
+        ],
+        "Density": [
+            "1150.0 - 1250.0 kg/m³"
+        ],
+        "Color": [
+            "Transparent"
+        ]
+    }
+}

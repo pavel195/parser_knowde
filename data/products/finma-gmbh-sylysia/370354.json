@@ -1,0 +1,66 @@
+{
+    "id": 370354,
+    "brand": "finma-gmbh-sylysia",
+    "name": "Sylysia SY 276",
+    "slug": "sylysia-sy-276",
+    "description": "Sylysia SY 276 is a white, free-flowing powders of amorphous, micronized silica. sylysia is characterized by the fine pore network and the narrow, defined particle size distribution. These parameters are precisely adjusted to meet a wide variety of applications.",
+    "company_name": "Finma GmbH",
+    "company_slug": "finma-gmbh",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708691491/production/Brand/27587/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608410/production/CategoryImage/557/category_image/BuildingConstruction_01.jpg",
+    "properties": {
+        "Applications": [
+            "Film & Foil Coatings",
+            "Leather Manufacturing",
+            "Overprint Varnishes",
+            "Furniture",
+            "Floor Coatings",
+            "Wood Coatings & Finishes",
+            "Glass Coatings",
+            "Finishing",
+            "Furniture Coatings",
+            "Flooring & Surfaces",
+            "Leather",
+            "Building & Construction",
+            "Industrial Coatings",
+            "Specialty Coatings",
+            "Packaging Coatings",
+            "Leather & Textiles"
+        ],
+        "Product Families": [
+            "Surface Modifiers",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Silica"
+        ],
+        "End Uses": [
+            "Varnishes",
+            "2K (2 component) Coating",
+            "1K (1 component) Coating",
+            "Radiation Curable Coating",
+            "Waterborne Coating",
+            "Solventborne Coating"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Flattener"
+        ],
+        "Chemical Family": [
+            "Silica"
+        ],
+        "End Uses": [
+            "1K (1 component) Coating",
+            "Varnishes",
+            "Waterborne Coating",
+            "Radiation Curable Coating",
+            "2K (2 component) Coating",
+            "Solventborne Coating"
+        ],
+        "Features": [
+            "Chemically Inert",
+            "Matting"
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "id": 393077,
+    "brand": "cattle-booster",
+    "name": "Dinamune® Liquid",
+    "slug": "dinamune-liquid",
+    "description": "Dinamune® Liquid consists of a powerfull preparation of hydrolyzed inactive yeast components, yeast extract, and yeast culture. Dinamune liquid provides a very rich supply of fermentation nutrient metabolites derived from the fermentation of a specially selected strain of Saccharomyces cerevisiae. Dinamune liquid is an excellent nutrient source for all classes of livestock and poultry. It is a powerful yeast culture with mananoligo saccharides, (MOS) and a high content of alpha and beta glucans for stronger immune systems.",
+    "company_name": "Dinatec",
+    "company_slug": "dinatec",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708687810/production/Brand/29621/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608224/production/CategoryImage/551/category_image/AgricultureFeed_07.jpg",
+    "properties": {
+        "Applications": [
+            "Ruminants",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Immunomodulators",
+            "Health & Well-Being"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Immunomodulator"
+        ],
+        "Animal Species": [
+            "Cattle"
+        ],
+        "Features": [
+            "Improves Immunity"
+        ]
+    }
+}

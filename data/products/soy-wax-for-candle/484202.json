@@ -1,0 +1,45 @@
+{
+    "id": 484202,
+    "brand": "soy-wax-for-candle",
+    "name": "Concession Oils 40 Red Coconut Oil",
+    "slug": "concession-oils-40-red-coconut-oil",
+    "description": "Concession Oils 40 Red Coconut Oil is a high-quality food ingredient designed for bakery applications. It contains refined coconut oil and beta-carotene, which contribute to its distinct features and benefits. This product is allergen-free and GMO-free, making it suitable for a wide range of dietary preferences. With certifications such as Kosher and SQF Certified, it adheres to rigorous standards of quality and safety. Complying with The Food Allergen Labeling and Consumer Protection Act of 2004 (FALCPA), it provides peace of mind to consumers. The packaging options include bags, boxes, pails, bulk, drums, and totes (IBC), allowing for convenient handling and storage.",
+    "company_name": "Gateway Food Products Company",
+    "company_slug": "gateway-food-products-company",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708108054/production/Company/46005/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708108054/production/Brand/38611/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Bakery",
+            "Food"
+        ],
+        "Product Families": [
+            "Edible Oils & Fats",
+            "Whole Foods, Extracts & Premixes"
+        ],
+        "Ingredient Name": [
+            "Coconut Oil, RBD"
+        ],
+        "End Uses": [
+            "Popcorn"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Coconut Oil, RBD"
+        ],
+        "Labeling Claims": [
+            "Allergen-free",
+            "Kosher",
+            "GMO-free"
+        ],
+        "Certifications & Compliance": [
+            "SQF Certified",
+            "Kosher",
+            "The Food Allergen Labeling & Consumer Protection Act of 2004 (FALCPA)"
+        ],
+        "Features": [
+            "Refined"
+        ]
+    }
+}

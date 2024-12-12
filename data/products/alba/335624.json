@@ -1,0 +1,60 @@
+{
+    "id": 335624,
+    "brand": "alba",
+    "name": "ALBA 3M",
+    "slug": "alba-3m",
+    "description": "ALBA 3M is a solvent-based, standard non-leafing aluminum paste with a medium fine finesse. It is recommended for general industrial coatings, marine coatings, thermo resistant coatings, and paper coatings, and it is also suitable for hammer topcoats.",
+    "company_name": "Alba Aluminiu",
+    "company_slug": "alba-aluminiu",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708523909/production/Brand/24584/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Marine",
+            "Industrial Coatings",
+            "Marine Coatings",
+            "Coated Paper & Paperboard",
+            "Coatings & Finishes",
+            "Transportation",
+            "Paper & Pulp",
+            "Automotive & Transportation"
+        ],
+        "Product Families": [
+            "Inorganic Pigments",
+            "Color Pigments",
+            "Pigments & Colorants"
+        ],
+        "Chemical Family": [
+            "Aluminum Compounds"
+        ],
+        "End Uses": [
+            "Undercoat",
+            "Top Coat",
+            "Solventborne Coating",
+            "Primer"
+        ]
+    },
+    "summary": {
+        "Color": [
+            "Grey"
+        ],
+        "Pigment Type": [
+            "Inorganic Pigments"
+        ],
+        "Chemical Family": [
+            "Aluminum Compounds"
+        ],
+        "End Uses": [
+            "Solventborne Coating",
+            "Top Coat",
+            "Primer",
+            "Undercoat"
+        ],
+        "Particle Size": [
+            "22.0 - 22.0 microns"
+        ],
+        "Synonyms": [
+            "Al"
+        ]
+    }
+}

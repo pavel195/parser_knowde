@@ -1,0 +1,25 @@
+{
+    "id": 333698,
+    "brand": "isothan",
+    "name": "ISOTHAN® NT",
+    "slug": "isothan-nt",
+    "description": "Isothan® NT offers a tailor-made complete solution from a single source when it comes to coloring.",
+    "company_name": "ISL-Chemie",
+    "company_slug": "isl-chemie",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697222646/production/Brand/24579/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608760/production/CategoryImage/576/category_image/AutomotiveTransportation_04.jpg",
+    "properties": {
+        "Applications": [
+            "Primers & Lacquers",
+            "Furniture",
+            "Interior",
+            "Automotive",
+            "Packaging Coatings"
+        ],
+        "Product Families": [
+            "Lacquers",
+            "Paints & Coatings"
+        ]
+    },
+    "summary": {}
+}

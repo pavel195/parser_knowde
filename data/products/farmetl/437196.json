@@ -1,0 +1,58 @@
+{
+    "id": 437196,
+    "brand": "farmetl",
+    "name": "FAR Chemical Vinyl Bromide (593-60-2)",
+    "slug": "far-chemical-vinyl-bromide-593-60-2",
+    "description": null,
+    "company_name": "FAR Chemical, Inc.",
+    "company_slug": "far-chemical",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709127855/production/Company/46012/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1626797274/production/CategoryImage/957/category_image/BaseChemicals_05.jpg",
+    "properties": {
+        "Applications": [
+            "Pharmaceutical Processing",
+            "Chemical Manufacturing",
+            "API Manufacturing",
+            "Pharmaceutical Manufacturing",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Olefins",
+            "Intermediates & Precursors",
+            "Pharmaceutical Actives & Precursors",
+            "Monomers & Oligomers"
+        ],
+        "Chemical Family": [
+            "Olefins",
+            "Vinyl Halides",
+            "Bromides"
+        ],
+        "End Uses": [
+            "Organic Synthesis",
+            "Polymer",
+            "Pharmaceutical Application"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Bromoethylene"
+        ],
+        "CAS Number": [
+            "593-60-2"
+        ],
+        "Functions": [
+            "Monomer",
+            "Intermediate",
+            "Reagent",
+            "API Intermediate"
+        ],
+        "Chemical Family": [
+            "Vinyl Halides",
+            "Olefins",
+            "Bromides"
+        ],
+        "Synonyms": [
+            "1-Bromoethylene, Monobromoethylene"
+        ]
+    }
+}

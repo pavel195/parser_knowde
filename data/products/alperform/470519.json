@@ -1,0 +1,54 @@
+{
+    "id": 470519,
+    "brand": "alperform",
+    "name": "ALTECH® IQ PA6 2030/W100 BK0002",
+    "slug": "altech-pa6-iq-2030-w100-bk0002",
+    "description": "MOCOM Compounds ALTECH® IQ PA6 2030/W100 BK0002 is a Polyamide 6-based industrial quality plastic filled with 30% glass fiber and colored black. It has pre-drying conditions of 80°C in an air circulating dryer for 2-8h, depending on moisture content of 0.12% max. For processing, it has a melt temperature of 240-270°C and a mold temperature of 60-100°C. To ensure optimal performance, it should be protected from light. This material is suitable for use in various market segments.",
+    "company_name": "MOCOM Compounds",
+    "company_slug": "mocom",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1713790206/production/Company/50276/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1713790206/production/Company/50276/card_banner/image",
+    "properties": {
+        "Product Families": [
+            "Polyamides",
+            "Engineering & Specialty Polymers"
+        ],
+        "Chemical Family": [
+            "Polyamides"
+        ],
+        "Polymer Name": [
+            "Polyamide 6 (PA 6)"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyamide 6 (PA 6)"
+        ],
+        "Processing Methods": [
+            "Injection Molding"
+        ],
+        "Fillers Included": [
+            "Glass Fiber"
+        ],
+        "CAS Number": [
+            "67784-80-9"
+        ],
+        "Functions": [
+            "Resin"
+        ],
+        "Chemical Family": [
+            "Polyamides"
+        ],
+        "Flexural Modulus": [
+            "5700.0 - 5700.0 MPa"
+        ],
+        "Labeling Claims": [
+            "PFOA-free",
+            "Azo Dyes-free",
+            "Azo Colorants-free",
+            "PFOS-free",
+            "Conflict minerals-free",
+            "PAH-free"
+        ]
+    }
+}

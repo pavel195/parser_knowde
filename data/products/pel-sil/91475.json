@@ -1,0 +1,66 @@
+{
+    "id": 91475,
+    "brand": "pel-sil",
+    "name": "PEL-SIL™ Q-80-S",
+    "slug": "pel-sil-q-80-s",
+    "description": "PEL-SIL™ Q-80-S is a quaternary organosilicone that is substantive to hair and skin. In hair care formulations, it acts as a conditioning and anti-static agent, improving the combability, gloss, and manageability of hair. In skin care products, PEL-SIL™ Q-80-S performs as an emollient, a slip aid, and imparts a smooth feel. It is recommended for evaluation in shampoos, conditioners, lotions, and liquid soaps. PEL-SIL™ Q-80-S is provided as a 50% active solution in renewably-sourced, sustainable Propanediol.",
+    "company_name": "Ele Corporation",
+    "company_slug": "ele-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708685969/production/Product/91475/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708685969/production/Product/91475/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Color Cosmetics",
+            "Hair Care",
+            "Skin Care",
+            "Bath & Shower",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Sensory Modifiers",
+            "Conditioners & Emollients",
+            "Hair Actives",
+            "Cosmetic Actives",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Quaternium-80"
+        ],
+        "End Uses": [
+            "Body Lotion",
+            "Body Cream",
+            "Hair Color",
+            "Detanglers",
+            "Liquid Soap",
+            "Moisturizers",
+            "Shampoos & Rinses",
+            "Hair Styling Products",
+            "Hair Conditioner"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Quaternium-80"
+        ],
+        "Functions": [
+            "Conditioner",
+            "Slip Agent",
+            "Emollient",
+            "Anti-Static Agent"
+        ],
+        "Labeling Claims": [
+            "Clean at Sephora",
+            "Ulta Beauty's Conscious Beauty"
+        ],
+        "Benefit Claims": [
+            "Split Ends Repair",
+            "Gloss",
+            "Moisturizing",
+            "Hair Conditioning",
+            "Manageability",
+            "Smooth Feel",
+            "Non-Greasy Feel",
+            "Smoothing"
+        ]
+    }
+}

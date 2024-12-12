@@ -1,0 +1,61 @@
+{
+    "id": 317651,
+    "brand": "polyknit",
+    "name": "POLYFORM VEIL MAT PVM/300/V40/120",
+    "slug": "polyform-veil-mat-pvm-300-v40-120",
+    "description": "Polyform Veil Mat PVM/300/V40/120 is a stitch-bonded reinforcement textile consisting of polyester spunlace nonwoven stitched to a layer of chopped strand glass fiber.",
+    "company_name": "Scott & Fyfe",
+    "company_slug": "scott-fyfe",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708689276/production/Product/317651/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608779/production/CategoryImage/578/category_image/AutomotiveTransportation_06.jpg",
+    "properties": {
+        "Applications": [
+            "Sports & Recreation",
+            "Interior Fixtures",
+            "Marine",
+            "Aerospace & Aviation",
+            "Interior",
+            "Exterior & Body",
+            "Automotive",
+            "Transportation",
+            "Building Materials"
+        ],
+        "Product Families": [
+            "Surface Veils",
+            "Glass Fiber",
+            "Reinforcements",
+            "Surface Finishes"
+        ],
+        "Chemical Family": [
+            "Glass Beads & Fibers"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Surface Finish",
+            "Reinforcement"
+        ],
+        "Reinforcement Material": [
+            "Polyester",
+            "Glass Fibers"
+        ],
+        "Reinforcement Form": [
+            "Veil",
+            "Mat",
+            "Chopped Fiber"
+        ],
+        "Compatible Polymers & Resins": [
+            "Polyesters"
+        ],
+        "Processing Methods": [
+            "Pultrusion"
+        ],
+        "Features": [
+            "Excellent Surface Finish",
+            "Good Surface Finish",
+            "Dimensional Stability",
+            "Improved Dimensional Stability",
+            "Easier Processing"
+        ]
+    }
+}

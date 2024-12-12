@@ -1,0 +1,31 @@
+{
+    "id": 329294,
+    "brand": "leebond",
+    "name": "Leebond 37-75",
+    "slug": "leebond-37-75",
+    "description": "LEEBOND 37-75 is a proprietary two-part epoxy adhesive used in both electrical-grade potting and structural adhesive applications. Cured systems demonstrate excellent toughness, impact resistance and exceptional bond strength for hard to bond to substrates. This system can be cured at both room temperature or accelerated with modest heating.",
+    "company_name": "Leepoxy Plastics",
+    "company_slug": "leepoxy-plastics",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691738246/production/Brand/23755/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608982/production/CategoryImage/589/category_image/AdhesivesSealants_06.jpg",
+    "properties": {
+        "Applications": [
+            "Appliances & Electronics",
+            "Other Adhesives & Sealants Applications",
+            "Other Wire & Cable Applications",
+            "Potting Compounds",
+            "Adhesives & Sealants",
+            "Packaging & Assembly",
+            "Wire & Cable"
+        ],
+        "Product Families": [
+            "Encapsulants",
+            "Structural Adhesives",
+            "Adhesives & Sealants"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    },
+    "summary": {}
+}

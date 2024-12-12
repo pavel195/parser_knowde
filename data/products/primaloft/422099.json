@@ -1,0 +1,34 @@
+{
+    "id": 422099,
+    "brand": "primaloft",
+    "name": "PrimaLoft Bio™ Low Melt",
+    "slug": "primaloft-bio-low-melt",
+    "description": "PrimaLoft® Bio™ Low Melt is the first ever biodegradable bi-component (BICO) fibers combine the best qualities of two different polymers to enable innovative new uses.",
+    "company_name": "Fiber Partner",
+    "company_slug": "fiber-partner",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686149335/production/Brand/33177/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Other Automotive Applications",
+            "Leather & Textiles",
+            "Automotive",
+            "Technical Fabrics"
+        ],
+        "Product Families": [
+            "Technical Fibers & Fabrics",
+            "Textile & Leather Chemicals"
+        ],
+        "Chemical Family": [
+            "Polyesters"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Polyesters"
+        ],
+        "Features": [
+            "Low Melting Point"
+        ]
+    }
+}

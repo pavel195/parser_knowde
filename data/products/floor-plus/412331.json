@@ -1,0 +1,27 @@
+{
+    "id": 412331,
+    "brand": "floor-plus",
+    "name": "Floor Plus™",
+    "slug": "floor-plus",
+    "description": "Floor Plus™ is a newly developed floor care product that utilizes the engineering of advanced biotechnology. Floor Plus™ includes a proprietary microbial colony and enzymatic formulation that provides superior cleaning capabilities over traditional floor care product. This technology incorporated in Floor Plus™ penetrates porous floor surfaces to breakdown, degrade, and eliminate grease and other organic materials that accumulate over time.",
+    "company_name": "Geokleen",
+    "company_slug": "geokleen",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691046395/production/Brand/32176/logo/image",
+    "banner_url": "https://static.knowde.com/card-banners/knowde-card-for-raw-materials-8.jpg",
+    "properties": {
+        "Applications": [
+            "Food & Beverage Manufacturing",
+            "Food Facility Cleaning & Sanitization",
+            "Institutional & Catering",
+            "Surface Care",
+            "Processing & Packaging",
+            "Institutional & Industrial Care",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Commercial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {}
+}

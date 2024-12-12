@@ -1,0 +1,53 @@
+{
+    "id": 164428,
+    "brand": "cola",
+    "name": "Cola® Det DEF-40",
+    "slug": "cola-det-def-40",
+    "description": "Cola® Det DEF-40 is an anionic/amido all purpose detergent concentrate that can be easily modified to produce a wide range\r\nof low cost high performance products for industrial and household use. Cola® Det DEF-40 is a biodegradable surfactant\r\nconcentrate that offers maximum cleaning efficiency and excellent physical properties. It is 100% active content, clear and\r\nwith a low solidification point.",
+    "company_name": "Colonial Chemical",
+    "company_slug": "colonial-chemical",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708673078/production/Product/164428/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708673078/production/Product/164428/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Food & Beverage Manufacturing",
+            "Food Facility Cleaning & Sanitization",
+            "Vehicle & Machinery",
+            "Surface Care",
+            "Industrial Cleaning",
+            "Laundry & Fabric Care",
+            "Dish Care",
+            "Auto Care",
+            "Processing & Packaging",
+            "Home Care",
+            "Institutional & Industrial Care"
+        ],
+        "Product Families": [
+            "Anionic Surfactants",
+            "Detergents & Degreasers",
+            "Soaps & Surfactants",
+            "Cleaning Aids"
+        ],
+        "End Uses": [
+            "Metal Cleaners",
+            "Liquid Dishwash",
+            "Dairy Cleaners",
+            "Truck Wash",
+            "Aircraft Cleaners",
+            "Laundry Detergents",
+            "Automobiles"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Surfactant",
+            "Detergent",
+            "Surfactant (Anionic)"
+        ],
+        "Labeling Claims": [
+            "DEA-free",
+            "MEA-free",
+            "Biodegradable"
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "id": 438798,
+    "brand": "superior",
+    "name": "BreadPartners BP Variety Grains (#40048)",
+    "slug": "breadpartners-bp-variety-grains-40048",
+    "description": "BreadPartners BP Variety Grains (#40048) is a 10 - 30% all-purpose grain mix with a blend of 7 grains and seeds, used to make flavorful grain bread, featuring rye, wheat, oat, millet, and flaxseed.",
+    "company_name": "BreadPartners",
+    "company_slug": "bread-partners",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686635394/production/Company/29172/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606996/production/CategoryImage/508/category_image/FoodNutrition_09.jpg",
+    "properties": {
+        "Applications": [
+            "Food",
+            "Bakery"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Flours & Grains Products"
+        ],
+        "End Uses": [
+            "Bread Products",
+            "Bread"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Grains Blend"
+        ],
+        "Labeling Claims": [
+            "Clean Label",
+            "Non-GMO",
+            "Preservative-free",
+            "Vegan",
+            "Kosher"
+        ],
+        "Certifications & Compliance": [
+            "Kosher",
+            "SQF Certified"
+        ],
+        "Features": [
+            "Suitable for Vegans"
+        ]
+    }
+}

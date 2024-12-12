@@ -1,0 +1,46 @@
+{
+    "id": 357845,
+    "brand": "mazpound",
+    "name": "MAZPOUND SCN",
+    "slug": "mazpound-scn",
+    "description": "MAZPOUND SCN is processed by extrusion or injection method for the purpose of general sealing, gasketing and soft profile.",
+    "company_name": "Mazda Plastic Factory",
+    "company_slug": "mazda-plastic-factory",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708530615/production/Brand/26619/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607454/production/CategoryImage/519/category_image/ElectricalElectronics_04.jpg",
+    "properties": {
+        "Applications": [
+            "Other Building Materials",
+            "Equipment & Parts",
+            "Building Materials",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Vinyl Polymers",
+            "Basic Thermoplastics"
+        ],
+        "Chemical Family": [
+            "Vinyls, Vinylics & Vinyl Derivatives"
+        ],
+        "Polymer Name": [
+            "Polyvinyl Chloride (PVC)"
+        ],
+        "End Uses": [
+            "Gaskets",
+            "Profiles"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyvinyl Chloride (PVC)"
+        ],
+        "Processing Methods": [
+            "Injection Molding",
+            "Extrusion"
+        ],
+        "End Uses": [
+            "Gaskets",
+            "Profiles"
+        ]
+    }
+}

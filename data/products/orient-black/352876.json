@@ -1,0 +1,51 @@
+{
+    "id": 352876,
+    "brand": "orient-black",
+    "name": "Orient Black® N219",
+    "slug": "orient-black-n219",
+    "description": "Orient Black® N219 is an Intermediate Super Abrasion Furnace (ISAF) grade, having high surface area and low structure feathers high tensile strength.",
+    "company_name": "Phillips Carbon Black",
+    "company_slug": "phillips-carbon-black",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708686518/production/Brand/26317/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608760/production/CategoryImage/576/category_image/AutomotiveTransportation_04.jpg",
+    "properties": {
+        "Applications": [
+            "Commercial",
+            "Tires",
+            "Equipment & Parts",
+            "Other Industrial Applications",
+            "Automotive",
+            "Transportation",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Fillers & Extenders",
+            "Elastomer Additives"
+        ],
+        "Chemical Family": [
+            "Carbon Blacks"
+        ],
+        "End Uses": [
+            "Tires",
+            "Conveyors"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Reinforcement"
+        ],
+        "Chemical Family": [
+            "Carbon Blacks"
+        ],
+        "Features": [
+            "Tear Resistance",
+            "High Surface Area",
+            "High Tensile Strength",
+            "Good Flex Crack Resistance",
+            "Good Abrasion Resistance"
+        ],
+        "Synonyms": [
+            "Acetylene Black, Furnace Black, Lamp Black, Thermal Black"
+        ]
+    }
+}

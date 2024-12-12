@@ -1,0 +1,24 @@
+{
+    "id": 460172,
+    "brand": "astro-tap",
+    "name": "ASTRO-SOL CF",
+    "slug": "astro-sol-cf",
+    "description": null,
+    "company_name": "Monroe Fluid Technology",
+    "company_slug": "monroe-fluid-technology",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1678773332/production/Company/7535/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1678773332/production/Company/7535/card_banner/image",
+    "properties": {
+        "Product Families": [
+            "Lubricants & Oils",
+            "Metalworking Fluids",
+            "Fluids & Lubricants"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Metalworking Fluids",
+            "Lubricant"
+        ]
+    }
+}

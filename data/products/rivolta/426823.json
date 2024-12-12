@@ -1,0 +1,66 @@
+{
+    "id": 426823,
+    "brand": "rivolta",
+    "name": "Rivolta® B.N.L. 848",
+    "slug": "rivolta-b-n-l-848",
+    "description": "Rivolta® B.N.L. 848 is a low-foaming neutral cleaner. It has very good cleaning performance, for the cleaning of sensitive materials such as aluminum, zinc, corrosion protection and is VOC-free.",
+    "company_name": "Bremer & Leguil",
+    "company_slug": "bremer-leguil",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1673943961/production/Brand/33799/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515625/production/CategoryImage/1053/category_image/HII_05.jpg",
+    "properties": {
+        "Applications": [
+            "Institutional & Industrial Care",
+            "Industrial Cleaning",
+            "Institutional & Catering",
+            "Vehicle & Machinery"
+        ],
+        "Product Families": [
+            "Industrial Cleaners",
+            "Commercial Cleaners",
+            "Cleaners"
+        ],
+        "End Uses": [
+            "Floor",
+            "Equipment",
+            "Ultrasonic Cleaner",
+            "Machine Parts"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner"
+        ],
+        "Certifications & Compliance": [
+            "ISO 21469",
+            "ISO 50001",
+            "ISO 14001",
+            "ISO 9001"
+        ],
+        "Application Areas": [
+            "Machine Parts",
+            "Equipment",
+            "Ultrasonic Cleaner",
+            "Floor"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Plastics",
+            "Iron",
+            "Metal",
+            "Aluminum",
+            "Zinc",
+            "Galvanized Steel",
+            "Steel"
+        ],
+        "Features": [
+            "Non Corrosive",
+            "Degreasing",
+            "Enhanced Yields",
+            "Protects Metal Surfaces",
+            "Effective Soil Removal",
+            "Excellent Performance",
+            "Low Foaming",
+            "Neutral pH"
+        ]
+    }
+}

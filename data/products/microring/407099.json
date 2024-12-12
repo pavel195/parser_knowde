@@ -1,0 +1,42 @@
+{
+    "id": 407099,
+    "brand": "microring",
+    "name": "ExpresSeal® Bronze Filled Teflon® (Brown) - BTFE",
+    "slug": "expresseal-bronze-filled-teflon-brown-btfe",
+    "description": "ExpresSeal® Bronze Filled Teflon® (Brown) - BTFE has better wear, creep resistance and higher thermal conductivity than virgin and glass fiber filled PTFE. Poor chemical resistance in the presence of acids and alkali.",
+    "company_name": "Apple Rubber Products",
+    "company_slug": "apple-rubber-products",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686149897/production/Brand/31402/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608769/production/CategoryImage/577/category_image/AutomotiveTransportation_05.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical & Industrial Manufacturing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Fluoropolymers"
+        ],
+        "Polymer Name": [
+            "Polytetrafluoroethylene (PTFE)"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polytetrafluoroethylene (PTFE)"
+        ],
+        "Physical Form": [
+            "Seals"
+        ],
+        "Features": [
+            "Creep Resistant",
+            "Good Thermal Conductivity",
+            "Wear Resistant"
+        ],
+        "Color": [
+            "Brown"
+        ]
+    }
+}

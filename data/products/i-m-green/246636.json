@@ -1,0 +1,66 @@
+{
+    "id": 246636,
+    "brand": "i-m-green",
+    "name": "Braskem Inspire 6025N",
+    "slug": "inspire-6025n",
+    "description": "Braskem INSPIRE 6025N Polypropylene Homopolymer (HPP) high performance resin is a high crystalline nucleated homopolymer with exceptional stiffness and good optical properties.<p>All Braskem America production facilities are certified to produce bio, bio-circular, and circular polypropylene under the ISCC PLUS certification via the mass balance approach.</p>\n\n<p style=\"text-align:justify\">For more information regarding REACH, please visit Braskem&#39;s <a href=\"https://www.braskem.com/reach-en\">REACH</a> site</p>\n",
+    "company_name": "Braskem America",
+    "company_slug": "braskem-america",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697662786/production/Product/246636/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1603314271/production/Product/246636/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Cosmetic Packaging",
+            "Food & Beverage Packaging",
+            "Non-Food Consumer Packaging",
+            "Other Packaging Materials",
+            "Food Films & Packaging",
+            "Other Automotive Applications",
+            "Automotive",
+            "Flexible Packaging",
+            "Packaging & Accessories",
+            "Packaging"
+        ],
+        "Product Families": [
+            "Polyolefins",
+            "Basic Thermoplastics"
+        ],
+        "Chemical Family": [
+            "Polypropylenes (PP)",
+            "Polyolefins"
+        ],
+        "Polymer Name": [
+            "Polypropylene Homopolymer (HPP)"
+        ],
+        "End Uses": [
+            "Food Packaging",
+            "Closures",
+            "Caps",
+            "Rigid Films",
+            "Thermoforming Applications",
+            "Cosmetic Packaging",
+            "Lids",
+            "Film",
+            "Automotive Applications",
+            "Rigid Packaging"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polypropylene Homopolymer (HPP)"
+        ],
+        "Processing Methods": [
+            "Thermoforming",
+            "Stretch Films Extrusion",
+            "Extrusion",
+            "Compounding",
+            "Film Extrusion"
+        ],
+        "Additives Included": [
+            "Nucleating Agent"
+        ],
+        "Melt Flow Index": [
+            "2.5 - 2.5 g/10 min"
+        ]
+    }
+}

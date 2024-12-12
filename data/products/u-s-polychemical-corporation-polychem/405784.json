@@ -1,0 +1,26 @@
+{
+    "id": 405784,
+    "brand": "u-s-polychemical-corporation-polychem",
+    "name": "POLYCHEM® AcidSafe",
+    "slug": "polychem-acidsafe",
+    "description": "POLYCHEM® AcidSafe is a Low pH Organic Cleaner used to replace traditional mineral and organic acids.",
+    "company_name": "U. S. Polychemical Corporation",
+    "company_slug": "u-s-polychemical-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697223341/production/Brand/31148/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515602/production/CategoryImage/1051/category_image/HII_03.jpg",
+    "properties": {
+        "Applications": [
+            "Institutional & Catering",
+            "Surface Care",
+            "Industrial Cleaning",
+            "Home Care",
+            "Institutional & Industrial Care"
+        ],
+        "Product Families": [
+            "Commercial Cleaners",
+            "Industrial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {}
+}

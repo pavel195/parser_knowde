@@ -1,0 +1,46 @@
+{
+    "id": 410469,
+    "brand": "gacodeck",
+    "name": "GacoFlex® E5320",
+    "slug": "gacoflex-e5320",
+    "description": "GacoFlex® E5320 is a two-component water-based epoxy primer/filler.",
+    "company_name": "Gaco Western",
+    "company_slug": "gaco-western",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520391/production/Brand/31891/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608490/production/CategoryImage/563/category_image/BuildingConstruction_07.jpg",
+    "properties": {
+        "Applications": [
+            "Roofing",
+            "Roof Coatings"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Waterborne Coating",
+            "Primer",
+            "Epoxy Coating",
+            "2K (2 component) Coating"
+        ],
+        "Application Area": [
+            "Roofing Membranes"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Wood",
+            "Concrete"
+        ],
+        "Features": [
+            "Good Adhesion"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    }
+}

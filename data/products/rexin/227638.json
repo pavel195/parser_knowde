@@ -1,0 +1,46 @@
+{
+    "id": 227638,
+    "brand": "rexin",
+    "name": "POLURENE MT 100 LV",
+    "slug": "polurene-mt-100-lv",
+    "description": "POLURENE MT 100 LV is recommended for the formulation of non-yellowing,high solid content and low viscosity coatings with for metal, wood and plastics.\nPOLURENE MT 100 LV is used to prepare formulations with higher solids content, compared to standard HDI biurets and trimers. POLURENE MT 100 LV should not be thinned to below a solids content of 40%.",
+    "company_name": "Sapici Spa",
+    "company_slug": "sapici-spa",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686148679/production/Company/8918/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1686148679/production/Company/8918/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Building & Construction",
+            "Industrial Coatings",
+            "Metal Coatings",
+            "Wood Coatings & Finishes",
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Intermediates",
+            "Monomers & Intermediates"
+        ],
+        "Chemical Family": [
+            "Polyisocyanates",
+            "Aliphatics"
+        ],
+        "End Uses": [
+            "Top Coat",
+            "Enamel"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Aliphatics",
+            "Polyisocyanates"
+        ],
+        "End Uses": [
+            "Top Coat",
+            "Enamel"
+        ],
+        "Compatible Polymers & Resins": [
+            "Acrylics",
+            "Polyesters"
+        ]
+    }
+}

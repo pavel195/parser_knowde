@@ -1,0 +1,31 @@
+{
+    "id": 410647,
+    "brand": "willamette-valley-hops-citra",
+    "name": "WILLAMETTE VALLEY HOPS COMET",
+    "slug": "willamette-valley-hops-comet",
+    "description": "COMET is a variety with relatively high alpha acids content and provides a \"Wild American\" aroma. It was released as a high alpha hop from the USDA hop breeding program in 1975 primarily for production in Washington and Idaho. The variety is susceptible to downy mildew but resistant to verticillium wilt.",
+    "company_name": "WILLAMETTE VALLEY HOPS",
+    "company_slug": "willamette-valley-hops",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686109839/production/Company/54262/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607274/production/CategoryImage/514/category_image/FoodNutrition_14.jpg",
+    "properties": {
+        "Applications": [
+            "Beverage",
+            "Beer Brewing",
+            "Other Non-Alcoholic Beverages"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Plant & Herb Products & Extracts"
+        ],
+        "Flavor Family": [
+            "Fruit Flavors",
+            "Taste Technology"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Hops"
+        ]
+    }
+}

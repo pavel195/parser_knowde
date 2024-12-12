@@ -1,0 +1,45 @@
+{
+    "id": 409875,
+    "brand": "h2o-dustreat",
+    "name": "Essential Industries Lemon Neutral Cleaner",
+    "slug": "essential-industries-lemon-neutral-cleaner",
+    "description": "Lemon Neutral Cleaner is No-rinse cleaner designed for daily mopping or scrubbing of finished floors. It is Excellent for cleaning walls, equipment, wood floors, display cases, furniture, etc.",
+    "company_name": "Essential Industries, Inc.",
+    "company_slug": "essential-industries-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708003410/production/Company/6413/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515602/production/CategoryImage/1051/category_image/HII_03.jpg",
+    "properties": {
+        "Applications": [
+            "Surface Care",
+            "Industrial Cleaning",
+            "Home Care",
+            "Institutional & Industrial Care"
+        ],
+        "Product Families": [
+            "Commercial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Product Type": [
+            "Cleaner",
+            "Detergents"
+        ],
+        "Application Area": [
+            "Furniture",
+            "Floor",
+            "Equipment",
+            "Wall"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Marble",
+            "Wood"
+        ],
+        "Features": [
+            "Neutral pH",
+            "Anti-Slip",
+            "Free Rinsing",
+            "UL Listed"
+        ]
+    }
+}

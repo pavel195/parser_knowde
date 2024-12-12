@@ -1,0 +1,60 @@
+{
+    "id": 395465,
+    "brand": "korad",
+    "name": "Floorlite™ C",
+    "slug": "floorlite-c",
+    "description": "Floorlite™ C are automotive-approved, calendared, TPO sheet products developed and manufactured by Spartech Corporation for use in a wide range of transportation applications. They are our latest, commercial product versions and incorporate 25 years of experience and expertise in the NA automotive flooring markets. They combine a very low specific gravity polymer with mar resistant additives and offer a light-weight opportunity with superior toughness. Floorlite™ D are available in standard or custom colors and in a variety of textures, and sizes.",
+    "company_name": "Spartech",
+    "company_slug": "spartech-llc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686150151/production/Company/6887/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608730/production/CategoryImage/574/category_image/AutomotiveTransportation_02.jpg",
+    "properties": {
+        "Applications": [
+            "Interior",
+            "Marine",
+            "Commercial",
+            "Transportation",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Polyolefins"
+        ],
+        "Polymer Name": [
+            "Thermoplastic Polyolefin (TPO)"
+        ],
+        "End Uses": [
+            "Floor Mats",
+            "Truck Liners",
+            "Bed Liners",
+            "Flooring"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Thermoplastic Polyolefin (TPO)"
+        ],
+        "Physical Form": [
+            "Sheets"
+        ],
+        "Features": [
+            "Mar Resistant",
+            "Excellent Toughness",
+            "Good Scratch Resistance",
+            "Anti-Slip",
+            "Good Light Fastness",
+            "Durable",
+            "Low Specific Gravity",
+            "Chemical Resistant",
+            "Good Stain Resistance",
+            "Flexible",
+            "Light Weight",
+            "Good UV Protection"
+        ],
+        "Density": [
+            "900.0 - 900.0 kg/m³"
+        ]
+    }
+}

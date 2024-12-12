@@ -1,0 +1,38 @@
+{
+    "id": 411604,
+    "brand": "contec",
+    "name": "Contec® NeutraKlean Solution",
+    "slug": "contec-neutraklean-solution",
+    "description": "Contec® NeutraKlean is a non-foaming, gentle detergent designed for cleaning life science cleanrooms. Contec NeutraKlean, with a pH of 6.5 to 8.0 after irradiation, is ideal for performing low-level cleaning after maintenance, as well as removing disinfectant residues and general soil. The use of a surfactant/detergent aids in the release of particles and dirt from a surface, allowing them to be more easily removed.",
+    "company_name": "Contec",
+    "company_slug": "contec",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292416/production/Brand/32070/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515684/production/CategoryImage/1058/category_image/HII_10.jpg",
+    "properties": {
+        "Applications": [
+            "Home Care",
+            "Surface Care"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Commercial Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Detergents",
+            "Cleaner"
+        ],
+        "Application Areas": [
+            "Wall",
+            "Floor",
+            "Hard Surfaces"
+        ],
+        "Features": [
+            "Neutral pH",
+            "Good Surface Care",
+            "Effective Soil Removal",
+            "Low Foaming"
+        ]
+    }
+}

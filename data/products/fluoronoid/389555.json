@@ -1,0 +1,49 @@
+{
+    "id": 389555,
+    "brand": "fluoronoid",
+    "name": "FLUORONOID® FL 106",
+    "slug": "fluoronoid-fl-106",
+    "description": "FLUORONOID® FL 106 is a Bronze and molybdenum disulphide filled PTFE.",
+    "company_name": "Fluorocarbon Company",
+    "company_slug": "fluorocarbon-company",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708518081/production/Brand/29291/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Other Oil, Gas & Mining Applications",
+            "Equipment & Parts",
+            "Chemical & Industrial Manufacturing",
+            "Oil, Gas & Mining"
+        ],
+        "Product Families": [
+            "High Performance Thermoplastics",
+            "Engineering & Specialty Polymers"
+        ],
+        "Chemical Family": [
+            "Fluoropolymers"
+        ],
+        "Polymer Name": [
+            "Polytetrafluoroethylene (PTFE)"
+        ],
+        "End Uses": [
+            "Valves",
+            "Valve Seats",
+            "Tubes",
+            "Seats",
+            "Pipe Seals",
+            "O Rings",
+            "Gaskets",
+            "Bearings",
+            "Bearing Bushes"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polytetrafluoroethylene (PTFE)"
+        ],
+        "Fillers Included": [
+            "Bronze",
+            "Molybdenum Disulfide"
+        ]
+    }
+}

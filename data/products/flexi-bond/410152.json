@@ -1,0 +1,49 @@
+{
+    "id": 410152,
+    "brand": "flexi-bond",
+    "name": "FLEXI-SEAL 510",
+    "slug": "flexi-seal-510",
+    "description": null,
+    "company_name": "Edison Coatings",
+    "company_slug": "edison-coatings",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520049/production/Brand/31827/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608422/production/CategoryImage/558/category_image/BuildingConstruction_02.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Construction Chemicals",
+            "Flooring & Surfaces",
+            "Infrastructure, Roads & Paving",
+            "Roofing",
+            "Fence, Decks & Rails",
+            "Sealants & Caulks",
+            "Building Envelope & Roofing",
+            "Waterproofing & Weatherproofing",
+            "Other Flooring & Surface Applications",
+            "Pavement, Highways, Roads & Bridges"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Caulks & Sealants"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Epoxy Sealant",
+            "Adhesive",
+            "2K (2 component) Sealant",
+            "Solvent free (100% Solids) Sealant"
+        ],
+        "Application Area": [
+            "Bridges",
+            "Floor"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Concrete"
+        ],
+        "Application Method": [
+            "Roller",
+            "Brush"
+        ]
+    }
+}

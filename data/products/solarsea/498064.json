@@ -1,0 +1,89 @@
+{
+    "id": 498064,
+    "brand": "solarsea",
+    "name": "SolarSea® Sport",
+    "slug": "solarsea-sport",
+    "description": "SolarSea® Sport is an innovative electrolyte concentrate designed for sports drinks, bars, gels, and functional foods. Packed with four essential electrolytes—magnesium, potassium, sodium, and chloride. It ensures superior hydration, enhances athletic performance, and supports efficient recovery, all without the inclusion of sugar. This product is free from artificial colors, flavors, and preservatives. Importantly, no ingredients in this product have undergone radiation sterilization or ethylene oxide sterilization.",
+    "company_name": "Mineral Resources International",
+    "company_slug": "mineral-resources-international",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1714167210/production/Company/35216/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1714167210/production/Product/498064/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Sports Nutrition",
+            "Nutraceuticals & Supplements",
+            "Functional Foods",
+            "Sports Drinks",
+            "Energy Drinks",
+            "Beverage",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Minerals",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Functional Beverages",
+            "Sports Drinks",
+            "Sports Nutrition",
+            "Nutritional Bars"
+        ],
+        "Labeling Claims": [
+            "Halal",
+            "Kosher",
+            "Vegetarian",
+            "Vegan",
+            "Herbicide-free",
+            "Pesticide-free",
+            "Preservative-free",
+            "Colorants-free",
+            "Solvent-free",
+            "Not Tested on Animals",
+            "Gluten-free",
+            "Irradiation-free",
+            "Non-GMO",
+            "Ethylene Oxide-free",
+            "GMO-free",
+            "Allergen-free",
+            "Natural",
+            "Additive-free"
+        ]
+    },
+    "summary": {
+        "Mineral Type": [
+            "Magnesium",
+            "Sodium",
+            "Potassium",
+            "Chloride"
+        ],
+        "Functions": [
+            "Electrolyte",
+            "Mineral Source",
+            "Supplement"
+        ],
+        "Labeling Claims": [
+            "Additive-free",
+            "Non-GMO",
+            "Irradiation-free",
+            "Not Tested on Animals",
+            "Halal",
+            "Ethylene Oxide-free",
+            "Allergen-free",
+            "Colorants-free",
+            "Solvent-free",
+            "Kosher",
+            "Vegan",
+            "Vegetarian",
+            "Natural",
+            "Preservative-free",
+            "GMO-free",
+            "Herbicide-free",
+            "Gluten-free",
+            "Pesticide-free"
+        ],
+        "Features": [
+            "Sewage Sludge Free"
+        ]
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "id": 280487,
+    "brand": "kradasol",
+    "name": "KradaSol™",
+    "slug": "kradasol",
+    "description": "KradaSol™ is a VOC-compliant, safe, low toxicity solvent that is an efficient, cost effective alternative to Hexane, Xylene, Cyclohexane, Toluene and Perchloroethylene.",
+    "company_name": "TBF Environmental Technology Inc.",
+    "company_slug": "tbf-environmental-technology-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1693579973/production/Company/20750/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608611/production/CategoryImage/569/category_image/PaintingsCoatings_05.jpg",
+    "properties": {
+        "Applications": [
+            "Textile Manufacturing",
+            "Leather Manufacturing",
+            "Other Building Envelope & Roofing Applications",
+            "Other Leather Applications",
+            "Overprint Varnishes",
+            "Other Adhesives & Sealants Applications",
+            "Leather",
+            "Textiles & Nonwovens",
+            "Packaging Coatings",
+            "Building Envelope & Roofing",
+            "Leather & Textiles"
+        ],
+        "Product Families": [
+            "Other Solvents",
+            "Other Solvents & Specialties",
+            "Solvents & Carriers",
+            "Solvents"
+        ],
+        "End Uses": [
+            "Solventborne Adhesive",
+            "Varnishes",
+            "Solventborne Ink"
+        ]
+    },
+    "summary": {
+        "Purity (Assay)": [
+            "99.5 - 99.5 %"
+        ]
+    }
+}

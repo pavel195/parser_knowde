@@ -1,0 +1,98 @@
+{
+    "id": 273893,
+    "brand": "sulf-n",
+    "name": "AdvanSix Acetone NF Grade",
+    "slug": "advansix-acetone-nf-grade",
+    "description": "AdvanSix High Purity Acetone NF Grade meets or exceeds certification requirements of the National Formulary. It is produced to the highest standards for key industries, including Building &amp; Construction, Agriculture &amp; Feed, Automotive &amp; Transportation, Adhesives &amp; Sealants, Paints &amp; Coatings, Electrical &amp; Electronics, Packaging, Personal Care, and Pharmaceuticals &amp; Healthcare. Offering low impurities, low Benzene, and low water content, AdvanSix High Purity Acetone NF grade can be used as an intermediate in the production of:\n\n \n\nBuilding and Construction\n\nConstruction and repair adhesives, exterior insulation and finishing systems, glazing and window elements, pipe and plumbing cement systems, and roofing sealants and caulks.\n\n \n\nAgriculture &amp; Feed \n\nAgricultural pest control and industrial weed and vegetation control products.\n\n \n\nAutomotive &amp; Transportation\n\nAutomotive aftermarket parts, exterior and body parts, interior parts and lighting, and coatings for aerospace, automotive OEM, marine, rail, mass transit, off-road and commercial vehicle applications.\n\n \n\nElectrical &amp; Electronics\n\nDevices and assemblies for automotive and consumer electronics, packaging and assembly adhesives and sealants, printed circuit boards, and other semiconductor manufacturing applications.\n\n \n\nHealthcare &amp; Pharma\n\nOral and dental drug delivery solutions, tubing and fluid handling equipment, excipients, coatings and processing aids and nail care applications.\n\n \n\nPaints &amp; Coatings\n\nArchitectural coatings, decorative paints, wood coatings and finishes, flooring and surface coatings, infrastructure coatings and markings, and packaging coatings for film and foil, overprint varnishes, primers and lacquers, and other aerosol coating applications.",
+    "company_name": "AdvanSix",
+    "company_slug": "advansix",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697438354/production/Company/4618/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1611137956/production/Product/273893/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Other Building & Construction Applications",
+            "Chemical Manufacturing",
+            "Resin Manufacturing",
+            "Decorative Paints, Coatings & Stains",
+            "Other Packaging Coatings",
+            "Semiconductor Manufacturing",
+            "API Manufacturing",
+            "Excipients & Coatings",
+            "Other Pharmaceutical Manufacturing Applications",
+            "Pharmaceutical Processing",
+            "Decorative Paints",
+            "Film & Foil Coatings",
+            "Floor Coatings",
+            "Industrial Coatings",
+            "Infrastructure, Roads & Paving",
+            "Metal Coatings",
+            "Oral",
+            "Primers & Lacquers",
+            "Printed Circuit Boards (PCBs)",
+            "Wood Coatings & Finishes",
+            "Dental",
+            "Coatings & Markings",
+            "Building & Construction",
+            "Building Materials",
+            "Flooring & Surfaces",
+            "Parts & Components",
+            "Drug Delivery & Care Solutions",
+            "Medical",
+            "Pharmaceutical Manufacturing",
+            "Chemical & Industrial Manufacturing",
+            "Packaging Coatings",
+            "Decorative Materials & Finishes"
+        ],
+        "Product Families": [
+            "Solvents",
+            "Ketones",
+            "Aldehydes & Ketones",
+            "Solvents & Carriers",
+            "Intermediates",
+            "Processing, Purification & Testing Solutions"
+        ],
+        "Chemical Family": [
+            "Ketones"
+        ],
+        "End Uses": [
+            "Acetate Tow",
+            "Herbicide",
+            "Pesticide",
+            "Fungicide",
+            "Amine Derivatives",
+            "Polycarbonate Resins",
+            "Epoxy Resins",
+            "Acrylic Resins",
+            "Agrochemicals"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Acetone"
+        ],
+        "Functions": [
+            "Solvent",
+            "Intermediate"
+        ],
+        "CAS Number": [
+            "67-64-1"
+        ],
+        "Chemical Family": [
+            "Ketones"
+        ],
+        "Grade": [
+            "Pharma Grade"
+        ],
+        "Labeling Claims": [
+            "Low Water Content",
+            "Low Toxicity",
+            "Benzene-free",
+            "Kosher",
+            "VOC Exempt",
+            "High Purity"
+        ],
+        "Synonyms": [
+            "2-Propanone, beta-Ketopropane, Dimethylketone, Ketone Propane, Methyl Ketone, Propan-2-one, Propane-2-one, Propanone"
+        ]
+    }
+}

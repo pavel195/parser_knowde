@@ -1,0 +1,36 @@
+{
+    "id": 268379,
+    "brand": "eraspray",
+    "name": "ERAPOL CC5-65",
+    "slug": "erapol-cc5-65",
+    "description": "Erapol CC5-65 is a premium grade polyether (PTMEG) based cold castable polyurethane elastomer. The product is free from MOCA (methylene bis-ortho chloroaniline) and flammable solvents, which produces an elastomer with outstanding toughness, high elongation and abrasion resistance. It offers advantages in that it can be readily processed and cured at room or elevated temperatures. The convenient mix ratio and low viscosity allow for easy processing.",
+    "company_name": "Era Polymers",
+    "company_slug": "era-polymers",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1693580083/production/Company/20716/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Tooling & Moldmaking",
+            "Other Building Materials",
+            "Aftermarket Parts & Components",
+            "Chassis & Brake",
+            "Automotive",
+            "Building Materials",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Polyurethane Rubbers",
+            "Specialty Elastomers"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ],
+        "Polymer Name": [
+            "Polyurethane Thermoset Elastomer (Polyether-based)"
+        ],
+        "End Uses": [
+            "Shock Absorbing Pads"
+        ]
+    },
+    "summary": {}
+}

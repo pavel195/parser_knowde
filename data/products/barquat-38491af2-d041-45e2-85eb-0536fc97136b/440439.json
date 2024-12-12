@@ -1,0 +1,51 @@
+{
+    "id": 440439,
+    "brand": "barquat-38491af2-d041-45e2-85eb-0536fc97136b",
+    "name": "Mosselman Betaine KBC (66455-29-6)",
+    "slug": "mosselman-betaine-kbc-66455-29-6",
+    "description": "Mosselman Betaine KBC (66455-29-6) is an amphoteric surfactant which is used in the cosmetic industry. It is very frequently used in shampoos, shower products and bath foam.",
+    "company_name": "Mosselman",
+    "company_slug": "mosselman",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708684034/production/Company/29309/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607998/production/CategoryImage/538/category_image/HomePersonalCare_04.jpg",
+    "properties": {
+        "Applications": [
+            "Bath & Shower",
+            "Hair Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Rheology Modifiers",
+            "Amphoteric Surfactants",
+            "Functionals",
+            "Surfactants & Cleansers",
+            "Soaps & Surfactants",
+            "Functional Additives"
+        ],
+        "INCI Name": [
+            "Coco-Betaine"
+        ],
+        "End Uses": [
+            "Shampoos & Rinses",
+            "Bubble Bath",
+            "Shower Gels"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Coco-Betaine"
+        ],
+        "CAS Number": [
+            "68424-94-2"
+        ],
+        "Functions": [
+            "Thickener",
+            "Surfactant",
+            "Viscosity Modifier",
+            "Surfactant (Amphoteric)"
+        ],
+        "Benefit Claims": [
+            "Compatibility"
+        ]
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "id": 406953,
+    "brand": "duramet",
+    "name": "ENVIROMET® PLA",
+    "slug": "enviromet-pla",
+    "description": "ENVIROMET® PLA is a metallized bi-axially oriented PLA film, made from renewable resources.It has good handling and barrier properties for use in many packaging applications including printing and lamination.",
+    "company_name": "Celplast Metallized Products Limited",
+    "company_slug": "celplast-metallized-products-limited",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686150163/production/Brand/31377/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609091/production/CategoryImage/594/category_image/PrintingPackaging_05.jpg",
+    "properties": {
+        "Applications": [
+            "Packaging",
+            "Food & Beverage Packaging"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Polyesters",
+            "Polylactic Acid (PLA)"
+        ],
+        "Polymer Name": [
+            "Polylactic Acid (PLA)"
+        ],
+        "End Uses": [
+            "Film"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polylactic Acid (PLA)"
+        ],
+        "Features": [
+            "Sunlight Resistant",
+            "Renewable Resource Content",
+            "Excellent Brightness",
+            "Heat Sealable"
+        ]
+    }
+}

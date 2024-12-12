@@ -1,0 +1,40 @@
+{
+    "id": 411887,
+    "brand": "efdedur",
+    "name": "EFDEDUR -UHS Primer UR1937H",
+    "slug": "efdedur-uhs-primer-ur1937h",
+    "description": "EFDEDUR-UHS Primer UR1937H has Ultra-High-Solid Primer with Solvent, Good adhesion on different undergrounds, High sagging limit, Good corrosion protection, For industrial goods and all types of construction machines.",
+    "company_name": "FreiLacke",
+    "company_slug": "freilacke",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292421/production/Brand/32127/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608640/production/CategoryImage/572/category_image/PaintingsCoatings_08.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial Coatings"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Primer"
+        ],
+        "Application Areas": [
+            "Machine Parts"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Iron",
+            "Aluminum",
+            "Metal",
+            "Steel"
+        ],
+        "Features": [
+            "High Solids Content",
+            "Good Adhesion",
+            "Corrosion Resistant",
+            "Good Sagging Resistance"
+        ]
+    }
+}

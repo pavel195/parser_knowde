@@ -1,0 +1,76 @@
+{
+    "id": 390293,
+    "brand": "vegalan",
+    "name": "Henry Lamotte Oils GmbH Chlorella",
+    "slug": "henry-lamotte-oils-gmbh-chlorella",
+    "description": "Chlorella (Chlorella sp.) is a spherical green alga that mainly thrives in freshwater. It is found in bodies of water all over the world and is well suited for commercial cultivation. Chlorella is primarily obtained from controlled aquaculture.",
+    "company_name": "Henry Lamotte Oils GmbH",
+    "company_slug": "henry-lamotte-oils-gmbh",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708690015/production/Company/1251/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708690015/production/Product/390293/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Bath & Shower",
+            "Color Cosmetics",
+            "Hair Care",
+            "Skin Care",
+            "Aquaculture",
+            "Pets",
+            "Confectionery",
+            "Powdered Beverages",
+            "Savory & Culinary",
+            "Nutraceuticals & Supplements",
+            "Animal Health & Nutrition",
+            "Beverage",
+            "Food",
+            "Nutrition & Well Being",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Plant Proteins",
+            "Amino Acids & Proteins",
+            "Marine Extracts",
+            "Algae & Extracts",
+            "Vitamins, Extracts & Oils",
+            "Nutrition & Fortification",
+            "Whole Foods, Extracts & Premixes",
+            "Nutraceuticals & Supplements",
+            "Nutritional Ingredients"
+        ],
+        "End Uses": [
+            "Anti-Aging Products",
+            "Massage Products",
+            "Hair Tonic",
+            "Hair Conditioner",
+            "Shampoos & Rinses",
+            "Lipstick",
+            "Powdered Beverages",
+            "Fruit Bars",
+            "Pasta",
+            "Dietary Supplements"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Chlorella"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Marine Origin",
+            "Plant Origin"
+        ],
+        "Functions": [
+            "Protein Source"
+        ],
+        "Labeling Claims": [
+            "Sustainable",
+            "Vegan",
+            "Naturally Derived",
+            "Natural",
+            "Organic",
+            "Plant-Based"
+        ]
+    }
+}

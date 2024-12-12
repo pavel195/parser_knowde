@@ -1,0 +1,45 @@
+{
+    "id": 411993,
+    "brand": "oil-stop",
+    "name": "Chem-Screen® Topcoat (Clear)",
+    "slug": "chem-screen-topcoat-clear",
+    "description": "Chem-Screen® Topcoat (Clear) is a two-component 97% solids novolac clear coating that can be used either as a coating or filled with paint chips, marble chips, and colored sand mixtures to provide an array of colors and patterns. It is recommended for chemical spill areas, troughs, curbs and tanks. This product has exceptional chemical resistance and good color clarity.",
+    "company_name": "Garland Floor",
+    "company_slug": "garland-floor",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1672225450/production/Brand/32136/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608454/production/CategoryImage/560/category_image/BuildingConstruction_04.jpg",
+    "properties": {
+        "Applications": [
+            "Coatings & Finishes",
+            "Other Coatings & Finishes"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Top Coats"
+        ],
+        "End Uses": [
+            "Troughs",
+            "Tanks"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Top Coat",
+            "2K (2 component) Coating"
+        ],
+        "Application Areas": [
+            "Tanks",
+            "Troughs"
+        ],
+        "Features": [
+            "Durable",
+            "Chemical Resistant",
+            "Abrasion Resistant"
+        ],
+        "Application Method": [
+            "Spray",
+            "Roller",
+            "Brush"
+        ]
+    }
+}

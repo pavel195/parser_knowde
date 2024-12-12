@@ -1,0 +1,48 @@
+{
+    "id": 351489,
+    "brand": "opuncherry",
+    "name": "OpunCherry®",
+    "slug": "opuncherry",
+    "description": "OpunCherry® is a potential metabolic regulator with high diuretic and antioxidant capacity. In OpunCherry®, cherry stems are combined with opuntia, rich in dietary soluble fiber with hypoglycemic and hypolipidemic actions.",
+    "company_name": "Nating Italia Srl",
+    "company_slug": "nating-italia-srl",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708689667/production/Brand/26233/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606934/production/CategoryImage/504/category_image/FoodNutrition_05.jpg",
+    "properties": {
+        "Applications": [
+            "Other Food Applications",
+            "Nutraceuticals & Supplements",
+            "Food",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Dietary Fiber",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Nutraceuticals"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Cherry"
+        ],
+        "Functions": [
+            "Fiber Source",
+            "Fiber Source",
+            "Supplement",
+            "Dietary Supplement"
+        ],
+        "Labeling Claims": [
+            "Gluten-free"
+        ],
+        "Features": [
+            "Anti-Diabetic Effect",
+            "Antioxidant Properties",
+            "Diuretic",
+            "Fat Reduction",
+            "Anti-Inflammatory"
+        ]
+    }
+}

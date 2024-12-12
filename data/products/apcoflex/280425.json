@@ -1,0 +1,31 @@
+{
+    "id": 280425,
+    "brand": "apcoflex",
+    "name": "Apcoflex NVC155E",
+    "slug": "apcoflex-nvc155e",
+    "description": "Apcoflex® NVC155E* is a blend of Apcoflex NBR, PVC and Plasticiser in the ratio of 50:50:10. It contains non-staining stabilizer and comes in Sheet form.",
+    "company_name": "Apcotex Industries Limited",
+    "company_slug": "apcotex-industries-limited",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1693579587/production/Company/12182/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Exterior & Body",
+            "Other Industrial Applications",
+            "Other Automotive Applications",
+            "Automotive",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Parts & Shapes"
+        ],
+        "Chemical Family": [
+            "Nitrile Rubbers",
+            "Vinyls, Vinylics & Vinyl Derivatives"
+        ],
+        "Polymer Name": [
+            "NBR/PVC"
+        ]
+    },
+    "summary": {}
+}

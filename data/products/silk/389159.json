@@ -1,0 +1,44 @@
+{
+    "id": 389159,
+    "brand": "silk",
+    "name": "Butterpowder™ SSB",
+    "slug": "butterpowder-ssb",
+    "description": "Butterpowder™ SSB is a Rice starch coated with shea butter. Talc substitute. Great for loose powders with low color interference.",
+    "company_name": "Blue Sun International",
+    "company_slug": "blue-sun-international",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672119/production/Company/1165/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708672119/production/Company/1165/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Hair Care",
+            "Skin Care",
+            "Color Cosmetics",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Fats, Butters & Waxes",
+            "Texturizers & Fillers",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Butyrospermum Parkii (Shea) Butter",
+            "Distarch Phosphate"
+        ],
+        "End Uses": [
+            "Face Powder"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Butyrospermum Parkii (Shea) Butter",
+            "Distarch Phosphate"
+        ],
+        "Functions": [
+            "Filler"
+        ],
+        "Labeling Claims": [
+            "Credo Clean Standard",
+            "Clean at Sephora"
+        ]
+    }
+}

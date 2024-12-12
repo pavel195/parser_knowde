@@ -1,0 +1,36 @@
+{
+    "id": 418952,
+    "brand": "algafluid",
+    "name": "Solufert® 22.10.10 + 2 MgO",
+    "slug": "solufert-22-10-10-2-mgo",
+    "description": "Solufert® 22.10.10 + 2 MgO are water-soluble fertilizers for fertigation containing readily available nitrogen, phosphorus, potassium and magnesium.",
+    "company_name": "PAVONI & C SPA",
+    "company_slug": "pavoni-c-spa",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708691739/production/Brand/32840/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608173/production/CategoryImage/547/category_image/AgricultureFeed_03.jpg",
+    "properties": {
+        "Applications": [
+            "Ornamentals",
+            "Vegetables",
+            "Trees & Woodlands",
+            "Fruits",
+            "Agricultural Crops",
+            "Turf, Ornamentals & Landscape"
+        ],
+        "Product Families": [
+            "Fertilizers & Nutrients",
+            "Plant Health, Nutrients & Soil Management"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Fertilizer"
+        ],
+        "Application Technique": [
+            "Chemigation"
+        ],
+        "Labeling Claims": [
+            "Chlorine-free"
+        ]
+    }
+}

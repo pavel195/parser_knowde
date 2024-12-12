@@ -1,0 +1,31 @@
+{
+    "id": 374594,
+    "brand": "fs-talent",
+    "name": "FS Talyx™",
+    "slug": "fs-talyx",
+    "description": "FS Talyx is a unique, nonionic activator adjuvant specifically formulated to enhance the performance of a wide range of both systemic and contact fungicides and related tank mixes. FS Talyx improves fungicide droplet spreading and coverage, resulting in healthier plants and improved yields.",
+    "company_name": "Insight FS",
+    "company_slug": "insight-fs",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708683786/production/Brand/28030/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608161/production/CategoryImage/546/category_image/AgricultureFeed_02.jpg",
+    "properties": {
+        "Applications": [
+            "Cereals",
+            "Fodder & Forage",
+            "Sugar & Starch Crops",
+            "Vegetables",
+            "Oilseeds",
+            "Agricultural Crops"
+        ],
+        "Product Families": [
+            "Stickers, Surfactants & Wetting Agents",
+            "Adjuvants & Formulation Ingredients"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Surfactant (Nonionic)",
+            "Surfactant"
+        ]
+    }
+}

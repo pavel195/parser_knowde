@@ -1,0 +1,44 @@
+{
+    "id": 113098,
+    "brand": "fastogen",
+    "name": "DIC.PPS® FZ-2140-D9",
+    "slug": "dic-pps-fz-2140-d9",
+    "description": "Outline: FZ-2140-D9 is a 40% glass fiber reinforced linear polyphenylene sulfide compound with reduced flash and improved flowability for connector use. Color: Black and Natural (Off-white)",
+    "company_name": "DIC Corporation",
+    "company_slug": "dic-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708527337/production/Company/2768/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708527337/production/Company/2768/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Connectors",
+            "Parts & Components"
+        ],
+        "Product Families": [
+            "High Performance Thermoplastics",
+            "Engineering & Specialty Polymers"
+        ],
+        "Chemical Family": [
+            "Polyphenylene Sulfide (PPS)"
+        ],
+        "Polymer Name": [
+            "Polyphenylene Sulfide (PPS)"
+        ],
+        "End Uses": [
+            "Connectors"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyphenylene Sulfide (PPS)"
+        ],
+        "Processing Methods": [
+            "Injection Molding"
+        ],
+        "Fillers Included": [
+            "Glass Fiber"
+        ],
+        "Additives Included": [
+            "Flame Retardant"
+        ]
+    }
+}

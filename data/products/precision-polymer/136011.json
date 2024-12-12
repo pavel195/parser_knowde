@@ -1,0 +1,60 @@
+{
+    "id": 136011,
+    "brand": "precision-polymer",
+    "name": "Perlast® G80A",
+    "slug": "perlast-g80a",
+    "description": "Perlast® G80A uses a unique molecular cross-linking technology to offer the broadest range of chemical resistance of any FFKM with the ability to operate up to a maximum temperature of 260°C (500°F).An extremely versatile material, Perlast® G80A is suitable for 90% of sealing applications encountered in the chemical processing and refining industries, providing excellent resistance to highly aggressive acids, amines, chlorine and solvent-based chemistries.\r\n",
+    "company_name": "Precision Polymer Engineering",
+    "company_slug": "precision-polymer-engineering",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1703115631/production/Company/2831/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1703115631/production/Company/2831/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Equipment & Parts",
+            "Pipes & Hoses",
+            "Cooling & Climate",
+            "Fuel Systems",
+            "Appliances & Electronics",
+            "Pumps, Turbines & Compressors",
+            "Other Parts & Components",
+            "Structural Components",
+            "Other Industrial Applications",
+            "Other Automotive Applications",
+            "Pipes & Plumbing",
+            "Agricultural Films",
+            "Automotive",
+            "Building Materials",
+            "Parts & Components",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Fluoroelastomers",
+            "Specialty Elastomers"
+        ],
+        "Chemical Family": [
+            "Fluoropolymers"
+        ],
+        "Polymer Name": [
+            "Perfluoroelastomer (FFKM)"
+        ],
+        "End Uses": [
+            "Tanks",
+            "Pumps",
+            "Valve Parts",
+            "Valves",
+            "Pump Parts",
+            "Machine/Mechanical Parts",
+            "Fittings"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Perfluoroelastomer (FFKM)"
+        ],
+        "Features": [
+            "Solvent Resistant",
+            "Chemical Resistant",
+            "Acid Resistant"
+        ]
+    }
+}

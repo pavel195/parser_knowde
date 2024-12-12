@@ -1,0 +1,50 @@
+{
+    "id": 302462,
+    "brand": "colourfal-zero",
+    "name": "Black Oxide 900-020",
+    "slug": "colourfal-zero-900-020",
+    "description": "ColourFal Zerø® 900-020 are universal colorants are designed for use in retail stores or point of sale (POS) machine tinting systems and volumetric in-plant tinting.",
+    "company_name": "Lorama Group",
+    "company_slug": "lorama-group",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708523844/production/Brand/20730/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708523844/production/Product/302462/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Decorative Paints, Coatings & Stains",
+            "Architectural Coatings",
+            "Decorative Paints",
+            "Building Envelope",
+            "Building Materials",
+            "Building & Construction",
+            "Building Envelope & Roofing",
+            "Decorative Materials & Finishes"
+        ],
+        "Product Families": [
+            "Color Pigments",
+            "Pigments & Colorants"
+        ],
+        "End Uses": [
+            "Latex",
+            "Waterborne Coating",
+            "Solventborne Coating"
+        ]
+    },
+    "summary": {
+        "Color": [
+            "Black"
+        ],
+        "End Uses": [
+            "Waterborne Coating",
+            "Latex",
+            "Solventborne Coating"
+        ],
+        "Compatible Polymers & Resins": [
+            "Alkyds",
+            "Alkyds (Modified)",
+            "Styrene Acrylics",
+            "Vinyl Acrylics",
+            "Acrylics",
+            "Polyvinyl Acetate (PVA)"
+        ]
+    }
+}

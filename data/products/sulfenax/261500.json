@@ -1,0 +1,47 @@
+{
+    "id": 261500,
+    "brand": "sulfenax",
+    "name": "Sulfenax® CBS",
+    "slug": "sulfenax-cbs",
+    "description": "Sulfenax® CBS is a primary fast sulfonamide accelerator of rubbers and polymers vulcanization. Product of creamy color, indistinctive smell, non-hygroscopic.",
+    "company_name": "Duslo",
+    "company_slug": "duslo",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708691652/production/Company/20592/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608769/production/CategoryImage/577/category_image/AutomotiveTransportation_05.jpg",
+    "properties": {
+        "Applications": [
+            "Equipment & Parts",
+            "Other Industrial Applications",
+            "Pipes & Hoses",
+            "Belts & Conveyers",
+            "Tires",
+            "Agricultural Films",
+            "Automotive",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Catalysts, Initiators & Crosslinkers",
+            "Elastomer Additives"
+        ],
+        "Chemical Family": [
+            "Amides"
+        ],
+        "End Uses": [
+            "Belts/Belt Repair",
+            "Conveyors",
+            "Tires"
+        ]
+    },
+    "summary": {
+        "Compatible Polymers & Resins": [
+            "Natural Rubbers (NR)",
+            "Isoprene Rubber (IR)",
+            "Styrene Butadiene Rubber (SBR)",
+            "Polybutadienes",
+            "Polyacrylonitrile (PAN)"
+        ],
+        "Functions": [
+            "Accelerator"
+        ]
+    }
+}

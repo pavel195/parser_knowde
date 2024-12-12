@@ -1,0 +1,75 @@
+{
+    "id": 473811,
+    "brand": "namino",
+    "name": "Daesang America, Inc. Goldrella",
+    "slug": "daesang-america-inc-goldrella",
+    "description": "GoldRella is a golden-colored microalgae originated from the strain, protothecoides. It is an excellent solution for plant-based meat, seafood, egg, and cheese. It gives naturally contained Umami, and saltness, improves textures, masks beany notes, and provides micronutrients such as vitamins and minerals. Also, it is a “superfood” containing more than 50% vegan protein, carbohydrate, fat, vitamins, minerals, beta-glucan, and chlorella growth factor.Please find more information on https://ingredient.daesang.com/s/?language=en_USClick here to view our Goldrella Introduction Video",
+    "company_name": "Daesang America, Inc.",
+    "company_slug": "daesang-america",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708112789/production/Company/46517/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606914/production/CategoryImage/502/category_image/FoodNutrition_03.jpg",
+    "properties": {
+        "Applications": [
+            "Powdered Beverages",
+            "Savory & Culinary",
+            "Cereals & Snacks",
+            "Nutraceuticals & Supplements",
+            "Dairy",
+            "Bakery",
+            "Meat Substitutes",
+            "Beverage",
+            "Food",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Proteins & Amino Acids",
+            "Algae & Extracts",
+            "Nutrition & Fortification",
+            "Whole Foods, Extracts & Premixes",
+            "Nutraceuticals & Supplements"
+        ],
+        "Ingredient Name": [
+            "Chlorella protothecoides"
+        ],
+        "End Uses": [
+            "Powdered Beverages",
+            "Dietary Supplements",
+            "Dressings",
+            "Sauces",
+            "Cereal Bars",
+            "Snacks",
+            "Meat Substitutes"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Chlorella protothecoides"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Marine Origin",
+            "Plant Origin"
+        ],
+        "Labeling Claims": [
+            "Gluten-free",
+            "Not Listed In California Proposition 65",
+            "Non-GMO",
+            "Kosher",
+            "Vegan",
+            "Halal"
+        ],
+        "Protein Content": [
+            "55.0 - 55.0 %"
+        ],
+        "Certifications & Compliance": [
+            "ISO 9001",
+            "FSSC 22000",
+            "Kosher",
+            "Halal",
+            "California Proposition 65"
+        ],
+        "Physical Form": [
+            "Powder"
+        ]
+    }
+}

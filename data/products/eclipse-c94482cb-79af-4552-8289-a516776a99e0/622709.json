@@ -1,0 +1,28 @@
+{
+    "id": 622709,
+    "brand": "eclipse-c94482cb-79af-4552-8289-a516776a99e0",
+    "name": "Corn Steep Liquor",
+    "slug": "corn-steep-liquor",
+    "description": null,
+    "company_name": "Primient",
+    "company_slug": "primient",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1729086403/production/Company/50022/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,c_crop,x_0,y_339,w_2500,h_781/v1732202908/production/MyLibraryImage/67/card/image",
+    "properties": {
+        "Product Families": [
+            "Whole Foods & Extracts",
+            "Formulated Feeds, Whole Foods and Extracts"
+        ],
+        "Ingredient Name": [
+            "Corn Steep Liquor"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Corn Steep Liquor"
+        ],
+        "Functions": [
+            "Whole Food Ingredient"
+        ]
+    }
+}

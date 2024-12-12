@@ -1,0 +1,39 @@
+{
+    "id": 351801,
+    "brand": "borazon",
+    "name": "Borazon® BMP-400N Superabrasive",
+    "slug": "borazon-bmp-400n-superabrasive",
+    "description": "Hyperion's BMP-400N is a thermally stable, monocrystalline CBN micron product with 60 wt % nickel coating suited for various applications.",
+    "company_name": "Hyperion Materials & Technologies",
+    "company_slug": "hyperion-materials-technologies",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704107089/production/Brand/26265/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Metal Manufacturing & Finishing",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Inorganics",
+            "Technical Salts & Inorganics"
+        ],
+        "Chemical Family": [
+            "Boron-based Compounds"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Boron Nitride"
+        ],
+        "CAS Number": [
+            "10043-11-5"
+        ],
+        "Features": [
+            "Thermal Stability",
+            "High Thermal Conductivity"
+        ],
+        "Synonyms": [
+            "Elbor"
+        ]
+    }
+}

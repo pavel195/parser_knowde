@@ -1,0 +1,62 @@
+{
+    "id": 405502,
+    "brand": "silfermin",
+    "name": "20 Microns Coated Calcium Carbonate 2 T",
+    "slug": "20-microns-coated-calcium-carbonate-2-t",
+    "description": null,
+    "company_name": "20 Microns",
+    "company_slug": "20-microns",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708686426/production/Company/27477/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1637776875/production/CategoryImage/1484/category_image/OilGasMiningChemicals_ProductBanner_03.jpg",
+    "properties": {
+        "Applications": [
+            "Tires",
+            "Aftermarket Parts & Components",
+            "Pipes & Hoses",
+            "Agricultural Films",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Fillers & Extenders",
+            "Polymer Additives",
+            "Elastomer Additives"
+        ],
+        "Chemical Family": [
+            "Calcium Salts",
+            "Carbonates",
+            "Calcium & Calcium Compounds"
+        ],
+        "End Uses": [
+            "Tubes",
+            "Tires",
+            "Hoses",
+            "Belts/Belt Repair",
+            "Automotive Components"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Carbonates",
+            "Calcium & Calcium Compounds",
+            "Calcium Salts"
+        ],
+        "Functions": [
+            "Filler"
+        ],
+        "Features": [
+            "Excellent Mechanical Strength",
+            "Good Processability",
+            "Good Dispersion"
+        ],
+        "End Uses": [
+            "Hoses",
+            "Belts/Belt Repair",
+            "Tubes",
+            "Tires",
+            "Automotive Components"
+        ],
+        "Synonyms": [
+            "CaCO3"
+        ]
+    }
+}

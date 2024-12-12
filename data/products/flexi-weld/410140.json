@@ -1,0 +1,50 @@
+{
+    "id": 410140,
+    "brand": "flexi-weld",
+    "name": "FLEXI-BOND 540",
+    "slug": "flexi-bond-540",
+    "description": null,
+    "company_name": "Edison Coatings",
+    "company_slug": "edison-coatings",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520413/production/Brand/31818/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608422/production/CategoryImage/558/category_image/BuildingConstruction_02.jpg",
+    "properties": {
+        "Applications": [
+            "Building & Construction",
+            "Packaging Coatings",
+            "Primers & Lacquers",
+            "Building Envelope & Roofing",
+            "Shingles & Tiles",
+            "Wood Coatings & Finishes",
+            "Concrete Coatings & Stains"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Primer",
+            "Solventless & High Solids Coating",
+            "2K (2 component) Coating",
+            "Epoxy Coating"
+        ],
+        "Application Area": [
+            "Ceramic Tiles"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Steel",
+            "Fiberglass",
+            "Wood",
+            "Concrete"
+        ],
+        "Features": [
+            "Excellent Substrate Adhesion",
+            "Good Bonding Strength",
+            "Odorless",
+            "High Solids Content"
+        ]
+    }
+}

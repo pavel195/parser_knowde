@@ -1,0 +1,50 @@
+{
+    "id": 243667,
+    "brand": "primetime-flavor-sampling-kits",
+    "name": "PRIMETIME Nat Elderflower Flavor WONF (BD-10625)",
+    "slug": "primetime-nat-elderflower-flavor-wonf-bd-10625",
+    "description": "\nSensory Profile:\nFlavoured Alcoholic Beverages: Elderflower, floral, honey like, hay like",
+    "company_name": "Givaudan",
+    "company_slug": "givaudan",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1723097173/production/Brand/15807/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1723097173/production/Product/243667/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Other Food Applications",
+            "Liquor & Spirits",
+            "Other Non-Alcoholic Beverages",
+            "Beverage",
+            "Food"
+        ],
+        "Product Families": [
+            "Flavor Ingredients",
+            "Taste & Flavor"
+        ],
+        "Flavor Family": [
+            "Herb Flavors"
+        ],
+        "End Uses": [
+            "Alcoholic Beverages"
+        ]
+    },
+    "summary": {
+        "Physical Form": [
+            "Liquid"
+        ],
+        "Soluble In": [
+            "Water Soluble"
+        ],
+        "Certifications & Compliance": [
+            "FDA 21 CFR 101.9",
+            "FDA 21 CFR Regulations",
+            "TTB Approved",
+            "Kosher"
+        ],
+        "Labeling Claims": [
+            "Natural",
+            "Allergen-free",
+            "Gluten-free",
+            "Vegan"
+        ]
+    }
+}

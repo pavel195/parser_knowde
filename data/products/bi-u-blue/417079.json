@@ -1,0 +1,37 @@
+{
+    "id": 417079,
+    "brand": "bi-u-blue",
+    "name": "Cajun Kleen Products Tire Cleaner",
+    "slug": "cajun-kleen-products-tire-cleaner",
+    "description": "Tire Cleaner is formulated to quickly cut through road grime and brake dust to make wheels and whitewalls look new.",
+    "company_name": "Cajun Kleen Products",
+    "company_slug": "cajun-kleen-products",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292588/production/Company/55966/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515625/production/CategoryImage/1053/category_image/HII_05.jpg",
+    "properties": {
+        "Applications": [
+            "Home Care",
+            "Institutional & Industrial Care",
+            "Auto Care",
+            "Vehicle & Machinery"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Industrial Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner"
+        ],
+        "Application Areas": [
+            "White Wall Tire",
+            "Wheel"
+        ],
+        "Features": [
+            "Grime Cleaning",
+            "Fast Acting",
+            "Water-based"
+        ]
+    }
+}

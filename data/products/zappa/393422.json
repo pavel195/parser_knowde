@@ -1,0 +1,30 @@
+{
+    "id": 393422,
+    "brand": "zappa",
+    "name": "CROSBY HOPS Willamette",
+    "slug": "crosby-hops-willamette",
+    "description": "Willamette is an immensely popular hop in American craft brewing, this Fuggle-derived aroma variety was released by the USDA in 1976, taking its name from the Willamette River in Oregon’s important hop growing region, the Willamette Valley. Graceful earthiness, spiciness, and fruitiness are hallmarks of the hop.",
+    "company_name": "CROSBY HOPS",
+    "company_slug": "crosby-hops",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686109538/production/Company/48916/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606846/production/CategoryImage/500/category_image/FoodNutrition_01.jpg",
+    "properties": {
+        "Applications": [
+            "Beverage",
+            "Beer Brewing"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Plant & Herb Products & Extracts"
+        ],
+        "Flavor Family": [
+            "Herb Flavors",
+            "Fruit Flavors"
+        ]
+    },
+    "summary": {
+        "Features": [
+            "Imparts Flavor"
+        ]
+    }
+}

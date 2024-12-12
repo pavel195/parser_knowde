@@ -1,0 +1,50 @@
+{
+    "id": 389634,
+    "brand": "komatex",
+    "name": "KömaCel® White 654 antibacterial",
+    "slug": "komacel-white-654-antibacterial",
+    "description": "KömaCel® White 654 antibacterial sheets offer active antibacterial protection and are designed for cladding the walls and ceilings of areas that must fulfill stringent hygiene requirements. The sheets are resistant to many chemicals. KömaCel ® White 654 antibacterial sheets satisfy the standards demanded by the health authorities for food plant, medical facilities, catering firms, and many other areas (DIN 22196:2011). The sheets’ antibacterial properties offer protection against mold, bacteria, and pathogens. Our sheets use silver ions. These are a known biocide with natural antimicrobial and antiseptic properties that suppress microbial reproduction.",
+    "company_name": "Profine",
+    "company_slug": "profine",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691739645/production/Brand/29299/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608454/production/CategoryImage/560/category_image/BuildingConstruction_04.jpg",
+    "properties": {
+        "Applications": [
+            "Food & Beverage Manufacturing",
+            "Other Medical Applications",
+            "Interior Fixtures",
+            "Interior",
+            "Laboratory & Diagnostics",
+            "Furniture",
+            "Wallcoverings & Decorative Laminates",
+            "Wall Panels",
+            "Other Building Envelope & Roofing Applications",
+            "Building Materials",
+            "Processing & Packaging",
+            "Medical",
+            "Building Envelope & Roofing",
+            "Decorative Materials & Finishes",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films",
+            "Parts & Shapes"
+        ],
+        "Chemical Family": [
+            "Vinyls, Vinylics & Vinyl Derivatives"
+        ],
+        "Polymer Name": [
+            "Polyvinyl Chloride (PVC)"
+        ],
+        "End Uses": [
+            "Wall Panels",
+            "Composite Cladding",
+            "Ceiling Panels"
+        ]
+    },
+    "summary": {
+        "Density": [
+            "500.0 - 700.0 kg/m³"
+        ]
+    }
+}

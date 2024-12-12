@@ -1,0 +1,44 @@
+{
+    "id": 335124,
+    "brand": "tri-z",
+    "name": "First Pass® 3-5-15 + 0.2 Mn",
+    "slug": "first-pass-3-5-15-0-2-mn",
+    "description": null,
+    "company_name": "Andersons Inc",
+    "company_slug": "andersons-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708671725/production/Brand/24753/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608215/production/CategoryImage/550/category_image/AgricultureFeed_06.jpg",
+    "properties": {
+        "Applications": [
+            "Oilseeds",
+            "Fodder & Forage",
+            "Other Agricultural Crops",
+            "Legumes",
+            "Vegetables",
+            "Fruits",
+            "Agricultural Crops"
+        ],
+        "Product Families": [
+            "Fertilizers & Nutrients",
+            "Plant Health, Nutrients & Soil Management"
+        ],
+        "Chemical Family": [
+            "Phosphates"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Phosphates"
+        ],
+        "Functions": [
+            "Fertilizer"
+        ],
+        "Application Technique": [
+            "Pre-Emergence",
+            "Ground Soil Applied"
+        ],
+        "Labeling Claims": [
+            "Non-Corrosive"
+        ]
+    }
+}

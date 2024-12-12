@@ -1,0 +1,86 @@
+{
+    "id": 95979,
+    "brand": "trealix",
+    "name": "Vegequat®",
+    "slug": "vegequat",
+    "description": "Vegequat® is a vegetable derived surfactant containing coconut fatty acids and hydrolyzed wheat proteins. Thanks to the combination of the cationic function and the protein group, it has remarkable conditioning and antistatic properties. Vegequat effectively protects hair from physical aggression and chemical dryness such as hairdryer, hair permanents and dyes, while in foaming products has a thickening and stabilizing effect on foam. In skincare, it protects the hydrolipidic film during\r\nwashing and hydrates skin, thanks to its protein portion.",
+    "company_name": "Sinerga S.p.A.",
+    "company_slug": "sinerga-s-p-a",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708700630/production/Product/95979/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708700630/production/Product/95979/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Bath & Shower",
+            "Hair Care",
+            "Skin Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Cationic Surfactants",
+            "Stabilizers",
+            "Rheology Modifiers",
+            "Conditioners & Emollients",
+            "Functionals",
+            "Surfactants & Cleansers"
+        ],
+        "INCI Name": [
+            "Cocodimonium Hydroxypropyl Hydrolyzed Wheat Protein"
+        ],
+        "End Uses": [
+            "Body Wash",
+            "Moisturizers",
+            "Bubble Bath",
+            "Concealer",
+            "Shampoos & Rinses",
+            "Hair Conditioner"
+        ],
+        "Labeling Claims": [
+            "Preservative-free"
+        ],
+        "Benefit Claims": [
+            "Stabilizing",
+            "Hydrating",
+            "Texturizing",
+            "Substantivity",
+            "Static Reduction",
+            "Regenerating",
+            "Conditioning"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Cocodimonium Hydroxypropyl Hydrolyzed Wheat Protein"
+        ],
+        "Ingredient Origin": [
+            "Vegetable Origin"
+        ],
+        "Functions": [
+            "Anti-Static Agent",
+            "Surfactant",
+            "Foam Stabilizer",
+            "Surfactant (Cationic)",
+            "Conditioner",
+            "Viscosity Modifier",
+            "Cleansing Agent"
+        ],
+        "Labeling Claims": [
+            "Preservative-free"
+        ],
+        "Certifications & Compliance": [
+            "COSMOS",
+            "Halal"
+        ],
+        "Benefit Claims": [
+            "Hydrating",
+            "Substantivity",
+            "Stabilizing",
+            "Conditioning",
+            "Static Reduction",
+            "Regenerating",
+            "Texturizing"
+        ],
+        "Synonyms": [
+            "Protein Hydrolyzates, Wheat Germ, [3-(Coco Alkyldimethylammonio)-2-Hydroxypropyl], Chlorides"
+        ]
+    }
+}

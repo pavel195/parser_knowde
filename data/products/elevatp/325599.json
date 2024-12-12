@@ -1,0 +1,30 @@
+{
+    "id": 325599,
+    "brand": "elevatp",
+    "name": "NEUROFACTOR®",
+    "slug": "neurofactor",
+    "description": "Derived from whole coffee fruit, NeuroFactor® is clinically shown to significantly increase levels of a key neuroprotein (BDNF) vital to learning, memory, and higher thinking.*\nNeuroFactor® is an all-natural, patented extract of whole fruit from the Coffea arabica plant.",
+    "company_name": "VDF/FutureCeuticals",
+    "company_slug": "vdf-futureceuticals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697222071/production/Company/29429/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606961/production/CategoryImage/506/category_image/FoodNutrition_07.jpg",
+    "properties": {
+        "Applications": [
+            "Functional Foods",
+            "Nutraceuticals & Supplements",
+            "Other Non-Alcoholic Beverages",
+            "Beverage",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Tea & Coffee Products",
+            "Whole Foods, Extracts & Premixes"
+        ],
+        "End Uses": [
+            "Dietary Supplements",
+            "Functional Foods",
+            "Tablets"
+        ]
+    },
+    "summary": {}
+}

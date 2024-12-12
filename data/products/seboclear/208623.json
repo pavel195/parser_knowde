@@ -1,0 +1,95 @@
+{
+    "id": 208623,
+    "brand": "seboclear",
+    "name": "RADICARE® -GOLD Your Personal Faraday Shield",
+    "slug": "radicare-gold-your-personal-faraday-shield",
+    "description": "RADICARE®-GOLD reproduces the protective concept employed by Tetradesmus obliquus and can be applied to the skin to provide it with a “Faraday shield” to screen it from radiation.\nNatural carotenoids have a dual effect on skin cells and barrier: as they activate PPARγ, they both defend skin cells against the effects of ROS and inhibit lipid peroxidation. Furthermore,\nthe product replenishes the carotenoid depot of the skin barrier and provides a more juvenile appearance of the skin.\nSo, put on your personal Faraday shield to help your skin resist intrinsic ROS stress and the stress caused by radiation from the natural and more recent digital sources – such as blue light\nand even WiFi. ",
+    "company_name": "RAHN",
+    "company_slug": "rahn",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708689403/production/Product/208623/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708689403/production/Product/208623/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Skin Care",
+            "Treatment Products",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Conditioners & Emollients",
+            "Botanical Ingredients & Extracts",
+            "Skin Actives",
+            "Cosmetic Actives",
+            "Vitamins, Extracts & Oils",
+            "Functionals"
+        ],
+        "Chemical Family": [
+            "Plant Extracts"
+        ],
+        "INCI Name": [
+            "Beta-Carotene",
+            "Crambe Abyssinica Seed Oil",
+            "Helianthus Annuus (Sunflower) Seed Oil",
+            "Rosmarinus Officinalis (Rosemary) Leaf Extract",
+            "Tocopherol",
+            "Xanthophylls"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Crambe Abyssinica Seed Oil",
+            "Tocopherol",
+            "Xanthophylls",
+            "Rosmarinus Officinalis (Rosemary) Leaf Extract",
+            "Beta-Carotene",
+            "Helianthus Annuus (Sunflower) Seed Oil"
+        ],
+        "Functions": [
+            "Anti-Aging Agent",
+            "Protective Agent",
+            "Skin Barrier Protectant"
+        ],
+        "Ingredient Origin": [
+            "Non-Animal Origin",
+            "Natural Origin",
+            "Plant Origin"
+        ],
+        "Labeling Claims": [
+            "BSE-free",
+            "Nanomaterials-free",
+            "Credo Clean Standard",
+            "Clean at Sephora",
+            "VOC-free",
+            "Biodegradable",
+            "Naturally Derived",
+            "Palm Oil-free",
+            "Non-Irritant",
+            "Allergen-free",
+            "Natural",
+            "Vegan",
+            "Non-Carcinogenic",
+            "Organic",
+            "Solvent-free",
+            "Non-GMO",
+            "Mineral oil-free",
+            "Ulta Beauty's Conscious Beauty",
+            "Non-Mutagenic",
+            "Non-Toxic",
+            "Gluten-free",
+            "Non-Phototoxic"
+        ],
+        "Certifications & Compliance": [
+            "ISO 22716",
+            "Organic Certified",
+            "Kosher",
+            "COSMOS",
+            "NaTrue",
+            "REACH (Europe)",
+            "ECOCERT",
+            "Halal"
+        ],
+        "Benefit Claims": [
+            "Anti-Aging",
+            "Non-Sensitizing"
+        ]
+    }
+}

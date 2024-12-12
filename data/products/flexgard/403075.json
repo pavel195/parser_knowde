@@ -1,0 +1,52 @@
+{
+    "id": 403075,
+    "brand": "flexgard",
+    "name": "FlexGard T (309)",
+    "slug": "flexgard-t-309",
+    "description": "FlexGard T (309) is an extremely versatile product and may be applied over Thermal-Chem’s 309 FlexGard M where a flexible membrane is required or over Thermal-Chem EPIC system where concrete strengthening and crack control is required. 309 FlexGard T is a two-component 100% solids, low-modulus (30% to 40% elongation) moisture insensitive epoxy polymer. 309 FlexGard T may be applied as a seeded broadcast system, blended with selected aggregates for a trowel applied epoxy mortar overlay or as a slurry with an optional broadcast. It is Formulated for interior or exterior use this versatile product possesses excellent impact resistance and wearability, even when exposed to constant vehicle traffic.",
+    "company_name": "Thermal-Chem Corporation",
+    "company_slug": "thermal-chem-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520306/production/Brand/30795/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608422/production/CategoryImage/558/category_image/BuildingConstruction_02.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Flooring & Surfaces",
+            "Infrastructure, Roads & Paving",
+            "Architectural Coatings",
+            "Decorative Paints, Coatings & Stains",
+            "Building Envelope & Roofing",
+            "Decorative Materials & Finishes",
+            "Floor Coatings",
+            "Pavement, Highways, Roads & Bridges",
+            "Building Envelope"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Base Coats & Undercoats"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Base Coat",
+            "Solventless & High Solids Coating",
+            "Epoxy Coating",
+            "2K (2 component) Coating"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Concrete"
+        ],
+        "Features": [
+            "Highly Versatile",
+            "High Impact Resistance",
+            "High Gas Permeability",
+            "High Strength",
+            "Wear Resistant",
+            "Low Modulus",
+            "Moisture Resistant"
+        ],
+        "Application Method": [
+            "Trowel"
+        ]
+    }
+}

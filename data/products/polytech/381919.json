@@ -1,0 +1,47 @@
+{
+    "id": 381919,
+    "brand": "polytech",
+    "name": "POLYTECH® Neoprene Blend Foam (PNB-F41)",
+    "slug": "polytech-neoprene-blend-foam-pnb-f41",
+    "description": "POLYTECH® Neoprene Blend Foam (PNB-F41) is a Neoprene/EPDM/SBR closed cell blend foam with good resistance to weather, oxidation, and ozone. This is an economical closed cell foam for a variety of uses.",
+    "company_name": "Polymer Technologies",
+    "company_slug": "polymer-technologies",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1702444504/production/Brand/28650/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608744/production/CategoryImage/575/category_image/AutomotiveTransportation_03.jpg",
+    "properties": {
+        "Applications": [
+            "Aftermarket Parts & Components",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Foams"
+        ],
+        "Chemical Family": [
+            "Mixtures & Blends"
+        ],
+        "End Uses": [
+            "Seals",
+            "Transportation Seal",
+            "Gaskets"
+        ]
+    },
+    "summary": {
+        "Foam Type": [
+            "Closed Cell Foam"
+        ],
+        "Density": [
+            "64.0 - 128.0 kg/m³"
+        ],
+        "Chemical Family": [
+            "Mixtures & Blends"
+        ],
+        "End Uses": [
+            "Gaskets",
+            "Transportation Seal",
+            "Seals"
+        ],
+        "Physical Form": [
+            "Foam"
+        ]
+    }
+}

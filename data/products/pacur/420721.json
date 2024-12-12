@@ -1,0 +1,64 @@
+{
+    "id": 420721,
+    "brand": "pacur",
+    "name": "Pacur® PETG DTC Sheet",
+    "slug": "pacur-petg-dtc-sheet",
+    "description": "Pacur® PETG DTC copolyester sheet is designed for use in cost effective ESD safe packaging and “one way” shipping applications. The sheet is extruded from an amorphous polyester resin and treated with a proprietary electrostatic dissipative material forming a clear, tough, chlorine/chloride-free, ESD safe packaging material.",
+    "company_name": "Pacur",
+    "company_slug": "pacur",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686150201/production/Brand/29810/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608850/production/CategoryImage/582/category_image/HealthcarePharma_04.jpg",
+    "properties": {
+        "Applications": [
+            "Packaging & Assembly",
+            "Wire & Cable",
+            "Optical Fiber & Telecom",
+            "Other Packaging & Assembly Applications"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Polyethylene Terephthalate (PET)",
+            "Glycols"
+        ],
+        "Polymer Name": [
+            "Polyethylene Terephthalate Glycol (PETG)"
+        ],
+        "End Uses": [
+            "Telecommunications"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyethylene Terephthalate Glycol (PETG)"
+        ],
+        "Physical Form": [
+            "Sheets"
+        ],
+        "Features": [
+            "Low Outgassing",
+            "Excellent Toughness",
+            "Humidity Independent",
+            "Fast Cycle Times",
+            "Puncture Resistant",
+            "High Impact Resistance",
+            "ESD Protection",
+            "Notch Absorbing",
+            "Chemical Resistant",
+            "Stress Whitening Resistant",
+            "Cost Effective",
+            "Improved Optical Clarity",
+            "Good Printability"
+        ],
+        "Density": [
+            "1270.0 - 1270.0 kg/m³"
+        ],
+        "Tensile Modulus": [
+            "1900.0 - 1900.0 MPa"
+        ],
+        "Color": [
+            "Transparent"
+        ]
+    }
+}

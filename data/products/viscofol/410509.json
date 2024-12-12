@@ -1,0 +1,33 @@
+{
+    "id": 410509,
+    "brand": "viscofol",
+    "name": "GO-Chelate Iron",
+    "slug": "go-chelate-iron",
+    "description": "GO-Chelate Iron is Based on iron chelated by EDDHA which guarantees 4.8% of it in ortho-ortho, while the rest is chelated by other isomers of the EDDHA molecule. It can be used in high pH and high calcium content soils. Presented in microgranular form giving it a high solubility.",
+    "company_name": "Global Crop Improvement Company",
+    "company_slug": "global-crop-improvement-company",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708684956/production/Brand/31893/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608173/production/CategoryImage/547/category_image/AgricultureFeed_03.jpg",
+    "properties": {
+        "Applications": [
+            "Trees & Woodlands",
+            "Ornamentals",
+            "Turf, Ornamentals & Landscape"
+        ],
+        "Product Families": [
+            "Water Conditioners & Softeners",
+            "Fertilizers & Nutrients",
+            "Adjuvants & Formulation Ingredients",
+            "Plant Health, Nutrients & Soil Management"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Chelating Agent",
+            "Fertilizer"
+        ],
+        "Application Technique": [
+            "Foliage Applied"
+        ]
+    }
+}

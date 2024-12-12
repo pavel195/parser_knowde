@@ -1,0 +1,48 @@
+{
+    "id": 319216,
+    "brand": "suncaps",
+    "name": "CelluOil™ Ment",
+    "slug": "celluoil-ment",
+    "description": "CelluOil™ Ment is an encapsulated form of menthol oil that prevents volatilization, discoloration, and degradation of the oil while preserving the natural characteristics of the formula. By converting the liquid oil into a powder, it can be easily dispersed and integrated throughout all phases of a formulation, providing formulators with the flexibility to create innovative and unique product concepts.",
+    "company_name": "Tagra Biotechnologies Ltd",
+    "company_slug": "tagra-biotechnologies-ltd",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1626175869/production/Product/319216/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1672324058/production/Product/319216/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Skin Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Essential Oils",
+            "Vitamins, Extracts & Oils"
+        ],
+        "Chemical Family": [
+            "Essential Oils"
+        ],
+        "INCI Name": [
+            "Tricaprylin",
+            "Cellulose Acetate Butyrate",
+            "Menthol"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Menthol",
+            "Tricaprylin",
+            "Cellulose Acetate Butyrate"
+        ],
+        "Ingredient Origin": [
+            "Plant Origin",
+            "Natural Origin"
+        ],
+        "Benefit Claims": [
+            "Encapsulated Actives",
+            "Long Lasting"
+        ],
+        "Labeling Claims": [
+            "Credo Clean Standard",
+            "Plant-Based"
+        ]
+    }
+}

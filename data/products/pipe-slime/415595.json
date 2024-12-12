@@ -1,0 +1,45 @@
+{
+    "id": 415595,
+    "brand": "pipe-slime",
+    "name": "J.C. Whitlam Manufacturing TALON PTFE Pipe Thread Compound",
+    "slug": "j-c-whitlam-manufacturing-talon-ptfe-pipe-thread-compound",
+    "description": "SELECT-UNYTE is an all purpose, non-seizing, PTFE thread sealing compound that produces a leakproof seal on all types of metal and plastic threaded connections. SELECT- UNYTE is a smooth, grit free, completely homogenized, white PTFE paste.",
+    "company_name": "J.C. Whitlam Manufacturing",
+    "company_slug": "j-c-whitlam-manufacturing",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1703115850/production/Company/55452/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Sealants & Caulks",
+            "Building Materials"
+        ],
+        "Product Families": [
+            "Caulks & Sealants",
+            "Adhesives & Sealants"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Thread Sealant"
+        ],
+        "Application Area": [
+            "Pipes"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Stainless Steel",
+            "Metal",
+            "Brass",
+            "Polypropylene (PP)",
+            "Fiberglass",
+            "Iron",
+            "Polybutylene (PB)",
+            "Acrylonitrile Butadiene Styrene (ABS)",
+            "Aluminum",
+            "Galvanized Steel",
+            "Copper",
+            "Plastics",
+            "Polyethylene (PE)",
+            "Polyvinyl Chloride (PVC)"
+        ]
+    }
+}

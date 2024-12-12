@@ -1,0 +1,31 @@
+{
+    "id": 220774,
+    "brand": "ecronova",
+    "name": "Rovene® 6104",
+    "slug": "rovene-6104",
+    "description": "Rovene 6104 is a very soft, film forming vehicle that provides good water and rub resistance for flexographic and gravure inks and overprint varnishes. Rovene 6104 can be used as the film forming component in overprint varnish formulations or as the sole vehicle for inks and overprint varnishes providing good gloss. The emulsion can also be used as the non-skid component in formulations. Because of the low glass transition temperature, Rovene 6104 has good adhesion to treated flexible films. Inks and overprint varnishes formulated with Rovene 6104 can be formulated with graphic arts industry standard products and additives.",
+    "company_name": "Mallard Creek Polymers",
+    "company_slug": "mallard-creek-polymers",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1693580149/production/Company/15660/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1693580149/production/Company/15660/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Overprint Varnishes",
+            "Digital Printing",
+            "Packaging Coatings",
+            "Printing & Inks"
+        ],
+        "Product Families": [
+            "Acrylics",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Styrene-Acrylic Copolymer"
+        ]
+    },
+    "summary": {
+        "Glass Transition Temperature (Tg)": [
+            "-45.0 - -45.0 °C"
+        ]
+    }
+}

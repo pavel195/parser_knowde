@@ -1,0 +1,45 @@
+{
+    "id": 347166,
+    "brand": "gingercsr",
+    "name": "GinsengCSR™",
+    "slug": "ginsengcsr",
+    "description": "GinsengCSR™micro-encapsulates a standardized extract of the Panax Ginseng plant with 80% of Ginsenosides. With significant dosing levels, GinsengCSR™ completely isolates the very unfavorable taste and sensory experience (even at low and ineffective dosing levels), providing a material competitive advantage to standard Ginseng incorporated food and beverage products. The ingredient is optimal for incorporation into bars, shakes, meal replacement products and mix-n-drink beverages.",
+    "company_name": "Vital Technologies",
+    "company_slug": "vital-technologies",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708673246/production/Brand/25861/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606914/production/CategoryImage/502/category_image/FoodNutrition_03.jpg",
+    "properties": {
+        "Applications": [
+            "Functional Foods",
+            "Other Non-Alcoholic Beverages",
+            "Nutraceuticals & Supplements",
+            "Beverage",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Phytochemicals & Plant Extracts",
+            "Phytochemicals",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Powder Shakes",
+            "Nutritional Bars",
+            "Dietary Supplements"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Panax Ginseng Extract"
+        ],
+        "Functions": [
+            "Supplement",
+            "Dietary Supplement"
+        ],
+        "Active Component": [
+            "Ginsenosides"
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "id": 438877,
+    "brand": "alphawave",
+    "name": "VinCare® Whole Grape Extract",
+    "slug": "vincare-whole-grape-extract",
+    "description": "VinCare® is a patented, GRAS affi rmed, whole grape extract that supports healthy cholesterol levels and cardiovascular health.*",
+    "company_name": "Ethical Naturals, Inc.",
+    "company_slug": "ethical-naturals-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708692053/production/Brand/12384/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708692053/production/Product/438877/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Oral",
+            "Pharmaceutical Processing",
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being",
+            "Drug Delivery & Care Solutions",
+            "Pharmaceutical Manufacturing"
+        ],
+        "Product Families": [
+            "Formulation & Processing Aids",
+            "Phytochemicals & Plant Extracts",
+            "Fruit Products & Extracts",
+            "Phytochemicals",
+            "Nutrition & Fortification",
+            "Whole Foods, Extracts & Premixes",
+            "Excipients",
+            "Nutraceuticals & Supplements"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Grape Extract"
+        ],
+        "Functions": [
+            "Phytochemical",
+            "Anti-Adhesion Promoter"
+        ],
+        "Active Component": [
+            "Polyphenols",
+            "Proanthocyanidins"
+        ],
+        "Dosage Form": [
+            "Capsules",
+            "Powder & Powder Blends"
+        ]
+    }
+}

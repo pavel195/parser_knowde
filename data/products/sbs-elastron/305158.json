@@ -1,0 +1,91 @@
+{
+    "id": 305158,
+    "brand": "sbs-elastron",
+    "name": "SEBS - ELASTRON G501.A50.N.PS",
+    "slug": "sebs-elastron-g501-a50-n-ps",
+    "description": "A soft, colorable SEBS based thermoplastic elastomer (TPE) compound specially designed for excellent adhesion to PS.",
+    "company_name": "Elastron",
+    "company_slug": "elastron",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691744505/production/Product/305158/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1691744505/production/Product/305158/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Equipment & Parts",
+            "Glazing & Window Elements",
+            "Healthcare Packaging",
+            "Non-Food Consumer Packaging",
+            "Jacketing & Insulation",
+            "Applicators & Accessories",
+            "Other Industrial Applications",
+            "Consumer Electronics",
+            "Sports & Recreation",
+            "Other Consumer Goods Applications",
+            "Luggage & Leather Goods",
+            "Housewares",
+            "Appliances & Electronics",
+            "Structural Components",
+            "Pipes & Plumbing",
+            "Powertrain & UTH",
+            "Interior",
+            "Exterior & Body",
+            "Building Materials",
+            "Wire & Cable",
+            "Packaging & Accessories",
+            "Packaging",
+            "Building Envelope & Roofing",
+            "Devices & Assemblies",
+            "Chemical & Industrial Manufacturing",
+            "Automotive",
+            "Building Envelope"
+        ],
+        "Product Families": [
+            "Styrenic Thermoplastic Elastomers (TPE-S)",
+            "Thermoplastic Elastomers"
+        ],
+        "Polymer Name": [
+            "Styrene Ethylene Butylene Styrene (SEBS)"
+        ],
+        "End Uses": [
+            "Appliances",
+            "Wires",
+            "Cables",
+            "Cosmetic Packaging",
+            "Tubing",
+            "Vacuum Cleaner Parts",
+            "Trolley",
+            "Toys",
+            "Toothbrush Handles",
+            "Sporting Goods",
+            "Soft Touch Applications",
+            "Razors",
+            "Power/Other Tools",
+            "Plugs",
+            "Pipe Seals",
+            "Mud Flaps",
+            "Lids",
+            "Hoses",
+            "Horn Cover",
+            "Handbrake Mechanism Seal",
+            "Grommets",
+            "Gaskets",
+            "Flexible Grips",
+            "Flame Retardant Insulation",
+            "Dilatation Expansion Seals",
+            "Covers",
+            "Carpet Backing",
+            "Caps",
+            "Bathroom Accessories"
+        ]
+    },
+    "summary": {
+        "Tear Strength": [
+            "28.0 - 28.0 kN/m"
+        ],
+        "Strain at Break": [
+            "450.0 - 450.0 %"
+        ],
+        "Compression Set (70 °C)": [
+            "84.0 - 84.0 %"
+        ]
+    }
+}

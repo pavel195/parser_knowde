@@ -1,0 +1,57 @@
+{
+    "id": 238255,
+    "brand": "microglass",
+    "name": "Wollastonite 915U",
+    "slug": "wollastonite-915u",
+    "description": "Wollastonite is a naturally occuring, non-metallic, acicular (needle-shape) mineral.",
+    "company_name": "FIBERTEC INC.",
+    "company_slug": "fibertec-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691741363/production/Company/16518/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1691741363/production/Company/16518/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Technical Fabrics",
+            "Equipment & Parts",
+            "Body Armor",
+            "Renewable Energy",
+            "Power & Utilities",
+            "Refining & Gas Processing",
+            "Pipes & Tanks",
+            "Printed Circuit Boards (PCBs)",
+            "Housings & Enclosures",
+            "Pavement, Highways, Roads & Bridges",
+            "Structural Components",
+            "Interior Fixtures",
+            "Rail & Mass Transit",
+            "Marine",
+            "Aerospace & Aviation",
+            "Powertrain & UTH",
+            "Interior",
+            "Exterior & Body",
+            "Chassis & Brake",
+            "Sports & Recreation",
+            "Building Materials",
+            "Infrastructure, Roads & Paving",
+            "Parts & Components",
+            "Power, Water & Utilities",
+            "Textiles & Nonwovens",
+            "Military & Defense",
+            "Leather & Textiles",
+            "Chemical & Industrial Manufacturing",
+            "Oil, Gas & Mining",
+            "Transportation",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Natural Materials",
+            "Reinforcements"
+        ],
+        "Chemical Family": [
+            "Wollastonites"
+        ],
+        "End Uses": [
+            "Tanks"
+        ]
+    },
+    "summary": {}
+}

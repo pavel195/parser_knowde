@@ -1,0 +1,40 @@
+{
+    "id": 375034,
+    "brand": "oleobiotec",
+    "name": "Alterna OP",
+    "slug": "alterna-op",
+    "description": "Alterna OP is a herbal and spice extract-based appetite stimulant.",
+    "company_name": "Probiotech International",
+    "company_slug": "probiotech-international",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708689160/production/Brand/28076/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608224/production/CategoryImage/551/category_image/AgricultureFeed_07.jpg",
+    "properties": {
+        "Applications": [
+            "Swine",
+            "Birds & Poultry",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Feed Supplements",
+            "Minerals",
+            "Nutritional Ingredients"
+        ],
+        "Chemical Family": [
+            "Minerals"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Supplement",
+            "Mineral Source"
+        ],
+        "Animal Species": [
+            "Swine",
+            "Sows",
+            "Piglets"
+        ],
+        "Labeling Claims": [
+            "Organic"
+        ]
+    }
+}

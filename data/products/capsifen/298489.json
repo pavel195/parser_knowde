@@ -1,0 +1,55 @@
+{
+    "id": 298489,
+    "brand": "capsifen",
+    "name": "StabilROSE®",
+    "slug": "stabilrose",
+    "description": "StabilROSE® represents a unique blend of magic antioxidant molecules of Rosemary produced by an in-house built state-of-the-art extraction and purification technology. The enhanced eficacy of StabilROSE range of antioxidant solutions is due to the \"Synergic\" effect. which helps to reduce the color and flavor degradation that occurs naturally.",
+    "company_name": "Akay Group",
+    "company_slug": "akay-group",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708690744/production/Company/23615/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606996/production/CategoryImage/508/category_image/FoodNutrition_09.jpg",
+    "properties": {
+        "Applications": [
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Phytochemicals & Plant Extracts",
+            "Phytochemicals",
+            "Plant & Herb Products & Extracts",
+            "Nutrition & Fortification",
+            "Whole Foods, Extracts & Premixes",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Dietary Supplements"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Rosemary"
+        ],
+        "Functions": [
+            "Whole Food Ingredient",
+            "Antioxidant",
+            "Phytochemical"
+        ],
+        "Active Component": [
+            "Rosmarinic Acid",
+            "Carnosic Acid",
+            "Carnosol",
+            "Ursolic Acid"
+        ],
+        "Labeling Claims": [
+            "Plant-Based",
+            "Naturally Derived",
+            "Kosher",
+            "Natural",
+            "Halal"
+        ],
+        "Certifications & Compliance": [
+            "Kosher",
+            "Halal"
+        ]
+    }
+}

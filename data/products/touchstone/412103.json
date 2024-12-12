@@ -1,0 +1,46 @@
+{
+    "id": 412103,
+    "brand": "touchstone",
+    "name": "Bonstone Materials Duropoxi F",
+    "slug": "bonstone-materials-duropoxi-f",
+    "description": "Duropoxi F is a two-component, 100% solids, chemical resistant, exterior grade epoxy adhesive. Non-sag gel epoxy. Flexible.",
+    "company_name": "Bonstone Materials",
+    "company_slug": "bonstone-materials",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292354/production/Company/54892/logo/image.png",
+    "banner_url": "https://static.knowde.com/card-banners/knowde-card-for-raw-materials-8.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Structural Components",
+            "Building Envelope & Roofing",
+            "Shingles & Tiles"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Structural Adhesives"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Solvent free (100% Solids) Adhesive",
+            "Epoxy Adhesive",
+            "2K (2 component) Adhesive"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Steel",
+            "Stone",
+            "Wood",
+            "Masonry"
+        ],
+        "Application Method": [
+            "Trowel"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    }
+}

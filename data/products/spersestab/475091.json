@@ -1,0 +1,42 @@
+{
+    "id": 475091,
+    "brand": "spersestab",
+    "name": "SperseStab™ 1445",
+    "slug": "spersestab-1445",
+    "description": "SperseStab™ 1445 is a secondary aromatic amine antioxidant used in polyolefins, polyamides, styrenic polymers, polyols, polyester elastomers, hot-melt adhesives, and lubricants. The product appears as a white to off-white powder with a melting point of 95°C. It provides excellent performance over a broad range of temperatures.",
+    "company_name": "Interspersal, Inc",
+    "company_slug": "interspersal",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708683239/production/Brand/22915/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708683239/production/Company/30781/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Fluids & Lubricants",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Antioxidants & Stabilizers",
+            "Lubricant Protective Additives",
+            "Functional Additives",
+            "Additives",
+            "Polymer Additives",
+            "Elastomer Additives"
+        ],
+        "End Uses": [
+            "Industrial Lubricants",
+            "Hot Melt Adhesive"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Antioxidant"
+        ],
+        "Compatible Polymers & Resins": [
+            "Polyolefins",
+            "Polyamides",
+            "Polyols"
+        ],
+        "Synonyms": [
+            "Antioxidant 445"
+        ]
+    }
+}

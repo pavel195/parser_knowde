@@ -1,0 +1,43 @@
+{
+    "id": 189855,
+    "brand": "fermapro",
+    "name": "OxyPhyte® Ultra Blend",
+    "slug": "oxyphyte-ultra-blend",
+    "description": null,
+    "company_name": "RFI Ingredients",
+    "company_slug": "rfi-ingredients",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672758/production/Product/189855/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708672758/production/Product/189855/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Other Nutrition Applications",
+            "Clinical Nutrition",
+            "Other Food Applications",
+            "Functional Foods",
+            "Dairy",
+            "Other Non-Alcoholic Beverages",
+            "Nutraceuticals & Supplements",
+            "Sports Nutrition",
+            "Beverage",
+            "Food",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Phytochemicals & Plant Extracts",
+            "Phytochemicals",
+            "Antioxidants",
+            "Fruit Products & Extracts",
+            "Nutrition & Fortification",
+            "Whole Foods, Extracts & Premixes",
+            "Nutraceuticals & Supplements"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Antioxidant"
+        ],
+        "Physical Form": [
+            "Liquid"
+        ]
+    }
+}

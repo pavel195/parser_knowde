@@ -1,0 +1,67 @@
+{
+    "id": 353368,
+    "brand": "alphalam",
+    "name": "Alphalam X 130",
+    "slug": "alphalam-x-130",
+    "description": "Alphalam X 130 is a PTFE Impregnated Fiberglass with Cast PTFE Film.\r\n",
+    "company_name": "Alpha Associates, Inc",
+    "company_slug": "alpha-associates-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686149359/production/Brand/26335/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Paper & Pulp",
+            "Power, Water & Utilities",
+            "Marine",
+            "Pulping & Processing",
+            "Power & Utilities",
+            "Chemical & Industrial Manufacturing",
+            "Oil, Gas & Mining",
+            "Transportation",
+            "Pipes & Plumbing",
+            "Other Industrial Applications",
+            "Equipment & Parts",
+            "Refining & Gas Processing"
+        ],
+        "Product Families": [
+            "Parts & Shapes"
+        ],
+        "Chemical Family": [
+            "Fluoropolymers"
+        ],
+        "Polymer Name": [
+            "Polytetrafluoroethylene (PTFE)"
+        ],
+        "End Uses": [
+            "Gaskets",
+            "Marine Applications",
+            "Industrial Applications",
+            "Expansion Joint",
+            "Exhaust Duct Systems",
+            "Industrial Connectors"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polytetrafluoroethylene (PTFE)"
+        ],
+        "Physical Form": [
+            "Sheets"
+        ],
+        "Features": [
+            "Non Corrosive"
+        ],
+        "End Uses": [
+            "Industrial Applications",
+            "Exhaust Duct Systems",
+            "Expansion Joint",
+            "Gaskets",
+            "Industrial Connectors",
+            "Marine Applications"
+        ],
+        "Color": [
+            "Black"
+        ]
+    }
+}

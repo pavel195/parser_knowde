@@ -1,0 +1,58 @@
+{
+    "id": 389429,
+    "brand": "acetal-c",
+    "name": "Smiths Metal Centres Polypropylene PP-H",
+    "slug": "smiths-metal-centres-polypropylene-pp-h",
+    "description": "Smiths Metal Centers Polypropylene PP-H is a high-quality general purpose engineering plastic material. Its chemical name is polypropylene homopolymer, and it’s available in a range of grades and forms to suit many applications.",
+    "company_name": "Smiths Metal Centres",
+    "company_slug": "smiths-metal-centres",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709127704/production/Company/48114/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Equipment & Parts",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Polyolefins",
+            "Polypropylenes (PP)"
+        ],
+        "Polymer Name": [
+            "Polypropylene Homopolymer (HPP)"
+        ],
+        "End Uses": [
+            "Valve Parts",
+            "Pump Parts",
+            "Gaskets"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polypropylene Homopolymer (HPP)"
+        ],
+        "Physical Form": [
+            "Sheets",
+            "Bars",
+            "Rods"
+        ],
+        "Features": [
+            "Low Moisture Absorption",
+            "Good Machinability",
+            "General Purpose",
+            "Low Residual Stress",
+            "Food Contact Acceptable",
+            "Excellent Surface Hardness",
+            "High Tensile Strength",
+            "Chemical Resistant"
+        ],
+        "Density": [
+            "910.0 - 910.0 kg/m³"
+        ],
+        "Tensile Modulus": [
+            "1200.0 - 1200.0 MPa"
+        ]
+    }
+}

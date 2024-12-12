@@ -1,0 +1,43 @@
+{
+    "id": 409844,
+    "brand": "esnalube",
+    "name": "EVERLUBE® 9001",
+    "slug": "everlube-9001",
+    "description": "Everlube® 9001 is a thermally cured, low VOC MoS2/Graphite based solid film lubricant with a high molecular weight epoxy binder system. This coating provides excellent abrasion resistance, very good chemical resistance, good wear life, and performs best in higher load carrying applications. Everlube® 9001 is approved/qualified to many aerospace and industrial specification.",
+    "company_name": "Everlube Products",
+    "company_slug": "everlube-products",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1682593385/production/Brand/31767/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Medical",
+            "Medical Devices & Assemblies",
+            "Aerospace & Aviation",
+            "Chemical & Industrial Manufacturing",
+            "Transportation",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Lubricants & Oils",
+            "Fluids & Lubricants"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Lubricant",
+            "Industrial Lubricants",
+            "Dry Lubricants"
+        ],
+        "Application Area": [
+            "Medical Devices"
+        ],
+        "Features": [
+            "Chemical Resistant",
+            "Corrosion Resistant",
+            "High Molecular Weight",
+            "Low VOC",
+            "Good Abrasion Resistance",
+            "Wear Resistant"
+        ]
+    }
+}

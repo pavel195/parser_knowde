@@ -1,0 +1,58 @@
+{
+    "id": 408308,
+    "brand": "cocoasupply",
+    "name": "CocoaSupply Organic Dutched (alkalized) 20-22 Cacao Powder",
+    "slug": "cocoasupply-organic-dutched-alkalized-20-22-cacao-powder",
+    "description": "The cacao beans used for this product are grown organically in Ecuador. This high-fat powder is rich, smooth and has a wide range of uses. It is less acidic the natural high fat variety. The Dutching process enhances color and also makes it more soluble.\r\n",
+    "company_name": "Cocoa Supply",
+    "company_slug": "cocoa-supply",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686109687/production/Brand/31578/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606945/production/CategoryImage/505/category_image/FoodNutrition_06.jpg",
+    "properties": {
+        "Applications": [
+            "Beverage",
+            "Food",
+            "Nutrition & Well Being",
+            "Liquor & Spirits",
+            "Beer Brewing",
+            "Bakery",
+            "Confectionery",
+            "Dairy",
+            "Desserts & Fruit Preparations",
+            "Savory & Culinary",
+            "Functional Foods",
+            "Other Non-Alcoholic Beverages",
+            "Tea, Cocoa & Coffee"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Cocoa & Chocolate"
+        ],
+        "End Uses": [
+            "Ice Cream",
+            "Sauces",
+            "Energy Bars",
+            "Chocolates",
+            "Fudge",
+            "Tea",
+            "Beer"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Cocoa Powder"
+        ],
+        "Labeling Claims": [
+            "Dairy-free",
+            "Vegan",
+            "Kosher",
+            "Gluten-free",
+            "Allergen-free",
+            "Organic"
+        ],
+        "Certifications & Compliance": [
+            "Vegan",
+            "Organic Certified"
+        ]
+    }
+}

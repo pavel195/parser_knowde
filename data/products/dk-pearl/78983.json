@@ -1,0 +1,56 @@
+{
+    "id": 78983,
+    "brand": "dk-pearl",
+    "name": "MAKIGREEN™ SOLVE+",
+    "slug": "makigreen-solve",
+    "description": "A PEG and VOC-free, ECOCERT-certified, natural solubilizer.",
+    "company_name": "DAITO KASEI",
+    "company_slug": "daito-kasei-kogyo",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708685491/production/Company/1194/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708685491/production/Company/1194/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Skin Care",
+            "Sun Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Emulsifiers, Solubilizers & Dispersants",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Polyglyceryl-4 Caprate",
+            "Caprylyl/Capryl Glucoside",
+            "Polyglyceryl-6 Laurate",
+            "Pentylene Glycol",
+            "Sodium Dilauramidoglutamide Lysine"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Caprylyl/Capryl Glucoside",
+            "Polyglyceryl-6 Laurate",
+            "Polyglyceryl-4 Caprate",
+            "Pentylene Glycol",
+            "Sodium Dilauramidoglutamide Lysine"
+        ],
+        "Functions": [
+            "Solubilizer"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin"
+        ],
+        "Labeling Claims": [
+            "Credo Clean Standard",
+            "Clean at Sephora",
+            "Naturally Derived",
+            "Natural",
+            "Organic",
+            "Ulta Beauty's Conscious Beauty"
+        ],
+        "Certifications & Compliance": [
+            "Organic Certified",
+            "ECOCERT"
+        ]
+    }
+}

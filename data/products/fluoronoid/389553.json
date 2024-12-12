@@ -1,0 +1,42 @@
+{
+    "id": 389553,
+    "brand": "fluoronoid",
+    "name": "FLUORONOID® FL 103",
+    "slug": "fluoronoid-fl-103",
+    "description": "FLUORONOID® FL 103 is a glass fiber filled PTFE. This material may be inert gas sintered to further improve creep properties and reduce porosity and gas permeability. There will be a consequent loss of tensile properties.",
+    "company_name": "Fluorocarbon Company",
+    "company_slug": "fluorocarbon-company",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708530104/production/Brand/29291/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Other Oil, Gas & Mining Applications",
+            "Equipment & Parts",
+            "Aerospace & Aviation",
+            "Transportation",
+            "Chemical & Industrial Manufacturing",
+            "Oil, Gas & Mining"
+        ],
+        "Product Families": [
+            "High Performance Thermoplastics",
+            "Engineering & Specialty Polymers"
+        ],
+        "Chemical Family": [
+            "Fluoropolymers"
+        ],
+        "Polymer Name": [
+            "Polytetrafluoroethylene (PTFE)"
+        ],
+        "End Uses": [
+            "Aerospace Applications"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polytetrafluoroethylene (PTFE)"
+        ],
+        "Fillers Included": [
+            "Glass Fiber"
+        ]
+    }
+}

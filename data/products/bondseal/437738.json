@@ -1,0 +1,53 @@
+{
+    "id": 437738,
+    "brand": "bondseal",
+    "name": "United Adhesives ET1608",
+    "slug": "united-adhesives-et1608",
+    "description": "United Adhesives ET1608 is a thermally conductive adhesive.",
+    "company_name": "United Adhesives",
+    "company_slug": "united-adhesives",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664567806/production/Company/63007/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607422/production/CategoryImage/517/category_image/ElectricalElectronics_02.jpg",
+    "properties": {
+        "Applications": [
+            "Electrical & Electronic Systems",
+            "Aerospace & Aviation",
+            "Optical Fiber & Telecom",
+            "Automotive ",
+            "Transportation",
+            "Semiconductor Manufacturing",
+            "Printed Circuit Boards (PCBs)",
+            "Wire & Cable",
+            "Parts & Components"
+        ],
+        "Product Families": [
+            "Conductive Adhesives",
+            "Adhesives & Sealants"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Conductive Adhesive",
+            "Epoxy Adhesive",
+            "2K (2 component) Adhesive"
+        ],
+        "Application Areas": [
+            "Semiconductors",
+            "Telecommunications Applications",
+            "Aerospace Applications",
+            "Heat Sink",
+            "Electronic Components"
+        ],
+        "Cure Method": [
+            "Heat Cure"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Glass",
+            "Copper",
+            "Plastics",
+            "Ceramic",
+            "Aluminum",
+            "Metal"
+        ]
+    }
+}

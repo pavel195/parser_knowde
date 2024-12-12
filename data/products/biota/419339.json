@@ -1,0 +1,31 @@
+{
+    "id": 419339,
+    "brand": "biota",
+    "name": "Osmo Pro 9-3-3",
+    "slug": "osmo-pro-9-3-3",
+    "description": "Osmo Pro 9-3-3 is an organic fertilizer that will contribute to soil organic matter and soil fertility. The mix of organic raw materials makes a sophisticated compound fertilizer with controlled release of nutrients over time. The period of releasing nutrients is minimum 90 to 120 days.",
+    "company_name": "BENEFERT",
+    "company_slug": "benefert",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708688155/production/Brand/32899/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608238/production/CategoryImage/552/category_image/AgricultureFeed_08.jpg",
+    "properties": {
+        "Applications": [
+            "Other Agricultural Crops",
+            "Trees & Woodlands",
+            "Agricultural Crops",
+            "Turf, Ornamentals & Landscape"
+        ],
+        "Product Families": [
+            "Fertilizers & Nutrients",
+            "Plant Health, Nutrients & Soil Management"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Fertilizer"
+        ],
+        "Labeling Claims": [
+            "Organic"
+        ]
+    }
+}

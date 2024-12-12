@@ -1,0 +1,48 @@
+{
+    "id": 405290,
+    "brand": "oil-off",
+    "name": "Stuck-OFF™",
+    "slug": "stuck-off",
+    "description": "Stuck-OFF™ is a safe but powerful biosolvent for cleaning adhesive residues, oil and grease, glue, gum, wax and lots more. It is non-llammable and fast acting.",
+    "company_name": "i-SOLV International Chemicals",
+    "company_slug": "i-solv-international-chemicals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292152/production/Brand/31060/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515575/production/CategoryImage/1049/category_image/HII_01.jpg",
+    "properties": {
+        "Applications": [
+            "Carpet & Upholstery",
+            "Industrial Cleaning",
+            "Institutional & Catering",
+            "Vehicle & Machinery",
+            "Institutional & Industrial Care",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Industrial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner",
+            "Adhesive Remover",
+            "Tar Cleaner",
+            "Degreasers"
+        ],
+        "Application Areas": [
+            "Upholstery",
+            "Machine Parts",
+            "Carpets",
+            "Wheel"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Elastomers & Rubbers",
+            "Leather",
+            "Glass",
+            "Plastics"
+        ],
+        "Features": [
+            "Degreasing"
+        ]
+    }
+}

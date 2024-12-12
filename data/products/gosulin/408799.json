@@ -1,0 +1,64 @@
+{
+    "id": 408799,
+    "brand": "gosulin",
+    "name": "REMYTEC F-ECO",
+    "slug": "remytec-f-eco",
+    "description": "REMYTEC F-ECO is a high-polymeric carbohydrate material derived from rice, the seed of the grass species Oryza Sativa.",
+    "company_name": "Gobiotics",
+    "company_slug": "gobiotics",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708690274/production/Brand/22356/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708690274/production/Product/408799/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Skin Care",
+            "Bath & Shower",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Blends & Other Cleansers",
+            "Surfactants & Cleansers"
+        ],
+        "INCI Name": [
+            "Oryza Sativa (Rice) Starch"
+        ],
+        "End Uses": [
+            "Skin Gel",
+            "Body Oil",
+            "Shower Gels"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Oryza Sativa (Rice) Starch"
+        ],
+        "Functions": [
+            "Cleansing Agent"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Vegetable Origin",
+            "Non-Animal Origin",
+            "Plant Origin"
+        ],
+        "Labeling Claims": [
+            "Ulta Beauty's Conscious Beauty",
+            "BSE-free",
+            "Credo Clean Standard",
+            "Clean at Sephora",
+            "TSE-free",
+            "VOC-free",
+            "Sustainable",
+            "Biodegradable",
+            "Naturally Derived",
+            "Non-Toxic",
+            "Non-Irritant",
+            "Allergen-free",
+            "Natural",
+            "Vegan",
+            "Additive-free"
+        ],
+        "Certifications & Compliance": [
+            "WADA Certified"
+        ]
+    }
+}

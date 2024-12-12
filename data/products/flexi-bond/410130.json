@@ -1,0 +1,52 @@
+{
+    "id": 410130,
+    "brand": "flexi-bond",
+    "name": "Edison Coatings SYSTEM 90-II",
+    "slug": "edison-coatings-system-90-ii",
+    "description": null,
+    "company_name": "Edison Coatings",
+    "company_slug": "edison-coatings",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520293/production/Company/54141/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608422/production/CategoryImage/558/category_image/BuildingConstruction_02.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Building & Construction",
+            "Fence, Decks & Rails",
+            "Architectural Coatings",
+            "Building Envelope & Roofing",
+            "Concrete Coatings & Stains",
+            "Building Envelope"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Sealer",
+            "2K (2 component) Coating",
+            "Solventborne Coating"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Stone",
+            "Concrete"
+        ],
+        "Features": [
+            "Acid Resistant",
+            "Low Molecular Weight",
+            "High Porosity",
+            "Sunlight Resistant",
+            "Outdoor Durability",
+            "Salt Water/Spray Resistant",
+            "Excellent Substrate Adhesion",
+            "High Hardness",
+            "Freeze Resistant",
+            "Durable",
+            "Long Term Protection",
+            "Good Weather Stability",
+            "Chemical Resistant"
+        ]
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "id": 381915,
+    "brand": "polytech",
+    "name": "POLYDAMP® Q2 Adhesive Backing (PSA)",
+    "slug": "polydamp-q2-adhesive-backing-psa",
+    "description": "Polydamp® Q2 Adhesive Backing (PSA) is a high performance supported pressure sensitive adhesive designed to bond to irregular as well as flat surfaces. This adhesive bonds well to many surfaces including foams, metals and most low surface energy plastics.",
+    "company_name": "Polymer Technologies",
+    "company_slug": "polymer-technologies",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664562190/production/Brand/28649/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608744/production/CategoryImage/575/category_image/AutomotiveTransportation_03.jpg",
+    "properties": {
+        "Applications": [
+            "Other Adhesives & Sealants Applications"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Pressure Sensitive Adhesives & Tapes"
+        ],
+        "Chemical Family": [
+            "Natural Rubbers",
+            "Polyisoprenes"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Pressure Sensitive Adhesive"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Plastics"
+        ],
+        "Chemical Family": [
+            "Natural Rubbers",
+            "Polyisoprenes"
+        ],
+        "Features": [
+            "High Performance",
+            "Tacky"
+        ]
+    }
+}

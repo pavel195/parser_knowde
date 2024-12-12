@@ -1,0 +1,57 @@
+{
+    "id": 428871,
+    "brand": "recaloflosso",
+    "name": "EVAFANOL® HA-560",
+    "slug": "evafanol-ha-560",
+    "description": "EVAFANOL® HA-560 is a waterborne Polyurethane dispersion with excellent scratch and corrosion resistance.",
+    "company_name": "NICCA U.S.A. Inc.",
+    "company_slug": "niccachemical",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112432/production/Company/55517/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625605366/production/CategoryImage/443/category_image/Plastics_02.jpg",
+    "properties": {
+        "Applications": [
+            "Flooring & Surfaces",
+            "Building & Construction",
+            "Industrial Coatings",
+            "Floor Coatings",
+            "Metal Coatings"
+        ],
+        "Product Families": [
+            "Resins & Binders",
+            "Polyurethanes (PU)"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ],
+        "End Uses": [
+            "Waterborne Coating"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ],
+        "End Uses": [
+            "Waterborne Coating"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Steel"
+        ],
+        "Glass Transition Temperature (Tg)": [
+            "60.0 - 60.0 °C"
+        ],
+        "Features": [
+            "High Durability",
+            "Good Moisture Resistance",
+            "Improved Hardness",
+            "Stain Resistance",
+            "Abrasion Resistance",
+            "Heat Resistance",
+            "Corrosion Resistance",
+            "Good Hydrolysis Resistance",
+            "Non-Yellowing Grade",
+            "Excellent Scratch Resistance"
+        ]
+    }
+}

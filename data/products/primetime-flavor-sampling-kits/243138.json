@@ -1,0 +1,66 @@
+{
+    "id": 243138,
+    "brand": "primetime-flavor-sampling-kits",
+    "name": "PRIMETIME Nat Hibiscus Flavor WONF (BD-10628)",
+    "slug": "primetime-nat-hibiscus-flavor-wonf-bd-10628",
+    "description": "\nSensory Profile:\nFlavoured Alcoholic Beverages: Hibiscus, dried fruit, ripe cherry, sulphury berry, jammy raspberrySpirits: Hibiscus, red berries, dried fruit, sulphury berry, jammy raspberryWater (Beverages): Hibiscus, floral, dried fruit, spicy sweet, woodyConfectionery: Hibiscus, flesh/pulp, skin/peel, floral fruity, red berries, astringent",
+    "company_name": "Givaudan",
+    "company_slug": "givaudan",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1723097183/production/Brand/15807/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1723097183/production/Product/243138/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Other Nutrition Applications",
+            "Cereals & Snacks",
+            "Other Food Applications",
+            "Functional Foods",
+            "Bakery",
+            "Desserts & Fruit Preparations",
+            "Functional & Flavored Water",
+            "Energy Drinks",
+            "Tea, Cocoa & Coffee",
+            "Dairy",
+            "Confectionery",
+            "Other Non-Alcoholic Beverages",
+            "Liquor & Spirits",
+            "Beverage",
+            "Food",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Flavor Ingredients",
+            "Taste & Flavor"
+        ],
+        "Flavor Family": [
+            "Herb Flavors"
+        ],
+        "End Uses": [
+            "Flavored Water",
+            "Ice Cream",
+            "Functional Beverages",
+            "Alcoholic Beverages",
+            "Dairy Drinks",
+            "Dairy Products",
+            "Confectionery Products",
+            "Syrups"
+        ]
+    },
+    "summary": {
+        "Physical Form": [
+            "Liquid"
+        ],
+        "Soluble In": [
+            "Water Soluble"
+        ],
+        "Certifications & Compliance": [
+            "TTB Approved",
+            "Kosher"
+        ],
+        "Labeling Claims": [
+            "Natural",
+            "Allergen-free",
+            "Gluten-free",
+            "Vegan"
+        ]
+    }
+}

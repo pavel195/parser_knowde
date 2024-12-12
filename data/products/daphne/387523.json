@@ -1,0 +1,54 @@
+{
+    "id": 387523,
+    "brand": "daphne",
+    "name": "MASTERALL® 1300",
+    "slug": "masterall-1300",
+    "description": "MASTERALL® 1300 is a high performing, low foaming semi-synthetic fluid designed for high pressure coolant applications such as milling, turning, deep hole drilling, reaming, tapping and sawing. The coolant may be used for machining aluminum, titanium, carbon steel, copper, cast steel, alloy steel, tool steel, stainless steel, cast iron, bronze, brass and high temperature alloys.",
+    "company_name": "Etna Products Inc.",
+    "company_slug": "etna-products-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664291657/production/Brand/29090/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608769/production/CategoryImage/577/category_image/AutomotiveTransportation_05.jpg",
+    "properties": {
+        "Applications": [
+            "Automotive Fluids & Lubricants",
+            "Aerospace Fluids & Lubricants",
+            "Lubricants & Functional Fluids"
+        ],
+        "Product Families": [
+            "Heat Transfer Fluids",
+            "Metalworking Fluids",
+            "Fluids & Lubricants"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Fluid",
+            "Tapping Oils"
+        ],
+        "Metalworking Fluid Type": [
+            "Semi-Synthetic"
+        ],
+        "Application Areas": [
+            "Sawing Operations",
+            "Drilling Applications",
+            "Tapping Operations",
+            "Milling Operations",
+            "Reaming"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Steel",
+            "Brass",
+            "Copper",
+            "Iron",
+            "Metal",
+            "Titanium",
+            "Aluminum",
+            "Stainless Steel"
+        ],
+        "Features": [
+            "Low Foaming",
+            "High Performance",
+            "Extreme Pressure Performance"
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "id": 415434,
+    "brand": "parawett",
+    "name": "Parawett™ 783",
+    "slug": "parawett-783",
+    "description": "Parawett™ 783 is an Re-wetter or Antisize Agent. It is used in Felt, Wire, General Cleaning, Parawett and Industrial Cleaners.",
+    "company_name": "Paradigm Chemical And Consulting",
+    "company_slug": "paradigm-chemical-and-consulting",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292556/production/Brand/32390/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515625/production/CategoryImage/1053/category_image/HII_05.jpg",
+    "properties": {
+        "Applications": [
+            "Institutional & Industrial Care",
+            "Industrial Cleaning"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Industrial Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Industrial Cleaners",
+            "Cleaner"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Fibers & Fabrics"
+        ]
+    }
+}

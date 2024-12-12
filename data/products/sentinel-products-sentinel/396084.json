@@ -1,0 +1,32 @@
+{
+    "id": 396084,
+    "brand": "sentinel-products-sentinel",
+    "name": "Sentinel 606 Aqua Emulsion Degreaser",
+    "slug": "sentinel-606-aqua-emulsion-degreaser",
+    "description": "Sentinel 606 Aqua Emulsion Degreaser is a biodegradable, water soluble degreaser that is an excellent alternative to traditional petroleum or hazardous solvents. Highly concentrated with superior degreasing properties, 606’s specialized blend of water-soluble solvents, wetting, and emulsifying agents, create this heavy-duty cleaner.",
+    "company_name": "Sentinel Products",
+    "company_slug": "sentinel-products",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1670414849/production/Company/50293/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515671/production/CategoryImage/1057/category_image/HII_09.jpg",
+    "properties": {
+        "Applications": [
+            "Institutional & Industrial Care",
+            "Surface Care",
+            "Industrial Cleaning",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Industrial Cleaners",
+            "Commercial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Degreasers"
+        ],
+        "Features": [
+            "Degreasing"
+        ]
+    }
+}

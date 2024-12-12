@@ -1,0 +1,51 @@
+{
+    "id": 100220,
+    "brand": "visijet",
+    "name": "VisiJet® M3 Crystal",
+    "slug": "visijet-m3-crystal",
+    "description": "An engineered plastic performance for durability and stability ideal for functional testing and rapid tooling applications. This material also provides true plastic look and feel for a vast array of prototyping and end use applications. VisiJet Crystal is USP Class VI certified for approved medical applications.",
+    "company_name": "3D Systems",
+    "company_slug": "3d-systems",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708522960/production/Brand/9430/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708522960/production/Company/2708/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Tooling & Moldmaking",
+            "Other Medical Applications",
+            "Medical",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Photoactive Resins",
+            "3D Printing Polymers"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ],
+        "Polymer Name": [
+            "Epoxy Resins & Compounds"
+        ],
+        "End Uses": [
+            "Tooling",
+            "Prototyping",
+            "Medical/Healthcare Applications"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Epoxy Resins & Compounds"
+        ],
+        "Processing Methods": [
+            "3D Printing",
+            "Photopolymer Jetting"
+        ],
+        "End Uses": [
+            "Prototyping",
+            "Medical/Healthcare Applications",
+            "Tooling"
+        ],
+        "Tensile Strength": [
+            "42.4 - 42.4 MPa"
+        ]
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "id": 329222,
+    "brand": "versatech",
+    "name": "Ex-Tech Plastics XAS-11",
+    "slug": "ex-tech-plastics-xas-11",
+    "description": "XAS-11 is a low charging (formerly known as anti-static) rigid vinyl, or PET sheet designed for thermoforming. XAS-11 is available in thickness from 10 to 60 mils. It is engineered for packaging applications that contain non-ESD sensitive items to be transported within ESD controlled environments.",
+    "company_name": "Ex-Tech Plastics",
+    "company_slug": "ex-tech-plastics",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686149878/production/Company/32013/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609117/production/CategoryImage/596/category_image/PrintingPackaging_07.jpg",
+    "properties": {
+        "Applications": [
+            "Packaging",
+            "Food & Beverage Packaging",
+            "Non-Food Consumer Packaging",
+            "Other Packaging Materials"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Vinyls, Vinylics & Vinyl Derivatives"
+        ],
+        "Polymer Name": [
+            "Polyvinyl Chloride (PVC)"
+        ],
+        "End Uses": [
+            "Rigid Films",
+            "Shipping Containers",
+            "Rigid Packaging",
+            "Thermoforming Applications"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyvinyl Chloride (PVC)"
+        ],
+        "Physical Form": [
+            "Sheets"
+        ],
+        "Features": [
+            "ESD Protection",
+            "Anti-Static",
+            "Excellent Rigidity"
+        ],
+        "Density": [
+            "1330.0 - 1330.0 kg/m³"
+        ]
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "id": 411721,
+    "brand": "h-o-products-corporation-ksil",
+    "name": "kSil™ V-0 Medium-Firm Flame Resistant Silicone Sponge Tape",
+    "slug": "ksil-v-0-medium-firm-flame-resistant-silicone-sponge-tape",
+    "description": "kSil™ V-0 Medium-Firm Flame Resistant Silicone Sponge Tape is a lightweight, closed cell silicone sponge .",
+    "company_name": "H-O Products Corporation",
+    "company_slug": "h-o-products-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520143/production/Brand/32108/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609091/production/CategoryImage/594/category_image/PrintingPackaging_05.jpg",
+    "properties": {
+        "Applications": [
+            "Tapes & Labels",
+            "Tapes, Labels & Adhesives",
+            "Automotive Lighting",
+            "Cooling & Climate",
+            "Marine",
+            "Rail & Mass Transit",
+            "Automotive Electronics",
+            "Military & Defense",
+            "Advanced Materials",
+            "Aerospace & Aviation",
+            "Devices & Assemblies",
+            "Transportation",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Pressure Sensitive Adhesives & Tapes"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Foam Tape"
+        ],
+        "Application Area": [
+            "Automotive Lighting",
+            "HVAC Insulation",
+            "Marine Applications"
+        ],
+        "Features": [
+            "Ozone Resistant",
+            "Low Outgassing",
+            "Low Water Absorption",
+            "Light Weight",
+            "Low Smoke Emission",
+            "Excellent Seal Properties",
+            "Flame Resistant",
+            "Low Toxicity",
+            "UV Resistant"
+        ]
+    }
+}

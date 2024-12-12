@@ -1,0 +1,47 @@
+{
+    "id": 317664,
+    "brand": "polymat",
+    "name": "POLYFORM QU ADAXIAL",
+    "slug": "polyform-qu-adaxial",
+    "description": "Polyform Qu Adaxial is a quadaxial fabric with fibers aligned in four different directions 0°, -45°, 90°, +45°. Due to the strategic fiber alignment this product is often used in boat building and wind turbine blades.",
+    "company_name": "Scott & Fyfe",
+    "company_slug": "scott-fyfe",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686148856/production/Product/317664/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608779/production/CategoryImage/578/category_image/AutomotiveTransportation_06.jpg",
+    "properties": {
+        "Applications": [
+            "Power, Water & Utilities",
+            "Marine",
+            "Rail & Mass Transit",
+            "Renewable Energy",
+            "Transportation"
+        ],
+        "Product Families": [
+            "Reinforcements",
+            "Glass Fiber"
+        ],
+        "Chemical Family": [
+            "Glass Beads & Fibers"
+        ],
+        "End Uses": [
+            "Wind Turbine Blades",
+            "FRP Boats"
+        ]
+    },
+    "summary": {
+        "Reinforcement Material": [
+            "Glass Fibers"
+        ],
+        "Reinforcement Form": [
+            "Multiaxial Fabric"
+        ],
+        "Features": [
+            "Lightweight",
+            "Good Mechanical Properties",
+            "High Strength",
+            "Light Weight",
+            "Improved Mechanical Properties",
+            "High Stiffness"
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "id": 303612,
+    "brand": "brasmide",
+    "name": "RESYGS AH 2060",
+    "slug": "resygs-ah-2060",
+    "description": "RESYGS AH 2060 is a acrylic resin styrene hydroxylated diiuide in ABS.",
+    "company_name": "SGS",
+    "company_slug": "sgs",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112546/production/Company/17927/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608611/production/CategoryImage/569/category_image/PaintingsCoatings_05.jpg",
+    "properties": {
+        "Applications": [
+            "Coatings & Finishes",
+            "Automotive & Transportation",
+            "Industrial Coatings",
+            "Packaging Coatings",
+            "Marine",
+            "Automotive OEM Coatings",
+            "Industrial Maintenance",
+            "Overprint Varnishes",
+            "Marine Coatings",
+            "Vehicle Refinish",
+            "Other Paints & Coatings Applications",
+            "Transportation"
+        ],
+        "Product Families": [
+            "Resins & Binders",
+            "Acrylics"
+        ],
+        "Chemical Family": [
+            "Styrene-Acrylic Copolymer"
+        ],
+        "End Uses": [
+            "Varnishes"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Styrene-Acrylic Copolymer"
+        ],
+        "End Uses": [
+            "Varnishes"
+        ],
+        "Features": [
+            "Good Leveling"
+        ]
+    }
+}

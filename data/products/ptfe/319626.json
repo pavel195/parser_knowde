@@ -1,0 +1,47 @@
+{
+    "id": 319626,
+    "brand": "ptfe",
+    "name": "Snaptube®",
+    "slug": "snaptube",
+    "description": null,
+    "company_name": "Zeus Industrial Products",
+    "company_slug": "zeus-industrial-products",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686150308/production/Product/319626/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608841/production/CategoryImage/581/category_image/HealthcarePharma_03.jpg",
+    "properties": {
+        "Applications": [
+            "Wire & Cable",
+            "Jacketing & Insulation"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Fluoropolymers"
+        ],
+        "Polymer Name": [
+            "Polytetrafluoroethylene (PTFE)"
+        ],
+        "End Uses": [
+            "Appliance Wire Insulation",
+            "Industrial Cable Insulation"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polytetrafluoroethylene (PTFE)"
+        ],
+        "Physical Form": [
+            "Tube"
+        ],
+        "Features": [
+            "Flame Resistant",
+            "Chemical Resistant",
+            "Good Abrasion Resistance",
+            "Excellent Dielectric Properties",
+            "Impact Resistance",
+            "Excellent Lubricity",
+            "Wear Resistant"
+        ]
+    }
+}

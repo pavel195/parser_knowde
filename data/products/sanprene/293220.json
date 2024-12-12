@@ -1,0 +1,39 @@
+{
+    "id": 293220,
+    "brand": "sanprene",
+    "name": "SANMODUR TW-E",
+    "slug": "sanmodur-tw-e",
+    "description": "SANMODUR TW-E is tooling material (chemical board) for models &amp; molds in various processes. It has lower rates of moisture expansion this is less than one-quarter that of a conventional product. Improving deflection temperature to 95°C maintaining other performance of conventional product.",
+    "company_name": "Sanyo Chemical America Incorporated",
+    "company_slug": "sanam-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708689321/production/Product/293220/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708689321/production/Product/293220/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Wall Panels",
+            "Interior Fixtures",
+            "Interior",
+            "Exterior & Body",
+            "Automotive Lighting",
+            "Tooling & Moldmaking",
+            "Automotive",
+            "Building Materials",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Foam Cores",
+            "Core Materials"
+        ],
+        "End Uses": [
+            "Lighting Fixtures"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Core Material"
+        ],
+        "Core Type": [
+            "Polyurethane Foam"
+        ]
+    }
+}

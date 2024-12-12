@@ -1,0 +1,29 @@
+{
+    "id": 412333,
+    "brand": "floor-plus",
+    "name": "Odor Free™",
+    "slug": "odor-free",
+    "description": "Odor Free™ is a ready to use formula specifically designed to eliminate objectionable odors in household, institutional, and industrial settings. Odor Free™ is a technologically advanced odor controller and carpet &amp; upholstery cleaner that combines the fast action of chemistry with the long-term benefits of microbes.",
+    "company_name": "Geokleen",
+    "company_slug": "geokleen",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691046342/production/Brand/32178/logo/image",
+    "banner_url": "https://static.knowde.com/card-banners/knowde-card-for-raw-materials-8.jpg",
+    "properties": {
+        "Applications": [
+            "Carpet & Upholstery",
+            "Vehicle & Machinery",
+            "Auto Care",
+            "Surface Care",
+            "Institutional & Catering",
+            "Industrial Cleaning",
+            "Institutional & Industrial Care",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Industrial Cleaners",
+            "Commercial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {}
+}

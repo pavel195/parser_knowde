@@ -1,0 +1,45 @@
+{
+    "id": 300281,
+    "brand": "resveratrolrich",
+    "name": "CherryRich™ 36:1",
+    "slug": "cherryrich-36-1",
+    "description": "CherryRich™ 36:1 extract replete with all the phytonutrients found in fresh, sweet Bing cherries.",
+    "company_name": "InovoBiologic Inc.",
+    "company_slug": "inovobiologic-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686104871/production/Product/300281/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607026/production/CategoryImage/510/category_image/FoodNutrition_11.jpg",
+    "properties": {
+        "Applications": [
+            "Nutrition & Well Being",
+            "Functional Foods",
+            "Nutraceuticals & Supplements"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Fruit Products & Extracts"
+        ],
+        "End Uses": [
+            "Functional Foods",
+            "Tablets",
+            "Nutraceuticals"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Cherry"
+        ],
+        "Physical Form": [
+            "Solid",
+            "Powder"
+        ],
+        "Labeling Claims": [
+            "Non-GMO",
+            "Organic"
+        ],
+        "Features": [
+            "High Quality",
+            "High Purity",
+            "Antioxidant Properties"
+        ]
+    }
+}

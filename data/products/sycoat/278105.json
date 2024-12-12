@@ -1,0 +1,50 @@
+{
+    "id": 278105,
+    "brand": "sycoat",
+    "name": "Saitack® 934",
+    "slug": "saitack-934",
+    "description": "Saitack® 934 is a high solids acrylic emulsion with formulating base for pressure-sensitive and film laminating adhesives.",
+    "company_name": "STI Polymer",
+    "company_slug": "sti-polymer",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112024/production/Company/22069/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609103/production/CategoryImage/595/category_image/PrintingPackaging_06.jpg",
+    "properties": {
+        "Applications": [
+            "Tapes & Labels",
+            "Packaging & Paper",
+            "Tapes, Labels & Adhesives",
+            "Tape & Label Adhesives"
+        ],
+        "Product Families": [
+            "Resins & Binders",
+            "Acrylics"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ],
+        "End Uses": [
+            "Pressure Sensitive Adhesive",
+            "Solvent Free (100% Solids) Adhesive"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ],
+        "End Uses": [
+            "Pressure Sensitive Adhesive",
+            "Solvent Free (100% Solids) Adhesive"
+        ],
+        "Glass Transition Temperature (Tg)": [
+            "-47.0 - -47.0 °C"
+        ],
+        "Features": [
+            "Alkali Resistance",
+            "Good Blush Resistance",
+            "High Shear Contribution",
+            "Low Migration",
+            "Good Balance of Properties",
+            "Excellent Tack Stability"
+        ]
+    }
+}

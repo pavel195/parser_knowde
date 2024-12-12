@@ -1,0 +1,38 @@
+{
+    "id": 347621,
+    "brand": "omegasource",
+    "name": "MaGOmega™",
+    "slug": "magomega",
+    "description": "MaGOmega™ featuring omega-3's in monoglyceride (MAG) form for greater bioavailability. Solutex is the only supplier providing a vegan option in MAG form.",
+    "company_name": "SOLUTEX NA",
+    "company_slug": "solutex-na",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672796/production/Brand/25937/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606984/production/CategoryImage/507/category_image/FoodNutrition_08.jpg",
+    "properties": {
+        "Applications": [
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Fatty Acids, Specialty Lipids & Oils",
+            "Nutrition & Fortification"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Docosahexaenoic Acid"
+        ],
+        "Functions": [
+            "Supplement",
+            "Dietary Supplement"
+        ],
+        "Labeling Claims": [
+            "Vegan",
+            "Non-GMO"
+        ],
+        "Features": [
+            "Promotes Digestive Health",
+            "Excellent Bioavailability"
+        ]
+    }
+}

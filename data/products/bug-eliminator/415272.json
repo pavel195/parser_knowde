@@ -1,0 +1,28 @@
+{
+    "id": 415272,
+    "brand": "bug-eliminator",
+    "name": "Kaady Chemical HD Steam Cleaner",
+    "slug": "kaady-chemical-hd-steam-cleaner",
+    "description": "HD Steam Cleaner is used for the Wood Products industry, HD Steam Cleaner is a specially-designed product to clean surfaces that are exposed to pitch, resin, wood dust, and other volatile organic compound residues.",
+    "company_name": "Kaady Chemical",
+    "company_slug": "kaady-chemical",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292679/production/Company/55394/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515684/production/CategoryImage/1058/category_image/HII_10.jpg",
+    "properties": {
+        "Applications": [
+            "Home Care",
+            "Institutional & Industrial Care",
+            "Surface Care",
+            "Industrial Cleaning"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Industrial Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Steam Cleaners"
+        ]
+    }
+}

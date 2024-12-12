@@ -1,0 +1,45 @@
+{
+    "id": 327916,
+    "brand": "opticryl",
+    "name": "OPTICRYL PA 1950",
+    "slug": "opticryl-pa-1950",
+    "description": "OPTICRYL PA 1950 by OPTICHEM is a Pure Acrylic Polymer Base .It has Universal Pure Acrylic Binder with excellent weatherability.",
+    "company_name": "OPTICHEM",
+    "company_slug": "optichem",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112407/production/Brand/23587/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608410/production/CategoryImage/557/category_image/BuildingConstruction_01.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Flooring & Surfaces",
+            "Building & Construction",
+            "Mortars & Plasters",
+            "Decorative Paints",
+            "Architectural Coatings",
+            "Decorative Paints, Coatings & Stains",
+            "Building Envelope & Roofing",
+            "Decorative Materials & Finishes",
+            "Wood Coatings & Finishes",
+            "Other Paints & Coatings Applications",
+            "Building Envelope"
+        ],
+        "Product Families": [
+            "Resins & Binders",
+            "Acrylics"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Wood"
+        ],
+        "Features": [
+            "Excellent Weatherability"
+        ]
+    }
+}

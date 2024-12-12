@@ -1,0 +1,50 @@
+{
+    "id": 344277,
+    "brand": "mnl-group-delphinol",
+    "name": "Maqui MNL",
+    "slug": "maqui-mnl",
+    "description": "Maqui MNL is a powdered ingredient with a high antioxidant capacity. MaquiMNL is a new ingredient to be added to dietary supplements such as milk shakes, yogurt, ice cream, granola bars, and other food items.",
+    "company_name": "MNL group",
+    "company_slug": "mnl-group",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686104826/production/Brand/25611/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606846/production/CategoryImage/500/category_image/FoodNutrition_01.jpg",
+    "properties": {
+        "Applications": [
+            "Food",
+            "Nutrition & Well Being",
+            "Cereals & Snacks",
+            "Dairy",
+            "Desserts & Fruit Preparations",
+            "Functional Foods",
+            "Nutraceuticals & Supplements"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Fruit Products & Extracts"
+        ],
+        "End Uses": [
+            "Ice Cream",
+            "Dietary Supplements",
+            "Yogurt Mixes",
+            "Granola",
+            "Powder Shakes"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Maqui Berry"
+        ],
+        "Physical Form": [
+            "Solid",
+            "Powder"
+        ],
+        "Labeling Claims": [
+            "Plant-Based",
+            "Naturally Derived"
+        ],
+        "Features": [
+            "Antioxidant Properties",
+            "Freeze Dried"
+        ]
+    }
+}

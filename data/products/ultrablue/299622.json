@@ -1,0 +1,71 @@
+{
+    "id": 299622,
+    "brand": "ultrablue",
+    "name": "DCL Corporation 5352 Phthalocyanine Blue, PB.15:2",
+    "slug": "dcl-corporation-5352-phthalocyanine-blue-pb-15-2",
+    "description": "DCL Corporation 5352 Phthalocyanine Blue, PB.15:2 is an alpha, red shade phthalocyanine blue treated to provide crystal stability and flocculation resistance. 5352 is FDA Approved (Section 178.3297).",
+    "company_name": "DCL Corporation",
+    "company_slug": "dcl-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1711628401/production/Company/22785/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608566/production/CategoryImage/566/category_image/PaintingsCoatings_02.jpg",
+    "properties": {
+        "Applications": [
+            "Agricultural & Construction Equipment",
+            "Architectural Coatings",
+            "Offset & Lithographic Printing",
+            "Industrial Coatings",
+            "Decorative Paints",
+            "Decorative Paints, Coatings & Stains",
+            "Inkjet Printing",
+            "Flexography",
+            "Building & Construction",
+            "Printing & Inks",
+            "Building Envelope & Roofing",
+            "Decorative Materials & Finishes"
+        ],
+        "Product Families": [
+            "Color Pigments",
+            "Organic Pigments",
+            "Pigments & Colorants"
+        ],
+        "Chemical Family": [
+            "Copper (II) Salts",
+            "Phthalocyanine"
+        ],
+        "End Uses": [
+            "Offset Ink",
+            "Waterborne Ink",
+            "Solventborne Ink",
+            "Radiation Curable Ink",
+            "Inkjet Ink",
+            "Flexography Ink",
+            "Powder Coating"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Copper (II) Salts",
+            "Phthalocyanine"
+        ],
+        "Pigment Type": [
+            "Organic Pigments"
+        ],
+        "CI Name": [
+            "Pigment Blue 15:2"
+        ],
+        "CI Number": [
+            "74160"
+        ],
+        "Color": [
+            "Blue"
+        ],
+        "Compatible Polymers & Resins": [
+            "Polypropylenes (PP)",
+            "Polyethylenes (PE)",
+            "Polyvinyl Chloride (PVC)"
+        ],
+        "Synonyms": [
+            "(Phthalocyaninato)copper, (SP-4-1)-[29H,31H-Phthalocyaninato(2-)-κN29,κN30,κN31,κN32]copper, [29H ,31H-Phthalocyaninato(2-)-N29,N30,N31,N32]copper, [Phthalocyaninato(2-)]copper, Copper phthalocyanine, Copper phthalocyanine blue, Copper tetrabenzoporphyrazine, Copper β-phthalocyanine, Copper(2+) phthalocyanine, Cupric phthalocyanine, Cyanine Blue, Copper Chlorophthalocyanine"
+        ]
+    }
+}

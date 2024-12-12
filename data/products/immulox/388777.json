@@ -1,0 +1,44 @@
+{
+    "id": 388777,
+    "brand": "immulox",
+    "name": "Immulox® Spray",
+    "slug": "immulox-spray",
+    "description": "Immulox® Spray is derived from colostrum concentrated with colostral polypeptides (CP’s).",
+    "company_name": "APS BioGroup",
+    "company_slug": "aps-biogroup",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708525904/production/Brand/29200/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608186/production/CategoryImage/548/category_image/AgricultureFeed_04.jpg",
+    "properties": {
+        "Applications": [
+            "Oral",
+            "Other Non-Alcoholic Beverages",
+            "Other Nutrition Applications",
+            "Nutraceuticals & Supplements",
+            "Other Animal Health & Nutrition",
+            "Sports Nutrition",
+            "Sports Drinks",
+            "Animal Health & Nutrition",
+            "Beverage",
+            "Nutrition & Well Being",
+            "Drug Delivery & Care Solutions"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Sports Nutrition",
+            "Sports Drinks"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Colostrum"
+        ],
+        "Features": [
+            "High Protein Content"
+        ]
+    }
+}

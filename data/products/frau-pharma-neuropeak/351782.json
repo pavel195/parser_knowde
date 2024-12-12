@@ -1,0 +1,27 @@
+{
+    "id": 351782,
+    "brand": "frau-pharma-neuropeak",
+    "name": "Frau Pharma Levosimendan",
+    "slug": "frau-pharma-levosimendan",
+    "description": "Frau Pharma Levosimendan is used in a range of conditions requiring inotropic support, including right ventricular failure, cardiogenic shock, septic shock, and Takotsubo cardiomyopathy. It enhances myocardial contractility without increasing oxygen requirements, and causes coronary and systemic vasodilation.",
+    "company_name": "Frau Pharma",
+    "company_slug": "frau-pharma",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708527374/production/Company/38029/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607009/production/CategoryImage/509/category_image/FoodNutrition_10.jpg",
+    "properties": {
+        "Applications": [
+            "Other Nutrition Applications",
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Active Pharmaceutical Ingredients (APIs)",
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements",
+            "Pharmaceutical Actives & Precursors"
+        ]
+    },
+    "summary": {}
+}

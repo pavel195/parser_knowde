@@ -1,0 +1,67 @@
+{
+    "id": 212192,
+    "brand": "omnilane",
+    "name": "Esacure ONE",
+    "slug": "esacure-one",
+    "description": "Esacure ONE is a difunctional alpha-hydroxy ketone photoinitiator. It is a highly reactive difunctional photoinitiator particularly suitable for clear systems. Due to its molecular structure it is particularly suitable for all systems where low VOC, low migration and low extraction values are needed (food packaging).",
+    "company_name": "IGM Resins",
+    "company_slug": "igm-resins",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708695951/production/Company/7406/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608939/production/CategoryImage/585/category_image/AdhesivesSealants_02.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial Manufacturing",
+            "Electronics Adhesives",
+            "Furniture Adhesives",
+            "Industrial Adhesives & Sealants",
+            "Furniture",
+            "Adhesives & Sealants",
+            "Electronics Coatings",
+            "Wood Coatings & Finishes",
+            "Automotive Electronics",
+            "Consumer Electronics",
+            "Appliances & Electronics",
+            "Metal Coatings",
+            "Industrial Coatings",
+            "Industrial & Assembly Adhesives",
+            "Devices & Assemblies",
+            "Packaging & Assembly",
+            "Chemical & Industrial Manufacturing",
+            "Building & Construction",
+            "Specialty Coatings"
+        ],
+        "Product Families": [
+            "Catalysts & Initiators",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Ketones"
+        ],
+        "End Uses": [
+            "Reactive Adhesive",
+            "Radiation Curable Ink",
+            "Radiation Curable Coating",
+            "Powder Coating"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Ketones"
+        ],
+        "Functions": [
+            "Photoinitiator"
+        ],
+        "CAS Number": [
+            "163702-01-0"
+        ],
+        "End Uses": [
+            "Radiation Curable Coating",
+            "Powder Coating",
+            "Reactive Adhesive",
+            "Radiation Curable Ink"
+        ],
+        "Synonyms": [
+            "Benzene, (1-methylethenyl)-, homopolymer, ar-(2-hydroxy-2-methyl-1-oxopropyl) derivs."
+        ]
+    }
+}

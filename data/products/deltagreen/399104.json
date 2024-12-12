@@ -1,0 +1,33 @@
+{
+    "id": 399104,
+    "brand": "deltagreen",
+    "name": "DeltaGreen® Bus Wash Shampoo",
+    "slug": "deltagreen-bus-wash-shampoo",
+    "description": "DeltaGreen® Bus Wash Shampoo is formulated with the highest quality ingredients. It contains no inorganic phosphates, which can reduce water quality if introduced into the natural environment. It does contain conditioners to nourish your paint and fight water spots. This 100% surface-friendly, biodegradable formula outperforms hazardous solvent shampoos and surface cleaners. Fast penetrating DeltaGreen Bus Wash lubricating foam lifts and holds soil in suspension for easy scratch-free rinsing. DeltaGreen Bus Wash breaks down dirt and grime while lubricating surfaces, allowing debris to be gently rinsed off.",
+    "company_name": "DeltaGreen",
+    "company_slug": "deltagreen",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292059/production/Company/50822/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515647/production/CategoryImage/1055/category_image/HII_07.jpg",
+    "properties": {
+        "Applications": [
+            "Institutional & Industrial Care",
+            "Vehicle & Machinery"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Commercial Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner"
+        ],
+        "Application Areas": [
+            "Truck"
+        ],
+        "Features": [
+            "Grime Cleaning",
+            "Good Penetration"
+        ]
+    }
+}

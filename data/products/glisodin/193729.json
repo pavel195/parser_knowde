@@ -1,0 +1,37 @@
+{
+    "id": 193729,
+    "brand": "glisodin",
+    "name": "Artesa® Chickpea Protein",
+    "slug": "artesa-chickpea-protein",
+    "description": "Artesa® Chickpea Protein is a highly nutritious plant protein concentrate that can match dairy proteins for taste, texture, mouthfeel and formulation functionality. With Artesa, you can deliver higher levels of protein in consumer-pleasing products with easier, faster processing, leaner, cleaner labels and unleashed creativity.",
+    "company_name": "PLT Health Solutions",
+    "company_slug": "plt-health-solutions",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697222709/production/Company/1365/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1697222709/production/Company/1365/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Cereals & Snacks",
+            "Other Food Applications",
+            "Confectionery",
+            "Bakery",
+            "Functional Foods",
+            "Savory & Culinary",
+            "Convenience Foods",
+            "Food",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Proteins & Amino Acids",
+            "Plant Proteins",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Soups",
+            "Sauces",
+            "Pasta",
+            "Ready Meals"
+        ]
+    },
+    "summary": {}
+}

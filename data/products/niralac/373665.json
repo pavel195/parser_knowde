@@ -1,0 +1,44 @@
+{
+    "id": 373665,
+    "brand": "niralac",
+    "name": "Niralac MV 350 – 55",
+    "slug": "niralac-mv-350-55",
+    "description": "Niralac MV 350 – 55 is used in interior and exterior general purpose paints.",
+    "company_name": "National Industrial Resins",
+    "company_slug": "national-industrial-resins",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112315/production/Brand/27900/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608640/production/CategoryImage/572/category_image/PaintingsCoatings_08.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Building & Construction",
+            "Decorative Paints",
+            "Architectural Coatings",
+            "Decorative Paints, Coatings & Stains",
+            "Building Envelope & Roofing",
+            "Decorative Materials & Finishes",
+            "Building Envelope"
+        ],
+        "Product Families": [
+            "Resins & Binders",
+            "Alkyds"
+        ],
+        "Chemical Family": [
+            "Alkyds (Long Oil)",
+            "Alkyds"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Alkyds",
+            "Alkyds (Long Oil)"
+        ],
+        "Features": [
+            "Fast Drying",
+            "Color Retention",
+            "High Gloss",
+            "Yellowing Resistance",
+            "Good Gloss Retention"
+        ]
+    }
+}

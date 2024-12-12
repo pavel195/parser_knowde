@@ -1,0 +1,37 @@
+{
+    "id": 300455,
+    "brand": "stymobil-co",
+    "name": "THICR 118",
+    "slug": "thicr-118",
+    "description": "THICR 118 is water-based Acrylic thickner. It is a cross- linked acrylic emulsion when emulsion is diluted with water &amp; treated with alkali, each emulsion particle swells &amp; emulsion becomes &amp; viscous.\r\n",
+    "company_name": "Mobel Polymers",
+    "company_slug": "mobel-polymers",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708684034/production/Company/24265/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608477/production/CategoryImage/562/category_image/BuildingConstruction_06.jpg",
+    "properties": {
+        "Applications": [
+            "Other Adhesives & Sealants Applications",
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Rheology Modifiers & Stabilizers",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Acrylics, Acrylates & Methacrylates"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Thickener",
+            "Rheology Modifier"
+        ],
+        "Chemical Family": [
+            "Acrylics, Acrylates & Methacrylates"
+        ],
+        "Physical Form": [
+            "Liquid",
+            "Emulsion"
+        ]
+    }
+}

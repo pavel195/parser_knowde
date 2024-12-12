@@ -1,0 +1,59 @@
+{
+    "id": 292140,
+    "brand": "polsil",
+    "name": "POLSIL® GUM 214/70",
+    "slug": "polsil-gum-214-70",
+    "description": "Polsil® GUM 214/70 is a special grade heat cured elastomer designed for flame-retardant applications.",
+    "company_name": "Silikony Polskie",
+    "company_slug": "silikony-polskie",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112618/production/Company/21376/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607436/production/CategoryImage/518/category_image/ElectricalElectronics_03.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Other Building Materials"
+        ],
+        "Product Families": [
+            "Specialty Elastomers",
+            "Silicone Elastomers"
+        ],
+        "Chemical Family": [
+            "Silicones"
+        ],
+        "Polymer Name": [
+            "Silicone Elastomer"
+        ],
+        "End Uses": [
+            "Gaskets",
+            "Profiles",
+            "Hoses",
+            "Electrical Insulation"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Silicone Elastomer"
+        ],
+        "Processing Methods": [
+            "Compression Molding",
+            "Extrusion"
+        ],
+        "End Uses": [
+            "Profiles",
+            "Gaskets",
+            "Electrical Insulation",
+            "Hoses"
+        ],
+        "Features": [
+            "Flexible",
+            "High Gas Permeability",
+            "Flame Retardant",
+            "Good UV Resistance",
+            "Ozone Resistant",
+            "Heat Resistance",
+            "Durable",
+            "Chemical Resistant",
+            "Non-Flammable"
+        ]
+    }
+}

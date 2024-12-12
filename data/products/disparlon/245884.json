@@ -1,0 +1,39 @@
+{
+    "id": 245884,
+    "brand": "disparlon",
+    "name": "NA-SUL® CA-1259",
+    "slug": "na-sul-ca-1259",
+    "description": "NA-SUL® CA-1259 is a high performance liquid rust and corrosion inhibitor for rust preventives and dewatering fluids. It offers excellent solubility in a wide range of mineral oils, esters and vegetable oils. NA-SUL® CA-1259 is less viscous than many other additives of its type and may often be able to be cold blended into oils. This results in lower energy cost and faster processing. NA-SUL® CA-1259 has an exceptional ability to help to separate water from oil and oil/solvent solutions making it very suitable for dewatering fluid applications. The solubility of NA-SUL® CA-1259 should be verified in the diluents that are being considered for use.",
+    "company_name": "King Industries",
+    "company_slug": "king-industries",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672415/production/Company/7448/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708672415/production/Company/7448/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Fluids & Lubricants",
+            "Automotive Fluids & Lubricants",
+            "Lubricants & Functional Fluids",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Surface Protective Additives",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Sulfonic Acids & Derivatives",
+            "Sulfonates"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Corrosion Inhibitor"
+        ],
+        "Chemical Family": [
+            "Sulfonates",
+            "Sulfonic Acids & Derivatives"
+        ],
+        "Features": [
+            "Corrosion Resistant"
+        ]
+    }
+}

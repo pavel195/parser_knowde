@@ -1,0 +1,73 @@
+{
+    "id": 417322,
+    "brand": "nap",
+    "name": "NAP Broombush Oil",
+    "slug": "nap-broombush-oil",
+    "description": "Broombush (Melaleuca uncinata) is a plant is a plant in the paperbark family native to southern Australia. It is harvested from the wild and grown in plantations for broombush fencing and is now also being cultivated for its essential oil. A multi-stemmed evergreen shrub usually less than 2 m, it has spreading or ascending leaves, 19–56 mm (0.75–2.20 in) long and 0.8–1.2 mm (0.031–0.047 in) wide, linear in shape, almost circular in cross-section, and tapering to a distinctly curved hook. The leaves have large oil glands along their edges. Its flowers are white, cream or yellow, and are attractive to birds. It grows in warm temperate and semi-arid areas in sandy soils that are acidic to alkaline. With a zesty yet sweet aroma, this steam distilled oil has a complex variety of uses based on the individual chemotype of the batch of oil, but in general it is valued for its antiseptic, antifungal, insect repellent and expectorant properties.",
+    "company_name": "Naturally Australian Products",
+    "company_slug": "naturally-australian-products",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709127853/production/Company/45312/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515647/production/CategoryImage/1055/category_image/HII_07.jpg",
+    "properties": {
+        "Applications": [
+            "Bath & Shower",
+            "Skin Care",
+            "Fragrances & Perfumes",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Essential Oils",
+            "Vitamins, Extracts & Oils"
+        ],
+        "Chemical Family": [
+            "Essential Oils"
+        ],
+        "INCI Name": [
+            "Melaleuca Uncinata Flower/Leaf Extract"
+        ],
+        "End Uses": [
+            "Fragrances & Perfumes",
+            "Liquid Soap"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Melaleuca Uncinata Flower/Leaf Extract"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Non-Animal Origin",
+            "Plant Origin"
+        ],
+        "Benefit Claims": [
+            "Antiseptic",
+            "Anti-Fungal",
+            "Non-Irradiated",
+            "Expectorant",
+            "Anti-Bacterial"
+        ],
+        "Labeling Claims": [
+            "Nanomaterials-free",
+            "Non-Toxic",
+            "Phthalates-free",
+            "Non-GMO",
+            "Cruelty-Free",
+            "Natural",
+            "Plant-Based",
+            "TSE-free",
+            "Not Tested on Animals",
+            "Not Listed In California Proposition 65",
+            "CMR Substances-free",
+            "Naturally Derived",
+            "BSE-free",
+            "Organic",
+            "PEG-free"
+        ],
+        "Certifications & Compliance": [
+            "Organic Certified",
+            "FDA Compliant",
+            "Nagoya Compliant",
+            "USDA Certified"
+        ]
+    }
+}

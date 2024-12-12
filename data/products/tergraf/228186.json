@@ -1,0 +1,42 @@
+{
+    "id": 228186,
+    "brand": "tergraf",
+    "name": "TERGRAF UZ-78",
+    "slug": "tergraf-uz-78",
+    "description": "TERGRAF TG UZ-78 is recommended for heatset inks and varnishes. Good setting, high gloss and low tack.",
+    "company_name": "Respol Resinas",
+    "company_slug": "respol-resinas",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686111965/production/Product/228186/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609128/production/CategoryImage/597/category_image/PrintingPackaging_08.jpg",
+    "properties": {
+        "Applications": [
+            "Printing & Inks",
+            "Other Printing Applications",
+            "Offset & Lithographic Printing"
+        ],
+        "Product Families": [
+            "Other Resins & Binders",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Rosin Esters"
+        ],
+        "End Uses": [
+            "Offset Ink",
+            "Varnishes"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Rosin Esters"
+        ],
+        "End Uses": [
+            "Varnishes",
+            "Offset Ink"
+        ],
+        "Features": [
+            "Fast Setting",
+            "High Gloss"
+        ]
+    }
+}

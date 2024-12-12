@@ -1,0 +1,26 @@
+{
+    "id": 248459,
+    "brand": "diagotex",
+    "name": "G-WEAVE 505P",
+    "slug": "g-weave-505p",
+    "description": "G-Weave 505P is a plain-weave bidirectional 500 gsm glass fabric, balanced on both warp and weft.",
+    "company_name": "Chomarat",
+    "company_slug": "chomarat",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697223398/production/Company/18989/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608693/production/CategoryImage/573/category_image/AutomotiveTransportation_01.jpg",
+    "properties": {
+        "Applications": [
+            "Interior",
+            "Exterior & Body",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Glass Fiber",
+            "Reinforcements"
+        ],
+        "Chemical Family": [
+            "Glass Beads & Fibers"
+        ]
+    },
+    "summary": {}
+}

@@ -1,0 +1,39 @@
+{
+    "id": 318770,
+    "brand": "stretch-vac",
+    "name": "Northern Composites MTF-275",
+    "slug": "northern-composites-mtf-275",
+    "description": "MTF-275 a clear/matte, is an intermediate temperature release film for use with most resin types curing at temperatures up to 260°F. It provides a very smooth glossy finish on one side and an even textured finish on the other.",
+    "company_name": "Northern Composites",
+    "company_slug": "northern-composites",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686149827/production/Company/29321/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608769/production/CategoryImage/577/category_image/AutomotiveTransportation_05.jpg",
+    "properties": {
+        "Applications": [
+            "Medical",
+            "Marine",
+            "Other Medical Applications",
+            "Aerospace & Aviation",
+            "Transportation"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "End Uses": [
+            "Film",
+            "Vacuum Bagging Film"
+        ]
+    },
+    "summary": {
+        "Physical Form": [
+            "Film"
+        ],
+        "Features": [
+            "Good Surface Finish",
+            "High Gloss"
+        ],
+        "Color": [
+            "Transparent"
+        ]
+    }
+}

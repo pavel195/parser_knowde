@@ -1,0 +1,40 @@
+{
+    "id": 347210,
+    "brand": "diamond-k",
+    "name": "Sho-Chiku-Bai®",
+    "slug": "sho-chiku-bai",
+    "description": "Sho-Chiku-Bai® is a japanese style, short grain \"sweet\" or \"mochi\" rice is super starchy with specialized applications and not typically used as table or sushi rice. Grains are short, plump, and opaque and steam up in a sticky mass. Friction milled white. Less than 2% broken kernels.* Certified Kosher (KSA), GMO-free (Non-GMO Project Verified), Gluten-free. Pure, unadulterated rice – no additives of any sort.",
+    "company_name": "Koda Farms",
+    "company_slug": "koda-farms",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704796067/production/Brand/25870/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606914/production/CategoryImage/502/category_image/FoodNutrition_03.jpg",
+    "properties": {
+        "Applications": [
+            "Other Food Applications",
+            "Confectionery",
+            "Food"
+        ],
+        "Product Families": [
+            "Flours & Grains Products",
+            "Whole Foods, Extracts & Premixes"
+        ],
+        "End Uses": [
+            "Confectionery Products"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Rice"
+        ],
+        "Labeling Claims": [
+            "Non-GMO",
+            "Gluten-free",
+            "Kosher",
+            "Additive-free"
+        ],
+        "Certifications & Compliance": [
+            "Kosher",
+            "Non-GMO Project Verified"
+        ]
+    }
+}

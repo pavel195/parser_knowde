@@ -1,0 +1,49 @@
+{
+    "id": 421442,
+    "brand": "xecarb-sl",
+    "name": "XECARB® 45-C20-S",
+    "slug": "xecarb-45-c20-s",
+    "description": "XECARB® 45-C20-S is a 20% carbon fiber reinforced PVDF",
+    "company_name": "Xenia",
+    "company_slug": "xenia",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708532374/production/Company/24102/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708532374/production/Brand/20478/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Footwear"
+        ],
+        "Product Families": [
+            "High Performance Thermoplastics",
+            "Thermoplastic Resins",
+            "Polymers & Resins",
+            "Engineering & Specialty Polymers"
+        ],
+        "Chemical Family": [
+            "Vinyls, Vinylics & Vinyl Derivatives"
+        ],
+        "Polymer Name": [
+            "Polyvinylidene Fluoride (PVDF)"
+        ],
+        "End Uses": [
+            "Mountaineering Boots",
+            "Structural Parts"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyvinylidene Fluoride (PVDF)"
+        ],
+        "Chemical Family": [
+            "Vinyls, Vinylics & Vinyl Derivatives"
+        ],
+        "Reinforcement Material": [
+            "Carbon Fibers"
+        ],
+        "Fillers Included": [
+            "Carbon Fiber"
+        ],
+        "Processing Methods": [
+            "Injection Molding"
+        ]
+    }
+}

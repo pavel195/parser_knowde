@@ -1,0 +1,68 @@
+{
+    "id": 95704,
+    "brand": "sanprene",
+    "name": "IONET T-80V",
+    "slug": "ionet-t-80v",
+    "description": "IONET T products are ethylene oxide adducts of IONET S products and are more hydrophilic. They are used as emulsifiers together with lipophilic surfactants such as IONETS products, to produce creamy cosmetics and creamy ointments. IONET T-80V is used for fluidic cosmetics. IONET T-80V is solubilizing agents for perfumes, refined oils and fats of various kinds.",
+    "company_name": "Sanyo Chemical America Incorporated",
+    "company_slug": "sanam-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708699501/production/Product/95704/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708699501/production/Product/95704/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Skin Care",
+            "Treatment Products",
+            "Other Industrial Applications",
+            "Chemical & Industrial Manufacturing",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Nonionic Surfactants",
+            "Surface Protective Additives",
+            "Lubricant Protective Additives",
+            "Emulsifiers, Solubilizers & Dispersants",
+            "Additives",
+            "Functionals",
+            "Surfactants & Cleansers"
+        ],
+        "Chemical Family": [
+            "Sorbitan Esters",
+            "Fatty Acids"
+        ],
+        "INCI Name": [
+            "Polysorbate 20"
+        ],
+        "End Uses": [
+            "Body Cream",
+            "Fragrances & Perfumes"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Polysorbate 20"
+        ],
+        "Chemical Family": [
+            "Fatty Acids",
+            "Sorbitan Esters"
+        ],
+        "Functions": [
+            "Dispersant",
+            "Surfactant",
+            "Solubilizer",
+            "Surfactant (Nonionic)",
+            "Cleansing Agent",
+            "Corrosion Inhibitor",
+            "Emulsifier (W/O)",
+            "Emulsifier"
+        ],
+        "Labeling Claims": [
+            "Clean at Sephora",
+            "Ulta Beauty's Conscious Beauty"
+        ],
+        "Certifications & Compliance": [
+            "Halal",
+            "Kosher",
+            "EFISC"
+        ]
+    }
+}

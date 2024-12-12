@@ -1,0 +1,54 @@
+{
+    "id": 120963,
+    "brand": "filter-bond",
+    "name": "Di-Pak™ E-4595",
+    "slug": "di-pak-e-4595",
+    "description": "DI-PAK E-4500 SERIESFlexible, 45, 65 and, 95 shore A hardness, potting and encapsulating systems. Flame retardant (FR), accelerated 3 minute (-3) gel time, and black or unpigmented versions are available.",
+    "company_name": "Hapco Inc.",
+    "company_slug": "hapco-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708519793/production/Company/2788/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708519793/production/Company/2788/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Batteries",
+            "Battery Packaging",
+            "Switches & Relays",
+            "Other Devices & Assemblies",
+            "Electrical & Electronic Systems",
+            "Jacketing & Insulation",
+            "Automotive",
+            "Battery Materials",
+            "Devices & Assemblies",
+            "Parts & Components",
+            "Wire & Cable"
+        ],
+        "Product Families": [
+            "Polyurethanes",
+            "Thermoset Resins"
+        ],
+        "Polymer Name": [
+            "Polyurethane (unspecified)"
+        ],
+        "End Uses": [
+            "Switches",
+            "Electrical/Electronic Applications",
+            "Battery Cases",
+            "Power Cable Shields"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyurethane (unspecified)"
+        ],
+        "Processing Methods": [
+            "Encapsulating",
+            "Potting"
+        ],
+        "End Uses": [
+            "Power Cable Shields",
+            "Switches",
+            "Electrical/Electronic Applications",
+            "Battery Cases"
+        ]
+    }
+}

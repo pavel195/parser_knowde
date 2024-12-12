@@ -1,0 +1,37 @@
+{
+    "id": 361100,
+    "brand": "ktisofloor",
+    "name": "Ktisofloor AS",
+    "slug": "ktisofloor-as",
+    "description": "Ktisofloor AS forms a seamless resinous surface that has conductive properties. The product should be applied together with Ktisofloor AS primer. 3-component self-leveling epoxy flooring system suitable for surfaces that require conductive and anti-static floors.",
+    "company_name": "Ktisis",
+    "company_slug": "ktisis",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520280/production/Brand/27000/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608422/production/CategoryImage/558/category_image/BuildingConstruction_02.jpg",
+    "properties": {
+        "Applications": [
+            "Flooring & Surfaces",
+            "Floor Coatings"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Other Paints & Coatings"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "3K Coating",
+            "Epoxy Coating"
+        ],
+        "Features": [
+            "Conductive",
+            "Anti-Static"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "id": 381874,
+    "brand": "xolefin",
+    "name": "Xolefin® 4 ZEVA",
+    "slug": "xolefin-4-zeva",
+    "description": "Xolefin® 4 ZEVA is an irradiation crosslinked, closed-cell ZEVA foam. The ZEVA products exhibit fine cell structure, excellent mechanical properties at low densities. It can be laminated for greater thickness or to other substrates as well as die cut, printed, or adhesive coated.",
+    "company_name": "MHXCo Foam Company",
+    "company_slug": "mhxco-foam-company",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1702444503/production/Brand/28646/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608860/production/CategoryImage/583/category_image/HealthcarePharma_05.jpg",
+    "properties": {
+        "Applications": [
+            "Other Industrial Applications",
+            "Other Medical Applications",
+            "Medical"
+        ],
+        "Product Families": [
+            "Foams"
+        ],
+        "Chemical Family": [
+            "Polyolefins"
+        ]
+    },
+    "summary": {
+        "Foam Type": [
+            "Closed Cell Foam"
+        ],
+        "Density": [
+            "64.0 - 64.0 kg/m³"
+        ],
+        "Chemical Family": [
+            "Polyolefins"
+        ],
+        "Physical Form": [
+            "Foam"
+        ]
+    }
+}

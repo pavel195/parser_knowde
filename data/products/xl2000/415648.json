@@ -1,0 +1,46 @@
+{
+    "id": 415648,
+    "brand": "xl2000",
+    "name": "KECO 400",
+    "slug": "keco-400",
+    "description": "KECO 400 is a metallic ceramic coating with performance characteristics of a dry film lubricant. This coating is formulated for thermal barrier applications. KECO 400 operates in high temperatures when Teflon® and other coatings fail. Heat resistant up to 1200°F, KECO 400 resists most aggressive organic and inorganic solvents.",
+    "company_name": "KECO Engineered Coatings",
+    "company_slug": "keco-engineered-coatings",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520207/production/Brand/32418/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608779/production/CategoryImage/578/category_image/AutomotiveTransportation_06.jpg",
+    "properties": {
+        "Applications": [
+            "Coatings & Finishes",
+            "Industrial Coatings",
+            "Automotive OEM Coatings"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ],
+        "Chemical Family": [
+            "Ceramics"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Coating"
+        ],
+        "Features": [
+            "Chemical Resistant",
+            "High Temperature Resistance",
+            "Heat Resistance",
+            "Thermally Insulating"
+        ],
+        "Application Area": [
+            "Automotive Engine"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Ceramic"
+        ],
+        "Chemical Family": [
+            "Ceramics"
+        ]
+    }
+}

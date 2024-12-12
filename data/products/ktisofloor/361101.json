@@ -1,0 +1,40 @@
+{
+    "id": 361101,
+    "brand": "ktisofloor",
+    "name": "Ktisofloor HD",
+    "slug": "ktisofloor-hd",
+    "description": "Ktisofloor HD is an epoxy screed that forms a seamless resinous surface that has been formulated to withstand exceptional mechanical resistance to wear and tear. 3-component, solvent less self-leveling epoxy flooring screed that protects surfaces from heavy-duty mechanical stress and chemical abrasion.",
+    "company_name": "Ktisis",
+    "company_slug": "ktisis",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520319/production/Brand/27000/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608422/production/CategoryImage/558/category_image/BuildingConstruction_02.jpg",
+    "properties": {
+        "Applications": [
+            "Flooring & Surfaces",
+            "Floor Coatings"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Other Paints & Coatings"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "3K Coating",
+            "Solventless & High Solids Coating",
+            "Epoxy Coating"
+        ],
+        "Features": [
+            "Abrasion Resistant",
+            "Excellent Leveling Properties",
+            "Tear Resistance",
+            "Wear Resistant"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    }
+}

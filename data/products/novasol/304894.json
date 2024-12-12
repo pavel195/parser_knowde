@@ -1,0 +1,66 @@
+{
+    "id": 304894,
+    "brand": "novasol",
+    "name": "NovaSOL® CURCUMIN",
+    "slug": "novasol-curcumin",
+    "description": "NovaSOL® CURCUMIN is an orange-yellow component of turmeric (Curcuma longa).",
+    "company_name": "AQUANOVA AG",
+    "company_slug": "aquanova-ag",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708698269/production/Brand/20249/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708698269/production/Product/304894/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Nutraceuticals & Supplements",
+            "Other Non-Alcoholic Beverages",
+            "Beverage",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Phytochemicals & Plant Extracts",
+            "Antioxidants",
+            "Plant & Herb Products & Extracts",
+            "Phytochemicals",
+            "Nutrition & Fortification",
+            "Whole Foods, Extracts & Premixes",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Wound Treatment",
+            "Dietary Supplements"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Turmeric Rhizome Extract"
+        ],
+        "Active Component": [
+            "Curcuminoids",
+            "Curcumene"
+        ],
+        "Functions": [
+            "Supplement",
+            "Dietary Supplement",
+            "Antioxidant"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin"
+        ],
+        "Labeling Claims": [
+            "Halal",
+            "Natural",
+            "Kosher",
+            "Naturally Derived"
+        ],
+        "Certifications & Compliance": [
+            "Halal",
+            "ISO 22000",
+            "FSSC 22000",
+            "Hazard Analysis Critical Control Point (HACCP)",
+            "GMP",
+            "Kosher",
+            "Generally Recognized As Safe (GRAS)"
+        ]
+    }
+}

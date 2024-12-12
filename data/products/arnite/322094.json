@@ -1,0 +1,46 @@
+{
+    "id": 322094,
+    "brand": "arnite",
+    "name": "Arnitel® EM740-H",
+    "slug": "arnitel-em740-h",
+    "description": "Arnitel® EM740-H is a high-performance thermoplastic copolyester (TPC) renowned for its exceptional blend of flexibility, high temperature resistance, and strength, complemented by excellent processing characteristics. In industries spanning from automotive to E&amp;E, it is gaining prominence as a more sustainable and efficient alternative to traditional rubbers, leading to reduced environmental impact and lower system costs. This material can be processed using both extrusion and injection molding technologies and includes heat stabilization for enhanced performance.",
+    "company_name": "Envalior",
+    "company_slug": "envalior",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708531036/production/Company/30097/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708531036/production/Company/30097/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Sports & Recreation",
+            "Jacketing & Insulation",
+            "Wire & Cable"
+        ],
+        "Product Families": [
+            "Thermoplastic Polyester Elastomers (TPE-E)",
+            "Thermoplastic Elastomers"
+        ],
+        "Chemical Family": [
+            "Polyesters"
+        ],
+        "Polymer Name": [
+            "Thermoplastic Copolyester Elastomer (TPC-ET)"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Thermoplastic Copolyester Elastomer (TPC-ET)"
+        ],
+        "Processing Methods": [
+            "Extrusion",
+            "Injection Molding"
+        ],
+        "Density": [
+            "1290.0 - 1290.0 kg/m³"
+        ],
+        "Strain at Break": [
+            "570.0 - 570.0 %"
+        ],
+        "Flexural Modulus": [
+            "940.0 - 940.0 MPa"
+        ]
+    }
+}

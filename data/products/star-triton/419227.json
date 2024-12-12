@@ -1,0 +1,38 @@
+{
+    "id": 419227,
+    "brand": "star-triton",
+    "name": "STAR-SEAL SUPREME®",
+    "slug": "star-seal-supreme",
+    "description": "STAR-SEAL SUPREME® is a premium grade, Refined Tar emulsion (water based) sealcoating for jobs that demand only the best performance. STAR-SEAL SUPREME® has the industry’s highest degree of toughness and water repellency, unmatched by any competitive sealer. The “Hot Blending” of catalyzed rubber and select polymers with the Refined Tar in STAR-SEAL SUPREME® greatly improves its durability and overall longevity. Superior water repellency is achieved with the use of specialty chemicals that enhance the water resistance of the cured coating. STAR-SEAL SUPREME® was designed with increased levels rubber and performance boosting specialty chemicals to deliver unmatched performance. STAR-SEAL SUPREME® has excellent resistance to gasoline, oil, chemicals and deicing salts.",
+    "company_name": "Star Seal Of Ohio",
+    "company_slug": "star-seal-of-ohio",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520371/production/Brand/32877/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608566/production/CategoryImage/566/category_image/PaintingsCoatings_02.jpg",
+    "properties": {
+        "Applications": [
+            "Infrastructure, Roads & Paving",
+            "Coatings & Markings",
+            "Pavement, Highways, Roads & Bridges"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Sealer"
+        ],
+        "Features": [
+            "Chemical Resistant",
+            "Water-based",
+            "Oil Resistant",
+            "High Flexibility",
+            "Water Resistant",
+            "Gasoline Resistant",
+            "Excellent Toughness",
+            "Excellent Water Repellency ",
+            "High Durability"
+        ]
+    }
+}

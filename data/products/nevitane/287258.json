@@ -1,0 +1,55 @@
+{
+    "id": 287258,
+    "brand": "nevitane",
+    "name": "Nevimid 66 A G30 NATURALE",
+    "slug": "nevimid-66-a-g30-naturale",
+    "description": "Nevimid 66 A G30 NATURALE is a Polyamide 66 reinforced with 30% glass fiber, natural color. its used in Automotive &amp; Agricolture Consumer Goods",
+    "company_name": "Nevicolor",
+    "company_slug": "nevicolor",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708530830/production/Company/21364/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608744/production/CategoryImage/575/category_image/AutomotiveTransportation_03.jpg",
+    "properties": {
+        "Applications": [
+            "Interior",
+            "Exterior & Body",
+            "Silage & Stretch Films",
+            "Mulch & Fumigation Films",
+            "Greenhouse & Tunnel Films",
+            "Other Consumer Goods Applications",
+            "Other Agricultural Films",
+            "Other Automotive Applications",
+            "Agricultural Films",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Polyamides",
+            "Engineering & Specialty Polymers"
+        ],
+        "Chemical Family": [
+            "Polyamides"
+        ],
+        "Polymer Name": [
+            "Polyamide 66 (PA 66)"
+        ],
+        "End Uses": [
+            "Mulch Film",
+            "Greenhouse Film",
+            "Automotive Interior Parts",
+            "Automotive Exterior Parts",
+            "Consumer Applications",
+            "Agricultural Applications",
+            "Automotive Applications"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyamide 66 (PA 66)"
+        ],
+        "Fillers Included": [
+            "Glass Fiber"
+        ],
+        "Flexural Modulus": [
+            "9000.0 - 9000.0 MPa"
+        ]
+    }
+}

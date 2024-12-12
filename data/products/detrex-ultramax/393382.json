@@ -1,0 +1,35 @@
+{
+    "id": 393382,
+    "brand": "detrex-ultramax",
+    "name": "Detrex® FCC 23˚",
+    "slug": "detrex-fcc-23",
+    "description": "Detrex® FCC 23˚ is the highest quality hydrochloric acid for the food &amp; beverage industry.",
+    "company_name": "Detrex Corporation",
+    "company_slug": "detrex-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704102098/production/Brand/29649/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608841/production/CategoryImage/581/category_image/HealthcarePharma_03.jpg",
+    "properties": {
+        "Applications": [
+            "Other Food Applications",
+            "Food"
+        ],
+        "Product Families": [
+            "Inorganic Acids",
+            "Technical Salts & Inorganics"
+        ],
+        "Chemical Family": [
+            "Inorganic Acids"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Hydrochloric Acid (HCl)"
+        ],
+        "Grade": [
+            "Food Grade"
+        ],
+        "Purity (Assay)": [
+            "36.5 - 38.0 %"
+        ]
+    }
+}

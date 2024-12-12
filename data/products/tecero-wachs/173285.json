@@ -1,0 +1,42 @@
+{
+    "id": 173285,
+    "brand": "tecero-wachs",
+    "name": "TeCero-Wachs® 5004 K",
+    "slug": "tecero-wachs-5004-k",
+    "description": "Waxes are widely used in cleaning and care products to maintain surfaces, provide gloss and to fulfill hygienic requirements. TeCero-Wachs® 5004 K is used in living areas, on the outside of buildings, on floors and furniture, as well as for leather care and car polishes. Tromm has developed special wax blends tailored specifically for the formulation of cleaning and care products and which provide the manufacturer with a simpler working process.",
+    "company_name": "Th. C. Tromm GmbH",
+    "company_slug": "th-c-tromm-gmbh",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708686828/production/Company/1440/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708686828/production/Company/1440/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Surface Care",
+            "Vehicle & Machinery",
+            "Auto Care",
+            "Carpet & Upholstery",
+            "Home Care",
+            "Institutional & Industrial Care"
+        ],
+        "Product Families": [
+            "Performance Additives",
+            "Functional Additives"
+        ],
+        "End Uses": [
+            "Floor Cleaners",
+            "Automotive Polishes",
+            "Multisurface Cleaners",
+            "Furniture Cleaners"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Gloss Enhancer"
+        ],
+        "End Uses": [
+            "Furniture Cleaners",
+            "Multisurface Cleaners",
+            "Floor Cleaners",
+            "Automotive Polishes"
+        ]
+    }
+}

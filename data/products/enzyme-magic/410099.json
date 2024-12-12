@@ -1,0 +1,36 @@
+{
+    "id": 410099,
+    "brand": "enzyme-magic",
+    "name": "Enzyme Magic® Grease & Waste Digester",
+    "slug": "enzyme-magic-grease-waste-digester",
+    "description": "Enzyme Magic® Grease &amp; Waste Digester will not generate heat or corrode plumbing. It deodorizes by attacking the organic source of odors. Enzyme Magic® Mold &amp; Mildew Stain Cleaner is a concentrated formula specifically blended for mold and mildew remediation. It safely and effectively cleans fungus, mold spores, and Mildew stains.",
+    "company_name": "Enzyme Solutions",
+    "company_slug": "enzyme-solutions",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292293/production/Brand/31793/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515602/production/CategoryImage/1051/category_image/HII_03.jpg",
+    "properties": {
+        "Applications": [
+            "Institutional & Industrial Care",
+            "Industrial Cleaning",
+            "Institutional & Catering"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Commercial Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner",
+            "Degreasers"
+        ],
+        "Application Areas": [
+            "Drains",
+            "Bathrooms"
+        ],
+        "Features": [
+            "Degreasing",
+            "Neutral pH"
+        ]
+    }
+}

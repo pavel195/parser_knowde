@@ -1,0 +1,36 @@
+{
+    "id": 411586,
+    "brand": "icc-940-stain-remover-degreaser",
+    "name": "ICC 8266 Ink Degradent™",
+    "slug": "icc-8266-ink-degradent",
+    "description": "ICC 8266 Ink Degradent™ is a conventional and U/V ink cleaner designed as an economical spray/wipe to clean screens during a total reclaim.",
+    "company_name": "Intercontinental Chemical",
+    "company_slug": "intercontinental-chemical",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292472/production/Brand/32058/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515602/production/CategoryImage/1051/category_image/HII_03.jpg",
+    "properties": {
+        "Applications": [
+            "Home Care",
+            "Institutional & Industrial Care",
+            "Surface Care",
+            "Industrial Cleaning"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Other Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner",
+            "Ink Cleaner",
+            "Stain Removers"
+        ],
+        "Application Areas": [
+            "Screen"
+        ],
+        "Features": [
+            "Stain Removing"
+        ]
+    }
+}

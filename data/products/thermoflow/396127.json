@@ -1,0 +1,49 @@
+{
+    "id": 396127,
+    "brand": "thermoflow",
+    "name": "Muehlmeier E-glass mat E-CSM- emulsion bonded",
+    "slug": "muehlmeier-e-glass-mat-e-csm-emulsion-bonded",
+    "description": "Muehlmeier E-glass mat E-CSM- emulsion bonded consists of cut and non-oriented E-CR glass strands, which have silane size. The binding of the strands amongst each other happens by a liquid mat binder on PVAc base which is easily soluble in styrene. Working happens in the well known contact- and continuous processes. The mat is suitable for UP, EP and vinyl ester resins. Compared to E-glass E-CR glass has excellent resistance against chemical and thermal influences and also a higher dielectric strength.",
+    "company_name": "Muehlmeier",
+    "company_slug": "muehlmeier",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686149096/production/Company/50305/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608769/production/CategoryImage/577/category_image/AutomotiveTransportation_05.jpg",
+    "properties": {
+        "Applications": [
+            "Interior",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Reinforcements",
+            "Glass Fiber"
+        ],
+        "Chemical Family": [
+            "Glass Beads & Fibers"
+        ]
+    },
+    "summary": {
+        "Reinforcement Material": [
+            "Glass Fibers"
+        ],
+        "Reinforcement Form": [
+            "Mat"
+        ],
+        "Compatible Polymers & Resins": [
+            "Epoxies (EP)",
+            "Unsaturated Polyester (UPE)",
+            "Vinyl Esters"
+        ],
+        "Processing Methods": [
+            "Injection Molding",
+            "Pultrusion",
+            "Compression Molding",
+            "Hand Lay-up",
+            "Resin Transfer Molding (RTM)"
+        ],
+        "Features": [
+            "High Dielectric Strength",
+            "Good Thermal Stability",
+            "Chemical Resistant"
+        ]
+    }
+}

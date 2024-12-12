@@ -1,0 +1,43 @@
+{
+    "id": 130635,
+    "brand": "flextuff",
+    "name": "Regis® 6200",
+    "slug": "regis-6200",
+    "description": "120,000psi Flexural Modulus TPO for Injection MoldingRegis Thermoplastic Polyolefin (TPO) compounds provide a unique balance of physical properties and ease of processing. Regis' full range of flexural modulus, impact and other physical property options allows you to customize a solution to meet your specific application's needs.Regis compounds are used in the automotive and heavy truck industries for applications such as side fairings, bumper covers, rocker panels, air inlet panels and other applications that require a balance of durability and processability.Features Include:Flexural modulus range from 35,000 - 350,000 psiAvailable in natural, black or custom colorsAdditive packages include: UV stabilization, scratch and mar resistanceCan be formulated utilizing reprocessed base materialsFormulations for injection molding as well as profile and sheet extrusionCustomized formulations available to meet your specific needAll Regis products are 100% recyclable",
+    "company_name": "Noble Polymers",
+    "company_slug": "noble-polymers",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708520276/production/Company/2818/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708520276/production/Company/2818/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Interior",
+            "Exterior & Body",
+            "Other Automotive Applications",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Polyolefins",
+            "Basic Thermoplastics"
+        ],
+        "Chemical Family": [
+            "Polyolefins"
+        ],
+        "Polymer Name": [
+            "Polyolefin (unspecified)"
+        ],
+        "End Uses": [
+            "Automotive Interior Parts",
+            "Automotive Exterior Parts",
+            "Automotive Bumpers",
+            "Automotive Applications"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyolefin (unspecified)"
+        ],
+        "Processing Methods": [
+            "Injection Molding"
+        ]
+    }
+}

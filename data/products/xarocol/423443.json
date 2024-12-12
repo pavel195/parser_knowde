@@ -1,0 +1,32 @@
+{
+    "id": 423443,
+    "brand": "xarocol",
+    "name": "XAROCOL®",
+    "slug": "xarocol",
+    "description": "XAROCOL® is a consistent, uniform, natural red pigment and provides efficient absorption with optimal dispersability and stability in the final feed. XAROCOL® gives proven benefits to Layers and Broiler species.",
+    "company_name": "EW Nutrition",
+    "company_slug": "ew-nutrition",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708688864/production/Brand/33331/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608173/production/CategoryImage/547/category_image/AgricultureFeed_03.jpg",
+    "properties": {
+        "Applications": [
+            "Birds & Poultry",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Colorants & Pigments",
+            "Production Aids and Processing Additives"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Paprika Extract"
+        ],
+        "Functions": [
+            "Colorant"
+        ],
+        "Color": [
+            "Red"
+        ]
+    }
+}

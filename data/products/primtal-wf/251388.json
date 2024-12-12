@@ -1,0 +1,51 @@
+{
+    "id": 251388,
+    "brand": "primtal-wf",
+    "name": "Fosfital Extra",
+    "slug": "fosfital-extra",
+    "description": "FOSFITAL EXTRA is a biostimulant made out of Calcium phosphite which presents a double function over crops: on one hand it acts as a source of phosphorus and potassium. On the other hand, because of its contents in phosphorus in phosphite ion form, it stimulates the selfdefense mechanisms of the plants roots, neck, stems and fruits against pathogenic fungi. It is recommended to use FOSFITAL EXTRA when there is an increased consumption of these elements, like during formation of the root system, blooming, fruit formation, fattening and ripening. It prevents damping and rot diseases in horticultural crops.",
+    "company_name": "Artal",
+    "company_slug": "artal",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672144/production/Company/19266/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708672144/production/Company/19266/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Oilseeds",
+            "Fiber Crops",
+            "Legumes",
+            "Fodder & Forage",
+            "Other Agricultural Crops",
+            "Herbs & Spice Crops",
+            "Sugar & Starch Crops",
+            "Ornamentals",
+            "Vegetables",
+            "Fruits",
+            "Agricultural Crops",
+            "Turf, Ornamentals & Landscape"
+        ],
+        "Product Families": [
+            "Bioenhancers",
+            "Plant Growth Regulators (PGR) & Harvest Aids",
+            "Adjuvants & Formulation Ingredients",
+            "Plant Health, Nutrients & Soil Management"
+        ],
+        "Chemical Family": [
+            "Potassium Salts",
+            "Phosphates"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Plant Growth Regulator (PGR)",
+            "Bioenhancer"
+        ],
+        "Chemical Family": [
+            "Potassium Salts",
+            "Phosphates"
+        ],
+        "Application Technique": [
+            "Sprinklers",
+            "Chemigation"
+        ]
+    }
+}

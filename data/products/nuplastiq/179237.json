@@ -1,0 +1,60 @@
+{
+    "id": 179237,
+    "brand": "nuplastiq",
+    "name": "BioBlend® BC 27240",
+    "slug": "bioblend-bc-27240",
+    "description": "• One of the BioBlend® BC Biodegradable/Compostable Resins designed for films and bags.• Made from 40% annually renewable agricultural resources, including NuPlastiQ® CG BioPolymer, which is certified by TUV to be industrial compostable.• BioBlend® BC 27240 is supplied in pellet form, fully compounded.",
+    "company_name": "BiologiQ",
+    "company_slug": "biologiq",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708529383/production/Product/179237/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515647/production/CategoryImage/1055/category_image/HII_07.jpg",
+    "properties": {
+        "Applications": [
+            "Food & Beverage Packaging",
+            "Industrial & Transport Packaging",
+            "Non-Food Consumer Packaging",
+            "Food Films & Packaging",
+            "Flexible Packaging",
+            "Packaging"
+        ],
+        "Product Families": [
+            "Biodegradable Polymers",
+            "Blends & Alloys",
+            "Engineering & Specialty Polymers"
+        ],
+        "Chemical Family": [
+            "Polylactic Acid (PLA)",
+            "Polyesters"
+        ],
+        "Polymer Name": [
+            "TPS/PBAT/PLA Alloy"
+        ],
+        "End Uses": [
+            "Heavy Duty Bags",
+            "Laundry Bags",
+            "Mulch Film",
+            "Film"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "TPS/PBAT/PLA Alloy"
+        ],
+        "Labeling Claims": [
+            "Food Contact Acceptable",
+            "Biodegradable",
+            "Bio-based"
+        ],
+        "Processing Methods": [
+            "Extrusion",
+            "Blown Film Extrusion",
+            "Film Extrusion"
+        ],
+        "Density": [
+            "1300.0 - 1300.0 kg/m³"
+        ],
+        "Flexural Modulus": [
+            "237.0 - 237.0 MPa"
+        ]
+    }
+}

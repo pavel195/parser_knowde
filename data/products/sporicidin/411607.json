@@ -1,0 +1,53 @@
+{
+    "id": 411607,
+    "brand": "sporicidin",
+    "name": "PREempt® Concentrate Disinfectant",
+    "slug": "preempt-concentrate-disinfectant",
+    "description": "PREempt® Concentrate Disinfectant contains Accelerated Hydrogen Peroxide® (AHP®), a patented synergistic blend of commonly used ingredients that, when combined with low levels of hydrogen peroxide, significantly improves efficacy and cleaning performance. AHP is a one-step disinfectant cleaner that combines hydrogen peroxide with surfactants, wetting agents, and chelating agents. AHP is a one-of-a-kind formulation that achieves the ideal balance of fast contact time and cleaning efficacy. It also does not have a hazard classification. PREempt® Concentrate Disinfectant has a 30-second broad-spectrum non-food contact sanitizing claim, a 1-minute bactericidal claim, a 1-minute general virucide claim, and a 10-minute fungicidal claim.",
+    "company_name": "Contec",
+    "company_slug": "contec",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1673943455/production/Brand/32073/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515684/production/CategoryImage/1058/category_image/HII_10.jpg",
+    "properties": {
+        "Applications": [
+            "Institutional & Industrial Care",
+            "Industrial Cleaning",
+            "Institutional & Catering"
+        ],
+        "Product Families": [
+            "Commercial Cleaners",
+            "Cleaners"
+        ],
+        "End Uses": [
+            "Equipment"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner",
+            "Disinfectant Products",
+            "Sanitizers"
+        ],
+        "Application Areas": [
+            "Equipment"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Aluminum",
+            "Metal",
+            "Steel",
+            "Elastomers & Rubbers",
+            "Ceramic",
+            "Plastics"
+        ],
+        "Certifications & Compliance": [
+            "EPA Registered"
+        ],
+        "Features": [
+            "Good Wettability",
+            "High Performance",
+            "Bacteria Resistant",
+            "Fungus Resistant",
+            "Cost Effective"
+        ]
+    }
+}

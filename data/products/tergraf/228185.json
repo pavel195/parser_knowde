@@ -1,0 +1,43 @@
+{
+    "id": 228185,
+    "brand": "tergraf",
+    "name": "TERGRAF ND2030",
+    "slug": "tergraf-nd2030",
+    "description": "TERGRAF TG ND2030 is a high solubility and low viscosity resin, ideal for grinding or as co-resin.",
+    "company_name": "Respol Resinas",
+    "company_slug": "respol-resinas",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708687803/production/Product/228185/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609128/production/CategoryImage/597/category_image/PrintingPackaging_08.jpg",
+    "properties": {
+        "Applications": [
+            "Other Printing Applications",
+            "Offset & Lithographic Printing",
+            "Printing & Inks"
+        ],
+        "Product Families": [
+            "Functional Additives",
+            "Other Resins & Binders",
+            "Additives",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Rosin Esters"
+        ],
+        "End Uses": [
+            "Offset Ink",
+            "Varnishes"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Grinding Aid",
+            "Binder & Resin"
+        ],
+        "Chemical Family": [
+            "Rosin Esters"
+        ],
+        "Labeling Claims": [
+            "Biodegradable"
+        ]
+    }
+}

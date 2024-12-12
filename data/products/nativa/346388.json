@@ -1,0 +1,40 @@
+{
+    "id": 346388,
+    "brand": "nativa",
+    "name": "La Veronese® Black Bean Flour",
+    "slug": "la-veronese-black-bean-flour",
+    "description": "La Veronese® Black Bean Flour is obtained by grinding only selected beans grown and dried in Italy.",
+    "company_name": "La Veronese",
+    "company_slug": "la-veronese",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686104628/production/Brand/25785/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606934/production/CategoryImage/504/category_image/FoodNutrition_05.jpg",
+    "properties": {
+        "Applications": [
+            "Food",
+            "Convenience Foods",
+            "Desserts & Fruit Preparations",
+            "Savory & Culinary"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Flours & Grains Products"
+        ],
+        "End Uses": [
+            "Creams",
+            "Soups",
+            "Gnocchi"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Black Beans"
+        ],
+        "Labeling Claims": [
+            "Gluten-free"
+        ],
+        "Features": [
+            "Rich in Minerals",
+            "Rich in Vitamins"
+        ]
+    }
+}

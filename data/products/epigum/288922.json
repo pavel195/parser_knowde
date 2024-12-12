@@ -1,0 +1,30 @@
+{
+    "id": 288922,
+    "brand": "epigum",
+    "name": "EPIGUM DPE/50 D",
+    "slug": "epigum-dpe-50-d",
+    "description": "Vulcanized Thermoplastic Compounds (TPV) obtained by reactive extrusion of polypropylene and EPDM crosslinkable",
+    "company_name": "Crosspolimeri",
+    "company_slug": "crosspolimeri",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697223561/production/Company/22774/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607403/production/CategoryImage/516/category_image/ElectricalElectronics_01.jpg",
+    "properties": {
+        "Applications": [
+            "Glazing & Window Elements",
+            "Electrical & Electronic Systems",
+            "Interior",
+            "Appliances & Electronics",
+            "Automotive",
+            "Building Envelope",
+            "Building Envelope & Roofing"
+        ],
+        "Product Families": [
+            "Thermoplastic Vulcanizates (TPV)",
+            "Thermoplastic Elastomers"
+        ],
+        "Polymer Name": [
+            "Thermoplastic Vulcanizate (TPV)"
+        ]
+    },
+    "summary": {}
+}

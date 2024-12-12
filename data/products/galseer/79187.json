@@ -1,0 +1,54 @@
+{
+    "id": 79187,
+    "brand": "galseer",
+    "name": "Galsilk™ 700",
+    "slug": "galsilk-700",
+    "description": "Galsilk™ 700 is a versatile cosmetic ingredient that offers a range of benefits for hair care and personal care products. It is particularly well-suited for creams, rinse-off products, and lotions, making it a valuable addition to various beauty and care formulations.",
+    "company_name": "Galaxy Surfactants Ltd.",
+    "company_slug": "galaxy-surfactants",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1712401196/production/Company/1476/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1712401196/production/Company/1476/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Bath & Shower",
+            "Hair Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Film Formers",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Polyquaternium-7"
+        ],
+        "End Uses": [
+            "Shampoos & Rinses",
+            "Hair Creams",
+            "Conditioning Hair Lotion"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Polyquaternium-7"
+        ],
+        "Functions": [
+            "Film Former"
+        ],
+        "Benefit Claims": [
+            "Foam Stability",
+            "Lustrous",
+            "Superior Performance",
+            "Imparts Lubricity",
+            "Emolliency",
+            "Foam Enhancement",
+            "Good Wet Combing",
+            "No Build Up",
+            "Dispersing",
+            "Viscosity Boosting",
+            "Film Forming",
+            "Compatibility",
+            "Substantivity",
+            "Hair Conditioning"
+        ]
+    }
+}

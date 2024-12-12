@@ -1,0 +1,35 @@
+{
+    "id": 416571,
+    "brand": "henry",
+    "name": "ClearPatch™ Clear Roof Sealant",
+    "slug": "clearpatch-clear-roof-sealant",
+    "description": "ClearPatch™ Clear Roof Sealant is a clear rubberized waterproof sealant designed for general use in roof repairs. ClearPatch™ Clear Roof Sealant can be applied to dry or wet surfaces and under inclement weather conditions. Its consistency permits easy application even in cold weather. ClearPatch™ Clear Roof Sealant will not slump or flow when applied on vertical surfaces.",
+    "company_name": "Henry Company",
+    "company_slug": "henry-company",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520059/production/Brand/32536/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608422/production/CategoryImage/558/category_image/BuildingConstruction_02.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Construction Chemicals",
+            "Infrastructure, Roads & Paving",
+            "Roofing",
+            "Sealants & Caulks",
+            "Building Envelope & Roofing",
+            "Waterproofing & Weatherproofing",
+            "Repair & Rehabilitation"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Caulks & Sealants"
+        ]
+    },
+    "summary": {
+        "Compatible Substrates & Surfaces": [
+            "Wood",
+            "Brick",
+            "Concrete",
+            "Metal"
+        ]
+    }
+}

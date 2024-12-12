@@ -1,0 +1,45 @@
+{
+    "id": 408413,
+    "brand": "fast-break",
+    "name": "Da-Brite™ Wash 'n' Wax",
+    "slug": "da-brite-wash-n-wax",
+    "description": "Da-Brite™ Wash 'n' Wax is a high foaming, concentrated, 2 in 1 product that leaves a clean surface with a finished shine. Formulated to leave no residue, Da-Brite™ Wash 'n' Wax will clean dirt, dust, bugs and salt off any automobile.",
+    "company_name": "Damon Industries",
+    "company_slug": "damon-industries",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292356/production/Brand/31598/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515625/production/CategoryImage/1053/category_image/HII_05.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial Cleaning",
+            "Vehicle & Machinery",
+            "Institutional & Industrial Care"
+        ],
+        "Product Families": [
+            "Industrial Cleaners",
+            "Commercial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner",
+            "Bug Cleaner"
+        ],
+        "Application Areas": [
+            "Truck",
+            "Equipment",
+            "Car"
+        ],
+        "Features": [
+            "Biodegradable",
+            "Non-Toxic",
+            "Low Odor",
+            "Grime Cleaning",
+            "Good Surface Care",
+            "Low Toxicity",
+            "Shiny Surface",
+            "High Foaming",
+            "Cost Effective"
+        ]
+    }
+}

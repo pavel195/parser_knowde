@@ -1,0 +1,45 @@
+{
+    "id": 340941,
+    "brand": "x-bond",
+    "name": "x-bond® U 9068",
+    "slug": "x-bond-u-9068",
+    "description": "x-bond® U 9068 is a bifunctional silane binder. It is a transparent, inorganic-organic high solid curing material. Exhibits scratch- and abrasion resistance with highest UV- and chemical stability. Applications in high-solid coatings, lacquers and solvent containing varnish formulations. Suited for formulation of spray, dip and brush-on paints as well as for fast curing coatings in roller application. Recommended for use in automotive coatings, clear coats, pigmented paints and coatings for plastic, wood or metal.",
+    "company_name": "Nano-x",
+    "company_slug": "nano-x",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691739589/production/Brand/25170/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608611/production/CategoryImage/569/category_image/PaintingsCoatings_05.jpg",
+    "properties": {
+        "Applications": [
+            "Furniture",
+            "Automotive OEM Coatings",
+            "Primers & Lacquers",
+            "Overprint Varnishes",
+            "Furniture Coatings",
+            "Wood Coatings & Finishes",
+            "Metal Coatings",
+            "Coatings & Finishes",
+            "Automotive & Transportation",
+            "Building & Construction",
+            "Industrial Coatings",
+            "Packaging Coatings"
+        ],
+        "Product Families": [
+            "Other Resins & Binders",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Silanes"
+        ],
+        "End Uses": [
+            "Solventborne Coating",
+            "Radiation Curable Coating",
+            "Clearcoat",
+            "Solventborne Ink",
+            "Radiation Curable Ink",
+            "Lacquers",
+            "Varnishes",
+            "Solventless & High Solids Coating"
+        ]
+    },
+    "summary": {}
+}

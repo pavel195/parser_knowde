@@ -1,0 +1,48 @@
+{
+    "id": 392807,
+    "brand": "aurorared",
+    "name": "AuroraBlue®",
+    "slug": "aurorablue",
+    "description": "AuroraBlue® is a proprietary complex of Alaska Vaccinium berry species hand-picked from Alaska rainforests and tundra. The berries are gently dried with Refractance Window® drying technology, which preserves their bioactive constituents.",
+    "company_name": "Denali BioTechnologies",
+    "company_slug": "denali-biotechnologies",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708690970/production/Company/48863/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606984/production/CategoryImage/507/category_image/FoodNutrition_08.jpg",
+    "properties": {
+        "Applications": [
+            "Other Food Applications",
+            "Food"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Phytochemicals & Plant Extracts",
+            "Phytochemicals",
+            "Fruit Products & Extracts",
+            "Nutrition & Fortification",
+            "Whole Foods, Extracts & Premixes",
+            "Nutraceuticals & Supplements"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Wild Blueberry"
+        ],
+        "Active Component": [
+            "Anthocyanins"
+        ],
+        "Functions": [
+            "Antioxidant",
+            "Phytochemical"
+        ],
+        "Labeling Claims": [
+            "Kosher",
+            "Organic"
+        ],
+        "Certifications & Compliance": [
+            "Organic Certified",
+            "Kosher",
+            "USDA Organic"
+        ]
+    }
+}

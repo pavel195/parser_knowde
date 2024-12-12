@@ -1,0 +1,48 @@
+{
+    "id": 406783,
+    "brand": "spectonite",
+    "name": "WALL-GLAZE",
+    "slug": "wall-glaze",
+    "description": "WALL-GLAZE is a non-yellowing water-based interior masonry sealer formulated to provide a protective coating for concrete and masonry surfaces. It is available in clear and a wide range of colors in a gloss, semi-gloss and low sheen finish. WALL-GLAZE is recommended for all exposed concrete and masonry.",
+    "company_name": "A.R. Monteith Corporation",
+    "company_slug": "a-r-monteith-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520301/production/Brand/31356/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608490/production/CategoryImage/563/category_image/BuildingConstruction_07.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Decorative Paints, Coatings & Stains",
+            "Pools & Landscaping"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Waterborne Coating",
+            "Sealer"
+        ],
+        "Features": [
+            "Ease of Handling",
+            "High Gloss",
+            "Low VOC",
+            "Fast Drying",
+            "Dust-Free",
+            "Water-based",
+            "Cost Effective",
+            "Good Non-Yellowing Properties"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Concrete",
+            "Masonry"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    }
+}

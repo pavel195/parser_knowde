@@ -1,0 +1,57 @@
+{
+    "id": 360823,
+    "brand": "moulex",
+    "name": "Moulex® 154 NS",
+    "slug": "moulex-154-ns",
+    "description": "Moulex® 154 NS is internal mold release agent. It improves external release agent performances.",
+    "company_name": "Additek",
+    "company_slug": "additek",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708687149/production/Brand/26967/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608760/production/CategoryImage/576/category_image/AutomotiveTransportation_04.jpg",
+    "properties": {
+        "Applications": [
+            "Pipes & Plumbing",
+            "Pipes & Hoses",
+            "Equipment & Parts",
+            "Fuel Systems",
+            "Renewable Energy",
+            "Marine",
+            "Aerospace & Aviation",
+            "Agricultural Films",
+            "Automotive",
+            "Transportation",
+            "Building Materials",
+            "Chemical & Industrial Manufacturing",
+            "Power, Water & Utilities"
+        ],
+        "Product Families": [
+            "Performance Additives",
+            "Elastomer Additives"
+        ],
+        "End Uses": [
+            "Tanks",
+            "Pipes",
+            "Marine Applications",
+            "Aerospace Applications"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Mold Release Agent",
+            "Release Agent"
+        ],
+        "Compatible Polymers & Resins": [
+            "Vinyl Esters",
+            "Unsaturated Polyester (UPE)"
+        ],
+        "Processing Methods": [
+            "Resin Transfer Molding"
+        ],
+        "End Uses": [
+            "Tanks",
+            "Marine Applications",
+            "Aerospace Applications",
+            "Pipes"
+        ]
+    }
+}

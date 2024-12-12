@@ -1,0 +1,38 @@
+{
+    "id": 470072,
+    "brand": "tedur",
+    "name": "ALCOM® MED PS 1000 14113",
+    "slug": "mocom-alcom-med-ps-1000-14113",
+    "description": "MOCOM Compounds ALCOM® MED PS 1000 14113 is a polystyrene with a minimum shelf life of 24 months and is suitable for injection molded parts such as housings. The melt temperature for injection molding should be 180-260°C, and the mold temperature should be 10-70°C.",
+    "company_name": "MOCOM Compounds",
+    "company_slug": "mocom",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1713790190/production/Company/50276/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1713790190/production/Company/50276/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Housings & Enclosures",
+            "Parts & Components"
+        ],
+        "Product Families": [
+            "Styrenics",
+            "Basic Thermoplastics"
+        ],
+        "Chemical Family": [
+            "Styrenics"
+        ],
+        "Polymer Name": [
+            "Polystyrene (unspecified)"
+        ],
+        "End Uses": [
+            "Housings"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polystyrene (unspecified)"
+        ],
+        "Processing Methods": [
+            "Injection Molding"
+        ]
+    }
+}

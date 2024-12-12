@@ -1,0 +1,67 @@
+{
+    "id": 273783,
+    "brand": "hitox",
+    "name": "HITOX® SF",
+    "slug": "hitox-sf",
+    "description": "HITOX® SF is a super fine color pigment. It is a unique and cost-effective, high quality, light buff color, rutile titanium dioxide for use in non-white applications. It is primarily for use in thin film or other coating and plastic applications requiring the highest opacity, best dispersion and highest gloss characteristics. HITOX SF offers savings both in the reduction of expensive organic and inorganic pigments as well as some of the white titanium dioxide in select formulations, while maintaining the necessary gloss and opacity properties. HITOX SF is well suited for paints and coatings applications, including architectural, maintenance, metal finishes, coil backing, primers and wood coatings, caulks and sealants, floor tiles, blown film and other plastic products.",
+    "company_name": "TOR Minerals",
+    "company_slug": "tor-minerals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708525096/production/Company/15905/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608600/production/CategoryImage/568/category_image/PaintingsCoatings_04.jpg",
+    "properties": {
+        "Applications": [
+            "Sealants & Caulks",
+            "Ceiling Tiles",
+            "Architectural Coatings",
+            "Industrial Maintenance",
+            "Metal Coatings",
+            "Industrial Coatings",
+            "Coil Coatings",
+            "Wood Coatings & Finishes",
+            "Building & Construction",
+            "Building Envelope",
+            "Building Materials",
+            "Construction Chemicals",
+            "Flooring & Surfaces",
+            "Roofing",
+            "Building Envelope & Roofing"
+        ],
+        "Product Families": [
+            "Inorganic Pigments",
+            "Color Pigments",
+            "Pigments & Colorants"
+        ],
+        "Chemical Family": [
+            "Titanium Compounds"
+        ],
+        "End Uses": [
+            "Waterborne Coating",
+            "Solventborne Coating",
+            "Coil Coating",
+            "Primer"
+        ]
+    },
+    "summary": {
+        "Color": [
+            "Brown"
+        ],
+        "Pigment Type": [
+            "Inorganic Pigments"
+        ],
+        "Chemical Family": [
+            "Titanium Compounds"
+        ],
+        "End Uses": [
+            "Waterborne Coating",
+            "Coil Coating",
+            "Solventborne Coating",
+            "Primer"
+        ],
+        "Particle Size": [
+            "0.45 - 0.45 microns"
+        ],
+        "Synonyms": [
+            "TiO2, Titania, Titanium Peroxide"
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "id": 269964,
+    "brand": "eco-flex",
+    "name": "ECO-FLEX™ RTPV SA-40D",
+    "slug": "eco-flex-rtpv-sa-40d",
+    "description": "ECO-FLEX™ RTPV SA-40D is available in a wide range of hardness grades. SYNESIS has the capability to tailor make a grade of ECO-FLEX RTPV to meet the needs of your specific application.",
+    "company_name": "Synesis",
+    "company_slug": "synesis",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691743960/production/Company/20808/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608769/production/CategoryImage/577/category_image/AutomotiveTransportation_05.jpg",
+    "properties": {
+        "Applications": [
+            "Waterproofing & Weatherproofing",
+            "Waterproofing Membranes",
+            "Roofing Sheets",
+            "Other Industrial Applications",
+            "Other Building Materials",
+            "Appliances & Electronics",
+            "Structural Components",
+            "Other Flooring & Surface Applications",
+            "Other Consumer Goods Applications",
+            "Interior",
+            "Exterior & Body",
+            "Other Automotive Applications",
+            "Chassis & Brake",
+            "Building Materials",
+            "Flooring & Surfaces",
+            "Roofing",
+            "Building Envelope & Roofing",
+            "Chemical & Industrial Manufacturing",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Thermoplastic Vulcanizates (TPV)",
+            "Thermoplastic Elastomers"
+        ],
+        "Polymer Name": [
+            "Thermoplastic Vulcanizate (TPV)"
+        ]
+    },
+    "summary": {
+        "Tear Strength": [
+            "62.0 - 62.0 kN/m"
+        ]
+    }
+}

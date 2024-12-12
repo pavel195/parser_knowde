@@ -1,0 +1,36 @@
+{
+    "id": 348205,
+    "brand": "tirecycle",
+    "name": "Tirecycle™ Treatment K",
+    "slug": "tirecycle-treatment-k",
+    "description": "Tirecycle™ Treatment K is designed for use with #34 to infinity mesh crumb. Works with tire crumb and other recycled rubbers.",
+    "company_name": "NorthStar Elastomers",
+    "company_slug": "northstar-elastomers",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112581/production/Brand/25993/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608962/production/CategoryImage/587/category_image/AdhesivesSealants_04.jpg",
+    "properties": {
+        "Applications": [
+            "Other Adhesives & Sealants Applications"
+        ],
+        "Product Families": [
+            "Other Resins & Binders",
+            "Resins & Binders"
+        ],
+        "End Uses": [
+            "Solvent Free (100% Solids) Adhesive"
+        ]
+    },
+    "summary": {
+        "End Uses": [
+            "Solvent Free (100% Solids) Adhesive"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Elastomers & Rubbers"
+        ],
+        "Features": [
+            "Good Compatibility",
+            "High Viscosity",
+            "Excellent Adhesion"
+        ]
+    }
+}

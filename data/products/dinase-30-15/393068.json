@@ -1,0 +1,42 @@
+{
+    "id": 393068,
+    "brand": "dinase-30-15",
+    "name": "Aflabind™",
+    "slug": "aflabind",
+    "description": "Aflabind™ is a toxin binder, ammonia binder and anti-caking agent with a very high cation-exchange capacity (CEC). It is suitable for use in all types of animal feed and contains an extremely pure form of clinoptilolite, which is a zeolite naturally formed by the devitrification of volcanic ash in lakes and marine water.",
+    "company_name": "Dinatec",
+    "company_slug": "dinatec",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708688096/production/Brand/29614/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608224/production/CategoryImage/551/category_image/AgricultureFeed_07.jpg",
+    "properties": {
+        "Applications": [
+            "Feed Production & Processing",
+            "Ruminants",
+            "Other Animal Health & Nutrition",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Sequestrants",
+            "Conditioning & Flow Enhancers",
+            "Adsorbents & Binders",
+            "Feed Preservation",
+            "Production Aids and Processing Additives"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Anti-Caking Agent",
+            "Flow Promoter",
+            "Toxin Binder"
+        ],
+        "Labeling Claims": [
+            "Non-Toxic"
+        ],
+        "Features": [
+            "Improves Growth Performance",
+            "Improves Food Palatability",
+            "Improves Immunity",
+            "Improves Body Weight Gain"
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "id": 401627,
+    "brand": "aker",
+    "name": "AKER® LINEA AZOMAT",
+    "slug": "aker-linea-azomat",
+    "description": "\r\n\r\nAKER® physical state comes as a cylindrical shaped homogeneous pellet with an average diameter of 3 - 4mm and an average length of 4 - 5mm; it is very dry and can be easily distributed. In contact with humidity in the soil or with irrigation water, the product swells and it gradually disintegrates in the soil. It reactivates the soil. Ideal for the Fertilization of all Arboreal crops.\r\n",
+    "company_name": "FOMET SpA",
+    "company_slug": "fomet-spa",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708686650/production/Brand/30603/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608215/production/CategoryImage/550/category_image/AgricultureFeed_06.jpg",
+    "properties": {
+        "Applications": [
+            "Ornamentals",
+            "Vegetables",
+            "Fruits",
+            "Agricultural Crops",
+            "Turf, Ornamentals & Landscape"
+        ],
+        "Product Families": [
+            "Fertilizers & Nutrients",
+            "Plant Health, Nutrients & Soil Management"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Fertilizer"
+        ],
+        "Labeling Claims": [
+            "Organic"
+        ]
+    }
+}

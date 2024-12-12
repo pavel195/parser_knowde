@@ -1,0 +1,29 @@
+{
+    "id": 427445,
+    "brand": "cruspec",
+    "name": "Cruspec 9000 Two Component Urethane",
+    "slug": "cruspec-9000-two-component-urethane",
+    "description": "Cruspec 9000 Two Component Urethane has excellent gloss and color retention. Outstanding corrosion, chemical, and abrasion resistance. Brush, roll, or spray.",
+    "company_name": "CPC Specialty Paint and Coatings",
+    "company_slug": "cpc-specialty-paint-and-coatings",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697223593/production/Brand/33872/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608422/production/CategoryImage/558/category_image/BuildingConstruction_02.jpg",
+    "properties": {
+        "Applications": [
+            "Glazing & Window Elements",
+            "Equipment & Parts",
+            "Exterior & Body",
+            "Automotive",
+            "Chemical & Industrial Manufacturing",
+            "Building Envelope & Roofing"
+        ],
+        "Product Families": [
+            "Protective Coatings",
+            "Paints & Coatings"
+        ],
+        "Chemical Family": [
+            "Urethanes"
+        ]
+    },
+    "summary": {}
+}

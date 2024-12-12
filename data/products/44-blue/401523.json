@@ -1,0 +1,42 @@
+{
+    "id": 401523,
+    "brand": "44-blue",
+    "name": "43 Blue™",
+    "slug": "43-blue",
+    "description": "43 Blue™ is a medium viscosity (Thixotropic)/ medium strength thread locker for all types of metal fasteners. It is a more oil resistant product that allows for future disassembly of parts using hand tools and moderate effort.",
+    "company_name": "Adhesive R&D",
+    "company_slug": "adhesive-r-d",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520039/production/Brand/30709/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608939/production/CategoryImage/585/category_image/AdhesivesSealants_02.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Other Building & Construction Applications",
+            "Pipes & Plumbing"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Anaerobic Adhesives"
+        ],
+        "Chemical Family": [
+            "Methacrylates"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Anaerobic Adhesive"
+        ],
+        "Application Area": [
+            "Thread Sealing"
+        ],
+        "Chemical Family": [
+            "Methacrylates"
+        ],
+        "Features": [
+            "Oil Resistant",
+            "Medium Viscosity",
+            "Medium Strength",
+            "Thixotropic"
+        ]
+    }
+}

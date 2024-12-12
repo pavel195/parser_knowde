@@ -1,0 +1,39 @@
+{
+    "id": 350820,
+    "brand": "resifa-solesphere",
+    "name": "LUMIFLON® LF-200F",
+    "slug": "lumiflon-lf-200f",
+    "description": "AGC Chemicals Americas, Inc. LUMIFLON® LF-200F is a moderate molecular weight, moderate hydroxyl number resin consisting of alternating fluoroethylene and alkyl vinyl ether segments (FEVE). This product has been developed in flake form in order to enable formulators to meet VOC and HAPS regulations. This resin can be dissolved in VOC and HAPS exempt solvents such as acetone, Oxsol® 100, t-butyl acetate, and dimethyl carbonate to meet the strictest air quality requirements. LUMIFLON resins are used to make ultra-weatherable coatings for architectural, aerospace, automotive, and industrial maintenance markets.",
+    "company_name": "AGC Chemicals Americas, Inc.",
+    "company_slug": "agc-chemicals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1694458145/production/Brand/18571/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1694458145/production/Product/350820/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Aerospace & Aviation",
+            "Architectural Coatings",
+            "Industrial Maintenance",
+            "Automotive OEM Coatings",
+            "Aerospace Coatings",
+            "Coatings & Finishes",
+            "Transportation",
+            "Building Envelope",
+            "Automotive & Transportation",
+            "Building & Construction",
+            "Industrial Coatings",
+            "Building Envelope & Roofing"
+        ],
+        "Product Families": [
+            "Other Resins & Binders",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Fluoroethylene Vinyl Ether (FEVE)"
+        ]
+    },
+    "summary": {
+        "Glass Transition Temperature (Tg)": [
+            "35.0 - 35.0 °C"
+        ]
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "id": 441753,
+    "brand": "generator",
+    "name": "Generator™ MB-12",
+    "slug": "generator-mb-12",
+    "description": "Generator™ MB-12 is a microbial supplement for further manufacture of feeds for monogastric animals. Provides high levels of microorganisms, including intestinal origin bacteria and digestive enzymes. Contains a source of live (viable) naturally occurring microorganisms.\r\n",
+    "company_name": "Bio-Vet",
+    "company_slug": "bio-vet",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708690029/production/Product/441753/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708690029/production/Company/57629/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Other Animal Health & Nutrition",
+            "Swine",
+            "Ruminants",
+            "Birds & Poultry",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Feed Supplements",
+            "Prebiotics, Probiotics & Postbiotics",
+            "Health & Well-Being",
+            "Nutritional Ingredients"
+        ]
+    },
+    "summary": {
+        "Animal Species": [
+            "Swine",
+            "Horses",
+            "Calves"
+        ],
+        "Functions": [
+            "Probiotic",
+            "Supplement"
+        ],
+        "Features": [
+            "Improves Digestability & Intestinal Health",
+            "Promotes Digestive Health"
+        ]
+    }
+}

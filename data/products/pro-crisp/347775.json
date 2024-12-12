@@ -1,0 +1,51 @@
+{
+    "id": 347775,
+    "brand": "pro-crisp",
+    "name": "Erie Foods International Calcium Carbonate",
+    "slug": "erie-foods-international-calcium-carbonate",
+    "description": "Erie Foods International Calcium Carbonate is a common substance found as rock in all parts of the world and is the main component of shells of marine organisms and snails as well as eggshells. It is estimated that the mineral accounts for more than 4% of the Earth's crust and is found in many different geological environments.",
+    "company_name": "Erie Foods International",
+    "company_slug": "erie-foods-international",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708690426/production/Company/37440/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606961/production/CategoryImage/506/category_image/FoodNutrition_07.jpg",
+    "properties": {
+        "Applications": [
+            "Oenology",
+            "Convenience Foods",
+            "Bakery",
+            "Desserts & Fruit Preparations",
+            "Nutraceuticals & Supplements",
+            "Oral",
+            "Beverage",
+            "Food",
+            "Nutrition & Well Being",
+            "Drug Delivery & Care Solutions"
+        ],
+        "Product Families": [
+            "Minerals",
+            "Active Pharmaceutical Ingredients (APIs)",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements",
+            "Pharmaceutical Actives & Precursors"
+        ],
+        "End Uses": [
+            "Wine",
+            "Dough",
+            "Dessert Premixes",
+            "Dietary Supplements"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Calcium Carbonate"
+        ],
+        "Functions": [
+            "Antacid",
+            "Mineral Source",
+            "Mineral Source"
+        ],
+        "Dosage Form": [
+            "Tablets"
+        ]
+    }
+}

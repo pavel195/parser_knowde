@@ -1,0 +1,41 @@
+{
+    "id": 332059,
+    "brand": "astafit",
+    "name": "ASTAFIT® SOFT-GUMS",
+    "slug": "astafit-soft-gums",
+    "description": "ASTAFIT® SOFT-GUMS is 4 mg Astaxanthin content. Astaxanthin-containing soft gums, ideal for on the way",
+    "company_name": "BDI-BioLife Science",
+    "company_slug": "bdi-biolife-science",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708690562/production/Brand/24347/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607274/production/CategoryImage/514/category_image/FoodNutrition_14.jpg",
+    "properties": {
+        "Applications": [
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Phytochemicals & Plant Extracts",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Dietary Supplements"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Astaxanthin"
+        ],
+        "Active Component": [
+            "Astaxanthin"
+        ],
+        "Features": [
+            "Anti-Inflammatory",
+            "Blood Glucose Management",
+            "Antioxidant Properties"
+        ],
+        "Functions": [
+            "Dietary Supplement",
+            "Supplement"
+        ]
+    }
+}

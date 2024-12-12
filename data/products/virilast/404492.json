@@ -1,0 +1,54 @@
+{
+    "id": 404492,
+    "brand": "virilast",
+    "name": "BB536",
+    "slug": "bb536",
+    "description": "BB536® is a unique strain developed to achieve maximum stability at room temperature, and to most closely resemble the B. longum found in newborns.",
+    "company_name": "Maypro",
+    "company_slug": "maypro",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709127759/production/Company/22007/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1709127759/production/Product/404492/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Prebiotics, Probiotics & Postbiotics",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Dietary Supplements"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Bifidobacterium Longum"
+        ],
+        "Functions": [
+            "Probiotic"
+        ],
+        "Labeling Claims": [
+            "Gluten-free",
+            "Kosher",
+            "Natural",
+            "Halal",
+            "Non-GMO",
+            "Dairy-free"
+        ],
+        "Certifications & Compliance": [
+            "Generally Recognized As Safe (GRAS)",
+            "Gluten-free",
+            "Kosher",
+            "FDA Compliant",
+            "Halal"
+        ],
+        "Benefit Claims (Health)": [
+            "Cardioprotective",
+            "Stimulates Immune System"
+        ]
+    }
+}

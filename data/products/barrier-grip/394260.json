@@ -1,0 +1,36 @@
+{
+    "id": 394260,
+    "brand": "barrier-grip",
+    "name": "Aquaban® 9001A",
+    "slug": "enviro-coatings-aquaban-9001a",
+    "description": "Aquaban® 9001A is a concentrated version and should be diluted with water prior to use. It has excellent water repellency. ",
+    "company_name": "Enviro-Coatings",
+    "company_slug": "enviro-coatings",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1682592975/production/Brand/29778/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Paper & Pulp",
+            "Coated Paper & Paperboard"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Waterborne Coating"
+        ],
+        "Features": [
+            "Water Resistant",
+            "Excellent Water Repellency "
+        ],
+        "Application Area": [
+            "Paper Manufacturing"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Paper"
+        ]
+    }
+}

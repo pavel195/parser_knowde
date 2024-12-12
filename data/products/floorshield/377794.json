@@ -1,0 +1,45 @@
+{
+    "id": 377794,
+    "brand": "floorshield",
+    "name": "TBA Protective Solutions ECP 210 Colourable Magnetically Detectable Polypropylene for Injection Moulding and Extrusion",
+    "slug": "tba-protective-solutions-ecp-210-colourable-magnetically-detectable-polypropylene-for-injection-moulding-and-extrusion",
+    "description": "ECP 210 Colourable Magnetically Detectable Polypropylene for Injection Molding and Extrusion. ECP 210 is a magnetic compound based on special blends of magnetic additive compounded into PP in such a way as to optimize physical and magnetic properties. Used in the food processing industries where detection of foreign body plastics is required. Normally supplied as a blue colored or natural pelleted compound.",
+    "company_name": "TBA Protective Solutions",
+    "company_slug": "tba-protective-solutions",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708531718/production/Company/4632/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625605390/production/CategoryImage/444/category_image/Plastics_03.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial & Transport Packaging",
+            "Food & Beverage Manufacturing",
+            "Processing & Packaging",
+            "Packaging"
+        ],
+        "Product Families": [
+            "Polyolefins",
+            "Basic Thermoplastics"
+        ],
+        "Chemical Family": [
+            "Polyolefins",
+            "Polypropylenes (PP)"
+        ],
+        "Polymer Name": [
+            "Polypropylene Alloy (PP Alloy)"
+        ],
+        "End Uses": [
+            "Food Packaging"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polypropylene Alloy (PP Alloy)"
+        ],
+        "Processing Methods": [
+            "Extrusion",
+            "Injection Molding"
+        ],
+        "Additives Included": [
+            "Magnetic Compound"
+        ]
+    }
+}

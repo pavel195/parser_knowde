@@ -1,0 +1,62 @@
+{
+    "id": 422297,
+    "brand": "doerken-delta",
+    "name": "Delta® AntiCor DTS 2K - HG 80",
+    "slug": "delta-anticor-dts-2k-hg-80",
+    "description": "Delta® AntiCor DTS 2K - HG 80 is a high gloss, 2-component PUR primer and top coat with excellent adhesion properties on steel, aluminum, galvanized steel (zinc coating), powder coated substrates and many plastics (rigid PVC, ABS, polyester, etc.). Used in indoors and outdoors.",
+    "company_name": "DOERKEN",
+    "company_slug": "doerken",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520420/production/Brand/33211/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608640/production/CategoryImage/572/category_image/PaintingsCoatings_08.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial Coatings",
+            "Chemical & Industrial Manufacturing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Top Coats",
+            "Primers & Sealers"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ],
+        "Ready-to-Use Product Type": [
+            "Coating",
+            "Primer",
+            "Top Coat",
+            "2K (2 component) Coating"
+        ],
+        "Application Method": [
+            "Spray",
+            "Roller",
+            "Brush"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Aluminum",
+            "Polyesters",
+            "Polyvinyl Chloride (PVC)",
+            "Galvanized Steel",
+            "Steel",
+            "Painted Surfaces",
+            "Acrylonitrile Butadiene Styrene (ABS)",
+            "Metal"
+        ],
+        "Features": [
+            "Good Non-Yellowing Properties",
+            "Chemical Resistant",
+            "Excellent Surface Hardness",
+            "High Elasticity",
+            "Good Weather Stability",
+            "Corrosion Resistant",
+            "Excellent Substrate Adhesion",
+            "High Gloss"
+        ]
+    }
+}

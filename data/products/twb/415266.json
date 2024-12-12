@@ -1,0 +1,34 @@
+{
+    "id": 415266,
+    "brand": "twb",
+    "name": "Kaady Chemical Hand Sanitizer & Surface Disinfectant",
+    "slug": "kaady-chemical-hand-sanitizer-surface-disinfectant",
+    "description": "Kaady Chemical can supply Hand Sanitizers &amp; Surface Disinfectants to help make your operations safe for your employees and customers. The Hand Sanitizer is formulated per new FDA guidelines. The Surface Disinfectant is named QT-185, this product has a FDA &amp; EPA registration.",
+    "company_name": "Kaady Chemical",
+    "company_slug": "kaady-chemical",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709127790/production/Company/55394/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515684/production/CategoryImage/1058/category_image/HII_10.jpg",
+    "properties": {
+        "Applications": [
+            "Surface Care",
+            "Institutional & Catering",
+            "Industrial Cleaning",
+            "Home Care",
+            "Institutional & Industrial Care"
+        ],
+        "Product Families": [
+            "Commercial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Product Type": [
+            "Hand Cleansers",
+            "Disinfectant Products"
+        ],
+        "Certifications & Compliance": [
+            "EPA Registered",
+            "FDA Compliant"
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": 371412,
+    "brand": "nevada",
+    "name": "SAHARA PC LED-UV BLACK (PN9963)",
+    "slug": "sahara-pc-led-uv-black-pn9963",
+    "description": "SAHARA PC LED-UV BLACK (PN9963) is used where maximum adhesion and scratch resist are required these inks will usually provide the required result.Because they contain maximum amounts of silicone and waxes we do not recommend them for plastic card production where the printed core plastic is laminated between two sheets of adhesive coated overlay film.",
+    "company_name": "Classic Colours",
+    "company_slug": "classic-colours",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1670239290/production/Brand/27714/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609103/production/CategoryImage/595/category_image/PrintingPackaging_06.jpg",
+    "properties": {
+        "Applications": [
+            "Printing & Inks",
+            "Offset & Lithographic Printing"
+        ],
+        "Product Families": [
+            "Offset & Lithographic Inks",
+            "Inks & Pastes"
+        ]
+    },
+    "summary": {
+        "Compatible Substrates & Surfaces": [
+            "Plastics"
+        ],
+        "Features": [
+            "LED-curable",
+            "UV Curable",
+            "Good Scratch Resistance",
+            "Excellent Substrate Adhesion"
+        ],
+        "Color": [
+            "Black"
+        ]
+    }
+}

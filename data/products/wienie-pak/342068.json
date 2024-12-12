@@ -1,0 +1,35 @@
+{
+    "id": 342068,
+    "brand": "wienie-pak",
+    "name": "FIBROUS FLX",
+    "slug": "fibrous-flx",
+    "description": "FLX is the thinnest fibrous casing ever produced with a glossy appearance. It's thinner for more meters per strand to allow faster soaking, with greater transparency for better product-structure visibility. This thin casing creates significant potential for time and cost savings in the production process.",
+    "company_name": "ViskoTeepak",
+    "company_slug": "viskoteepak",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686109139/production/Company/29437/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607009/production/CategoryImage/509/category_image/FoodNutrition_10.jpg",
+    "properties": {
+        "Applications": [
+            "Food",
+            "Meat, Poultry & Seafood"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Other Whole Foods & Extracts"
+        ],
+        "End Uses": [
+            "Cured Meats",
+            "Sausage Rolls"
+        ]
+    },
+    "summary": {
+        "Features": [
+            "High Strength",
+            "Good Transparency"
+        ],
+        "End Uses": [
+            "Cured Meats",
+            "Sausage Rolls"
+        ]
+    }
+}

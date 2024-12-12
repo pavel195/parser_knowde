@@ -1,0 +1,45 @@
+{
+    "id": 408398,
+    "brand": "vi-hemp-pro",
+    "name": "Coffee PRO™",
+    "slug": "coffee-pro",
+    "description": "Coffee PRO™",
+    "company_name": "VIDYA EUROPE",
+    "company_slug": "vidya-europe",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686109697/production/Brand/31589/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606961/production/CategoryImage/506/category_image/FoodNutrition_07.jpg",
+    "properties": {
+        "Applications": [
+            "Food",
+            "Other Food Applications"
+        ],
+        "Product Families": [
+            "Nutrition & Fortification",
+            "Plant Proteins",
+            "Nutraceuticals & Supplements",
+            "Proteins & Amino Acids"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Coffee Protein"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Plant Origin"
+        ],
+        "Labeling Claims": [
+            "Vegan",
+            "Halal",
+            "Plant-Based",
+            "Natural",
+            "Naturally Derived",
+            "Organic",
+            "Vegetarian"
+        ],
+        "Features": [
+            "Suitable for Vegetarian Foods",
+            "Suitable for Vegans"
+        ]
+    }
+}

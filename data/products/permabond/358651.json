@@ -1,0 +1,40 @@
+{
+    "id": 358651,
+    "brand": "permabond",
+    "name": "PERMABOND® TA437",
+    "slug": "permabond-ta437",
+    "description": "PERMABOND® TA437 is a single component structural acrylic adhesive designed primarily for bonding metals, ferrites and ceramics. The typical fixture time of TA437 when used with Initiator 41 is 20-30 seconds. The fast fixture time of TA437 makes it an ideal adhesive for high speed production lines. When the use of the activator is not desirable, the material will cure anaerobically in a close-fitting joint / in presence of metal, the fixture time will be 5-10 minutes. This product provides high strength, tough, durable bonds with good impact resistance.",
+    "company_name": "Permabond Engineering Adhesives",
+    "company_slug": "permabond-engineering-adhesives",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664290770/production/Brand/26756/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608962/production/CategoryImage/587/category_image/AdhesivesSealants_04.jpg",
+    "properties": {
+        "Applications": [
+            "Other Adhesives & Sealants Applications"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Anaerobic Adhesives",
+            "Structural Adhesives"
+        ],
+        "Chemical Family": [
+            "Acrylics, Acrylates & Methacrylates"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Acrylics, Acrylates & Methacrylates"
+        ],
+        "Ready to Use Product Type": [
+            "Anaerobic Adhesive",
+            "1K (1 component) Adhesive"
+        ],
+        "Cure Method": [
+            "Air Dry"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Ceramic",
+            "Metal"
+        ]
+    }
+}

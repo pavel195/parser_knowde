@@ -1,0 +1,31 @@
+{
+    "id": 410659,
+    "brand": "sabro",
+    "name": "LORAL™",
+    "slug": "loral",
+    "description": "LORAL™ is a hop brand developed by the Hop Breeding Company and released in 2016, previously known as HBC 291. It provides pleasant floral and herbal notes reminiscent of a noble aroma of hop. Loral’s mother is U.S. Glacier and her grandmother the long-established french noble variety known as Tardif de Bourgogne.",
+    "company_name": "WILLAMETTE VALLEY HOPS",
+    "company_slug": "willamette-valley-hops",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686109621/production/Brand/31913/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607274/production/CategoryImage/514/category_image/FoodNutrition_14.jpg",
+    "properties": {
+        "Applications": [
+            "Beverage",
+            "Beer Brewing",
+            "Other Non-Alcoholic Beverages"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Plant & Herb Products & Extracts"
+        ],
+        "Flavor Family": [
+            "Herb Flavors",
+            "Fruit Flavors"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Hops"
+        ]
+    }
+}

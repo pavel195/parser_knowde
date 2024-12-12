@@ -1,0 +1,52 @@
+{
+    "id": 325487,
+    "brand": "phosphinox",
+    "name": "SNCZ Zinc Phosphate PZW2",
+    "slug": "sncz-zinc-phosphate-pzw2",
+    "description": "SNCZ Zinc Phosphate PZW2 is a corrosion inhibiting pigment suitable for a wide range of applications. It is an easily dispersed white powder with a low tinting strength. Thanks to its low solubility, Zinc phosphate PZW2 is compatible with a wide range of solvent and water based resins.",
+    "company_name": "SNCZ",
+    "company_slug": "sncz",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708688245/production/Company/31010/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608630/production/CategoryImage/571/category_image/PaintingsCoatings_07.jpg",
+    "properties": {
+        "Applications": [
+            "Other Paints & Coatings Applications",
+            "Industrial Coatings"
+        ],
+        "Product Families": [
+            "Inorganic Pigments",
+            "Corrosion Inhibiting Pigments",
+            "Functional Pigments",
+            "Functional Additives",
+            "Additives",
+            "Pigments & Colorants",
+            "Color Pigments"
+        ],
+        "Chemical Family": [
+            "Phosphates"
+        ],
+        "End Uses": [
+            "Waterborne Coating",
+            "Solventborne Coating",
+            "Powder Coating"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Phosphates"
+        ],
+        "Functions": [
+            "Colorant",
+            "Corrosion Inhibitor"
+        ],
+        "Pigment Type": [
+            "Inorganic Pigments"
+        ],
+        "Color": [
+            "White"
+        ],
+        "Synonyms": [
+            "Zinc(II) Phosphate"
+        ]
+    }
+}

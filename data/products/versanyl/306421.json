@@ -1,0 +1,30 @@
+{
+    "id": 306421,
+    "brand": "versanyl",
+    "name": "Versanyl VIOLET S-B",
+    "slug": "versanyl-violet-s-b",
+    "description": "VERSANYL VIOLET S-B is Pigment Violet 23",
+    "company_name": "Synthesia",
+    "company_slug": "synthesia",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708524142/production/Product/306421/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608630/production/CategoryImage/571/category_image/PaintingsCoatings_07.jpg",
+    "properties": {
+        "Applications": [
+            "Other Printing & Packaging Applications",
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Organic Pigments",
+            "Color Pigments",
+            "Pigments & Colorants"
+        ]
+    },
+    "summary": {
+        "Color": [
+            "Violet"
+        ],
+        "Pigment Type": [
+            "Organic Pigments"
+        ]
+    }
+}

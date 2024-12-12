@@ -1,0 +1,48 @@
+{
+    "id": 466450,
+    "brand": "thermofil-circle",
+    "name": "Thermofil® APG30I Black",
+    "slug": "thermofil-apg30i-black",
+    "description": "Thermofil® APG30I Black is a chemically coupled 30% glass fiber-reinforced polypropylene homopolymer. It is used in cooling fans and shrouds, under bonnet automotive and parts requiring good mechanical resistance. This product is suitable for Injection molding.\n\n \n\nApplications:\n\n\nDoor Handle Latch\nAppliances\n\n\n \n\nFeatures:\n\n\nChemically coupled, offering a great balance of mechanical properties.\n\n\n \n\nBenefits:\n\n\nExcellent Alternative to glass filled Nylons, PBT, and long-glass-filled PP, offering a lower density and a lower carbon footprint.\n",
+    "company_name": "Sumika Polymers North America, LLC & Sumika Polymer Compounds Europe, LLC",
+    "company_slug": "sumika-polymers-north-america",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1713790223/production/Company/60312/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606026/production/CategoryImage/469/category_image/CompositeMaterials_09.jpg",
+    "properties": {
+        "Applications": [
+            "Cooling & Climate",
+            "Powertrain & UTH",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Polyolefins",
+            "Basic Thermoplastics"
+        ],
+        "Chemical Family": [
+            "Polypropylenes (PP)",
+            "Polyolefins"
+        ],
+        "Polymer Name": [
+            "Polypropylene Homopolymer (HPP)"
+        ],
+        "End Uses": [
+            "Automotive Cooling Shroud",
+            "Automotive Cooling Fan",
+            "Automotive Under The Hood"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polypropylene Homopolymer (HPP)"
+        ],
+        "Processing Methods": [
+            "Injection Molding"
+        ],
+        "Fillers Included": [
+            "Glass Fiber"
+        ],
+        "Melt Flow Index": [
+            "15.0 - 15.0 g/10 min"
+        ]
+    }
+}

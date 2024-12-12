@@ -1,0 +1,34 @@
+{
+    "id": 387521,
+    "brand": "daphne",
+    "name": "DAPHNE® * OIL CUT RL55 F-U:",
+    "slug": "daphne-oil-cut-rl55-f-u",
+    "description": "Daphne® * Oil Cut RL55 F-U: is a transparent, dark amber solvent based fluid used for stamping. Formulated with an excellent rust and corrosion inhibitor package for ferrous metals. This product contains no added barium.",
+    "company_name": "Etna Products Inc.",
+    "company_slug": "etna-products-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664291772/production/Brand/29089/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608769/production/CategoryImage/577/category_image/AutomotiveTransportation_05.jpg",
+    "properties": {
+        "Applications": [
+            "Lubricants & Functional Fluids",
+            "Automotive Fluids & Lubricants",
+            "Aerospace Fluids & Lubricants"
+        ],
+        "Product Families": [
+            "Fluids & Lubricants",
+            "Metalworking Fluids"
+        ]
+    },
+    "summary": {
+        "Application Areas": [
+            "Stamping"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal"
+        ],
+        "Features": [
+            "Corrosion Resistant",
+            "Excellent Transparency Properties"
+        ]
+    }
+}

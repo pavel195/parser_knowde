@@ -1,0 +1,37 @@
+{
+    "id": 371390,
+    "brand": "clear-pl",
+    "name": "EDEN TX™",
+    "slug": "eden-tx",
+    "description": "Eden TX™ Latex-based ink for textile is the ultimate ink for textile digital printing applications on all fabric types whether natural, synthetic or mixed. This waterbased ink is ideal for cost efficient, fast and hassle free short run garment and apparel, decorative and industrial textile printing applications. EDEN TX™ is designed to meet the requirements of printer manufacturers using digital textile printers with Epson® DOD piezo printheads, Ricoh® and other industrial inkjet print technologies.",
+    "company_name": "Bordeaux Digital Printink",
+    "company_slug": "bordeaux-digital-printink",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680110693/production/Brand/27709/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Textiles & Nonwovens",
+            "Leather & Textiles",
+            "Textile Coatings & Inks",
+            "Textile Manufacturing"
+        ],
+        "Product Families": [
+            "Digital Printing Inks",
+            "Inks & Pastes"
+        ]
+    },
+    "summary": {
+        "Application Area": [
+            "Textiles"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Fibers & Fabrics"
+        ],
+        "Features": [
+            "Outdoor Durability",
+            "Good Light Fastness",
+            "Good Washability",
+            "Excellent Color"
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": 423199,
+    "brand": "apoeplus",
+    "name": "Canthaplus®",
+    "slug": "canthaplus",
+    "description": "Canthaplus® consists of reddish brown, free-flowing beadlets containing 10% canthaxanthin in a protective matrix. Canthaplus® is the product of choice for the feed industry and is commonly used for egg yolk and poultry skin pigmentation. It is also used in other countries for farmed salmon and trout’s combined with astaxanthin as well as duck eggs. Canthaxanthin has also an antioxidant activity and enhances junctional communication between cells directly or through the formation of 4-oxo-retinoic acid, which is also able to stimulate the retinoic acid receptor (Amaya et al., 2014).",
+    "company_name": "JYB Europe / Guangzhou Juyuan Bio-Chem Co., Ltd",
+    "company_slug": "jyb-europe-guangzhou-juyuan-bio-chem-co-ltd",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708687626/production/Brand/33300/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608238/production/CategoryImage/552/category_image/AgricultureFeed_08.jpg",
+    "properties": {
+        "Applications": [
+            "Birds & Poultry",
+            "Aquaculture",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Colorants & Pigments",
+            "Production Aids and Processing Additives"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Colorant"
+        ]
+    }
+}

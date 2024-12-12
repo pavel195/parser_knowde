@@ -1,0 +1,57 @@
+{
+    "id": 252721,
+    "brand": "synergen",
+    "name": "VILIGEN™",
+    "slug": "viligen",
+    "description": "VILIGEN™ is a proprietary blend of fatty acid, prebiotic components and readily available minerals from Alltech.",
+    "company_name": "Alltech",
+    "company_slug": "alltech",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708695828/production/Company/19217/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608161/production/CategoryImage/546/category_image/AgricultureFeed_02.jpg",
+    "properties": {
+        "Applications": [
+            "Swine",
+            "Birds & Poultry",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Metabolism Modifiers",
+            "Immunomodulators",
+            "Health & Well-Being"
+        ],
+        "Chemical Family": [
+            "Yeast & Yeast Extracts",
+            "Zinc & Zinc Compounds",
+            "Minerals",
+            "Fatty Acids"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Butyric Acid"
+        ],
+        "Animal Species": [
+            "Swine",
+            "Broilers",
+            "Laying Hens",
+            "Piglets"
+        ],
+        "Functions": [
+            "Digestion Promotor",
+            "Immunomodulator"
+        ],
+        "Features": [
+            "Efficient Protein Absorption",
+            "Good Mineral Absorption",
+            "Improves Immunity",
+            "Improves Gut Microflora",
+            "Improves Gut Protection",
+            "Promotes Healthy Gastrointestinal Environment",
+            "Improves Intestinal Absorption",
+            "Reduces Enteropathogens In The Gut"
+        ],
+        "Synonyms": [
+            "1-Propanecarboxylic acid, Butanoic acid, Ethylacetic acid, Honey robber, n-Butanoic acid, n-Butyric acid, NSC 8415, Propylformic acid"
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": 419273,
+    "brand": "basecaps",
+    "name": "CavityPro 400",
+    "slug": "cavitypro-400",
+    "description": "CavityPro 400 is SWT Group’s newest addition to its family of water-based rust inhibitors. This product utilizes the powerful rust preventative characteristics of calcium sulphonate without the environmentally hazardous solvents required in traditional corrosion preventatives. Developed with a unique, proprietary, self-healing formulation, CP 400 has both physical and chemical anti-corrosive properties on most metal surfaces and exhibits the ability to prevent rust even in the presence of minor damage to the film. This water-based coating offers the performance, storage stability and sprayability of most of its solvent based counterparts but without the VOCs. Extensive laboratory and field testing has proven that CP 400 water-based rust inhibitor can achieve impressive corrosion resistance at much lower film thicknesses than its solvent based counterparts under many different conditions.",
+    "company_name": "SWT Group",
+    "company_slug": "swt-group",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520394/production/Brand/32888/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608611/production/CategoryImage/569/category_image/PaintingsCoatings_05.jpg",
+    "properties": {
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ],
+        "Chemical Family": [
+            "Waxes"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Waterborne Coating"
+        ],
+        "Features": [
+            "Corrosion Resistant",
+            "Anti Dripping",
+            "Low VOC"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal"
+        ],
+        "Application Method": [
+            "Dip Coating",
+            "Spray"
+        ],
+        "Chemical Family": [
+            "Waxes"
+        ]
+    }
+}

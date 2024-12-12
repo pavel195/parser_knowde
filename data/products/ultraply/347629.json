@@ -1,0 +1,52 @@
+{
+    "id": 347629,
+    "brand": "ultraply",
+    "name": "RubberGard™ Neoprene Membrane",
+    "slug": "rubbergard-neoprene-membrane",
+    "description": "RubberGard™ Neoprene Membrane is a self-curing material used as a protection layer over RubberGard EPDM Membrane. Neoprene Membrane is used to protect EPDM roofing systems from rooftop contaminants (i.e., grease, animal fats). Neoprene must be installed in accordance with current Firestone RubberGard specifications.",
+    "company_name": "Firestone Building Products",
+    "company_slug": "firestone-building-products",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686149788/production/Brand/25939/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608454/production/CategoryImage/560/category_image/BuildingConstruction_04.jpg",
+    "properties": {
+        "Applications": [
+            "Roofing",
+            "Roofing Sheets",
+            "Waterproofing Membranes",
+            "Building Envelope & Roofing",
+            "Waterproofing & Weatherproofing"
+        ],
+        "Product Families": [
+            "Parts & Shapes"
+        ],
+        "Chemical Family": [
+            "Polychloroprenes"
+        ],
+        "Polymer Name": [
+            "Chloroprene Rubber (CR)"
+        ],
+        "End Uses": [
+            "Roofing Membranes"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Chloroprene Rubber (CR)"
+        ],
+        "Physical Form": [
+            "Sheets"
+        ],
+        "Features": [
+            "UV Resistant",
+            "Low Energy Consumption",
+            "High Flexibility",
+            "Durable"
+        ],
+        "End Uses": [
+            "Roofing Membranes"
+        ],
+        "Tensile Strength": [
+            "1205.0 - 1205.0 MPa"
+        ]
+    }
+}

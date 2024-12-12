@@ -1,0 +1,104 @@
+{
+    "id": 162142,
+    "brand": "skinbrite-30",
+    "name": "Beta-Glucan M™",
+    "slug": "beta-glucan-m",
+    "description": "Beta-Glucan M™ also called “Sodium Carboxymethyl Beta-Glucan” is the sodium salt of a carboxymethyl ether of Beta-Glucan. It is commonly used as a binding agent and rheological modifier in personal care formulations. It is known to soothe irritated skin,\r\nsupport the skin’s own antioxidant activity, protect the skin from environmental damage, and help the skin to retain moisture.",
+    "company_name": "McKinley Resources, Inc.",
+    "company_slug": "mckinley-resources-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1717004052/production/Company/2908/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,c_crop,x_0,y_268,w_640,h_200/v1717004052/production/Brand/15820/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Bath & Shower",
+            "Hair Care",
+            "Skin Care",
+            "Sun Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Conditioners & Emollients",
+            "Texturizers & Fillers",
+            "Skin Actives",
+            "Rheology Modifiers",
+            "Cosmetic Actives",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Aqua",
+            "Sodium Carboxymethyl Beta-Glucan"
+        ],
+        "End Uses": [
+            "Sunscreen Cream",
+            "Anti-Aging Products",
+            "Facial Cleanser",
+            "Facial Moisturizer",
+            "Hand Cream",
+            "Shampoos & Rinses",
+            "Skin Toners"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Sodium Carboxymethyl Beta-Glucan",
+            "Aqua"
+        ],
+        "Functions": [
+            "Anti-Inflammatory",
+            "Firming Agent",
+            "Antioxidant",
+            "Binder",
+            "Viscosity Modifier",
+            "Moisturizing Agent"
+        ],
+        "Ingredient Origin": [
+            "Synthetic"
+        ],
+        "Labeling Claims": [
+            "VOC-free",
+            "1,4-Dioxane-free",
+            "CMR Substances-free",
+            "Not Tested on Animals",
+            "SVHC Chemicals-free",
+            "Butylated Hydroxyanisole-free",
+            "Phthalates-free",
+            "Sulfate-free",
+            "Butylated Hydroxytoluene (BHT)-Free",
+            "Formaldehyde-free",
+            "Clean at Sephora",
+            "TSE-free",
+            "Paraben-free",
+            "GMO-free",
+            "Bisphenol A-free",
+            "Petrochemical-free",
+            "Non-Phenolic",
+            "Nanomaterials-free",
+            "Soy-free",
+            "Talc-free",
+            "Silicone-free",
+            "Palm free",
+            "Hormones-free",
+            "Ulta Beauty's Conscious Beauty",
+            "Gluten-free",
+            "Glycol ether-free",
+            "Not Listed In California Proposition 65",
+            "Fragrance allergen-free",
+            "Palm Oil-free",
+            "Latex-free",
+            "Nitrosamines-free",
+            "BSE-free"
+        ],
+        "Benefit Claims": [
+            "Repairing",
+            "Firming",
+            "Soothing",
+            "Antioxidant Properties",
+            "Protection From Environmental Damage",
+            "Moisturizing",
+            "Barrier Function Improvement",
+            "Moisture Retention",
+            "Photo-Aging Protection",
+            "Anti-Inflammatory"
+        ]
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "id": 511851,
+    "brand": "latsil",
+    "name": "Maxant® PWR",
+    "slug": "maxant-pwr",
+    "description": "Maxant® PWR is a silicone antifoam emulsion renowned for its excellent knockdown and durability. Highly effective even at low usage levels, it remains stable in high acidic and alkaline formulations, making it a versatile option for various applications. It is particularly suitable for use in clear products such as liquid laundry detergent, liquid dishwashing detergent, and glass cleaners. Offering long-term foam inhibition and compatibility with wetting agents, it facilitates ease in forming dispersions in all foaming systems.",
+    "company_name": "Latro Kimya Dış Ticaret A.Ş.",
+    "company_slug": "latro-kimya",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1713376785/production/Company/62342/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606336/production/CategoryImage/478/category_image/FluidsLubricants_03.jpg",
+    "properties": {
+        "Applications": [
+            "Surface Care",
+            "Dish Care",
+            "Laundry & Fabric Care",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Foam Control Agents",
+            "Functional Additives"
+        ],
+        "End Uses": [
+            "Fabric Softeners",
+            "Liquid Dishwash",
+            "Multipurpose Detergents",
+            "Glass Cleaners",
+            "Liquid Laundry Detergents"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Anti-Foaming Agent"
+        ],
+        "End Uses": [
+            "Glass Cleaners",
+            "Multipurpose Detergents",
+            "Liquid Dishwash",
+            "Fabric Softeners",
+            "Liquid Laundry Detergents"
+        ]
+    }
+}

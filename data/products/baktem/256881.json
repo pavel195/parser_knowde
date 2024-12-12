@@ -1,0 +1,41 @@
+{
+    "id": 256881,
+    "brand": "baktem",
+    "name": "Bakels Sorbex",
+    "slug": "bakels-sorbex",
+    "description": "Bakels Sorbex is a powdered mold inhibitor, for use in all flour confectionery, cake and sponge batters. Sorbic Acid is considered more effective in flour confectionery than Propionic Acid, but Sorbic Acid is not readily soluble in water. We therefore highly recommend Sorbex, which is a carefully chosen balanced preservative containing 65% Potassium Sorbate, 15% Calcium Propionate and 20% of permitted diluent. Sorbex has been developed to allow for an even figure of 0.2% on batter weight.",
+    "company_name": "Bakels",
+    "company_slug": "bakels",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1720783196/production/Company/19673/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1720783196/production/Company/19673/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Convenience Foods",
+            "Confectionery",
+            "Bakery",
+            "Food"
+        ],
+        "Product Families": [
+            "Antioxidants & Preservatives",
+            "Functional Additives"
+        ],
+        "End Uses": [
+            "Food Batters",
+            "Cakes"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Preservative",
+            "Mold Inhibitor"
+        ],
+        "Physical Form": [
+            "Powder",
+            "Solid"
+        ],
+        "Labeling Claims": [
+            "Vegan",
+            "Vegetarian"
+        ]
+    }
+}

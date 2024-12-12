@@ -1,0 +1,54 @@
+{
+    "id": 393871,
+    "brand": "ribodiet",
+    "name": "IMPETUS",
+    "slug": "impetus",
+    "description": "IMPETUS is the new natural flavor enhancer for boosting the overall flavor profile of your products in a natural way. With IMPETUS, food and flavors manufacturers can create the taste of their products through a pure, natural flavor enhancer.",
+    "company_name": "Prosol spa",
+    "company_slug": "prosol-spa",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708684352/production/Brand/29723/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606961/production/CategoryImage/506/category_image/FoodNutrition_07.jpg",
+    "properties": {
+        "Applications": [
+            "Cereals & Snacks",
+            "Meat, Poultry & Seafood",
+            "Bakery",
+            "Savory & Culinary",
+            "Food"
+        ],
+        "Product Families": [
+            "Salt & Salt Substitutes",
+            "Alternates & Replacements",
+            "Flavor Enhancers",
+            "Taste & Flavor",
+            "Whole Foods, Extracts & Premixes"
+        ],
+        "End Uses": [
+            "Snacks",
+            "Bouillon",
+            "Sauces",
+            "Soups"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Salt Substitute",
+            "Flavor Enhancer",
+            "MSG Replacer"
+        ],
+        "Labeling Claims": [
+            "Clean Label"
+        ],
+        "End Uses": [
+            "Bouillon",
+            "Snacks",
+            "Soups",
+            "Sauces"
+        ],
+        "Features": [
+            "Cost Effective",
+            "Improved Mouthfeel",
+            "Low Sodium"
+        ]
+    }
+}

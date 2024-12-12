@@ -1,0 +1,41 @@
+{
+    "id": 427685,
+    "brand": "sensyn",
+    "name": "Sent Marine 17331",
+    "slug": "sent-marine-17331",
+    "description": "Sentinel CanadaSENT-MARINE 17331 is a high quality steam turbine and gear lubricating oil uniquely formulated for use on naval surface vessels and submarines. The product meets specific performance requirements as per military standard and passes all health and safety assessments as required by the U.S. Navy.",
+    "company_name": "Sentinel Canada",
+    "company_slug": "sentinel-canada",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680109036/production/Brand/33900/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Lubricants & Functional Fluids",
+            "Marine Fluids & Lubricants",
+            "Chemical & Industrial Manufacturing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Lubricants & Oils",
+            "Fluids & Lubricants"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Oil"
+        ],
+        "Application Area": [
+            "Gears",
+            "Compressors",
+            "Marine Applications",
+            "Turbines"
+        ],
+        "Features": [
+            "Oxidation Resistant",
+            "Corrosion Resistant",
+            "Good Thermal Stability",
+            "Consistent High Quality",
+            "Non-Foaming"
+        ]
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "id": 292198,
+    "brand": "laviosa-viscogel",
+    "name": "LAVIOSA VISCOGEL ™ S8",
+    "slug": "laviosa-viscogel-s8",
+    "description": "LAVIOSA VISCOGEL™ S8 is a new high effective high performing rheological additive for solvent-borne systems of low to medium polarity, that gives excellent thixotropic effect, sag control, film thicknesses, leveling and prevents pigments from long-term storage settling. The nature of LAVIOSA VISCOGEL™ S8 is a high purified bentonite clay, organically modified with a quaternary alkylammonium compound.",
+    "company_name": "Laviosa Minerals",
+    "company_slug": "laviosa-minerals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1673943709/production/Company/22798/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608410/production/CategoryImage/557/category_image/BuildingConstruction_01.jpg",
+    "properties": {
+        "Applications": [
+            "Coatings & Finishes",
+            "Automotive & Transportation",
+            "Building & Construction",
+            "Industrial Coatings",
+            "Packaging Coatings",
+            "Printing & Inks",
+            "Marine",
+            "Automotive OEM Coatings",
+            "Coil Coatings",
+            "Industrial Maintenance",
+            "Overprint Varnishes",
+            "Primers & Lacquers",
+            "Architectural Coatings",
+            "Other Adhesives & Sealants Applications",
+            "Other Printing & Packaging Applications",
+            "Building Envelope & Roofing",
+            "Marine Coatings",
+            "Vehicle Refinish",
+            "Offset & Lithographic Printing",
+            "Transportation",
+            "Building Envelope"
+        ],
+        "Product Families": [
+            "Additives",
+            "Rheology Modifiers & Stabilizers"
+        ],
+        "Chemical Family": [
+            "Organoclays",
+            "Bentonite"
+        ],
+        "End Uses": [
+            "Solventborne Ink",
+            "Solventborne Coating",
+            "Varnishes",
+            "Coil Coating",
+            "Primer",
+            "Solventborne Adhesive"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Bentonite",
+            "Organoclays"
+        ],
+        "End Uses": [
+            "Solventborne Adhesive",
+            "Solventborne Ink",
+            "Primer",
+            "Coil Coating",
+            "Varnishes",
+            "Solventborne Coating"
+        ],
+        "Compatible Polymers & Resins": [
+            "Acrylics",
+            "Polyvinyl Acetate (PVA)",
+            "Alkyds",
+            "Nitrocellulose",
+            "Polyurethanes (PU)",
+            "Epoxies (EP)",
+            "Polyesters"
+        ],
+        "Physical Form": [
+            "Powder",
+            "Solid"
+        ]
+    }
+}

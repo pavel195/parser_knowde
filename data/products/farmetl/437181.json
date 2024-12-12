@@ -1,0 +1,42 @@
+{
+    "id": 437181,
+    "brand": "farmetl",
+    "name": "FARMetl™ Cobaltous Acetylacetonate (14024-48-7)",
+    "slug": "farmetl-cobaltous-acetylacetonate-14024-48-7",
+    "description": null,
+    "company_name": "FAR Chemical, Inc.",
+    "company_slug": "far-chemical",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709127965/production/Brand/28757/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1626797274/production/CategoryImage/957/category_image/BaseChemicals_05.jpg",
+    "properties": {
+        "Applications": [
+            "Pharmaceutical Processing",
+            "Resin Manufacturing",
+            "Chemical Manufacturing",
+            "Pharmaceutical Manufacturing",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Color Pigments",
+            "Coordination Complexes",
+            "Pigments & Colorants",
+            "Metals, Alloys & Complexes"
+        ],
+        "Chemical Family": [
+            "Acetylacetonates",
+            "Cobalt & Cobalt Compounds"
+        ],
+        "End Uses": [
+            "Pharmaceutical Application"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Acetylacetonates",
+            "Cobalt & Cobalt Compounds"
+        ],
+        "End Uses": [
+            "Pharmaceutical Application"
+        ]
+    }
+}

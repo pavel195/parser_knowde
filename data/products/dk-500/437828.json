@@ -1,0 +1,45 @@
+{
+    "id": 437828,
+    "brand": "dk-500",
+    "name": "SureCrete CS 250LV Low VOC Cure & Seal",
+    "slug": "surecrete-cs-250lv-low-voc-cure-seal",
+    "description": "UPI Sealant Products CS 250LV Low VOC Cure &amp; Seal is a finishing membrane that enhances the curing process of freshly placed concrete and provides protection simultaneously. It forms a water retentive film that beneficially restricts moisture loss allowing concrete to reach its optimal cure and hardness, providing an economical alternative to costly, time-consuming water curing.\r\n",
+    "company_name": "SureCrete",
+    "company_slug": "surecrete",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520308/production/Company/64844/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608454/production/CategoryImage/560/category_image/BuildingConstruction_04.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Building & Construction",
+            "Decorative Paints, Coatings & Stains",
+            "Decorative Materials & Finishes",
+            "Concrete Coatings & Stains"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Sealer",
+            "Solventborne Coating"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Concrete"
+        ],
+        "Features": [
+            "Low VOC",
+            "Freeze/Thaw Stability",
+            "Good Stain Resistance",
+            "Good UV Protection",
+            "Excellent Moisture Resistance",
+            "Chemical Resistant"
+        ],
+        "Application Method": [
+            "Roller",
+            "Spray"
+        ]
+    }
+}

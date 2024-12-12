@@ -1,0 +1,78 @@
+{
+    "id": 95965,
+    "brand": "prolix",
+    "name": "Phytocream® 2000",
+    "slug": "phytocream-2000",
+    "description": "Phytocream®2000 is a Non ionic/anionic O/W emulsifier. Its particular structure forms a liquid crystal network that allows to easily formulate stable systems. Its lipid fraction fits perfectly the stratum corneum, restoring the structural balance of the lipid film. The obtained creams have great restorative and nourishing properties derived from wheat proteins.",
+    "company_name": "Sinerga S.p.A.",
+    "company_slug": "sinerga-s-p-a",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708696010/production/Product/95965/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708696010/production/Product/95965/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Skin Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Conditioners & Emollients",
+            "Skin Actives",
+            "Emulsifiers, Solubilizers & Dispersants",
+            "Cosmetic Actives",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Cetearyl Alcohol",
+            "Glyceryl Stearate",
+            "Potassium Palmitoyl Hydrolyzed Wheat Protein"
+        ],
+        "End Uses": [
+            "Moisturizers"
+        ],
+        "Labeling Claims": [
+            "Credo Clean Standard",
+            "Ulta Beauty's Conscious Beauty",
+            "PEG-free",
+            "Preservative-free",
+            "Organic"
+        ],
+        "Benefit Claims": [
+            "Emulsifying",
+            "Tewl Reduction",
+            "Restoring",
+            "Nourishing",
+            "Rejuvenating",
+            "Moisturizing"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Potassium Palmitoyl Hydrolyzed Wheat Protein",
+            "Cetearyl Alcohol",
+            "Glyceryl Stearate"
+        ],
+        "Ingredient Origin": [
+            "Plant Origin"
+        ],
+        "Functions": [
+            "Nourishing Agent",
+            "Restoring Agent",
+            "Protective Agent",
+            "Moisturizing Agent",
+            "Emulsifier"
+        ],
+        "Labeling Claims": [
+            "Credo Clean Standard",
+            "Preservative-free",
+            "Organic",
+            "Ulta Beauty's Conscious Beauty",
+            "PEG-free"
+        ],
+        "Certifications & Compliance": [
+            "COSMOS",
+            "Halal"
+        ],
+        "HLB Value": [
+            "10.0 - 12.0 "
+        ]
+    }
+}

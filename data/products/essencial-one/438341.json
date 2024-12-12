@@ -1,0 +1,30 @@
+{
+    "id": 438341,
+    "brand": "essencial-one",
+    "name": "C POWER®",
+    "slug": "c-power",
+    "description": "C Power® is an extremely stable and therefore highly bio-available form of vitamin C.",
+    "company_name": "Mercordi BV",
+    "company_slug": "mercordi-bv",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708692481/production/Company/63165/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608173/production/CategoryImage/547/category_image/AgricultureFeed_03.jpg",
+    "properties": {
+        "Applications": [
+            "Other Animal Health & Nutrition",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Vitamins",
+            "Nutritional Ingredients"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Vitamin Source"
+        ],
+        "Features": [
+            "Improves Stability",
+            "High Bioavailability"
+        ]
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "id": 411501,
+    "brand": "klinosept",
+    "name": "DAVERA® F&B RTU – High-level, multi-surface disinfectant",
+    "slug": "davera-f-b-rtu-high-level-multi-surface-disinfectant",
+    "description": "DAVERA® F&amp;B is an effective disinfectant, sanitizer and deodorant, for surfaces in general as well as for surfaces and equipment in contact with food, with fungicidal, bactericidal and virucidal performances. It does not contain aldehydes, phenols.",
+    "company_name": "Klintensiv SRL",
+    "company_slug": "klintensiv-srl",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292320/production/Brand/32046/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515647/production/CategoryImage/1055/category_image/HII_07.jpg",
+    "properties": {
+        "Applications": [
+            "Surface Care",
+            "Industrial Cleaning",
+            "Institutional & Catering",
+            "Food & Beverage Manufacturing",
+            "Food Facility Cleaning & Sanitization",
+            "Processing & Packaging",
+            "Institutional & Industrial Care",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Industrial Cleaners",
+            "Commercial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Sanitizers",
+            "Institutional Cleaners",
+            "Disinfectant Products",
+            "Cleaner"
+        ],
+        "Application Areas": [
+            "Hard Surfaces",
+            "Equipment",
+            "Immersion Cleaner",
+            "Kitchen"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Glass"
+        ],
+        "Features": [
+            "Neutralizes Odor",
+            "Bacteria Resistant",
+            "Fungus Resistant"
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "id": 403517,
+    "brand": "transpet",
+    "name": "TRANSPET™ AF/AG",
+    "slug": "transpet-af-ag",
+    "description": "TRANSPET™ AF/AG PET offers both anti-fog and anti-glare functionality with excellent clarity and very low haze. TransPet AF/AG is a clear polyester film coated on both sides for Anti-fog and Anti-glare performance.",
+    "company_name": "Transcendia",
+    "company_slug": "transcendia",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686149943/production/Brand/30867/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609128/production/CategoryImage/597/category_image/PrintingPackaging_08.jpg",
+    "properties": {
+        "Applications": [
+            "Wire & Cable",
+            "Medical",
+            "Disposable Ware",
+            "Optical Fiber & Telecom"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Polyethylene Terephthalate (PET)"
+        ],
+        "Polymer Name": [
+            "Polyethylene Terephthalate (PET)"
+        ],
+        "End Uses": [
+            "Disposable Hospital Goods"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyethylene Terephthalate (PET)"
+        ],
+        "Physical Form": [
+            "Sheets",
+            "Film"
+        ],
+        "Features": [
+            "Anti-Fogging",
+            "Low Haze",
+            "Clarity"
+        ],
+        "Color": [
+            "Transparent"
+        ]
+    }
+}

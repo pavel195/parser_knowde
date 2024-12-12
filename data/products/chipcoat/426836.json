@@ -1,0 +1,27 @@
+{
+    "id": 426836,
+    "brand": "chipcoat",
+    "name": "NAMICS-Diemat H 9672",
+    "slug": "namics-diemat-h-9672",
+    "description": "NAMICS-Diemat H 9672 is a surface mounting adhesive. These have high purity used for bonding parts applications.",
+    "company_name": "NAMICS-Diemat",
+    "company_slug": "namics-diemat",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697221909/production/Company/60965/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608953/production/CategoryImage/586/category_image/AdhesivesSealants_03.jpg",
+    "properties": {
+        "Applications": [
+            "Equipment & Parts",
+            "Batteries",
+            "Appliances & Electronics",
+            "Adhesives & Sealants",
+            "Packaging & Assembly",
+            "Parts & Components",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Conductive Adhesives",
+            "Adhesives & Sealants"
+        ]
+    },
+    "summary": {}
+}

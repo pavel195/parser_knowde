@@ -1,0 +1,38 @@
+{
+    "id": 316950,
+    "brand": "azsa",
+    "name": "Asturiana de Zinc, S.A.U. Zinc Sulfate",
+    "slug": "asturiana-de-zinc-s-a-u-zinc-sulfate",
+    "description": "Asturiana de Zinc, S.A.U. Zinc sulfate is an inorganic compound. It is used as a dietary supplement to treat zinc deficiency and to prevent the condition in those at high risk. Side effects of excess supplementation may include abdominal pain, vomiting, headache, and tiredness.",
+    "company_name": "Asturiana de Zinc, S.A.U.",
+    "company_slug": "asturiana-de-zinc-s-a-u",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704100388/production/Product/316950/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Other Paper & Pulp Applications",
+            "Paper & Pulp"
+        ],
+        "Product Families": [
+            "Inorganics",
+            "Technical Salts & Inorganics"
+        ],
+        "Chemical Family": [
+            "Zinc Salts"
+        ],
+        "End Uses": [
+            "Zinc Compounds"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Zinc Sulfate"
+        ],
+        "CAS Number": [
+            "7733-02-0"
+        ],
+        "Synonyms": [
+            "Goslarite, White Vitriol, Zinc Sulfate (1:1), Zinc(2+) Sulfate, Zinc(II) Sulfate, ZnSO4"
+        ]
+    }
+}

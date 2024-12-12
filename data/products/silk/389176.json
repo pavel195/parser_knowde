@@ -1,0 +1,58 @@
+{
+    "id": 389176,
+    "brand": "silk",
+    "name": "BB Blend 01",
+    "slug": "bb-blend-01",
+    "description": "BB Blend 01 is a Dispersion of powders for makeup. Provides a smooth effect and cream texture. Converts any cream base in a BB cream. Fair tone.",
+    "company_name": "Blue Sun International",
+    "company_slug": "blue-sun-international",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708673098/production/Company/1165/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708673098/production/Company/1165/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Skin Care",
+            "Color Cosmetics",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Texturizers & Fillers",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Dimethicone",
+            "CI 77499",
+            "CI 77491",
+            "Triethoxycaprylylsilane",
+            "Silica Dimethyl Silylate",
+            "CI 77492",
+            "Iron Oxides",
+            "Polymethylsilsesquioxane",
+            "Mica",
+            "Titanium Dioxide"
+        ],
+        "End Uses": [
+            "Skin Toners",
+            "BB Creams"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "CI 77499",
+            "Mica",
+            "Silica Dimethyl Silylate",
+            "CI 77492",
+            "Dimethicone",
+            "CI 77491",
+            "Polymethylsilsesquioxane",
+            "Titanium Dioxide",
+            "Iron Oxides",
+            "Triethoxycaprylylsilane"
+        ],
+        "Functions": [
+            "Texturizing Agent"
+        ],
+        "Labeling Claims": [
+            "Ulta Beauty's Conscious Beauty"
+        ]
+    }
+}

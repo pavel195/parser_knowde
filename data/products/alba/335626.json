@@ -1,0 +1,63 @@
+{
+    "id": 335626,
+    "brand": "alba",
+    "name": "ALBA 4M",
+    "slug": "alba-4m",
+    "description": "ALBA 4M is a solvent-based, standard non-leafing aluminum paste with a fine finesse. It is recommended for general industrial coatings, marine coatings, thermo resistant coatings, and paper coatings, hammer topcoats, and is suitable for polychromatic finishes and can/coil coatings",
+    "company_name": "Alba Aluminiu",
+    "company_slug": "alba-aluminiu",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708517212/production/Brand/24584/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Marine",
+            "Can Coatings",
+            "Industrial Coatings",
+            "Coil Coatings",
+            "Marine Coatings",
+            "Coated Paper & Paperboard",
+            "Coatings & Finishes",
+            "Transportation",
+            "Paper & Pulp",
+            "Automotive & Transportation",
+            "Packaging Coatings"
+        ],
+        "Product Families": [
+            "Inorganic Pigments",
+            "Color Pigments",
+            "Pigments & Colorants"
+        ],
+        "Chemical Family": [
+            "Aluminum Compounds"
+        ],
+        "End Uses": [
+            "Undercoat",
+            "Top Coat",
+            "Solventborne Coating",
+            "Primer"
+        ]
+    },
+    "summary": {
+        "Color": [
+            "Grey"
+        ],
+        "Pigment Type": [
+            "Inorganic Pigments"
+        ],
+        "Chemical Family": [
+            "Aluminum Compounds"
+        ],
+        "End Uses": [
+            "Solventborne Coating",
+            "Top Coat",
+            "Primer",
+            "Undercoat"
+        ],
+        "Particle Size": [
+            "19.0 - 19.0 microns"
+        ],
+        "Synonyms": [
+            "Al"
+        ]
+    }
+}

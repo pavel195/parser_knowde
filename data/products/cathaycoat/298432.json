@@ -1,0 +1,60 @@
+{
+    "id": 298432,
+    "brand": "cathaycoat",
+    "name": "CathayCoat RS-13",
+    "slug": "cathaycoat-rs-13",
+    "description": "CathayCoat RS-13 iron oxides are a range of high-quality pigments with attractive prices for paints, plastics, paper and dispersions. Extra milling or dispersant additives can be added to customize and improve the final product.",
+    "company_name": "Cathay Industries USA",
+    "company_slug": "cathay-industrial-biotech",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708524624/production/Company/23655/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608730/production/CategoryImage/574/category_image/AutomotiveTransportation_02.jpg",
+    "properties": {
+        "Applications": [
+            "Marine",
+            "Architectural Coatings",
+            "Furniture",
+            "Marine Coatings",
+            "Automotive OEM Coatings",
+            "Furniture Coatings",
+            "Primers & Lacquers",
+            "Wood Coatings & Finishes",
+            "Industrial Coatings",
+            "Coatings & Finishes",
+            "Transportation",
+            "Building Envelope",
+            "Automotive & Transportation",
+            "Building & Construction",
+            "Packaging Coatings",
+            "Building Envelope & Roofing"
+        ],
+        "Product Families": [
+            "Inorganic Pigments",
+            "Color Pigments",
+            "Pigments & Colorants"
+        ],
+        "Chemical Family": [
+            "Iron & Iron Compounds",
+            "Iron Oxides"
+        ],
+        "End Uses": [
+            "Lacquers",
+            "Powder Coating"
+        ]
+    },
+    "summary": {
+        "Color": [
+            "Red"
+        ],
+        "Pigment Type": [
+            "Inorganic Pigments"
+        ],
+        "Chemical Family": [
+            "Iron Oxides",
+            "Iron & Iron Compounds"
+        ],
+        "End Uses": [
+            "Powder Coating",
+            "Lacquers"
+        ]
+    }
+}

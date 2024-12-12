@@ -1,0 +1,43 @@
+{
+    "id": 321475,
+    "brand": "fiberstar",
+    "name": "GlucoSol® 620",
+    "slug": "glucosol-620",
+    "description": "GlucoSol® 620 is a new entry in the Chemstar water-soluble product line. It is a highly substituted natural polysaccharide designed to impart enhanced functional properties including: solution stability, salt tolerance, surface activity, water retention, improved rheology and viscosity. GlucoSol® 620 offers a unique alternative to competitive natural and synthetic water-soluble polymers",
+    "company_name": "Chemstar",
+    "company_slug": "chemstar",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664565021/production/Company/21262/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608939/production/CategoryImage/585/category_image/AdhesivesSealants_02.jpg",
+    "properties": {
+        "Applications": [
+            "Fillers, Levellers & Joints",
+            "Mortars & Plasters",
+            "Flooring & Surfaces"
+        ],
+        "Product Families": [
+            "Construction Chemicals",
+            "Mortar & Gypsum Additives"
+        ],
+        "Chemical Family": [
+            "Polysaccharides"
+        ],
+        "End Uses": [
+            "Waterborne Adhesive"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Polysaccharides"
+        ],
+        "End Uses": [
+            "Waterborne Adhesive"
+        ],
+        "Features": [
+            "Improved Workability",
+            "Excellent Stability",
+            "Improved Water Retention",
+            "Improved Rheology",
+            "Salt Resistance"
+        ]
+    }
+}

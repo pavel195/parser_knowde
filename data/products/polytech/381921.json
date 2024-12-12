@@ -1,0 +1,46 @@
+{
+    "id": 381921,
+    "brand": "polytech",
+    "name": "POLYDAMP® Low Permeability Foam (LP-18)",
+    "slug": "polydamp-low-permeability-foam-lp-18",
+    "description": "POLYDAMP® Low Permeability Foam (LP-18) is a soft, ether-based polyurethane foam with low permeability but quick recovery. It is an excellent low-cost alternative to traditional closed cell foams in applications where moisture and air need to be retained.",
+    "company_name": "Polymer Technologies",
+    "company_slug": "polymer-technologies",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1702444509/production/Brand/28649/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608744/production/CategoryImage/575/category_image/AutomotiveTransportation_03.jpg",
+    "properties": {
+        "Applications": [
+            "Aftermarket Parts & Components",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Foams"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ],
+        "End Uses": [
+            "Seals",
+            "Radiator Seals",
+            "Transportation Seal",
+            "Gaskets"
+        ]
+    },
+    "summary": {
+        "Density": [
+            "27.36 - 33.44 kg/m³"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ],
+        "End Uses": [
+            "Gaskets",
+            "Radiator Seals",
+            "Transportation Seal",
+            "Seals"
+        ],
+        "Physical Form": [
+            "Foam"
+        ]
+    }
+}

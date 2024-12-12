@@ -1,0 +1,52 @@
+{
+    "id": 333624,
+    "brand": "oxyjun",
+    "name": "EnXtra®",
+    "slug": "enxtra",
+    "description": "EnXtra® is the first and only botanical ingredient proven to provide same day effect and improve alertness and focus upto 5 hours with and without caffeine.",
+    "company_name": "ENovate Biolife",
+    "company_slug": "enovate-biolife",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709127490/production/Brand/24569/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607026/production/CategoryImage/510/category_image/FoodNutrition_11.jpg",
+    "properties": {
+        "Applications": [
+            "Nutraceuticals & Supplements",
+            "Powdered Beverages",
+            "Confectionery",
+            "Beverage",
+            "Food",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Phytochemicals & Plant Extracts",
+            "Nutraceuticals & Supplements"
+        ],
+        "Chemical Family": [
+            "Botanical Extracts"
+        ],
+        "End Uses": [
+            "Tablets",
+            "Powdered Beverages",
+            "Gummies",
+            "Dietary Supplements"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Galangal"
+        ],
+        "Features": [
+            "Stress Reduction",
+            "Anti-Hypertensive",
+            "Calming"
+        ],
+        "Physical Form": [
+            "Solid",
+            "Powder"
+        ],
+        "Functions": [
+            "Dietary Supplement",
+            "Supplement"
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "id": 411256,
+    "brand": "enviro-coil",
+    "name": "Hydro Balance Corporation HYDRO-KLEEN",
+    "slug": "hydro-balance-corporation-hydro-kleen",
+    "description": "HYDRO-KLEEN is specially formulated for the cleaning and brightening of air conditioning condenser coils. It is non- acidic, non-flammable and contains no toxic petroleum or chlorinated solvents. The surfactants used in HYDRO-KLEEN are biodegradable.",
+    "company_name": "Hydro Balance Corporation",
+    "company_slug": "hydro-balance-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292310/production/Company/36132/logo/image.png",
+    "banner_url": "https://static.knowde.com/card-banners/knowde-card-for-raw-materials-8.jpg",
+    "properties": {
+        "Applications": [
+            "Surface Care",
+            "Industrial Cleaning",
+            "Institutional & Industrial Care",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Industrial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner",
+            "Degreasers"
+        ],
+        "Application Areas": [
+            "Coils",
+            "Machine Parts",
+            "Equipment"
+        ],
+        "Certifications & Compliance": [
+            "SARA 311/312",
+            "USDA Certified",
+            "Comprehensive Environmental Response, Compensations & Liability Act (CERCLA)"
+        ],
+        "Features": [
+            "Degreasing",
+            "Foamable",
+            "Good Brightness"
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "id": 220765,
+    "brand": "barrierpro",
+    "name": "Rovene® 6026",
+    "slug": "rovene-6026",
+    "description": "Rovene 6026 is a styrene-acrylic emulsion polymer that can be formulated in multiple coating and paint applications. It provides a strong film at room temperature for use in low sheen interior flat wall paints. This product allows the formulator to minimize the level of coalescent. Rovene 6026 can also be used in outdoor landscaping coatings due to the adhesion characteristics and compatibility with iron oxide dispersions.",
+    "company_name": "Mallard Creek Polymers",
+    "company_slug": "mallard-creek-polymers",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1693579399/production/Company/15660/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1693579399/production/Company/15660/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Metal Coatings",
+            "Mulch & Fumigation Films",
+            "Exterior & Body",
+            "Agricultural Films",
+            "Automotive",
+            "Industrial Coatings"
+        ],
+        "Product Families": [
+            "Acrylics",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Styrene-Acrylic Copolymer"
+        ]
+    },
+    "summary": {
+        "Glass Transition Temperature (Tg)": [
+            "20.0 - 20.0 °C"
+        ]
+    }
+}

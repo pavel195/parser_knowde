@@ -1,0 +1,66 @@
+{
+    "id": 394111,
+    "brand": "tmf-300",
+    "name": "TMF-300™ Check Film",
+    "slug": "tmf-300-check-film",
+    "description": "TMF-300™ Check Film is a clear film product designed to control static electricity. It is a high tensile, high tear strength polyester film surfaced with Scicron Technologies proprietary, clear, C-300™ static dissipative coating. This unique technology prevents charge generation on the film surface, thereby controlling particulate attraction and preventing electrostatic discharge (ESD) events. This performance is permanent and totally independent of humidity. The film also exhibits excellent clarity, toughness, chemical resistance, surface hardness, mar resistance, and dimensional stability.",
+    "company_name": "SciCron Technologies",
+    "company_slug": "scicron-technologies",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686150152/production/Brand/29764/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Parts & Components",
+            "Mining",
+            "Oil, Gas & Mining",
+            "Switches & Relays",
+            "Semiconductor Manufacturing",
+            "Printed Circuit Boards (PCBs)"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Polyesters"
+        ],
+        "Polymer Name": [
+            "Polyester (unspecified)"
+        ],
+        "End Uses": [
+            "Semiconductor Applications",
+            "Electrical/Electronic Applications",
+            "Membrane Touch Switches",
+            "Mining Applications",
+            "Printed Circuit Boards"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyester (unspecified)"
+        ],
+        "Physical Form": [
+            "Film"
+        ],
+        "Features": [
+            "High Durability",
+            "Mar Resistant",
+            "Static-Dissipative",
+            "Excellent Toughness",
+            "Excellent Transparency Properties",
+            "Solvent Resistant",
+            "Good Tear Strength",
+            "High Clarity",
+            "Good Optical Properties",
+            "High Tensile Strength",
+            "ESD Protection",
+            "Tribocharging Resistant",
+            "Dimensional Stability",
+            "Chemical Resistant",
+            "Cost Effective",
+            "Excellent Surface Hardness"
+        ],
+        "Color": [
+            "Transparent"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "id": 404482,
+    "brand": "virilast",
+    "name": "KT-11™",
+    "slug": "kt-11",
+    "description": "KT-11™ is heat-sterilized, proprietary strain of Lactobacillus crispatus to create an immunobiotic for periodontal health.",
+    "company_name": "Maypro",
+    "company_slug": "maypro",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1693580246/production/Company/22007/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1693580246/production/Product/404482/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Oral",
+            "Nutraceuticals & Supplements",
+            "Dental",
+            "Nutrition & Well Being",
+            "Drug Delivery & Care Solutions",
+            "Medical"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ]
+    },
+    "summary": {}
+}

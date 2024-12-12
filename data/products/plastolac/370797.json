@@ -1,0 +1,41 @@
+{
+    "id": 370797,
+    "brand": "plastolac",
+    "name": "PLASTIL 22",
+    "slug": "plastil-22",
+    "description": "PLASTIL 22 need to obtain high degrees of dispersion and homogenization of components, resins, pigments, additives is increasing both in the production of masterbatches and compounds. The technological evolution of the systems and the use of polymers in powder with controlled granulometry can guarantee these results. The series of products for this sector includes a large number of polymers of both the “commodities” and “special” types.",
+    "company_name": "POLIPLAST",
+    "company_slug": "poliplast",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708529030/production/Brand/27631/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial & Transport Packaging",
+            "Equipment & Parts",
+            "Chemical & Industrial Manufacturing",
+            "Packaging"
+        ],
+        "Product Families": [
+            "Styrenics",
+            "Basic Thermoplastics"
+        ],
+        "Chemical Family": [
+            "Styrenics"
+        ],
+        "Polymer Name": [
+            "Styrene Acrylonitrile Copolymer (SAN)"
+        ],
+        "End Uses": [
+            "Tanks",
+            "Crates"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Styrene Acrylonitrile Copolymer (SAN)"
+        ],
+        "Melt Flow Index": [
+            "30.0 - 30.0 g/10 min"
+        ]
+    }
+}

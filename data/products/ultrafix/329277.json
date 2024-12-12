@@ -1,0 +1,53 @@
+{
+    "id": 329277,
+    "brand": "ultrafix",
+    "name": "Ultrapack UVC 952",
+    "slug": "ultrapack-uvc-952",
+    "description": "Ultrapack UVC 952 is a UV-curable screen printing ink for pretreated polyethylene and polypropylene, polyester PET and PETG, rigid PVC, polycarbonate PC and polystyrene PS Very fast curing, high gloss, excellent water resistance, thixotropic adjustment, very universal use.",
+    "company_name": "Saati Americas Corp.",
+    "company_slug": "saati-americas-corp",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680110675/production/Brand/23751/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Textiles & Nonwovens",
+            "Printing & Inks",
+            "Leather & Textiles",
+            "Screen Printing",
+            "Textile Coatings & Inks",
+            "Textile Manufacturing"
+        ],
+        "Product Families": [
+            "Screen Printing Inks",
+            "Inks & Pastes"
+        ]
+    },
+    "summary": {
+        "Application Area": [
+            "Textiles"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Polypropylene (PP)",
+            "Polyethylene (PE)",
+            "Polyethylene Terephthalate Glycol (PET-G)",
+            "Polyvinyl Chloride (PVC)",
+            "Polyamide",
+            "Polyethylene Terephthalate (PET)",
+            "Plastics",
+            "Polycarbonate (PC)",
+            "Polystyrene (PS)",
+            "Low Density Polyethylene (LDPE)",
+            "High Density Polyethylene (HDPE)"
+        ],
+        "Features": [
+            "Water Resistant",
+            "Steam Resistant",
+            "High Gloss",
+            "Fast Curing",
+            "Improved Flexibility"
+        ],
+        "Color": [
+            "Blue"
+        ]
+    }
+}

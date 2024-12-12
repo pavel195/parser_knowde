@@ -1,0 +1,41 @@
+{
+    "id": 358418,
+    "brand": "flexiprene",
+    "name": "Polymeric Systems PSI-590",
+    "slug": "polymeric-systems-psi-590",
+    "description": "Polymeric Systems PSI-590 is a colorless, non-staining, single-component primer designed to promote adhesion of PSI sealants to non-porous surfaces. It consists of moisture-reactive organosilanes in a hydrocarbon solvent.",
+    "company_name": "Polymeric Systems",
+    "company_slug": "polymeric-systems",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664290896/production/Company/41294/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608953/production/CategoryImage/586/category_image/AdhesivesSealants_03.jpg",
+    "properties": {
+        "Applications": [
+            "Other Adhesives & Sealants Applications"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Primer",
+            "1K (1 component) Coating"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Ceramic",
+            "Wood",
+            "Concrete",
+            "Glass",
+            "Plastics"
+        ],
+        "Features": [
+            "Stain Resistant"
+        ],
+        "Application Method": [
+            "Roller",
+            "Brush"
+        ]
+    }
+}

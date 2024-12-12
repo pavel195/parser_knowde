@@ -1,0 +1,40 @@
+{
+    "id": 299566,
+    "brand": "american-lecithin-phospholipon",
+    "name": "LIPOID GPC COMPOUND",
+    "slug": "lipoid-gpc-compound",
+    "description": "LIPOID GPC COMPOUND is an exceptional carrier of beneficial compounds to the brain.",
+    "company_name": "American Lecithin Company",
+    "company_slug": "american-lecithin-company",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708521224/production/Company/22763/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607274/production/CategoryImage/514/category_image/FoodNutrition_14.jpg",
+    "properties": {
+        "Applications": [
+            "Functional Foods",
+            "Dairy",
+            "Nutraceuticals & Supplements",
+            "Food",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Energy Bars",
+            "Dairy Products",
+            "Tablets",
+            "Dietary Supplements"
+        ]
+    },
+    "summary": {
+        "Ingredient Origin": [
+            "Natural Origin"
+        ],
+        "Benefit Claims (Health)": [
+            "Improves Brain Health"
+        ]
+    }
+}

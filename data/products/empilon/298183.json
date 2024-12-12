@@ -1,0 +1,31 @@
+{
+    "id": 298183,
+    "brand": "empilon",
+    "name": "EMPILON® HNT260",
+    "slug": "empilon-hnt260",
+    "description": "EMPILON® HNT260 is a blending material based on modified hydrogenated Styrenic block copolymer, with a hardness range from Shore A39 to Shore A85. Its main processing method is double injection or co-extrusion.",
+    "company_name": "Empilon",
+    "company_slug": "empilon",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691744316/production/Company/23685/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607436/production/CategoryImage/518/category_image/ElectricalElectronics_03.jpg",
+    "properties": {
+        "Applications": [
+            "Consumer Electronics",
+            "Other Devices & Assemblies",
+            "Appliances & Electronics",
+            "Other Consumer Goods Applications",
+            "Devices & Assemblies"
+        ],
+        "Product Families": [
+            "Other Thermoplastic Elastomers",
+            "Thermoplastic Elastomers"
+        ],
+        "Polymer Name": [
+            "Thermoplastic Elastomer (unspecified)"
+        ],
+        "End Uses": [
+            "Handles"
+        ]
+    },
+    "summary": {}
+}

@@ -1,0 +1,42 @@
+{
+    "id": 372723,
+    "brand": "hbs-200",
+    "name": "HYDRA®",
+    "slug": "griffon-hydra",
+    "description": "HYDRA®is Fireproof sealant (1250°C) for sealing seams, pointing and gaps and repairing cracks in fireplaces, multi-burners, stoves and chimneys.",
+    "company_name": "Griffon",
+    "company_slug": "griffon",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520044/production/Brand/27813/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608972/production/CategoryImage/588/category_image/AdhesivesSealants_05.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Construction Chemicals",
+            "Roofing",
+            "Flame Retardants & Fire Protection",
+            "Sealants & Caulks",
+            "Chemical & Industrial Manufacturing",
+            "Structural Components",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Caulks & Sealants"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Sealant"
+        ],
+        "Application Area": [
+            "Fireplace",
+            "Furnace"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Brick",
+            "Concrete",
+            "Masonry",
+            "Stone"
+        ]
+    }
+}

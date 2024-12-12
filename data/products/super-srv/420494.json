@@ -1,0 +1,38 @@
+{
+    "id": 420494,
+    "brand": "super-srv",
+    "name": "SUPER POND CLARIFIER™",
+    "slug": "super-pond-clarifier",
+    "description": "SUPER POND CLARIFIER™ is a biodegradable, environmentally friendly product and is non-toxic to humans, fish, beneficial aquatic organisms and wildlife. READY TO USE POND CLARIFIERTM is a versatile, maintenance and treatment product that provides superior results for dosing ponds, lakes, and other areas where algae blooms can occur. It is an ideal environmentally safe water amendment treatment for use in many applications. The microbial content of EATOILS™ READY TO USE POND CLARIFIERTM can digest the excessive organic and nutrient materials found in many aquatic environments and return balance to the ecosystem.",
+    "company_name": "EatOils",
+    "company_slug": "eatoils",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292816/production/Brand/32990/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515657/production/CategoryImage/1056/category_image/HII_08.jpg",
+    "properties": {
+        "Applications": [
+            "Home Care",
+            "Surface Care"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Commercial Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner"
+        ],
+        "Application Areas": [
+            "Pond Clarifier"
+        ],
+        "Features": [
+            "pH Stability",
+            "Fast Acting",
+            "Ease of Handling",
+            "Biodegradable",
+            "Highly Versatile",
+            "Non-Toxic",
+            "Neutralizes Odor"
+        ]
+    }
+}

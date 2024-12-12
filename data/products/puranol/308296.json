@@ -1,0 +1,33 @@
+{
+    "id": 308296,
+    "brand": "puranol",
+    "name": "Puranol G 303F",
+    "slug": "puranol-g-303f",
+    "description": "Puranol G 303F is synthesized with propylene glycol, glycerin, and epoxide. It is used in polyurethane elastomers, adhesives, coatings, waterproof coatings, chemical grouting materials, shoe soles, and non-cellular polyurethane applications such as coating, adhesives, sealants and elastomers.",
+    "company_name": "Jiahua Chemicals",
+    "company_slug": "jiahua-chemicals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1693580753/production/Product/308296/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608502/production/CategoryImage/564/category_image/BuildingConstruction_08.jpg",
+    "properties": {
+        "Applications": [
+            "Other Paints & Coatings Applications",
+            "Footwear",
+            "Other Adhesives & Sealants Applications"
+        ],
+        "Product Families": [
+            "Mortar & Gypsum Additives",
+            "Prepolymers & Polyols",
+            "Monomers & Intermediates",
+            "Construction Chemicals"
+        ],
+        "Chemical Family": [
+            "Polyols (Polyether)",
+            "Polyols"
+        ]
+    },
+    "summary": {
+        "Hydroxyl Value": [
+            "420.0 - 480.0 mg KOH/g"
+        ]
+    }
+}

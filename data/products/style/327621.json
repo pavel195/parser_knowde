@@ -1,0 +1,67 @@
+{
+    "id": 327621,
+    "brand": "style",
+    "name": "Style 1131",
+    "slug": "style-1131",
+    "description": "Style 1131 is 3.65 oz. per square yard (123.76 g/m2) plain weave fiberglass fabric.",
+    "company_name": "Carolina Technical Fabrics",
+    "company_slug": "carolina-technical-fabrics",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686149496/production/Brand/23547/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608769/production/CategoryImage/577/category_image/AutomotiveTransportation_05.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Infrastructure, Roads & Paving",
+            "Roofing",
+            "Power, Water & Utilities",
+            "Glazing & Window Elements",
+            "Wall Panels",
+            "Roof Shingles & Tiles",
+            "Renewable Energy",
+            "Building Envelope & Roofing",
+            "Shingles & Tiles",
+            "Pipes & Plumbing",
+            "Pavement, Highways, Roads & Bridges",
+            "Building Envelope"
+        ],
+        "Product Families": [
+            "Reinforcements",
+            "Glass Fiber"
+        ],
+        "Chemical Family": [
+            "Glass Beads & Fibers"
+        ],
+        "End Uses": [
+            "Wall Panels",
+            "Wind Turbine Blades",
+            "Structural Components",
+            "Roof Panels",
+            "Pipes",
+            "Door Components"
+        ]
+    },
+    "summary": {
+        "Reinforcement Material": [
+            "Glass Fibers"
+        ],
+        "Reinforcement Form": [
+            "Plain Weave Fabric"
+        ],
+        "Compatible Polymers & Resins": [
+            "Phenolic Resins",
+            "Polyesters",
+            "Epoxies (EP)"
+        ],
+        "Features": [
+            "Highly Versatile",
+            "Electrically Insulating",
+            "Chemical Resistance",
+            "Improved Dimensional Stability",
+            "Low Moisture Absorption",
+            "Good Thermal Conductivity",
+            "Low Thermal Expansion",
+            "High Tensile Strength",
+            "Cost Effective"
+        ]
+    }
+}

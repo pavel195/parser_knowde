@@ -1,0 +1,30 @@
+{
+    "id": 332229,
+    "brand": "extracyan",
+    "name": "Breko GmbH Melt-in-the-Mouth Resveratrol Lemon Powder",
+    "slug": "breko-gmbh-melt-in-the-mouth-resveratrol-lemon-powder",
+    "description": "Breko Melt-in-the-Mouth Resveratrol Lemon Powder is a polyphenol that is naturally produced by grapes, blueberries and other plants as a defense mechanism against harsh growth conditions and pathogens. With more than 12,000 published studies and over 170 human clinical trials, resveratrol is considered one of the most well-investigated compounds applied in dietary supplements, functional food and beverages, cosmetics and animal health. This published research and clinical data suggest that resveratrol can be a key ingredient for healthy living.",
+    "company_name": "Breko GmbH",
+    "company_slug": "breko-gmbh",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697221683/production/Company/32496/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606961/production/CategoryImage/506/category_image/FoodNutrition_07.jpg",
+    "properties": {
+        "Applications": [
+            "Nutraceuticals & Supplements",
+            "Functional Foods",
+            "Other Non-Alcoholic Beverages",
+            "Beverage",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Fruit Products & Extracts",
+            "Whole Foods, Extracts & Premixes"
+        ],
+        "End Uses": [
+            "Nutraceuticals",
+            "Functional Foods",
+            "Dietary Supplements"
+        ]
+    },
+    "summary": {}
+}

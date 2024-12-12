@@ -1,0 +1,74 @@
+{
+    "id": 90162,
+    "brand": "radicaptol",
+    "name": "PHYTOCARE-HA™ CG 1M",
+    "slug": "phytocare-ha-cg-1m",
+    "description": "PHYTOCARE-HA™ CG 1M is a COSMOS-approved biological active extracted from snow mushrooms. It has played a prominent role in Chinese history as a celebrated ingredient in herbal, cosmetic, and culinary applications. It features powerful hydration, film-forming, and anti-oxidation properties, making it very suitable for anti-aging, anti-pollution, and urban defense formulations.",
+    "company_name": "Solabia Group",
+    "company_slug": "solabia-group",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1710855250/production/Product/90162/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1710855250/production/Product/90162/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Bath & Shower",
+            "Hair Care",
+            "Skin Care",
+            "Color Cosmetics",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Film Formers",
+            "Skin Actives",
+            "Conditioners & Emollients",
+            "Cosmetic Actives",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Tremella Fuciformis Sporocarp Extract"
+        ],
+        "End Uses": [
+            "Concealer",
+            "Shampoos & Rinses",
+            "Moisturizers"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Tremella Fuciformis Sporocarp Extract"
+        ],
+        "Ingredient Origin": [
+            "Plant Origin",
+            "Natural Origin"
+        ],
+        "Functions": [
+            "Film Former",
+            "Conditioner",
+            "Antioxidant"
+        ],
+        "Labeling Claims": [
+            "Ulta Beauty's Conscious Beauty",
+            "Credo Clean Standard",
+            "Clean at Sephora",
+            "Plant-Based",
+            "Naturally Derived",
+            "Natural",
+            "Halal",
+            "Organic"
+        ],
+        "Certifications & Compliance": [
+            "Organic Certified",
+            "COSMOS",
+            "ECOCERT",
+            "Halal"
+        ],
+        "Benefit Claims": [
+            "Film Forming",
+            "Anti-Pollution",
+            "Hydrating",
+            "Antioxidant Properties",
+            "Anti-Aging",
+            "Moisture Retention",
+            "Conditioning"
+        ]
+    }
+}

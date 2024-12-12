@@ -1,0 +1,41 @@
+{
+    "id": 416503,
+    "brand": "clarus-pavement-markings",
+    "name": "IMPERVIUS™ ULV",
+    "slug": "impervius-ulv",
+    "description": "IMPERVIUS™ ULV is a Ultra Low Viscosity, 100% solids, 2 component liquid polymer system, used as a penetrating crack sealer for reinforced concrete decks. Designed properties of surface tension and creep allow for this versatile polymer to penetrate and fill cracks. Also serves as a suitable treatment prior to application of polymer overlays.",
+    "company_name": "P3 Infrastructure",
+    "company_slug": "p3-infrastructure",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1672225514/production/Brand/32528/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608490/production/CategoryImage/563/category_image/BuildingConstruction_07.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Flooring & Surfaces",
+            "Fence, Decks & Rails",
+            "Fillers, Levellers & Joints"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "2K (2 component) Coating",
+            "Sealer",
+            "Solventless & High Solids Coating"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Concrete"
+        ],
+        "Features": [
+            "Low Viscosity",
+            "Good Penetration"
+        ],
+        "Application Method": [
+            "Roller",
+            "Wipe"
+        ]
+    }
+}

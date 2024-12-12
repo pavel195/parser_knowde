@@ -1,0 +1,40 @@
+{
+    "id": 417072,
+    "brand": "bi-u-blue",
+    "name": "CAJUN BROWN™",
+    "slug": "cajun-brown",
+    "description": "CAJUN BROWN™ is an aggresive heavy-duty industrial cleaner formulated to break down and clean up heavy soils and oil-based mud from hard surfaces.",
+    "company_name": "Cajun Kleen Products",
+    "company_slug": "cajun-kleen-products",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1682593137/production/Brand/32613/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515625/production/CategoryImage/1053/category_image/HII_05.jpg",
+    "properties": {
+        "Applications": [
+            "Institutional & Industrial Care",
+            "Surface Care",
+            "Industrial Cleaning",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Industrial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner"
+        ],
+        "Application Area": [
+            "Hard Surfaces",
+            "Equipment"
+        ],
+        "Features": [
+            "Effective Soil Removal",
+            "Water-based",
+            "Fast Acting",
+            "Biodegradable",
+            "Highly Versatile",
+            "Heavy Duty"
+        ]
+    }
+}

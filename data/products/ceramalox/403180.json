@@ -1,0 +1,28 @@
+{
+    "id": 403180,
+    "brand": "ceramalox",
+    "name": "Cretelox",
+    "slug": "cretelox",
+    "description": "Cretelox is a super impact and chemical resistant urethane mortar for concrete repairs and leveling of floors in industrial and marine environments. A trowelable epoxy mortar where high loads, abrasion and impact is a major concern combined with chemical attacks.",
+    "company_name": "Arjunox",
+    "company_slug": "arjunox",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1694073670/production/Brand/30808/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608422/production/CategoryImage/558/category_image/BuildingConstruction_02.jpg",
+    "properties": {
+        "Applications": [
+            "Fillers, Levellers & Joints",
+            "Marine",
+            "Transportation",
+            "Flooring & Surfaces"
+        ],
+        "Product Families": [
+            "Mortar & Grouts",
+            "Construction Materials"
+        ],
+        "Chemical Family": [
+            "Urethanes",
+            "Epoxy & Epoxy Derivatives"
+        ]
+    },
+    "summary": {}
+}

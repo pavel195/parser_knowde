@@ -1,0 +1,46 @@
+{
+    "id": 437264,
+    "brand": "humalite",
+    "name": "humizen Fuze DS",
+    "slug": "humizen-fuze-ds",
+    "description": "Humizen Fuze DS is an organic dry soluble humic acid powder, containing 64% humic acid. With 100% soluble humic acids, Fuze DS is an efficient way to produce small or large batches of humic acid liquid. When mixed with water, this highly compatible humic acid powder results in an organic solution that is compatible with many liquid fertilizers and micronutrients. Fuze DS is ideal for producing small or large batch liquids, treating seeds, and is suitable wherever extracted liquid humic acids are used. Fuze DS predicts plant utilization and responds more accurately, simulates nutrient uptake and serves as a vehicle to carry vital nutrition to the plant, and improves the efficiency in which plants utilize nutrients from the soil.",
+    "company_name": "Black Earth",
+    "company_slug": "black-earth-humic",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708685119/production/Company/37351/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608150/production/CategoryImage/545/category_image/AgricultureFeed_01.jpg",
+    "properties": {
+        "Applications": [
+            "Ornamentals",
+            "Trees & Woodlands",
+            "Cereals",
+            "Vegetables",
+            "Fruits",
+            "Turf Management",
+            "Agricultural Crops",
+            "Turf, Ornamentals & Landscape"
+        ],
+        "Product Families": [
+            "Soil Amendments & Conditioners",
+            "Plant Health, Nutrients & Soil Management"
+        ],
+        "Chemical Family": [
+            "Humic Acids"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Soil Conditioner"
+        ],
+        "Chemical Family": [
+            "Humic Acids"
+        ],
+        "Application Technique": [
+            "Hydroponics",
+            "Foliage Applied",
+            "Chemigation"
+        ],
+        "Labeling Claims": [
+            "Organic"
+        ]
+    }
+}

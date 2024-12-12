@@ -1,0 +1,50 @@
+{
+    "id": 112680,
+    "brand": "cri-line",
+    "name": "Cri-Line™ GP-615",
+    "slug": "cri-line-gp-615",
+    "description": "66% Fluorine copolymers formulated for molding complex geometric shapes. GP compounds exhibit improved hot tear resistant properties and offer a variety of colors.",
+    "company_name": "Cri-Tech, Inc.",
+    "company_slug": "cri-tech-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1703115513/production/Company/2763/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1703115513/production/Company/2763/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Equipment & Parts",
+            "Powertrain & UTH",
+            "Other Industrial Applications",
+            "Other Consumer Goods Applications",
+            "Other Automotive Applications",
+            "Automotive",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Fluoroelastomers",
+            "Specialty Elastomers"
+        ],
+        "Chemical Family": [
+            "Fluoropolymers"
+        ],
+        "Polymer Name": [
+            "Fluoroelastomer (FKM)"
+        ],
+        "End Uses": [
+            "Automotive Under The Hood",
+            "Pneumatic Applications",
+            "Hydraulic Applications",
+            "General Purpose",
+            "Automotive Applications"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Fluoroelastomer (FKM)"
+        ],
+        "Processing Methods": [
+            "Injection Molding"
+        ],
+        "Features": [
+            "General Purpose"
+        ]
+    }
+}

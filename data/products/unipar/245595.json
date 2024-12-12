@@ -1,0 +1,39 @@
+{
+    "id": 245595,
+    "brand": "unipar",
+    "name": "UNIPAR® 100 OM",
+    "slug": "unipar-100-om",
+    "description": "UNIPAR® 100 OM is a paraffinic process oil.",
+    "company_name": "Unisource-energy",
+    "company_slug": "unisource-energy",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1703849699/production/Company/17989/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1703849699/production/Company/17989/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Fluids & Lubricants",
+            "Marine Fluids & Lubricants",
+            "Aerospace Fluids & Lubricants",
+            "Automotive Fluids & Lubricants",
+            "Lubricants & Functional Fluids",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "API Group III",
+            "Base Stocks & Oils"
+        ],
+        "Chemical Family": [
+            "Alkanes"
+        ]
+    },
+    "summary": {
+        "Fluids & Lubricants Type": [
+            "Industrial Oils & Fluids"
+        ],
+        "Chemical Family": [
+            "Alkanes"
+        ],
+        "Synonyms": [
+            "Distillates (petroleum), solvent-refined heavy paraffinic"
+        ]
+    }
+}

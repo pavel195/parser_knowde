@@ -1,0 +1,30 @@
+{
+    "id": 312701,
+    "brand": "rosheen",
+    "name": "JERADA RZ F1 (55-151)",
+    "slug": "jerada-rz-f1-55-151",
+    "description": "JERADA RZ F1 (55-151) is a cylindrical root and has very healthy upright foliage with a beautiful dark color.",
+    "company_name": "Rijk Zwaan (Nederland)",
+    "company_slug": "rijk-zwaan-nederland",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686124726/production/Product/312701/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608224/production/CategoryImage/551/category_image/AgricultureFeed_07.jpg",
+    "properties": {
+        "Applications": [
+            "Agricultural Crops",
+            "Vegetables"
+        ],
+        "Product Families": [
+            "Seeds & Traits",
+            "Conventional Seeds"
+        ]
+    },
+    "summary": {
+        "Crop & Plant Type": [
+            "Carrot"
+        ],
+        "Features": [
+            "Enhanced Crop Yield & Quality",
+            "Improves Harvest Efficiency"
+        ]
+    }
+}

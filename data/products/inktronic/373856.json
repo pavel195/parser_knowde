@@ -1,0 +1,41 @@
+{
+    "id": 373856,
+    "brand": "inktronic",
+    "name": "Inktronic AG 2C",
+    "slug": "inktronic-ag-2c",
+    "description": "Inktronic AG 2C is a two-component, solvent-resistant, electrically conductive, screen-printable ink, varnish, and coating.",
+    "company_name": "Encres DUBUIT",
+    "company_slug": "encres-dubuit",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520383/production/Brand/27914/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Textiles & Nonwovens",
+            "Packaging Coatings",
+            "Printing & Inks",
+            "Overprint Varnishes",
+            "Leather & Textiles",
+            "Other Printing Applications",
+            "Screen Printing",
+            "Other Paints & Coatings Applications",
+            "Textile Coatings & Inks",
+            "Textile Manufacturing"
+        ],
+        "Product Families": [
+            "Screen Printing Inks",
+            "Inks & Pastes"
+        ]
+    },
+    "summary": {
+        "Compatible Substrates & Surfaces": [
+            "Composites",
+            "Glass"
+        ],
+        "Features": [
+            "Electrically Conductive",
+            "Crease Resistance",
+            "Excellent Solvent Resistance",
+            "Good Scratch Resistance"
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "id": 249332,
+    "brand": "capsantal",
+    "name": "ACTIVEMOS",
+    "slug": "activemos",
+    "description": "ActiveMOS is a prebiotic rich in mannan oligosaccharides (MOS) extracted from specially selected strain of the yeast Saccharomyces Cerevisiae. ActiveMOS is a feed ingredient with a positive effect on gut health. ActiveMOS can be used in petfood and in diets for poultry and piglets.",
+    "company_name": "ORFFA",
+    "company_slug": "orffa",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708683617/production/Company/19236/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608224/production/CategoryImage/551/category_image/AgricultureFeed_07.jpg",
+    "properties": {
+        "Applications": [
+            "Other Animal Health & Nutrition",
+            "Swine",
+            "Pets",
+            "Birds & Poultry",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Prebiotics, Probiotics & Postbiotics",
+            "Health & Well-Being"
+        ],
+        "Chemical Family": [
+            "Yeast & Yeast Extracts"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Prebiotic"
+        ],
+        "Animal Species": [
+            "Horses",
+            "Swine",
+            "Sows",
+            "Cats",
+            "Turkey",
+            "Hogs",
+            "Pets",
+            "Broilers",
+            "Dogs",
+            "Ducks, Geese & Game Birds",
+            "Piglets",
+            "Laying Hens"
+        ]
+    }
+}

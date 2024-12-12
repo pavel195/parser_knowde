@@ -1,0 +1,50 @@
+{
+    "id": 410336,
+    "brand": "eoncoat",
+    "name": "EonCoat™ Weldable Coating",
+    "slug": "eoncoat-weldable-coating",
+    "description": "Eoncoat Weldable Coating is a Two component, inorganic, coating. Forms a continuous coat of ceramic coating that provides excellent anti-corrosion properties for carbon steel.\r\n",
+    "company_name": "EonCoat",
+    "company_slug": "eoncoat",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520245/production/Company/54226/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608744/production/CategoryImage/575/category_image/AutomotiveTransportation_03.jpg",
+    "properties": {
+        "Applications": [
+            "Coatings & Finishes",
+            "Marine",
+            "Marine Coatings",
+            "Chemical & Industrial Manufacturing",
+            "Transportation",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "2K (2 component) Coating",
+            "Waterborne Coating",
+            "Primer"
+        ],
+        "Application Area": [
+            "Marine Applications",
+            "Tanks"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Steel",
+            "Carbon Steel"
+        ],
+        "Features": [
+            "Corrosion Resistant",
+            "Fast Drying",
+            "Cleanable",
+            "Weldable"
+        ],
+        "Application Method": [
+            "Spray"
+        ]
+    }
+}

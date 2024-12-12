@@ -1,0 +1,34 @@
+{
+    "id": 422280,
+    "brand": "accepta",
+    "name": "Accepta® Bromgard 110",
+    "slug": "accepta-bromgard-110",
+    "description": "Accepta® Bromgard 110 is a liquid corrosion inhibitor and scale dispersant for naturally soft and artificially softened waters. It is a molybdate-based alkaline product, containing threshold agents, dispersants and organic inhibitors offering excellent protection to multi-metal systems. BROMGARD products include a bromine precursor, enabling in-situ generation of bromine in treated systems when dosed in conjunction with ACTIVATOR 120/150. Bromine is a highly effective oxidizing biocide, offering greater efficacy than chlorine when it is used in moderately alkaline evaporative cooling systems.",
+    "company_name": "Accepta Ltd",
+    "company_slug": "accepta-ltd",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708673170/production/Brand/32881/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708673170/production/Product/422280/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Water Treatment",
+            "Power, Water & Utilities"
+        ],
+        "Product Families": [
+            "Water Treatment Additives",
+            "Water Treatment Chemicals"
+        ],
+        "End Uses": [
+            "Cooling Towers"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Corrosion Inhibitor",
+            "Precursor",
+            "Scale Inhibitor"
+        ],
+        "End Uses": [
+            "Cooling Towers"
+        ]
+    }
+}

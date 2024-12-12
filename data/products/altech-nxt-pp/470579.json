@@ -1,0 +1,47 @@
+{
+    "id": 470579,
+    "brand": "altech-nxt-pp",
+    "name": "ALTECH® PBT A 1000/106",
+    "slug": "mocom-altech-pbt-a-1000-106",
+    "description": "MOCOM Compounds ALTECH® PBT A 1000/106 is a polybutylene terephthalate base polymer that is heat stabilized and has easy release (demolding) properties. It is used in various market segments for injection molded parts. For injection molding, melt temperature should be between 250-270°C and mold temperature should be between 40-70°C.",
+    "company_name": "MOCOM Compounds",
+    "company_slug": "mocom",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1713790204/production/Company/50276/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1713790204/production/Company/50276/card_banner/image",
+    "properties": {
+        "Product Families": [
+            "Polyesters & Copolyesters",
+            "Engineering & Specialty Polymers"
+        ],
+        "Chemical Family": [
+            "Polyesters"
+        ],
+        "Polymer Name": [
+            "Polybutylene Terephthalate (PBT)"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polybutylene Terephthalate (PBT)"
+        ],
+        "Processing Methods": [
+            "Injection Molding"
+        ],
+        "Functions": [
+            "Resin"
+        ],
+        "Chemical Family": [
+            "Polyesters"
+        ],
+        "Additives Included": [
+            "Heat Stabilizer"
+        ],
+        "Flexural Modulus": [
+            "2600.0 - 2600.0 MPa"
+        ],
+        "Features": [
+            "Good Mold Release",
+            "Heat Stabilized"
+        ]
+    }
+}

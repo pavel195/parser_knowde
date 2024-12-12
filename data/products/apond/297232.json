@@ -1,0 +1,47 @@
+{
+    "id": 297232,
+    "brand": "apond",
+    "name": "ACRYCOTE® AP-6130H",
+    "slug": "acrycote-ap-6130h",
+    "description": "ACRYCOTE® AP-6130H has High Gloss and Tint-ability.",
+    "company_name": "Advanced Polymer Emulsions",
+    "company_slug": "advanced-polymer-emulsions-company",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112217/production/Company/23612/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608929/production/CategoryImage/584/category_image/AdhesivesSealants_01.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Flooring & Surfaces",
+            "Building & Construction",
+            "Decorative Paints",
+            "Floor Coatings",
+            "Decorative Paints, Coatings & Stains",
+            "Decorative Materials & Finishes"
+        ],
+        "Product Families": [
+            "Resins & Binders",
+            "Acrylics"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ],
+        "End Uses": [
+            "Top Coat"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ],
+        "End Uses": [
+            "Top Coat"
+        ],
+        "Glass Transition Temperature (Tg)": [
+            "10.0 - 10.0 °C"
+        ],
+        "Features": [
+            "Good Tint Strength",
+            "High Gloss"
+        ]
+    }
+}

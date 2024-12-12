@@ -1,0 +1,85 @@
+{
+    "id": 77040,
+    "brand": "polyderm",
+    "name": "Beantree®",
+    "slug": "beantree-beantree",
+    "description": "Beantree® is a totally natural clear liquid derived from castor & rapeseed, which has low viscosity. It has a light, dry feel that is non-oily and which absorbs quickly into the skin. This product is oil and alcohol soluble, has low odor, reduces tack and greasiness, has solvent properties, has a high gloss/sheen and is suitable for use in skin care, color cosmetics, hair care, and bath products.",
+    "company_name": "ALZO International Inc.",
+    "company_slug": "alzo-international-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672646/production/Brand/6398/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708672646/production/Product/77040/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Bath & Shower",
+            "Color Cosmetics",
+            "Hair Care",
+            "Skin Care",
+            "Sun Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Conditioners & Emollients",
+            "Functionals"
+        ],
+        "Chemical Family": [
+            "Esters"
+        ],
+        "INCI Name": [
+            "Methylheptyl Isostearate"
+        ],
+        "End Uses": [
+            "Shaving Foam",
+            "Shaving Gel",
+            "Shaving Cream",
+            "Lipstick",
+            "Shower Gels",
+            "Concealer"
+        ],
+        "Labeling Claims": [
+            "Credo Clean Standard",
+            "Ulta Beauty's Conscious Beauty",
+            "Natural",
+            "Organic"
+        ],
+        "Benefit Claims": [
+            "Refatting",
+            "Emolliency",
+            "Rapid Absorption",
+            "Non-Sensitizing",
+            "Light Feel",
+            "Dry Feel",
+            "Non-Oily Feel",
+            "Easy To Handle"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Methylheptyl Isostearate"
+        ],
+        "Functions": [
+            "Emollient"
+        ],
+        "Ingredient Origin": [
+            "Plant Origin"
+        ],
+        "Labeling Claims": [
+            "Credo Clean Standard",
+            "Natural",
+            "Organic",
+            "Ulta Beauty's Conscious Beauty"
+        ],
+        "Certifications & Compliance": [
+            "REACH (Europe)"
+        ],
+        "Benefit Claims": [
+            "Easy To Handle",
+            "Dry Feel",
+            "Refatting",
+            "Rapid Absorption",
+            "Non-Sensitizing",
+            "Emolliency",
+            "Light Feel",
+            "Non-Oily Feel"
+        ]
+    }
+}

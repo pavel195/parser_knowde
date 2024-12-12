@@ -1,0 +1,44 @@
+{
+    "id": 419049,
+    "brand": "aussie-skin",
+    "name": "AVM Industries Epoxy Primer 410",
+    "slug": "avm-industries-epoxy-primer-410",
+    "description": "Epoxy Primer 410 is a two-component, 100% solids, liquid applied, epoxy primer and moisture mitigation system. It has a low viscosity and excellent adhesion to various substrates .",
+    "company_name": "AVM Industries",
+    "company_slug": "avm-industries",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520396/production/Company/34890/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608600/production/CategoryImage/568/category_image/PaintingsCoatings_04.jpg",
+    "properties": {
+        "Applications": [
+            "Building & Construction",
+            "Packaging Coatings",
+            "Primers & Lacquers",
+            "Wood Coatings & Finishes",
+            "Concrete Coatings & Stains"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "2K (2 component) Coating"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Wood",
+            "Concrete"
+        ],
+        "Features": [
+            "Low Viscosity",
+            "Solventless",
+            "Excellent Substrate Adhesion",
+            "Moisture Resistant"
+        ],
+        "Application Method": [
+            "Roller",
+            "Brush"
+        ]
+    }
+}

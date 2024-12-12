@@ -1,0 +1,76 @@
+{
+    "id": 378661,
+    "brand": "sunflower-tpgs",
+    "name": "Antares TPGS Pharmaceutical Grade",
+    "slug": "antares-tpgs-pharmaceutical-grade",
+    "description": "Antares TPGS Pharmaceutical Grade is a powerful tool in the formulation of poorly-soluble, lipophilic compounds and the enhancement of their absorption and bioavailability. Vitamin E TPGS is a water-soluble derivative of natural Vitamin E, which is formed by esterification of Vitamin E succinate with polyethylene glycol (PEG).",
+    "company_name": "Antares Health Products",
+    "company_slug": "antares-health-products",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708683989/production/Company/35274/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708683989/production/Product/378661/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Desserts & Fruit Preparations",
+            "Other Non-Alcoholic Beverages",
+            "Pets",
+            "Other Animal Health & Nutrition",
+            "Functional & Flavored Water",
+            "Bakery",
+            "Dairy",
+            "Juice & Juice Drinks",
+            "Sports Drinks",
+            "Functional Foods",
+            "Parenteral",
+            "Ophthalmic",
+            "Topical",
+            "Oral",
+            "Nutraceuticals & Supplements",
+            "Animal Health & Nutrition",
+            "Beverage",
+            "Food",
+            "Nutrition & Well Being",
+            "Drug Delivery & Care Solutions"
+        ],
+        "Product Families": [
+            "Vitamins",
+            "Emulsifiers",
+            "Carriers & Bulking Agents",
+            "Solvents & Solubilizers",
+            "Emulsifiers & Stabilizers",
+            "Nutrition & Fortification",
+            "Excipients",
+            "Nutraceuticals & Supplements",
+            "Nutritional Ingredients",
+            "Texture & Consistency"
+        ],
+        "End Uses": [
+            "Yogurt",
+            "Puddings",
+            "Juices",
+            "Sports Drinks",
+            "Nutritional Bars",
+            "Dietary Supplements"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "D-alpha tocopheryl Acid Succinate"
+        ],
+        "Functions": [
+            "Vitamin Source",
+            "Carrier",
+            "Emulsifier",
+            "Vitamin Source",
+            "Solubilizer",
+            "Emulsifier"
+        ],
+        "Dosage Form": [
+            "Dispersions",
+            "Soft Gels",
+            "Tablets",
+            "Powder & Powder Blends",
+            "Emulsions",
+            "Capsules"
+        ]
+    }
+}

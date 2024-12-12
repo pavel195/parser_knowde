@@ -1,0 +1,38 @@
+{
+    "id": 440931,
+    "brand": "barquat-38491af2-d041-45e2-85eb-0536fc97136b",
+    "name": "Mosselman Propylene Glycol USP 39 (57-55-6)",
+    "slug": "mosselman-propylene-glycol-usp-39-57-55-6",
+    "description": null,
+    "company_name": "Mosselman",
+    "company_slug": "mosselman",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704106768/production/Company/29309/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607998/production/CategoryImage/538/category_image/HomePersonalCare_04.jpg",
+    "properties": {
+        "Applications": [
+            "Resin Manufacturing",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Diols & Polyols",
+            "Monomers & Oligomers"
+        ],
+        "Chemical Family": [
+            "Polyols"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Propylene Glycol"
+        ],
+        "CAS Number": [
+            "57-55-6"
+        ],
+        "Chemical Family": [
+            "Polyols"
+        ],
+        "Synonyms": [
+            "(±)-1,2-Propanediol, (±)-Propylene glycol, (RS)-1,2-Propanediol, 1,2-(RS)-Propanediol, 1,2-Dihydroxypropane, 1,2-Propanediol, 1,2-Propylene glycol, 2-Hydroxypropanol, 2,3-Propanediol, DL-1,2-Propanediol, dl-Propylene glycol, Isopropylene glycol, Methylethyl glycol, Methylethylene glycol, Monopropylene glycol, NSC 69860, α-Propylene glycol"
+        ]
+    }
+}

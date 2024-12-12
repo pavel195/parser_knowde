@@ -1,0 +1,50 @@
+{
+    "id": 426304,
+    "brand": "est-eem",
+    "name": "Lift®",
+    "slug": "lift",
+    "description": "Evans Vanodine International Lift® is a heavy-duty cleaner degreaser. It is a powerful, high-active multi-purpose, heavy-duty detergent for those really difficult cleaning tasks. It is specially developed for a wide range of applications in kitchens and food processing areas.",
+    "company_name": "Evans Vanodine International Plc",
+    "company_slug": "evans-vanodine-international-plc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664293005/production/Brand/33745/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515602/production/CategoryImage/1051/category_image/HII_03.jpg",
+    "properties": {
+        "Applications": [
+            "Surface Care",
+            "Industrial Cleaning",
+            "Institutional & Catering",
+            "Food & Beverage Manufacturing",
+            "Food Facility Cleaning & Sanitization",
+            "Processing & Packaging",
+            "Institutional & Industrial Care",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Industrial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Detergents",
+            "Degreasers",
+            "Disinfectant Products",
+            "Multipurpose Cleaners"
+        ],
+        "Application Areas": [
+            "Kitchenware",
+            "Hood",
+            "Wall",
+            "Floor",
+            "Ovens",
+            "Kitchen"
+        ],
+        "Features": [
+            "Degreasing",
+            "Biodegradable",
+            "Good Surface Care",
+            "Effective Soil Removal",
+            "Cost Effective"
+        ]
+    }
+}

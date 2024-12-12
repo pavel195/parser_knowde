@@ -1,0 +1,51 @@
+{
+    "id": 386624,
+    "brand": "centaur",
+    "name": "FILTRASORB® 100",
+    "slug": "filtrasorb-100",
+    "description": "FILTRASORB® 100 is a granular activated carbon for the removal of dissolved organic compounds from water and wastewater as well as industrial and food processing streams. These contaminants include taste and odor compounds, organic color, total organic carbon (TOC), and industrial organic compounds such as TCE and PCE.",
+    "company_name": "Calgon Carbon",
+    "company_slug": "calgon-carbon",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708688010/production/Brand/28944/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Water Treatment",
+            "Power, Water & Utilities"
+        ],
+        "Product Families": [
+            "Filtration Media",
+            "Water Treatment Chemicals"
+        ],
+        "Chemical Family": [
+            "Active Carbon"
+        ],
+        "End Uses": [
+            "Swimming Pools",
+            "Ponds"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Active Carbon"
+        ],
+        "Functions": [
+            "Absorbent"
+        ],
+        "End Uses": [
+            "Ponds",
+            "Swimming Pools"
+        ],
+        "Applicable Processes": [
+            "Groundwater Treatment",
+            "Aquaculture",
+            "Water Reclamation",
+            "Sewage Treatment",
+            "Brewing",
+            "Drinking Water Treatment"
+        ],
+        "Features": [
+            "High Mechanical Properties"
+        ]
+    }
+}

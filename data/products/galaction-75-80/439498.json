@@ -1,0 +1,45 @@
+{
+    "id": 439498,
+    "brand": "galaction-75-80",
+    "name": "SOJYFIB®",
+    "slug": "sojyfib",
+    "description": "SOJYFIB® is our 4-in-1 natural ingredient combines fibers, proteins, lipids and minerals. This ingredient allows a wide range of nutritional, health and technological functionalities. SOJYFIB® is made from guaranteed non-GMO soybeans, from our French production lines, thus ensuring quality control and traceability. Its manufacture, using exclusive solvent-free processes, offers a real clean label alternative for your formulations.",
+    "company_name": "Triballat Ingredients",
+    "company_slug": "triballat-ingredients",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708673173/production/Company/63651/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606914/production/CategoryImage/502/category_image/FoodNutrition_03.jpg",
+    "properties": {
+        "Applications": [
+            "Functional Foods",
+            "Bakery",
+            "Food",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Dietary Fiber",
+            "Nut & Seed Products",
+            "Nutrition & Fortification",
+            "Whole Foods, Extracts & Premixes"
+        ],
+        "End Uses": [
+            "Biscuits",
+            "Nutritional Bars"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Soybean Fiber"
+        ],
+        "Functions": [
+            "Fiber Source"
+        ],
+        "Labeling Claims": [
+            "Solvent-free",
+            "Clean Label",
+            "Organic",
+            "Non-GMO",
+            "Naturally Derived",
+            "Plant-Based"
+        ]
+    }
+}

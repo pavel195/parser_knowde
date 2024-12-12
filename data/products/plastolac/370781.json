@@ -1,0 +1,43 @@
+{
+    "id": 370781,
+    "brand": "plastolac",
+    "name": "POLIPLAST R535",
+    "slug": "poliplast-r535",
+    "description": "Poliplast R535 is a linear polyethylene comonomer hexene that allows to obtain greater mechanical strength and superior resistance to chemical agents.",
+    "company_name": "POLIPLAST",
+    "company_slug": "poliplast",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708528901/production/Company/43280/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Equipment & Parts",
+            "Fuel Systems",
+            "Automotive",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Polyolefins",
+            "Basic Thermoplastics"
+        ],
+        "Chemical Family": [
+            "Polyolefins",
+            "Polyethylenes"
+        ],
+        "Polymer Name": [
+            "Polyethylene (unspecified)"
+        ],
+        "End Uses": [
+            "Industrial Tanks",
+            "Fuel Tanks",
+            "Tanks"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyethylene (unspecified)"
+        ],
+        "Melt Flow Index": [
+            "5.0 - 5.0 g/10 min"
+        ]
+    }
+}

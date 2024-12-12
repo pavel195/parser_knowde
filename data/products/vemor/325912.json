@@ -1,0 +1,43 @@
+{
+    "id": 325912,
+    "brand": "vemor",
+    "name": "MasterCraft 100 Cream layer fats",
+    "slug": "mastercraft-100-cream-layer-fats",
+    "description": "MasterCraft 100 Cream layer fats is specially formulated to provide optimum firmness and adhesion in both liquid deposit and stencil creams, to prevent delamination, slippage and cream squashing.",
+    "company_name": "Sime Darby Unimills",
+    "company_slug": "sime-darby-unimills",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686109078/production/Company/31032/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607009/production/CategoryImage/509/category_image/FoodNutrition_10.jpg",
+    "properties": {
+        "Applications": [
+            "Food",
+            "Bakery",
+            "Confectionery",
+            "Desserts & Fruit Preparations",
+            "Cooking Oils & Fat Products"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Edible Oils & Fats"
+        ],
+        "End Uses": [
+            "Chocolate Bars",
+            "Filling Applications",
+            "Confectionery Products",
+            "Biscuits"
+        ]
+    },
+    "summary": {
+        "Labeling Claims": [
+            "Naturally Derived",
+            "Trans fat-free",
+            "Plant-Based"
+        ],
+        "Features": [
+            "Cost Effective",
+            "Smooth Texture",
+            "Improves Flavor Release",
+            "Excellent Melting Properties"
+        ]
+    }
+}

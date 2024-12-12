@@ -1,0 +1,88 @@
+{
+    "id": 300145,
+    "brand": "aquazol",
+    "name": "Aquazol® 500",
+    "slug": "aquazol-500",
+    "description": "Aquazol® 500 is a high-performance water-soluble polymer - manufactured and distributed worldwide exclusively by Polymer Chemistry Innovations (PCI). It is an excellent alternative to PVP (polyvinyl pyrrolidone) or PVOH (polyvinyl alcohol) in almost all applications, with the added advantage of thermal stability..",
+    "company_name": "Polymer Chemistry Innovations",
+    "company_slug": "polymer-chemistry-innovations",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709127451/production/Product/300145/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Tape & Label Adhesives",
+            "Technical Fabrics",
+            "Textile Manufacturing",
+            "Inkjet Printing",
+            "Hair Care",
+            "Digital Printing",
+            "Bath & Shower",
+            "Commercial Laundry",
+            "Industrial Cleaning",
+            "Laundry & Fabric Care",
+            "Tapes & Labels",
+            "Pulping & Processing",
+            "Metal Manufacturing & Finishing",
+            "Fluids & Lubricants",
+            "Ceramics & Refractory",
+            "Packaging & Paper",
+            "Chemical & Industrial Manufacturing",
+            "Paper & Pulp",
+            "Printing & Inks",
+            "Tapes, Labels & Adhesives",
+            "Home Care",
+            "Institutional & Industrial Care",
+            "Beauty & Care",
+            "Leather & Textiles"
+        ],
+        "Product Families": [
+            "Glass & Ceramic Additives",
+            "Texturizers & Fillers",
+            "Film Formers",
+            "Other Formulation Ingredients",
+            "Performance Additives",
+            "Other Resins & Binders",
+            "Resins & Binders",
+            "Functionals",
+            "Functional Additives",
+            "Adjuvants & Formulation Ingredients",
+            "Processing Aids"
+        ],
+        "Chemical Family": [
+            "Oxazoline"
+        ],
+        "End Uses": [
+            "Body Wash",
+            "Soaps",
+            "Oil & Gas Applications",
+            "Detergents",
+            "Shampoos & Rinses",
+            "Bar Soaps",
+            "Inkjet Ink",
+            "Ceramics",
+            "Metalworking Fluids",
+            "Pressure Sensitive Adhesive",
+            "Hot Melt Adhesive"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Binder",
+            "Hair Fixative",
+            "Binder & Resin"
+        ],
+        "CAS Number": [
+            "25805-17-8"
+        ],
+        "Chemical Family": [
+            "Oxazoline"
+        ],
+        "Labeling Claims": [
+            "Heavy Metal-free",
+            "Non-Hazardous",
+            "Formaldehyde-free",
+            "Biocompatible",
+            "Non-Toxic"
+        ]
+    }
+}

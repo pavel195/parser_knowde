@@ -1,0 +1,49 @@
+{
+    "id": 281824,
+    "brand": "hebofill",
+    "name": "HeBoCoat® PL-W 200",
+    "slug": "hebocoat-pl-w-200",
+    "description": "HeBoCoat® PL-W 200 is a pure, water-based Boron Nitride coating with organic binder, resulting in excellent surface wetting and adhesion.",
+    "company_name": "HENZE BORON NITRIDE PRODUCTS",
+    "company_slug": "henze-boron-nitride-products",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520083/production/Product/281824/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1687520083/production/Product/281824/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Industrial Coatings",
+            "Specialty Coatings",
+            "Other Industrial Coatings",
+            "Other Specialty Coatings",
+            "Other Industrial Applications",
+            "Other Paints & Coatings Applications",
+            "Chemical & Industrial Manufacturing",
+            "Fluids & Lubricants"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Other Paints & Coatings"
+        ],
+        "Chemical Family": [
+            "Boron-based Compounds"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Waterborne Coating"
+        ],
+        "Features": [
+            "Fast Drying",
+            "Good Release Properties",
+            "Excellent Lubricity",
+            "Good Substrate Wetting",
+            "Temperature Resistance"
+        ],
+        "Application Method": [
+            "Brush",
+            "Spray"
+        ],
+        "Chemical Family": [
+            "Boron-based Compounds"
+        ]
+    }
+}

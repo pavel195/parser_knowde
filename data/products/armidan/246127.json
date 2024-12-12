@@ -1,0 +1,49 @@
+{
+    "id": 246127,
+    "brand": "armidan",
+    "name": "PEXIDAN® L/T-UV",
+    "slug": "pexidan-l-t-uv",
+    "description": "PEXIDAN® L/T-UV is a high density PEX system consisting of a silane grafted basecompound A-1001 and a catalyst masterbatch CAT-003 (or A-1022 and CAT-117). When mixed and extruded in the proper proportions, the two-component system results in a material that is crosslinkable by exposure to moisture or by immersion in hot water at 90-95°C. PEXIDAN® L/T is listed by NSF International to standards 14 and 61 and to Canadian Standards Association standard B137.5. NSFI certification to ASTM F876 and ASTM F2023 testifies to its superior resistance to oxidation by hot, chlorinated water. PEXIDAN® L/T is permitted to be used in domestic continuous re-circulation systems and is listed by NSF as a NSF-pw CL5 / PEX 5006 material. ",
+    "company_name": "SACO AEI Polymers",
+    "company_slug": "saco-aei-polymers",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708527142/production/Product/246127/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708527142/production/Product/246127/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Equipment & Parts",
+            "Pipes & Tanks",
+            "Pipes & Hoses",
+            "Pipes & Plumbing",
+            "Agricultural Films",
+            "Building Materials",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Polyolefins",
+            "Basic Thermoplastics"
+        ],
+        "Chemical Family": [
+            "Polyethylenes",
+            "Polyolefins"
+        ],
+        "Polymer Name": [
+            "High Density Polyethylene (HDPE)"
+        ],
+        "End Uses": [
+            "Pipes",
+            "Plumbing Parts",
+            "Potable Water Applications"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "High Density Polyethylene (HDPE)"
+        ],
+        "Processing Methods": [
+            "Extrusion"
+        ],
+        "Melt Flow Index": [
+            "0.7 - 0.7 g/10 min"
+        ]
+    }
+}

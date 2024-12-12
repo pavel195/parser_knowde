@@ -1,0 +1,41 @@
+{
+    "id": 351416,
+    "brand": "hecht-rubber-corporation-viton",
+    "name": "Hecht Rubber Corporation N50",
+    "slug": "hecht-rubber-corporation-n50",
+    "description": "N50 contains general properties like good weather-resistance, moderate resistance to petroleum-based fluids and good physical properties.",
+    "company_name": "Hecht Rubber Corporation",
+    "company_slug": "hecht-rubber-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686722827/production/Company/38182/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Wire & Cable",
+            "Other Electrical & Electronics Applications",
+            "Other Industrial Applications",
+            "Power Transmission & Distribution"
+        ],
+        "Product Families": [
+            "Thermoset Elastomers",
+            "Parts & Shapes",
+            "Butadiene Rubbers (BR)"
+        ],
+        "Chemical Family": [
+            "Polychloroprenes"
+        ],
+        "Polymer Name": [
+            "Chloroprene Rubber (CR)"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Chloroprene Rubber (CR)"
+        ],
+        "Color": [
+            "Black"
+        ],
+        "Physical Form": [
+            "Sheets"
+        ]
+    }
+}

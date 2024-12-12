@@ -1,0 +1,50 @@
+{
+    "id": 347633,
+    "brand": "ultraply",
+    "name": "RubberGard™ Platinum EPDM PT",
+    "slug": "rubbergard-platinum-epdm-pt",
+    "description": "RubberGard™ Platinum EPDM PT is a non-reinforced EPDM membrane panel with 6\" (152.4 mm) wide QuickSeamTM tape factory laminated continuously along one lengthwise edge of the panel. The pre-applied tape is flush with the edge of the membrane.",
+    "company_name": "Firestone Building Products",
+    "company_slug": "firestone-building-products",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686149573/production/Brand/25939/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608454/production/CategoryImage/560/category_image/BuildingConstruction_04.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Roofing",
+            "Wall Panels",
+            "Roofing Sheets",
+            "Building Envelope & Roofing",
+            "Waterproofing & Weatherproofing"
+        ],
+        "Product Families": [
+            "Parts & Shapes"
+        ],
+        "Chemical Family": [
+            "Polyolefins",
+            "Ethylene-Propylene-Diene Copolymers (EPDM)"
+        ],
+        "Polymer Name": [
+            "Ethylene Propylene Diene Terpolymer (EPDM)"
+        ],
+        "End Uses": [
+            "Roofing Membranes",
+            "Wall Panels"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Ethylene Propylene Diene Terpolymer (EPDM)"
+        ],
+        "Physical Form": [
+            "Sheets"
+        ],
+        "End Uses": [
+            "Roofing Membranes",
+            "Wall Panels"
+        ],
+        "Color": [
+            "Black"
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "id": 318161,
+    "brand": "eurovac",
+    "name": "Eurocryl D 35 2H",
+    "slug": "eurocryl-d-35-2h",
+    "description": "Eurocryl D 35 2H is Hydrosol, plaster primer with excellent penetration",
+    "company_name": "Cebra Chemie",
+    "company_slug": "cebra-chemie",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112398/production/Company/29925/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608611/production/CategoryImage/569/category_image/PaintingsCoatings_05.jpg",
+    "properties": {
+        "Applications": [
+            "Flooring & Surfaces",
+            "Mortars & Plasters"
+        ],
+        "Product Families": [
+            "Resins & Binders",
+            "Acrylics"
+        ],
+        "Chemical Family": [
+            "Styrene-Acrylic Copolymer"
+        ],
+        "End Uses": [
+            "Primer"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Styrene-Acrylic Copolymer"
+        ],
+        "End Uses": [
+            "Primer"
+        ],
+        "Features": [
+            "Multi-Substrate Adhesion"
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": 423102,
+    "brand": "polytec-tc",
+    "name": "Polytec TC 417-2",
+    "slug": "polytec-tc-417-2",
+    "description": "Polytec TC 417 2 is a two component, thermally conductive, electrically insulating epoxy It is used in various thermal management applications, especially for potting of large volumes. Polytec TC 417 2 has an excellent chemical and moisture resistance It has an excellent adhesion to glass, metal, ceramic, FR 4 and most plastics. The room temperature cure allows to bond temperature sensitive substrates very conveniently The material can be applied via dispensing or manual application.",
+    "company_name": "Polytec PT",
+    "company_slug": "polytec-pt",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697222747/production/Brand/33283/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608953/production/CategoryImage/586/category_image/AdhesivesSealants_03.jpg",
+    "properties": {
+        "Applications": [
+            "Adhesives & Sealants",
+            "Appliances & Electronics",
+            "Packaging & Assembly"
+        ],
+        "Product Families": [
+            "Encapsulants",
+            "Adhesives & Sealants"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    },
+    "summary": {}
+}

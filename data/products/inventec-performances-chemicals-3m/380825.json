@@ -1,0 +1,37 @@
+{
+    "id": 380825,
+    "brand": "inventec-performances-chemicals-3m",
+    "name": "ABchimie™ DVA BA",
+    "slug": "abchimie-dva-ba",
+    "description": "ABchimie™ DVA BA is a non-toxic solvent blend that can be used with any acrylic-based conformal coating. Used specifically for AVR80 BA acrylic coating. Thinners are primarily used to dilute coatings for use in dip and spray coating. ABchimie™ DVA BA is a specific thinner that allows you to reduce the amount of thinner in the mix with AVR80 BA to achieve a higher thickness on the pcb when spraying with a gun (mix is 1:1).",
+    "company_name": "Inventec Performances Chemicals",
+    "company_slug": "inventec-performances-chemicals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1683729852/production/Brand/28540/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607618/production/CategoryImage/522/category_image/ElectricalElectronics_07.jpg",
+    "properties": {
+        "Applications": [
+            "Packaging & Assembly",
+            "Specialty Coatings",
+            "Electronics Coatings"
+        ],
+        "Product Families": [
+            "Solvents & Carriers",
+            "Diluents"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ],
+        "End Uses": [
+            "Conformal Coating"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ],
+        "Labeling Claims": [
+            "Halogen-free",
+            "Non-Toxic"
+        ]
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "id": 418385,
+    "brand": "type-5ef",
+    "name": "Type 1XR™",
+    "slug": "type-1xr",
+    "description": "Type 1XR™ is a spray-applied formulation of vermiculite lightweight concrete that is known throughout the construction and refractory industries for superior service in applications requiring fire resistance or high temperature service. Successful testing of Type 1XR™ includes the UL 1709 rapid temperature rise petrochemical fire test as well as standard ASTM E-119 building fire tests.",
+    "company_name": "Southwest Fireproofing Products",
+    "company_slug": "southwest-fireproofing-products",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520271/production/Brand/32771/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608490/production/CategoryImage/563/category_image/BuildingConstruction_07.jpg",
+    "properties": {
+        "Applications": [
+            "Building & Construction",
+            "Architectural Coatings",
+            "Concrete Coatings & Stains",
+            "Building Envelope"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Coating"
+        ],
+        "Features": [
+            "Combustion Resistant",
+            "Corrosion Resistant",
+            "High Temperature Performance",
+            "High Fire Retardancy",
+            "Fire Proof"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Concrete"
+        ],
+        "Application Method": [
+            "Spray"
+        ]
+    }
+}

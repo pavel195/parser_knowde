@@ -1,0 +1,58 @@
+{
+    "id": 276136,
+    "brand": "geo-specialty-chemicals-inc-dmpa",
+    "name": "Bisomer® TEGDMA",
+    "slug": "bisomer-tegdma",
+    "description": "Bisomer® TEGDMA (Triethyleneglycol Dimethacrylate).",
+    "company_name": "GEO Specialty Chemicals Inc",
+    "company_slug": "geo-specialty-chemicals-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708521052/production/Company/4035/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608693/production/CategoryImage/573/category_image/AutomotiveTransportation_01.jpg",
+    "properties": {
+        "Applications": [
+            "Leather Manufacturing",
+            "Automotive OEM Coatings",
+            "Other Paints & Coatings Applications",
+            "Flexography",
+            "Other Leather Applications",
+            "Wood Coatings & Finishes",
+            "Industrial Coatings",
+            "Vehicle Refinish",
+            "Other Adhesives & Sealants Applications",
+            "Coatings & Finishes",
+            "Leather",
+            "Automotive & Transportation",
+            "Building & Construction",
+            "Printing & Inks",
+            "Leather & Textiles"
+        ],
+        "Product Families": [
+            "Acrylics, Acrylates & Methacrylates",
+            "Diluents",
+            "Monomers",
+            "Monomers & Intermediates",
+            "Solvents & Carriers",
+            "Monomers & Oligomers"
+        ],
+        "Chemical Family": [
+            "Methacrylates"
+        ],
+        "End Uses": [
+            "Radiation Curable Coating"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Triethylene glycol dimethacrylate"
+        ],
+        "CAS Number": [
+            "109-16-0"
+        ],
+        "Chemical Family": [
+            "Methacrylates"
+        ],
+        "Molecular Weight": [
+            "286.0 - 286.0 g/mol"
+        ]
+    }
+}

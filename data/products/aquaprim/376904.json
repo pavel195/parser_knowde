@@ -1,0 +1,41 @@
+{
+    "id": 376904,
+    "brand": "aquaprim",
+    "name": "AQUARYL UNDERCOAT",
+    "slug": "aquaryl-undercoat",
+    "description": "AQUARYL UNDERCOAT is a special impression for droplet based on acrylic resin in aqueous phase. Which is a good opacifying power and special printing before projection of droplet coating.\r\n",
+    "company_name": "SCSO UNIKALO",
+    "company_slug": "scso-unikalo",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520282/production/Brand/28173/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608410/production/CategoryImage/557/category_image/BuildingConstruction_01.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Decorative Paints, Coatings & Stains",
+            "Decorative Materials & Finishes"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Base Coats & Undercoats"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Waterborne Coating",
+            "Undercoat"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Painted Surfaces",
+            "Concrete"
+        ],
+        "Application Method": [
+            "Brush"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    }
+}

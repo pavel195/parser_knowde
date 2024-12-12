@@ -1,0 +1,42 @@
+{
+    "id": 166082,
+    "brand": "armidan",
+    "name": "PEXIDAN® J/T",
+    "slug": "pexidan-j-t",
+    "description": "PEXIDAN® J/T is a low density flame-retardant XLPE system curable by moisture and consists of a silane pregrafted base compound A-3001 and a flame-retardant catalyst masterbatch CAT-012FR. Mixed and extruded in the proper proportions (60:40), the two components result in a material that is curable by exposure to 70-95°C hot water or even ambient moisture. PEXIDAN® J/T is designed to meet SAE J1128 standards for GXL, TXL and SXL type insulation. PEXIDAN® J/T is halogenated but is RoHS-compliant. \r\n",
+    "company_name": "SACO AEI Polymers",
+    "company_slug": "saco-aei-polymers",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708530847/production/Product/166082/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708530847/production/Product/166082/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Jacketing & Insulation",
+            "Wire & Cable"
+        ],
+        "Product Families": [
+            "Polyolefins",
+            "Basic Thermoplastics"
+        ],
+        "Chemical Family": [
+            "Polyolefins",
+            "Polyethylenes"
+        ],
+        "Polymer Name": [
+            "Low Density Polyethylene (LDPE)"
+        ],
+        "End Uses": [
+            "Transportation Wire Insulation"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Low Density Polyethylene (LDPE)"
+        ],
+        "Processing Methods": [
+            "Extrusion"
+        ],
+        "Additives Included": [
+            "Flame Retardant"
+        ]
+    }
+}

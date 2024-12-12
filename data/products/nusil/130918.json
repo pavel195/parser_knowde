@@ -1,0 +1,29 @@
+{
+    "id": 130918,
+    "brand": "nusil",
+    "name": "NuSil™ CV-2289-1",
+    "slug": "nusil-cv-2289-1",
+    "description": "NuSil™ CV-2289-1 is a controlled volatility potting and encapsulating silicone elastomer.",
+    "company_name": "NuSil Technology",
+    "company_slug": "nusil-technology",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697221069/production/Company/1345/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1697221069/production/Company/1345/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Adhesives & Sealants",
+            "Appliances & Electronics",
+            "Switches & Relays",
+            "Connectors",
+            "Packaging & Assembly",
+            "Parts & Components"
+        ],
+        "Product Families": [
+            "Encapsulants",
+            "Adhesives & Sealants"
+        ],
+        "Chemical Family": [
+            "Silicones"
+        ]
+    },
+    "summary": {}
+}

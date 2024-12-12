@@ -1,0 +1,66 @@
+{
+    "id": 223036,
+    "brand": "sunpar",
+    "name": "Plasticizer SC DLC-A",
+    "slug": "plasticizer-sc-dlc-a",
+    "description": "Plasticizer SC DLC-A is a diester of triethylene glycol, silicon-dioxide blend plasticizer, and softener for NR, SR's. Gives low temperature flexibility; improves processing.",
+    "company_name": "Natrochem",
+    "company_slug": "natrochem",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708684591/production/Company/15664/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Waterproofing & Weatherproofing",
+            "Geomembranes",
+            "Building Materials",
+            "Equipment & Parts",
+            "Pipes & Tanks",
+            "Building Wires & Power Cables",
+            "Sports & Recreation",
+            "Luggage & Leather Goods",
+            "Carpet & Upholstery",
+            "Other Flooring & Surface Applications",
+            "Pipes & Plumbing",
+            "Pipes & Hoses",
+            "Agricultural Films",
+            "Flooring & Surfaces",
+            "Wire & Cable",
+            "Chemical & Industrial Manufacturing",
+            "Building Envelope & Roofing"
+        ],
+        "Product Families": [
+            "Processing Aids",
+            "Performance Additives",
+            "Elastomer Additives"
+        ],
+        "Chemical Family": [
+            "Diols",
+            "Glycols",
+            "Diesters"
+        ],
+        "End Uses": [
+            "Pipe Seals"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Plasticizer",
+            "Softener"
+        ],
+        "Chemical Family": [
+            "Diesters",
+            "Diols",
+            "Glycols"
+        ],
+        "Compatible Polymers & Resins": [
+            "Synthetic Rubbers",
+            "Natural Rubbers (NR)"
+        ],
+        "End Uses": [
+            "Pipe Seals"
+        ],
+        "Synonyms": [
+            "Silica, SiO2"
+        ]
+    }
+}

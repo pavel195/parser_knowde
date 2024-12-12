@@ -1,0 +1,68 @@
+{
+    "id": 356953,
+    "brand": "marcoa",
+    "name": "Marcoa™ C1226",
+    "slug": "marcoa-c1226",
+    "description": "Marcoa™ C1226 has flexibility and fullness. It is used in appliance finishing, aluminum coil coating, exterior architecture, can white coating, deep drawing can white coating, can varnish, aluminum cap and screw-cap coating.",
+    "company_name": "Macroocean",
+    "company_slug": "macroocean",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704101958/production/Brand/26769/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608566/production/CategoryImage/566/category_image/PaintingsCoatings_02.jpg",
+    "properties": {
+        "Applications": [
+            "Can Coatings",
+            "Architectural Coatings",
+            "Non-Food Consumer Packaging",
+            "Overprint Varnishes",
+            "Coil Coatings",
+            "Appliances & Consumer Goods",
+            "Building Envelope",
+            "Building & Construction",
+            "Industrial Coatings",
+            "Packaging Coatings",
+            "Packaging",
+            "Building Envelope & Roofing"
+        ],
+        "Product Families": [
+            "Polyesters",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Polyesters"
+        ],
+        "End Uses": [
+            "Closures",
+            "Caps",
+            "Coil Coating",
+            "Varnishes"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Polyesters"
+        ],
+        "End Uses": [
+            "Closures",
+            "Varnishes",
+            "Caps",
+            "Coil Coating"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Aluminum"
+        ],
+        "Glass Transition Temperature (Tg)": [
+            "30.0 - 30.0 °C"
+        ],
+        "Features": [
+            "Excellent Adhesion",
+            "Deep Drawing",
+            "Improved Stability",
+            "Improved Flexibility",
+            "Yellowing Resistance",
+            "Improved Chemical Resistance",
+            "Weather Resistance",
+            "Bacteria Resistance"
+        ]
+    }
+}

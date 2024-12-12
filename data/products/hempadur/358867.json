@@ -1,0 +1,39 @@
+{
+    "id": 358867,
+    "brand": "hempadur",
+    "name": "Hempathane Fast Dry 55750",
+    "slug": "hempathane-fast-dry-55750",
+    "description": "Hempathane Fast Dry 55750 is a 2-component polyurethane paint. Cured with aliphatic isocyanates. Good gloss retention and color stability. Contains zinc phosphate.",
+    "company_name": "Hempel A/S",
+    "company_slug": "hempel-a-s",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1673942276/production/Brand/26766/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Infrastructure, Roads & Paving",
+            "Other Infrastructure Applications"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Top Coats"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "2K (2 component) Coating",
+            "Top Coat"
+        ],
+        "Features": [
+            "High Gloss",
+            "Good Color Stability",
+            "Fast Drying",
+            "Good Gloss Retention"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ]
+    }
+}

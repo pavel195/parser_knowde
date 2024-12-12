@@ -1,0 +1,43 @@
+{
+    "id": 399606,
+    "brand": "eco-sds",
+    "name": "Eco-SCT™",
+    "slug": "eco-sct",
+    "description": "Eco-SCT™ is a three-component high solids epoxy with conductive powder. It is applied at a thickness of 15-20 mils (0.38-0.51 mm) over a coat of Tennant epoxy that is electrically insulating.",
+    "company_name": "Tennant Coatings",
+    "company_slug": "tennant-coatings",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520393/production/Company/27358/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608490/production/CategoryImage/563/category_image/BuildingConstruction_07.jpg",
+    "properties": {
+        "Applications": [
+            "Coatings & Finishes",
+            "Packaging & Assembly",
+            "Electronics Coatings",
+            "Aerospace Coatings",
+            "Aerospace & Aviation",
+            "Transportation"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Top Coats"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Top Coat",
+            "3K Coating"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Concrete"
+        ],
+        "Features": [
+            "Low Odor",
+            "Static-Dissipative",
+            "Conductive",
+            "High Solids Content"
+        ],
+        "Application Method": [
+            "Roller"
+        ]
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "id": 349607,
+    "brand": "eterac",
+    "name": "ETERKYD 5001A",
+    "slug": "eterkyd-5001a",
+    "description": "ETERKYD 5001A is High Molecular Weight Polyester Resin.",
+    "company_name": "Eternal Materials Co Ltd",
+    "company_slug": "eternal-materials",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704100179/production/Brand/26087/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608621/production/CategoryImage/570/category_image/PaintingsCoatings_06.jpg",
+    "properties": {
+        "Applications": [
+            "Coil Coatings",
+            "Industrial Coatings"
+        ],
+        "Product Families": [
+            "Polyesters",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Polyesters"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Polyesters"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Steel"
+        ],
+        "Features": [
+            "Excellent Adhesion",
+            "Abrasion Resistance",
+            "Good Toughness",
+            "Corrosion Resistance",
+            "Improved Hardness",
+            "Improved Flexibility"
+        ]
+    }
+}

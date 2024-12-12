@@ -1,0 +1,46 @@
+{
+    "id": 353243,
+    "brand": "nurcacit",
+    "name": "Nurcacit DPTU(CA) PDR",
+    "slug": "nurcacit-dptu-ca-pdr",
+    "description": "Nurcacit DPTU(CA) PDR is the medium-speed vulcanization accelerator. Synergises with sulfur donor to boost vulcanization when used in NR and SBR. Need zinc oxide to be effective. Used as secondaryaccelerator in CR vulcanization and EPDR vulcanization system. Used in latex products, cables and general industrial products. It’s critical temperature is 80º C, so could be used as raw materials for pharmatical and dye and the test reagent for OS and Rh.",
+    "company_name": "Nanjing Union Rubber Chemicals",
+    "company_slug": "nanjing-union-rubber-chemicals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708689491/production/Brand/26324/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608779/production/CategoryImage/578/category_image/AutomotiveTransportation_06.jpg",
+    "properties": {
+        "Applications": [
+            "Other Consumer Goods Applications",
+            "Footwear",
+            "Other Wire & Cable Applications",
+            "Tires",
+            "Automotive",
+            "Wire & Cable"
+        ],
+        "Product Families": [
+            "Catalysts, Initiators & Crosslinkers",
+            "Elastomer Additives"
+        ],
+        "Chemical Family": [
+            "Urea & Urea Derivatives"
+        ],
+        "End Uses": [
+            "Wires",
+            "Cables",
+            "Consumer Applications",
+            "Footwear",
+            "Tires"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "1,3-diphenyl-2-thiourea"
+        ],
+        "Compatible Polymers & Resins": [
+            "Chloroprene Rubber (CR)"
+        ],
+        "Functions": [
+            "Accelerator"
+        ]
+    }
+}

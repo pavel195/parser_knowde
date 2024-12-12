@@ -1,0 +1,40 @@
+{
+    "id": 405728,
+    "brand": "cor-ban",
+    "name": "Cor-Ban® 23 Undyedd",
+    "slug": "cor-ban-23-undyedd",
+    "description": "Cor-Ban® 23 Undyedd is a long lasting, water displacing, and high penetration corrosion inhibiting compound.",
+    "company_name": "Zip-Chem",
+    "company_slug": "zip-chem",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520199/production/Brand/31145/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608611/production/CategoryImage/569/category_image/PaintingsCoatings_05.jpg",
+    "properties": {
+        "Applications": [
+            "Coatings & Finishes",
+            "Building Materials",
+            "Fence, Decks & Rails",
+            "Building Envelope & Roofing",
+            "Architectural Coatings",
+            "Aerospace Coatings",
+            "Aerospace & Aviation",
+            "Transportation"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Coating"
+        ],
+        "Features": [
+            "High Capacity of Penetration",
+            "Fast Drying",
+            "Good Sagging Resistance",
+            "Tack Prevention",
+            "Service Life Extension",
+            "Corrosion Resistant"
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "id": 422955,
+    "brand": "nora",
+    "name": "nora® Lunatec Motion 20",
+    "slug": "nora-lunatec-motion-20",
+    "description": "nora® Lunatec Motion 20 are EVA expanded sheets which are smooth and with trimmed edges.",
+    "company_name": "nora Systems",
+    "company_slug": "nora-systems",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691739078/production/Brand/33258/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608831/production/CategoryImage/580/category_image/HealthcarePharma_02.jpg",
+    "properties": {
+        "Applications": [
+            "Other Medical Applications",
+            "Footwear",
+            "Bedding",
+            "Medical"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Polymer Name": [
+            "Ethylene Vinyl Acetate Copolymer (EVA)"
+        ],
+        "End Uses": [
+            "Footwear"
+        ]
+    },
+    "summary": {
+        "Density": [
+            "180.0 - 180.0 kg/m³"
+        ]
+    }
+}

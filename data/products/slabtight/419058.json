@@ -1,0 +1,27 @@
+{
+    "id": 419058,
+    "brand": "slabtight",
+    "name": "IronBack®",
+    "slug": "ironback",
+    "description": "IronBack® for steel is the complete rust conversion surface prep treatment. It primes rusted and non-rusted steel so you don’t have to remove old coatings and lead paints before painting them.",
+    "company_name": "Perfect Primer",
+    "company_slug": "perfect-primer",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520381/production/Brand/32859/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608630/production/CategoryImage/571/category_image/PaintingsCoatings_07.jpg",
+    "properties": {
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ]
+    },
+    "summary": {
+        "Features": [
+            "Corrosion Resistant",
+            "Non-Toxic"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Steel",
+            "Metal"
+        ]
+    }
+}

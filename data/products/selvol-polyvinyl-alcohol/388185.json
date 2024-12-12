@@ -1,0 +1,43 @@
+{
+    "id": 388185,
+    "brand": "selvol-polyvinyl-alcohol",
+    "name": "Selvol™ Premiol OSC-10",
+    "slug": "sekisui-specialty-chemicals-selvol-premiol-osc-10",
+    "description": null,
+    "company_name": "Sekisui Specialty Chemicals",
+    "company_slug": "sekisui-specialty-chemicals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708691251/production/Company/1404/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625605610/production/CategoryImage/454/category_image/Plastics_10.jpg",
+    "properties": {
+        "Applications": [
+            "Exploration & Upstream",
+            "Oil, Gas & Mining"
+        ],
+        "Product Families": [
+            "Oilfield & Transport Chemicals",
+            "Oil, Gas & Mining Chemicals"
+        ],
+        "End Uses": [
+            "Oil & Gas Applications",
+            "Cement"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Fluid Loss Control Additive",
+            "Water Retention Agent"
+        ],
+        "End Uses": [
+            "Oil & Gas Applications",
+            "Cement"
+        ],
+        "Applicable Processes": [
+            "Drilling Applications"
+        ],
+        "Features": [
+            "Emulsion Stability",
+            "Cold Resistance",
+            "Improved Rheology"
+        ]
+    }
+}

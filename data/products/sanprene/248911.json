@@ -1,0 +1,50 @@
+{
+    "id": 248911,
+    "brand": "sanprene",
+    "name": "PELECTRON LMP-FS",
+    "slug": "pelectron-lmp-fs",
+    "description": "PELECTRON LMP-FS is an excellent dispersibility into PE and heat-sealing property. Low resistivity which is achieved surface resistivity range to 10^8-9 ohm/sq. Low dosage minimally affects the mechanical properties and moldability",
+    "company_name": "Sanyo Chemical America Incorporated",
+    "company_slug": "sanam-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672232/production/Product/248911/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708672232/production/Product/248911/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Non-Food Consumer Packaging",
+            "Packaging"
+        ],
+        "Product Families": [
+            "Surface Modifiers",
+            "Polymer Additives",
+            "Elastomer Additives"
+        ],
+        "End Uses": [
+            "Heavy Duty Bags",
+            "Film",
+            "Protective Coverings"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Anti-Static Agent"
+        ],
+        "Compatible Polymers & Resins": [
+            "Polypropylenes (PP)",
+            "Polyethylenes (PE)"
+        ],
+        "Processing Methods": [
+            "Blown Film Extrusion",
+            "Dry Blending",
+            "Film Extrusion",
+            "Extrusion"
+        ],
+        "Features": [
+            "Low Melting Point",
+            "Anti-Static",
+            "Heat Sealable",
+            "Good Dispersibility",
+            "Reduced Surface Resistivity",
+            "Good Retention of Properties"
+        ]
+    }
+}

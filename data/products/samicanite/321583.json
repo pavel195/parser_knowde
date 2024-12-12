@@ -1,0 +1,47 @@
+{
+    "id": 321583,
+    "brand": "samicanite",
+    "name": "Von Roll Isola AR 600 P 01",
+    "slug": "von-roll-isola-ar-600-p-01",
+    "description": "Von Roll Isola AR 600 P 01 is composed of epoxy resin and aramid fabric reinforcement.",
+    "company_name": "Von Roll Isola",
+    "company_slug": "von-roll-isola",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708684693/production/Company/30787/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607403/production/CategoryImage/516/category_image/ElectricalElectronics_01.jpg",
+    "properties": {
+        "Applications": [
+            "Equipment & Parts",
+            "Pumps, Turbines & Compressors",
+            "Other Industrial Applications",
+            "Other Parts & Components",
+            "Circuit Breakers",
+            "Structural Components",
+            "Other Automotive Applications",
+            "Automotive",
+            "Building Materials",
+            "Parts & Components",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Laminates",
+            "Prepregs & Molding Compounds"
+        ],
+        "Chemical Family": [
+            "Phenols & Phenolics"
+        ],
+        "End Uses": [
+            "Pump Parts"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Laminate"
+        ],
+        "Reinforcement Material": [
+            "Aramid (Kevlar)"
+        ],
+        "End Uses": [
+            "Pump Parts"
+        ]
+    }
+}

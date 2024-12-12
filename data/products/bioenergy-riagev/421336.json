@@ -1,0 +1,45 @@
+{
+    "id": 421336,
+    "brand": "bioenergy-riagev",
+    "name": "Bioenergy RiaGev® M",
+    "slug": "bioenergy-riagev-m",
+    "description": "Bioenergy RiaGev® M represents a breakthrough improvement in ingredient technology for men’s health formulas. It is a patented, drug-free ingredient formulation of Bioenergy Ribose and Nicotinamide that helps men retain their vigor, perform better and experience a better quality of life. RiaGev-M is specifically developed and clinically proven* to lower cortisol levels naturally in shorter amounts of time than other ingredients, and without side effects. This makes it more effective at supporting healthy testosterone levels and libido, regulating metabolism and minimizing visible signs of inflammation.",
+    "company_name": "Bioenergy Life Science, Inc. (BLS)",
+    "company_slug": "bioenergy-life-science-inc-bls",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708524081/production/Company/56913/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607247/production/CategoryImage/513/category_image/FoodNutrition_13.jpg",
+    "properties": {
+        "Applications": [
+            "Topical",
+            "Oral",
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being",
+            "Drug Delivery & Care Solutions"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ]
+    },
+    "summary": {
+        "Labeling Claims": [
+            "Natural"
+        ],
+        "Benefit Claims (Health)": [
+            "Regulates Metabolism",
+            "Reduces Cortisol Levels",
+            "Improves Sexual Health",
+            "Joint Support"
+        ],
+        "Features": [
+            "Improved Bone Health",
+            "Healthy Ageing",
+            "Anti-Fatigue",
+            "Excellent Bioavailability",
+            "Relaxing",
+            "Stress Reduction"
+        ]
+    }
+}

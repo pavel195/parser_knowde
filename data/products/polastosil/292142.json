@@ -1,0 +1,36 @@
+{
+    "id": 292142,
+    "brand": "polastosil",
+    "name": "POLSIL® MV AB",
+    "slug": "polsil-mv-ab",
+    "description": "POLSIL® MV AB is addition curing, two-component liquid silicone elastomers which after the addition of a catalyst cures at room temperature. The curing time may be shortened at higher temperature (i.e. up to 6 h at 70°C). The rubber is suitable for protection of electronic and telecommunication systems against influence of external factors and for stiffening and protecting (flooding) photovoltaic cells in solar panels against impact of climatic factors in the conditions of variable temperatures ranging from -50 to +180°C.",
+    "company_name": "Silikony Polskie",
+    "company_slug": "silikony-polskie",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112620/production/Company/21376/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607436/production/CategoryImage/518/category_image/ElectricalElectronics_03.jpg",
+    "properties": {
+        "Applications": [
+            "Parts & Components",
+            "Photovoltaic Components",
+            "Other Parts & Components"
+        ],
+        "Product Families": [
+            "Specialty Elastomers",
+            "Silicone Elastomers"
+        ],
+        "Chemical Family": [
+            "Silicones"
+        ],
+        "Polymer Name": [
+            "Liquid Silicone Rubber (LSR)"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Liquid Silicone Rubber (LSR)"
+        ],
+        "Features": [
+            "Good Thermal Stability"
+        ]
+    }
+}

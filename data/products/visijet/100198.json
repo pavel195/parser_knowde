@@ -1,0 +1,84 @@
+{
+    "id": 100198,
+    "brand": "visijet",
+    "name": "DuraForm® FR 100",
+    "slug": "duraform-fr-100",
+    "description": "DuraForm® FR 100 is halogen-free flame retardant plastic is suitable for Rapid Manufacturing of Aerospace and consumer products where flame retardancy and reduced smoke toxicity is required.In addition to meeting the flame retardancy necessary for many potential aerospace applications, DuraForm® FR100 has been formulated to reduce production of smoke and related toxic byproducts of combustion and achieve UL94 V-0 rating to meet the needs of today's human environmental safety for many other consumer applications.Applications Aerospace and aircraft cabin, compartment &amp; cargo Computers Business equipment Electrical appliances Telecommunications equipment Building and structural components Transportation Complex, thin-walled ductwork Unmanned air vehicles (UAV's) Housings and enclosures Connectors Consumer goods and sporting products Vehicle dashboards and grilles Bumpers Rapid manufacturing Features Flame retardant Halogen and Antimony free FAR 25.853 (non-drip) compliant UL94 V-0 compliant Low smoke density and toxicity Excellent toughness and with good impact resistance Easy to process No emission of corrosive gasses Meets aerospace smoke density and toxicity requirements Benefits Offers toughness of injection molded plastics Build prototypes that withstand functional testing Produce durable end-use parts without tooling Create accurate and repeatable custom parts Increase market opportunities through flame retardancy.",
+    "company_name": "3D Systems",
+    "company_slug": "3d-systems",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708527890/production/Brand/9429/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708527890/production/Company/2708/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Equipment & Parts",
+            "Exterior & Body",
+            "Sports & Recreation",
+            "Tooling & Moldmaking",
+            "Other Consumer Goods Applications",
+            "Powertrain & UTH",
+            "Consumer Electronics",
+            "Other Parts & Components",
+            "Aerospace & Aviation",
+            "Optical Fiber & Telecom",
+            "Housings & Enclosures",
+            "Connectors",
+            "Other Devices & Assemblies",
+            "Other Building Materials",
+            "Other Automotive Applications",
+            "Appliances & Electronics",
+            "Automotive",
+            "Transportation",
+            "Building Materials",
+            "Devices & Assemblies",
+            "Parts & Components",
+            "Wire & Cable",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Photoactive Resins",
+            "3D Printing Polymers"
+        ],
+        "Polymer Name": [
+            "Thermoplastic (unspecified)"
+        ],
+        "End Uses": [
+            "Sporting Goods",
+            "Connectors",
+            "Aerospace Applications",
+            "Telecommunications",
+            "Prototyping",
+            "Pacifiers",
+            "Housings",
+            "Engineering Parts",
+            "Electrical/Electronic Applications",
+            "Construction Applications",
+            "Computer Components",
+            "Automotive Applications",
+            "Appliance Components"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Thermoplastic (unspecified)"
+        ],
+        "Processing Methods": [
+            "Selective Laser Sintering",
+            "3D Printing"
+        ],
+        "End Uses": [
+            "Engineering Parts",
+            "Prototyping",
+            "Housings",
+            "Connectors",
+            "Computer Components",
+            "Pacifiers",
+            "Telecommunications",
+            "Appliance Components",
+            "Construction Applications",
+            "Sporting Goods",
+            "Electrical/Electronic Applications",
+            "Automotive Applications",
+            "Aerospace Applications"
+        ]
+    }
+}

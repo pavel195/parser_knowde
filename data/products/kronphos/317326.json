@@ -1,0 +1,46 @@
+{
+    "id": 317326,
+    "brand": "kronphos",
+    "name": "KRONPHOS PZC",
+    "slug": "kronphos-pzc",
+    "description": "Kronphos PZC contains the optimal ratio of zinc, phosphorus and calcium, and is in great demand with consumers. It is used for manufacturing of corrosion-resistant materials to provide long-term protection against corrosion.",
+    "company_name": "Zavod Kronakril",
+    "company_slug": "zavod-kronakril",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708687258/production/Product/317326/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608557/production/CategoryImage/565/category_image/PaintingsCoatings_01.jpg",
+    "properties": {
+        "Applications": [
+            "Primers & Lacquers",
+            "Other Paints & Coatings Applications",
+            "Coil Coatings",
+            "Industrial Coatings",
+            "Packaging Coatings"
+        ],
+        "Product Families": [
+            "Corrosion Inhibiting Pigments",
+            "Functional Pigments",
+            "Inorganic Pigments",
+            "Functional Additives",
+            "Additives",
+            "Pigments & Colorants",
+            "Color Pigments"
+        ],
+        "End Uses": [
+            "Waterborne Coating",
+            "Solventborne Coating",
+            "Primer"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Corrosion Inhibitor",
+            "Colorant"
+        ],
+        "Pigment Type": [
+            "Inorganic Pigments"
+        ],
+        "Color": [
+            "White"
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": 410444,
+    "brand": "onetex",
+    "name": "OneTex 2000",
+    "slug": "onetex-2000",
+    "description": "OneTex 2000 has been formulated for use over interior plaster and drywall surfaces. The outstanding combination of pigments and resin has yielded excellent results on jobs where good scrub resistance and economy are of prime importance.",
+    "company_name": "Freeman Products Inc.",
+    "company_slug": "freeman-products-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292419/production/Brand/31887/logo/image.png",
+    "banner_url": "https://static.knowde.com/card-banners/knowde-card-for-raw-materials-8.jpg",
+    "properties": {
+        "Applications": [
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Base Coats & Undercoats"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Base Coat"
+        ],
+        "Features": [
+            "Good Washability",
+            "Durable",
+            "Scrub Resistance",
+            "Mildew Resistant",
+            "Cost Effective"
+        ],
+        "Application Method": [
+            "Spray"
+        ]
+    }
+}

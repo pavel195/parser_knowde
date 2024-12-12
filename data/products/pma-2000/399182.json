@@ -1,0 +1,41 @@
+{
+    "id": 399182,
+    "brand": "pma-2000",
+    "name": "Compaflash™",
+    "slug": "compaflash",
+    "description": "Compaflash™ flashing tubes are an easy-to-use solid tube of either APP or SBS modified bitumen compound; the same compound used in Bitec cap and base sheets. The design allows you to heat and trowel additional modified bitumen compound in areas that are difficult to seal. This can be at flashing details, pitch pans and areas of repair.",
+    "company_name": "BITEC",
+    "company_slug": "bitec",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292123/production/Company/50839/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608422/production/CategoryImage/558/category_image/BuildingConstruction_02.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Pipes & Plumbing",
+            "Building Envelope & Roofing",
+            "Waterproofing & Weatherproofing"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Sealer"
+        ],
+        "Application Areas": [
+            "Roofing Membranes"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Glass"
+        ],
+        "Features": [
+            "Easier Processing",
+            "UL Listed"
+        ],
+        "Application Method": [
+            "Trowel"
+        ]
+    }
+}

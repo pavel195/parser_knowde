@@ -1,0 +1,44 @@
+{
+    "id": 319635,
+    "brand": "essentium",
+    "name": "ESSENTIUM TPU 58D-AS",
+    "slug": "essentium-tpu-58d-as",
+    "description": "Essentium’s TPU 58D-AS is an industry-first ESD safe and anti-static 58D Shore hardness thermoplastic polyurethane filament that is available in a variety of colors. This cutting-edge material resulted from a close collaboration between Croda and Essentium to develop an exclusive anti-static filament line based on Croda Ionphase™ permanent antistatic additives. It has excellent impact strength, tear strength, and abrasion resistance and is safe for clean room and electronics manufacturing applications.",
+    "company_name": "Essentium",
+    "company_slug": "essentium",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686113298/production/Product/319635/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical & Industrial Manufacturing",
+            "Tooling & Moldmaking"
+        ],
+        "Product Families": [
+            "3D Printing Polymers",
+            "Thermoplastic Filament"
+        ],
+        "Chemical Family": [
+            "Thermoplastic Polyurethanes (TPU)",
+            "Polyurethanes (PU)"
+        ],
+        "Polymer Name": [
+            "Thermoplastic Polyurethane (unspecified)"
+        ],
+        "End Uses": [
+            "Covers",
+            "Molds/Dies/Tools"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Thermoplastic Polyurethane (unspecified)"
+        ],
+        "End Uses": [
+            "Molds/Dies/Tools",
+            "Covers"
+        ],
+        "Density": [
+            "1210.0 - 1210.0 kg/m³"
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": 388484,
+    "brand": "ngac",
+    "name": "NGAC TC907-07",
+    "slug": "ngac-tc907-07",
+    "description": "The NGAC TC907-07 adhesive is thermally conductive and electrically insulating, and it can be cured at room temperature. It was created for the purpose of assembling heat sensitive components onto printed circuit boards. It is recommended for any application that necessitates strong adhesive bonds as well as excellent thermal transfer. NASA outgassing and weight loss requirements are met by NGAC TC907-07.",
+    "company_name": "NextGen Adhesives",
+    "company_slug": "nextgen-adhesives",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691738191/production/Brand/29176/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607403/production/CategoryImage/516/category_image/ElectricalElectronics_01.jpg",
+    "properties": {
+        "Applications": [
+            "Printed Circuit Boards (PCBs)",
+            "Adhesives & Sealants",
+            "Appliances & Electronics",
+            "Other Adhesives & Sealants Applications",
+            "Packaging & Assembly",
+            "Parts & Components"
+        ],
+        "Product Families": [
+            "Conductive Adhesives",
+            "Adhesives & Sealants"
+        ]
+    },
+    "summary": {}
+}

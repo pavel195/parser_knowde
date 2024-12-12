@@ -1,0 +1,52 @@
+{
+    "id": 299669,
+    "brand": "pel-fix",
+    "name": "PEL-FIX™ 123-S",
+    "slug": "pel-fix-123-s",
+    "description": "PEL-FIX™ 123-S facilitates the penetration semi-permanent dyes and temporary hair colors into the hair shaft. It then improves the substantivity of those materials with a cationic silicone polymer. PEL-FIX™ 123-S allows for the uniform deposition of colors on the hair, even damaged hair. PEL-FIX™ 123-S is a blend of sorbitol, propylene glycol and Quaternium-80, a quaternary functional polydimethylsiloxane. Sorbitol and propylene glycol swell the hair shaft and allow penetration by the Quaternium-80 which retards the loss of color. Additionally Quaternium-80 is an excellent hair conditioning active.",
+    "company_name": "Ele Corporation",
+    "company_slug": "ele-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708685875/production/Product/299669/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708685875/production/Product/299669/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Hair Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Film Formers",
+            "Conditioners & Emollients",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Sorbitol",
+            "Quaternium-80"
+        ],
+        "End Uses": [
+            "Hair Color",
+            "Moisturizers",
+            "Shampoos & Rinses",
+            "Hair Conditioner"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Sorbitol",
+            "Quaternium-80"
+        ],
+        "Functions": [
+            "Conditioner",
+            "Hair Fixative"
+        ],
+        "Labeling Claims": [
+            "Clean at Sephora",
+            "Ulta Beauty's Conscious Beauty"
+        ],
+        "Benefit Claims": [
+            "Hair Conditioning",
+            "Substantivity",
+            "Imparts color",
+            "Color Fixative"
+        ]
+    }
+}

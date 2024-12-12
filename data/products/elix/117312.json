@@ -1,0 +1,53 @@
+{
+    "id": 117312,
+    "brand": "elix",
+    "name": "Elix™ ABS H801",
+    "slug": "elix-abs-h801",
+    "description": "High heat resistance, PC-modified, low emission, increased flow. Typical Applications: Radiator grille, Rear light housing, Tailgate cover, Door components, Instrument panel parts.",
+    "company_name": "ELIX Polymers, S.L.",
+    "company_slug": "elix-polymers",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708520331/production/Product/117312/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708520331/production/Brand/9953/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Interior",
+            "Aerospace & Aviation",
+            "Other Transportation Applications",
+            "Exterior & Body",
+            "Other Automotive Applications",
+            "Housings & Enclosures",
+            "Appliances & Electronics",
+            "Automotive",
+            "Transportation",
+            "Parts & Components"
+        ],
+        "Product Families": [
+            "Styrenics",
+            "Basic Thermoplastics"
+        ],
+        "Chemical Family": [
+            "Acrylonitrile Butadiene Styrene (ABS)",
+            "Styrenics"
+        ],
+        "Polymer Name": [
+            "Acrylonitrile Butadiene Styrene (ABS)"
+        ],
+        "End Uses": [
+            "Automotive Exterior Parts",
+            "Automotive Applications",
+            "Housings",
+            "Instrument Panel"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Acrylonitrile Butadiene Styrene (ABS)"
+        ],
+        "Processing Methods": [
+            "Injection Molding"
+        ],
+        "Melt Flow Index": [
+            "6.0 - 6.0 g/10 min"
+        ]
+    }
+}

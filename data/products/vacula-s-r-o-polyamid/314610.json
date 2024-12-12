@@ -1,0 +1,52 @@
+{
+    "id": 314610,
+    "brand": "vacula-s-r-o-polyamid",
+    "name": "Polyamid 6 +30% Mineral",
+    "slug": "polyamid-6-30-mineral",
+    "description": "Polyamid 6 +30% Mineral abbreviated as PA 6+Mineralo.",
+    "company_name": "VACULA s.r.o.",
+    "company_slug": "vacula-s-r-o",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686211837/production/Product/314610/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607988/production/CategoryImage/537/category_image/HomePersonalCare_03.jpg",
+    "properties": {
+        "Applications": [
+            "Parts & Components",
+            "Exterior & Body",
+            "Interior",
+            "Other Automotive Applications",
+            "Belts & Conveyers",
+            "Packaging",
+            "Non-Food Consumer Packaging",
+            "Chemical & Industrial Manufacturing",
+            "Automotive",
+            "Terminal Blocks, Plugs & Sockets",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Engineering & Specialty Polymers",
+            "Polyamides"
+        ],
+        "Chemical Family": [
+            "Polyamides"
+        ],
+        "Polymer Name": [
+            "Polyamide 6 (PA 6)"
+        ],
+        "End Uses": [
+            "Automotive Exterior Parts",
+            "Automotive Interior Parts",
+            "Plugs",
+            "Automotive Components",
+            "Cosmetic Packaging",
+            "Conveyors"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyamide 6 (PA 6)"
+        ],
+        "Fillers Included": [
+            "Mineral"
+        ]
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "id": 297892,
+    "brand": "kafrit",
+    "name": "KAFRIT SAB 0656A EVA",
+    "slug": "kafrit-group-sab-0656a-eva",
+    "description": "KAFRIT SAB 0656A EVA is a slip antiblock combi-masterbatch that acts as an antistick in extruded, blown, and cast films. Prevents the sticking of films to hot surfaces and prevents the fusion of Eva shrink hoods. Suitable for films with high va-content.",
+    "company_name": "Kafrit Group",
+    "company_slug": "kafrit-group",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672466/production/Brand/38849/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625605472/production/CategoryImage/448/category_image/Plastics_07.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial & Transport Packaging",
+            "Food & Beverage Packaging",
+            "Greenhouse & Tunnel Films",
+            "Agricultural Films",
+            "Packaging"
+        ],
+        "Product Families": [
+            "Surface Modifiers",
+            "Performance Additives",
+            "Additive Masterbatches",
+            "Masterbatches",
+            "Polymer Additives"
+        ],
+        "End Uses": [
+            "Shrink Hood",
+            "Greenhouse Film",
+            "Food Packaging",
+            "Film",
+            "Cast Films"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Slip Agent",
+            "Anti-Blocking Agent"
+        ],
+        "Compatible Polymers & Resins": [
+            "Ethylene Vinyl Acetate (EVA)"
+        ],
+        "Carrier": [
+            "Ethylene Vinyl Acetate (EVA)",
+            "Resin-based",
+            "Polyethylenes (PE)"
+        ],
+        "Features": [
+            "Easy Unwinding",
+            "Prevents Film Blockage"
+        ]
+    }
+}

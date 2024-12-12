@@ -1,0 +1,38 @@
+{
+    "id": 98470,
+    "brand": "scalpethic",
+    "name": "Biocosmethic Amaranth Oil",
+    "slug": "biocosmethic-amaranth-oil",
+    "description": "Biocosmethic Amaranth Oil Bce1060 is obtained by mechanical expelling of the seeds of “Amaranthus caudatus”. Contains Over 60% of unsaturated acids. Mainly composed of linoleic acid (omega-6) and oleic acid (omega-9). High content in squalane.",
+    "company_name": "Biocosmethic",
+    "company_slug": "biocosmethic",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704110660/production/Product/98470/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1704110660/production/Product/98470/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Hair Care",
+            "Skin Care",
+            "Sun Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Fixed & Carrier Oils",
+            "Skin Actives",
+            "Conditioners & Emollients",
+            "Cosmetic Actives",
+            "Vitamins, Extracts & Oils",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Amaranthus Caudatus Seed Oil"
+        ],
+        "End Uses": [
+            "Anti-Hair Loss Products",
+            "Anti-Aging Products",
+            "Hair Conditioner",
+            "Moisturizers",
+            "Concealer"
+        ]
+    },
+    "summary": {}
+}

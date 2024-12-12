@@ -1,0 +1,52 @@
+{
+    "id": 227110,
+    "brand": "dispurez",
+    "name": "Amirez 148/024",
+    "slug": "amirez-148-024",
+    "description": "When your application calls for a general purpose hardener at low temperatures, Amirez 148/024 exceeds all performance expectations, meeting every specification requirement with speed and a greater degree of technical excellence. This low viscosity, fast cure waterborne reactive polyamide adduct has all application angles covered, from floor and wall painting to hygiene coatings.",
+    "company_name": "Incorez Ltd",
+    "company_slug": "incorez-ltd",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708673308/production/Company/8738/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708673308/production/Company/8738/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Wallcoverings & Decorative Laminates",
+            "Other Building & Construction Applications",
+            "Concrete Coatings & Stains",
+            "Wallcovering & Decorative Laminates",
+            "Floor Coatings",
+            "Flooring & Surfaces",
+            "Building & Construction",
+            "Decorative Materials & Finishes"
+        ],
+        "Product Families": [
+            "Functional Additives",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Polyamines"
+        ],
+        "End Uses": [
+            "Primer",
+            "Waterborne Coating",
+            "Solventless & High Solids Coating"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Hardener"
+        ],
+        "Chemical Family": [
+            "Polyamines"
+        ],
+        "End Uses": [
+            "Waterborne Coating",
+            "Primer",
+            "Solventless & High Solids Coating"
+        ],
+        "Features": [
+            "Chemical Resistance",
+            "High Gloss"
+        ]
+    }
+}

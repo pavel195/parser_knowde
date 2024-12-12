@@ -1,0 +1,43 @@
+{
+    "id": 357813,
+    "brand": "mazpound",
+    "name": "MAZPOUND TW",
+    "slug": "mazpound-tw",
+    "description": "MAZPOUND TW is processed by general extrusion method for the purpose of general insulation and jacketing.",
+    "company_name": "Mazda Plastic Factory",
+    "company_slug": "mazda-plastic-factory",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708528605/production/Brand/26619/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607454/production/CategoryImage/519/category_image/ElectricalElectronics_04.jpg",
+    "properties": {
+        "Applications": [
+            "Jacketing & Insulation",
+            "Wire & Cable"
+        ],
+        "Product Families": [
+            "Vinyl Polymers",
+            "Basic Thermoplastics"
+        ],
+        "Chemical Family": [
+            "Vinyls, Vinylics & Vinyl Derivatives"
+        ],
+        "Polymer Name": [
+            "Polyvinyl Chloride (PVC)"
+        ],
+        "End Uses": [
+            "Wires",
+            "Cables"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyvinyl Chloride (PVC)"
+        ],
+        "Processing Methods": [
+            "Extrusion"
+        ],
+        "End Uses": [
+            "Cables",
+            "Wires"
+        ]
+    }
+}

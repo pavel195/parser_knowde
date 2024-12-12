@@ -1,0 +1,49 @@
+{
+    "id": 301076,
+    "brand": "fiexiso",
+    "name": "Hostaphan® RN FI 13011a",
+    "slug": "hostaphan-rn-fi-13011a",
+    "description": "Hostaphan® RN FI 13011a is a Transparent polyester film.",
+    "company_name": "Dr. D. Mueller",
+    "company_slug": "dr-d-mueller",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686149852/production/Company/24190/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Parts & Components",
+            "Power, Water & Utilities",
+            "Printing & Inks",
+            "Electrical Protection",
+            "Other Printing Applications",
+            "Other Paints & Coatings Applications",
+            "Switches & Relays",
+            "Printed Circuit Boards (PCBs)"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Polyesters",
+            "Polyethylene Terephthalate (PET)"
+        ],
+        "Polymer Name": [
+            "Polyethylene Terephthalate (PET)"
+        ],
+        "End Uses": [
+            "Electric Motors",
+            "Membrane Touch Switches",
+            "Printed Circuit Boards"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyethylene Terephthalate (PET)"
+        ],
+        "Physical Form": [
+            "Film"
+        ],
+        "Features": [
+            "Improves Physical Properties"
+        ]
+    }
+}

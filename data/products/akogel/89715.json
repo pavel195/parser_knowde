@@ -1,0 +1,75 @@
+{
+    "id": 89715,
+    "brand": "akogel",
+    "name": "Akofine R™",
+    "slug": "aak-personal-care-akofine-r",
+    "description": "Akofine R™ is composed of fully saturated, deodorized high erucic Rapeseed oil (Brassica napus). This is a high melting all vegetable fat offered in powdered form for convenient use.",
+    "company_name": "AAK Personal Care",
+    "company_slug": "aak-personal-care",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1716387907/production/Product/89715/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1716387907/production/Product/89715/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Skin Care",
+            "Color Cosmetics",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Fixed & Carrier Oils",
+            "Vitamins, Extracts & Oils"
+        ],
+        "INCI Name": [
+            "Hydrogenated Vegetable Oil"
+        ],
+        "End Uses": [
+            "Body Oil",
+            "Cosmetic Sticks",
+            "Pencils",
+            "Lipstick"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Hydrogenated Vegetable Oil"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Plant Origin"
+        ],
+        "Benefit Claims": [
+            "Improved Texture",
+            "Good Oxidative Stability",
+            "Texturizing",
+            "Soft Feel",
+            "Stabilizing",
+            "Aesthethic Enhancement",
+            "Color & Look",
+            "Thermal Stability",
+            "Smoothing",
+            "High Melting Point",
+            "Structuring"
+        ],
+        "Labeling Claims": [
+            "Naturally Derived",
+            "Vegan",
+            "Clean at Sephora",
+            "Sustainable",
+            "Kosher",
+            "Natural",
+            "Plant-Based",
+            "Credo Clean Standard",
+            "Halal",
+            "Ulta Beauty's Conscious Beauty",
+            "Environmentally Friendly",
+            "Organic"
+        ],
+        "Certifications & Compliance": [
+            "ECOCERT",
+            "IECIC (China)",
+            "Halal",
+            "COSMOS",
+            "Organic Certified",
+            "Kosher"
+        ]
+    }
+}

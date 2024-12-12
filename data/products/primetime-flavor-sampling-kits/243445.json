@@ -1,0 +1,54 @@
+{
+    "id": 243445,
+    "brand": "primetime-flavor-sampling-kits",
+    "name": "PRIMETIME Nat Applewood Smoke Flavor Type (BD-10333)",
+    "slug": "primetime-nat-applewood-smoke-flavor-type-bd-10333",
+    "description": "\nSensory Profile:\nOils &amp; Fats: Applewood Smoke, smoky, smoky sweet, woody smokyChocolate &amp; Fillings: Applewood Smoke, smoky sweet, woody smoky, smoky",
+    "company_name": "Givaudan",
+    "company_slug": "givaudan",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1723098084/production/Brand/15807/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1723098084/production/Product/243445/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Cooking Oils & Fat Products",
+            "Other Food Applications",
+            "Meat, Poultry & Seafood",
+            "Confectionery",
+            "Savory & Culinary",
+            "Convenience Foods",
+            "Food"
+        ],
+        "Product Families": [
+            "Flavor Ingredients",
+            "Taste & Flavor"
+        ],
+        "Flavor Family": [
+            "Culinary Cue Flavors"
+        ],
+        "End Uses": [
+            "Filling Applications",
+            "Chocolates",
+            "Savory Products",
+            "Sauces",
+            "Ready Meals"
+        ]
+    },
+    "summary": {
+        "Physical Form": [
+            "Liquid"
+        ],
+        "Soluble In": [
+            "Oil Soluble"
+        ],
+        "Certifications & Compliance": [
+            "Kosher",
+            "Halal"
+        ],
+        "Labeling Claims": [
+            "Natural",
+            "Allergen-free",
+            "Gluten-free",
+            "Vegan"
+        ]
+    }
+}

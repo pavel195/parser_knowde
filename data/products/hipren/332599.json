@@ -1,0 +1,34 @@
+{
+    "id": 332599,
+    "brand": "hipren",
+    "name": "HIPREN® EM 1723",
+    "slug": "hipren-em-1723",
+    "description": "HIPREN® EM 1723 is used in Appropriate for rubber compounds used in the production of car tires and inner tubes, conveyor belts, shoes and various technical rubber goods.",
+    "company_name": "HIP-Petrohemija",
+    "company_slug": "hip-petrohemija",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691738824/production/Brand/24465/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607026/production/CategoryImage/510/category_image/FoodNutrition_11.jpg",
+    "properties": {
+        "Applications": [
+            "Equipment & Parts",
+            "Belts & Conveyers",
+            "Footwear",
+            "Tires",
+            "Chemical & Industrial Manufacturing",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Styrene Butadiene Rubbers (SBR)",
+            "Thermoset Elastomers"
+        ],
+        "Polymer Name": [
+            "Emulsion Styrene Butadiene Rubber (ESBR)"
+        ],
+        "End Uses": [
+            "Tires",
+            "Footwear",
+            "Conveyor Parts"
+        ]
+    },
+    "summary": {}
+}

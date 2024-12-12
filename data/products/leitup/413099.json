@@ -1,0 +1,67 @@
+{
+    "id": 413099,
+    "brand": "leitup",
+    "name": "InLeit® MCI90",
+    "slug": "inleit-mci90",
+    "description": "InLeit® MCI90 is a low spore micellar casein isolate powder obtained by microfiltration of skim milk.",
+    "company_name": "Inleit Ingredients",
+    "company_slug": "inleit-ingredients",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686109489/production/Brand/27585/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1686109489/production/Product/413099/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Food",
+            "Nutrition & Well Being",
+            "Bakery",
+            "Confectionery",
+            "Dairy",
+            "Desserts & Fruit Preparations",
+            "Infant & Baby Food",
+            "Functional Foods",
+            "Nutraceuticals & Supplements",
+            "Sports Nutrition",
+            "Clinical Nutrition"
+        ],
+        "Product Families": [
+            "Nutrition & Fortification",
+            "Whole Foods, Extracts & Premixes",
+            "Dairy Products",
+            "Nutraceuticals & Supplements",
+            "Proteins & Amino Acids"
+        ],
+        "End Uses": [
+            "Sports Nutrition",
+            "Senior & Clinical Nutrition",
+            "Dietary Supplements",
+            "Nutritional Bars",
+            "Dairy Products",
+            "Cake Gel",
+            "Cheese",
+            "Dessert Bar"
+        ]
+    },
+    "summary": {
+        "Ingredient Origin": [
+            "Dairy Origin"
+        ],
+        "Labeling Claims": [
+            "Clean Label",
+            "Halal",
+            "Kosher"
+        ],
+        "Protein Content": [
+            "85.2 - 85.2 %"
+        ],
+        "Certifications & Compliance": [
+            "ISO 9001",
+            "FSSC 22000",
+            "Halal",
+            "Kosher",
+            "ISO 22000"
+        ],
+        "Physical Form": [
+            "Powder",
+            "Solid"
+        ]
+    }
+}

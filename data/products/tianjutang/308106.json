@@ -1,0 +1,58 @@
+{
+    "id": 308106,
+    "brand": "tianjutang",
+    "name": "Tianjutang 50",
+    "slug": "tianjutang-50",
+    "description": "Tianjutang 50 is a high-sweetness,low-calorie complex sweetener. It is manufactured by mixing the sweetener Acesulfame K, Aspartame and sorbitol. It offers complex advantages for food and beverage manufacturers.",
+    "company_name": "Hangzhou Sanhe USA",
+    "company_slug": "hangzhou-sanhe-usa",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708687223/production/Product/308106/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606924/production/CategoryImage/503/category_image/FoodNutrition_04.jpg",
+    "properties": {
+        "Applications": [
+            "Savory & Culinary",
+            "Bakery",
+            "Desserts & Fruit Preparations",
+            "Dairy",
+            "Confectionery",
+            "Oenology",
+            "Other Non-Alcoholic Beverages",
+            "Beverage",
+            "Food"
+        ],
+        "Product Families": [
+            "Alternates & Replacements",
+            "Sweeteners & Syrups",
+            "Taste & Flavor",
+            "Whole Foods, Extracts & Premixes"
+        ],
+        "End Uses": [
+            "Syrups",
+            "Salad Dressing",
+            "Table Top Sweeteners",
+            "Frozen Desserts",
+            "Yogurt",
+            "Dairy Products",
+            "Chewing Gum",
+            "Confectionery Products",
+            "Wine"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Sugar Substitute",
+            "Nutritive Sweetener"
+        ],
+        "Labeling Claims": [
+            "Kosher",
+            "Halal"
+        ],
+        "Certifications & Compliance": [
+            "Halal",
+            "Kosher",
+            "ISO 22000",
+            "ISO 9001",
+            "Hazard Analysis Critical Control Point (HACCP)"
+        ]
+    }
+}

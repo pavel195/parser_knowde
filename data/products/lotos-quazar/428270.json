@@ -1,0 +1,32 @@
+{
+    "id": 428270,
+    "brand": "lotos-quazar",
+    "name": "Lotos Quazar LL III SAE 5W-30",
+    "slug": "lotos-quazar-ll-iii-sae-5w-30",
+    "description": "Lotos Quazar LL III SAE 5W-30 is a modern synthetic oil designed mainly to meet the requirements of the users of Volkswagen cars where it is recommended to use oils that meet the requirements of quality standards VW 504.00, VW 507.00. It may be used in engines from other manufacturers, both petrol and diesel engines with particulate filters and/or unit injectors where it is recommended to use ACEA C3 grade oils.",
+    "company_name": "Lotos Oil",
+    "company_slug": "lotos-oil",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292971/production/Brand/33981/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608779/production/CategoryImage/578/category_image/AutomotiveTransportation_06.jpg",
+    "properties": {
+        "Applications": [
+            "Lubricants & Functional Fluids",
+            "Automotive Fluids & Lubricants"
+        ],
+        "Product Families": [
+            "Fluids & Lubricants",
+            "Lubricants & Oils"
+        ]
+    },
+    "summary": {
+        "Application Areas": [
+            "Automotive Engine"
+        ],
+        "Features": [
+            "Wear Resistant"
+        ],
+        "SAE Viscosity Grade": [
+            "SAE 5W-30"
+        ]
+    }
+}

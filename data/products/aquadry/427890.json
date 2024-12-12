@@ -1,0 +1,35 @@
+{
+    "id": 427890,
+    "brand": "aquadry",
+    "name": "Fertidose®",
+    "slug": "fertidose",
+    "description": "Fertidose is a nutritional supplement for ruminant. Fertidose is presented under a single dose syringe in order to give the cow a flushing dose of high concentrated components to boost the further ovarian activity and improve AI results.",
+    "company_name": "Aquavial",
+    "company_slug": "aquavial",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708529904/production/Brand/34121/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608161/production/CategoryImage/546/category_image/AgricultureFeed_02.jpg",
+    "properties": {
+        "Applications": [
+            "Pets",
+            "Ruminants",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Feed Supplements",
+            "Nutritional Ingredients"
+        ]
+    },
+    "summary": {
+        "Animal Species": [
+            "Cows",
+            "Cattle"
+        ],
+        "Features": [
+            "Vitamin Rich",
+            "Improves Muscle Development",
+            "High Energy Content",
+            "Reduces Mortality",
+            "Improves Feed Intake"
+        ]
+    }
+}

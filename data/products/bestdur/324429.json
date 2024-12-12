@@ -1,0 +1,40 @@
+{
+    "id": 324429,
+    "brand": "bestdur",
+    "name": "BESTNYL ABP70U /02",
+    "slug": "bestnyl-abp70u-02",
+    "description": "BESTNYL® ABP70U /02is a polyamides (PA). Polyamide is a technical plastic characterized by having good mechanical properties, excellent rigidity, good stabilization at high temperatures and good chemical resistance.",
+    "company_name": "Triesa",
+    "company_slug": "triesa",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708531678/production/Brand/23161/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608769/production/CategoryImage/577/category_image/AutomotiveTransportation_05.jpg",
+    "properties": {
+        "Applications": [
+            "Other Consumer Goods Applications",
+            "Other Automotive Applications",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Polyamides",
+            "Styrenics",
+            "Blends & Alloys",
+            "Basic Thermoplastics",
+            "Engineering & Specialty Polymers"
+        ],
+        "Chemical Family": [
+            "Polyamides",
+            "Acrylonitrile Butadiene Styrene (ABS)"
+        ],
+        "Polymer Name": [
+            "PA/ABS Alloy"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "PA/ABS Alloy"
+        ],
+        "Processing Methods": [
+            "Injection Molding"
+        ]
+    }
+}

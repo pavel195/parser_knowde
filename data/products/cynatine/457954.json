@@ -1,0 +1,75 @@
+{
+    "id": 457954,
+    "brand": "cynatine",
+    "name": "LC Ingredients Organic Plant Based Vitamin B12",
+    "slug": "lc-ingredients-organic-b12-0-1",
+    "description": "LC Ingredients Organic Plant Based Vitamin B12 is a hydrolyzed extract blend of Lentinula. It is a mushroom-based food complex standardized for mixed cobalamins. B12 does not occur in plants naturally. Animal foods have B12 that comes from bacteria in their intestines. Sources like seaweeds, mushrooms (shiitake), and tempeh have analogs of B12 that are claimed to be inactive. Clearly, vegan sources do not claim active B12 nutrition. Organic B12 uses a proprietary technology that stabilizes primary coenzyme forms of cobalamins from vegan sources. Organic B12 is a substrate-treated mushroom strain stabilized for total cobalamin and its coenzymes.",
+    "company_name": "LC Ingredients",
+    "company_slug": "lc-ingredients",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708688476/production/Company/36445/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708688476/production/Product/457954/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Oral",
+            "Powdered Beverages",
+            "Nutraceuticals & Supplements",
+            "Beverage",
+            "Nutrition & Well Being",
+            "Drug Delivery & Care Solutions"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Vitamins",
+            "Functional Ingredients",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Beverage Mixes",
+            "Dietary Supplements"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Vitamin B12"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Plant Origin"
+        ],
+        "Functions": [
+            "Vitamin Source",
+            "Vitamin Source"
+        ],
+        "Labeling Claims": [
+            "BSE-free",
+            "TSE-free",
+            "Biodegradable",
+            "Naturally Derived",
+            "Vegetarian",
+            "Kosher",
+            "Allergen-free",
+            "Natural",
+            "Vegan",
+            "Organic",
+            "Plant-Based",
+            "GMO-free",
+            "Gluten-free",
+            "Halal"
+        ],
+        "Certifications & Compliance": [
+            "Organic Certified",
+            "Kosher",
+            "Vegan"
+        ],
+        "Benefit Claims (Health)": [
+            "Improves Psychological Function",
+            "Stimulates Red Blood Cell Formation",
+            "Anti-Fatigue",
+            "Improves Cell Division",
+            "Stimulates Immune System",
+            "Increases Vital Energy",
+            "Nervous Systems Support"
+        ]
+    }
+}

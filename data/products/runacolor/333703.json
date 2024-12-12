@@ -1,0 +1,35 @@
+{
+    "id": 333703,
+    "brand": "runacolor",
+    "name": "MOLTOPREN®",
+    "slug": "moltopren",
+    "description": "MOLTOPREN® pastes can be used in a wide variety of areas. In the polyurethane industry they are specially recommended for the universal coloring of block foam (esters and ethers). They are also used in PMMA sheet goods and PU adhesives.",
+    "company_name": "ISL-Chemie",
+    "company_slug": "isl-chemie",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708687054/production/Brand/24581/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608760/production/CategoryImage/576/category_image/AutomotiveTransportation_04.jpg",
+    "properties": {
+        "Applications": [
+            "Furniture",
+            "Footwear",
+            "Interior",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Functional Additives",
+            "Dispersions & Masterbatches",
+            "Additives",
+            "Pigments & Colorants"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Colorant",
+            "Optical Brightener"
+        ],
+        "Compatible Polymers & Resins": [
+            "Poly(Methyl Methacrylate) (PMMA)",
+            "Polyurethanes (PU)"
+        ]
+    }
+}

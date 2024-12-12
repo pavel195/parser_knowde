@@ -1,0 +1,59 @@
+{
+    "id": 95684,
+    "brand": "sanprene",
+    "name": "ECONOL TM-22",
+    "slug": "econol-tm-22",
+    "description": "ECONOL TM-22 is a hair conditioner base containing approx. 45 wt % alkyltrimethyl-ammonium chloride as an active ingredient, and approx. 55 wt % alcohol, composed from cetyl alcohol and stearyl alcohol (50/50 mixture), as a solvent. ECONOL TM-22 can be used as a hair conditioner base, because it imparts excellent detangling and moisture retention abilities and softness to hair. This product is easily applicable as a base material of hair conditioners and hair treatments, because it contains no low-boiling-point solvents including isopropanol.",
+    "company_name": "Sanyo Chemical America Incorporated",
+    "company_slug": "sanam-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708687869/production/Product/95684/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708687869/production/Product/95684/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Hair Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Conditioners & Emollients",
+            "Hair Actives",
+            "Cosmetic Actives",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Stearyl Alcohol",
+            "Cetearyl Alcohol",
+            "Behentrimonium Chloride"
+        ],
+        "End Uses": [
+            "Detanglers",
+            "Hair Treatment & Repair",
+            "Hair Conditioner"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Cetearyl Alcohol",
+            "Stearyl Alcohol",
+            "Behentrimonium Chloride"
+        ],
+        "Functions": [
+            "Conditioner",
+            "Anti-Static Agent"
+        ],
+        "Labeling Claims": [
+            "Credo Clean Standard",
+            "Clean at Sephora",
+            "Low Toxicity",
+            "Biodegradable"
+        ],
+        "Benefit Claims": [
+            "Detangling",
+            "Moisture Retention",
+            "Hair Conditioning",
+            "Static Reduction",
+            "Hair Softening",
+            "Low-Irritation",
+            "Excellent Softness"
+        ]
+    }
+}

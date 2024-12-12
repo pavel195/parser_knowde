@@ -1,0 +1,50 @@
+{
+    "id": 406779,
+    "brand": "spectonite",
+    "name": "SPECTONITE",
+    "slug": "spectonite",
+    "description": "SPECTONITE is a high solid, low VOC, water-based weatherproof masonry coating for exterior concrete, masonry and stucco. It is available in a wide range of colors and in a smooth or sand textured finish. SPECTONITE is recommended for all exposed concrete, brick, masonry and stucco walls, soffits, beams, columns and ceilings.",
+    "company_name": "A.R. Monteith Corporation",
+    "company_slug": "a-r-monteith-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520309/production/Brand/31352/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608490/production/CategoryImage/563/category_image/BuildingConstruction_07.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Infrastructure, Roads & Paving",
+            "Decorative Paints, Coatings & Stains",
+            "Building Envelope & Roofing",
+            "Waterproofing & Weatherproofing",
+            "Pavement, Highways, Roads & Bridges"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Other Paints & Coatings"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Waterborne Coating",
+            "Solventless & High Solids Coating"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Brick",
+            "Concrete",
+            "Masonry"
+        ],
+        "Features": [
+            "Long Shelf Life",
+            "Acid Resistant",
+            "Salt Resistance",
+            "Low VOC",
+            "Good Smoothness",
+            "Freeze/Thaw Stability"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    }
+}

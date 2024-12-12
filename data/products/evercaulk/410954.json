@@ -1,0 +1,65 @@
+{
+    "id": 410954,
+    "brand": "evercaulk",
+    "name": "Evercoat HT-QS",
+    "slug": "evercoat-ht-qs",
+    "description": "Evercoat HT-QS is quickset high tensile acrylic elastomeric roof coating.",
+    "company_name": "Everest Systems",
+    "company_slug": "everest-systems",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520344/production/Brand/31953/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608465/production/CategoryImage/561/category_image/BuildingConstruction_05.jpg",
+    "properties": {
+        "Applications": [
+            "Roofing",
+            "Building & Construction",
+            "Roof Coatings",
+            "Building Envelope & Roofing",
+            "Waterproofing & Weatherproofing",
+            "Wood Coatings & Finishes",
+            "Concrete Coatings & Stains"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Elastomeric Coating",
+            "Solventless & High Solids Coating",
+            "1K (1 component) Coating",
+            "Waterborne Coating"
+        ],
+        "Features": [
+            "Breathable",
+            "Excellent Substrate Adhesion",
+            "Good Weather Stability",
+            "Fast Setting",
+            "Durable",
+            "High Tensile Strength",
+            "Excellent Dirt Pick-up Resistance",
+            "Good Color Stability",
+            "Cost Effective",
+            "UV Resistant"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Polyurethane",
+            "Polyvinyl Chloride (PVC)",
+            "Metal",
+            "Concrete",
+            "Wood",
+            "Plastics"
+        ],
+        "Application Method": [
+            "Spray",
+            "Roller",
+            "Brush"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    }
+}

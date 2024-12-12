@@ -1,0 +1,48 @@
+{
+    "id": 313051,
+    "brand": "flav-r-bites",
+    "name": "Nutri-Crisps®",
+    "slug": "nutri-crisps",
+    "description": "Nutri-Crisps® is a extruded dry plant-based protein crisps used in granola bars, clusters, etc.",
+    "company_name": "CII",
+    "company_slug": "cii",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686634816/production/Product/313051/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608224/production/CategoryImage/551/category_image/AgricultureFeed_07.jpg",
+    "properties": {
+        "Applications": [
+            "Food",
+            "Nutrition & Well Being",
+            "Cereals & Snacks",
+            "Functional Foods"
+        ],
+        "Product Families": [
+            "Nutrition & Fortification",
+            "Plant Proteins",
+            "Texture & Consistency",
+            "Proteins & Amino Acids",
+            "Texturizers"
+        ],
+        "End Uses": [
+            "Nutritional Bars",
+            "Granola"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Protein Blend"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Plant Origin"
+        ],
+        "Labeling Claims": [
+            "Non-GMO",
+            "Organic",
+            "Plant-Based",
+            "Kosher",
+            "Naturally Derived",
+            "Gluten-free",
+            "Sugar-free"
+        ]
+    }
+}

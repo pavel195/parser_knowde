@@ -1,0 +1,30 @@
+{
+    "id": 400293,
+    "brand": "xceltherm",
+    "name": "XCELTHERM® CA Plus",
+    "slug": "xceltherm-ca-plus",
+    "description": "XCELTHERM® CA Plus is targeted for use in heat transfer fluid applications that require prolonged life in systems that are open to the atmosphere and subject to accelerated oxidation up to 450° F. Our advanced mineral base oils and proprietary inhibitor package enables Radco to offer a superior product for the Die Casting, Injection Molding and Extruder Markets.",
+    "company_name": "Radco Industries, Inc.",
+    "company_slug": "radco-industries-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680110349/production/Company/7630/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical & Industrial Manufacturing",
+            "Other Industrial Applications",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Heat Transfer Fluids",
+            "Fluids & Lubricants"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Heat Transfer Fluid"
+        ],
+        "Features": [
+            "Oxidation Resistant"
+        ]
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "id": 351360,
+    "brand": "akuapol",
+    "name": "Akuacure 8004N",
+    "slug": "akuacure-8004n",
+    "description": "Akuacure 8004N is a Anti-yellowing Water dispersible Polyisocyanate used as Adhesive, Paint and coating.",
+    "company_name": "T&L Polymer Technology Centre",
+    "company_slug": "t-l-polymer-technology-centre",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708696501/production/Brand/26226/logo/image",
+    "banner_url": "https://static.knowde.com/card-banners/knowde-card-for-raw-materials-8.jpg",
+    "properties": {
+        "Applications": [
+            "Textile Manufacturing",
+            "Leather Manufacturing",
+            "Other Leather Applications",
+            "Other Textile Applications",
+            "Other Paints & Coatings Applications",
+            "Other Adhesives & Sealants Applications",
+            "Leather",
+            "Textiles & Nonwovens",
+            "Leather & Textiles"
+        ],
+        "Product Families": [
+            "Functional Additives",
+            "Chain Extenders & Crosslinkers",
+            "Additives",
+            "Monomers & Intermediates"
+        ],
+        "Chemical Family": [
+            "Polyisocyanates",
+            "Aliphatics"
+        ],
+        "End Uses": [
+            "Waterborne Adhesive",
+            "2K (2 Component) Sealant",
+            "2K (2 Component) Adhesive",
+            "2K (2 component) Coating",
+            "Waterborne Coating"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Crosslinking Agent",
+            "Coupling Agent",
+            "Adhesion Promoter"
+        ],
+        "Chemical Family": [
+            "Aliphatics",
+            "Polyisocyanates"
+        ],
+        "Compatible Polymers & Resins": [
+            "Polyurethanes (PU)"
+        ],
+        "Features": [
+            "Excellent Weatherability",
+            "Water Resistance",
+            "Improves Adhesion",
+            "Heat Resistance",
+            "Improved Hardness",
+            "Yellowing Resistance",
+            "Abrasion Resistance",
+            "Good Hydrolysis Resistance",
+            "Improved Chemical Resistance"
+        ]
+    }
+}

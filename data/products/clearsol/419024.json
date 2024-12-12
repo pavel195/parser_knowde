@@ -1,0 +1,41 @@
+{
+    "id": 419024,
+    "brand": "clearsol",
+    "name": "ClearSol CHLOR LF",
+    "slug": "clearsol-chlor-lf",
+    "description": "ClearSol CHLOR LF is a low-foaming surfactant system that is readily soluble in 12% active sodium hypochlorite (bleach) solutions as well as other oxidizers, including hydrogen peroxide. ClearSol CHLOR LF also provides extremely low foam properties, making this product suitable for many industrial cleaning processes, including spray cleaning. ClearSol CHLOR LF contributes to quick dynamic surface tension lowering resulting in fast wetting and spreading on various hydrophobic substrates.",
+    "company_name": "Clear Solutions USA",
+    "company_slug": "clear-solutions-usa",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1713789628/production/Brand/33236/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1713789628/production/Company/28942/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Surface Care",
+            "Vehicle & Machinery",
+            "Industrial Cleaning",
+            "Home Care",
+            "Institutional & Industrial Care"
+        ],
+        "Product Families": [
+            "Blends & Other Surfactants",
+            "Soaps & Surfactants"
+        ],
+        "End Uses": [
+            "Car Cleaners",
+            "Truck Wash",
+            "Dairy Cleaners",
+            "Brewery Cleaners",
+            "Alkaline Cleaners",
+            "Coating Remover",
+            "Acid Cleaners"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Surfactant"
+        ],
+        "Labeling Claims": [
+            "Not Listed In California Proposition 65"
+        ]
+    }
+}

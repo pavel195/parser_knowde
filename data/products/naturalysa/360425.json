@@ -1,0 +1,48 @@
+{
+    "id": 360425,
+    "brand": "naturalysa",
+    "name": "Naturalysa IM",
+    "slug": "naturalysa-im",
+    "description": "Naturalysa IM is a premixed based Stevia extract used to reduce the sugar in a wide range of food products by 75 %. This range is tailored and does not contribute to the structure of the product.",
+    "company_name": "HS Ingredients dba SWT Stevia",
+    "company_slug": "hs-ingredients-dba-swt-stevia",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708688299/production/Brand/26910/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607274/production/CategoryImage/514/category_image/FoodNutrition_14.jpg",
+    "properties": {
+        "Applications": [
+            "Confectionery",
+            "Desserts & Fruit Preparations",
+            "Food"
+        ],
+        "Product Families": [
+            "Alternates & Replacements",
+            "Sweeteners & Syrups",
+            "Taste & Flavor",
+            "Whole Foods, Extracts & Premixes"
+        ],
+        "End Uses": [
+            "Confectionery Products",
+            "Desserts"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Stevia Extract"
+        ],
+        "Functions": [
+            "Sugar Substitute",
+            "Nutritive Sweetener"
+        ],
+        "Labeling Claims": [
+            "Kosher",
+            "Halal"
+        ],
+        "Certifications & Compliance": [
+            "Halal",
+            "GFSI Certified",
+            "Kosher",
+            "FSSC 22000",
+            "EU Compliant"
+        ]
+    }
+}

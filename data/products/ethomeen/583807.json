@@ -1,0 +1,44 @@
+{
+    "id": 583807,
+    "brand": "ethomeen",
+    "name": "Eka® SC",
+    "slug": "eka-sc",
+    "description": "Eka® SC is sodium chlorate, a white to off-white crystalline material in its dry form.",
+    "company_name": "Nouryon",
+    "company_slug": "nouryon",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1624302934/production/Company/4/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1624302766/production/Company/4/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Chemical Manufacturing",
+            "Pulping & Processing",
+            "Mining",
+            "Water Treatment",
+            "Chemical & Industrial Manufacturing",
+            "Oil, Gas & Mining",
+            "Paper & Pulp",
+            "Power, Water & Utilities"
+        ],
+        "Product Families": [
+            "Other Functional Additives",
+            "Inorganics",
+            "Functional Additives",
+            "Technical Salts & Inorganics"
+        ],
+        "Chemical Family": [
+            "Sodium Salts",
+            "Chlorates"
+        ],
+        "End Uses": [
+            "Bleach"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Sodium Chlorate"
+        ],
+        "CAS Number": [
+            "7775-09-9"
+        ]
+    }
+}

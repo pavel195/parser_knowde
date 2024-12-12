@@ -1,0 +1,28 @@
+{
+    "id": 321774,
+    "brand": "hybricor",
+    "name": "Inhibicor 1000",
+    "slug": "inhibicor-1000",
+    "description": "Inhibicor 1000 is excellent for aircraft aluminum and extremely reactive which needs to be taken into consideration when formulating.",
+    "company_name": "WPC Technologies",
+    "company_slug": "wpc-technologies",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708516816/production/Company/27350/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608640/production/CategoryImage/572/category_image/PaintingsCoatings_08.jpg",
+    "properties": {
+        "Applications": [
+            "Aerospace & Aviation",
+            "Aerospace Coatings",
+            "Coatings & Finishes",
+            "Transportation",
+            "Automotive & Transportation"
+        ],
+        "Product Families": [
+            "Corrosion Inhibiting Pigments",
+            "Functional Pigments"
+        ],
+        "End Uses": [
+            "Hybrid Coating"
+        ]
+    },
+    "summary": {}
+}

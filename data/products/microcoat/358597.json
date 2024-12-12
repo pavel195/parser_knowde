@@ -1,0 +1,41 @@
+{
+    "id": 358597,
+    "brand": "microcoat",
+    "name": "Microcoat® 2000",
+    "slug": "microcoat-2000",
+    "description": "Microcoat® 2000 is specifically developed, chemically pure proprietary blend of aluminum oxide providing proper density, adherence and low porosity characteristics required for dry-etching and ion implanting.",
+    "company_name": "A&A Coatings",
+    "company_slug": "a-a-coatings",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664290929/production/Brand/26743/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607618/production/CategoryImage/522/category_image/ElectricalElectronics_07.jpg",
+    "properties": {
+        "Applications": [
+            "Parts & Components",
+            "Semiconductor Manufacturing"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ],
+        "Chemical Family": [
+            "Blends & Combinations"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Coating"
+        ],
+        "Features": [
+            "High Reliability",
+            "Low Porosity",
+            "Enhanced Yields"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Ceramic"
+        ],
+        "Chemical Family": [
+            "Blends & Combinations"
+        ]
+    }
+}

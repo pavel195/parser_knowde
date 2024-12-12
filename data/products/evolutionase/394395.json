@@ -1,0 +1,31 @@
+{
+    "id": 394395,
+    "brand": "evolutionase",
+    "name": "Atomes DE SCALE",
+    "slug": "atomes-de-scale",
+    "description": "Atomes De Scale is a powerful cleaning and descaler based on hydrochloric acid. DE SCALE also contains a CORROSION inhibitor to protect carbon steel, copper, and brass from acid attack. This inhibitor also acts as a penetrant and dispersant, enhancing the acid's effectiveness. DE SCALE is a product that can be used to dissolve lime scale (calcium carbonate) deposits in boilers, calorifiers, and heat exchangers.",
+    "company_name": "Atomes",
+    "company_slug": "atomes",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664291843/production/Company/49452/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515647/production/CategoryImage/1055/category_image/HII_07.jpg",
+    "properties": {
+        "Applications": [
+            "Institutional & Industrial Care",
+            "Industrial Cleaning"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Industrial Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Acid Cleaners",
+            "Descalers"
+        ],
+        "Features": [
+            "Non Corrosive",
+            "Protects Metal Surfaces"
+        ]
+    }
+}

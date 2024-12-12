@@ -1,0 +1,42 @@
+{
+    "id": 316949,
+    "brand": "azsa",
+    "name": "Asturiana de Zinc, S.A.U. Liquid Sulfur Dioxide",
+    "slug": "asturiana-de-zinc-s-a-u-liquid-sulfur-dioxide",
+    "description": "Asturiana de Zinc, S.A.U. Liquid Sulfur Dioxide (SO2) is used in refineries for kerosene refining, lab chemicals manufacturing, paper bleaching, rayon pulp bleaching, leather chemical manufacturing etc. It is being supplied in cylinder tonners.",
+    "company_name": "Asturiana de Zinc, S.A.U.",
+    "company_slug": "asturiana-de-zinc-s-a-u",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704100333/production/Product/316949/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Pulping & Processing",
+            "Metal Manufacturing & Finishing",
+            "Food & Beverage Manufacturing",
+            "Processing & Packaging",
+            "Chemical & Industrial Manufacturing",
+            "Paper & Pulp"
+        ],
+        "Product Families": [
+            "Inorganics",
+            "Technical Salts & Inorganics"
+        ],
+        "Chemical Family": [
+            "Sulfur-based Compounds"
+        ],
+        "End Uses": [
+            "Refrigerator Applications"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Sulphur dioxide"
+        ],
+        "CAS Number": [
+            "7446-09-5"
+        ],
+        "Synonyms": [
+            "SO2, Sulfur Oxide, Sulfurous Acid Anhydride, Sulfurous Anhydride, Sulfurous Oxide"
+        ]
+    }
+}

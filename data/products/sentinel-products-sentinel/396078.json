@@ -1,0 +1,39 @@
+{
+    "id": 396078,
+    "brand": "sentinel-products-sentinel",
+    "name": "Sentinel 310 Fuel Oil Cleaner",
+    "slug": "sentinel-310-fuel-oil-cleaner",
+    "description": "Sentinel 310 Fuel Oil Cleaner is an environmentally friendly product designed to clean fuel oil and fuel oil residues found in both residential and commercial applications. Sentinel 310 Fuel Oil Cleaner is uniquely formulated to clean a variety of other soils as well including, dirt, dust, grease and lubricants. Sentinel 310 Fuel Oil Cleaner is powerful enough to handle the most difficult cleaning problems without compromising the safety of workers or environment.",
+    "company_name": "Sentinel Products",
+    "company_slug": "sentinel-products",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1670414849/production/Company/50293/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515671/production/CategoryImage/1057/category_image/HII_09.jpg",
+    "properties": {
+        "Applications": [
+            "Institutional & Industrial Care",
+            "Surface Care",
+            "Industrial Cleaning",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Industrial Cleaners",
+            "Commercial Cleaners",
+            "Cleaners"
+        ],
+        "End Uses": [
+            "Floor"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner",
+            "Degreasers"
+        ],
+        "Application Areas": [
+            "Floor"
+        ],
+        "Features": [
+            "Degreasing"
+        ]
+    }
+}

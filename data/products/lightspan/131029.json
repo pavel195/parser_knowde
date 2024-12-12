@@ -1,0 +1,30 @@
+{
+    "id": 131029,
+    "brand": "lightspan",
+    "name": "NuSil™ MED-1137",
+    "slug": "nusil-med-1137",
+    "description": "NuSil™ NuSil™ MED-1137 is a RTV silicone adhesive.",
+    "company_name": "NuSil Technology",
+    "company_slug": "nusil-technology",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697221078/production/Company/1345/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1697221078/production/Company/1345/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Medical Tapes & Adhesives",
+            "Medical Devices & Assemblies",
+            "Other Medical Applications",
+            "Medical"
+        ],
+        "Product Families": [
+            "Other Adhesives & Sealants",
+            "Adhesives & Sealants"
+        ],
+        "Chemical Family": [
+            "Silicones"
+        ],
+        "End Uses": [
+            "Drug Delivery Pens"
+        ]
+    },
+    "summary": {}
+}

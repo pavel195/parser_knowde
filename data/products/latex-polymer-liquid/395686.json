@@ -1,0 +1,37 @@
+{
+    "id": 395686,
+    "brand": "latex-polymer-liquid",
+    "name": "JETaFLOW™ Primer",
+    "slug": "jetaflow-primer",
+    "description": "JETaFLOW™ Primer has the advantages of improving the bond and spread of JETaFLOW self-leveling mortar and not re-emulsifying it.",
+    "company_name": "JE Tomes",
+    "company_slug": "je-tomes",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664291883/production/Company/49989/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608410/production/CategoryImage/557/category_image/BuildingConstruction_01.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Other Building Materials",
+            "Other Building & Construction Applications"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Primer"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Concrete"
+        ],
+        "Features": [
+            "Breathable",
+            "Good Bonding Strength"
+        ],
+        "Application Method": [
+            "Broom"
+        ]
+    }
+}

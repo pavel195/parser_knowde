@@ -1,0 +1,48 @@
+{
+    "id": 406515,
+    "brand": "valtron",
+    "name": "Valtron® DP211",
+    "slug": "valtron-dp211",
+    "description": "Valtron® DP211 is a Non-foaming high-purity alkaline detergent with a unique blend of amphoteric surfactants.",
+    "company_name": "Valtech Corporation",
+    "company_slug": "valtech-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292312/production/Brand/31323/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608962/production/CategoryImage/587/category_image/AdhesivesSealants_04.jpg",
+    "properties": {
+        "Applications": [
+            "Institutional & Industrial Care",
+            "Commercial Laundry",
+            "Industrial Cleaning",
+            "Vehicle & Machinery"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Industrial Cleaners",
+            "Commercial Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Automotive Cleaners",
+            "Detergents",
+            "Cleaner"
+        ],
+        "Certifications & Compliance": [
+            "ISO 9001",
+            "REACH (Europe)"
+        ],
+        "Application Areas": [
+            "Ultrasonic Cleaner",
+            "Equipment"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Stainless Steel"
+        ],
+        "Features": [
+            "High Purity",
+            "Non-Foaming",
+            "Corrosion Resistant"
+        ]
+    }
+}

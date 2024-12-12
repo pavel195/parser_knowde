@@ -1,0 +1,45 @@
+{
+    "id": 411261,
+    "brand": "enviro-coil",
+    "name": "Hydro Balance Corporation ENVIRO-SOLV",
+    "slug": "hydro-balance-corporation-enviro-solv",
+    "description": "ENVIRO-SOLV is a degreasing solvent designed for use by HVAC, refrigeration, and electrical technicians. It will remove oil, grease, and greasy grime from mechanical parts, sheet metal, coils, switches, motor armatures, and other surfaces safely and effectively.",
+    "company_name": "Hydro Balance Corporation",
+    "company_slug": "hydro-balance-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292334/production/Company/36132/logo/image.png",
+    "banner_url": "https://static.knowde.com/card-banners/knowde-card-for-raw-materials-8.jpg",
+    "properties": {
+        "Applications": [
+            "Home Care",
+            "Institutional & Industrial Care",
+            "Surface Care",
+            "Industrial Cleaning"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Industrial Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner",
+            "Degreasers"
+        ],
+        "Application Areas": [
+            "Coils",
+            "Machine Parts",
+            "Equipment"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal"
+        ],
+        "Certifications & Compliance": [
+            "SARA 313",
+            "Comprehensive Environmental Response, Compensations & Liability Act (CERCLA)"
+        ],
+        "Features": [
+            "Grime Cleaning",
+            "Degreasing"
+        ]
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "id": 379700,
+    "brand": "nutrispar",
+    "name": "DLG Food Oil Vilofoss Vital",
+    "slug": "dlg-food-oil-vilofoss-vital",
+    "description": "DLG Food Oil Vilofoss Vital improves the immune defense and boosts performance.",
+    "company_name": "DLG Food Oil",
+    "company_slug": "dlg-food-oil",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708689368/production/Company/45689/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608150/production/CategoryImage/545/category_image/AgricultureFeed_01.jpg",
+    "properties": {
+        "Applications": [
+            "Other Animal Health & Nutrition",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Immunomodulators",
+            "Health & Well-Being"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Immunomodulator"
+        ],
+        "Features": [
+            "Improves Performance",
+            "Improves Feed Intake",
+            "Reduces Heat Stress"
+        ]
+    }
+}

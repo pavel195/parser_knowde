@@ -1,0 +1,51 @@
+{
+    "id": 344460,
+    "brand": "truoliv",
+    "name": "Ginfort®",
+    "slug": "ginfort",
+    "description": "Ginfort® is a powdered, light orange to light brown formulation, comprising 26% potent gingeroids extracted via CO₂. This patented activity has been clinically studied and is designed to promote healthy stomach and upper gut function, as well as support women's reproductive health, even at low doses.",
+    "company_name": "DolCas Biotech",
+    "company_slug": "dolcas-biotech",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1711435795/production/Brand/25635/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625605156/production/CategoryImage/441/category_image/CleaningIngredients_06.jpg",
+    "properties": {
+        "Applications": [
+            "Oral",
+            "Drug Delivery & Care Solutions"
+        ],
+        "Product Families": [
+            "Phytochemicals",
+            "Functional Ingredients",
+            "Supplements & Functional Ingredients",
+            "Phytochemicals & Plant Extracts",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "Ingredient Name": [
+            "Ginger Root Extract"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Ginger Root Extract"
+        ],
+        "Active Component": [
+            "Gingerols",
+            "Shogaols"
+        ],
+        "Functions": [
+            "Phytochemical",
+            "Supplement",
+            "Supplement"
+        ],
+        "Ingredient Origin": [
+            "Plant Origin",
+            "Natural Origin"
+        ],
+        "Labeling Claims": [
+            "Solvent-free",
+            "Naturally Derived",
+            "Plant-Based"
+        ]
+    }
+}

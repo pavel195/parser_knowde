@@ -1,0 +1,24 @@
+{
+    "id": 405783,
+    "brand": "u-s-polychemical-corporation-polychem",
+    "name": "POLYCHEM® Zilch",
+    "slug": "polychem-zilch",
+    "description": "POLYCHEM® Zilch is a mildly alkaline all-purpose cleaner and degreaser. This powerful degreaser is the environmentally preferred solution for all degreasing tasks. A synergistic blend of unique surfactants produces a formula that has the ability to remove soils such as oils, grease, metal working fluids, drawing compounds, polishing and buffing compounds.",
+    "company_name": "U. S. Polychemical Corporation",
+    "company_slug": "u-s-polychemical-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697223158/production/Brand/31148/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515602/production/CategoryImage/1051/category_image/HII_03.jpg",
+    "properties": {
+        "Applications": [
+            "Surface Care",
+            "Industrial Cleaning",
+            "Home Care",
+            "Institutional & Industrial Care"
+        ],
+        "Product Families": [
+            "Industrial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {}
+}

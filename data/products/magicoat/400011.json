@@ -1,0 +1,47 @@
+{
+    "id": 400011,
+    "brand": "magicoat",
+    "name": "Sapphire® BT Series Pad Printing Ink",
+    "slug": "sapphire-bt-series-pad-printing-ink",
+    "description": "BT Series pad printing ink is a high-gloss, easy-to-process, all-purpose 1- or 2-component pad printing ink. Adhere to a wide range of substrates such as ABS, SAN, acrylic, cellulose acetate butyrate, paper, corrugated board, polystyrene, polycarbonate, polyester foil, polyethylene, polypropylene (pre-treated), soft &amp; hard PVC, wood, and polyurethane.",
+    "company_name": "Inkcups",
+    "company_slug": "inkcups",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292249/production/Company/43730/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1664292249/production/Product/400011/card_banner/image.png",
+    "properties": {
+        "Product Families": [
+            "Other Inks",
+            "Inks & Pastes"
+        ]
+    },
+    "summary": {
+        "Compatible Substrates & Surfaces": [
+            "Wood",
+            "Paper",
+            "Plastics"
+        ],
+        "Features": [
+            "Fast Drying",
+            "Good Abrasion Resistance",
+            "Excellent Opacity",
+            "Easier Processing",
+            "High Gloss"
+        ],
+        "Color": [
+            "White",
+            "Pink",
+            "Black",
+            "Cyan",
+            "Magenta",
+            "Brown",
+            "Red",
+            "Yellow",
+            "Orange",
+            "Green"
+        ],
+        "Application Method": [
+            "Screen Coating",
+            "Pad Printing"
+        ]
+    }
+}

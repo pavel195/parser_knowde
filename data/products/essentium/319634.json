@@ -1,0 +1,51 @@
+{
+    "id": 319634,
+    "brand": "essentium",
+    "name": "ESSENTIUM PET-CF",
+    "slug": "essentium-pet-cf",
+    "description": "Essentium PET-CF is a 15% carbon fiber reinforced polyester filament made with Luvocom® 3F resin from Lehvoss. Polyethylene terephthalate (PET) is a semicrystalline polyester commonly used in soda bottles and automotive parts when reinforced with a fiber-filler. This material is one of the easiest filaments in our portfolio to print and has an outstanding price-to-performance ratio. PET-CF has a good balance of stiffness and strength, and when annealed it has temperature resistance of over 155˚C, and good chemical resistance for common solvents.",
+    "company_name": "Essentium",
+    "company_slug": "essentium",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686113036/production/Product/319634/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical & Industrial Manufacturing",
+            "Tooling & Moldmaking"
+        ],
+        "Product Families": [
+            "3D Printing Polymers",
+            "Thermoplastic Filament"
+        ],
+        "Chemical Family": [
+            "Polyethylene Terephthalate (PET)"
+        ],
+        "Polymer Name": [
+            "Polyethylene Terephthalate (PET)"
+        ],
+        "End Uses": [
+            "Molds/Dies/Tools",
+            "Automotive Exterior Parts",
+            "Prototyping",
+            "Automotive Interior Parts",
+            "Automotive Brackets",
+            "Electrical Housing"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyethylene Terephthalate (PET)"
+        ],
+        "End Uses": [
+            "Electrical Housing",
+            "Prototyping",
+            "Automotive Exterior Parts",
+            "Automotive Brackets",
+            "Molds/Dies/Tools",
+            "Automotive Interior Parts"
+        ],
+        "Density": [
+            "1400.0 - 1400.0 kg/m³"
+        ]
+    }
+}

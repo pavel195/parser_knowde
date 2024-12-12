@@ -1,0 +1,39 @@
+{
+    "id": 303607,
+    "brand": "brasmide",
+    "name": "BRASMIDE R 15",
+    "slug": "brasmide-r-15",
+    "description": "BRASMIDE R 15 is a reactive polyamide resin with high viscosity.",
+    "company_name": "SGS",
+    "company_slug": "sgs",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112252/production/Company/17927/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608611/production/CategoryImage/569/category_image/PaintingsCoatings_05.jpg",
+    "properties": {
+        "Applications": [
+            "Other Adhesives & Sealants Applications",
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Other Resins & Binders",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Polyamides"
+        ],
+        "End Uses": [
+            "Enamel"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Polyamides"
+        ],
+        "End Uses": [
+            "Enamel"
+        ],
+        "Features": [
+            "Excellent Adhesion",
+            "Improved Mechanical Resistance"
+        ]
+    }
+}

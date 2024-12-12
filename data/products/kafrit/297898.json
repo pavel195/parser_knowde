@@ -1,0 +1,48 @@
+{
+    "id": 297898,
+    "brand": "kafrit",
+    "name": "CONSTAB AT 07560 LD",
+    "slug": "kafrit-group-at-07560-ld",
+    "description": "CONSTAB AT 07560 LD is an amine-free product that provides short- and long-term antistatic effects at low humidity levels. It functions as an anti-static agent and is suitable for electrical and electronic equipment, printing, and packaging, as well as applications in food and beverage packaging, industrial and transport packaging, and housings and enclosures.",
+    "company_name": "Kafrit Group",
+    "company_slug": "kafrit-group",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708687754/production/Brand/33249/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625605472/production/CategoryImage/448/category_image/Plastics_07.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial & Transport Packaging",
+            "Food & Beverage Packaging",
+            "Housings & Enclosures",
+            "Parts & Components",
+            "Packaging"
+        ],
+        "Product Families": [
+            "Surface Modifiers",
+            "Additive Masterbatches",
+            "Masterbatches",
+            "Polymer Additives"
+        ],
+        "End Uses": [
+            "Enclosure",
+            "Food Packaging",
+            "Film",
+            "Electrical/Electronic Applications",
+            "Cast Films"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Anti-Static Agent"
+        ],
+        "Labeling Claims": [
+            "Amine-free"
+        ],
+        "Carrier": [
+            "Resin-based",
+            "Polyethylenes (PE)"
+        ],
+        "Features": [
+            "Anti-Static"
+        ]
+    }
+}

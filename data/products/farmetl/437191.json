@@ -1,0 +1,47 @@
+{
+    "id": 437191,
+    "brand": "farmetl",
+    "name": "FAR Chemical Sebacoyl Chloride (111-19-3)",
+    "slug": "far-chemical-sebacoyl-chloride-111-19-3",
+    "description": null,
+    "company_name": "FAR Chemical, Inc.",
+    "company_slug": "far-chemical",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709127871/production/Company/46012/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1626797274/production/CategoryImage/957/category_image/BaseChemicals_05.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical Manufacturing",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Other Intermediates",
+            "Intermediates"
+        ],
+        "Chemical Family": [
+            "Acyl Halides",
+            "Sebacates"
+        ],
+        "End Uses": [
+            "Polyamide",
+            "Organic Synthesis"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Sebacoyl Chloride"
+        ],
+        "CAS Number": [
+            "111-19-3"
+        ],
+        "Chemical Family": [
+            "Acyl Halides",
+            "Sebacates"
+        ],
+        "Functions": [
+            "Intermediate"
+        ],
+        "Purity (Assay)": [
+            "93.0 - 98.0 %"
+        ]
+    }
+}

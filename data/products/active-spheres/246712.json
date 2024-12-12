@@ -1,0 +1,56 @@
+{
+    "id": 246712,
+    "brand": "active-spheres",
+    "name": "Biocosmethic Organic Aloe Vera Powder 200/1",
+    "slug": "biocosmethic-organic-aloe-vera-powder-200-1",
+    "description": "Organic Aloe Vera Powder 200/1 is a freeze dried powder obtained from the internal parenchyma of the Aloe vera leaves, harvested from organic crop.",
+    "company_name": "Biocosmethic",
+    "company_slug": "biocosmethic",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708699034/production/Product/246712/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708699034/production/Product/246712/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Skin Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Botanical Ingredients & Extracts",
+            "Skin Actives",
+            "Conditioners & Emollients",
+            "Sensory Modifiers",
+            "Hair Actives",
+            "Cosmetic Actives",
+            "Vitamins, Extracts & Oils",
+            "Functionals"
+        ],
+        "Chemical Family": [
+            "Botanical Extracts"
+        ],
+        "INCI Name": [
+            "Aloe Barbadensis Leaf Juice Powder"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Aloe Barbadensis Leaf Juice Powder"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Plant Origin"
+        ],
+        "Functions": [
+            "Soothing Agent",
+            "Emollient"
+        ],
+        "Labeling Claims": [
+            "Credo Clean Standard",
+            "Organic"
+        ],
+        "Benefit Claims": [
+            "Nourishing",
+            "Emolliency",
+            "Soothing",
+            "Moisturizing"
+        ]
+    }
+}

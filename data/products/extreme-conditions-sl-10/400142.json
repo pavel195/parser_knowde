@@ -1,0 +1,47 @@
+{
+    "id": 400142,
+    "brand": "extreme-conditions-sl-10",
+    "name": "Moist-Out MO-10™",
+    "slug": "moist-out-mo-10",
+    "description": "Moist-Out MO-10™ is a light spray lubricant, demoisturant and penetrant formulated into one superior product. It has excellent penetrating abilities that drive out moisture for quick, thorough moisture displacement, provides longlasting lubrication, and protects from rust and corrosion.",
+    "company_name": "Muscle Products",
+    "company_slug": "muscle-products",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1682593087/production/Company/51029/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Powertrain & UTH",
+            "Other Electrical & Electronics Applications",
+            "Chemical & Industrial Manufacturing",
+            "Automotive ",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Lubricants & Oils",
+            "Fluids & Lubricants"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Penetrating Oils",
+            "Oil"
+        ],
+        "Application Area": [
+            "Hinges",
+            "Gears",
+            "Electrical Components",
+            "Cams",
+            "Chain Conveyors",
+            "Electric Motors",
+            "Bearings"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal"
+        ],
+        "Features": [
+            "Good Moisture Resistance",
+            "Corrosion Resistant",
+            "Good Penetration"
+        ]
+    }
+}

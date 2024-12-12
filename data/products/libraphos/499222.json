@@ -1,0 +1,64 @@
+{
+    "id": 499222,
+    "brand": "libraphos",
+    "name": "Libraquat PQ7",
+    "slug": "libraquat-pq7",
+    "description": "Libraquat PQ7 is a clear, colorless solution comprising a cationic copolymer of diallyldimethylammonium chloride and acrylamide. This product offers a bland odor and serves various purposes. It functions as an excellent emollient for skin cleansers, providing a smooth, silky feel to the hands when incorporated into liquid hand soap formulas. Libraquat PQ7 is also highly effective as a hair detangler, making wet-combing easier, and it adds softness and shine to dry hair.",
+    "company_name": "Libra Speciality Chemicals",
+    "company_slug": "libra-speciality-chemicals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1696607086/production/Company/19248/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1696607072/production/Company/19248/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Skin Care",
+            "Hair Care",
+            "Bath & Shower",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Hair Actives",
+            "Conditioners & Emollients",
+            "Cosmetic Actives",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Polyquaternium-7"
+        ],
+        "End Uses": [
+            "Skin Cleanser",
+            "Shampoos & Rinses",
+            "Hair Conditioner",
+            "Detanglers",
+            "Shower Gels"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Polyquaternium-7"
+        ],
+        "Functions": [
+            "Emollient",
+            "Conditioner",
+            "Detangler"
+        ],
+        "Certifications & Compliance": [
+            "ISO 14001",
+            "ISO 9001",
+            "ISO 45001"
+        ],
+        "Benefit Claims": [
+            "Skin Conditioning",
+            "Gloss",
+            "Silky Feel",
+            "Enhanced Slip",
+            "Good Wet Combing",
+            "Hair Conditioning",
+            "Emolliency",
+            "Detangling",
+            "Hair Softening",
+            "Cleaning",
+            "Shine & Radiance",
+            "Smoothing"
+        ]
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "id": 304646,
+    "brand": "00137-grande-ricotta-prima-dolce",
+    "name": "Grande Cheese 00161-Grande Fior di Latte Ciliegine",
+    "slug": "grande-cheese-00161-grande-fior-di-latte-ciliegine",
+    "description": "Grande Cheese 00161-Grande Fior di Latte Ciliegine made with specially selected cultures for flavor characteristics reminiscent of fresh mozzarella handmade in the Italian countryside, Grande Ciliegine (\"Little Cherries\") Fresh Mozzarella measures approximately 1/3 ounce. All natural - without any preservatives, fillers or artificial ingredients.",
+    "company_name": "Grande Cheese",
+    "company_slug": "grande-cheese",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686634749/production/Company/18916/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607305/production/CategoryImage/515/category_image/FoodNutrition_15.jpg",
+    "properties": {
+        "Applications": [
+            "Food",
+            "Bakery",
+            "Convenience Foods",
+            "Desserts & Fruit Preparations",
+            "Meat, Poultry & Seafood",
+            "Savory & Culinary"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Dairy Products"
+        ],
+        "End Uses": [
+            "Toppings",
+            "Pasta",
+            "Burgers & Patty",
+            "Processed Meat Products",
+            "Pasta Sauces",
+            "Sauces",
+            "Desserts",
+            "Packaged Wraps",
+            "Packaged Salads",
+            "Pizza",
+            "Packaged Sandwiches"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Mozzarella Cheese"
+        ],
+        "Labeling Claims": [
+            "Preservative-free",
+            "Additive-free"
+        ],
+        "Features": [
+            "Improved Mouthfeel",
+            "High Quality",
+            "Excellent Mouthfeel",
+            "Good Consistency"
+        ]
+    }
+}

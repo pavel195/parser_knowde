@@ -1,0 +1,43 @@
+{
+    "id": 419533,
+    "brand": "ens",
+    "name": "SDF™ Top Coat",
+    "slug": "sdf-top-coat",
+    "description": "SDF™ Top Coat is a highly protective, exceptionally durable finish for application as the second, final or maintenance coat to SDF coated surfaces. SDF Topcoat will build a low luster, natural finish. It is UV stable, water-repellent, low in VOC’s, and non-flammable with easy soap and water cleanup. SDF Topcoat will not crack, peel or blister. Maintenance applications can be planned every four to six years on vertical surfaces depending on the number of coats applied.",
+    "company_name": "The Sansin Corporation",
+    "company_slug": "the-sansin-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1682593269/production/Brand/32920/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608454/production/CategoryImage/560/category_image/BuildingConstruction_04.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Fence, Decks & Rails"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Top Coats"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Top Coat"
+        ],
+        "Application Area": [
+            "Siding",
+            "Furniture"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Wood"
+        ],
+        "Features": [
+            "Low VOC",
+            "Peel Resistance",
+            "Moisture Barrier",
+            "Excellent Water Repellency ",
+            "Durable",
+            "Satin Finish",
+            "Excellent UV Stability",
+            "Crack Resistant"
+        ]
+    }
+}

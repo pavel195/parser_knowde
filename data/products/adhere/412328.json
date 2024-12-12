@@ -1,0 +1,39 @@
+{
+    "id": 412328,
+    "brand": "adhere",
+    "name": "IntraCrop Prosper ST",
+    "slug": "intracrop-prosper-st",
+    "description": "Prosper ST contains potassium phosphite combined with a range of nutrients in a readily compatible seed treatment formulation. When applied to seed, it increases the level of the cytokinin cis-Zeatin that boosts both primary and lateral root growth. A typical response is a 30% increase in root biomass. New research has also demonstrated an increase in nitrate reductase activity resulting in increased nitrogen assimilation and shoot growth.",
+    "company_name": "IntraCrop",
+    "company_slug": "intracrop",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292494/production/Company/54991/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608150/production/CategoryImage/545/category_image/AgricultureFeed_01.jpg",
+    "properties": {
+        "Applications": [
+            "Agricultural Crops",
+            "Turf, Ornamentals & Landscape",
+            "Cereals",
+            "Fodder & Forage",
+            "Oilseeds",
+            "Sugar & Starch Crops",
+            "Ornamentals"
+        ],
+        "Product Families": [
+            "Crop Protection & Pest Control",
+            "Seed Treatments"
+        ]
+    },
+    "summary": {
+        "Application Technique": [
+            "Foliage Applied"
+        ],
+        "Features": [
+            "Nitrogen Accumulating",
+            "Improves Plant Growth",
+            "Good Roots Growth"
+        ],
+        "Labeling Claims": [
+            "Non-Flammable"
+        ]
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "id": 328690,
+    "brand": "pureon-vector",
+    "name": "Challenge 550-HT",
+    "slug": "challenge-550-ht",
+    "description": "Challenge 550-HT was developed for use in \"high-speed recirculating\" and \"high-speed once-through\" slurry pumping systems. Utilizing the energy of a high speed circulating pump, standard on most lapping machines, it evenly disperses aluminum oxide, cerium oxide, silicon carbide, boron carbide, and garnet abrasive. It also reduces abrasive usage by eliminating \"hard-packing\" and waste. It is a recirculating lapping additive for use on ceramics in the optic industry.",
+    "company_name": "Pureon",
+    "company_slug": "pureon",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1682593104/production/Brand/23677/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Lubricants & Functional Fluids",
+            "Automotive Fluids & Lubricants",
+            "Chemical & Industrial Manufacturing",
+            "Fluids & Lubricants"
+        ],
+        "Product Families": [
+            "Additives",
+            "Performance Additives"
+        ],
+        "Chemical Family": [
+            "Silica"
+        ],
+        "End Uses": [
+            "Grinding Fluids ",
+            "Suspension Fluids",
+            "Grinding Oils"
+        ]
+    },
+    "summary": {
+        "End Uses": [
+            "Grinding Fluids ",
+            "Grinding Oils",
+            "Suspension Fluids"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Ceramic"
+        ],
+        "Chemical Family": [
+            "Silica"
+        ],
+        "Features": [
+            "Water-based"
+        ]
+    }
+}

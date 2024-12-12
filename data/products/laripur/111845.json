@@ -1,0 +1,30 @@
+{
+    "id": 111845,
+    "brand": "laripur",
+    "name": "Laripur® LPR8025",
+    "slug": "laripur-lpr8025",
+    "description": "SERIES 25 SPECIAL ESTERProducts based on special grade saturated polyester. The features are similar to those of Series 20 but are characterized by a higher resistance to hydrolysis failure and improved flexibility at low temperatures.",
+    "company_name": "COIM Group",
+    "company_slug": "coim-group",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697223685/production/Company/2759/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1697223685/production/Company/2759/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Tooling & Moldmaking",
+            "Other Industrial Applications",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Thermoplastic Urethanes (TPU)",
+            "Thermoplastic Elastomers"
+        ],
+        "Chemical Family": [
+            "Thermoplastic Polyurethanes (TPU)",
+            "Polyurethanes (PU)"
+        ],
+        "Polymer Name": [
+            "Thermoplastic Polyurethane (unspecified)"
+        ]
+    },
+    "summary": {}
+}

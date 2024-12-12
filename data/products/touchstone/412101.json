@@ -1,0 +1,47 @@
+{
+    "id": 412101,
+    "brand": "touchstone",
+    "name": "Bonstone Materials Duropoxi",
+    "slug": "bonstone-materials-duropoxi",
+    "description": "Duropoxi is a two-component, 100% solids, chemical resistant, exterior grade epoxy adhesive. Non-sag gel epoxy.",
+    "company_name": "Bonstone Materials",
+    "company_slug": "bonstone-materials",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292340/production/Company/54892/logo/image.png",
+    "banner_url": "https://static.knowde.com/card-banners/knowde-card-for-raw-materials-8.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Structural Components",
+            "Pools & Landscaping",
+            "Decorative Materials & Finishes",
+            "Wallcoverings & Decorative Laminates"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Structural Adhesives"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Solvent free (100% Solids) Adhesive",
+            "Epoxy Adhesive",
+            "Structural Adhesive",
+            "2K (2 component) Adhesive"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Stone",
+            "Wood",
+            "Masonry"
+        ],
+        "Application Method": [
+            "Trowel"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    }
+}

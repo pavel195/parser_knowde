@@ -1,0 +1,51 @@
+{
+    "id": 405734,
+    "brand": "cor-ban",
+    "name": "Cor-Ban® D-5010NS",
+    "slug": "cor-ban-d-5010ns",
+    "description": "Cor-Ban® D-5010NS is a powerful penetrating oil and corrosion inhibitor used for small parts.",
+    "company_name": "Zip-Chem",
+    "company_slug": "zip-chem",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520469/production/Brand/31145/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608611/production/CategoryImage/569/category_image/PaintingsCoatings_05.jpg",
+    "properties": {
+        "Applications": [
+            "Coatings & Finishes",
+            "Lubricants & Functional Fluids",
+            "Packaging & Assembly",
+            "Wire & Cable",
+            "Aerospace Fluids & Lubricants",
+            "Jacketing & Insulation",
+            "Electronics Coatings",
+            "Automotive Fluids & Lubricants",
+            "Aerospace Coatings",
+            "Aerospace & Aviation",
+            "Chemical & Industrial Manufacturing",
+            "Transportation",
+            "Tooling & Moldmaking"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Lubricant"
+        ],
+        "Features": [
+            "Corrosion Resistant",
+            "Electrically Insulating",
+            "Wide Temperature Operating Range",
+            "Low Toxicity",
+            "Electrical Corrosion Resistant"
+        ],
+        "Application Area": [
+            "Wire Cables",
+            "Electrical Components"
+        ],
+        "Application Method": [
+            "Spray"
+        ]
+    }
+}

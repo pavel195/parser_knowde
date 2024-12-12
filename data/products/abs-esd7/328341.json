@@ -1,0 +1,56 @@
+{
+    "id": 328341,
+    "brand": "abs-esd7",
+    "name": "Solaxis PC-ISO",
+    "slug": "solaxis-pc-iso",
+    "description": "Solaxis PC-ISO an industrial thermoplastic, is biocompatible (ISO 10993 USP Class VI)* and can be gamma or EtO sterilized. PC-ISO is commonly used in food and drug packaging and medical device manufacturing because of the material’s strength and medical compatibility. When combined with a Fortus® 3D Printer, PC-ISO gives you parts that can be used for conceptual modeling, functional prototyping, and production parts.",
+    "company_name": "Solaxis",
+    "company_slug": "solaxis",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686113495/production/Company/32083/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Processing & Packaging",
+            "Medical",
+            "Other Automotive Applications",
+            "Other Processing & Packaging Applications",
+            "Other Medical Applications",
+            "Packaging",
+            "Food & Beverage Packaging",
+            "Chemical & Industrial Manufacturing",
+            "Automotive",
+            "Tooling & Moldmaking"
+        ],
+        "Product Families": [
+            "3D Printing Polymers",
+            "Other 3D Printing Polymers"
+        ],
+        "Chemical Family": [
+            "Polycarbonate (PC)"
+        ],
+        "Polymer Name": [
+            "Polycarbonate (PC)"
+        ],
+        "End Uses": [
+            "Prototyping",
+            "3D Printing Applications"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polycarbonate (PC)"
+        ],
+        "Processing Methods": [
+            "3D Printing"
+        ],
+        "End Uses": [
+            "3D Printing Applications",
+            "Prototyping"
+        ],
+        "Features": [
+            "High Durability",
+            "Very Good Heat Resistance",
+            "High Strength"
+        ]
+    }
+}

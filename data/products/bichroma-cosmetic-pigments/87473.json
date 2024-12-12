@@ -1,0 +1,52 @@
+{
+    "id": 87473,
+    "brand": "bichroma-cosmetic-pigments",
+    "name": "SD™ Duo-Bright-C",
+    "slug": "sd-duo-bright-c",
+    "description": "SD™ Duo-Bright-C is a cutting-edge cosmetic formulation featuring dual functionalities as an antioxidant and whitening agent. This innovation leverages advanced cosmetic ingredient technologies specifically designed for applications in personal care, including beauty and skincare products. Ideal for both skin and sun care applications, SD™ Duo-Bright-C ensures a synergistic blend of antioxidant protection and skin brightening.",
+    "company_name": "Sandream Specialties",
+    "company_slug": "sandream-specialties",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672427/production/Product/87473/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708672427/production/Brand/6299/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Skin Care",
+            "Sun Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Skin Actives",
+            "Vitamins & Derivatives",
+            "Cosmetic Actives",
+            "Vitamins, Extracts & Oils"
+        ],
+        "Chemical Family": [
+            "Heterocyclic Compounds",
+            "Ethers"
+        ],
+        "INCI Name": [
+            "3-O-Ethyl Ascorbic Acid"
+        ],
+        "End Uses": [
+            "Facial Moisturizer"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "3-O-Ethyl Ascorbic Acid"
+        ],
+        "Functions": [
+            "Whitening Agent",
+            "Antioxidant"
+        ],
+        "Labeling Claims": [
+            "Credo Clean Standard",
+            "Ulta Beauty's Conscious Beauty"
+        ],
+        "Benefit Claims": [
+            "Brightening",
+            "Skin Whitening",
+            "Antioxidant Properties"
+        ]
+    }
+}

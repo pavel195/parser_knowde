@@ -1,0 +1,29 @@
+{
+    "id": 442726,
+    "brand": "ferraroni-mangimi",
+    "name": "Ferraroni MANGIMI® Baby",
+    "slug": "ferraroni-mangimi-baby",
+    "description": "Ferraroni Mangimi® Baby is a feed for calves from birth to weaning.",
+    "company_name": "Ferraroni",
+    "company_slug": "ferraroni",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686126473/production/Company/64760/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608238/production/CategoryImage/552/category_image/AgricultureFeed_08.jpg",
+    "properties": {
+        "Applications": [
+            "Animal Health & Nutrition",
+            "Ruminants"
+        ],
+        "Product Families": [
+            "Formulated Feeds & Premixes",
+            "Formulated Feeds, Whole Foods and Extracts"
+        ]
+    },
+    "summary": {
+        "Animal Species": [
+            "Calves"
+        ],
+        "Certifications & Compliance": [
+            "ISO 22000"
+        ]
+    }
+}

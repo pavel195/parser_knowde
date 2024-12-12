@@ -1,0 +1,48 @@
+{
+    "id": 301446,
+    "brand": "peplpet",
+    "name": "PEPLPET B 101C PET",
+    "slug": "peplpet-b-101c-pet",
+    "description": "PEPLPET B 101C PET is a Pet Bottle Grade.",
+    "company_name": "Pearl Engineering",
+    "company_slug": "pearl-engineering",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697223253/production/Company/24289/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609117/production/CategoryImage/596/category_image/PrintingPackaging_07.jpg",
+    "properties": {
+        "Applications": [
+            "Food & Beverage Packaging",
+            "Industrial & Transport Packaging",
+            "Aerospace & Aviation",
+            "Other Automotive & Transportation Applications",
+            "Other Automotive Applications",
+            "Other Industrial Applications",
+            "Other Consumer Goods Applications",
+            "Food Films & Packaging",
+            "Other Agricultural Films",
+            "Agricultural Films",
+            "Automotive",
+            "Transportation",
+            "Flexible Packaging",
+            "Packaging"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Polyesters",
+            "Polyethylene Terephthalate (PET)"
+        ],
+        "Polymer Name": [
+            "Polyethylene Terephthalate (PET)"
+        ],
+        "End Uses": [
+            "Film",
+            "Stretch Films"
+        ]
+    },
+    "summary": {
+        "Density": [
+            "1390.0 - 1410.0 kg/m³"
+        ]
+    }
+}

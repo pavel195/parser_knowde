@@ -1,0 +1,54 @@
+{
+    "id": 271808,
+    "brand": "nytef-plastics-ultrapoly",
+    "name": "MECHETEC PPO",
+    "slug": "mechetec-ppo",
+    "description": "MECHETEC® PPO (blend of polyphenylene oxide and styrene) is an amorphous thermoplastic that offers a superior blend of physical strength, flame resistance, and outstanding electrical properties. Unlike many amorphous materials that tend to steadily lose strength as temperatures increase, MECHETEC® PPO maintains its high stiffness to temperatures in excess of 200°F. In addition, it’s low moisture absorption and low coefficient of thermal expansion contribute to it being one of the most dimensionally stable materials available. MECHETEC® PPO has an excellent V-0 UL-94 flame rating at thicknesses of 0.24\" and over. For applications that require improved strength and stiffness, 30% glass fiber filled is available. Formally known as Uninor PPO.",
+    "company_name": "Nytef Plastics",
+    "company_slug": "nytef-plastics",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686150061/production/Company/20795/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608779/production/CategoryImage/578/category_image/AutomotiveTransportation_06.jpg",
+    "properties": {
+        "Applications": [
+            "Parts & Components",
+            "Connectors",
+            "Housings & Enclosures",
+            "Aerospace & Aviation",
+            "Transportation"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Polymer Name": [
+            "PPO/PS Alloy"
+        ],
+        "End Uses": [
+            "Housings",
+            "Electrical Connectors",
+            "Automotive Instrument Panel",
+            "Electrical Insulation"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "PPO/PS Alloy"
+        ],
+        "Physical Form": [
+            "Rods",
+            "Sheets"
+        ],
+        "Features": [
+            "High Dielectric Strength",
+            "Good Thermal Stability",
+            "Dimensional Stability",
+            "Flame Resistant",
+            "Low Moisture Absorption"
+        ],
+        "Density": [
+            "1080.0 - 1080.0 kg/m³"
+        ],
+        "Tensile Modulus": [
+            "2551.05 - 2551.05 MPa"
+        ]
+    }
+}

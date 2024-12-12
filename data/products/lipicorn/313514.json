@@ -1,0 +1,33 @@
+{
+    "id": 313514,
+    "brand": "lipicorn",
+    "name": "Lipifrit",
+    "slug": "lipifrit",
+    "description": "Lipifrit is a special oil developed to resist high temperatures, providing a good nutritional profile for snacks.\r\n",
+    "company_name": "Lípidos Santiga S.A.",
+    "company_slug": "lipidos-santiga-s-a",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686109052/production/Product/313514/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606934/production/CategoryImage/504/category_image/FoodNutrition_05.jpg",
+    "properties": {
+        "Applications": [
+            "Food",
+            "Cereals & Snacks"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Edible Oils & Fats"
+        ],
+        "End Uses": [
+            "Snacks"
+        ]
+    },
+    "summary": {
+        "Physical Form": [
+            "Liquid"
+        ],
+        "Features": [
+            "High Quality",
+            "High Temperature Resistance"
+        ]
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "id": 193202,
+    "brand": "cosm-oil",
+    "name": "COSM’OIL® SFWD",
+    "slug": "cosmact-cosm-oil-sfwd",
+    "description": "The Cosm'Oil SFWD (Helianthus Annuus Seed Cera) is a high melting point sunflower crystalline wax (Helianthus annuus seed oil) organic certified.",
+    "company_name": "CosmAct",
+    "company_slug": "cosmact",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708673094/production/Product/193202/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708673094/production/Product/193202/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Color Cosmetics",
+            "Hair Care",
+            "Skin Care",
+            "Bath & Shower",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Fats, Butters & Waxes",
+            "Film Formers",
+            "Rheology Modifiers",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Helianthus Annuus (Sunflower) Seed Wax"
+        ],
+        "End Uses": [
+            "Body Cream",
+            "Body Lotion",
+            "Bar Soaps",
+            "Foundation",
+            "Lipstick",
+            "Mascara",
+            "Hair Masks",
+            "Lip Balm"
+        ],
+        "Labeling Claims": [
+            "Credo Clean Standard",
+            "Ulta Beauty's Conscious Beauty",
+            "Clean at Sephora",
+            "Natural",
+            "Organic"
+        ],
+        "Benefit Claims": [
+            "Skin Adhesion"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Helianthus Annuus (Sunflower) Seed Wax"
+        ],
+        "Functions": [
+            "Adhesion Promoter",
+            "Viscosity Modifier"
+        ],
+        "Ingredient Origin": [
+            "Plant Origin"
+        ],
+        "Labeling Claims": [
+            "Ulta Beauty's Conscious Beauty",
+            "Natural",
+            "Credo Clean Standard",
+            "Clean at Sephora",
+            "Organic"
+        ],
+        "Certifications & Compliance": [
+            "COSMOS",
+            "ECOCERT",
+            "Organic Certified"
+        ],
+        "Benefit Claims": [
+            "Skin Adhesion"
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "id": 544050,
+    "brand": "estecare-b15523b2-38fb-44a8-8566-db2d529fd2eb",
+    "name": "Harcros PPG 600",
+    "slug": "harcros-ppg-600",
+    "description": "Harcros PPG 600 is a versatile cleaning ingredient with surfactant, lubricant, and defoamer functions. This nonionic liquid offers good lubricating properties and defoaming capabilities. Nonylphenol-free and APE-free, it is ideal for industrial applications in chemical manufacturing.",
+    "company_name": "Harcros Chemicals Inc.",
+    "company_slug": "harcros-chemicals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1720680403/production/Product/544050/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical Manufacturing",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Foam Control Agents",
+            "Nonionic Surfactants",
+            "Other Processing Additives",
+            "Alcohols",
+            "Soaps & Surfactants",
+            "Functional Additives",
+            "Intermediates",
+            "Processing Aids"
+        ],
+        "Chemical Family": [
+            "Alcohols",
+            "Polypropylene Glycols"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Propylene Glycol",
+            "PPG 600"
+        ],
+        "CAS Number": [
+            "25322-69-4"
+        ],
+        "Labeling Claims": [
+            "Nonylphenol-free",
+            "APE-free"
+        ],
+        "Chemical Family": [
+            "Alcohols",
+            "Polypropylene Glycols"
+        ]
+    }
+}

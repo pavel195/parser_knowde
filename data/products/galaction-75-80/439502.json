@@ -1,0 +1,47 @@
+{
+    "id": 439502,
+    "brand": "galaction-75-80",
+    "name": "TIMIX® Ice Cream",
+    "slug": "timix-ice-cream",
+    "description": "TIMIX® Ice Cream is a 3 in 1 functional mix specifically developed for the formulation of ice cream. It is composed exclusively of ingredients of vegetable and dairy origin. It provides the following functionalities such as stabilizer, bulking agent, emulsifier and thus makes it possible to reduce the use of additives by replacing E471. It is also only composed of proteins of dairy origin, thus making it possible to comply with the regulations in force.",
+    "company_name": "Triballat Ingredients",
+    "company_slug": "triballat-ingredients",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708690596/production/Company/63651/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606914/production/CategoryImage/502/category_image/FoodNutrition_03.jpg",
+    "properties": {
+        "Applications": [
+            "Desserts & Fruit Preparations",
+            "Dairy",
+            "Food"
+        ],
+        "Product Families": [
+            "Carriers & Bulking Aids",
+            "Emulsifiers",
+            "Stabilizers",
+            "Functional Additives",
+            "Texture & Consistency"
+        ],
+        "End Uses": [
+            "Ice Cream"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Stabilizer",
+            "Emulsifier",
+            "Bulking Agent"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Vegetable Origin",
+            "Dairy Origin",
+            "Plant Origin"
+        ],
+        "Labeling Claims": [
+            "Naturally Derived"
+        ],
+        "Physical Form": [
+            "Powder"
+        ]
+    }
+}

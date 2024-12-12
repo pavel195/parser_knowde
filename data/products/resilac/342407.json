@@ -1,0 +1,36 @@
+{
+    "id": 342407,
+    "brand": "resilac",
+    "name": "PUTHANE 8154",
+    "slug": "puthane-8154",
+    "description": "PUTHANE 8154 is a aqueous polyurethane dispersion.",
+    "company_name": "C&E Limited",
+    "company_slug": "c-e",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112329/production/Brand/25317/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608585/production/CategoryImage/567/category_image/PaintingsCoatings_03.jpg",
+    "properties": {
+        "Applications": [
+            "Infrastructure, Roads & Paving",
+            "Building & Construction",
+            "Coatings & Markings"
+        ],
+        "Product Families": [
+            "Resins & Binders",
+            "Polyurethanes (PU)"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ],
+        "End Uses": [
+            "Waterborne Coating"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ],
+        "End Uses": [
+            "Waterborne Coating"
+        ]
+    }
+}

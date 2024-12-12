@@ -1,0 +1,42 @@
+{
+    "id": 347212,
+    "brand": "diamond-k",
+    "name": "Blue Star® Mochiko Sweet Rice Flour",
+    "slug": "blue-star-mochiko-sweet-rice-flour",
+    "description": "Blue Star® Mochiko Sweet Rice Flour is a Sweet Rice Flour milled from California farmed, short grain sweet rice. Gluten-free, no additives of any sort, certified Kosher (KSA), GMO-Free (Non-GMO Project Verified). 105 Mesh.",
+    "company_name": "Koda Farms",
+    "company_slug": "koda-farms",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708688526/production/Brand/25872/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606914/production/CategoryImage/502/category_image/FoodNutrition_03.jpg",
+    "properties": {
+        "Applications": [
+            "Other Food Applications",
+            "Food"
+        ],
+        "Product Families": [
+            "Starches & Thickeners",
+            "Flours & Grains Products",
+            "Whole Foods, Extracts & Premixes",
+            "Texture & Consistency"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Rice Flour"
+        ],
+        "Functions": [
+            "Thickener",
+            "Whole Food Ingredient"
+        ],
+        "Labeling Claims": [
+            "Gluten-free",
+            "Non-GMO",
+            "Kosher",
+            "Additive-free"
+        ],
+        "Certifications & Compliance": [
+            "Kosher",
+            "Non-GMO Project Verified"
+        ]
+    }
+}

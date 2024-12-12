@@ -1,0 +1,36 @@
+{
+    "id": 347615,
+    "brand": "omegasource",
+    "name": "Omegatex® Algae Oil",
+    "slug": "omegatex-algae-oil",
+    "description": "Omegatex® Algae Oil is a highly recognized ingredient used in infant formulas. Premium omega-3 concentrates sustainably sourced, gently processed and tailored to your specifications. Omegatex is a line of premium quality oil due to its high concentration of EPA, DHA and DPA. Either fish or algae sourced, Omegatex offers a wide range of possibilities in application and is available in various ratios and concentrations.",
+    "company_name": "SOLUTEX NA",
+    "company_slug": "solutex-na",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686104567/production/Brand/25934/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606984/production/CategoryImage/507/category_image/FoodNutrition_08.jpg",
+    "properties": {
+        "Applications": [
+            "Food",
+            "Nutrition & Well Being",
+            "Infant & Baby Food",
+            "Nutraceuticals & Supplements"
+        ],
+        "Product Families": [
+            "Nutrition & Fortification",
+            "Fatty Acids, Specialty Lipids & Oils"
+        ],
+        "End Uses": [
+            "Dietary Supplements",
+            "Infant Formula"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Algae"
+        ],
+        "Labeling Claims": [
+            "Vegan",
+            "Non-GMO"
+        ]
+    }
+}

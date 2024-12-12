@@ -1,0 +1,53 @@
+{
+    "id": 304775,
+    "brand": "monk-gold",
+    "name": "RebPure™ RA97",
+    "slug": "rebpure-ra97",
+    "description": "RebPure™ RA97 is GLG’s latest cutting-edge natural flavor modifier. It excels at neutralizing those unwanted bitter and astringent notes, creating a versatile foundation for enhancing flavors while maintaining cost efficiency. Additionally, RA97's unique properties eliminate taste defects, enabling you to significantly reduce the need for additional sweeteners that are typically used to mask undesirable flavor notes.",
+    "company_name": "GLG Life Tech Corp.",
+    "company_slug": "glg-life-tech",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1715196598/production/Company/25275/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606914/production/CategoryImage/502/category_image/FoodNutrition_03.jpg",
+    "properties": {
+        "Applications": [
+            "Other Food Applications",
+            "Other Non-Alcoholic Beverages",
+            "Beverage",
+            "Food"
+        ],
+        "Product Families": [
+            "Alternates & Replacements",
+            "Sweeteners & Syrups",
+            "Taste & Flavor",
+            "Whole Foods, Extracts & Premixes"
+        ],
+        "Ingredient Name": [
+            "Rebaudioside A"
+        ],
+        "Labeling Claims": [
+            "Clean Label",
+            "Non-GMO",
+            "Natural"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Rebaudioside A"
+        ],
+        "Functions": [
+            "Sugar Substitute",
+            "Non Nutritive Sweetener"
+        ],
+        "Labeling Claims": [
+            "Clean Label",
+            "Non-GMO",
+            "Natural"
+        ],
+        "Certifications & Compliance": [
+            "FDA Compliant",
+            "JECFA (FAO/WHO)",
+            "GMP",
+            "Generally Recognized As Safe (GRAS)"
+        ]
+    }
+}

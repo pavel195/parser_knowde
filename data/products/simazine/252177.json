@@ -1,0 +1,36 @@
+{
+    "id": 252177,
+    "brand": "simazine",
+    "name": "Simazine 4L",
+    "slug": "simazine-4l",
+    "description": "Simazine 4L herbicide controls a variety of annual broadleaf and grass weeds in Agricultural and Ornamental crops.",
+    "company_name": "Drexel Chemical Company",
+    "company_slug": "drexel-chemical-company",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697223323/production/Company/19273/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1697223323/production/Company/19273/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Legumes",
+            "Fodder & Forage",
+            "Other Agricultural Crops",
+            "Herbs & Spice Crops",
+            "Oilseeds",
+            "Nuts",
+            "Turf Management",
+            "Ornamentals",
+            "Vegetables",
+            "Sugar & Starch Crops",
+            "Fruits",
+            "Agricultural Crops",
+            "Turf, Ornamentals & Landscape"
+        ],
+        "Product Families": [
+            "Herbicides",
+            "Crop Protection & Pest Control"
+        ],
+        "Chemical Family": [
+            "Triazines"
+        ]
+    },
+    "summary": {}
+}

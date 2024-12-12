@@ -1,0 +1,48 @@
+{
+    "id": 332594,
+    "brand": "hipren",
+    "name": "HIPLEX® TR 130",
+    "slug": "hiplex-tr-130",
+    "description": "HIPLEX® TR 130 is used in Tubular film.",
+    "company_name": "HIP-Petrohemija",
+    "company_slug": "hip-petrohemija",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708529823/production/Brand/24464/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607026/production/CategoryImage/510/category_image/FoodNutrition_11.jpg",
+    "properties": {
+        "Applications": [
+            "Food & Beverage Packaging",
+            "Industrial & Transport Packaging",
+            "Non-Food Consumer Packaging",
+            "Equipment & Parts",
+            "Chemical & Industrial Manufacturing",
+            "Packaging"
+        ],
+        "Product Families": [
+            "Polyolefins",
+            "Basic Thermoplastics"
+        ],
+        "Polymer Name": [
+            "High Density Polyethylene (HDPE)"
+        ],
+        "End Uses": [
+            "Infusion Membrane Bags",
+            "Laundry Bags",
+            "Heavy Duty Bags",
+            "Food Packaging"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "High Density Polyethylene (HDPE)"
+        ],
+        "Processing Methods": [
+            "Blown Film Extrusion",
+            "Film Extrusion",
+            "Extrusion",
+            "Blow Molding"
+        ],
+        "Melt Flow Index": [
+            "0.18 - 0.18 g/10 min"
+        ]
+    }
+}

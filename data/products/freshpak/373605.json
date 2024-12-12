@@ -1,0 +1,31 @@
+{
+    "id": 373605,
+    "brand": "freshpak",
+    "name": "Plastex Series",
+    "slug": "plastex-series",
+    "description": "Plastex Series of inks offer reliable performance on non-porous substrates including many plastics. Its excellent drying and adhesion properties provide performance you can count on. Plastex was developed using a proprietary formulation that yields superior oxidative drying characteristics and excellent water balance. Due to the high cost of most non-porous substrates, we do recommend testing on your specific substrate prior to use.",
+    "company_name": "Precision Ink Corporation",
+    "company_slug": "precision-ink-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664291330/production/Brand/27893/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609091/production/CategoryImage/594/category_image/PrintingPackaging_05.jpg",
+    "properties": {
+        "Applications": [
+            "Printing & Inks",
+            "Offset & Lithographic Printing"
+        ],
+        "Product Families": [
+            "Inks & Pastes",
+            "Offset & Lithographic Inks"
+        ]
+    },
+    "summary": {
+        "Compatible Substrates & Surfaces": [
+            "Plastics"
+        ],
+        "Features": [
+            "Fast Drying",
+            "Excellent Drying Properties",
+            "Excellent Substrate Adhesion"
+        ]
+    }
+}

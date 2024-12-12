@@ -1,0 +1,37 @@
+{
+    "id": 360842,
+    "brand": "qc",
+    "name": "QCru™ Quick Cure Rubber Formula",
+    "slug": "qcru-quick-cure-rubber-formula",
+    "description": "QCru™ Quick Cure Rubber Formula – has been scientifically formulated with the use of nanotechnology to create a semi-permanent barrier on the surface of a mold which is only 100 nanometers in thickness and which facilitates extraordinary rubber part release. QCru™ is designed to be used on all rubber parts and is applied in the press.",
+    "company_name": "Nanoplas",
+    "company_slug": "nanoplas",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664290859/production/Brand/26974/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Coatings & Finishes",
+            "Other Coatings & Finishes"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Top Coats"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Waterborne Coating",
+            "Top Coat"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Plastics"
+        ],
+        "Features": [
+            "Non Stick",
+            "Corrosion Resistant",
+            "Good Release Properties",
+            "Fast Cure",
+            "Low Friction"
+        ]
+    }
+}

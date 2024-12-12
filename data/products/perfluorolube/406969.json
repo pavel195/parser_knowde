@@ -1,0 +1,36 @@
+{
+    "id": 406969,
+    "brand": "perfluorolube",
+    "name": "Performance Fluids Performance FG Hydraulic Oil",
+    "slug": "performance-fluids-performance-fg-hydraulic-oil",
+    "description": "Performance Fluids Performance FG Hydraulic Oil is fully synthetic, non-toxic, non-staining food grade hydraulic oil for use in hydraulic systems in the food, drink and pharmaceutical industry. Performance FG Hydraulic Oil provides extended servicing/maintenance intervals due to their excellent wide temperature stability and their low foaming. They provide excellent lubrication.",
+    "company_name": "Performance Fluids",
+    "company_slug": "performance-fluids",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680108831/production/Company/53156/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608760/production/CategoryImage/576/category_image/AutomotiveTransportation_04.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical & Industrial Manufacturing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Lubricants & Oils",
+            "Fluids & Lubricants"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Hydraulic Oils",
+            "Oil"
+        ],
+        "Features": [
+            "High Temperature Performance",
+            "Excellent Lubricity",
+            "Non-Toxic",
+            "Food Grade",
+            "Low Foaming",
+            "Low Friction",
+            "Wear Resistant"
+        ]
+    }
+}

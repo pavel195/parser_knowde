@@ -1,0 +1,32 @@
+{
+    "id": 344854,
+    "brand": "ionicell",
+    "name": "Totála® Cellular Health",
+    "slug": "totala-cellular-health",
+    "description": "Totála® Cellular Health is a dietary supplement, in liquid form, that can help your efforts to improve mitochondrial metabolism and cellular health. Clinical studies have shown that Totala Cellular Health is readily absorbed into cells and works to improve mineral uptake and increase energy through cellular repair and protection.",
+    "company_name": "Ioniplex",
+    "company_slug": "ioniplex",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686109315/production/Product/344854/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625605156/production/CategoryImage/441/category_image/CleaningIngredients_06.jpg",
+    "properties": {
+        "Applications": [
+            "Beverage",
+            "Food",
+            "Nutrition & Well Being",
+            "Dairy",
+            "Nutraceuticals & Supplements",
+            "Other Non-Alcoholic Beverages"
+        ],
+        "Product Families": [
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements",
+            "Minerals"
+        ],
+        "End Uses": [
+            "Smoothies",
+            "Dietary Supplements",
+            "Protein Shakes"
+        ]
+    },
+    "summary": {}
+}

@@ -1,0 +1,45 @@
+{
+    "id": 437263,
+    "brand": "humalite",
+    "name": "humizen Magna PLUS",
+    "slug": "humizen-magna-plus",
+    "description": "Humizen Magna Plus is a revolutionary humic-fulvic product, delivering the unique properties of humalite in a durable, fertilizer-compatible granule, partially solubilized for rapid release and availability in any soil type. Contains 50% humic acid and 3% fulvic acids (HPTA method). The extraction method used to produce Magna Plus isolates the fulvic acids and most bioactive humic acids contained within this unique source material. The result is a potent liquid humate that will give your crop the boost it needs. Compatible with a wide range of dry fertilizers and multiple packaging and application options, HumiZen Magna Plus is designed for convenience and efficiency in any farm operation.",
+    "company_name": "Black Earth",
+    "company_slug": "black-earth-humic",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708685523/production/Company/37351/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608150/production/CategoryImage/545/category_image/AgricultureFeed_01.jpg",
+    "properties": {
+        "Applications": [
+            "Other Agricultural Crops",
+            "Fiber Crops",
+            "Trees & Woodlands",
+            "Fodder & Forage",
+            "Vegetables",
+            "Fruits",
+            "Legumes",
+            "Oilseeds",
+            "Cereals",
+            "Turf Management",
+            "Agricultural Crops",
+            "Turf, Ornamentals & Landscape"
+        ],
+        "Product Families": [
+            "Soil Amendments & Conditioners",
+            "Plant Health, Nutrients & Soil Management"
+        ],
+        "Chemical Family": [
+            "Humic Acids"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Soil Conditioner"
+        ],
+        "Chemical Family": [
+            "Humic Acids"
+        ],
+        "Labeling Claims": [
+            "Organic"
+        ]
+    }
+}

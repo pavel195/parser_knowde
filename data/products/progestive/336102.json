@@ -1,0 +1,43 @@
+{
+    "id": 336102,
+    "brand": "progestive",
+    "name": "Cat’s Claw OSS™",
+    "slug": "cat-s-claw-oss",
+    "description": "Cat’s Claw OSS™ is a homogenous fine powder and is Kosher certified. It is used as a raw ingredient in the industrial manufacture of food and beverages.",
+    "company_name": "Nutraceuticals International Group",
+    "company_slug": "nutraceuticals-international-group",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708687556/production/Brand/24848/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606945/production/CategoryImage/505/category_image/FoodNutrition_06.jpg",
+    "properties": {
+        "Applications": [
+            "Other Non-Alcoholic Beverages",
+            "Powdered Beverages",
+            "Beverage"
+        ],
+        "Product Families": [
+            "Plant & Herb Products & Extracts",
+            "Whole Foods, Extracts & Premixes"
+        ],
+        "End Uses": [
+            "Beverage Mixes"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Cat's Claw"
+        ],
+        "Physical Form": [
+            "Solid",
+            "Powder"
+        ],
+        "Labeling Claims": [
+            "Kosher"
+        ],
+        "Certifications & Compliance": [
+            "Kosher"
+        ],
+        "Functions": [
+            "Whole Food Ingredient"
+        ]
+    }
+}

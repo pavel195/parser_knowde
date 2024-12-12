@@ -1,0 +1,57 @@
+{
+    "id": 423128,
+    "brand": "koeppcell",
+    "name": "KoeppCell® K/PE 35 FR",
+    "slug": "koeppcell-k-pe-35-fr",
+    "description": "KoeppCell® K/PE 35 FR is closed-cell having soft-elastic PE foam. It is chemically crosslinked polyethylene foam.",
+    "company_name": "W KOPP",
+    "company_slug": "w-kopp",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1702444509/production/Brand/33288/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608744/production/CategoryImage/575/category_image/AutomotiveTransportation_03.jpg",
+    "properties": {
+        "Applications": [
+            "Sports & Recreation",
+            "Renewable Energy",
+            "Medical Devices & Assemblies",
+            "Aerospace & Aviation",
+            "Cold-Chain & Insulation",
+            "Other Infrastructure Applications",
+            "Exterior & Body",
+            "Automotive",
+            "Transportation",
+            "Infrastructure, Roads & Paving",
+            "Medical",
+            "Power, Water & Utilities"
+        ],
+        "Product Families": [
+            "Foams"
+        ],
+        "Chemical Family": [
+            "Polyolefins",
+            "Polyethylenes",
+            "Polyethylene Cross-Linked (PEX)"
+        ],
+        "End Uses": [
+            "Air Conditioners"
+        ]
+    },
+    "summary": {
+        "Foam Type": [
+            "Closed Cell Foam"
+        ],
+        "Density": [
+            "31.0 - 39.0 kg/m³"
+        ],
+        "Chemical Family": [
+            "Polyethylene Cross-Linked (PEX)",
+            "Polyolefins",
+            "Polyethylenes"
+        ],
+        "End Uses": [
+            "Air Conditioners"
+        ],
+        "Physical Form": [
+            "Blocks"
+        ]
+    }
+}

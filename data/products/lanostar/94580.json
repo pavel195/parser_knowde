@@ -1,0 +1,61 @@
+{
+    "id": 94580,
+    "brand": "lanostar",
+    "name": "Plandool™ -LG2",
+    "slug": "plandool-lg2",
+    "description": "Plandool™ -LG2 by Nippon Fine Chemical is comprised of Phytosteryl/Octyldodecyl Lauroyl Glutamate. It is commonly used It is a Preservative-free Approved for use in IECIC Listed (China) and EC Cosing Listed (Europa).",
+    "company_name": "Nippon Fine Chemical",
+    "company_slug": "nippon-fine-chemical",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708699054/production/Company/1338/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708699054/production/Company/1338/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Hair Care",
+            "Skin Care",
+            "Sun Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Conditioners & Emollients",
+            "Functionals"
+        ],
+        "Chemical Family": [
+            "Esters"
+        ],
+        "INCI Name": [
+            "Phytosteryl/Octyldodecyl Lauroyl Glutamate"
+        ],
+        "End Uses": [
+            "Sunscreen Lotion",
+            "Moisturizers",
+            "Body Firming Lotion",
+            "Facial Moisturizer",
+            "Facial Cleanser",
+            "Shampoos & Rinses"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Phytosteryl/Octyldodecyl Lauroyl Glutamate"
+        ],
+        "Functions": [
+            "Occlusive",
+            "Conditioner",
+            "Emollient"
+        ],
+        "Labeling Claims": [
+            "Preservative-free",
+            "Credo Clean Standard",
+            "Clean at Sephora",
+            "Ulta Beauty's Conscious Beauty"
+        ],
+        "Certifications & Compliance": [
+            "CosIng Listed",
+            "IECIC (China)"
+        ],
+        "Benefit Claims": [
+            "Conditioning",
+            "Emolliency"
+        ]
+    }
+}

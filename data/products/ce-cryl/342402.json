@@ -1,0 +1,31 @@
+{
+    "id": 342402,
+    "brand": "ce-cryl",
+    "name": "RESICRYL TPB 160",
+    "slug": "resicryl-tpb-160",
+    "description": "RESICRYL TPB 160 is a comprise multiple chains of polymers without any cross-linking or reactive groups. High molecular weight polymers are therefore often used to improve interactions between different polymer chains. These resins are soft and are reshaped with increasing temperature.",
+    "company_name": "C&E Limited",
+    "company_slug": "c-e",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112416/production/Brand/25313/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608585/production/CategoryImage/567/category_image/PaintingsCoatings_03.jpg",
+    "properties": {
+        "Applications": [
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Resins & Binders",
+            "Acrylics"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ],
+        "Glass Transition Temperature (Tg)": [
+            "80.0 - 80.0 °C"
+        ]
+    }
+}

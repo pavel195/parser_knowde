@@ -1,0 +1,58 @@
+{
+    "id": 409087,
+    "brand": "nutraflora",
+    "name": "ROYAL® -T Dextrose with Maltodextrin - 020510",
+    "slug": "royal-t-dextrose-with-maltodextrin-020510",
+    "description": "ROYAL® -T Dextrose with Maltodextrin - 020510 is a specialized product consisting of coarse dextrose monohydrate combined with maltodextrin. This ingredient serves as a bulking agent and carrier in various food applications. It is a solid, powdery substance with labeling claims of being non-GMO, halal, and kosher. Additionally, it complies with several certifications and standards, including Generally Recognized As Safe (GRAS), FCC compliance, ISO 22000, Non-GMO Project, FDA approval, FSSC 22000, Halal certification, and GFSI certification, ensuring its quality and safety.",
+    "company_name": "Ingredion",
+    "company_slug": "ingredion",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709127775/production/Brand/31677/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1709127775/production/Company/46412/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Confectionery",
+            "Food"
+        ],
+        "Product Families": [
+            "Carriers & Bulking Aids",
+            "Functional Additives"
+        ],
+        "Ingredient Name": [
+            "Glucose"
+        ],
+        "End Uses": [
+            "Candies",
+            "Confectionery Products"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Glucose"
+        ],
+        "Functions": [
+            "Carrier",
+            "Bulking Agent"
+        ],
+        "Physical Form": [
+            "Powder",
+            "Solid"
+        ],
+        "Labeling Claims": [
+            "Kosher",
+            "Halal",
+            "Non-GMO"
+        ],
+        "Certifications & Compliance": [
+            "Occupational Safety & Health Administration (OSHA)",
+            "Generally Recognized As Safe (GRAS)",
+            "ISO 22000",
+            "FSSC 22000",
+            "Kosher",
+            "FCC Compliant",
+            "Non-GMO Project Verified",
+            "GFSI Certified",
+            "FDA Compliant",
+            "Halal"
+        ]
+    }
+}

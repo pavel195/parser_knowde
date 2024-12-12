@@ -1,0 +1,54 @@
+{
+    "id": 342615,
+    "brand": "calci-press",
+    "name": "Descote® 9-4841 Riboflavin 33.3%",
+    "slug": "descote-9-4841-riboflavin-33-3",
+    "description": "Descote® Riboflavin 33 1/3% is an orange to light brown, relatively free flowing material. Each gram\nof coated material is manufactured to contain 333 mg of Riboflavin (Vitamin B2), USP in a matrix of\nMono- and Diglycerides, FCC. Where the component of the product blend is of vegetable origin,\nParticle Dynamics has obtained from the supplier a certification that the component of interest is\neither not produced from genetically modified organisms.\nOrange to light brown, relatively free flowing material with some agglomerates that disperse withconventional mixing techniques.\n",
+    "company_name": "Particle Dynamics",
+    "company_slug": "particle-dynamics",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708690456/production/Brand/25338/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608841/production/CategoryImage/581/category_image/HealthcarePharma_03.jpg",
+    "properties": {
+        "Applications": [
+            "Oral",
+            "Nutraceuticals & Supplements",
+            "Functional Foods",
+            "Nutrition & Well Being",
+            "Drug Delivery & Care Solutions"
+        ],
+        "Product Families": [
+            "Vitamins",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Nutraceuticals",
+            "Functional Foods"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Riboflavins"
+        ],
+        "Functions": [
+            "Vitamin Source",
+            "Supplement",
+            "Dietary Supplement",
+            "Vitamin Source"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Vegetable Origin",
+            "Plant Origin"
+        ],
+        "Labeling Claims": [
+            "Solvent-free",
+            "Naturally Derived"
+        ],
+        "Features": [
+            "Heat Stability",
+            "Excellent Stability",
+            "Improved Stability"
+        ]
+    }
+}

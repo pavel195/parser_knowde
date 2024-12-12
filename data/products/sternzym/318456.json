@@ -1,0 +1,62 @@
+{
+    "id": 318456,
+    "brand": "sternzym",
+    "name": "Sternzym Fresh 15 Organic",
+    "slug": "sternzym-fresh-15-organic",
+    "description": "Flour treatment agent based on baking enzymes",
+    "company_name": "SternEnzym GmbH & Co. KG",
+    "company_slug": "sternenzym-gmbh-co-kg",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708695596/production/Product/318456/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708695596/production/Product/318456/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Bakery",
+            "Food"
+        ],
+        "Product Families": [
+            "Enzymes & Starter Cultures",
+            "Antioxidants & Preservatives",
+            "Dough Conditioners & Flour Additives",
+            "Functional Additives"
+        ],
+        "Chemical Family": [
+            "Enzymes"
+        ],
+        "End Uses": [
+            "Rolls",
+            "Bread"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Alpha-Amylase"
+        ],
+        "Ingredient Origin": [
+            "Fermentation"
+        ],
+        "Functions": [
+            "Flour Treating Agent",
+            "Shelf Life Enhancer",
+            "Crumb Softener",
+            "Enzyme"
+        ],
+        "Labeling Claims": [
+            "BSE-free",
+            "Nanomaterials-free",
+            "TSE-free",
+            "Vegetarian",
+            "Non-Irritant",
+            "Vegan",
+            "Organic",
+            "Non-GMO",
+            "Low Carbon Footprint (PCF)"
+        ],
+        "Certifications & Compliance": [
+            "Organic Certified"
+        ],
+        "Physical Form": [
+            "Solid",
+            "Powder"
+        ]
+    }
+}

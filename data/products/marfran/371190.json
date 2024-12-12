@@ -1,0 +1,45 @@
+{
+    "id": 371190,
+    "brand": "marfran",
+    "name": "MARFRAN.MED® A HE",
+    "slug": "marfran-med-a-he",
+    "description": "MARFRAN.MED® A HE has a high versatility to satisfy every request, all materials can be colored and available in transparent or crystal, suitable for both production by injection molding and for extrusion.",
+    "company_name": "MARFRAN",
+    "company_slug": "marfran",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697222758/production/Brand/27690/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608465/production/CategoryImage/561/category_image/BuildingConstruction_05.jpg",
+    "properties": {
+        "Applications": [
+            "IV Bags",
+            "Caps & Closures",
+            "Tubing & Fluids Handling",
+            "Surgical Instruments & Trays",
+            "Medical Devices & Assemblies",
+            "Dental",
+            "Connectors",
+            "Parts & Components",
+            "Medical",
+            "Medical & Pharma Packaging"
+        ],
+        "Product Families": [
+            "Styrenic Thermoplastic Elastomers (TPE-S)",
+            "Thermoplastic Elastomers"
+        ],
+        "Polymer Name": [
+            "Styrene Ethylene Butylene Styrene (SEBS)"
+        ],
+        "End Uses": [
+            "Pharmaceutical Stoppers",
+            "Medical Pump Seals",
+            "Tubes",
+            "Surgical Instruments",
+            "Pipes",
+            "Pharmaceutical Packaging",
+            "Medical Devices",
+            "Dental Applications",
+            "Covers",
+            "Connectors"
+        ]
+    },
+    "summary": {}
+}

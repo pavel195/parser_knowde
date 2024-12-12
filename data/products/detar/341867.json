@@ -1,0 +1,29 @@
+{
+    "id": 341867,
+    "brand": "detar",
+    "name": "DETAR PS",
+    "slug": "detar-ps",
+    "description": "DETAR PS is Alkaline-based liquid detergent with additional surfactant and sequestering activity.",
+    "company_name": "Perdomini IOC",
+    "company_slug": "perdomini-ioc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708686389/production/Brand/25253/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608045/production/CategoryImage/542/category_image/HomePersonalCare_08.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial Cleaning",
+            "Institutional & Industrial Care"
+        ],
+        "Product Families": [
+            "Detergents & Degreasers",
+            "Cleaning Aids"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Detergent"
+        ],
+        "Features": [
+            "Sequestering"
+        ]
+    }
+}

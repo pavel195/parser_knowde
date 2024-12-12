@@ -1,0 +1,59 @@
+{
+    "id": 72536,
+    "brand": "xirona",
+    "name": "Eusolex® OCR",
+    "slug": "eusolex-ocr",
+    "description": "Eusolex® OCR organic UV filter is Octocrylene, a clear, viscous yellow liquid. Eusolex® OCR is oil soluble with excellent dissolving properties for solid organic UV filters. It is also a photostabilizer with brilliant photo stability. Eusolex® OCR is for use in any application including traditional sunscreens, daily moisturizers, and color cosmetics.",
+    "company_name": "EMD Performance Materials",
+    "company_slug": "emd-performance-materials",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708688358/production/Company/1106/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708688358/production/Company/1106/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Color Cosmetics",
+            "Skin Care",
+            "Sun Care",
+            "Baby Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Skin Actives",
+            "Sunscreen Agents",
+            "Cosmetic Actives"
+        ],
+        "INCI Name": [
+            "Octocrylene"
+        ],
+        "End Uses": [
+            "Sunscreen Lotion",
+            "After Sun Products",
+            "Sunscreen Lip Balm",
+            "Sunscreen Makeup",
+            "Sunscreen Moisturizer",
+            "Anti-Aging Products",
+            "CC Cream",
+            "Face Powder",
+            "Facial Moisturizer",
+            "BB Creams"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Octocrylene"
+        ],
+        "Functions": [
+            "UV Absorber",
+            "Protective Agent",
+            "UV Filter"
+        ],
+        "Labeling Claims": [
+            "Clean at Sephora",
+            "Organic",
+            "Ulta Beauty's Conscious Beauty"
+        ],
+        "Benefit Claims": [
+            "UV Protection",
+            "Sun Protection"
+        ]
+    }
+}

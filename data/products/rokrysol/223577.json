@@ -1,0 +1,51 @@
+{
+    "id": 223577,
+    "brand": "rokrysol",
+    "name": "EXOfos PB-136",
+    "slug": "exofos-pb-136",
+    "description": "EXOfos PB-136 is an anionic surfactant that belongs to the group of phosphorous esters. This ester is based on tridecyl alcohol ethoxylate and offered in acidic form. In room temperature, the product is provided in the form of clear or lightly murky liquid. The product has acid value ranging from 90 to 150 mg KOH/g and low pour point, i.e. below -20°C.",
+    "company_name": "PCC Chemax",
+    "company_slug": "pcc-chemax",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708691163/production/Company/6826/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Other Industrial Applications",
+            "Interior Fixtures",
+            "Fluids & Lubricants",
+            "Building Materials",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Other Processing Additives",
+            "Mortar & Gypsum Additives",
+            "Surface Protective Additives",
+            "Additives",
+            "Construction Chemicals",
+            "Processing Aids"
+        ],
+        "Chemical Family": [
+            "Anionics",
+            "Synthetic Esters"
+        ],
+        "End Uses": [
+            "Metalworking Fluids"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Surfactant (Anionic)",
+            "Surfactant"
+        ],
+        "Chemical Family": [
+            "Synthetic Esters",
+            "Anionics"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Textiles"
+        ],
+        "End Uses": [
+            "Metalworking Fluids"
+        ]
+    }
+}

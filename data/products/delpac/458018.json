@@ -1,0 +1,56 @@
+{
+    "id": 458018,
+    "brand": "delpac",
+    "name": "USALCO Ferric Sulfate (60%)",
+    "slug": "usalco-ferric-sulfate-60",
+    "description": "USALCO Ferric Sulfate (60%) is a highly effective liquid coagulant based on trivalent iron (Fe3+). It is made by reacting high-purity iron ore with sulfuric acid. The product can be used to clarify both potable water and wastewater, removing turbidity, color, phosphate, and heavy metals. It is used in lime softening processes and for conditioning sludge. It also has the ability to control hydrogen sulfide, reduce odor, and prevent corrosion.",
+    "company_name": "USALCO",
+    "company_slug": "usalco",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1719843443/production/Company/32175/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Water Treatment",
+            "Power, Water & Utilities"
+        ],
+        "Product Families": [
+            "Water Treatment Additives",
+            "Water Treatment Chemicals"
+        ],
+        "Chemical Family": [
+            "Sulfates",
+            "Iron & Iron Compounds"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Flocculant",
+            "Coagulant"
+        ],
+        "Chemical Family": [
+            "Iron & Iron Compounds",
+            "Sulfates"
+        ],
+        "Applicable Processes": [
+            "Wastewater Treatment",
+            "Heavy Metals Removal",
+            "Water Clarification",
+            "Hydrogen Sulfide Control",
+            "Drinking Water Treatment",
+            "Industrial Water Treatment",
+            "Turbidity Removal",
+            "Sludge Treatment",
+            "Suspended Solids Removal",
+            "Phosphorus Removal",
+            "Color Removal",
+            "Dewatering"
+        ],
+        "Features": [
+            "Low Odor",
+            "Corrosion Resistance"
+        ],
+        "Synonyms": [
+            "Diiron Tris(Sulphate), Diiron Trisulfate, Iron(III) Sulfate, Iron(III) Sulfate(VI)"
+        ]
+    }
+}

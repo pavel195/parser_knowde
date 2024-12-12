@@ -1,0 +1,68 @@
+{
+    "id": 289409,
+    "brand": "inokem",
+    "name": "Inokem® UR 3301",
+    "slug": "ecoat-inokem-ur-3301",
+    "description": "Inokem® UR 3301 is a surfactant-free self-emulsified urethane modified alkyd emulsion of medium oil length for air-drying water-borne outdoor resistant coatings.",
+    "company_name": "ECOAT ",
+    "company_slug": "ecoat-sas",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112152/production/Company/22780/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608630/production/CategoryImage/571/category_image/PaintingsCoatings_07.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Building & Construction",
+            "Industrial Coatings",
+            "Decorative Paints",
+            "Decorative Paints, Coatings & Stains",
+            "Decorative Materials & Finishes",
+            "Metal Coatings",
+            "Wood Coatings & Finishes"
+        ],
+        "Product Families": [
+            "Resins & Binders",
+            "Alkyds"
+        ],
+        "Chemical Family": [
+            "Urethanes",
+            "Alkyds",
+            "Alkyds (Short Oil)"
+        ],
+        "End Uses": [
+            "Waterborne Coating",
+            "Lacquers",
+            "Primer",
+            "Top Coat",
+            "Varnishes"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Alkyds (Short Oil)",
+            "Alkyds",
+            "Urethanes"
+        ],
+        "End Uses": [
+            "Primer",
+            "Top Coat",
+            "Waterborne Coating",
+            "Lacquers",
+            "Varnishes"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Wood"
+        ],
+        "Features": [
+            "Good Compatibility",
+            "Improved Hardness",
+            "Water Resistance",
+            "Color Retention",
+            "Corrosion Resistance",
+            "High Gloss",
+            "Outdoor Durability",
+            "Air Drying",
+            "Fast Drying"
+        ]
+    }
+}

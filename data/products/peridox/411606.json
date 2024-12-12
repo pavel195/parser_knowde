@@ -1,0 +1,50 @@
+{
+    "id": 411606,
+    "brand": "peridox",
+    "name": "Sporicidin® Disinfectant Solution",
+    "slug": "sporicidin-disinfectant-solution",
+    "description": "Sporicidin® Disinfectant Solution products have been used for infection and contamination control since 1978. Sporicidin Disinfectant is an EPA-registered one-step cleaner disinfectant. It is a bactericidal, fungicidal, virucidal (both enveloped and non-enveloped viruses) and tuberculocidal solution that can be used in a variety of cleanroom environments.",
+    "company_name": "Contec",
+    "company_slug": "contec",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1682593177/production/Brand/32072/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515684/production/CategoryImage/1058/category_image/HII_10.jpg",
+    "properties": {
+        "Applications": [
+            "Institutional & Industrial Care",
+            "Surface Care",
+            "Industrial Cleaning",
+            "Institutional & Catering",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Commercial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner",
+            "Disinfectant Products"
+        ],
+        "Application Area": [
+            "Equipment",
+            "Hard Surfaces"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Wood",
+            "Glass",
+            "Plastics",
+            "Metal"
+        ],
+        "Certifications & Compliance": [
+            "EPA Registered"
+        ],
+        "Features": [
+            "Non Abrasive",
+            "Neutralizes Odor",
+            "Neutral pH",
+            "Non Corrosive",
+            "Stain Resistant"
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "id": 428016,
+    "brand": "sobo",
+    "name": "Sobo Scale",
+    "slug": "sobo-scale",
+    "description": "Sobo Scale is an effective, aqueous, Phosphoric acid based carbonate scale remover. Sobo Scale will leave a deposit of Iron Phosphate on mild steel which can be painted or oiled to give even greater corrosion protection. Sobo Scale will also remove carbonate scale from Stainless Steel alloys and Copper alloys.",
+    "company_name": "Oil Technics",
+    "company_slug": "oil-technics",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664293073/production/Brand/33946/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515684/production/CategoryImage/1058/category_image/HII_10.jpg",
+    "properties": {
+        "Applications": [
+            "Home Care",
+            "Institutional & Industrial Care",
+            "Surface Care",
+            "Industrial Cleaning"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Industrial Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Rust Removers",
+            "Descalers"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Concrete",
+            "Metal",
+            "Steel"
+        ],
+        "Features": [
+            "Degreasing",
+            "Highly Versatile"
+        ]
+    }
+}

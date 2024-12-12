@@ -1,0 +1,45 @@
+{
+    "id": 411715,
+    "brand": "dura-clean",
+    "name": "Proxy-Clean®",
+    "slug": "proxy-clean",
+    "description": "Proxy-Clean® is a hydrogen peroxide-based product designed for use in any size livestock operation.",
+    "company_name": "Proxy Clean",
+    "company_slug": "proxy-clean",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704106764/production/Brand/32103/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515625/production/CategoryImage/1053/category_image/HII_05.jpg",
+    "properties": {
+        "Applications": [
+            "Surface Care",
+            "Institutional & Catering",
+            "Industrial Cleaning",
+            "Home Care",
+            "Institutional & Industrial Care"
+        ],
+        "Product Families": [
+            "Commercial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Cleaner"
+        ],
+        "Application Area": [
+            "Water System"
+        ],
+        "Certifications & Compliance": [
+            "SARA 313",
+            "SARA 311/312"
+        ],
+        "Features": [
+            "Fast Acting",
+            "Effective Soil Removal",
+            "Cost Effective",
+            "Equipment-friendly"
+        ],
+        "Synonyms": [
+            "Dioxidane, H2O2"
+        ]
+    }
+}

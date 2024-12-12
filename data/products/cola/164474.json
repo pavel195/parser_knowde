@@ -1,0 +1,68 @@
+{
+    "id": 164474,
+    "brand": "cola",
+    "name": "Cola® Quat SME",
+    "slug": "cola-quat-sme",
+    "description": "Cola®Quat SME is a cationic surfactant designed to neutralize a wide range of odors. The ingredient functions by complexing or neutralizing specific organic molecules and reducing their concentration in the vapor phase. Its low active level and full solubility in water makes it ideal for consumer deodorizer applications such as space deodorizers, carpet deodorizers, hard surface deodorizers, kitty litter and pet care. The ingredient may be used in a variety of personal care, household and industrial applications to reduce unpleasant odors.",
+    "company_name": "Colonial Chemical",
+    "company_slug": "colonial-chemical",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672707/production/Product/164474/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708672707/production/Product/164474/card_banner/image",
+    "properties": {
+        "Applications": [
+            "AP/Deo",
+            "Hair Care",
+            "Skin Care",
+            "Air Care",
+            "Laundry & Fabric Care",
+            "Institutional & Catering",
+            "Other Home Care Applications",
+            "Home Care",
+            "Institutional & Industrial Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Cationic Surfactants",
+            "Aroma Ingredients",
+            "Emulsifiers, Solubilizers & Dispersants",
+            "AP/Deo Actives",
+            "Cosmetic Actives",
+            "Functionals",
+            "Surfactants & Cleansers",
+            "Soaps & Surfactants",
+            "Functional Additives"
+        ],
+        "INCI Name": [
+            "Soyethyl Morpholinium Ethosulfate"
+        ],
+        "End Uses": [
+            "Foot Powder",
+            "Deodorants",
+            "Antiperspirants",
+            "Deodorizer",
+            "Laundry Detergents",
+            "Hair Conditioner",
+            "Hair Straighteners & Relaxers"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Soyethyl Morpholinium Ethosulfate"
+        ],
+        "Chemical Name": [
+            "Onium compounds, morpholinium, 4-ethyl-4-soya alkyl, Et sulfates"
+        ],
+        "CAS Number": [
+            "61791-34-2"
+        ],
+        "Functions": [
+            "Surfactant (Cationic)",
+            "Solubilizer",
+            "Surfactant",
+            "Deodorant"
+        ],
+        "Synonyms": [
+            "4-Ethyl-4-soya alkylmorpholinium Et sulfates, 4-Soya alkyl-4-ethylmorpholinium ethosulfates, 4-Soya-4-ethylmorpholinium ethosulfate"
+        ]
+    }
+}

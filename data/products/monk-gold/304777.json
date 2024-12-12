@@ -1,0 +1,48 @@
+{
+    "id": 304777,
+    "brand": "monk-gold",
+    "name": "RebPure™ RA95",
+    "slug": "rebpure-ra95",
+    "description": "RebPure™ RA95 is a meticulously purified extract comprising rebaudioside A (MW: 967.03) derived from Stevia rebaudiana Bertoni leaves. This white powder serves as a potent sweetener for food and beverages, fully meeting JECFA requirements. Its versatile applications include beverages, dairy, and packaged food.",
+    "company_name": "GLG Life Tech Corp.",
+    "company_slug": "glg-life-tech",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1715196593/production/Company/25275/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606914/production/CategoryImage/502/category_image/FoodNutrition_03.jpg",
+    "properties": {
+        "Applications": [
+            "Other Non-Alcoholic Beverages",
+            "Other Food Applications",
+            "Beverage",
+            "Food"
+        ],
+        "Product Families": [
+            "Alternates & Replacements",
+            "Sweeteners & Syrups",
+            "Taste & Flavor",
+            "Whole Foods, Extracts & Premixes"
+        ],
+        "Ingredient Name": [
+            "Rebaudioside A"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Rebaudioside A"
+        ],
+        "Functions": [
+            "Sugar Substitute",
+            "Non Nutritive Sweetener"
+        ],
+        "Labeling Claims": [
+            "Clean Label",
+            "Non-GMO",
+            "Natural"
+        ],
+        "Certifications & Compliance": [
+            "FDA Compliant",
+            "JECFA (FAO/WHO)",
+            "GMP",
+            "Generally Recognized As Safe (GRAS)"
+        ]
+    }
+}

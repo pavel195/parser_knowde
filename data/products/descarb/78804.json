@@ -1,0 +1,53 @@
+{
+    "id": 78804,
+    "brand": "descarb",
+    "name": "Relievene® SK",
+    "slug": "relievene-sk",
+    "description": "Anti-aging treatment for sensitive skin. Reduces discomfort of sensitive skin while acting as an antioxidant. Promotes the restoration of the skin barrier and reduces wrinkles and fine lines.",
+    "company_name": "Chemyunion",
+    "company_slug": "chemyunion",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708687155/production/Company/1183/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708687155/production/Company/1183/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Skin Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Skin Actives",
+            "Cosmetic Actives"
+        ],
+        "INCI Name": [
+            "Rhodiola Rosea Root Extract",
+            "Carnosine",
+            "Alanyl Glutamine"
+        ],
+        "End Uses": [
+            "Skin Serums"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Alanyl Glutamine",
+            "Rhodiola Rosea Root Extract",
+            "Carnosine"
+        ],
+        "Functions": [
+            "Anti-Aging Agent",
+            "Antioxidant"
+        ],
+        "Labeling Claims": [
+            "Ulta Beauty's Conscious Beauty"
+        ],
+        "Benefit Claims": [
+            "Restoring",
+            "Anti-Wrinkle",
+            "Antioxidant Properties",
+            "Skin Barrier",
+            "Fine Lines Reduction",
+            "Barrier Function Improvement",
+            "Suitable for Sensitive Skin",
+            "Anti-Aging"
+        ]
+    }
+}

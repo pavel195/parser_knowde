@@ -1,0 +1,31 @@
+{
+    "id": 426849,
+    "brand": "aqua-cat",
+    "name": "Southern Ionics Sodium Aluminate - 45% Solution",
+    "slug": "southern-ionics-sodium-aluminate-45-solution",
+    "description": "Southern Ionics Sodium Aluminate, 45% Solution is a clear to hazy, yellow to amber solution. ",
+    "company_name": "Southern Ionics",
+    "company_slug": "southern-ionics",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704106866/production/Company/50941/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical Manufacturing",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Inorganics",
+            "Technical Salts & Inorganics"
+        ],
+        "Chemical Family": [
+            "Sodium Salts",
+            "Aluminum Compounds"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Sodium Aluminate",
+            "Sodium Hydroxide"
+        ]
+    }
+}

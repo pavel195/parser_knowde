@@ -1,0 +1,37 @@
+{
+    "id": 421973,
+    "brand": "forzal",
+    "name": "Forzal 6040",
+    "slug": "forzal-6040",
+    "description": "Forzal 6040 is a mono component (-NCO) solvent free polyurethane-based adhesive.",
+    "company_name": "Cromogenia Units",
+    "company_slug": "cromogenia-units",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520147/production/Brand/33223/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608972/production/CategoryImage/588/category_image/AdhesivesSealants_05.jpg",
+    "properties": {
+        "Applications": [
+            "Other Printing & Packaging Applications"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Contact Adhesives"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "1K (1 component) Adhesive",
+            "Solvent free (100% Solids) Adhesive"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Polypropylene (PP)",
+            "Film",
+            "Paper"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ]
+    }
+}

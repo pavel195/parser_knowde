@@ -1,0 +1,44 @@
+{
+    "id": 416451,
+    "brand": "artisoy",
+    "name": "Chemital SPICEBAC SP",
+    "slug": "chemital-spicebac-sp",
+    "description": "SPICEBAC SP is natural flavor made from a studied combination of essential oils and plant extracts.",
+    "company_name": "Chemital",
+    "company_slug": "chemital",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686109607/production/Company/55878/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606934/production/CategoryImage/504/category_image/FoodNutrition_05.jpg",
+    "properties": {
+        "Applications": [
+            "Food",
+            "Meat, Poultry & Seafood",
+            "Savory & Culinary"
+        ],
+        "Product Families": [
+            "Taste & Flavor",
+            "Flavor Ingredients"
+        ],
+        "End Uses": [
+            "Processed Seafood",
+            "Processed Meat Products",
+            "Spice Seasoning"
+        ]
+    },
+    "summary": {
+        "Certifications & Compliance": [
+            "Hazard Analysis Critical Control Point (HACCP)",
+            "IFS Certified",
+            "ISO 9001",
+            "Halal"
+        ],
+        "Labeling Claims": [
+            "Natural",
+            "Halal"
+        ],
+        "End Uses": [
+            "Processed Seafood",
+            "Processed Meat Products",
+            "Spice Seasoning"
+        ]
+    }
+}

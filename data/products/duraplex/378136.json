@@ -1,0 +1,30 @@
+{
+    "id": 378136,
+    "brand": "duraplex",
+    "name": "Neigh-Lox®",
+    "slug": "neigh-lox",
+    "description": "Neigh-Lox® is designed to protect the digestive tract against excess gastric acid and provide a physical protective lining in the stomach and small intestine. Suitable for horses which may be at risk of gastric irritation, gastric sensitivity, loss of appetite, loose manure, weight loss, in training or work, on high grain diets, experiencing stressful conditions e.g. travel, show/sales preparation, during weaning, experiencing changes in feeding routine or reduced forage intake, prone to loss of appetite after work, competition or travel, have stable vices or abnormally unsettled behavior.",
+    "company_name": "Kentucky Equine Research",
+    "company_slug": "kentucky-equine-research",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708529912/production/Brand/28237/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608161/production/CategoryImage/546/category_image/AgricultureFeed_02.jpg",
+    "properties": {
+        "Applications": [
+            "Other Animal Health & Nutrition",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Feed Supplements",
+            "Nutritional Ingredients"
+        ]
+    },
+    "summary": {
+        "Animal Species": [
+            "Horses"
+        ],
+        "Features": [
+            "Promotes Healthy Gastrointestinal Environment",
+            "Improves Digestability & Intestinal Health"
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": 332631,
+    "brand": "avipel",
+    "name": "Avipel® Hopper Box (dry) Corn Seed Treatment",
+    "slug": "avipel-hopper-box-dry-corn-seed-treatment",
+    "description": "Avipel® Hopper Box (dry) Corn Seed Treatment is the first scientifically proven corn seed treatment to stop birds from eating newly planted seeds.",
+    "company_name": "Arkion Life Sciences",
+    "company_slug": "arkion-life-sciences",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704106621/production/Brand/24787/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1704106621/production/Product/332631/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Vegetables",
+            "Cereals",
+            "Sugar & Starch Crops",
+            "Agricultural Crops"
+        ],
+        "Product Families": [
+            "Seed Treatments",
+            "Crop Protection & Pest Control"
+        ]
+    },
+    "summary": {
+        "Application Technique": [
+            "Seed Treatment"
+        ],
+        "Features": [
+            "Easy To Handle",
+            "Enhanced Crop Yield & Quality"
+        ],
+        "Labeling Claims": [
+            "Non-Toxic",
+            "Bio-based",
+            "Natural"
+        ],
+        "Synonyms": [
+            "9,10-Anthraquinone, 9,10-Quinone, Anthradione"
+        ]
+    }
+}

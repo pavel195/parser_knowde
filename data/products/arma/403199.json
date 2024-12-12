@@ -1,0 +1,57 @@
+{
+    "id": 403199,
+    "brand": "arma",
+    "name": "Arma 901-70DS",
+    "slug": "arma-901-70ds",
+    "description": "Arma 901-70DS is a two-component, polyurea elastomer spray system that can be applied under harsh environmental conditions. These products are non-hydrophobic with excellent chemical and abrasion resistance, providing excellent elongation.",
+    "company_name": "Arma Coatings",
+    "company_slug": "arma-coatings",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680108684/production/Brand/30811/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608465/production/CategoryImage/561/category_image/BuildingConstruction_05.jpg",
+    "properties": {
+        "Applications": [
+            "Coatings & Finishes",
+            "Building Materials",
+            "Power, Water & Utilities",
+            "Industrial Coatings",
+            "Marine",
+            "Water Treatment",
+            "Marine Coatings",
+            "Agricultural & Construction Equipment",
+            "Chemical & Industrial Manufacturing",
+            "Transportation",
+            "Pipes & Plumbing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Other Paints & Coatings"
+        ],
+        "Chemical Family": [
+            "Polyureas"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Elastomeric Coating",
+            "2K (2 component) Coating"
+        ],
+        "Application Area": [
+            "Hulls",
+            "Pipes",
+            "Tanks"
+        ],
+        "Features": [
+            "High Elongation",
+            "Chemical Resistant",
+            "Abrasion Resistant",
+            "Hydrophilic"
+        ],
+        "Application Method": [
+            "Spray"
+        ],
+        "Chemical Family": [
+            "Polyureas"
+        ]
+    }
+}

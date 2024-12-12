@@ -1,0 +1,36 @@
+{
+    "id": 343596,
+    "brand": "biola",
+    "name": "NutriCon 500",
+    "slug": "nutricon-500",
+    "description": "NutriCon 500 is for confectinary use and it is a filling and coating fat without laurics as cocoa butter replacer,.excellent alternative to cacao butter. NutriCon 500 has a good compatibility with cacao butter and provides a surface with a good glance.",
+    "company_name": "Nutriswiss AG",
+    "company_slug": "nutriswiss-ag",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708687150/production/Brand/25449/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606934/production/CategoryImage/504/category_image/FoodNutrition_05.jpg",
+    "properties": {
+        "Applications": [
+            "Food & Beverage Packaging",
+            "Other Food Applications",
+            "Desserts & Fruit Preparations",
+            "Confectionery",
+            "Food",
+            "Packaging"
+        ],
+        "Product Families": [
+            "Edible Oils & Fats",
+            "Whole Foods, Extracts & Premixes"
+        ],
+        "End Uses": [
+            "Food Coatings",
+            "Filling Applications"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Food Coating",
+            "Fat & Oil",
+            "Glazing Agent"
+        ]
+    }
+}

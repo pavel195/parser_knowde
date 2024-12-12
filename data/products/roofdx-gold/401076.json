@@ -1,0 +1,48 @@
+{
+    "id": 401076,
+    "brand": "roofdx-gold",
+    "name": "SILVER FILM™",
+    "slug": "silver-film",
+    "description": "SILVER FILM™ is a liquid-applied, single-component, bright aluminum solar reflective coating that will retain its reflective qualities for many years. It is a high solids, thermoplastic resin-based product with superior adhesion to most metals and asphaltic or coal tar pitch roofs. SILVER FILM™ is extremely effective on both pitched and flat surfaces where ponded water conditions exist.",
+    "company_name": "Andek Corporation",
+    "company_slug": "andek-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520189/production/Brand/30540/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608502/production/CategoryImage/564/category_image/BuildingConstruction_08.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Building Envelope & Roofing",
+            "Waterproofing & Weatherproofing",
+            "Sealants & Caulks"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Paints & Coatings",
+            "Protective Coatings",
+            "Caulks & Sealants"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Solventless & High Solids Coating",
+            "Solventborne Coating",
+            "Waterborne Sealant",
+            "1K (1 component) Coating"
+        ],
+        "Cure Method": [
+            "Air Dry"
+        ],
+        "Application Method": [
+            "Spray",
+            "Roller",
+            "Brush"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Steel",
+            "Metal",
+            "Aluminum",
+            "Coated Surfaces",
+            "Elastomers & Rubbers"
+        ]
+    }
+}

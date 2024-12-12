@@ -1,0 +1,41 @@
+{
+    "id": 232687,
+    "brand": "epidian",
+    "name": "EPIDIAN® 1X70",
+    "slug": "epidian-1x70",
+    "description": "EPIDIAN® 1X70 is used in anti-corrosive paints.",
+    "company_name": "Ciech",
+    "company_slug": "ciech",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686111972/production/Product/232687/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608600/production/CategoryImage/568/category_image/PaintingsCoatings_04.jpg",
+    "properties": {
+        "Applications": [
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Resins & Binders",
+            "Epoxies"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal"
+        ],
+        "Features": [
+            "Heat Resistance",
+            "Corrosion Resistance",
+            "Chemical Resistance",
+            "Dirt Pickup Resistance",
+            "Good Electrical Properties",
+            "Good Shrinkage Resistance",
+            "Good Mechanical Properties",
+            "Improved Hardness"
+        ]
+    }
+}

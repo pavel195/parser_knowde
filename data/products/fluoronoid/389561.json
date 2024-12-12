@@ -1,0 +1,39 @@
+{
+    "id": 389561,
+    "brand": "fluoronoid",
+    "name": "FLUORONOID® FL 371",
+    "slug": "fluoronoid-fl-371",
+    "description": "FLUORONOID® FL 371 is a PEEK with special fillers. PEEK is a high performance engineering thermoplastic with good chemical resistance, good wear resistance, high maximum use temperature, low flammability, excellent electrical properties and good radiation resistance.",
+    "company_name": "Fluorocarbon Company",
+    "company_slug": "fluorocarbon-company",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708522949/production/Brand/29291/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Equipment & Parts",
+            "Other Building & Construction Applications",
+            "Fuel Systems",
+            "Automotive",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "High Performance Thermoplastics",
+            "Engineering & Specialty Polymers"
+        ],
+        "Chemical Family": [
+            "Polyether Ether Ketone (PEEK)"
+        ],
+        "Polymer Name": [
+            "Polyetheretherketone (PEEK)"
+        ],
+        "End Uses": [
+            "Valves",
+            "Valve Seats"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyetheretherketone (PEEK)"
+        ]
+    }
+}

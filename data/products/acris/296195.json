@@ -1,0 +1,37 @@
+{
+    "id": 296195,
+    "brand": "acris",
+    "name": "ACRIS 663",
+    "slug": "acris-663",
+    "description": "ACRIS 663 is a Vinylacrylic pressure sensitive adhesive, particularly suitable for the production of protective and removable plastic films, after crosslinking.",
+    "company_name": "ICAP-SIRA Chemicals and Polymers SpA",
+    "company_slug": "icap-sira-chemicals-and-polymers-spa",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112040/production/Company/23363/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Product Families": [
+            "Resins & Binders",
+            "Acrylics"
+        ],
+        "Chemical Family": [
+            "Vinyl Acrylic"
+        ],
+        "End Uses": [
+            "Pressure Sensitive Adhesive"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Vinyl Acrylic"
+        ],
+        "End Uses": [
+            "Pressure Sensitive Adhesive"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Textiles"
+        ],
+        "Features": [
+            "Excellent Adhesion"
+        ]
+    }
+}

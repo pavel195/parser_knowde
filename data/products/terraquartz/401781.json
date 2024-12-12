@@ -1,0 +1,44 @@
+{
+    "id": 401781,
+    "brand": "terraquartz",
+    "name": "Aiflooring LV BaseCoat",
+    "slug": "aiflooring-lv-basecoat",
+    "description": "Aiflooring LV BaseCoat is designed to be used as a basecoat for the TerraChip System. It has a lower viscosity than standard TC Basecoat for easier handling, especially in cooler temperatures. Scrape times for the LV Basecoat can be adjusted by using one, or a blend, of the 3 BaseCoat hardeners- Standard, Redline, and Infrared. LV BaseCoat is a two component 100% solids epoxy.",
+    "company_name": "Aiflooring",
+    "company_slug": "aiflooring",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520315/production/Company/51509/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608490/production/CategoryImage/563/category_image/BuildingConstruction_07.jpg",
+    "properties": {
+        "Applications": [
+            "Flooring & Surfaces",
+            "Building & Construction",
+            "Concrete Coatings & Stains",
+            "Floor Coatings"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Base Coats & Undercoats"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Base Coat",
+            "Solventless & High Solids Coating",
+            "2K (2 component) Coating",
+            "Epoxy Coating"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Concrete"
+        ],
+        "Features": [
+            "Good Adhesion",
+            "Low Viscosity",
+            "Ease of Handling",
+            "Excellent Aesthetics"
+        ],
+        "Application Method": [
+            "Roller",
+            "Wipe"
+        ]
+    }
+}

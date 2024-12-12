@@ -1,0 +1,31 @@
+{
+    "id": 402634,
+    "brand": "dq",
+    "name": "DQ TURKEY GROWER FINISHER",
+    "slug": "dq-turkey-grower-finisher",
+    "description": "A DQ FORTIFIER includes all necessary vitamins and trace minerals for a particular species of animal at a specific stage in its life cycle. This line of proprietary premixes is designed for maximum animal performance.",
+    "company_name": "Dawe's Laboratories",
+    "company_slug": "dawe-s-laboratories",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686132334/production/Brand/30747/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1686132334/production/Product/402634/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Animal Health & Nutrition",
+            "Birds & Poultry"
+        ],
+        "Product Families": [
+            "Nutritional Ingredients",
+            "Nutrient Premixes"
+        ]
+    },
+    "summary": {
+        "Animal Species": [
+            "Turkey"
+        ],
+        "Features": [
+            "Improves Performance",
+            "Vitamin Rich",
+            "Mineral Rich"
+        ]
+    }
+}

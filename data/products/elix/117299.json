@@ -1,0 +1,42 @@
+{
+    "id": 117299,
+    "brand": "elix",
+    "name": "CADON™ CG28",
+    "slug": "cadon-cg28",
+    "description": "High rubber content ABS copolymer with very high toughness and medium flow. Excellent impact and fracture resistance even at very low temperatures. Grade designed for self-coloring. Typical Applications: Used to improve toughness of engineering thermoplastics and PVC.",
+    "company_name": "ELIX Polymers, S.L.",
+    "company_slug": "elix-polymers",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708517208/production/Product/117299/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708517208/production/Brand/9952/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Other Parts & Components",
+            "Other Automotive Applications",
+            "Other Consumer Goods Applications",
+            "Automotive",
+            "Parts & Components"
+        ],
+        "Product Families": [
+            "Styrenics",
+            "Basic Thermoplastics"
+        ],
+        "Chemical Family": [
+            "Acrylonitrile Butadiene Styrene (ABS)",
+            "Styrenics"
+        ],
+        "Polymer Name": [
+            "Acrylonitrile Butadiene Styrene (ABS)"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Acrylonitrile Butadiene Styrene (ABS)"
+        ],
+        "Processing Methods": [
+            "Injection Molding"
+        ],
+        "Melt Flow Index": [
+            "4.0 - 4.0 g/10 min"
+        ]
+    }
+}

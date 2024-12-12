@@ -1,0 +1,45 @@
+{
+    "id": 351122,
+    "brand": "carotex",
+    "name": "Josh Naturals GmbH Bromelain",
+    "slug": "josh-naturals-gmbh-bromelain",
+    "description": "Josh Naturals Bromelain is a protein extract derived from the stems of pineapples, although it exists in all parts of the fresh plant and fruit. The extract has a history of folk medicine use. As a culinary ingredient, it may be used as a meat tenderizer.The term \"bromelain\" may refer to either of two protease enzymes extracted from the plants of the family Bromeliaceae, or it may refer to a combination of those enzymes along with other compounds produced in an extract. Bromelain is very well known for its proteolytic activity. Sports enthusiasts especially muscle builders who consume high amounts of proteins could include bromelain in their food to enhance the digestion of these proteins.",
+    "company_name": "Josh Naturals GmbH",
+    "company_slug": "josh-naturals-gmbh",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672593/production/Company/37965/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607009/production/CategoryImage/509/category_image/FoodNutrition_10.jpg",
+    "properties": {
+        "Applications": [
+            "Other Nutrition Applications",
+            "Nutraceuticals & Supplements",
+            "Meat, Poultry & Seafood",
+            "Savory & Culinary",
+            "Food",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Phytochemicals",
+            "Plant & Herb Products & Extracts",
+            "Phytochemicals & Plant Extracts",
+            "Nutrition & Fortification",
+            "Whole Foods, Extracts & Premixes",
+            "Nutraceuticals & Supplements"
+        ],
+        "Chemical Family": [
+            "Proteolytic Enzymes"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Bromelain"
+        ],
+        "Functions": [
+            "Enzyme ",
+            "Dietary Supplement",
+            "Phytochemical"
+        ],
+        "Active Component": [
+            "Bromelain"
+        ]
+    }
+}

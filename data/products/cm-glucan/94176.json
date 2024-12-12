@@ -1,0 +1,65 @@
+{
+    "id": 94176,
+    "brand": "cm-glucan",
+    "name": "CM-Glucan™ Granulate",
+    "slug": "cm-glucan-granulate",
+    "description": "CM-Glucan Granulate is a derivative of ß-(1,3) and ß-(1,6) glucan, a natural yeast polysaccharide featuring immune-stimulating properties. ß-Glucan that is isolated from yeast is insoluble in water and therefore not suitable for topical use. Consequently, Mibelle Biochemistry has developed a process to offer CM-Glucan Granulate, a biologically active ß-glucan derivative that maintains the same biological activity as ß-glucan, is highly purified and also water-soluble.Benefits:\nIncreases the skin's self-protecting capacity.\nAccelerates skin recovery.\nRestores the skin's moisture barrier.\n",
+    "company_name": "Mibelle Biochemistry",
+    "company_slug": "mibelle-biochemistry",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708673496/production/Brand/8484/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708673496/production/Product/94176/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Skin Care",
+            "Sun Care",
+            "Treatment Products",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Skin Actives",
+            "Cosmetic Actives"
+        ],
+        "INCI Name": [
+            "Sodium Carboxymethyl Beta-Glucan"
+        ],
+        "End Uses": [
+            "Rosacea (Redness) Treatment",
+            "After Sun Products"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Sodium Carboxymethyl Beta-Glucan"
+        ],
+        "Functions": [
+            "Protective Agent"
+        ],
+        "Labeling Claims": [
+            "Vegan",
+            "Ulta Beauty's Conscious Beauty",
+            "Clean at Sephora",
+            "Natural",
+            "Preservative-free"
+        ],
+        "Benefit Claims": [
+            "UV Protection",
+            "Skin Protection",
+            "Skin Defense Enhancement",
+            "Photo-Aging Protection",
+            "Redness Reduction",
+            "Firming",
+            "Restoring",
+            "Stimulates Immune System",
+            "Antioxidant Properties",
+            "Hydrating",
+            "Moisture Barrier",
+            "Plumping",
+            "Suitable for Sensitive Skin",
+            "Regenerating",
+            "Energizing",
+            "Anti-Wrinkle",
+            "Repairing",
+            "Wrinkle Refinement"
+        ]
+    }
+}

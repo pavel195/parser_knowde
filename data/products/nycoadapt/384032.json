@@ -1,0 +1,42 @@
+{
+    "id": 384032,
+    "brand": "nycoadapt",
+    "name": "NYCOADAPT 2011",
+    "slug": "nycoadapt-2011",
+    "description": "NYCOADAPT 1417 HS is a heat stabilized and impact modified Nylon 6. This medium viscosity resin was developed for injection molding and extrusion processes for applications requiring improved toughness, flexibility, and good heat stability.",
+    "company_name": "Nylon Corporation of America (NYCOA)",
+    "company_slug": "nylon-corporation-of-america-nycoa",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691742394/production/Brand/26604/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1691742394/production/Product/384032/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Equipment & Parts",
+            "Sports & Recreation",
+            "Pipes & Plumbing",
+            "Building Materials",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Polyamides",
+            "Thermoplastic Polyamide Elastomers (TPE-A)",
+            "Engineering & Specialty Polymers",
+            "Thermoplastic Elastomers"
+        ],
+        "Chemical Family": [
+            "Polyamides"
+        ],
+        "Polymer Name": [
+            "Thermoplastic Polyamide Elastomer"
+        ],
+        "End Uses": [
+            "Tubing",
+            "Sporting Goods",
+            "Monofilaments"
+        ]
+    },
+    "summary": {
+        "Flexural Modulus": [
+            "468.52 - 468.52 MPa"
+        ]
+    }
+}

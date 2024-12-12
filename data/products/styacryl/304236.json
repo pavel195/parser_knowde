@@ -1,0 +1,38 @@
+{
+    "id": 304236,
+    "brand": "styacryl",
+    "name": "STYACRYL V700",
+    "slug": "rozachim-v700",
+    "description": "STYACRYL V700 is colloid-stabilized Vinyl acetate / Acrylate Ester / VeoVa Copolymer emulsion with very good balance between hardness and flexibility of the film forming. Medium water resistance, UV protection and high pigmenting power.",
+    "company_name": "Rozachim",
+    "company_slug": "rozachim",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112260/production/Company/24774/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608557/production/CategoryImage/565/category_image/PaintingsCoatings_01.jpg",
+    "properties": {
+        "Applications": [
+            "Flooring & Surfaces",
+            "Mortars & Plasters",
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Other Resins & Binders",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Vinyls, Vinylics & Vinyl Derivatives"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Vinyls, Vinylics & Vinyl Derivatives"
+        ],
+        "Glass Transition Temperature (Tg)": [
+            "15.0 - 15.0 °C"
+        ],
+        "Features": [
+            "Blocking Resistance",
+            "Excellent Pigment Binding Capacity",
+            "Water Resistance"
+        ]
+    }
+}

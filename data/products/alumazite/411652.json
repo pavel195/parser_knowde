@@ -1,0 +1,45 @@
+{
+    "id": 411652,
+    "brand": "alumazite",
+    "name": "Tiodize Z-329",
+    "slug": "tiodize-z-329",
+    "description": "Z-329 is a single component, water base coating formulated to inhibit corrosion. This hard film, water-dispersing coating is designed specifically for application on the interior and exterior surfaces of the fuselage, wing, empennage and other areas, where corrosion from water and condensation have been a traditional threat. Z-329 is a non-flammable, fast drying coating with excellent adhesion that penetrates to protect fasteners, joints and faying surfaces. Unlike wax or oils, Z-329 is environmentally safe and can be sprayed \"on-line\" with a high volume, low pressure spray unit, and without the need of a spray booth. Z-329 can be applied after all other customer finishes, specification primers, top coats and sealants have been applied and cured.",
+    "company_name": "Tiodize",
+    "company_slug": "tiodize",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520208/production/Company/54854/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Coatings & Finishes",
+            "Aerospace Coatings",
+            "Aerospace & Aviation",
+            "Transportation"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Waterborne Coating",
+            "1K (1 component) Coating"
+        ],
+        "Features": [
+            "Corrosion Resistant",
+            "Wide Temperature Operating Range",
+            "Low VOC",
+            "Fast Drying",
+            "Water-based",
+            "Cost Effective",
+            "Light Weight",
+            "Good Adhesion"
+        ],
+        "Application Area": [
+            "Fasteners"
+        ],
+        "Application Method": [
+            "Spray"
+        ]
+    }
+}

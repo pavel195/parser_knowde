@@ -1,0 +1,41 @@
+{
+    "id": 399415,
+    "brand": "cacide",
+    "name": "PETROBLEND Middle East CT CMC HV",
+    "slug": "petroblend-middle-east-ct-cmc-hv",
+    "description": "PETROBLEND Middle East CT CMC HV is a high viscosity, high molecular weight dispersible Carboxy Methyl Cellulose fluid loss additive designed to provide viscosity and reduce API filtration rate to water based drilling fluids.",
+    "company_name": "PETROBLEND Middle East",
+    "company_slug": "petroblend-middle-east",
+    "logo_url": null,
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Exploration & Upstream",
+            "Oil, Gas & Mining"
+        ],
+        "Product Families": [
+            "Oilfield & Transport Chemicals",
+            "Oil, Gas & Mining Chemicals"
+        ],
+        "Chemical Family": [
+            "Cellulose & Cellulosics"
+        ],
+        "End Uses": [
+            "Drilling Fluids"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Cellulose & Cellulosics"
+        ],
+        "End Uses": [
+            "Drilling Fluids"
+        ],
+        "Applicable Processes": [
+            "Drilling Applications"
+        ],
+        "Features": [
+            "High Viscosity"
+        ]
+    }
+}

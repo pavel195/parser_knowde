@@ -1,0 +1,97 @@
+{
+    "id": 537718,
+    "brand": "vinavil-9ed84367-94f4-4bd6-bc18-280ac5e72b4f",
+    "name": "BIOTREND® ZP 98",
+    "slug": "biotrend-zp-98",
+    "description": "<p>BIOTREND&reg; ZP 98 is an industrial in-can and dry film preservative containing Zinc Pyrithione. It prevents microbial degradation and deterioration of various manufacturing materials such as paints, plastics, polymers, latexes, rubber, adhesives, and a wide range of finished articles made from these materials. BIOTREND&reg; ZP98 provides multi-purpose functionality by preventing the growth of bacteria, fungi, and algae that can cause various types of deterioration including discoloration, staining, and odors.</p>\r\n",
+    "company_name": "EM Sullivan",
+    "company_slug": "em-sullivan",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1712220627/production/Brand/41126/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Carpet",
+            "Equipment & Parts",
+            "Non-Food Consumer Packaging",
+            "Sports & Recreation",
+            "Housewares",
+            "Bedding",
+            "Carpet & Upholstery",
+            "Leather Manufacturing",
+            "Textile Manufacturing",
+            "Furniture",
+            "Fluids & Lubricants",
+            "Building Wires & Power Cables",
+            "Wire & Cable",
+            "Chemical & Industrial Manufacturing",
+            "Packaging",
+            "Decorative Materials & Finishes",
+            "Leather & Textiles"
+        ],
+        "Product Families": [
+            "Finishing Additives & Treatments",
+            "Microbial Control",
+            "Lubricant Protective Additives",
+            "Microbial Control & Preservation",
+            "Additives",
+            "Polymer Additives",
+            "Elastomer Additives",
+            "Textile & Leather Chemicals"
+        ],
+        "Chemical Family": [
+            "Zinc & Zinc Compounds"
+        ],
+        "End Uses": [
+            "Sponge Mop",
+            "Soap Holder",
+            "Shower Curtain",
+            "Tarpaulins",
+            "Garbage Bags",
+            "Hoses",
+            "Pipes",
+            "Gloves",
+            "Tent",
+            "Cushions",
+            "Carpet",
+            "Boat Cover",
+            "Metalworking Fluids",
+            "Wall Covering",
+            "Heating Appliances",
+            "Foam Stuffing",
+            "Floor Covering",
+            "Drain Board",
+            "Cooling Appliances",
+            "Conveyor Belts",
+            "Brush Receptacles",
+            "Bathtub",
+            "Construction Materials",
+            "Wallboards",
+            "Fountain Solutions",
+            "Grouts",
+            "Mineral Slurries",
+            "Air Filters",
+            "Rubber Hoses",
+            "Awnings",
+            "Tents",
+            "Gaskets",
+            "Underlayments",
+            "Carpet Backing",
+            "Latex"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Zinc Pyrithione"
+        ],
+        "Chemical Family": [
+            "Zinc & Zinc Compounds"
+        ],
+        "Labeling Claims": [
+            "Formaldehyde-free"
+        ],
+        "Applicable Processes": [
+            "Leather Manufacturing",
+            "Textiles Manufacturing"
+        ]
+    }
+}

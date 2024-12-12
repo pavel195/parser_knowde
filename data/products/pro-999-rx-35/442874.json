@@ -1,0 +1,41 @@
+{
+    "id": 442874,
+    "brand": "pro-999-rx-35",
+    "name": "Pro-999 Rx-35® Sealer/Primer",
+    "slug": "pro-999-rx-35-sealer-primer",
+    "description": "Pro-999 Rx-35® Sealer/Primer is a sealer/primer that penetrates and seals porous surfaces such as torn drywall, drywall mud and spackle to enable the wall surface to be painted or wallpapered. PRO-999 seals old wallpaper paste residue (excess paste must be removed first by sanding with 80 grit sandpaper, then dust removed). PRO-999 dries clear with a slight residual tack, enhancing adhesion of paint or wallcovering.",
+    "company_name": "Roman Adhesives",
+    "company_slug": "roman-adhesives",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664568963/production/Company/64861/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608410/production/CategoryImage/557/category_image/BuildingConstruction_01.jpg",
+    "properties": {
+        "Applications": [
+            "Building Envelope & Roofing",
+            "Architectural Coatings"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Sealer",
+            "Primer"
+        ],
+        "Application Areas": [
+            "Wall"
+        ],
+        "Features": [
+            "High Capacity of Penetration",
+            "Mildew Resistant",
+            "Anti Dripping",
+            "Low Odor"
+        ],
+        "Application Method": [
+            "Spray",
+            "Roller",
+            "Brush"
+        ]
+    }
+}

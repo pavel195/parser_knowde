@@ -1,0 +1,37 @@
+{
+    "id": 394399,
+    "brand": "evolutionase",
+    "name": "Atomes SOL KLIN",
+    "slug": "atomes-sol-klin",
+    "description": "Atomes Sol Klin is a liquid foaming cleaner designed to clean and sanitize food-contact surfaces in dairies, wineries, breweries, as well as food, beverage, and meat processing and packaging plants.",
+    "company_name": "Atomes",
+    "company_slug": "atomes",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1682592994/production/Company/49452/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515647/production/CategoryImage/1055/category_image/HII_07.jpg",
+    "properties": {
+        "Applications": [
+            "Institutional & Industrial Care",
+            "Surface Care",
+            "Institutional & Catering",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Industrial Cleaners",
+            "Commercial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner",
+            "Sanitizers"
+        ],
+        "Application Area": [
+            "Hard Surfaces"
+        ],
+        "Features": [
+            "Foamable",
+            "Neutral pH"
+        ]
+    }
+}

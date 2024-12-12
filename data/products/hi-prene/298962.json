@@ -1,0 +1,37 @@
+{
+    "id": 298962,
+    "brand": "hi-prene",
+    "name": "Kixx Machine ISO VG 32",
+    "slug": "kixx-machine-iso-vg-32",
+    "description": "Kixx Machine is highly refined paraffinic mineral oil suitable for industrial circulating system and general purpose l ubrication where straight mineral oils are acceptable.",
+    "company_name": "GS-Caltex",
+    "company_slug": "gs-caltex",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680108870/production/Company/23716/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical & Industrial Manufacturing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Lubricants & Oils",
+            "Fluids & Lubricants"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Lubricating Oil"
+        ],
+        "Application Area": [
+            "Gearboxes",
+            "Bearings",
+            "Machine Parts",
+            "Vacuum Pumps"
+        ],
+        "Features": [
+            "Easy Product Filterability",
+            "Service Life Extension",
+            "General Purpose"
+        ]
+    }
+}

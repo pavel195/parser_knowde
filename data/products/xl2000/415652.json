@@ -1,0 +1,35 @@
+{
+    "id": 415652,
+    "brand": "xl2000",
+    "name": "KECO 100",
+    "slug": "keco-100",
+    "description": "KECO 100 is a non-stick liquid Teflon® coating that offers lubrication for heat-sensitive substrates and release properties resistant to extreme temperatures. This one coat process is excellent for low-friction and corrosion resistance. It is able to resist heat reaching up to 500°F and down to cryogenic temperatures.",
+    "company_name": "KECO Engineered Coatings",
+    "company_slug": "keco-engineered-coatings",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709127712/production/Brand/32418/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608779/production/CategoryImage/578/category_image/AutomotiveTransportation_06.jpg",
+    "properties": {
+        "Applications": [
+            "Footwear",
+            "Industrial Coatings",
+            "Automotive OEM Coatings",
+            "Coatings & Finishes"
+        ],
+        "Product Families": [
+            "Protective Coatings",
+            "Paints & Coatings"
+        ]
+    },
+    "summary": {
+        "Product Type": [
+            "Coating"
+        ],
+        "Features": [
+            "Low Friction",
+            "Self Lubricating",
+            "Good Release Properties",
+            "High Temperature Resistance",
+            "Corrosion Resistant"
+        ]
+    }
+}

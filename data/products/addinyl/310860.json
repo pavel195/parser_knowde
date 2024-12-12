@@ -1,0 +1,35 @@
+{
+    "id": 310860,
+    "brand": "addinyl",
+    "name": "Addiflam® SBI 20011 F NATUREL",
+    "slug": "addiflam-sbi-20011-f-naturel",
+    "description": "Flame retardant V0 (yellow card) polyamide 6 halogen free natural. For SDS, please contact Addiplast Group using the 'Request Document' button.",
+    "company_name": "Addiplast Group",
+    "company_slug": "addiplast-group",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1693574663/production/Product/310860/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1693574663/production/Brand/9527/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Interior",
+            "Exterior & Body",
+            "Connectors",
+            "Other Electrical & Electronics Applications",
+            "Automotive",
+            "Parts & Components"
+        ],
+        "Product Families": [
+            "Polyamides",
+            "Engineering & Specialty Polymers"
+        ],
+        "Chemical Family": [
+            "Polyamides"
+        ],
+        "Polymer Name": [
+            "Polyamide 6 (PA 6)"
+        ],
+        "End Uses": [
+            "Electrical Connectors"
+        ]
+    },
+    "summary": {}
+}

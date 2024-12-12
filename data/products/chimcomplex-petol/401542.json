@@ -1,0 +1,38 @@
+{
+    "id": 401542,
+    "brand": "chimcomplex-petol",
+    "name": "PETOL® 120-2",
+    "slug": "chimcomplex-petol-120-2",
+    "description": "PETOL® 120-2 is a high purity polyoxypropylene glycol, homopolymer diol with an average molecular weight of 935, non-acidified quality.",
+    "company_name": "CHIMCOMPLEX",
+    "company_slug": "chimcomplex",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686138437/production/Brand/30586/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Other Adhesives & Sealants Applications",
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Diols & Polyols",
+            "Monomers & Oligomers"
+        ],
+        "Chemical Family": [
+            "Polypropylene Glycols",
+            "Polyols"
+        ],
+        "End Uses": [
+            "Polyurethane",
+            "Polyurethane Foams"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Polyols",
+            "Polypropylene Glycols"
+        ],
+        "Hydroxyl Value": [
+            "110.0 - 130.0 mg KOH/g"
+        ]
+    }
+}

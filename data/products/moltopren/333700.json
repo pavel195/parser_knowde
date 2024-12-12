@@ -1,0 +1,34 @@
+{
+    "id": 333700,
+    "brand": "moltopren",
+    "name": "ISOPUR",
+    "slug": "isopur",
+    "description": "Isopur series are based on different binders. The special adaptations are specifically developed and used for the respective PU system. The careful selection of organic and inorganic pigments with high fastness properties and resistance enables the entire color space to be covered. On request, we can develop further adaptations at any time, individually tailored to your process and system conditions.",
+    "company_name": "ISL-Chemie",
+    "company_slug": "isl-chemie",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708686384/production/Brand/24580/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608760/production/CategoryImage/576/category_image/AutomotiveTransportation_04.jpg",
+    "properties": {
+        "Applications": [
+            "Furniture",
+            "Footwear",
+            "Interior",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Functional Additives",
+            "Other Pigments & Colorants",
+            "Additives",
+            "Pigments & Colorants"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Colorant",
+            "Light Stabilizer"
+        ],
+        "Compatible Polymers & Resins": [
+            "Polyurethanes (PU)"
+        ]
+    }
+}

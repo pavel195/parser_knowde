@@ -1,0 +1,31 @@
+{
+    "id": 318152,
+    "brand": "eurovac",
+    "name": "Eurovac D 60 (NV)",
+    "slug": "eurovac-d-60-nv",
+    "description": "Eurovac D 60 (NV) is basic dispersion for the production of adhesives, viscosity, solids individually adjustable",
+    "company_name": "Cebra Chemie",
+    "company_slug": "cebra-chemie",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704100258/production/Company/29925/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608611/production/CategoryImage/569/category_image/PaintingsCoatings_05.jpg",
+    "properties": {
+        "Applications": [
+            "Other Adhesives & Sealants Applications"
+        ],
+        "Product Families": [
+            "Other Resins & Binders",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Vinyls, Vinylics & Vinyl Derivatives"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Vinyls, Vinylics & Vinyl Derivatives"
+        ],
+        "Synonyms": [
+            "1-Acetoxyethylene, Acetic Acid Ethenyl Ester, Acetic Acid Vinyl Ester, Acetoxyethene, Ethenyl Acetate, Vinyl Ethanoate"
+        ]
+    }
+}

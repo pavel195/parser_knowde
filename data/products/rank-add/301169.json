@@ -1,0 +1,51 @@
+{
+    "id": 301169,
+    "brand": "rank-add",
+    "name": "Rank Surf OA2",
+    "slug": "rank-surf-oa2",
+    "description": "Rank Surf OA2 is an additive used as emulsifier,dispersant and thickner in toiletiery formulation as well as Aqueous coating system.\r\n",
+    "company_name": "Rank Additives Pvt",
+    "company_slug": "rank-additives",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708673490/production/Company/24319/logo/image",
+    "banner_url": "https://static.knowde.com/card-banners/knowde-card-for-raw-materials-8.jpg",
+    "properties": {
+        "Applications": [
+            "Other Printing & Packaging Applications",
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Dispersing & Wetting Additives",
+            "Functional Additives",
+            "Rheology Modifiers & Stabilizers",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Amines",
+            "Ethoxylates"
+        ],
+        "End Uses": [
+            "Waterborne Coating"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Dispersant",
+            "Thickener",
+            "Rheology Modifier",
+            "Emulsifier"
+        ],
+        "Chemical Family": [
+            "Ethoxylates",
+            "Amines"
+        ],
+        "Labeling Claims": [
+            "Environmentally Friendly"
+        ],
+        "Physical Form": [
+            "Liquid"
+        ],
+        "Features": [
+            "Low Odor"
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "id": 428869,
+    "brand": "recaloflosso",
+    "name": "EVAFANOL® HA-170",
+    "slug": "evafanol-ha-170",
+    "description": "EVAFANOL® HA-170 is a waterborne Polyurethane dispersion which has excellent adhesion and optical properties and is suitable for various base materials.",
+    "company_name": "NICCA U.S.A. Inc.",
+    "company_slug": "niccachemical",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112634/production/Company/55517/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625605366/production/CategoryImage/443/category_image/Plastics_02.jpg",
+    "properties": {
+        "Applications": [
+            "Specialty Coatings",
+            "Glass Coatings"
+        ],
+        "Product Families": [
+            "Resins & Binders",
+            "Polyurethanes (PU)"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ],
+        "End Uses": [
+            "Waterborne Coating",
+            "Primer"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ],
+        "End Uses": [
+            "Primer",
+            "Waterborne Coating"
+        ],
+        "Glass Transition Temperature (Tg)": [
+            "-25.0 - -25.0 °C"
+        ],
+        "Features": [
+            "High Clarity",
+            "Good Film Former",
+            "Non-Yellowing Grade",
+            "Excellent Adhesion"
+        ]
+    }
+}

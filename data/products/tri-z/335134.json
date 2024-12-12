@@ -1,0 +1,49 @@
+{
+    "id": 335134,
+    "brand": "tri-z",
+    "name": "Phosfix® 7-4-9 + trace micros",
+    "slug": "phosfix-7-4-9-trace-micros",
+    "description": "Phosfix® 7-4-9 + trace micros makes a good crop great and a great crop better. It is a powerful combination of macro and micronutrients with growth and plant enhancers that improve yield and profit by enhancing crop vigor and encouraging crop health. Phosfix contains plant growth regulators including cytokinin, gibberellic acid, and auxins that help with cell division, cell elongation, and cell differentiation, respectively.",
+    "company_name": "Andersons Inc",
+    "company_slug": "andersons-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672044/production/Brand/24763/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608215/production/CategoryImage/550/category_image/AgricultureFeed_06.jpg",
+    "properties": {
+        "Applications": [
+            "Sugar & Starch Crops",
+            "Oilseeds",
+            "Fodder & Forage",
+            "Fruits",
+            "Trees & Woodlands",
+            "Vegetables",
+            "Other Agricultural Crops",
+            "Agricultural Crops",
+            "Turf, Ornamentals & Landscape"
+        ],
+        "Product Families": [
+            "Fertilizers & Nutrients",
+            "Plant Health, Nutrients & Soil Management"
+        ],
+        "Chemical Family": [
+            "Hydrocarbons",
+            "Polysaccharides",
+            "Phosphorous-based Compounds",
+            "Urea & Urea Derivatives"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Micronutrient",
+            "Fertilizer"
+        ],
+        "Chemical Family": [
+            "Polysaccharides",
+            "Phosphorous-based Compounds",
+            "Urea & Urea Derivatives",
+            "Hydrocarbons"
+        ],
+        "Application Technique": [
+            "Foliage Applied"
+        ]
+    }
+}

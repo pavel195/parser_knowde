@@ -1,0 +1,38 @@
+{
+    "id": 406338,
+    "brand": "clr-pro",
+    "name": "TARN-X PRO® TARNISH REMOVER",
+    "slug": "tarn-x-pro-tarnish-remover",
+    "description": "Tarn-X Pro® Tarnish Remover removes tarnish with its simple wipe &amp;amp",
+    "company_name": "CLR Pro",
+    "company_slug": "clr-pro",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292256/production/Brand/31272/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515657/production/CategoryImage/1056/category_image/HII_08.jpg",
+    "properties": {
+        "Applications": [
+            "Home Care",
+            "Institutional & Industrial Care",
+            "Surface Care",
+            "Industrial Cleaning"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Industrial Cleaners",
+            "Commercial Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Tarnish Remover",
+            "Cleaner"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Gold",
+            "Diamond",
+            "Copper",
+            "Platinum",
+            "Metal",
+            "Silver"
+        ]
+    }
+}

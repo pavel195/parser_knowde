@@ -1,0 +1,45 @@
+{
+    "id": 405007,
+    "brand": "scican-optim",
+    "name": "OPTIM® 1",
+    "slug": "optim-1",
+    "description": "Optim® 1 is one of the fastest and most effective cleaner &amp; intermediate level disinfectants. It is listed as a category IV, the EPA’s lowest toxicity category. OPTIM 1 provides the confidence that you are compliant and mindful of patients, staff, equipment and the environment without compromise: the perfect balance.",
+    "company_name": "SciCan",
+    "company_slug": "scican",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1670387628/production/Brand/31011/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515647/production/CategoryImage/1055/category_image/HII_07.jpg",
+    "properties": {
+        "Applications": [
+            "Institutional & Industrial Care",
+            "Industrial Cleaning",
+            "Institutional & Catering"
+        ],
+        "Product Families": [
+            "Industrial Cleaners",
+            "Cleaners"
+        ],
+        "End Uses": [
+            "Equipment"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner",
+            "Disinfectant Products"
+        ],
+        "Application Areas": [
+            "Equipment"
+        ],
+        "Certifications & Compliance": [
+            "EPA Registered"
+        ],
+        "Features": [
+            "Odorless",
+            "Non-Aerosol",
+            "Cost Effective",
+            "Ease of Handling",
+            "Consistent Performance",
+            "Non-Toxic"
+        ]
+    }
+}

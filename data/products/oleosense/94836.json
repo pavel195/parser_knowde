@@ -1,0 +1,63 @@
+{
+    "id": 94836,
+    "brand": "oleosense",
+    "name": "Oléosense® BIO Encens",
+    "slug": "oleosense-bio-encens",
+    "description": "Oléosense® BIO Encens by Oleos is comprised of Boswellia Carterii Gum Extract, Garcinia Indica Seed Butter, Helianthus Annuus (Sunflower) Seed Oil, Melia Azadirachta Leaf Extract, Oryza Sativa (Rice) Bran Wax and Sunflower oil. It is commonly used It is a Organic Key benefits in use include: Conditioning, Emolliency and Fragrance enhancement. Oléosense® BIO Encens is certified as ECOCERT.",
+    "company_name": "Oleos",
+    "company_slug": "oleos",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708684116/production/Company/1349/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708684116/production/Company/1349/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Hair Care",
+            "Color Cosmetics",
+            "Skin Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Conditioners & Emollients",
+            "Aroma Ingredients",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Oryza Sativa (Rice) Bran Wax",
+            "Melia Azadirachta Leaf Extract",
+            "Helianthus Annuus (Sunflower) Seed Oil",
+            "Garcinia Indica Seed Butter",
+            "Boswellia Carterii Gum Extract"
+        ],
+        "End Uses": [
+            "Fragrances & Perfumes",
+            "Shampoos & Rinses"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Melia Azadirachta Leaf Extract",
+            "Oryza Sativa (Rice) Bran Wax",
+            "Boswellia Carterii Gum Extract",
+            "Garcinia Indica Seed Butter",
+            "Helianthus Annuus (Sunflower) Seed Oil"
+        ],
+        "Functions": [
+            "Conditioner",
+            "Refatting Agent",
+            "Fragrance",
+            "Emollient"
+        ],
+        "Labeling Claims": [
+            "Bio-based",
+            "Clean at Sephora",
+            "Credo Clean Standard",
+            "Organic"
+        ],
+        "Certifications & Compliance": [
+            "Halal",
+            "Organic Certified",
+            "Kosher",
+            "EFISC",
+            "ECOCERT"
+        ]
+    }
+}

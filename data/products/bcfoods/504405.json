@@ -1,0 +1,58 @@
+{
+    "id": 504405,
+    "brand": "bcfoods",
+    "name": "Culinary Farms Fresh Dried Tomatoes Halves",
+    "slug": "culinary-farms-fresh-dried-tomatoes-83f69af8-6afa-4a15-a826-06c09b65d889",
+    "description": null,
+    "company_name": "BCFoods & Culinary Farms",
+    "company_slug": "bcfoods",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1712401785/production/Company/37431/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1712401785/production/Product/504405/card_banner/image",
+    "properties": {
+        "Product Families": [
+            "Vegetable Products & Extracts",
+            "Whole Foods, Extracts & Premixes"
+        ],
+        "Ingredient Name": [
+            "Tomatoes, Dehydrated"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Tomatoes, Dehydrated"
+        ],
+        "Labeling Claims": [
+            "Clean Label",
+            "Colorants-free",
+            "Allergen-free",
+            "Non-GMO",
+            "Preservative-free",
+            "GMO-free",
+            "Halal",
+            "Additive-free",
+            "Irradiation-free",
+            "Plant-Based",
+            "Natural",
+            "Kosher",
+            "Salt-free",
+            "Sulfites-free",
+            "Dye Free",
+            "Naturally Derived"
+        ],
+        "Certifications & Compliance": [
+            "Kosher",
+            "FDA Compliant",
+            "Hazard Analysis Critical Control Point (HACCP)",
+            "GFSI Certified",
+            "Halal",
+            "cGMP",
+            "Good Agricultural & Collection Practice (GACP) Compliant",
+            "SQF Certified",
+            "SQF Level II"
+        ],
+        "Features": [
+            "Free of Major Allergens",
+            "Non-Irradiated"
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "id": 485258,
+    "brand": "magflam",
+    "name": "BroShield® 8408",
+    "slug": "broshield-8408",
+    "description": "BroShield® 8408 is a flame retardant and plasticizer for plastics and elastomers, particularly PVC. This halogenated product offers good thermal stability and cost-effective performance. Its clear liquid form makes it easy to work with, especially in film applications. Certified under CERCLA, SARA 313, Clean Water Act (CWA), and California Proposition 65.",
+    "company_name": "St. Louis Group",
+    "company_slug": "st-louis-group",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708698268/production/Brand/31879/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708698268/production/Brand/31879/card_banner/image",
+    "properties": {
+        "Product Families": [
+            "Performance Additives",
+            "Flame Retardants",
+            "Polymer Additives"
+        ],
+        "End Uses": [
+            "Film"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Flame Retardant",
+            "Plasticizer"
+        ],
+        "Compatible Polymers & Resins": [
+            "Polyvinyl Chloride (PVC)"
+        ],
+        "End Uses": [
+            "Film"
+        ]
+    }
+}

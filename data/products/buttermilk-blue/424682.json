@@ -1,0 +1,45 @@
+{
+    "id": 424682,
+    "brand": "buttermilk-blue",
+    "name": "Grand Cru®",
+    "slug": "grand-cru",
+    "description": "Grand Cru® is our signature alpine-style cheese. It’s made with the freshest milk in imported copper vats and aged 4 or more months in our cellars. Robust and full-bodied, this one-of-a-kind cheese melts beautifully to become a cook’s everyday companion.",
+    "company_name": "Emmi Roth",
+    "company_slug": "emmi-roth",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1703231656/production/Company/57929/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625604505/production/CategoryImage/418/category_image/AnimalFeed_01.jpg",
+    "properties": {
+        "Applications": [
+            "Desserts & Fruit Preparations",
+            "Savory & Culinary",
+            "Convenience Foods",
+            "Food"
+        ],
+        "Product Families": [
+            "Dairy Products",
+            "Whole Foods, Extracts & Premixes"
+        ],
+        "End Uses": [
+            "Desserts",
+            "Soups",
+            "Packaged Sandwiches"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Grand Cru Cheese"
+        ],
+        "Labeling Claims": [
+            "BST-Free",
+            "Vegetarian",
+            "Gluten-free"
+        ],
+        "Features": [
+            "Suitable for Vegetarian Foods",
+            "Smooth Texture"
+        ],
+        "Sugar Content": [
+            "0.0 - 0.0 %"
+        ]
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "id": 301171,
+    "brand": "rank-add",
+    "name": "Rank Add 4030",
+    "slug": "rank-add-4030",
+    "description": "Rank Add 4030 is an additives as a nonionic low foaming surfactant and exhibits a good wetting and leveling properties in aqueous coating systems and water base ink.",
+    "company_name": "Rank Additives Pvt",
+    "company_slug": "rank-additives",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708688936/production/Company/24319/logo/image",
+    "banner_url": "https://static.knowde.com/card-banners/knowde-card-for-raw-materials-8.jpg",
+    "properties": {
+        "Applications": [
+            "Other Printing & Packaging Applications",
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Dispersing & Wetting Additives",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Phenols & Phenolics",
+            "Ethoxylates",
+            "Alkylphenols"
+        ],
+        "End Uses": [
+            "Waterborne Ink",
+            "Waterborne Coating"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Phenols & Phenolics",
+            "Alkylphenols",
+            "Ethoxylates"
+        ],
+        "Functions": [
+            "Surfactant",
+            "Surfactant (Nonionic)"
+        ],
+        "End Uses": [
+            "Waterborne Ink",
+            "Waterborne Coating"
+        ]
+    }
+}

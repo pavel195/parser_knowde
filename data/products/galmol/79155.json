@@ -1,0 +1,41 @@
+{
+    "id": 79155,
+    "brand": "galmol",
+    "name": "Galaxy™ ESS",
+    "slug": "galaxy-ess",
+    "description": "Galaxy™ ESS is a clear, low-viscous liquid, known for its mild anionic surfactant properties. Its INCI name is Disodium Laureth Sulfosuccinate. This versatile ingredient is widely utilized in various personal care formulations, notably in gentle hair shampoos, baby shampoos, foam baths, and shower gels.",
+    "company_name": "Galaxy Surfactants Ltd.",
+    "company_slug": "galaxy-surfactants",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1712401195/production/Company/1476/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1712401195/production/Company/1476/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Bath & Shower",
+            "Baby Care",
+            "Hair Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Anionic Surfactants",
+            "Surfactants & Cleansers"
+        ],
+        "INCI Name": [
+            "Disodium Laureth Sulfosuccinate"
+        ],
+        "End Uses": [
+            "Shampoos & Rinses",
+            "Shower Gels",
+            "Bubble Bath",
+            "Baby Shampoo"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Disodium Laureth Sulfosuccinate"
+        ],
+        "Functions": [
+            "Surfactant (Anionic)",
+            "Surfactant"
+        ]
+    }
+}

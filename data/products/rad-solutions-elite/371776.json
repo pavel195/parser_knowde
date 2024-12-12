@@ -1,0 +1,54 @@
+{
+    "id": 371776,
+    "brand": "rad-solutions-elite",
+    "name": "Elite UVP6000-TP20",
+    "slug": "elite-uvp6000-tp20",
+    "description": "Elite UVP6000-TP20 is a flexible hybrid ester acrylate with 20% TPGDA.",
+    "company_name": "Rad Solutions",
+    "company_slug": "rad-solutions",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686149120/production/Brand/27742/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Packaging Coatings",
+            "Printing & Inks",
+            "Overprint Varnishes",
+            "Leather & Textiles",
+            "Screen Printing",
+            "Chemical & Industrial Manufacturing",
+            "Digital Printing",
+            "Flexography",
+            "Inkjet Printing",
+            "Additive Manufacturing",
+            "Textile Manufacturing"
+        ],
+        "Product Families": [
+            "Oligomers",
+            "Monomers & Intermediates"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ],
+        "End Uses": [
+            "Radiation Curable Coating",
+            "Screen Printing Ink",
+            "Flexography Ink",
+            "Inkjet Ink",
+            "Varnishes",
+            "Digital Ink"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ],
+        "End Uses": [
+            "Inkjet Ink",
+            "Radiation Curable Coating",
+            "Digital Ink",
+            "Flexography Ink",
+            "Varnishes",
+            "Screen Printing Ink"
+        ]
+    }
+}

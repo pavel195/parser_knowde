@@ -1,0 +1,31 @@
+{
+    "id": 401619,
+    "brand": "ecoferro",
+    "name": "AZOCOR® 6",
+    "slug": "azocor-6",
+    "description": "\r\n\r\nAZOCOR® 6 is an organic fertilizer with slow-release organic nitrogen, particularly suitable for the fertilization of the most important horticultural crops, fruit trees and ornamental plants.\r\n",
+    "company_name": "FOMET SpA",
+    "company_slug": "fomet-spa",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708687160/production/Brand/30596/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608215/production/CategoryImage/550/category_image/AgricultureFeed_06.jpg",
+    "properties": {
+        "Applications": [
+            "Fruits",
+            "Ornamentals",
+            "Agricultural Crops",
+            "Turf, Ornamentals & Landscape"
+        ],
+        "Product Families": [
+            "Fertilizers & Nutrients",
+            "Plant Health, Nutrients & Soil Management"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Fertilizer"
+        ],
+        "Labeling Claims": [
+            "Organic"
+        ]
+    }
+}

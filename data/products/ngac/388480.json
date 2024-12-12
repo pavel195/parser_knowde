@@ -1,0 +1,28 @@
+{
+    "id": 388480,
+    "brand": "ngac",
+    "name": "NGAC P910-04",
+    "slug": "ngac-p910-04",
+    "description": "NGAC P910-04 is a high viscosity, controlled flow \\sencapsulant designed for microelectronics applications \\srequiring low shrinkage and high reliability performance.",
+    "company_name": "NextGen Adhesives",
+    "company_slug": "nextgen-adhesives",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691737905/production/Brand/29176/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607403/production/CategoryImage/516/category_image/ElectricalElectronics_01.jpg",
+    "properties": {
+        "Applications": [
+            "Printed Circuit Boards (PCBs)",
+            "Adhesives & Sealants",
+            "Appliances & Electronics",
+            "Jacketing & Insulation",
+            "Other Adhesives & Sealants Applications",
+            "Packaging & Assembly",
+            "Parts & Components",
+            "Wire & Cable"
+        ],
+        "Product Families": [
+            "Encapsulants",
+            "Adhesives & Sealants"
+        ]
+    },
+    "summary": {}
+}

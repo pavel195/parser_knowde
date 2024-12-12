@@ -1,0 +1,41 @@
+{
+    "id": 422577,
+    "brand": "ento",
+    "name": "Ento Protein",
+    "slug": "ento-protein",
+    "description": "\r\n\r\nEnto Protein is a good alternative to conventional proteins for dog and cat food: it’s a new option in your hypoallergenic formulation strategy.\r\n",
+    "company_name": "Entosystem",
+    "company_slug": "entosystem",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,c_crop,x_256,y_256,w_568,h_568/v1723754422/production/Brand/33240/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,c_crop,x_110,y_488,w_1100,h_344/v1723754422/production/Product/422577/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Swine",
+            "Pets",
+            "Birds & Poultry",
+            "Aquaculture",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Amino Acids & Proteins",
+            "Nutritional Ingredients"
+        ],
+        "Ingredient Name": [
+            "Black Soldier Fly Protein meal"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Black Soldier Fly Protein meal"
+        ],
+        "Functions": [
+            "Protein Source"
+        ],
+        "Labeling Claims": [
+            "Sustainable"
+        ],
+        "Protein Content": [
+            "47.0 - 53.0 %"
+        ]
+    }
+}

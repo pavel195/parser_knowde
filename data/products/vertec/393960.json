@@ -1,0 +1,45 @@
+{
+    "id": 393960,
+    "brand": "vertec",
+    "name": "Vertec™ 5000",
+    "slug": "vertec-5000",
+    "description": "Vertec™ 5000 is unreinforced PEEK (polyetheretherketone) material. Its high mechanical properties at elevated temperatures, combined with excellent chemical and hydrolysis resistance, make it the most popular advanced thermoplastic material available today. The use of unreinforced PEEK material is increasingly growing across all industries for metal replacements and other applications. Now, with its FDA approval, PEEK material can also be used to fabricate components in food and beverage as well as medical and pharmaceutical processing equipment.",
+    "company_name": "Vertec Polymers",
+    "company_slug": "vertec-polymers",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709127701/production/Brand/29755/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Medical Devices & Assemblies",
+            "Healthcare Packaging",
+            "Equipment & Parts",
+            "Medical",
+            "Chemical & Industrial Manufacturing",
+            "Packaging"
+        ],
+        "Product Families": [
+            "High Performance Thermoplastics",
+            "Engineering & Specialty Polymers"
+        ],
+        "Chemical Family": [
+            "Polyether Ether Ketone (PEEK)"
+        ],
+        "Polymer Name": [
+            "Polyetheretherketone (PEEK)"
+        ],
+        "End Uses": [
+            "Medical Devices",
+            "Door Profiles",
+            "Profiles",
+            "Medical/Healthcare Applications"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyetheretherketone (PEEK)"
+        ],
+        "Flexural Modulus": [
+            "3445.0 - 3445.0 MPa"
+        ]
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "id": 427352,
+    "brand": "ox-netal",
+    "name": "DESINCROX® PLUS",
+    "slug": "desincrox-plus",
+    "description": "DESINCROX® PLUS is an alkaline foaming detergent with a high content of corrosion inhibitors. Ideal product for use on sensitive materials. Foaming alkaline detergent with a high content of corrosion inhibitors, ideal for cleaning dirt of an organic nature on sensitive materials. Formulated based on a synergistic mixture of alkalis, anionic and cationic surfactants, dispersing salts, corrosion inhibitors, sequestrants and solvents.",
+    "company_name": "OX-CTA Grupo OX",
+    "company_slug": "ox-cta-grupo-ox",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292764/production/Brand/33861/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606984/production/CategoryImage/507/category_image/FoodNutrition_08.jpg",
+    "properties": {
+        "Applications": [
+            "Processing & Packaging",
+            "Food & Beverage Manufacturing",
+            "Home Care",
+            "Institutional & Industrial Care",
+            "Surface Care",
+            "Institutional & Catering",
+            "Food Facility Cleaning & Sanitization"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Industrial Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Detergents",
+            "Alkaline Cleaners"
+        ],
+        "Application Areas": [
+            "Equipment",
+            "Dishes",
+            "Hard Surfaces"
+        ],
+        "Features": [
+            "Corrosion Resistant",
+            "Foamable"
+        ]
+    }
+}

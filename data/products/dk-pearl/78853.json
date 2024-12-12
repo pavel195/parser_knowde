@@ -1,0 +1,45 @@
+{
+    "id": 78853,
+    "brand": "dk-pearl",
+    "name": "Daitopersion™ Ti-30",
+    "slug": "daitopersion-ti-30",
+    "description": "A dispersion of TiO2 in D5.  It has a high solid content and offers superior stability and easy handling.",
+    "company_name": "DAITO KASEI",
+    "company_slug": "daito-kasei-kogyo",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708685313/production/Company/1194/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708685313/production/Company/1194/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Sun Care",
+            "Color Cosmetics",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Stabilizers",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Titanium Dioxide",
+            "Hydrogen Dimethicone",
+            "Isodecyl Neopentanoate"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Titanium Dioxide",
+            "Isodecyl Neopentanoate",
+            "Hydrogen Dimethicone"
+        ],
+        "Functions": [
+            "Stabilizer"
+        ],
+        "Benefit Claims": [
+            "Softening",
+            "UV Protection"
+        ],
+        "Labeling Claims": [
+            "Credo Clean Standard",
+            "Ulta Beauty's Conscious Beauty"
+        ]
+    }
+}

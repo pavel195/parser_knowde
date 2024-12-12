@@ -1,0 +1,55 @@
+{
+    "id": 323927,
+    "brand": "volactose",
+    "name": "Volactive® UltraWhey Velicious",
+    "slug": "volactive-ultrawhey-velicious",
+    "description": "Volactive® UltraWhey Velicious™ is a specifically engineered whey protein concentrate powder that can be used in everyday products such as ice cream, baked goods, ready to drink shakes, smoothies, soups and many more. It is high in protein and imparts a luscious creamy mouthfeel and delicious neutral dairy flavor, with no drying aftertaste. It has proved a great hit with a new fast growing audience: the Active Nutrition consumer.",
+    "company_name": "Volac",
+    "company_slug": "volac",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708522681/production/Company/29445/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607247/production/CategoryImage/513/category_image/FoodNutrition_13.jpg",
+    "properties": {
+        "Applications": [
+            "Other Non-Alcoholic Beverages",
+            "Nutraceuticals & Supplements",
+            "Savory & Culinary",
+            "Functional Foods",
+            "Dairy",
+            "Beverage",
+            "Food",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Proteins & Amino Acids",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Nutraceuticals",
+            "Nutritional Bars",
+            "Soups",
+            "Smoothies",
+            "Powder Shakes",
+            "Protein Shakes"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Whey Protein Concentrate"
+        ],
+        "Features": [
+            "High Protein Content",
+            "Neutral Taste",
+            "Easy To Use",
+            "Creamy Mouthfeel"
+        ],
+        "End Uses": [
+            "Powder Shakes",
+            "Nutritional Bars",
+            "Nutraceuticals",
+            "Protein Shakes",
+            "Soups",
+            "Smoothies"
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": 437285,
+    "brand": "liquisorb",
+    "name": "FCF C-Series Liquid Dyes Purple (D23203)",
+    "slug": "french-color-and-fragrance-co-c-series-liquid-dyes-purple-d23203",
+    "description": null,
+    "company_name": "French Color and Fragrance Co.",
+    "company_slug": "french-color-and-fragrance-co",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708685347/production/Company/56353/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515740/production/CategoryImage/1062/category_image/PersonalCare_04.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical Manufacturing",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Solvent Dyes",
+            "Dyes"
+        ],
+        "End Uses": [
+            "Candles"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Dye"
+        ],
+        "End Uses": [
+            "Candles"
+        ],
+        "Features": [
+            "High Flash Point"
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "id": 400137,
+    "brand": "power-lift-grease-pl-10",
+    "name": "Air Tool Oil AT-10™",
+    "slug": "air-tool-oil-at-10",
+    "description": "Air Tool Oil AT-10™ is a multi-functional air tool oil that lubricates, cleans and protects - Improves tool power, speed, operation and reliability. It will removes gummy deposits, stops rust, and repels air line moisture and water spray.",
+    "company_name": "Muscle Products",
+    "company_slug": "muscle-products",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1682593041/production/Company/51029/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical & Industrial Manufacturing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Lubricants & Oils",
+            "Fluids & Lubricants"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Lubricant"
+        ],
+        "Application Area": [
+            "Power Tool",
+            "Drilling Applications",
+            "Sawing Operations"
+        ],
+        "Features": [
+            "Corrosion Resistant",
+            "Excellent Lubricity",
+            "Salt Water/Spray Resistant",
+            "Good Smoothness",
+            "Good Moisture Resistance"
+        ]
+    }
+}

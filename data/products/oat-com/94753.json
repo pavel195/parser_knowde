@@ -1,0 +1,93 @@
+{
+    "id": 94753,
+    "brand": "oat-com",
+    "name": "Oat Lipid e",
+    "slug": "oat-lipid-e",
+    "description": "Oat Lipid e is a rich, natural oat oil with a unique lipid profile. It has excellent absorbency and protective properties that help to moisturize and soothe the skin. Oat Lipid e is also effective in hair care formulations that improve hair shine and overall manageability.",
+    "company_name": "Oat Cosmetics",
+    "company_slug": "oat-cosmetics",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708687608/production/Product/94753/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708687608/production/Product/94753/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Bath & Shower",
+            "Hair Care",
+            "Skin Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Skin Actives",
+            "Conditioners & Emollients",
+            "Cosmetic Actives",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Avena Sativa (Oat) Kernel Oil"
+        ],
+        "End Uses": [
+            "Shampoos & Rinses",
+            "Anti-Aging Products"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Avena Sativa (Oat) Kernel Oil"
+        ],
+        "Functions": [
+            "Conditioner",
+            "Humectant"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Plant Origin"
+        ],
+        "Labeling Claims": [
+            "Credo Clean Standard",
+            "Clean at Sephora",
+            "Biodegradable",
+            "Naturally Derived",
+            "Environmentally Friendly",
+            "Not Tested on Animals",
+            "Allergen-free",
+            "Alcohol-free",
+            "Natural",
+            "Organic",
+            "Paraben-free",
+            "Ulta Beauty's Conscious Beauty",
+            "Sustainable",
+            "Fragrance-free",
+            "GMO-free",
+            "Gluten-free",
+            "Halal",
+            "Hypoallergenic"
+        ],
+        "Certifications & Compliance": [
+            "Organic Certified",
+            "CFDA Compliant (China)",
+            "IECIC (China)",
+            "ECOCERT",
+            "Halal"
+        ],
+        "Benefit Claims": [
+            "Tewl Reduction",
+            "Humectancy",
+            "Moisturizing",
+            "Anti-Aging",
+            "Suitable for Sensitive Skin",
+            "Rapid Absorption",
+            "Broad pH Stability",
+            "Moisture Retention",
+            "Healthy-Looking Skin",
+            "Soothing",
+            "Skin Barrier",
+            "Occlusive",
+            "Anti-Irritant",
+            "Antioxidant Properties",
+            "Non-Comedogenic",
+            "Outstanding Skin feel",
+            "Non-Greasy Feel",
+            "Hypo-Allergenic",
+            "Skin Protection"
+        ]
+    }
+}

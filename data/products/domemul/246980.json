@@ -1,0 +1,57 @@
+{
+    "id": 246980,
+    "brand": "domemul",
+    "name": "DOMEMUL AA 7601",
+    "slug": "domemul-aa-7601",
+    "description": "Domemul AA 7601 is an acrylic APEO-free emulsion designed for waterborne road marking coatings and paints for metal surfaces. The resin can also be used for fast drying waterborne coatings, also in high humidity and low temperature environments.Features &amp; BenefitsWaterborne road marking coatingsVery fast dryingExellent adhesion on asphalt, concrete, metal",
+    "company_name": "Helios Resins",
+    "company_slug": "helios-resins",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112266/production/Product/246980/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1686112266/production/Product/246980/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Infrastructure, Roads & Paving",
+            "Building & Construction",
+            "Industrial Coatings",
+            "Commercial",
+            "Decorative Paints",
+            "Decorative Paints, Coatings & Stains",
+            "Decorative Materials & Finishes",
+            "Metal Coatings",
+            "Agricultural & Construction Equipment",
+            "Transportation",
+            "Concrete Coatings & Stains",
+            "Coatings & Markings"
+        ],
+        "Product Families": [
+            "Resins & Binders",
+            "Acrylics"
+        ],
+        "Chemical Family": [
+            "Methacrylates"
+        ],
+        "End Uses": [
+            "Waterborne Coating"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Methacrylates"
+        ],
+        "End Uses": [
+            "Waterborne Coating"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Concrete",
+            "Masonry",
+            "Asphalt"
+        ],
+        "Features": [
+            "Air Drying",
+            "Excellent Adhesion",
+            "Fast Drying"
+        ]
+    }
+}

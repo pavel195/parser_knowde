@@ -1,0 +1,42 @@
+{
+    "id": 399333,
+    "brand": "tekalen",
+    "name": "Tekalen® A 500",
+    "slug": "tekalen-a-500",
+    "description": "Tekalen® A 500 is Terbrack's all-rounder. Due to its technical properties, it can be used in almost every technical area.",
+    "company_name": "Terbrack Kunststoff",
+    "company_slug": "terbrack-kunststoff",
+    "logo_url": null,
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Equipment & Parts",
+            "Sports & Recreation",
+            "Exterior & Body",
+            "Automotive",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Polyolefins",
+            "Basic Thermoplastics"
+        ],
+        "Chemical Family": [
+            "Polyolefins",
+            "Polyethylenes"
+        ],
+        "Polymer Name": [
+            "High Molecular Weight Polyethylene (HMWPE)"
+        ],
+        "End Uses": [
+            "Door Profiles",
+            "Profiles",
+            "Sporting Goods",
+            "Automotive Bumpers"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "High Molecular Weight Polyethylene (HMWPE)"
+        ]
+    }
+}

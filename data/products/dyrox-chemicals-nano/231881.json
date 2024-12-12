@@ -1,0 +1,45 @@
+{
+    "id": 231881,
+    "brand": "dyrox-chemicals-nano",
+    "name": "Fast Scarlet BBN",
+    "slug": "fast-scarlet-bbn",
+    "description": "Organic Pigment",
+    "company_name": "Dyrox Chemicals",
+    "company_slug": "dyrox-chemicals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708524703/production/Company/16399/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609091/production/CategoryImage/594/category_image/PrintingPackaging_05.jpg",
+    "properties": {
+        "Applications": [
+            "Offset & Lithographic Printing",
+            "Printing & Inks"
+        ],
+        "Product Families": [
+            "Organic Pigments",
+            "Color Pigments",
+            "Pigments & Colorants"
+        ],
+        "Chemical Family": [
+            "Azo Compounds"
+        ],
+        "End Uses": [
+            "Offset Ink"
+        ]
+    },
+    "summary": {
+        "Color": [
+            "Red"
+        ],
+        "Pigment Type": [
+            "Organic Pigments"
+        ],
+        "Chemical Family": [
+            "Azo Compounds"
+        ],
+        "End Uses": [
+            "Offset Ink"
+        ],
+        "Synonyms": [
+            "C.I. Pigment Red 48:1, C.I. 15865:1, PR 48:1"
+        ]
+    }
+}

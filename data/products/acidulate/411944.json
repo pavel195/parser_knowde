@@ -1,0 +1,31 @@
+{
+    "id": 411944,
+    "brand": "acidulate",
+    "name": "Enviro-Kleen 100J",
+    "slug": "enviro-kleen-100j",
+    "description": "Enviro-Kleen 100J is a high alkaline non-foaming cleaner.",
+    "company_name": "Quip Laboratories",
+    "company_slug": "quip-laboratories",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292350/production/Brand/32132/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515612/production/CategoryImage/1052/category_image/HII_04.jpg",
+    "properties": {
+        "Applications": [
+            "Home Care",
+            "Institutional & Industrial Care",
+            "Surface Care",
+            "Industrial Cleaning"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Commercial Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Alkaline Cleaners"
+        ],
+        "Features": [
+            "Non-Foaming"
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "id": 386964,
+    "brand": "pmf",
+    "name": "Fibrox™ 030 MX",
+    "slug": "fibrox-030-mx",
+    "description": "Fibrox™ 030 MX is produced from high purity mineral ores in an electric arc furnace, the precisely designed fiber is used as a reinforcing material in a variety of composite end-uses including friction materials; quality plastics; paints; caulks; sealants, coatings and gaskets. Fibrox™ 030 specialty fiber is a quality reinforcement / filler material with a fiber index of 97%. It boasts thermal stability, consistent uniformity and excellent tensile strength and is the perfect alternative to asbestos. In addition, application of specific surface treatments can be integrated into the process to customize this product for a multitude of end uses.",
+    "company_name": "Fibrox",
+    "company_slug": "fibrox",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686149101/production/Brand/29008/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical & Industrial Manufacturing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Reinforcements",
+            "Other Reinforcements"
+        ],
+        "End Uses": [
+            "Gaskets"
+        ]
+    },
+    "summary": {
+        "Reinforcement Material": [
+            "Mineral"
+        ],
+        "Reinforcement Form": [
+            "Milled Fiber"
+        ],
+        "Features": [
+            "High Purity",
+            "High Tensile Strength",
+            "Wear Resistant",
+            "Heat Resistance"
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "id": 395308,
+    "brand": "bio-g-max",
+    "name": "L-300",
+    "slug": "l-300",
+    "description": "L-300 product combines the potent waste-digesting properties of natural enzymes and special multi-cultured strains of natural bacteria. These Bacillus bacteria spores (both anaerobic and aerobic) are cultured for the ability to digest waste – quickly, efficiently and without odors! These bacteria are combined with free enzymes using a patented stabilization process. The enzymes work in harmony with bacteria to quickly break down proteins, starch, carbohydrates, animal and vegetable fats – to provide the fastest action available in a liquid digestant.",
+    "company_name": "Rex-Bac-T",
+    "company_slug": "rex-bac-t",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664291963/production/Company/49460/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515636/production/CategoryImage/1054/category_image/HII_06.jpg",
+    "properties": {
+        "Applications": [
+            "Institutional & Industrial Care",
+            "Industrial Cleaning"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Industrial Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner"
+        ],
+        "Application Areas": [
+            "Drains"
+        ]
+    }
+}

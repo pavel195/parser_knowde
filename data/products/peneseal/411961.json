@@ -1,0 +1,41 @@
+{
+    "id": 411961,
+    "brand": "peneseal",
+    "name": "PENESEAL™ FH (1:1Concentrate)",
+    "slug": "peneseal-fh-1-1concentrate",
+    "description": "PENESEAL™ FH is a clear, reactive penetrating sealer for concrete and masonry building materials designed to permanently protect, preserve and strengthen them. PENESEAL™ FH penetrates deep into concrete and reacts with the elemental concrete ingredients to solidify them into a harder, denser, stronger concrete mass. Alkali salts and minerals are flushed out in the process, eliminating efflorescence and leaching and increasing bonding of surface coatings.",
+    "company_name": "Ics Penetron International",
+    "company_slug": "ics-penetron-international",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520302/production/Brand/32135/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608465/production/CategoryImage/561/category_image/BuildingConstruction_05.jpg",
+    "properties": {
+        "Applications": [
+            "Flooring & Surfaces",
+            "Building & Construction",
+            "Concrete Coatings & Stains",
+            "Floor Coatings"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Sealer"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Concrete"
+        ],
+        "Features": [
+            "Abrasion Resistant",
+            "Non-Toxic",
+            "Good Bonding Strength",
+            "Crack Resistant",
+            "Good Weather Stability"
+        ],
+        "Application Method": [
+            "Spray"
+        ]
+    }
+}

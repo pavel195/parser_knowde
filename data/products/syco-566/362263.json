@@ -1,0 +1,41 @@
+{
+    "id": 362263,
+    "brand": "syco-566",
+    "name": "SYCO 566®",
+    "slug": "syco-566",
+    "description": "SYCO 566® is a high-performance, APEO free wetting agent, compatible with anionic and non-ionic surfactants. It is recommended for difficult-to-wet substrates such as silicone-treated plastics, papers or glass, cellulosic films, and aluminum and plastic sheets.",
+    "company_name": "SYCO",
+    "company_slug": "syco",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708689316/production/Brand/27175/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608410/production/CategoryImage/557/category_image/BuildingConstruction_01.jpg",
+    "properties": {
+        "Applications": [
+            "Architectural Coatings",
+            "Building Envelope",
+            "Building & Construction",
+            "Building Envelope & Roofing"
+        ],
+        "Product Families": [
+            "Dispersing & Wetting Additives",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Cellulose & Cellulosics"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Surfactant",
+            "Surfactant (Anionic)"
+        ],
+        "Chemical Family": [
+            "Cellulose & Cellulosics"
+        ],
+        "Compatible Polymers & Resins": [
+            "Cellulose & Cellulosics"
+        ],
+        "Labeling Claims": [
+            "APEO-free"
+        ]
+    }
+}

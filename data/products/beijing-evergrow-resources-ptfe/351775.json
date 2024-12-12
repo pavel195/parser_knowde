@@ -1,0 +1,46 @@
+{
+    "id": 351775,
+    "brand": "beijing-evergrow-resources-ptfe",
+    "name": "PTFE BAR",
+    "slug": "ptfe-bar",
+    "description": "PTFE BAR is the best chemical-resistance plastic. PTFE has a wide range of working temperature from-180+260 and a wax-like surface to which anything hardly sticks. PTFE has the lowest coefficient of friction of all known solid materials. It has the best electrical properties than the other plastics.",
+    "company_name": "Beijing Evergrow Resources",
+    "company_slug": "beijing-evergrow-resources",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691742304/production/Company/38231/logo/image",
+    "banner_url": "https://static.knowde.com/card-banners/knowde-card-for-raw-materials-8.jpg",
+    "properties": {
+        "Applications": [
+            "Automotive Electronics",
+            "Apparel",
+            "Sports & Recreation",
+            "Other Transportation Applications",
+            "Other Industrial Applications",
+            "Other Parts & Components",
+            "Equipment & Parts",
+            "Pipes & Plumbing",
+            "Building Materials",
+            "Parts & Components",
+            "Devices & Assemblies",
+            "Chemical & Industrial Manufacturing",
+            "Transportation"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Fluoropolymers"
+        ],
+        "Polymer Name": [
+            "Polytetrafluoroethylene (PTFE)"
+        ],
+        "End Uses": [
+            "Valve Parts",
+            "Pump Parts",
+            "Pistons",
+            "Hoses",
+            "Filters",
+            "Bearings"
+        ]
+    },
+    "summary": {}
+}

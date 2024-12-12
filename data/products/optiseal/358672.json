@@ -1,0 +1,40 @@
+{
+    "id": 358672,
+    "brand": "optiseal",
+    "name": "Optus Trawlerdek",
+    "slug": "optus-trawlerdek",
+    "description": "Optus Trawlerdek is a heavy duty screed system for marine and offshore applications. This solvent free epoxy resin weatherdeck screed was specifically developed for workboat and navy applications. It is durable, resistant to abrasion and will withstand heavy loads. It is supplied in 3 components, trowel applied.",
+    "company_name": "Optus",
+    "company_slug": "optus",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520244/production/Company/41338/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608566/production/CategoryImage/566/category_image/PaintingsCoatings_02.jpg",
+    "properties": {
+        "Applications": [
+            "Coatings & Finishes",
+            "Marine",
+            "Marine Coatings",
+            "Transportation"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Solventless & High Solids Coating"
+        ],
+        "Features": [
+            "High Impact Resistance",
+            "Cost Effective",
+            "Excellent Toughness",
+            "Durable",
+            "Chemical Resistant",
+            "Excellent Substrate Adhesion"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Steel",
+            "Metal"
+        ]
+    }
+}

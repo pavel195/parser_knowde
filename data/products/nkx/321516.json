@@ -1,0 +1,43 @@
+{
+    "id": 321516,
+    "brand": "nkx",
+    "name": "NKX 120",
+    "slug": "nkx-120",
+    "description": "NKX 120 can be used as a background for adhesion or mixed with any other PU. Excellent cost benefit. High adhesion and elasticity. We have NMP free version of this resin.",
+    "company_name": "Nokxeller Microdispersions",
+    "company_slug": "nokxeller-microdispersions",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112131/production/Brand/22902/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Leather",
+            "Textiles & Nonwovens",
+            "Finishing",
+            "Leather & Textiles",
+            "Textile Manufacturing",
+            "Leather Manufacturing"
+        ],
+        "Product Families": [
+            "Other Resins & Binders",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Polyethers",
+            "Aromatics"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Aromatics",
+            "Polyethers"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Textiles",
+            "Leather"
+        ],
+        "Features": [
+            "Excellent Adhesion",
+            "Good Elasticity"
+        ]
+    }
+}

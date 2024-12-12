@@ -1,0 +1,41 @@
+{
+    "id": 402743,
+    "brand": "hyperox",
+    "name": "Serocen™",
+    "slug": "serocen",
+    "description": "Serocen is a highly purified Centella Asiatica L. extract standardized for specific Triterpenoid glycosides. Centella Asiatica L. has been used as a food and medicinal herb for thousands of years in India, China, Sri Lanka, Nepal and Madagascar.",
+    "company_name": "Natrusolate",
+    "company_slug": "natrusolate",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708690362/production/Company/50411/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606129/production/CategoryImage/472/category_image/PharmaceuticalsNutraceuticals_03.jpg",
+    "properties": {
+        "Product Families": [
+            "Phytochemicals & Plant Extracts",
+            "Phytochemicals",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Centella Extract"
+        ],
+        "Functions": [
+            "Phytochemical"
+        ],
+        "Active Component": [
+            "Madecassoside",
+            "Asiaticoside"
+        ],
+        "Physical Form": [
+            "Powder",
+            "Solid"
+        ],
+        "Features": [
+            "High Quality",
+            "Free Flowing",
+            "Anti-Inflammatory",
+            "High Purity"
+        ]
+    }
+}

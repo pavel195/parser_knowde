@@ -1,0 +1,45 @@
+{
+    "id": 408323,
+    "brand": "cocoasupply",
+    "name": "Cocoa Supply Cacao Butter - Natural Pure Prime Pressed",
+    "slug": "cocoa-supply-cacao-butter-natural-pure-prime-pressed",
+    "description": "Cacao Butter - Natural Pure Prime Pressed is made in Ecuador with premium beans. This virgin butter is not deodorized so it retains the delicious chocolate aroma with its natural characteristics. Natural cacao butter is widely used in the cosmetics and soap industries. It is believed to be good for scars, stretch marks, and wrinkles. In the food industry it is used to make wonderful white chocolate.",
+    "company_name": "Cocoa Supply",
+    "company_slug": "cocoa-supply",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686109561/production/Company/53575/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606945/production/CategoryImage/505/category_image/FoodNutrition_06.jpg",
+    "properties": {
+        "Applications": [
+            "Food",
+            "Bakery",
+            "Confectionery",
+            "Convenience Foods",
+            "Desserts & Fruit Preparations"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Cocoa & Chocolate"
+        ],
+        "End Uses": [
+            "Chocolate Spreads",
+            "Creams",
+            "Mousse",
+            "Chocolates",
+            "Fudge"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Cocoa Butter"
+        ],
+        "Labeling Claims": [
+            "Organic",
+            "Vegan",
+            "Kosher",
+            "Allergen-free"
+        ],
+        "Certifications & Compliance": [
+            "Organic Certified"
+        ]
+    }
+}

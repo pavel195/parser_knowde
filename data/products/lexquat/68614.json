@@ -1,0 +1,62 @@
+{
+    "id": 68614,
+    "brand": "lexquat",
+    "name": "Spectrastat™ PHL",
+    "slug": "spectrastat-phl",
+    "description": "Spectrastat™ PHL is a water-soluble, non-irritating complete preservation system. It is an optimized combination of multifunctional ingredients that allows formulators to easily create self-preserving formulations.",
+    "company_name": "Inolex",
+    "company_slug": "inolex-chemical-company",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1717010460/production/Product/68614/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1717010460/production/Product/68614/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Bath & Shower",
+            "Skin Care",
+            "Wipes, Tissue & Towel",
+            "Beauty & Care",
+            "Personal Hygiene"
+        ],
+        "Product Families": [
+            "Stabilizers",
+            "Antioxidants & Preservatives",
+            "Conditioners & Emollients",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "1,2-Hexanediol",
+            "Caprylhydroxamic Acid"
+        ],
+        "End Uses": [
+            "Body Cream",
+            "Body Lotion",
+            "Skin Toners",
+            "Shower Gels"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "1,2-Hexanediol",
+            "Caprylhydroxamic Acid"
+        ],
+        "Functions": [
+            "Preservative",
+            "Chelating Agent",
+            "Emollient",
+            "Anti-Microbial Agent"
+        ],
+        "Labeling Claims": [
+            "Ulta Beauty's Conscious Beauty",
+            "Paraben-free",
+            "Credo Clean Standard",
+            "Formaldehyde releasing substances-free",
+            "MIT-free"
+        ],
+        "Benefit Claims": [
+            "Preservation",
+            "Chelating",
+            "Emolliency",
+            "Antimicrobial",
+            "Self-Preserving"
+        ]
+    }
+}

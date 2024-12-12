@@ -1,0 +1,37 @@
+{
+    "id": 422576,
+    "brand": "ento",
+    "name": "Ento Frass",
+    "slug": "ento-frass",
+    "description": "\n\nEnto Frass is a sustainable organic fertilizer that boosts the biological fertility of the soil. Ento-frass is a good alternative to conventional fertilizer and can be used as an ingredient in many kinds of usage as soil mixes, professional &amp; retail, land vegetables crop, fruits crops, horticulture. Could be combined at any other source of fertilizer (organic or chemical fertilizer).",
+    "company_name": "Entosystem",
+    "company_slug": "entosystem",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,c_crop,x_256,y_256,w_568,h_568/v1723754203/production/Brand/33240/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1723754203/production/Product/422576/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Fruits",
+            "Vegetables",
+            "Ornamentals",
+            "Agricultural Pest Control",
+            "Agricultural Crops",
+            "Pest Control",
+            "Turf, Ornamentals & Landscape"
+        ],
+        "Product Families": [
+            "Fertilizers & Nutrients",
+            "Plant Health, Nutrients & Soil Management"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Fertilizer"
+        ],
+        "Labeling Claims": [
+            "Sustainable",
+            "Additive-free",
+            "Organic",
+            "Natural"
+        ]
+    }
+}

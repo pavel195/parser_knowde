@@ -1,0 +1,52 @@
+{
+    "id": 405462,
+    "brand": "globaltech",
+    "name": "GlobalTech® AquaSonic® Aqueous Cleaner for Surface Mount Applications – Concentrate",
+    "slug": "globaltech-aquasonic-aqueous-cleaner-for-surface-mount-applications-concentrate",
+    "description": "GlobalTech® AquaSonic® Aqueous Cleaner for Surface Mount Applications – Concentrate (SMA) is a proven, aqueous cleaning product for removing solder paste and/or SMD adhesives from stencils and misprinted circuit board assemblies. SMA is a concentrated mixture of water-dilutable solvents and specialty surfactants that have been specially formulated to be diluted, low foaming, and free rinsing. It is also effective in removing water soluble, rosin, no clean and lead-free solder flux residues. It contains no monoethanolamine (MEA), halogens or heavy metals.",
+    "company_name": "JNJ Industries",
+    "company_slug": "jnj-industries",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1682593091/production/Brand/31079/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515657/production/CategoryImage/1056/category_image/HII_08.jpg",
+    "properties": {
+        "Applications": [
+            "Institutional & Industrial Care",
+            "Surface Care",
+            "Industrial Cleaning",
+            "Technical Cleaning",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Industrial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Adhesive Remover",
+            "Cleaner"
+        ],
+        "Application Area": [
+            "Hard Surfaces",
+            "Printed Circuit Boards",
+            "Electrical Components"
+        ],
+        "Certifications & Compliance": [
+            "REACH (Europe)",
+            "Waste Electrical & Electronic Equipment Directive (WEEE)",
+            "RoHS Compliant"
+        ],
+        "Features": [
+            "Water Soluble",
+            "Degreasing",
+            "Shiny Surface",
+            "Biodegradable",
+            "Excellent Rinsability",
+            "Low VOC",
+            "Excellent Compatibility",
+            "Low Toxicity",
+            "Low Foaming",
+            "Neutral pH"
+        ]
+    }
+}

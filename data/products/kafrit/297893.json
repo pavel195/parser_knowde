@@ -1,0 +1,49 @@
+{
+    "id": 297893,
+    "brand": "kafrit",
+    "name": "KAFRIT SAB 0C430 EVA",
+    "slug": "kafrit-group-sab-0c430-eva",
+    "description": "KAFRIT SAB 0C430 EVA functions as a slip and anti-blocking agent specifically designed for compatible films in the rubber industry. It's ideal for processing in banburys or kneaders. This formulation aligns with ethylene vinyl acetate (eva) polymers and resins, and the carrier includes polyethylenes (PE), resin-based, and ethylene vinyl acetate (eva).",
+    "company_name": "Kafrit Group",
+    "company_slug": "kafrit-group",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708688499/production/Brand/38849/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625605472/production/CategoryImage/448/category_image/Plastics_07.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial & Transport Packaging",
+            "Food & Beverage Packaging",
+            "Equipment & Parts",
+            "Chemical & Industrial Manufacturing",
+            "Packaging"
+        ],
+        "Product Families": [
+            "Surface Modifiers",
+            "Performance Additives",
+            "Additive Masterbatches",
+            "Masterbatches",
+            "Polymer Additives",
+            "Elastomer Additives"
+        ],
+        "End Uses": [
+            "Kneader",
+            "Banbury Mixer",
+            "Food Packaging",
+            "Film",
+            "Cast Films"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Slip Agent",
+            "Anti-Blocking Agent"
+        ],
+        "Compatible Polymers & Resins": [
+            "Ethylene Vinyl Acetate (EVA)"
+        ],
+        "Carrier": [
+            "Ethylene Vinyl Acetate (EVA)",
+            "Polyethylenes (PE)",
+            "Resin-based"
+        ]
+    }
+}

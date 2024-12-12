@@ -1,0 +1,35 @@
+{
+    "id": 415592,
+    "brand": "pipe-slime",
+    "name": "J.C. Whitlam Manufacturing T-U TYPE 555 Thread Sealing Compound",
+    "slug": "j-c-whitlam-manufacturing-t-u-type-555-thread-sealing-compound",
+    "description": "T-U TYPE 555 is a yellow soft-set, odor free all purpose, non-seizing, thread sealing compound that produces a leakproof seal on all types of metal and plastic threaded connections. T-U TYPE 555 is completely homogenized and free of any valve destroying grit.",
+    "company_name": "J.C. Whitlam Manufacturing",
+    "company_slug": "j-c-whitlam-manufacturing",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1703115849/production/Company/55452/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Sealants & Caulks",
+            "Building Materials"
+        ],
+        "Product Families": [
+            "Caulks & Sealants",
+            "Adhesives & Sealants"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Thread Sealant"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Polybutylene (PB)",
+            "Acrylonitrile Butadiene Styrene (ABS)",
+            "Plastics",
+            "Polyethylene (PE)",
+            "Polyvinyl Chloride (PVC)",
+            "Polypropylene (PP)"
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "id": 339155,
+    "brand": "gar-dur",
+    "name": "GAR-DUR® UHMW-PE",
+    "slug": "gar-dur-uhmw-pe",
+    "description": "GAR-DUR® UHMW-PE plastic parts are made from ultra high molecular weight (UHMW) polymer having a molecular weight of 4.2 million and greater. Garland Manufacturing Company has been processing UHMW resin for over 45 years. This true UHMW polymer is excellent for resisting abrasion and corrosion while contributing a low coefficient of friction. Fabricated Gar-Dur® parts have helped companies improve performance, reduce downtime, eliminate the need for lubrication, replace steel parts and lower their operating costs.",
+    "company_name": "Garland Manufacturing",
+    "company_slug": "garland-manufacturing",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691737680/production/Brand/24953/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608744/production/CategoryImage/575/category_image/AutomotiveTransportation_03.jpg",
+    "properties": {
+        "Applications": [
+            "Other Paper & Pulp Applications",
+            "Mining",
+            "Equipment & Parts",
+            "Appliances & Electronics",
+            "Interior",
+            "Exterior & Body",
+            "Paper & Pulp",
+            "Chemical & Industrial Manufacturing",
+            "Oil, Gas & Mining",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Polyolefins",
+            "Polyethylenes"
+        ],
+        "Polymer Name": [
+            "Ultra High Molecular Weight Polyethylene (UHMWPE)"
+        ],
+        "End Uses": [
+            "Mining Applications",
+            "Refrigeration"
+        ]
+    },
+    "summary": {
+        "Density": [
+            "941.0 - 941.0 kg/m³"
+        ]
+    }
+}

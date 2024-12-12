@@ -1,0 +1,29 @@
+{
+    "id": 394391,
+    "brand": "evolutionase",
+    "name": "Atomes REACTION 2000",
+    "slug": "atomes-reaction-2000",
+    "description": "Atomes Reaction 2000 is a specialized cleaner designed for use in food processing facilities. RÉACTION 2000 was created to be a non-foaming, sequestrant-based alkaline cleaner.",
+    "company_name": "Atomes",
+    "company_slug": "atomes",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1682592992/production/Company/49452/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515647/production/CategoryImage/1055/category_image/HII_07.jpg",
+    "properties": {
+        "Applications": [
+            "Institutional & Industrial Care",
+            "Industrial Cleaning"
+        ],
+        "Product Families": [
+            "Industrial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Alkaline Cleaners"
+        ],
+        "Features": [
+            "Non-Foaming"
+        ]
+    }
+}

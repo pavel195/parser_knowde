@@ -1,0 +1,51 @@
+{
+    "id": 130599,
+    "brand": "flextuff",
+    "name": "Ecobarrier® 2614",
+    "slug": "ecobarrier-2614",
+    "description": "1.40 g/cc Specific Gravity Flexible TPO for Acoustical Management ApplicationsEcobarrier Flexible Thermoplastic Polyolefin (TPO) compounds provide the most cost effective, easily processed material option for injection molded or thermoformed acoustical management applications. Ecobarrier's full range of specific gravity and other physical property options allows you to customize your application needs to achieve the most cost effective sound barrier solution.Ecobarrier compounds are used in noise reduction applications in the light vehicle through heavy commercial truck industry as well as other transportation and recreational vehicles. Applications include: dash mats, rain shields, closeout panels, seals and engine blankets.Features Include:Specific gravity range from 1.20 - 2.50 g/ccCalcium carbonate and barium sulfate filler optionsVarious hardness options availableFormulations for injection molding as well as sheet extrusionCan be formulated utilizing reprocessed base materialsCustomized formulations available to meet your specific needAll Ecobarrier products are 100% recyclable",
+    "company_name": "Noble Polymers",
+    "company_slug": "noble-polymers",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708516754/production/Company/2818/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708516754/production/Company/2818/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Exterior & Body",
+            "EIFS & Insulation",
+            "Exterior Insulation & Finishing Systems (EIFS)",
+            "Aerospace & Aviation",
+            "Other Automotive Applications",
+            "Powertrain & UTH",
+            "Interior",
+            "Automotive",
+            "Transportation",
+            "Building Envelope",
+            "Building Envelope & Roofing"
+        ],
+        "Product Families": [
+            "Polyolefins",
+            "Basic Thermoplastics"
+        ],
+        "Chemical Family": [
+            "Polyolefins"
+        ],
+        "Polymer Name": [
+            "Polyolefin (unspecified)"
+        ],
+        "End Uses": [
+            "Automotive Exterior Parts",
+            "Automotive Applications",
+            "Automotive Under The Hood",
+            "Automotive Interior Parts",
+            "Acoustic Barrier"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyolefin (unspecified)"
+        ],
+        "Processing Methods": [
+            "Injection Molding"
+        ]
+    }
+}

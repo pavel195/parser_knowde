@@ -1,0 +1,34 @@
+{
+    "id": 341167,
+    "brand": "oenoblock",
+    "name": "OENOFINISHER (The Original)",
+    "slug": "oenofinisher-the-original",
+    "description": "OENOFINISHER (The Original) Enhanced sweet notes (fruity, pastry). OENOFINISHER is an oak chip for the fast treatment (1-3 weeks) of wines and spirits. Compact to facilitate storage and use, while limiting inhalation of the oak dust by users and an effective and stable enhancement up until the consumption of your wines and spirits.",
+    "company_name": "Seguin Moreau NAPA",
+    "company_slug": "seguin-moreau-napa",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686104170/production/Brand/25194/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606934/production/CategoryImage/504/category_image/FoodNutrition_05.jpg",
+    "properties": {
+        "Applications": [
+            "Beverage",
+            "Liquor & Spirits",
+            "Oenology"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Plant & Herb Products & Extracts"
+        ],
+        "End Uses": [
+            "Alcoholic Beverages",
+            "Wine"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Oak"
+        ],
+        "Features": [
+            "Consistent Quality"
+        ]
+    }
+}

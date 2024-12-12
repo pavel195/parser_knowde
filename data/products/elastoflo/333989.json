@@ -1,0 +1,44 @@
+{
+    "id": 333989,
+    "brand": "elastoflo",
+    "name": "KMI Group PP KM-017IB",
+    "slug": "kmi-group-pp-km-017ib",
+    "description": "KM-017IB is an impact copolymer polypropylene for injection molding. It exhibits a high rigidity as well as excellent impact strength due to the ideal combination of highly crystalline homo matrix and the well designed rubber morphology.",
+    "company_name": "KMI Group",
+    "company_slug": "kmi-group",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708526854/production/Company/32999/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608502/production/CategoryImage/564/category_image/BuildingConstruction_08.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial & Transport Packaging",
+            "Housewares",
+            "Packaging"
+        ],
+        "Product Families": [
+            "Polyolefins",
+            "Basic Thermoplastics"
+        ],
+        "Chemical Family": [
+            "Polypropylenes (PP)",
+            "Polyolefins"
+        ],
+        "Polymer Name": [
+            "Polypropylene Impact Copolymer (ICP)"
+        ],
+        "End Uses": [
+            "Housewares",
+            "Containers"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polypropylene Impact Copolymer (ICP)"
+        ],
+        "Processing Methods": [
+            "Injection Molding"
+        ],
+        "Melt Flow Index": [
+            "20.0 - 20.0 g/10 min"
+        ]
+    }
+}

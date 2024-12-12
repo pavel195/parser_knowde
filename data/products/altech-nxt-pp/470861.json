@@ -1,0 +1,42 @@
+{
+    "id": 470861,
+    "brand": "altech-nxt-pp",
+    "name": "WIC PP 15 BKD",
+    "slug": "wic-pp-15-bkd",
+    "description": "WIC PP 15 BKD is a polypropylene-based polymer with 15% carbon fiber filler and a deep black color. It is suitable for injection molding with a melt temperature of 210-260°C and a mold temperature of 30-60°C. It has heat aging stabilization and is suitable for use in the automotive and sport market segments. Under certain conditions, the increased thermal conductivity should be considered.",
+    "company_name": "MOCOM Compounds",
+    "company_slug": "mocom",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1713790284/production/Company/50276/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1713790284/production/Company/50276/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Sports & Recreation"
+        ],
+        "Product Families": [
+            "Polyolefins",
+            "Basic Thermoplastics"
+        ],
+        "Chemical Family": [
+            "Polypropylenes (PP)",
+            "Polyolefins"
+        ],
+        "Polymer Name": [
+            "Polypropylene Copolymer"
+        ],
+        "End Uses": [
+            "Sporting Goods",
+            "Automotive Applications"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polypropylene Copolymer"
+        ],
+        "Processing Methods": [
+            "Injection Molding"
+        ],
+        "Fillers Included": [
+            "Carbon Fiber"
+        ]
+    }
+}

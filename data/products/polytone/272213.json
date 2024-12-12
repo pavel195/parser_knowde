@@ -1,0 +1,47 @@
+{
+    "id": 272213,
+    "brand": "polytone",
+    "name": "POLYTONE® AP121",
+    "slug": "polytone-ap121",
+    "description": "POLYTONE™ AP 121 is a non heat reactive thermoplastic alkyl phenolic resin designed to develop high tack levels in rubber compounds which are used in tire construction and mechanical goods",
+    "company_name": "Polyols and Polymers",
+    "company_slug": "polyols-and-polymers",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1685601154/production/Company/20954/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609128/production/CategoryImage/597/category_image/PrintingPackaging_08.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial & Assembly Adhesives",
+            "Agricultural Films",
+            "Bonding & Assembly",
+            "Building Materials",
+            "Transportation Assembly",
+            "Other Industrial & Assembly Applications",
+            "Pipes & Hoses",
+            "Belts & Conveyers",
+            "Tires",
+            "Industrial Adhesives & Sealants",
+            "Chemical & Industrial Manufacturing",
+            "Automotive",
+            "Pipes & Plumbing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Additives",
+            "Surface Modifiers"
+        ],
+        "Chemical Family": [
+            "Phenols & Phenolics"
+        ],
+        "End Uses": [
+            "Contact Adhesive"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Phenols & Phenolics"
+        ],
+        "End Uses": [
+            "Contact Adhesive"
+        ]
+    }
+}

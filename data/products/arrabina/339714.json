@@ -1,0 +1,44 @@
+{
+    "id": 339714,
+    "brand": "arrabina",
+    "name": "Comet Bio Lignin",
+    "slug": "comet-bio-lignin",
+    "description": "Comet Bio Lignin is a sustainably produced resin with applications in pelletized animal feed, energy pellets/briquettes and industrial and construction adhesives. Comet Bio’s Lignin has shown enhanced binding and pelleting properties and can be used in dispersant and adhesive applications as well.",
+    "company_name": "COMET",
+    "company_slug": "comet-bio",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,c_crop,x_103,y_0,w_96,h_96,a_360/v1722543858/production/Company/35157/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,c_crop,x_0,y_1452,w_8192,h_2560/v1722543858/production/Company/35157/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Birds & Poultry",
+            "Ruminants",
+            "Swine",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Feed Supplements",
+            "Nutritional Ingredients"
+        ],
+        "Ingredient Name": [
+            "Lignin"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Lignin"
+        ],
+        "Animal Species": [
+            "Swine",
+            "Laying Hens",
+            "Cattle",
+            "Cows"
+        ],
+        "Features": [
+            "Improving Stress Tolerance",
+            "Improves Performance"
+        ],
+        "Labeling Claims": [
+            "Sustainable"
+        ]
+    }
+}

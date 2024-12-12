@@ -1,0 +1,39 @@
+{
+    "id": 318250,
+    "brand": "eurovac",
+    "name": "Eurocryl 8875",
+    "slug": "eurocryl-8875",
+    "description": "Eurocryl 8875 is low emission, interior and exterior paints and very water-resistant",
+    "company_name": "Cebra Chemie",
+    "company_slug": "cebra-chemie",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112278/production/Company/29925/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608611/production/CategoryImage/569/category_image/PaintingsCoatings_05.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Building & Construction",
+            "Decorative Paints",
+            "Architectural Coatings",
+            "Decorative Paints, Coatings & Stains",
+            "Building Envelope & Roofing",
+            "Decorative Materials & Finishes",
+            "Building Envelope"
+        ],
+        "Product Families": [
+            "Resins & Binders",
+            "Acrylics"
+        ],
+        "Chemical Family": [
+            "Styrene-Acrylic Copolymer"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Styrene-Acrylic Copolymer"
+        ],
+        "Features": [
+            "Water Resistance",
+            "Multi-Substrate Adhesion"
+        ]
+    }
+}

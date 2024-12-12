@@ -1,0 +1,36 @@
+{
+    "id": 301119,
+    "brand": "aricryl",
+    "name": "ARIKYD 4903-60",
+    "slug": "arikyd-4903-60",
+    "description": "ARIKYD 4903-60 is a modified alkyd resin. Suitable for industrial metal coating and hammertone finish. Having Low viscosity, fast dry, good chemical resistance, good hardness.",
+    "company_name": "PT. Aristek Highpolymer",
+    "company_slug": "pt-aristek-highpolymer",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112176/production/Company/24311/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608585/production/CategoryImage/567/category_image/PaintingsCoatings_03.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial Coatings",
+            "Metal Coatings"
+        ],
+        "Product Families": [
+            "Resins & Binders",
+            "Alkyds"
+        ],
+        "Chemical Family": [
+            "Alkyds (Modified)"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Alkyds (Modified)"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal"
+        ],
+        "Features": [
+            "Chemical Resistance",
+            "Improved Hardness"
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "id": 418954,
+    "brand": "algafluid",
+    "name": "Aminoslow®",
+    "slug": "aminoslow",
+    "description": "Aminoslow® is an organ-mineral fertilizer nitrogen fluid in suspension N₁₂ from hydrolyzed animal epithelium.",
+    "company_name": "PAVONI & C SPA",
+    "company_slug": "pavoni-c-spa",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708687592/production/Brand/32841/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608173/production/CategoryImage/547/category_image/AgricultureFeed_03.jpg",
+    "properties": {
+        "Applications": [
+            "Vegetables",
+            "Trees & Woodlands",
+            "Fruits",
+            "Cereals",
+            "Agricultural Crops",
+            "Turf, Ornamentals & Landscape"
+        ],
+        "Product Families": [
+            "Fertilizers & Nutrients",
+            "Plant Health, Nutrients & Soil Management"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Fertilizer"
+        ]
+    }
+}

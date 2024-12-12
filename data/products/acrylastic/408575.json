@@ -1,0 +1,49 @@
+{
+    "id": 408575,
+    "brand": "acrylastic",
+    "name": "Davlin Coatings Capseal 800 Roofing Mastic Sealer",
+    "slug": "davlin-coatings-capseal-800-roofing-mastic-sealer",
+    "description": "Davlin Coatings Capseal 800 Roofing Mastic Sealer is a specially formulated, highly flexible, acrylic modified waterborne emulsion used to seal asphalt on parapet walls, flashing, and repair details.",
+    "company_name": "Davlin Coatings",
+    "company_slug": "davlin-coatings",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1682453059/production/Company/53623/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608502/production/CategoryImage/564/category_image/BuildingConstruction_08.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Infrastructure, Roads & Paving",
+            "Wall Panels",
+            "Repair & Rehabilitation"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Sealer",
+            "Waterborne Coating"
+        ],
+        "Features": [
+            "Excellent Seal Properties",
+            "Good UV Protection",
+            "Cost Effective",
+            "Low Odor",
+            "High Flexibility",
+            "Cleanable",
+            "Service Life Extension",
+            "Excellent Initial Seal Strength"
+        ],
+        "Application Method": [
+            "Spray",
+            "Brush"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    }
+}

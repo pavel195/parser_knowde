@@ -1,0 +1,56 @@
+{
+    "id": 120758,
+    "brand": "xyfluor",
+    "name": "Greene Tweed WR 525",
+    "slug": "greene-tweed-wr-525",
+    "description": "WR® 525 is a thermoplastics composite consisting of carbon fiber in a PEEK™ matrix. WR provides excellent chemical resistance, non-galling and nonseizing properties, impact resistance and thermal shock and hydrolysis resistance.WR 525 allows the pump user to increase pump efficiency by running tighter wear rings clearances while decreasing potential pump damage when pumos are cavitated or experience down-line bearing failures.",
+    "company_name": "Greene Tweed",
+    "company_slug": "greene-tweed",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1703115511/production/Company/2785/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1703115511/production/Company/2785/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Other Industrial Applications",
+            "Other Parts & Components",
+            "Structural Components",
+            "Other Automotive Applications",
+            "Automotive",
+            "Building Materials",
+            "Parts & Components",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Parts & Shapes",
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Polyether Ether Ketone (PEEK)"
+        ],
+        "Polymer Name": [
+            "Polyetheretherketone (PEEK)"
+        ],
+        "End Uses": [
+            "Bearings"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyetheretherketone (PEEK)"
+        ],
+        "Reinforcement Material": [
+            "Carbon Fibers"
+        ],
+        "Color": [
+            "Black"
+        ],
+        "Physical Form": [
+            "Tube"
+        ],
+        "Features": [
+            "Low Friction",
+            "Impact Resistance",
+            "Chemical Resistant",
+            "Thermal Shock Resistant"
+        ]
+    }
+}

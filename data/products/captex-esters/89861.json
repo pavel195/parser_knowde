@@ -1,0 +1,82 @@
+{
+    "id": 89861,
+    "brand": "captex-esters",
+    "name": "Capmul® MCM",
+    "slug": "capmul-mcm",
+    "description": "Capmul® MCM is a mono- and diglyceride with unique properties and versatility as a solvent, emulsifier, and emollient for creams, lotions, and rinse-off applications. This high purity distilled monoester is effective as a preservative alternative, based on natural materials, and makes an excellent primary or secondary surfactant in personal care products and cosmetics. It is used to produce stable emulsions, to modify viscosity and can act as a carrier and vehicle in selected applications. It is manufactured in USA.",
+    "company_name": "ABITEC Corporation",
+    "company_slug": "abitec-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709127582/production/Company/1126/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515700/production/CategoryImage/1059/category_image/PersonalCare_01.jpg",
+    "properties": {
+        "Applications": [
+            "Baby Care",
+            "Hair Care",
+            "Bath & Shower",
+            "Color Cosmetics",
+            "Skin Care",
+            "Treatment Products",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Other Functional Additives",
+            "Stabilizers",
+            "Rheology Modifiers",
+            "Conditioners & Emollients",
+            "Solvents & Solubilizers",
+            "Other Excipients",
+            "Emulsifiers & Stabilizers",
+            "Carriers & Bulking Agents",
+            "Antioxidants & Preservatives",
+            "Solvents & Carriers",
+            "Emulsifiers, Solubilizers & Dispersants",
+            "Functionals",
+            "Excipients"
+        ],
+        "Chemical Family": [
+            "Glycerol Esters & Derivatives"
+        ],
+        "INCI Name": [
+            "Caprylic/Capric Glycerides",
+            "Glyceryl Caprylate/Caprate"
+        ],
+        "End Uses": [
+            "Body Cream",
+            "Body Lotion",
+            "Ointments",
+            "Lipstick"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Glyceryl Caprylate/Caprate",
+            "Caprylic/Capric Glycerides"
+        ],
+        "Chemical Name": [
+            "Glyceryl Caprate"
+        ],
+        "Functions": [
+            "Carrier",
+            "Stabilizer",
+            "Penetration Enhancer",
+            "Solubilizer",
+            "Emollient",
+            "Emulsifier",
+            "Conditioner",
+            "Anti-Microbial Agent",
+            "Bioavailability Enhancer",
+            "Viscosity Modifier",
+            "Preservative",
+            "Emulsifier (W/O)",
+            "Solvent",
+            "Co-Emulsifier",
+            "Emulsifier"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Vegetable Origin",
+            "Plant Origin",
+            "Non-Animal Origin"
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "id": 421847,
+    "brand": "steviva-monksweet",
+    "name": "FruSweet® Non-GMO Crystalline Fructose",
+    "slug": "frusweet-non-gmo-crystalline-fructose",
+    "description": "FruSweet® - Non-GMO Crystalline Fructose is 1.75+ times sweeter than sugar, so you can use about half as much. With only 4.2 carbs per serving and a low glycemic impact compared to table sugar, FruSweet presents as a versatile pantry workhorse.  Since it browns and caramelizes when baking, and dissolves easily in hot or cold beverages, it will quickly become a favorite in the kitchen. Deliciously sweet and simple, our FruSweet is comprised of 100% Non-GMO crystalline fructose. Perfect for cooks looking for browning when they bake, and for those seeking a great tasting, low glycemic sweetener.",
+    "company_name": "Steviva",
+    "company_slug": "steviva",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708684659/production/Brand/33146/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607305/production/CategoryImage/515/category_image/FoodNutrition_15.jpg",
+    "properties": {
+        "Applications": [
+            "Tea, Cocoa & Coffee",
+            "Bakery",
+            "Juice & Juice Drinks",
+            "Beverage",
+            "Food"
+        ],
+        "Product Families": [
+            "Alternates & Replacements",
+            "Sweeteners & Syrups",
+            "Taste & Flavor",
+            "Whole Foods, Extracts & Premixes"
+        ],
+        "End Uses": [
+            "Tea",
+            "Coffee",
+            "Frozen Bakery Products"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Crystalline Fructose"
+        ],
+        "Functions": [
+            "Sugar Substitute",
+            "Nutritive Sweetener"
+        ],
+        "Labeling Claims": [
+            "Gluten-free",
+            "Kosher",
+            "Natural",
+            "Vegan",
+            "Organic",
+            "Non-GMO"
+        ]
+    }
+}

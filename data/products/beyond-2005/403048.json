@@ -1,0 +1,50 @@
+{
+    "id": 403048,
+    "brand": "beyond-2005",
+    "name": "BEYOND-2001®",
+    "slug": "beyond-2001",
+    "description": "BEYOND-2001®, mixed with water at different concentrations, will remove contaminants associated with manufacturing processes.",
+    "company_name": "Today & Beyond",
+    "company_slug": "today-beyond",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292166/production/Brand/30788/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515625/production/CategoryImage/1053/category_image/HII_05.jpg",
+    "properties": {
+        "Applications": [
+            "Auto Care",
+            "Surface Care",
+            "Industrial Cleaning",
+            "Vehicle & Machinery",
+            "Institutional & Industrial Care",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Industrial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner",
+            "Industrial Cleaners"
+        ],
+        "Application Areas": [
+            "Bearings",
+            "Engine",
+            "Automotive Engine",
+            "Machine Parts",
+            "Aircraft"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Copper",
+            "Magnesium",
+            "Plastics"
+        ],
+        "Features": [
+            "Water Soluble",
+            "Degreasing",
+            "Carbon Deposits Removing",
+            "Protects Metal Surfaces"
+        ]
+    }
+}

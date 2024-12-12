@@ -1,0 +1,33 @@
+{
+    "id": 420740,
+    "brand": "mycroleum",
+    "name": "Mycroleum™ Fuel Solutions Gasoline Treatment",
+    "slug": "mycroleum-fuel-solutions-gasoline-treatment",
+    "description": "Mycroleum™ Fuel Solutions Gasoline Treatment is a fully formulated continuous use product. It contains a patented formula designed to meet the challenges of direct injection engine technology and provides excellent performance in traditional port fuel injection systems as well. With all of the combined features in one product, Mycroleum Fuel Solutions Gasoline Treatment is a premium fuel treatment solution addressing many of the common fuel issues.",
+    "company_name": "Mycroleum",
+    "company_slug": "mycroleum",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672427/production/Brand/33036/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608693/production/CategoryImage/573/category_image/AutomotiveTransportation_01.jpg",
+    "properties": {
+        "Applications": [
+            "Marine",
+            "Fuel Systems",
+            "Automotive",
+            "Transportation"
+        ],
+        "Product Families": [
+            "Refinery & Gas Treatment Chemicals",
+            "Oil, Gas & Mining Chemicals"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Corrosion Inhibitor",
+            "Fuel Additive"
+        ],
+        "Features": [
+            "Reduces Harmful Emission",
+            "Low Viscosity"
+        ]
+    }
+}

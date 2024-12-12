@@ -1,0 +1,90 @@
+{
+    "id": 164824,
+    "brand": "oat-com",
+    "name": "aurafirm N",
+    "slug": "oat-cosmetics-aurafirm-n",
+    "description": "aurafirm N, a range of natural Oat fermented actives which improve skin health and boost cell turnover.",
+    "company_name": "Oat Cosmetics",
+    "company_slug": "oat-cosmetics",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708691516/production/Product/164824/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708691516/production/Product/164824/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Hair Care",
+            "Skin Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Skin Actives",
+            "Cosmetic Actives"
+        ],
+        "INCI Name": [
+            "Sodium Benzoate",
+            "Potassium Sorbate",
+            "Lactobacillus Ferment",
+            "Avena Sativa (Oat) Kernel Extract"
+        ],
+        "End Uses": [
+            "Body Cream",
+            "Shampoos & Rinses",
+            "Hair Conditioner"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Sodium Benzoate",
+            "Lactobacillus Ferment",
+            "Potassium Sorbate",
+            "Avena Sativa (Oat) Kernel Extract"
+        ],
+        "Functions": [
+            "Firming Agent"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin"
+        ],
+        "Labeling Claims": [
+            "Credo Clean Standard",
+            "Clean at Sephora",
+            "Naturally Derived",
+            "Environmentally Friendly",
+            "Not Tested on Animals",
+            "Allergen-free",
+            "Alcohol-free",
+            "Natural",
+            "Organic",
+            "Animal Products-free",
+            "Paraben-free",
+            "Ulta Beauty's Conscious Beauty",
+            "Fragrance-free",
+            "GMO-free",
+            "Preservative-free",
+            "Hypoallergenic"
+        ],
+        "Benefit Claims": [
+            "Firming",
+            "Complexion",
+            "Plumping",
+            "Comforting",
+            "Hair Conditioning",
+            "Healthy-Looking Skin",
+            "Shine & Radiance",
+            "Moisturizing",
+            "Improves Cell Viability",
+            "Soothing",
+            "Improves Dermal Thickness",
+            "Hydrating",
+            "Skin Microbiome",
+            "Penetrating",
+            "Hypo-Allergenic",
+            "Smoothing",
+            "Exfoliating"
+        ],
+        "Certifications & Compliance": [
+            "COSMOS",
+            "IECIC (China)",
+            "ECOCERT",
+            "Organic Certified"
+        ]
+    }
+}

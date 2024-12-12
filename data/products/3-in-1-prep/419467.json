@@ -1,0 +1,41 @@
+{
+    "id": 419467,
+    "brand": "3-in-1-prep",
+    "name": "Mean Klean™ Concrete Cleaner",
+    "slug": "mean-klean-concrete-cleaner",
+    "description": "Mean Klean™ Concrete Cleaner is a high-quality, multi-purpose cleaner and light degreaser that is generally used following applications of Mean Klean™ Concrete Cleaner. This concentrated cleaner can be diluted with water to provide an economical, effective cleaner for a variety of surfaces ranging from concrete to laundry. NewLook Concrete Cleaner quickly removes grease, oil, adhesive, dirt, food, soot, and more. It contains a powerful natural vegetable source solvent that is safe and bio-degradable. NewLook Concrete Cleaner effectively cleans concrete surfaces stained with NewLook Concrete Color Stains",
+    "company_name": "Newlook International",
+    "company_slug": "newlook-international",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292552/production/Brand/32912/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515625/production/CategoryImage/1053/category_image/HII_05.jpg",
+    "properties": {
+        "Applications": [
+            "Surface Care",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Commercial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner",
+            "Degreasers",
+            "Multipurpose Cleaners",
+            "Stain Removers"
+        ],
+        "Application Areas": [
+            "Floor"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Concrete"
+        ],
+        "Features": [
+            "Water-based",
+            "Degreasing",
+            "Improved Adhesion",
+            "High Durability"
+        ]
+    }
+}

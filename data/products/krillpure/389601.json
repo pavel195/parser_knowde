@@ -1,0 +1,40 @@
+{
+    "id": 389601,
+    "brand": "krillpure",
+    "name": "MTC Industries Pumpkin Seed Oil",
+    "slug": "mtc-industries-pumpkin-seed-oil",
+    "description": "MTC Industries Pumpkin Seed Oil has a nutty taste and is rich in polyunsaturated fatty acids. Pumpkin seed oil is commonly taken for preventing hair loss and prostate problems due to its reported DHT blocking properties. It has also been used to help with a variety of kidney and urinary problems due to its high content of fatty acids and plant sterols. Pumpkin seed oil has also been found to exhibit some anti inflammatory effects and assist in relieving arthritis pain.",
+    "company_name": "MTC Industries",
+    "company_slug": "mtc-industries",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1713885429/production/Company/48136/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606961/production/CategoryImage/506/category_image/FoodNutrition_07.jpg",
+    "properties": {
+        "Applications": [
+            "Other Non-Alcoholic Beverages",
+            "Nutraceuticals & Supplements",
+            "Beverage",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Fatty Acids, Specialty Lipids & Oils",
+            "Nutrition & Fortification"
+        ],
+        "Ingredient Name": [
+            "Pumpkin Seed Oil"
+        ],
+        "End Uses": [
+            "Dietary Supplements"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Pumpkin Seed Oil"
+        ],
+        "Labeling Claims": [
+            "Organic"
+        ],
+        "Features": [
+            "Anti-Inflammatory"
+        ]
+    }
+}

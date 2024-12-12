@@ -1,0 +1,39 @@
+{
+    "id": 326413,
+    "brand": "lynside",
+    "name": "Adonat®",
+    "slug": "adonat",
+    "description": "Adonat® is the leading brand of S-Adenosyl-L-methionine (SAMe), a compound produced naturally by the body that is required for proper brain functioning. SAMe is involved in more than one hundred biochemical pathways and it has been shown to have benefits for the mood, liver, joints, and more. The body requires quantities of SAMe that the diet cannot provide alone, and decreased or low SAMe levels in some biological fluids and tissues are connected with altered body states such as depression. The result of more than 30 years of expertise and 10 patents, Adonat combines state-of-the-art industrial manufacturing, relentless innovation, and esteemed research to achieve a proprietary stabilized salts and  innovative forms of oral dosage.",
+    "company_name": "Gnosis",
+    "company_slug": "gnosis",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708526230/production/Company/31049/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606996/production/CategoryImage/508/category_image/FoodNutrition_09.jpg",
+    "properties": {
+        "Applications": [
+            "Oral",
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being",
+            "Drug Delivery & Care Solutions"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ]
+    },
+    "summary": {
+        "Labeling Claims": [
+            "Gluten-free",
+            "Non-GMO",
+            "Kosher",
+            "Halal",
+            "Lactose-free"
+        ],
+        "Certifications & Compliance": [
+            "Kosher",
+            "cGMP",
+            "Halal"
+        ]
+    }
+}

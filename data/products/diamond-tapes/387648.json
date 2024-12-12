@@ -1,0 +1,44 @@
+{
+    "id": 387648,
+    "brand": "diamond-tapes",
+    "name": "Diamond Tapes™ Aluminium Foil Hot Melt Tape",
+    "slug": "diamond-tapes-aluminium-foil-hot-melt-tape",
+    "description": "Diamond Tapes™ Aluminum Foil Hot Melt Tape consists of an aluminum foil backing, combined with a high performance adhesive and protected by an easy release silicone paper liner.",
+    "company_name": "Hira Technologies",
+    "company_slug": "hira-technologies",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520105/production/Brand/29104/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608972/production/CategoryImage/588/category_image/AdhesivesSealants_05.jpg",
+    "properties": {
+        "Applications": [
+            "Bonding & Assembly",
+            "Building Materials",
+            "Construction Chemicals",
+            "Transportation Assembly",
+            "Adhesives",
+            "Building Envelope & Roofing",
+            "Construction Adhesives",
+            "Chemical & Industrial Manufacturing",
+            "Other Building Envelope & Roofing Applications",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Hot Melt Adhesives"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Solventborne Adhesive",
+            "Pressure Sensitive Adhesive",
+            "Hot Melt Adhesive"
+        ],
+        "Application Area": [
+            "Universal Joints"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Fiberglass",
+            "Wool",
+            "Textiles"
+        ]
+    }
+}

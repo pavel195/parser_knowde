@@ -1,0 +1,36 @@
+{
+    "id": 302105,
+    "brand": "balkyd",
+    "name": "Balkyd 644FA-70WS",
+    "slug": "balkyd-644fa-70ws",
+    "description": "Balkyd 644FA-70WSis a long oil oxidative drying alkyd resin, modified with distilled vegetable fatty acids.",
+    "company_name": "Orgachim Resins",
+    "company_slug": "orgachim-resins",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112261/production/Company/24276/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608630/production/CategoryImage/571/category_image/PaintingsCoatings_07.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Building & Construction",
+            "Decorative Paints",
+            "Decorative Paints, Coatings & Stains",
+            "Decorative Materials & Finishes"
+        ],
+        "Product Families": [
+            "Resins & Binders",
+            "Alkyds"
+        ],
+        "Chemical Family": [
+            "Alkyds (Long Oil)"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Alkyds (Long Oil)"
+        ],
+        "Features": [
+            "Weather Resistance",
+            "Low Viscosity"
+        ]
+    }
+}

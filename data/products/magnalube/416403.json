@@ -1,0 +1,54 @@
+{
+    "id": 416403,
+    "brand": "magnalube",
+    "name": "Magnalube® GX",
+    "slug": "magnalube-gx",
+    "description": "Magnalube®-GX is composed of a lithium-complex thickener infused with functional polymers for better adhesion in wet environments and better performance at higher temperatures. This composition is blended carefully with high viscosity base oils to give the product exceptional film strength and high temperature performance. Magnalube®-GX lubricating grease is specially formulated to exceed the parameters of the most extreme applications in the construction, automotive, industrial and other heavy-duty applications. To improve performance Magnalube®-GX contains a minimum of 3% molybdenum disulphide, and a molecularly bound proprietary PTFE compound. This product contains the most advanced blend of extreme pressure, anti-wear and rust and oxidation inhibitors available.",
+    "company_name": "Magnalube",
+    "company_slug": "magnalube",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680108710/production/Brand/32506/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608779/production/CategoryImage/578/category_image/AutomotiveTransportation_06.jpg",
+    "properties": {
+        "Applications": [
+            "Lubricants & Functional Fluids",
+            "Building Materials",
+            "Flooring & Surfaces",
+            "Chassis & Brake",
+            "Other Lubricants & Fluids",
+            "Fillers, Levellers & Joints",
+            "Chemical & Industrial Manufacturing",
+            "Automotive ",
+            "Pipes & Plumbing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Greases",
+            "Fluids & Lubricants"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Grease"
+        ],
+        "Application Area": [
+            "Vacuum Pumps",
+            "Slideways",
+            "Bearings"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal"
+        ],
+        "Features": [
+            "Good Adhesion",
+            "Sound Damping",
+            "Excellent Lubricity",
+            "Excellent Compatibility",
+            "High Film Stiffness",
+            "Low Friction"
+        ],
+        "Thickener Type": [
+            "Polytetrafluoroethylene (PTFE)",
+            "Lithium Complex"
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "id": 400801,
+    "brand": "polychem",
+    "name": "POLYCHEM® 7776-PP-75",
+    "slug": "polychem-7776-pp-75",
+    "description": "POLYCHEM® 7776-PP-75 is a HAPs-free high solids, fast drying water-reducible alkyd reasin. It is ideal for industrial and high gloss DTM applications. It has excellent corrosion resistance and gloss retention, along with great adhesion. It has applications in industrial top coats, primer applications, and industrial maintenance applications. It also has excellent features like excellent gloss, fast drying, and being EB free.",
+    "company_name": "OPC Polymers",
+    "company_slug": "opc-polymers",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1715267896/production/Brand/14039/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608238/production/CategoryImage/552/category_image/AgricultureFeed_08.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial Maintenance",
+            "Primers & Lacquers",
+            "Industrial Coatings",
+            "Packaging Coatings"
+        ],
+        "Product Families": [
+            "Alkyds",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Alkyds"
+        ],
+        "End Uses": [
+            "Top Coat",
+            "Primer",
+            "Enamel"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Alkyds"
+        ],
+        "End Uses": [
+            "Enamel",
+            "Primer",
+            "Top Coat"
+        ],
+        "Features": [
+            "Fast Drying",
+            "Good Gloss Retention",
+            "Corrosion Resistance",
+            "Air Drying",
+            "UV Resistance",
+            "Chain Stopped Resin"
+        ]
+    }
+}

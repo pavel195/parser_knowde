@@ -1,0 +1,26 @@
+{
+    "id": 313349,
+    "brand": "h-oexcel",
+    "name": "Brook-Lytes",
+    "slug": "brook-lytes",
+    "description": "Brook-Lytes is a non-medicated, pH-buffered electrolyte providing essential elements and energy for pigs of all stages. When added to drinking water, Brook-Lytes draws pigs to drink with its highly palatable formula and unique aromatic flavor to keep them hydrated and fortified with essential nutrients.",
+    "company_name": "Brookside Agra",
+    "company_slug": "brookside-agra",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708517954/production/Product/313349/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708517954/production/Product/313349/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Swine",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Feed Supplements",
+            "Nutritional Ingredients"
+        ]
+    },
+    "summary": {
+        "Animal Species": [
+            "Swine"
+        ]
+    }
+}

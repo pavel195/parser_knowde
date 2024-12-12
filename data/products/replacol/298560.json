@@ -1,0 +1,37 @@
+{
+    "id": 298560,
+    "brand": "replacol",
+    "name": "Replacol® 214",
+    "slug": "resins-plastics-replacol-214",
+    "description": "Replacol® 214 is rosin modified phenolic resins.",
+    "company_name": "Resins & Plastics",
+    "company_slug": "resins-plastics",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112492/production/Company/23772/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609103/production/CategoryImage/595/category_image/PrintingPackaging_06.jpg",
+    "properties": {
+        "Applications": [
+            "Packaging Coatings",
+            "Overprint Varnishes",
+            "Other Printing & Packaging Applications",
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Other Resins & Binders",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Phenols & Phenolics"
+        ],
+        "End Uses": [
+            "Varnishes"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Phenols & Phenolics"
+        ],
+        "End Uses": [
+            "Varnishes"
+        ]
+    }
+}

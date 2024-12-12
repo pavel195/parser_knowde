@@ -1,0 +1,36 @@
+{
+    "id": 427979,
+    "brand": "ms-megades",
+    "name": "MS MegaDes Oxy",
+    "slug": "ms-megades-oxy",
+    "description": "MS MegaDes Oxy is a fast-acting disinfectant based on hydrogen peroxide, peracetic acid and very powerful effluents. With a broad ranging efficacy against bacteria, yeasts and viruses.",
+    "company_name": "The Schippers Group",
+    "company_slug": "the-schippers-group",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292913/production/Brand/33942/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515575/production/CategoryImage/1049/category_image/HII_01.jpg",
+    "properties": {
+        "Applications": [
+            "Home Care",
+            "Institutional & Industrial Care",
+            "Surface Care",
+            "Industrial Cleaning",
+            "Institutional & Catering"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Industrial Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Disinfectant Products"
+        ],
+        "Features": [
+            "Fast Acting",
+            "Good Adhesion",
+            "Anti-Viral",
+            "Anti-Fungal",
+            "Anti-Bacterial"
+        ]
+    }
+}

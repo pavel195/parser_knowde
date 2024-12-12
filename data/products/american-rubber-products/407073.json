@@ -1,0 +1,71 @@
+{
+    "id": 407073,
+    "brand": "american-rubber-products",
+    "name": "American Rubber Products® NEO-80",
+    "slug": "american-rubber-products-neo-80",
+    "description": "American Rubber Products® NEO-80 is noted for its versatility for general-purpose applications. It can display very good resistance to ozone, oxygen, sunlight, alkalis and acids.",
+    "company_name": "American Rubber Products",
+    "company_slug": "american-rubber-products",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686149495/production/Brand/31400/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Wire & Cable",
+            "Jacketing & Insulation",
+            "Chemical & Industrial Manufacturing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Parts & Shapes"
+        ],
+        "Chemical Family": [
+            "Polychloroprenes"
+        ],
+        "Polymer Name": [
+            "Chloroprene Rubber (CR)"
+        ],
+        "End Uses": [
+            "Gaskets",
+            "Wire Jacketing",
+            "General Purpose",
+            "Belts/Belt Repair"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Chloroprene Rubber (CR)"
+        ],
+        "Physical Form": [
+            "Sheets"
+        ],
+        "Features": [
+            "Ozone Resistant",
+            "Flame Resistant",
+            "Resilient",
+            "UV Resistant",
+            "Alkali Resistant",
+            "Solvent Resistant",
+            "Low Temperature Flexibility",
+            "Highly Versatile",
+            "Acid Resistant",
+            "Gasoline Resistant",
+            "High Tensile Strength",
+            "Oil Resistant",
+            "General Purpose",
+            "Oxygen Barrier"
+        ],
+        "End Uses": [
+            "Wire Jacketing",
+            "General Purpose",
+            "Gaskets",
+            "Belts/Belt Repair"
+        ],
+        "Tensile Strength": [
+            "3.45 - 3.45 MPa",
+            "3.445 - 3.445 MPa"
+        ],
+        "Color": [
+            "Black"
+        ]
+    }
+}

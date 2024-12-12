@@ -1,0 +1,29 @@
+{
+    "id": 297820,
+    "brand": "nc-518",
+    "name": "OMEGA CLEAR®",
+    "slug": "omega-clear",
+    "description": "Omega Clear® is a mono species calamari oil, for use in food, beverage and nutraceutical formulation. Omega Clear uses calamari oil, sourced from the coastal waters of Argentina by sustainable fisheries.",
+    "company_name": "Helios Corp.",
+    "company_slug": "helios-corp",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708691193/production/Company/23721/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607274/production/CategoryImage/514/category_image/FoodNutrition_14.jpg",
+    "properties": {
+        "Applications": [
+            "Functional Foods",
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Vitamins",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Vitamin Source",
+            "Vitamin Source"
+        ]
+    }
+}

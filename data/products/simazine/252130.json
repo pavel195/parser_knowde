@@ -1,0 +1,32 @@
+{
+    "id": 252130,
+    "brand": "simazine",
+    "name": "MSMA 6.6",
+    "slug": "msma-6-6",
+    "description": "MSMA 6.6 herbicide is useful for selective post-emergent weed control, particularly for grassy weeds in Cotton, Golf courses and Sod farms, and Highway Rights-of-Way. Its activity is enhanced by addition of a suitable surfactant, cleared for application to growing crops, to the spray solution. Best results are obtained on young actively growing weeds at air temperature above 70°F.",
+    "company_name": "Drexel Chemical Company",
+    "company_slug": "drexel-chemical-company",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697223317/production/Company/19273/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1697223317/production/Company/19273/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Fodder & Forage",
+            "Turf Management",
+            "Ornamentals",
+            "Commercial Pest Control",
+            "Agricultural Pest Control",
+            "Fiber Crops",
+            "Agricultural Crops",
+            "Pest Control",
+            "Turf, Ornamentals & Landscape"
+        ],
+        "Product Families": [
+            "Herbicides",
+            "Crop Protection & Pest Control"
+        ],
+        "Chemical Family": [
+            "Cyromazine"
+        ]
+    },
+    "summary": {}
+}

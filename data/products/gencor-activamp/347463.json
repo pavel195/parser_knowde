@@ -1,0 +1,47 @@
+{
+    "id": 347463,
+    "brand": "gencor-activamp",
+    "name": "HydroCurc® by Pharmako",
+    "slug": "gencor-hydrocurc",
+    "description": "Hydrocurc® is an award-winning curcumin specifically designed to increase bioavailability of curcuminoids in the body from Gencor’s partner company, Pharmako Biotechnologies. This is done so by the specifically designed curcumin particles in Hydrocurc® to freely disperse in water. A published pharmacokinetic study on humans demonstrated Hydrocurc® to provide the highest amount of curcuminoids seen in industry to date from a single dose.",
+    "company_name": "Gencor",
+    "company_slug": "gencor",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708691226/production/Brand/25901/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708691226/production/Product/347463/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Topical",
+            "Oral",
+            "Confectionery",
+            "Nutraceuticals & Supplements",
+            "Functional Foods",
+            "Sports Nutrition",
+            "Food",
+            "Nutrition & Well Being",
+            "Drug Delivery & Care Solutions"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Plant & Herb Products & Extracts",
+            "Phytochemicals & Plant Extracts",
+            "Nutrition & Fortification",
+            "Whole Foods, Extracts & Premixes",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Gummies",
+            "Dietary Supplements"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Turmeric Rhizome Extract"
+        ],
+        "Functions": [
+            "Anti-Inflammatory",
+            "Dietary Supplement",
+            "Antioxidant"
+        ]
+    }
+}

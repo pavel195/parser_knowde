@@ -1,0 +1,53 @@
+{
+    "id": 335404,
+    "brand": "paryol",
+    "name": "PARYOL 398 AN/R",
+    "slug": "paryol-398-an-r",
+    "description": "Anacardium Occidentale Seed Oil. PARYOL 398 AN/R by A&amp;A Fratelli Parodi acts as a skin conditioning agent. It is a refined oil obtained from the seeds of the Cashew. It is refined by means of bleaching, decoloring, deodorizing and winterizing. It is a highly stable oil with low acid and peroxide values. PARYOL 398 AN/R is suggested for use in skin care formulations.",
+    "company_name": "Fratelli Parodi",
+    "company_slug": "fratelli-parodi",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672528/production/Brand/24781/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608058/production/CategoryImage/543/category_image/HomePersonalCare_09.jpg",
+    "properties": {
+        "Applications": [
+            "Skin Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Conditioners & Emollients",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Anacardium Occidentale (Cashew) Seed Oil"
+        ],
+        "End Uses": [
+            "Body Wash",
+            "Moisturizers",
+            "Baby Oil",
+            "Facial Cleanser"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Anacardium Occidentale (Cashew) Seed Oil"
+        ],
+        "Functions": [
+            "Conditioner"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Non-Animal Origin",
+            "Plant Origin"
+        ],
+        "Labeling Claims": [
+            "Bio-based",
+            "Natural",
+            "Plant-Based",
+            "Naturally Derived"
+        ],
+        "Benefit Claims": [
+            "Skin Conditioning",
+            "Excellent Stability"
+        ]
+    }
+}

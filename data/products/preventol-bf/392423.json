@@ -1,0 +1,39 @@
+{
+    "id": 392423,
+    "brand": "preventol-bf",
+    "name": "Preventol-BF™",
+    "slug": "preventol-bf",
+    "description": "Preventol-BF™ is a barium free solvent based rust inhibitor that is especially formulated for use on ferrous and non-ferrous metals. Preventol-BF™ is a blend of solvents., oxidized hydrocarbons, and proprietary inhibiors that leaves a self-healing, light, dry to the touch film. Preventol-BF™ is water displacing, non-emulsifiable, nearly odorless, and fingerprint neutralizing.\r\n",
+    "company_name": "Chempace Corporation",
+    "company_slug": "chempace-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1665161196/production/Company/48767/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515657/production/CategoryImage/1056/category_image/HII_08.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial Cleaning",
+            "Institutional & Industrial Care"
+        ],
+        "Product Families": [
+            "Industrial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Rust Preventative"
+        ],
+        "Application Areas": [
+            "Industrial Surfaces"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Iron"
+        ],
+        "Features": [
+            "Excellent Rust Protection",
+            "Solvent-Based",
+            "Good Diluency",
+            "Fast Drying"
+        ]
+    }
+}

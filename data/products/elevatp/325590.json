@@ -1,0 +1,48 @@
+{
+    "id": 325590,
+    "brand": "elevatp",
+    "name": "ANCIENTRIM™",
+    "slug": "ancientrim",
+    "description": "AncienTrim™ is a formulation-friendly powder made from the ancient grains amaranth, buckwheat, millet, chia, and quinoa.",
+    "company_name": "VDF/FutureCeuticals",
+    "company_slug": "vdf-futureceuticals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697222478/production/Company/29429/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606961/production/CategoryImage/506/category_image/FoodNutrition_07.jpg",
+    "properties": {
+        "Applications": [
+            "Dairy Substitutes",
+            "Dairy",
+            "Desserts & Fruit Preparations",
+            "Savory & Culinary",
+            "Cereals & Snacks",
+            "Sports Nutrition",
+            "Other Food Applications",
+            "Sports Drinks",
+            "Other Non-Alcoholic Beverages",
+            "Functional Foods",
+            "Convenience Foods",
+            "Beverage",
+            "Food",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Flours & Grains Products",
+            "Whole Foods, Extracts & Premixes"
+        ],
+        "End Uses": [
+            "Smoothies",
+            "Meal Replacers",
+            "Plant Based Dairy Alternatives",
+            "Sports Nutrition",
+            "Energy Bars",
+            "Snacks",
+            "Breakfast Cereals",
+            "Cereal Bars",
+            "Salad Dressing",
+            "Desserts",
+            "Soups",
+            "Spreads"
+        ]
+    },
+    "summary": {}
+}

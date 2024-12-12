@@ -1,0 +1,61 @@
+{
+    "id": 410154,
+    "brand": "flexi-weld",
+    "name": "AQUEPOXY 250-HD",
+    "slug": "aquepoxy-250-hd",
+    "description": null,
+    "company_name": "Edison Coatings",
+    "company_slug": "edison-coatings",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520204/production/Brand/31828/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608422/production/CategoryImage/558/category_image/BuildingConstruction_02.jpg",
+    "properties": {
+        "Applications": [
+            "Building & Construction",
+            "Industrial Coatings",
+            "Concrete Coatings & Stains"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Sealer",
+            "2K (2 component) Coating",
+            "Epoxy Coating",
+            "Waterborne Coating"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Concrete",
+            "Aluminum",
+            "Metal",
+            "Steel"
+        ],
+        "Features": [
+            "High Hardness",
+            "Low Toxicity",
+            "High Performance",
+            "Chemical Resistant",
+            "Humidity Resistant",
+            "Low Odor",
+            "Good Flexibility",
+            "Good Solvent Resistance",
+            "High Gloss",
+            "Low VOC",
+            "Fast Cure",
+            "Non Corrosive"
+        ],
+        "Application Method": [
+            "Spray",
+            "Roller",
+            "Brush"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    }
+}

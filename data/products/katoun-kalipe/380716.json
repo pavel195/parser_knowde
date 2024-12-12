@@ -1,0 +1,26 @@
+{
+    "id": 380716,
+    "brand": "katoun-kalipe",
+    "name": "ENCLEAN®",
+    "slug": "enclean",
+    "description": "ENCLEAN® is 1st natural solution, of vegetable origin for the treatment of algae on impermeable surfaces.It is a non-selective product of non-timber cultivated species.",
+    "company_name": "JADE (Jardin & Agriculture Developpement)",
+    "company_slug": "jade-jardin-agriculture-developpement",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708688783/production/Brand/28519/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608224/production/CategoryImage/551/category_image/AgricultureFeed_07.jpg",
+    "properties": {
+        "Applications": [
+            "Other Agricultural Crops",
+            "Agricultural Crops"
+        ],
+        "Product Families": [
+            "Herbicides",
+            "Crop Protection & Pest Control"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Algaecide"
+        ]
+    }
+}

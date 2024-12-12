@@ -1,0 +1,35 @@
+{
+    "id": 392757,
+    "brand": "givomag",
+    "name": "Givobio La/Zn (Zinc Lactate)",
+    "slug": "givobio-la-zn-zinc-lactate",
+    "description": null,
+    "company_name": "ISALTIS",
+    "company_slug": "isaltis",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672244/production/Company/1273/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708672244/production/Company/1273/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Minerals",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Dietary Supplements"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Zinc Lactate"
+        ],
+        "Functions": [
+            "Dietary Supplement",
+            "Mineral Source",
+            "Mineral Source"
+        ]
+    }
+}

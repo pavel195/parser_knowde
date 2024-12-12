@@ -1,0 +1,43 @@
+{
+    "id": 418938,
+    "brand": "sp-hybrid",
+    "name": "Sp²Hybrid™ Graphene Grade-Alpha",
+    "slug": "sp-hybrid-graphene-grade-alpha",
+    "description": "Sp²Hybrid™ Graphene Grade-Alpha has between 1 &amp; 2 layers and very high surface area, which translates to a high performing product. SurgePower Materials sustainably manufactures high purity graphene from the cassava plant. Our process is extremely energy efficient and does not involve any toxic chemicals. SurgePower can scale our proprietary process to meet large demands from customers. There are many choices for graphene currently being sold. Many of these products are low quality nanographite materials. These products are not true graphene materials and have between 10 and 100 layers. The higher the number of layers, the lower the surface area is, which translates to a lower performing product. These nanographite products are produced using toxic and energy intensive processes to convert graphite to graphene. These traditional products are also difficult to produce in large volumes.",
+    "company_name": "SurgePower Materials",
+    "company_slug": "surgepower-materials",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292696/production/Brand/32835/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607422/production/CategoryImage/517/category_image/ElectricalElectronics_02.jpg",
+    "properties": {
+        "Applications": [
+            "Parts & Components",
+            "Other Building & Construction Applications",
+            "Batteries",
+            "Semiconductor Manufacturing"
+        ],
+        "Product Families": [
+            "Construction Chemicals",
+            "Cement & Concrete Additives",
+            "Battery & Electronic Materials",
+            "Electronic Chemicals"
+        ],
+        "Chemical Family": [
+            "Graphene & Graphites"
+        ],
+        "End Uses": [
+            "Lithium-Ion Batteries"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Graphene & Graphites"
+        ],
+        "Physical Form": [
+            "Powder",
+            "Solid"
+        ],
+        "End Uses": [
+            "Lithium-Ion Batteries"
+        ]
+    }
+}

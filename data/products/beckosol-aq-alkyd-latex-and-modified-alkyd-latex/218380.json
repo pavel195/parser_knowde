@@ -1,0 +1,49 @@
+{
+    "id": 218380,
+    "brand": "beckosol-aq-alkyd-latex-and-modified-alkyd-latex",
+    "name": "KELSOL® 3961-B2G-75",
+    "slug": "kelsol-3961-b2g-75",
+    "description": "KELSOL® 3961-B2G-75 is a water-dispersible, chain-stopped alkyd designed to give excellent corrosion resistance in addition to a very fast dry rate",
+    "company_name": "Reichhold",
+    "company_slug": "reichhold",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1703114376/production/Company/8897/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608640/production/CategoryImage/572/category_image/PaintingsCoatings_08.jpg",
+    "properties": {
+        "Applications": [
+            "Commercial",
+            "Marine",
+            "Decorative Paints, Coatings & Stains",
+            "Architectural Coatings",
+            "Marine Coatings",
+            "Off Road & Commercial Vehicle Coatings",
+            "Primers & Lacquers",
+            "Coatings & Finishes",
+            "Transportation",
+            "Packaging Coatings",
+            "Building Envelope & Roofing",
+            "Decorative Materials & Finishes"
+        ],
+        "Product Families": [
+            "Alkyds",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Alkyds"
+        ],
+        "End Uses": [
+            "Primer"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Alkyds"
+        ],
+        "End Uses": [
+            "Primer"
+        ],
+        "Features": [
+            "Chain Stopped Resin",
+            "Corrosion Resistance"
+        ]
+    }
+}

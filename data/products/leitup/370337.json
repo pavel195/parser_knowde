@@ -1,0 +1,49 @@
+{
+    "id": 370337,
+    "brand": "leitup",
+    "name": "InLeit® NatWPI90",
+    "slug": "inleit-natwpi90",
+    "description": "InLeit® NatWPI90 is a native soluble milk protein isolate powder obtained by membrane filtration of milk.",
+    "company_name": "Inleit Ingredients",
+    "company_slug": "inleit-ingredients",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1693911904/production/Brand/27585/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1693911904/production/Product/370337/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Desserts & Fruit Preparations",
+            "Sports Nutrition",
+            "Infant & Baby Food",
+            "Nutraceuticals & Supplements",
+            "Clinical Nutrition",
+            "Bakery",
+            "Dairy",
+            "Food",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Proteins & Amino Acids",
+            "Dairy Products",
+            "Nutrition & Fortification",
+            "Whole Foods, Extracts & Premixes",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Puddings",
+            "Muffins",
+            "Doughnut",
+            "Cakes",
+            "Sports Nutrition",
+            "Dietary Supplements",
+            "Senior & Clinical Nutrition",
+            "Biscuits",
+            "Pastries",
+            "Egg Substitute",
+            "Dairy Products"
+        ]
+    },
+    "summary": {
+        "Protein Content": [
+            "85.5 - 85.5 %"
+        ]
+    }
+}

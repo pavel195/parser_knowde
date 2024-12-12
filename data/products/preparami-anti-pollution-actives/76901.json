@@ -1,0 +1,85 @@
+{
+    "id": 76901,
+    "brand": "preparami-anti-pollution-actives",
+    "name": "Amipreserve™ Natural Preservative",
+    "slug": "amipreserve-natural-preservative",
+    "description": "Amipreserve is a safe and effective solution for protecting and preserving cosmetic products. Colorless and odorless, this natural formulation ingredient replaces preservatives derived from petrochemicals and essential oils, both of which are potential allergens.",
+    "company_name": "Alban Muller",
+    "company_slug": "alban-muller",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708683671/production/Company/1137/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708683671/production/Company/1137/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Baby Care",
+            "Bath & Shower",
+            "Color Cosmetics",
+            "Hair Care",
+            "Nail Care",
+            "Skin Care",
+            "Sun Care",
+            "Treatment Products",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Skin Actives",
+            "Antioxidants & Preservatives",
+            "Other OTC Actives",
+            "Cosmetic Actives",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Salicylic Acid"
+        ],
+        "End Uses": [
+            "Body Wash",
+            "Body Powder",
+            "Body Firming Lotion",
+            "Anti-Dandruff Products",
+            "Concealer",
+            "After Shaves",
+            "After Sun Products",
+            "Anti-Hair Loss Products",
+            "Anti-Aging Products",
+            "Anti-Fungal Treatments",
+            "Baby Shampoo",
+            "CC Cream",
+            "Face Powder",
+            "Facial Cleanser",
+            "Facial Moisturizer",
+            "Foot Moisturizer",
+            "BB Creams"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Salicylic Acid"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Non-Animal Origin",
+            "Plant Origin"
+        ],
+        "Functions": [
+            "Anti-Acne Agent",
+            "Anti-Microbial Agent",
+            "Preservative"
+        ],
+        "Labeling Claims": [
+            "Credo Clean Standard",
+            "Clean at Sephora",
+            "Plant-Based",
+            "Naturally Derived",
+            "Organic",
+            "Ulta Beauty's Conscious Beauty"
+        ],
+        "Certifications & Compliance": [
+            "Organic Certified",
+            "COSMOS",
+            "ECOCERT"
+        ],
+        "Benefit Claims": [
+            "Anti-Acne",
+            "Antimicrobial"
+        ]
+    }
+}

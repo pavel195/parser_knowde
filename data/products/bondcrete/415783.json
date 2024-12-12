@@ -1,0 +1,43 @@
+{
+    "id": 415783,
+    "brand": "bondcrete",
+    "name": "Graymont AOD lime",
+    "slug": "graymont-aod-lime",
+    "description": "AOD lime is specifically processed to meet the demands of the specialty-steel markets. Our AOD-grade quicklime is characterized by low carbon and sulfur contents while retaining exceptionally high reactivity.\r\n",
+    "company_name": "Graymont",
+    "company_slug": "graymont",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704106437/production/Company/55514/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Metal Manufacturing & Finishing",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Metal Processing Additives",
+            "Inorganics",
+            "Technical Salts & Inorganics",
+            "Processing Aids"
+        ],
+        "Chemical Family": [
+            "Calcium & Calcium Compounds"
+        ],
+        "End Uses": [
+            "Steel Industry"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Calcium Oxide"
+        ],
+        "CAS Number": [
+            "1305-78-8"
+        ],
+        "Chemical Family": [
+            "Calcium & Calcium Compounds"
+        ],
+        "Synonyms": [
+            "Calcium Monoxide, Caustic Lime, Lime, Limestone, Pebble Lime, Quick Lime"
+        ]
+    }
+}

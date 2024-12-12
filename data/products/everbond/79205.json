@@ -1,0 +1,79 @@
+{
+    "id": 79205,
+    "brand": "everbond",
+    "name": "Fision® AquaShield",
+    "slug": "fision-aquashield",
+    "description": null,
+    "company_name": "TRI-K Industries, Inc.",
+    "company_slug": "tri-k-industries-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1671652821/production/Product/79205/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1646914541/production/Product/79205/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Hair Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Hair Actives",
+            "Cosmetic Actives"
+        ],
+        "INCI Name": [
+            "Polysorbate 80",
+            "Polysorbate 20",
+            "Hydrolyzed Glycosaminoglycans",
+            "Tocopheryl Acetate",
+            "Simmondsia Chinensis (Jojoba) Seed Oil",
+            "Tocopherol",
+            "Linoleic Acid",
+            "Linolenic Acid",
+            "Triticum Vulgare (Wheat) Germ Oil",
+            "Wheat Germ Acid",
+            "Cocoyl Sarcosine",
+            "Sodium Cocoyl Collagen Amino Acids",
+            "Sorbitol",
+            "Panthenol",
+            "Hydrolyzed Keratin",
+            "Acetamide MEA"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Linolenic Acid",
+            "Tocopheryl Acetate",
+            "Triticum Vulgare (Wheat) Germ Oil",
+            "Wheat Germ Acid",
+            "Panthenol",
+            "Hydrolyzed Glycosaminoglycans",
+            "Sorbitol",
+            "Hydrolyzed Keratin",
+            "Acetamide MEA",
+            "Cocoyl Sarcosine",
+            "Tocopherol",
+            "Polysorbate 80",
+            "Sodium Cocoyl Collagen Amino Acids",
+            "Polysorbate 20",
+            "Simmondsia Chinensis (Jojoba) Seed Oil",
+            "Linoleic Acid"
+        ],
+        "Functions": [
+            "Protective Agent"
+        ],
+        "Labeling Claims": [
+            "Pathogen-free",
+            "Paraben-free",
+            "Glycol-free"
+        ],
+        "Benefit Claims": [
+            "Hair Protection",
+            "Frizz Control",
+            "Ease of Formulation",
+            "Healthy-Looking Hair",
+            "Smooth Feel",
+            "Hair Softening",
+            "Good Dry Combing"
+        ],
+        "Certifications & Compliance": [
+            "IECIC (China)"
+        ]
+    }
+}

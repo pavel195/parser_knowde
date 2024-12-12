@@ -1,0 +1,29 @@
+{
+    "id": 422926,
+    "brand": "promi-fertil",
+    "name": "Promi-Sal® Extra",
+    "slug": "promi-sal-extra",
+    "description": "Promi-Sal® Extra is a product that favors the proper functioning of the soil for optimal crop development. In saline soils, Promi-Sal® Extra improves the washing of chemical elements that are in excess, the availability of nutrients and water and the structure of the soil. In high productivity fertigation systems, it prevents the excessive accumulation of fertilizer salts in the root zone, and therefore, nutritional and water absorption problems. In farms irrigated with saline waters, it prevents soil salinization problems. In soils with low organic matter content, it improves soil structure, water retention and nutrient availability.",
+    "company_name": "PROMISOL S.A.",
+    "company_slug": "promisol-s-a",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708689501/production/Brand/33255/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608161/production/CategoryImage/546/category_image/AgricultureFeed_02.jpg",
+    "properties": {
+        "Applications": [
+            "Other Agricultural Crops",
+            "Agricultural Crops"
+        ],
+        "Product Families": [
+            "Soil Amendments & Conditioners",
+            "Plant Health, Nutrients & Soil Management"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Soil Conditioner"
+        ],
+        "Application Technique": [
+            "Chemigation"
+        ]
+    }
+}

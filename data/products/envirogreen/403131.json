@@ -1,0 +1,26 @@
+{
+    "id": 403131,
+    "brand": "envirogreen",
+    "name": "EnviroGreen Max",
+    "slug": "envirogreen-max",
+    "description": "EnviroGreen Max is a fast acting, powerful, heavy-duty cleaner and degreaser. Formulated to a balanced blend of detergents, chelating agents, and builders to cut through any grease, dirt, soil, grime and then suspends the soil.",
+    "company_name": "Ashburn Chemical",
+    "company_slug": "ashburn-chemical",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697222908/production/Brand/30802/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515625/production/CategoryImage/1053/category_image/HII_05.jpg",
+    "properties": {
+        "Applications": [
+            "Vehicle & Machinery",
+            "Surface Care",
+            "Industrial Cleaning",
+            "Home Care",
+            "Institutional & Industrial Care"
+        ],
+        "Product Families": [
+            "Commercial Cleaners",
+            "Industrial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {}
+}

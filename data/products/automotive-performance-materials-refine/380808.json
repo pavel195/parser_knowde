@@ -1,0 +1,44 @@
+{
+    "id": 380808,
+    "brand": "automotive-performance-materials-refine",
+    "name": "REFINE® PF3 434",
+    "slug": "refine-pf3-434",
+    "description": "Refine® PF3 434 is a 30% hemp fibers reinforced polypropylene compound for automotive parts.",
+    "company_name": "Automotive Performance Materials",
+    "company_slug": "automotive-performance-materials",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708530723/production/Brand/28530/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608779/production/CategoryImage/578/category_image/AutomotiveTransportation_06.jpg",
+    "properties": {
+        "Applications": [
+            "Interior",
+            "Exterior & Body",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Polyolefins",
+            "Basic Thermoplastics"
+        ],
+        "Chemical Family": [
+            "Polypropylenes (PP)",
+            "Polyolefins"
+        ],
+        "Polymer Name": [
+            "Polypropylene Compound (PP Compound)"
+        ],
+        "End Uses": [
+            "Automotive Interior Parts",
+            "Automotive Exterior Parts"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polypropylene Compound (PP Compound)"
+        ],
+        "Fillers Included": [
+            "Natural Fiber"
+        ],
+        "Melt Flow Index": [
+            "8.0 - 8.0 g/10 min"
+        ]
+    }
+}

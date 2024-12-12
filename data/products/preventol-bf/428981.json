@@ -1,0 +1,39 @@
+{
+    "id": 428981,
+    "brand": "preventol-bf",
+    "name": "Chempace Corporation Extreme Giant",
+    "slug": "chempace-corporation-extreme-giant",
+    "description": "Chempace Corporation Extreme Giant is an extreme heavy duty degreasant/detergent concentrate. Extreme Giant dissolves oils and greases, lifting and emulsifying them for easy soil removal. Select the appropriate dilution ratio to control the cleaning performance you want.\r\n",
+    "company_name": "Chempace Corporation",
+    "company_slug": "chempace-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1665161199/production/Company/48767/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515657/production/CategoryImage/1056/category_image/HII_08.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial Cleaning",
+            "Institutional & Industrial Care"
+        ],
+        "Product Families": [
+            "Industrial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Detergents",
+            "Cleaner",
+            "Degreasers"
+        ],
+        "Application Areas": [
+            "Washers",
+            "Equipment",
+            "Industrial Surfaces"
+        ],
+        "Features": [
+            "Heavy Duty",
+            "Highly Emulsifying",
+            "Effective Soil Removal",
+            "Degreasing"
+        ]
+    }
+}

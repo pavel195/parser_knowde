@@ -1,0 +1,57 @@
+{
+    "id": 83470,
+    "brand": "siclone",
+    "name": "Permethyl® 99A",
+    "slug": "permethyl-99a",
+    "description": "Permethyl® 99A is highly volatile. It provides a light, non-oily feel with little residue and excellent solvency. The Permethyl® line is a series of unique, highly branched aliphatic hydrocarbons ranging from highly volatile, low viscosity liquids to non-volatile viscous materials. The low viscosity grades have excellent makeup removal properties and are differentiated by skin feel, spreadability and volatility. The high viscosity grades give high gloss and film forming properties, and are differentiated by product viscosity.",
+    "company_name": "Presperse",
+    "company_slug": "presperse-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708695446/production/Company/1370/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708695446/production/Brand/7036/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Color Cosmetics",
+            "Hair Care",
+            "Skin Care",
+            "Sun Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Conditioners & Emollients",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Isododecane"
+        ],
+        "End Uses": [
+            "Compact Powder",
+            "Moisturizers",
+            "Make Up Remover"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Isododecane"
+        ],
+        "Functions": [
+            "Emollient"
+        ],
+        "Labeling Claims": [
+            "Ulta Beauty's Conscious Beauty",
+            "Credo Clean Standard",
+            "Clean at Sephora"
+        ],
+        "Benefit Claims": [
+            "Non-Oily Feel",
+            "Film Forming",
+            "Solvency",
+            "Gloss Enhancement",
+            "Low Viscosity",
+            "Dispersing",
+            "Pigment Wetting",
+            "Spreadability",
+            "Shine Enhancing",
+            "Emolliency"
+        ]
+    }
+}

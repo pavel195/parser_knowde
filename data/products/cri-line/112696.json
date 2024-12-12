@@ -1,0 +1,50 @@
+{
+    "id": 112696,
+    "brand": "cri-line",
+    "name": "Cri-Line™ HF-718-75",
+    "slug": "cri-line-hf-718-75",
+    "description": "70% Fluorine terpolymers formulated for much improved chemical resistance. HF compounds are excellent choices for fuel applications, including methanol containing fuels.",
+    "company_name": "Cri-Tech, Inc.",
+    "company_slug": "cri-tech-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1703115265/production/Company/2763/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1703115265/production/Company/2763/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Equipment & Parts",
+            "Powertrain & UTH",
+            "Other Oil, Gas & Mining Applications",
+            "Other Industrial Applications",
+            "Other Automotive Applications",
+            "Fuel Systems",
+            "Automotive",
+            "Chemical & Industrial Manufacturing",
+            "Oil, Gas & Mining"
+        ],
+        "Product Families": [
+            "Fluoroelastomers",
+            "Specialty Elastomers"
+        ],
+        "Chemical Family": [
+            "Fluoropolymers"
+        ],
+        "Polymer Name": [
+            "Fluoroelastomer (FKM)"
+        ],
+        "End Uses": [
+            "Automotive Under The Hood",
+            "Oil/Gas Applications",
+            "Industrial Applications",
+            "Automotive Applications",
+            "Fuel Lines"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Fluoroelastomer (FKM)"
+        ],
+        "Features": [
+            "Chemical Resistant",
+            "Terpolymer"
+        ]
+    }
+}

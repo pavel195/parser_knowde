@@ -1,0 +1,41 @@
+{
+    "id": 326645,
+    "brand": "par-way",
+    "name": "Par-Way® Olive Oil",
+    "slug": "par-way-olive-oil",
+    "description": "Par-Way® Olive Oil is an Extra Virgin Olive Oil and Canola Oil blend that delivers the fresh, distinctive flavor of olive oil to season a variety of prepared foods and also Use on pizza dough, breads, pasta, vegetables and other prepared foods.",
+    "company_name": "Par-Way Tryson",
+    "company_slug": "par-way-tryson",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708687141/production/Company/31045/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606996/production/CategoryImage/508/category_image/FoodNutrition_09.jpg",
+    "properties": {
+        "Applications": [
+            "Savory & Culinary",
+            "Bakery",
+            "Food"
+        ],
+        "Product Families": [
+            "Spices, Herbs & Seasonings",
+            "Edible Oils & Fats",
+            "Taste & Flavor",
+            "Whole Foods, Extracts & Premixes"
+        ],
+        "Flavor Family": [
+            "Vegetable Flavors"
+        ],
+        "End Uses": [
+            "Pizza",
+            "Pasta",
+            "Bread"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Olive Oil"
+        ],
+        "Functions": [
+            "Seasoning Mix",
+            "Fat & Oil"
+        ]
+    }
+}

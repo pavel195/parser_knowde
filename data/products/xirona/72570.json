@@ -1,0 +1,52 @@
+{
+    "id": 72570,
+    "brand": "xirona",
+    "name": "RonaCare® AP",
+    "slug": "ronacare-ap",
+    "description": "Highly effective and pure ingredients to create attractive formulations. Supported by science (in vivo and in vitro studies) and extensive documentation. Developed in-line with regulatory affairs. Offered with worldwide cosmetic formulation support.",
+    "company_name": "EMD Performance Materials",
+    "company_slug": "emd-performance-materials",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708687513/production/Company/1106/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708687513/production/Company/1106/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Skin Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Skin Actives",
+            "Stabilizers",
+            "Cosmetic Actives",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Bis-Ethylhexyl Hydroxydimethoxy Benzylmalonate"
+        ],
+        "End Uses": [
+            "Facial Moisturizer"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Bis-Ethylhexyl Hydroxydimethoxy Benzylmalonate"
+        ],
+        "Functions": [
+            "Sebum Regulator",
+            "Anti-Aging Agent",
+            "Anti-Pollution Agent",
+            "Anti-Acne Agent",
+            "Antioxidant",
+            "Protective Agent",
+            "UV Light Stabilizer"
+        ],
+        "Labeling Claims": [
+            "Clean at Sephora"
+        ],
+        "Benefit Claims": [
+            "Anti-Pollution",
+            "Anti-Acne",
+            "Antioxidant Properties",
+            "Anti-Aging"
+        ]
+    }
+}

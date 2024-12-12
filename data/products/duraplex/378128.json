@@ -1,0 +1,32 @@
+{
+    "id": 378128,
+    "brand": "duraplex",
+    "name": "Kentucky Equine Research MFM Pellet",
+    "slug": "kentucky-equine-research-mfm-pellet",
+    "description": "Kentucky Equine Research MFM Pellet contains several important amino acids, including cysteine, a key component in many antioxidants. Also included in MFM Pellet are the branched-chain amino acids (BCAA) leucine, isoleucine, and valine, all three of which are essential amino acids that must be obtained from the diet. BCAA may be used as a substrate for energy production in skeletal muscle. Research in human athletes has shown that BCAA may stimulate protein synthesis and delay onset of fatigue. MFM Pellet also contains the essential amino acids lysine, methionine, and threonine.",
+    "company_name": "Kentucky Equine Research",
+    "company_slug": "kentucky-equine-research",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672580/production/Company/45119/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608161/production/CategoryImage/546/category_image/AgricultureFeed_02.jpg",
+    "properties": {
+        "Applications": [
+            "Other Animal Health & Nutrition",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Plant Proteins",
+            "Amino Acids & Proteins",
+            "Nutrition & Fortification",
+            "Nutritional Ingredients"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Amino Acids"
+        ],
+        "Functions": [
+            "Amino Acid",
+            "Protein Source"
+        ]
+    }
+}

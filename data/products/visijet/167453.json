@@ -1,0 +1,31 @@
+{
+    "id": 167453,
+    "brand": "visijet",
+    "name": "DuraForm® TPU Elastomer",
+    "slug": "duraform-tpu-elastomer",
+    "description": null,
+    "company_name": "3D Systems",
+    "company_slug": "3d-systems",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691738854/production/Brand/9429/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1691738854/production/Company/2708/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Other Industrial Applications",
+            "Pipes & Plumbing",
+            "Footwear",
+            "Building Materials"
+        ],
+        "Product Families": [
+            "Thermoplastic Powder",
+            "3D Printing Polymers"
+        ],
+        "Polymer Name": [
+            "Thermoplastic Polyurethane (unspecified)"
+        ]
+    },
+    "summary": {
+        "Tensile Strength": [
+            "2.1 - 2.1 MPa"
+        ]
+    }
+}

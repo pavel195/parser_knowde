@@ -1,0 +1,49 @@
+{
+    "id": 313593,
+    "brand": "probioseb-trio",
+    "name": "ProbioSEB CSC3™",
+    "slug": "probioseb-csc3",
+    "description": "ProbioSEB CSC3™ is a revolutionary, shelf-stable probiotic blend of three spore-forming Bacilli species and prebiotic fructooligosaccharide (FOS) for a healthy gut microbiome",
+    "company_name": "Specialty Enzymes & Probiotics",
+    "company_slug": "specialty-enzymes-probiotics",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708671906/production/Product/313593/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607098/production/CategoryImage/501/category_image/FoodNutrition_02.jpg",
+    "properties": {
+        "Applications": [
+            "Oral",
+            "Functional Foods",
+            "Nutrition & Well Being",
+            "Drug Delivery & Care Solutions"
+        ],
+        "Product Families": [
+            "Premixes & Blends",
+            "Prebiotics, Probiotics & Postbiotics",
+            "Nutrient Premixes",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Protein Powder"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Probiotic Blend"
+        ],
+        "Labeling Claims": [
+            "Gluten-free",
+            "Kosher",
+            "Vegan",
+            "GMO-free",
+            "Halal"
+        ],
+        "Functions": [
+            "Probiotic"
+        ],
+        "Certifications & Compliance": [
+            "Halal",
+            "GMP",
+            "Kosher"
+        ]
+    }
+}

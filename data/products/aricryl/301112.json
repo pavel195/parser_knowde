@@ -1,0 +1,39 @@
+{
+    "id": 301112,
+    "brand": "aricryl",
+    "name": "ARICRYL 7017",
+    "slug": "aricryl-7017",
+    "description": "ARICRYL 7017 is used in Plastic Coating having Gasoline resistance, excellent adhesion, fast dry, hardness and good gloss as its adventages.",
+    "company_name": "PT. Aristek Highpolymer",
+    "company_slug": "pt-aristek-highpolymer",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112500/production/Company/24311/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608585/production/CategoryImage/567/category_image/PaintingsCoatings_03.jpg",
+    "properties": {
+        "Applications": [
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Resins & Binders",
+            "Acrylics"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Plastics"
+        ],
+        "Glass Transition Temperature (Tg)": [
+            "65.0 - 65.0 °C"
+        ],
+        "Features": [
+            "High Gloss",
+            "Excellent Adhesion",
+            "Improved Hardness"
+        ]
+    }
+}

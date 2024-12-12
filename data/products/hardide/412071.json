@@ -1,0 +1,51 @@
+{
+    "id": 412071,
+    "brand": "hardide",
+    "name": "Hardide® A",
+    "slug": "hardide-a",
+    "description": "Hardide-A is a REACH-compliant alternative to hard chrome plating (HCP) and high-temperature oxidation (HVOF). Hardide® is a line of low temperature CVD (chemical vapor deposition) tungsten carbide/tungsten metal matrix composite coatings that are designed to extend the life of critical metal components. The coatings are tough, ductile, and impact resistant, with a unique combination of abrasion, erosion, and chemical resistance.",
+    "company_name": "Hardide Coatings",
+    "company_slug": "hardide-coatings",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520293/production/Brand/32151/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608630/production/CategoryImage/571/category_image/PaintingsCoatings_07.jpg",
+    "properties": {
+        "Applications": [
+            "Coatings & Finishes",
+            "Aerospace Coatings",
+            "Aerospace & Aviation",
+            "Transportation"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Coating"
+        ],
+        "Features": [
+            "Good Erosion Resistance",
+            "High Impact Performance",
+            "Chemical Resistant",
+            "Fatigue Resistant",
+            "High Ductility",
+            "Wear Resistant",
+            "Corrosion Resistant",
+            "Abrasion Resistant",
+            "Good Toughness"
+        ],
+        "Application Area": [
+            "Hydraulic Pumps",
+            "Valves",
+            "Aerospace Leading Edge"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Stainless Steel"
+        ],
+        "Application Method": [
+            "CVD (Chemical Vapor Deposition)"
+        ]
+    }
+}

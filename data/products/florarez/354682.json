@@ -1,0 +1,50 @@
+{
+    "id": 354682,
+    "brand": "florarez",
+    "name": "Florachem High Purity Orange Terpenes",
+    "slug": "florachem-high-purity-orange-terpenes",
+    "description": "Florachem High Purity Orange Terpenes is a 100% bio-based product produced by high-vacuum fractional distillation of orange oils. By the nature of the manufacturing method, performance properties are carefully controlled, yielding a very consistent product. HPOT is often used in situations where citrus odor needs to be minimized or where formulations require performance specifications (color, moisture, odor, purity, and NVR) to be tightly controlled. HPOT has benefits over many other solvents due to its excellent solvency, high degree of biodegradability, and derivation from renewable resources.",
+    "company_name": "FLORACHEM",
+    "company_slug": "florachem",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704100166/production/Company/1228/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1704100166/production/Company/1228/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Chemical Manufacturing",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Hydrocarbons",
+            "Solvents"
+        ],
+        "Chemical Family": [
+            "Hydrocarbons",
+            "Terpenes"
+        ],
+        "End Uses": [
+            "Fragrances",
+            "Cleaning Agent"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "(R)-p-mentha-1,8-diene"
+        ],
+        "CAS Number": [
+            "5989-27-5"
+        ],
+        "Grade": [
+            "Food Grade"
+        ],
+        "Labeling Claims": [
+            "Bio-based",
+            "Biodegradable"
+        ],
+        "Features": [
+            "High Solvency"
+        ],
+        "Synonyms": [
+            "1,8-p-Menthadiene, 4-Isopropenyl-1-Methylcyclohexene"
+        ]
+    }
+}

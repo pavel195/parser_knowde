@@ -1,0 +1,40 @@
+{
+    "id": 339455,
+    "brand": "capros",
+    "name": "Ayuric®",
+    "slug": "ayuric",
+    "description": "Ayuric® is a clinically studied, vegetarian, water-soluble product for healthy uric acid level support. It is derived from the edible fruits of Terminalia bellerica, an ancient Ayurvedic plant, which is one of the three components of the famous Ayurvedic formula “Triphala.”  Ayuric® can be used in either solid or liquid dosage forms.",
+    "company_name": "Natreon",
+    "company_slug": "natreon",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708690908/production/Brand/24983/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606914/production/CategoryImage/502/category_image/FoodNutrition_03.jpg",
+    "properties": {
+        "Applications": [
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Antioxidants",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Dietary Supplements"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Triphala Extract"
+        ],
+        "Labeling Claims": [
+            "Kosher",
+            "Organic",
+            "Halal",
+            "Vegetarian",
+            "Non-GMO"
+        ],
+        "Functions": [
+            "Antioxidant"
+        ]
+    }
+}

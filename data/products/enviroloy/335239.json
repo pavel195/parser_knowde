@@ -1,0 +1,48 @@
+{
+    "id": 335239,
+    "brand": "enviroloy",
+    "name": "ENVIRON® ENV39-NC480",
+    "slug": "environ-env39-nc480",
+    "description": "ENVIRON® alloy is a unique blend of semi-crystalline polyester (polybutylene terephthalate, or polyethylene terephthalate) and polycarbonate. Our ENVIRON® products offer superior chemical resistance, impact strength, cold temperature impact, good flow, toughness and heat resistance. Enviroplas resin has been the material of choice for custom polycarbonates and polycarbonate alloys, and our ENVIRON® alloy and ENVIRON® PBT grades can be formulated to meet your applications needs including flame retardants, custom colors, impact modifiers, and UV packages to meet your weatherability requirements.",
+    "company_name": "Enviroplas, Inc.",
+    "company_slug": "enviroplas-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1703115832/production/Brand/24770/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608744/production/CategoryImage/575/category_image/AutomotiveTransportation_03.jpg",
+    "properties": {
+        "Applications": [
+            "Housings & Enclosures",
+            "Furniture",
+            "Powertrain & UTH",
+            "Exterior & Body",
+            "Automotive",
+            "Parts & Components"
+        ],
+        "Product Families": [
+            "Blends & Alloys",
+            "Engineering & Specialty Polymers"
+        ],
+        "Polymer Name": [
+            "PC/PBT Alloy"
+        ],
+        "End Uses": [
+            "Outdoor Furnishings",
+            "Electrical Housing",
+            "Automotive Under The Hood",
+            "Automotive Exterior Parts"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "PC/PBT Alloy"
+        ],
+        "Processing Methods": [
+            "Injection Molding"
+        ],
+        "Density": [
+            "1260.0 - 1260.0 kg/m³"
+        ],
+        "Flexural Modulus": [
+            "3137.1 - 3137.1 MPa"
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "id": 297567,
+    "brand": "aqua-brite",
+    "name": "Aqua-Brite SD1500",
+    "slug": "aqua-brite-sd1500",
+    "description": "Aqua-Brite SD1500 is a fine, bright, VOC free, silver dollar pigment paste developed for water based Coatings applications. Aqua-Brite SD 1500 is chemically stabilized to prevent gassing reactions in water. Metaflake’s unique water milling process guarantees excellent wetting and dispersion.",
+    "company_name": "METAFLAKE",
+    "company_slug": "metaflake",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1683731052/production/Company/23753/logo/image",
+    "banner_url": "https://static.knowde.com/card-banners/knowde-card-for-raw-materials-8.jpg",
+    "properties": {
+        "Applications": [
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Pigments & Colorants",
+            "Effects Pigments",
+            "Metallic Effect"
+        ],
+        "Chemical Family": [
+            "Aluminum Compounds"
+        ],
+        "End Uses": [
+            "Waterborne Coating"
+        ]
+    },
+    "summary": {
+        "Color": [
+            "Silver"
+        ],
+        "Pigment Type": [
+            "Metallic Effect"
+        ],
+        "Chemical Family": [
+            "Aluminum Compounds"
+        ],
+        "End Uses": [
+            "Waterborne Coating"
+        ],
+        "Particle Size": [
+            "15.0 - 15.0 microns"
+        ]
+    }
+}

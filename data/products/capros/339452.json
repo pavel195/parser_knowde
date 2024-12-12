@@ -1,0 +1,49 @@
+{
+    "id": 339452,
+    "brand": "capros",
+    "name": "Capros®",
+    "slug": "capros",
+    "description": "Capros® is a super antioxidant (ORACFN of 47,000 µmoles TE/g) and an excellent cardiovascular support product, which is all natural, derived from the edible fruits of Phyllanthus emblica, organic and non‐GMO. Capros® is completely water soluble and stable making it suitable for both solid dosage forms as well as hot and cold beverages. Capros’® efficacy is backed by ten human clinical studies. Six studies have been published so far and another was accepted for publication. Capros® recently received a no objection GRAS letter from FDA.",
+    "company_name": "Natreon",
+    "company_slug": "natreon",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709127500/production/Brand/24980/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606914/production/CategoryImage/502/category_image/FoodNutrition_03.jpg",
+    "properties": {
+        "Applications": [
+            "Nutraceuticals & Supplements",
+            "Powdered Beverages",
+            "Beverage",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Antioxidants",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Dietary Supplements",
+            "Powdered Beverages"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Amlas (Indian Gooseberry)"
+        ],
+        "Labeling Claims": [
+            "Halal",
+            "Vegetarian",
+            "Organic",
+            "Non-GMO",
+            "Kosher"
+        ],
+        "Functions": [
+            "Supplement",
+            "Dietary Supplement",
+            "Antioxidant"
+        ],
+        "Features": [
+            "Reduction in Cholesterol",
+            "Blood Glucose Management"
+        ]
+    }
+}

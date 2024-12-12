@@ -1,0 +1,37 @@
+{
+    "id": 416397,
+    "brand": "virofresh",
+    "name": "ViroCare™ Multi Surface Cleaner",
+    "slug": "virocare-multi-surface-cleaner",
+    "description": "ViroCare™ Multi Surface Cleaner is a powerful all-in-one, multi-surface cleaner, and is used as a stand-alone surface cleaner and deodorizer. In combination With ViroCare PLUS or ViroChem, it becomes a powerful integrated pest management system. ViroCare™ provides effective cleaning, while deodorizing areas where deep cleaning is critical to controlling the hazards of cross-contamination on high touch surfaces. ViroCare™ eliminates unwanted odors while preparing surfaces for the application of a degreaser or registered disinfectant intended to kill bio-film.",
+    "company_name": "Lubrco",
+    "company_slug": "lubrco",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292571/production/Brand/32502/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515684/production/CategoryImage/1058/category_image/HII_10.jpg",
+    "properties": {
+        "Applications": [
+            "Home Care",
+            "Institutional & Industrial Care",
+            "Surface Care",
+            "Institutional & Catering"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Medical Grade Cleaners",
+            "Commercial Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Deodorizers",
+            "Multipurpose Cleaners"
+        ],
+        "Certifications & Compliance": [
+            "EPA Registered"
+        ],
+        "Features": [
+            "Neutralizes Odor",
+            "No-Rinse"
+        ]
+    }
+}

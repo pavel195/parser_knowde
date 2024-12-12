@@ -1,0 +1,43 @@
+{
+    "id": 401529,
+    "brand": "44-blue",
+    "name": "90 Green™",
+    "slug": "90-green",
+    "description": "90 GREEN™ is a medium strength , very low viscosity, wicking grade threadlocker and porosity filler. Use 90 GREEN™ on applications requiring a fast setting anaerobic product to seal and lock small screws and threaded fasteners. 90 GREEN™ is ideal in applications where additional torque can not be applied to a delicate fastener, but greater off torque is desired. Because of it’s ability to wick by capillary action, 90 GREEN™ can be applied to small fasteners that have already been assembled. It is also the perfect product for sealing porosities in welds and cast parts.",
+    "company_name": "Adhesive R&D",
+    "company_slug": "adhesive-r-d",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520040/production/Brand/30716/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608939/production/CategoryImage/585/category_image/AdhesivesSealants_02.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Other Building & Construction Applications",
+            "Pipes & Plumbing"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Anaerobic Adhesives"
+        ],
+        "Chemical Family": [
+            "Methacrylates"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Anaerobic Adhesive"
+        ],
+        "Application Area": [
+            "Thread Sealing"
+        ],
+        "Chemical Family": [
+            "Methacrylates"
+        ],
+        "Features": [
+            "Medium Strength",
+            "Excellent Seal Properties",
+            "Good Wicking",
+            "Fast Setting",
+            "Low Viscosity"
+        ]
+    }
+}

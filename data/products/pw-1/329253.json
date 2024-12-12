@@ -1,0 +1,43 @@
+{
+    "id": 329253,
+    "brand": "pw-1",
+    "name": "VF 380-F™",
+    "slug": "vf-380-f",
+    "description": "VF 380-F™ is a 100% solids elastomeric polyurea developed for applications such as geotextile lining membranes. VF380-F may also be applied to concrete and steel substrates. VF380-F is a volatile free, odorless system applied with 1:1 mix ratio with plural component spray equipment. VersaFlex VF380-F provides less shrinkage with improved elongation characteristics. As a result, VF380-F makes an excellent polyurea for liners, geotextile coatings, and applications where resilience and durability are required. VF380-F may be applied at varying thicknesses in a single application using a multi-pass spray technique.",
+    "company_name": "Versaflex",
+    "company_slug": "versaflex",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664290015/production/Company/32382/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608566/production/CategoryImage/566/category_image/PaintingsCoatings_02.jpg",
+    "properties": {
+        "Applications": [
+            "Water Treatment",
+            "Industrial Coatings",
+            "Power, Water & Utilities"
+        ],
+        "Product Families": [
+            "Other Paints & Coatings",
+            "Paints & Coatings"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Solventless & High Solids Coating"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Composites",
+            "Metal",
+            "Steel",
+            "Wood",
+            "Concrete"
+        ],
+        "Features": [
+            "Good Adhesion",
+            "Fast Setting",
+            "Good Bonding Strength",
+            "Good Toughness"
+        ],
+        "Application Method": [
+            "Spray"
+        ]
+    }
+}

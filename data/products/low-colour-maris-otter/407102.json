@@ -1,0 +1,33 @@
+{
+    "id": 407102,
+    "brand": "low-colour-maris-otter",
+    "name": "Finest Pale Ale Maris Otter® ASBC",
+    "slug": "finest-pale-ale-maris-otter-asbc",
+    "description": "Finest Pale Ale Maris Otter® ASBC is UK Heritage Barley. Great in English-style beers. Always 100% Maris Otter. Maris Otter’s superior Brewhouse Performance is fantastic. The ‘Rolls Royce’ of malts for the traditional brewer, this legendary heritage barley variety is the base malt for traditional English Bitter beers. Maris Otter has a low nitrogen content and high extract, producing a rich malty flavor with exceptional Brewhouse Performance and beer clarity.",
+    "company_name": "Simpsons Malt",
+    "company_slug": "simpsons-malt",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686109800/production/Brand/31404/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606945/production/CategoryImage/505/category_image/FoodNutrition_06.jpg",
+    "properties": {
+        "Applications": [
+            "Beverage",
+            "Liquor & Spirits",
+            "Beer Brewing"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Flours & Grains Products"
+        ],
+        "Flavor Family": [
+            "Beverage Inspired Flavors"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Base Malt"
+        ],
+        "Certifications & Compliance": [
+            "B-Corp Certified"
+        ]
+    }
+}

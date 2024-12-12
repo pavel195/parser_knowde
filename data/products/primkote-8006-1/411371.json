@@ -1,0 +1,45 @@
+{
+    "id": 411371,
+    "brand": "primkote-8006-1",
+    "name": "Abocoat 8106-5™",
+    "slug": "abocoat-8106-5",
+    "description": "Abocoat 8106-5™ is recommended for coating damp floors and walls, hard freshly poured concrete, and many painted surfaces. Preferred for applications requiring low vapor emission and low fire hazard during application, such as schools, restaurants, and enclosed areas. Thin with water.",
+    "company_name": "Abatron",
+    "company_slug": "abatron",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520347/production/Brand/32017/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608566/production/CategoryImage/566/category_image/PaintingsCoatings_02.jpg",
+    "properties": {
+        "Applications": [
+            "Flooring & Surfaces",
+            "Building & Construction",
+            "Concrete Coatings & Stains",
+            "Floor Coatings"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Enamels"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Waterborne Coating",
+            "Enamel"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Painted Surfaces",
+            "Concrete"
+        ],
+        "Features": [
+            "Water-based",
+            "Low Emissions",
+            "High Gloss",
+            "Flame Resistant"
+        ],
+        "Application Method": [
+            "Spray",
+            "Roller",
+            "Brush",
+            "Gun"
+        ]
+    }
+}

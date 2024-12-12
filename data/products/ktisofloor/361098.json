@@ -1,0 +1,46 @@
+{
+    "id": 361098,
+    "brand": "ktisofloor",
+    "name": "Ktisofloor",
+    "slug": "ktisofloor",
+    "description": "Ktisofloor has been developed with the end-result in mind. Ktisofloor is a 2-component, VOC free self-leveling epoxy flooring coating system usually applied at 2-3 mm thickness.",
+    "company_name": "Ktisis",
+    "company_slug": "ktisis",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520295/production/Brand/27000/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608422/production/CategoryImage/558/category_image/BuildingConstruction_02.jpg",
+    "properties": {
+        "Applications": [
+            "Flooring & Surfaces",
+            "Floor Coatings"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Other Paints & Coatings"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Epoxy Coating",
+            "2K (2 component) Coating"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Concrete"
+        ],
+        "Features": [
+            "Excellent Leveling Properties",
+            "Tear Resistance",
+            "Wear Resistant",
+            "Glossy Surface Aspects"
+        ],
+        "Application Method": [
+            "Roller",
+            "Trowel"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    }
+}

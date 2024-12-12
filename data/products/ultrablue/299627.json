@@ -1,0 +1,67 @@
+{
+    "id": 299627,
+    "brand": "ultrablue",
+    "name": "DCL Corporation 1816 Dianisidine Orange, PO.16",
+    "slug": "dcl-corporation-1816-dianisidine-orange-po-16",
+    "description": "DCL Corporation 1816 Dianisidine Orange, PO.16 is a blue shade orange pigment for use in plastic, ink and coating applcations. DCC Orange 1816 can also be used as a lead free alternative to molybdate orange.",
+    "company_name": "DCL Corporation",
+    "company_slug": "dcl-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1711628424/production/Company/22785/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608566/production/CategoryImage/566/category_image/PaintingsCoatings_02.jpg",
+    "properties": {
+        "Applications": [
+            "Offset & Lithographic Printing",
+            "Industrial Coatings",
+            "Decorative Paints",
+            "Decorative Paints, Coatings & Stains",
+            "Flexography",
+            "Building & Construction",
+            "Printing & Inks",
+            "Decorative Materials & Finishes"
+        ],
+        "Product Families": [
+            "Pigments & Colorants",
+            "Color Pigments",
+            "Organic Pigments",
+            "Polymer Additives"
+        ],
+        "Chemical Family": [
+            "Azo Compounds"
+        ],
+        "End Uses": [
+            "Offset Ink",
+            "Cables",
+            "Waterborne Ink",
+            "Solventborne Ink",
+            "Radiation Curable Ink",
+            "Flexography Ink",
+            "Powder Coating"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Azo Compounds"
+        ],
+        "Pigment Type": [
+            "Organic Pigments"
+        ],
+        "CI Name": [
+            "Pigment Orange 16"
+        ],
+        "CI Number": [
+            "21160"
+        ],
+        "Color": [
+            "Orange"
+        ],
+        "Compatible Polymers & Resins": [
+            "Polypropylenes (PP)",
+            "Polyethylenes (PE)",
+            "Polyvinyl Chloride (PVC)",
+            "Polystyrenes (PS)"
+        ],
+        "Synonyms": [
+            "C.I. Pigment Orange 16, C.I. 21160, PO 16"
+        ]
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "id": 303963,
+    "brand": "imagitint",
+    "name": "Imagitint White",
+    "slug": "imagitint-white",
+    "description": "Imagitint White are universal type and are designed to have a broad compatibility with water based emulsion paints and solvent-based decorative alkyd enamel paints. IMAGITINT Machine Colorants are specifically formulated for the use in volumetric dispensing machines and for volumetric in-plant tinting. IMAGITINT Machine Colorants are suited for accurate and easy dispensing via automated and manual dispensing machines. IMAGITINT Machine Colorants are rigidly controlled for color strength, tone and disperse easily and completely in most decorative paint bases. However, compatibility should be re-ascertained after any change in paint base formulation. IMAGITINT Machine Colorants remain in suspension with minimum agitation and do not skin. Canisters should be properly capped after every top up / addition.",
+    "company_name": "Imagico India",
+    "company_slug": "imagico-india",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708518533/production/Company/24754/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609091/production/CategoryImage/594/category_image/PrintingPackaging_05.jpg",
+    "properties": {
+        "Applications": [
+            "Decorative Paints, Coatings & Stains",
+            "Architectural Coatings",
+            "Decorative Paints",
+            "Other Industrial Coatings",
+            "Building Envelope",
+            "Building Materials",
+            "Building & Construction",
+            "Industrial Coatings",
+            "Building Envelope & Roofing",
+            "Decorative Materials & Finishes"
+        ],
+        "Product Families": [
+            "Inorganic Pigments",
+            "Color Pigments",
+            "Pigments & Colorants"
+        ],
+        "End Uses": [
+            "Enamel",
+            "Waterborne Coating",
+            "Solventborne Coating"
+        ]
+    },
+    "summary": {
+        "Color": [
+            "White"
+        ],
+        "Pigment Type": [
+            "Inorganic Pigments"
+        ],
+        "End Uses": [
+            "Waterborne Coating",
+            "Solventborne Coating",
+            "Enamel"
+        ],
+        "Compatible Polymers & Resins": [
+            "Alkyds",
+            "Styrene Butadiene Styrene (SBS)",
+            "Polyurethanes (PU)",
+            "Acrylics",
+            "Polyvinyl Acetate (PVA)"
+        ]
+    }
+}

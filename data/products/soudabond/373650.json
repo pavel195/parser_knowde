@@ -1,0 +1,44 @@
+{
+    "id": 373650,
+    "brand": "soudabond",
+    "name": "Soudasil RTV 1",
+    "slug": "soudasil-rtv-1",
+    "description": "Soudasil RTV 1 is a one-part acetoxy silicone sealant used for variety of sealing and gasketing needs.",
+    "company_name": "Soudal USA",
+    "company_slug": "soudal",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709127581/production/Brand/27896/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608438/production/CategoryImage/559/category_image/BuildingConstruction_03.jpg",
+    "properties": {
+        "Applications": [
+            "Sealants & Caulks",
+            "Glazing & Window Elements",
+            "Appliances & Electronics",
+            "Building Envelope",
+            "Building Materials",
+            "Construction Chemicals",
+            "Roofing",
+            "Building Envelope & Roofing"
+        ],
+        "Product Families": [
+            "Caulks & Sealants",
+            "Adhesives & Sealants"
+        ]
+    },
+    "summary": {
+        "Product Type": [
+            "1K (1 component) Sealant"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Ceramic",
+            "Metal",
+            "Glass",
+            "Wood"
+        ],
+        "Cure Method": [
+            "Moisture Cure"
+        ],
+        "Application Method": [
+            "Pneumatic Gun"
+        ]
+    }
+}

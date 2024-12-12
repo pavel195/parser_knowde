@@ -1,0 +1,55 @@
+{
+    "id": 229715,
+    "brand": "tiona",
+    "name": "TiONA® 113",
+    "slug": "tiona-113",
+    "description": "TiONA® 113 is a heavily treated, chloride-process, rutile titanium dioxide pigment, specifically designed to give excellent hiding power and good film integrity in flat emulsion paints formulated above CPVC. TiONA® 113 provides easy incorporation and excellent stability in the finished paint as well as high dry-hide opacity.",
+    "company_name": "Tronox",
+    "company_slug": "tronox",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708517632/production/Company/14973/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608454/production/CategoryImage/560/category_image/BuildingConstruction_04.jpg",
+    "properties": {
+        "Applications": [
+            "Architectural Coatings",
+            "Other Printing Applications",
+            "Building Envelope",
+            "Building & Construction",
+            "Printing & Inks",
+            "Building Envelope & Roofing"
+        ],
+        "Product Families": [
+            "Inorganic Pigments",
+            "Color Pigments",
+            "Pigments & Colorants"
+        ],
+        "Chemical Family": [
+            "Titanium Compounds"
+        ],
+        "End Uses": [
+            "Solventborne Coating"
+        ]
+    },
+    "summary": {
+        "Color": [
+            "White"
+        ],
+        "Pigment Type": [
+            "Inorganic Pigments"
+        ],
+        "Chemical Family": [
+            "Titanium Compounds"
+        ],
+        "End Uses": [
+            "Solventborne Coating"
+        ],
+        "Compatible Polymers & Resins": [
+            "Polyvinyl Chloride (PVC)"
+        ],
+        "Particle Size": [
+            "0.31 - 0.31 microns"
+        ],
+        "Synonyms": [
+            "TiO2, Titania, Titanium Peroxide"
+        ]
+    }
+}

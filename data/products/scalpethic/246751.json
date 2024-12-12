@@ -1,0 +1,55 @@
+{
+    "id": 246751,
+    "brand": "scalpethic",
+    "name": "Biocosmethic Refined Chaulmoogra Oil",
+    "slug": "biocosmethic-refined-chaulmoogra-oil",
+    "description": "Refined Chaulmoogra Oil is obtained by cold pressing and subsequent refining from the dried seeds of Taraktogenos kurzii.",
+    "company_name": "Biocosmethic",
+    "company_slug": "biocosmethic",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708698457/production/Product/246751/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708698457/production/Product/246751/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Skin Care",
+            "Hair Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Fixed & Carrier Oils",
+            "Skin Actives",
+            "Conditioners & Emollients",
+            "Sensory Modifiers",
+            "Hair Actives",
+            "Cosmetic Actives",
+            "Vitamins, Extracts & Oils",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Taraktogenos Kurzii Seed Oil"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Taraktogenos Kurzii Seed Oil"
+        ],
+        "Ingredient Origin": [
+            "Plant Origin"
+        ],
+        "Functions": [
+            "Soothing Agent",
+            "Moisturizing Agent",
+            "Emollient"
+        ],
+        "Labeling Claims": [
+            "Cold-Pressed",
+            "Ulta Beauty's Conscious Beauty"
+        ],
+        "Benefit Claims": [
+            "Emolliency",
+            "Moisturizing"
+        ],
+        "Synonyms": [
+            "Chaulmoogra Oil, Fats And Glyceridic Oils, Chaulmoogra, Fats And Glyceridic Oils, Chaulmoogra Oil, Gynocardia Oil, Hydnocarpus Oil, Oils, Chaulmoogra, Oils, Glyceridic, Chaulmoogra, Oils, Hydnocarpus, Oils, Taraktogenos Kurzii, Taraktogenos Kurzii Oil, Tuvaraka Beeja Taila, Vegetable Oils, Chaulmoogra Oil"
+        ]
+    }
+}

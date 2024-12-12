@@ -1,0 +1,45 @@
+{
+    "id": 392867,
+    "brand": "cimtech",
+    "name": "CIMSTAR® QUAL STAR XL",
+    "slug": "cimstar-qual-star-xl",
+    "description": "CIMSTAR® QUAL STAR XL is a metalworking fluid that is semi-synthetic. It is a chlorine-free general-purpose machining and grinding fluid.",
+    "company_name": "Cimcool Fluid Technology",
+    "company_slug": "cimcool-fluid-technology",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680108951/production/Brand/29597/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical & Industrial Manufacturing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Metalworking Fluids",
+            "Fluids & Lubricants"
+        ]
+    },
+    "summary": {
+        "Application Area": [
+            "Machining Operations",
+            "Reaming",
+            "Sawing Operations",
+            "Drilling Applications",
+            "Boring Applications",
+            "Milling Operations"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Magnesium",
+            "Steel",
+            "Metal"
+        ],
+        "Features": [
+            "Microbe Resistant",
+            "Stain Resistant",
+            "Corrosion Resistant",
+            "General Purpose"
+        ],
+        "Metalworking Fluid Type": [
+            "Semi-Synthetic"
+        ]
+    }
+}

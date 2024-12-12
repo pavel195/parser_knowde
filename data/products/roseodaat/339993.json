@@ -1,0 +1,47 @@
+{
+    "id": 339993,
+    "brand": "roseodaat",
+    "name": "TESTODAAT®",
+    "slug": "testodaat",
+    "description": "TESTODAAT® is a botanical ingredient used for sexual health, erectile, testosterone.",
+    "company_name": "Lodaat Pharma",
+    "company_slug": "lodaat-pharma",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708689688/production/Brand/25021/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607098/production/CategoryImage/501/category_image/FoodNutrition_02.jpg",
+    "properties": {
+        "Applications": [
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Plant & Herb Products & Extracts",
+            "Spices, Herbs & Seasonings",
+            "Taste & Flavor",
+            "Nutrition & Fortification",
+            "Whole Foods, Extracts & Premixes",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Nutraceuticals"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Fenugreek"
+        ],
+        "Functions": [
+            "Supplement",
+            "Dietary Supplement"
+        ],
+        "Ingredient Origin": [
+            "Plant Origin",
+            "Natural Origin"
+        ],
+        "Labeling Claims": [
+            "Naturally Derived",
+            "Plant-Based"
+        ]
+    }
+}

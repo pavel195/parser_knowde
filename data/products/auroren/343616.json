@@ -1,0 +1,30 @@
+{
+    "id": 343616,
+    "brand": "auroren",
+    "name": "AUROREN® 100",
+    "slug": "auroren-100",
+    "description": "AUROREN® 100 is a specially modified polyolefin resin newly developed with Nippon Paper Industries Chemical Division's original technology. AUROREN® 100 shows excellent adhesion to non-polar substrates such as polypropylene and polyethylene. Good solubility in non-aromatic solvents is also a great advantage of AUROREN® 100.",
+    "company_name": "Nippon Paper Industries",
+    "company_slug": "nippon-paper-industries",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697222728/production/Brand/25454/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609103/production/CategoryImage/595/category_image/PrintingPackaging_06.jpg",
+    "properties": {
+        "Applications": [
+            "Other Printing Applications",
+            "Other Paints & Coatings Applications",
+            "Other Adhesives & Sealants Applications",
+            "Printing & Inks"
+        ],
+        "Product Families": [
+            "Other Resins & Binders",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Polyolefins"
+        ],
+        "End Uses": [
+            "Primer"
+        ]
+    },
+    "summary": {}
+}

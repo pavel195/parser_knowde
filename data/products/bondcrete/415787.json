@@ -1,0 +1,61 @@
+{
+    "id": 415787,
+    "brand": "bondcrete",
+    "name": "Graymont High Calcium Quicklime",
+    "slug": "graymont-high-calcium-quicklime",
+    "description": "High Calcium Quicklime are pulverized limestone products which are produced by grinding and screening industrial-grade limestone and dolomite.",
+    "company_name": "Graymont",
+    "company_slug": "graymont",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708692176/production/Company/55514/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Other Industrial Applications",
+            "Mining",
+            "Shingles & Tiles",
+            "Agricultural Pest Control",
+            "Feed Production & Processing",
+            "Animal Health & Nutrition",
+            "Oil, Gas & Mining",
+            "Pest Control",
+            "Building Envelope & Roofing"
+        ],
+        "Product Families": [
+            "Glass & Ceramic Additives",
+            "Mining Aids",
+            "Asphalt Additives",
+            "Construction Chemicals",
+            "Oil, Gas & Mining Chemicals",
+            "Processing Aids"
+        ],
+        "Chemical Family": [
+            "Calcium & Calcium Compounds"
+        ],
+        "End Uses": [
+            "Oil & Gas Applications",
+            "Drilling Fluids",
+            "Asphalt"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Flocculant",
+            "Flux",
+            "Absorbent"
+        ],
+        "Chemical Family": [
+            "Calcium & Calcium Compounds"
+        ],
+        "Physical Form": [
+            "Solid"
+        ],
+        "End Uses": [
+            "Oil & Gas Applications",
+            "Drilling Fluids",
+            "Asphalt"
+        ],
+        "Synonyms": [
+            "Calcium Monoxide, Caustic Lime, Lime, Limestone, Pebble Lime, Quick Lime"
+        ]
+    }
+}

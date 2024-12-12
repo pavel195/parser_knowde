@@ -1,0 +1,97 @@
+{
+    "id": 452367,
+    "brand": "real-stevia",
+    "name": "Real Stevia™ Reb A 80% Extract",
+    "slug": "real-stevia-reb-a-80-extract",
+    "description": "Real Stevia™ Reb A 80% Extract (Granulate) is steviol glycosides extracted from the Stevia rebaudiana Bertoni plant leaves.\r\n",
+    "company_name": "The Real Stevia Company",
+    "company_slug": "the-real-stevia-company",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708690904/production/Brand/27778/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606914/production/CategoryImage/502/category_image/FoodNutrition_03.jpg",
+    "properties": {
+        "Applications": [
+            "Oral Care",
+            "Skin Care",
+            "Oral",
+            "Savory & Culinary",
+            "Cereals & Snacks",
+            "Desserts & Fruit Preparations",
+            "Convenience Foods",
+            "Confectionery",
+            "Dairy",
+            "Functional Foods",
+            "Powdered Beverages",
+            "Tea, Cocoa & Coffee",
+            "Functional & Flavored Water",
+            "Carbonated Drinks",
+            "Beverage",
+            "Food",
+            "Nutrition & Well Being",
+            "Drug Delivery & Care Solutions",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Botanical Ingredients & Extracts",
+            "Sensory Modifiers",
+            "Flavors & Taste Maskers",
+            "Sweeteners & Syrups",
+            "Vitamins, Extracts & Oils",
+            "Functionals",
+            "Taste & Flavor",
+            "Excipients"
+        ],
+        "Chemical Family": [
+            "Botanical Extracts"
+        ],
+        "Flavor Family": [
+            "Herb Flavors"
+        ],
+        "INCI Name": [
+            "Stevia Rebaudiana Leaf Extract"
+        ],
+        "End Uses": [
+            "Mouthwash",
+            "Toothpaste",
+            "Jams",
+            "Ketchup",
+            "Dressings",
+            "Dietetic Foods",
+            "Cereal Bars",
+            "Yogurt",
+            "Ice Cream",
+            "Creams",
+            "Filling Applications",
+            "Chocolates",
+            "Candies",
+            "Tea",
+            "Coffee",
+            "Powdered Beverages",
+            "Chocolate Milk",
+            "Flavored Water",
+            "RTD Nutrition Formulas",
+            "Carbonated Drinks",
+            "Muesli"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Stevia Rebaudiana Leaf Extract"
+        ],
+        "Ingredient Name": [
+            "Rebaudioside A"
+        ],
+        "Flavor": [
+            "Spearmint",
+            "Mint"
+        ],
+        "Functions": [
+            "Non Nutritive Sweetener",
+            "Sugar Substitute",
+            "Sweetener"
+        ],
+        "Dosage Form": [
+            "Tablets",
+            "Syrups"
+        ]
+    }
+}

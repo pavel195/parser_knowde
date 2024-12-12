@@ -1,0 +1,29 @@
+{
+    "id": 298041,
+    "brand": "dnf-10",
+    "name": "DNF-10®",
+    "slug": "dnf-10",
+    "description": "DNF-10® is a protein hydrolysate from Saccharomyces cerevisiae. Active on the mediators of satiety, DNF-10® helps to lower calorie intake and reduce body fat mass. Benefits have been clinically demonstrated after the first weeks of use.",
+    "company_name": "Fytexia",
+    "company_slug": "fytexia",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697223339/production/Product/298041/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1697223339/production/Product/298041/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Oral",
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being",
+            "Drug Delivery & Care Solutions"
+        ],
+        "Product Families": [
+            "Proteins & Amino Acids",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "Chemical Family": [
+            "Proteins, Peptides & Amino Acid Derivatives",
+            "Proteins"
+        ]
+    },
+    "summary": {}
+}

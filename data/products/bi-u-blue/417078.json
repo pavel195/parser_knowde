@@ -1,0 +1,37 @@
+{
+    "id": 417078,
+    "brand": "bi-u-blue",
+    "name": "Fleet Wash™",
+    "slug": "fleet-wash",
+    "description": "Fleet Wash™ is an environmentally safe brush free formulation designed for the transportation industry.",
+    "company_name": "Cajun Kleen Products",
+    "company_slug": "cajun-kleen-products",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1682593154/production/Brand/32617/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515625/production/CategoryImage/1053/category_image/HII_05.jpg",
+    "properties": {
+        "Applications": [
+            "Institutional & Industrial Care",
+            "Vehicle & Machinery"
+        ],
+        "Product Families": [
+            "Industrial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner",
+            "Automotive Cleaners"
+        ],
+        "Application Area": [
+            "Truck",
+            "Car"
+        ],
+        "Features": [
+            "Grime Cleaning",
+            "Water-based",
+            "Shiny Surface",
+            "Biodegradable"
+        ]
+    }
+}

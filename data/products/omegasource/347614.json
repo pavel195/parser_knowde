@@ -1,0 +1,35 @@
+{
+    "id": 347614,
+    "brand": "omegasource",
+    "name": "SOLUTEX NA Omega-3",
+    "slug": "solutex-na-omega-3",
+    "description": "SOLUTEX NA Omega-3 fatty acids are vital to healthy cell membrane structure and benefit overall good health, numerous clinical studies have been conducted through the years reinforcing the heart, brain and eye health benefits of EPA and DHA. Omega-3 fatty acids are important in maintaining the structure of cellular membranes, improving absorption of liposoluble vitamins (A, D, E and K), regulating cholesterol metabolism and producing eicosanoids which regulate various cellular processes, from vascular and cognitive function to inflammation and immune processes. Unfortunately, our bodies are not capable of producing Omega-3’s and we must acquire them through our diet. Experts agree omega-3 benefits are only achieved through a higher recommended dose than most people acquire through a normal diet. As a result, there is a growing demand for omega-3 rich foods and dietary supplements.",
+    "company_name": "SOLUTEX NA",
+    "company_slug": "solutex-na",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686104619/production/Company/37390/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606984/production/CategoryImage/507/category_image/FoodNutrition_08.jpg",
+    "properties": {
+        "Applications": [
+            "Nutrition & Well Being",
+            "Nutraceuticals & Supplements"
+        ],
+        "Product Families": [
+            "Nutrition & Fortification",
+            "Fatty Acids, Specialty Lipids & Oils"
+        ],
+        "End Uses": [
+            "Dietary Supplements"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Docosahexaenoic Acid"
+        ],
+        "Features": [
+            "Improved Cognitive Function",
+            "Anti-Inflammatory",
+            "Stimulates Immune System",
+            "Reduction in Cholesterol"
+        ]
+    }
+}

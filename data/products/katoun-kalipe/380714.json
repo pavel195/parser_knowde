@@ -1,0 +1,31 @@
+{
+    "id": 380714,
+    "brand": "katoun-kalipe",
+    "name": "BELOUKHA®",
+    "slug": "jade-jardin-agriculture-developpement-beloukha",
+    "description": "Beloukha® is a non-selective strict contact product that acts very quickly at the site of impact by drying out the aerial part affected.",
+    "company_name": "JADE (Jardin & Agriculture Developpement)",
+    "company_slug": "jade-jardin-agriculture-developpement",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708688386/production/Brand/28517/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608224/production/CategoryImage/551/category_image/AgricultureFeed_07.jpg",
+    "properties": {
+        "Applications": [
+            "Agricultural Pest Control",
+            "Vegetables",
+            "Sugar & Starch Crops",
+            "Industrial Weed & Vegetation Control",
+            "Agricultural Crops",
+            "Pest Control",
+            "Turf, Ornamentals & Landscape"
+        ],
+        "Product Families": [
+            "Herbicides",
+            "Crop Protection & Pest Control"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Herbicide"
+        ]
+    }
+}

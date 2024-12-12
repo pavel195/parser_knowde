@@ -1,0 +1,64 @@
+{
+    "id": 503593,
+    "brand": "libradet",
+    "name": "Libranox AO14-30",
+    "slug": "libranox-ao14-30",
+    "description": "Libranox AO14-30 functions as a detergent and is available in liquid form. It boasts features such as foam stability, degreasing, foam enhancement, effective soil removal, high foaming, emulsifying properties, excellent cleaning performance, good compatibility, detergency, improved foam stability, and increased viscosity. This product holds certifications for RSPO Certified Sustainable Palm Oil, ISO 14001, ISO 45001, and ISO 9001. It is used in various applications, including alkaline cleaners, detergents, and industrial cleaners.\r\n",
+    "company_name": "Libra Speciality Chemicals",
+    "company_slug": "libra-speciality-chemicals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1696607086/production/Company/19248/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1696607072/production/Company/19248/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Industrial Cleaning",
+            "Surface Care",
+            "Home Care",
+            "Institutional & Industrial Care"
+        ],
+        "Product Families": [
+            "Detergents & Degreasers",
+            "Cleaning Aids"
+        ],
+        "Chemical Family": [
+            "Alkylamine Oxides"
+        ],
+        "End Uses": [
+            "Alkaline Cleaners",
+            "Industrial Cleaners",
+            "Detergents"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Alkylamine Oxides"
+        ],
+        "Functions": [
+            "Detergent"
+        ],
+        "Features": [
+            "Effective Soil Removal",
+            "Foam Stability",
+            "Foam Enhancement",
+            "Increases Viscosity",
+            "Good Compatibility",
+            "Detergency",
+            "High Foaming",
+            "Emulsifying",
+            "Degreasing",
+            "Improves Foam Stability",
+            "Excellent Cleaning Performance"
+        ],
+        "Certifications & Compliance": [
+            "ISO 14001",
+            "ISO 9001",
+            "RSPO Certified Sustainable Palm Oil",
+            "ISO 45001"
+        ],
+        "End Uses": [
+            "Detergents",
+            "Alkaline Cleaners",
+            "Industrial Cleaners",
+            "Detergents"
+        ]
+    }
+}

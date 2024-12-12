@@ -1,0 +1,50 @@
+{
+    "id": 319643,
+    "brand": "essentium",
+    "name": "ESSENTIUM TPU 90A FLAME RETARDANT",
+    "slug": "essentium-tpu-90a-flame-retardant",
+    "description": "Essentium Flame Retardant TPU 90A has been engineered to have the perfect balance of elasticity and toughness. This filament exhibits excellent interlayer adhesion and high strain at break; the base resin is UL94 V0 certified for flame retardancy and printed samples pass FAA FAR 25.853(a) 12 and 60 second vertical flame tests for 1/16” and 1/4” thickness. Our TPU 90A FR filament is perfect for a print that needs inherent flame retardant properties with flexibility, grip, and abrasion resistance. Use this material to make flexible hinges, belts, plugs, gaskets, protective cases, overgrips, wheels, vibration dampeners, energy-absorbing lattices, and so much more.",
+    "company_name": "Essentium",
+    "company_slug": "essentium",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691741936/production/Product/319643/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Advanced Materials",
+            "Tooling & Moldmaking",
+            "Sports & Recreation",
+            "Equipment & Parts",
+            "Terminal Blocks, Plugs & Sockets",
+            "Belts & Conveyers",
+            "Other Automotive Applications",
+            "Parts & Components",
+            "Military & Defense",
+            "Chemical & Industrial Manufacturing",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Thermoplastic Filament",
+            "3D Printing Polymers"
+        ],
+        "Chemical Family": [
+            "Thermoplastic Polyurethanes (TPU)",
+            "Polyurethanes (PU)"
+        ],
+        "Polymer Name": [
+            "Thermoplastic Polyurethane (unspecified)"
+        ],
+        "End Uses": [
+            "Gaskets",
+            "Protective Coverings",
+            "Plugs",
+            "Living Hinges",
+            "Flexible Grips",
+            "Belts/Belt Repair"
+        ]
+    },
+    "summary": {
+        "Density": [
+            "1250.0 - 1250.0 kg/m³"
+        ]
+    }
+}

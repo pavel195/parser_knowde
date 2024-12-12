@@ -1,0 +1,44 @@
+{
+    "id": 389200,
+    "brand": "silk",
+    "name": "Bluevisc™ TMS",
+    "slug": "bluevisc-tms",
+    "description": "Bluevisc™ TMS is a Cationic emulsifier with excellent emollient properties and conditioners. 22-chain-carbons assists detangling in conditioners and hair products. It's derived naturally from rapeseed oil and is mild for skin and hair. Provides a soft feel to the skin.",
+    "company_name": "Blue Sun International",
+    "company_slug": "blue-sun-international",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672377/production/Company/1165/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708672377/production/Company/1165/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Hair Care",
+            "Skin Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Emulsifiers, Solubilizers & Dispersants",
+            "Conditioners & Emollients",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Cetearyl Alcohol",
+            "Behentrimonium Methosulfate"
+        ],
+        "End Uses": [
+            "Hair Conditioner"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Cetearyl Alcohol",
+            "Behentrimonium Methosulfate"
+        ],
+        "Functions": [
+            "Emollient",
+            "Emulsifier"
+        ],
+        "Labeling Claims": [
+            "Credo Clean Standard",
+            "Clean at Sephora"
+        ]
+    }
+}

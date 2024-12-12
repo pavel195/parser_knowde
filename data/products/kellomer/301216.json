@@ -1,0 +1,40 @@
+{
+    "id": 301216,
+    "brand": "kellomer",
+    "name": "KELLOMER VC-4010",
+    "slug": "kellomer-vc-4010",
+    "description": "KELLOMER VC-4010 is an aliphatic urethane diacrylate oligomer. The cured films have good flexibility and improved adhesion to substrate.",
+    "company_name": "Kellon",
+    "company_slug": "kellon",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686148742/production/Company/24233/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608621/production/CategoryImage/570/category_image/PaintingsCoatings_06.jpg",
+    "properties": {
+        "Applications": [
+            "Packaging Coatings",
+            "Overprint Varnishes",
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Oligomers",
+            "Monomers & Intermediates"
+        ],
+        "Chemical Family": [
+            "Urethanes",
+            "Acrylics & Acrylates",
+            "Aliphatics"
+        ],
+        "End Uses": [
+            "Varnishes"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Aliphatics",
+            "Acrylics & Acrylates",
+            "Urethanes"
+        ],
+        "End Uses": [
+            "Varnishes"
+        ]
+    }
+}

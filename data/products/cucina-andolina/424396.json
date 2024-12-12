@@ -1,0 +1,35 @@
+{
+    "id": 424396,
+    "brand": "cucina-andolina",
+    "name": "Cheese Merchants Plant Based Mozzarella Cheese",
+    "slug": "cheese-merchants-plant-based-mozzarella-cheese",
+    "description": "Cheese Merchants Plant Based Mozzarella Cheese is a mozzarella style cheese with good melt and stretch properties.",
+    "company_name": "Cheese Merchants",
+    "company_slug": "cheese-merchants",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1703231809/production/Company/32534/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608173/production/CategoryImage/547/category_image/AgricultureFeed_03.jpg",
+    "properties": {
+        "Product Families": [
+            "Alternates & Replacements",
+            "Whole Foods, Extracts & Premixes"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Imitation Mozzarella Cheese"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Plant Origin"
+        ],
+        "Labeling Claims": [
+            "Allergen-free",
+            "Plant-Based",
+            "Naturally Derived"
+        ],
+        "Features": [
+            "Good Stretchability",
+            "Excellent Melting Properties"
+        ]
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "id": 419535,
+    "brand": "ens",
+    "name": "The Sansin Corporation Stain Blocking Primer",
+    "slug": "the-sansin-corporation-stain-blocking-primer",
+    "description": "Stain Blocking Primer is an exterior high performance, durable, low VOC primer. Designed as a stain-blocking sealer to minimize the “bleed through” of wood tannins and common household stains. Stain-Blocking Primer bonds to wood with resins that protect against the elements reducing damage by water and ultraviolet light degradation.",
+    "company_name": "The Sansin Corporation",
+    "company_slug": "the-sansin-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520442/production/Company/57178/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608454/production/CategoryImage/560/category_image/BuildingConstruction_04.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Building & Construction",
+            "Packaging Coatings",
+            "Fence, Decks & Rails",
+            "Primers & Lacquers",
+            "Wood Coatings & Finishes",
+            "Siding & Trim"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Sealer",
+            "Waterborne Coating",
+            "Primer"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Wood"
+        ],
+        "Features": [
+            "Stain Resistant",
+            "Dimensional Stability",
+            "Anti-Slip",
+            "Odorless",
+            "Low VOC",
+            "Reduced Moisture Absorption",
+            "Breathable",
+            "Excellent Water Repellency ",
+            "Durable",
+            "Excellent UV Stability"
+        ],
+        "Application Method": [
+            "Dip Coating",
+            "Brush",
+            "Spray"
+        ]
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "id": 324480,
+    "brand": "kestamid-hs",
+    "name": "KESTOIL®",
+    "slug": "kestoil",
+    "description": "Kestoil® is a self-lubricated, strong, wear resistant engineering plastic with a low coefficient of friction",
+    "company_name": "Polikim",
+    "company_slug": "polikim",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686150080/production/Brand/23170/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical & Industrial Manufacturing",
+            "Other Industrial Applications"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Polyamides"
+        ],
+        "Polymer Name": [
+            "Polyamide 6 (PA 6)"
+        ],
+        "End Uses": [
+            "Bearings",
+            "Bushings"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyamide 6 (PA 6)"
+        ],
+        "Physical Form": [
+            "Rods",
+            "Sheets",
+            "Tube"
+        ],
+        "Features": [
+            "Corrosion Resistant",
+            "Low Water Absorption",
+            "Good Abrasion Resistance",
+            "Good Machinability",
+            "Wear Resistant",
+            "Dimensional Stability",
+            "Chemical Resistant",
+            "Self Lubricating"
+        ],
+        "Density": [
+            "1140.0 - 1140.0 kg/m³"
+        ],
+        "Tensile Modulus": [
+            "4000.0 - 4000.0 MPa"
+        ],
+        "Color": [
+            "Green"
+        ]
+    }
+}

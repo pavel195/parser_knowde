@@ -1,0 +1,31 @@
+{
+    "id": 329288,
+    "brand": "leebond",
+    "name": "Leecast 15-95-3",
+    "slug": "leecast-15-95-3",
+    "description": "LEECAST 15-95-3 is a two-part epoxy casting compound designed for encapsulation of high voltage components. Used in UL-listed applications requiring excellent electrical performance, heat dissipation,and flame retardance, it provides a system that is non-burning and highly resistant to thermal cycling with minimal effect on components.",
+    "company_name": "Leepoxy Plastics",
+    "company_slug": "leepoxy-plastics",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708518882/production/Brand/23756/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608982/production/CategoryImage/589/category_image/AdhesivesSealants_06.jpg",
+    "properties": {
+        "Product Families": [
+            "Epoxies",
+            "Thermoset Resins"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ],
+        "Polymer Name": [
+            "Epoxy Resins & Compounds"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Epoxy Resins & Compounds"
+        ],
+        "Volume Resistivity": [
+            "2000000000000.0 - 2000000000000.0 Ohm-m"
+        ]
+    }
+}

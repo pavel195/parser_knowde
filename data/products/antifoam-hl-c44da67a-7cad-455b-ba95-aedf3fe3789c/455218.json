@@ -1,0 +1,73 @@
+{
+    "id": 455218,
+    "brand": "antifoam-hl-c44da67a-7cad-455b-ba95-aedf3fe3789c",
+    "name": "T-Det® A 2623",
+    "slug": "t-det-a-2623",
+    "description": "T-Det® A2623 is an anhydrous surface-active agent produced by the reaction of a linear C12-16 alcohol with 23 moles of ethylene oxide. It is a solid at room temperature. Its nonionic structure makes it compatible with anionic surfactants and it is stable in the presence of acids, bases, and salts.",
+    "company_name": "Harcros Chemicals Inc.",
+    "company_slug": "harcros-chemicals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1720679479/production/Brand/35970/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Exploration & Upstream",
+            "Chemical Manufacturing",
+            "Surface Care",
+            "Industrial Cleaning",
+            "Chemical & Industrial Manufacturing",
+            "Oil, Gas & Mining",
+            "Home Care",
+            "Institutional & Industrial Care"
+        ],
+        "Product Families": [
+            "Other Processing Additives",
+            "Oilfield & Transport Chemicals",
+            "Nonionic Surfactants",
+            "Soaps & Surfactants",
+            "Oil, Gas & Mining Chemicals",
+            "Processing Aids"
+        ],
+        "Chemical Family": [
+            "Ethoxylated Fatty Alcohols",
+            "Alkoxylates",
+            "Alcohols"
+        ],
+        "End Uses": [
+            "Drilling Fluids",
+            "Detergents"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Alcohols",
+            "Ethoxylated Fatty Alcohols",
+            "Alkoxylates"
+        ],
+        "Labeling Claims": [
+            "PFOA-free",
+            "Heavy Metal-free",
+            "PFAS-Free",
+            "Not Tested on Animals",
+            "Biodegradable",
+            "Pesticide-free",
+            "GenX-free",
+            "Preservative-free",
+            "Melamine-free",
+            "Irradiation-free",
+            "Conflict minerals-free",
+            "CleanGredients (DfE)",
+            "PFOS-free",
+            "Food Allergen-free",
+            "APEO-Free",
+            "No Added PFAS"
+        ],
+        "Certifications & Compliance": [
+            "Coalition of Northeastern Governors (CONEG)",
+            "California Transparency in Supply Chains Act of 2010",
+            "EPA Registered",
+            "RoHS Compliant",
+            "Directive 2002/95/EC",
+            "Safer Choice"
+        ]
+    }
+}

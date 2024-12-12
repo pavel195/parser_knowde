@@ -1,0 +1,33 @@
+{
+    "id": 412317,
+    "brand": "adhere",
+    "name": "IntraCrop Cogent",
+    "slug": "intracrop-cogent",
+    "description": "Cogent is the market leading adjuvant for use with translocated grass-weed herbicides (e.g. fop/dim/den and SU). The unique combination of surfactants ensures that the herbicide is coated evenly over the target surface, with up to 45% better coverage than standard oil-based adjuvants. Active penetrant ethoxylated adjuvants increase herbicide uptake by up to 50% in comparison with methylated seed oils (MSOs) ensuring more rapid uptake of active ingredient through target wax layer and No increased crop phytotoxicity.",
+    "company_name": "IntraCrop",
+    "company_slug": "intracrop",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708683588/production/Company/54991/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608150/production/CategoryImage/545/category_image/AgricultureFeed_01.jpg",
+    "properties": {
+        "Applications": [
+            "Oilseeds",
+            "Fodder & Forage",
+            "Legumes",
+            "Agricultural Pest Control",
+            "Sugar & Starch Crops",
+            "Vegetables",
+            "Cereals",
+            "Agricultural Crops",
+            "Pest Control"
+        ],
+        "Product Families": [
+            "Herbicides",
+            "Crop Protection & Pest Control"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Herbicide"
+        ]
+    }
+}

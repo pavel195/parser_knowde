@@ -1,0 +1,56 @@
+{
+    "id": 82483,
+    "brand": "pecosil",
+    "name": "PECOSIL® G-600",
+    "slug": "pecosil-g-600",
+    "description": "PECOSIL® G-600 is a slightly hazy silicone gel that provides luxurious emolliency, spreadability, and cushion to all skin products. It leaves the skin with a pronounced silky, powdery, light waxy elegance. PECOSIL® G-600 is not water soluble and acts as a moisture barrier that contributes to softness in all makeup, skin and sunscreen products. The sensory properties contributed by PECOSIL® G-600 are proportional to the concentration of PECOSIL® G-600 used and can vary from 2 – 50%.",
+    "company_name": "Phoenix Chemical Inc.",
+    "company_slug": "phoenix-chemical-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708684455/production/Product/82483/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708684455/production/Product/82483/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Skin Care",
+            "Sun Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Film Formers",
+            "Skin Actives",
+            "Conditioners & Emollients",
+            "Cosmetic Actives",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Vinyl Dimethicone/Lauryl Dimethicone Crosspolymer",
+            "Dimethicone",
+            "Lauryl Dimethicone"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Lauryl Dimethicone",
+            "Vinyl Dimethicone/Lauryl Dimethicone Crosspolymer",
+            "Dimethicone"
+        ],
+        "Functions": [
+            "Conditioner",
+            "Emollient",
+            "Occlusive",
+            "Protective Agent"
+        ],
+        "Ingredient Origin": [
+            "Synthetic"
+        ],
+        "Benefit Claims": [
+            "Powdery Feel",
+            "Softening",
+            "Silky Feel",
+            "Gloss",
+            "Spreadability",
+            "Waxy feel",
+            "Moisture Barrier",
+            "Smoothing"
+        ]
+    }
+}

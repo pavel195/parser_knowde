@@ -1,0 +1,60 @@
+{
+    "id": 319206,
+    "brand": "suncaps",
+    "name": "CelluCap™ C",
+    "slug": "cellucap-c",
+    "description": "CelluCap™ C is a highly effective encapsulation of ascorbyl tetraisopalmitate, which helps to overcome common formulation challenges associated with vitamin C. By isolating this oil-soluble vitamin C derivative, formulations are less likely to show discoloration and deterioration of the raw material. It is as if each microdose of ascorbyl tetraisopalmitate is delivered in its own airtight packaging. CelluCap™ C exhibits Tagra's Release on Demand (RND) technology, which releases the ascorbyl tetraisopalmitate only upon mechanical application. The cellulose-based shell collapses, releasing the active while breaking down into invisible particles. These particles retain some of the core ingredients, creating extended delivery for continued efficacy.",
+    "company_name": "Tagra Biotechnologies Ltd",
+    "company_slug": "tagra-biotechnologies-ltd",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1626175855/production/Product/319206/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1672323748/production/Product/319206/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Color Cosmetics",
+            "Skin Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Skin Actives",
+            "Vitamins & Derivatives",
+            "Cosmetic Actives",
+            "Vitamins, Extracts & Oils"
+        ],
+        "INCI Name": [
+            "Ascorbyl Tetraisopalmitate",
+            "Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate",
+            "Cellulose Acetate Butyrate"
+        ],
+        "End Uses": [
+            "Skin Brightening Products",
+            "Anti-Aging Products"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate",
+            "Ascorbyl Tetraisopalmitate",
+            "Cellulose Acetate Butyrate"
+        ],
+        "Functions": [
+            "Brightening Agent",
+            "Anti-Aging Agent"
+        ],
+        "Labeling Claims": [
+            "Credo Clean Standard"
+        ],
+        "Benefit Claims": [
+            "Fine Lines Reduction",
+            "Excellent Stability",
+            "Anti-Aging",
+            "Excellent Release Properties",
+            "Broad pH Stability",
+            "Restoring",
+            "Brightening",
+            "Anti-Wrinkle",
+            "Encapsulated Actives",
+            "Compatibility",
+            "Smoothing"
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "id": 583811,
+    "brand": "kling-beta",
+    "name": "Eka® ClO₂",
+    "slug": "eka-clo",
+    "description": "Eka® ClO₂ is chlorine dioxide. It is generally produced, stored and typically fed as an 8 - 11 grams per liter aqueous solution to the desired application point.",
+    "company_name": "Nouryon",
+    "company_slug": "nouryon",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1624302934/production/Company/4/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1624302766/production/Company/4/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Textile Manufacturing",
+            "Water Treatment",
+            "Pulping & Processing",
+            "Paper & Pulp",
+            "Power, Water & Utilities",
+            "Leather & Textiles"
+        ],
+        "Product Families": [
+            "Inorganics",
+            "Technical Salts & Inorganics"
+        ],
+        "Chemical Family": [
+            "Oxides"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Chlorine Dioxide"
+        ],
+        "CAS Number": [
+            "10049-04-4"
+        ]
+    }
+}

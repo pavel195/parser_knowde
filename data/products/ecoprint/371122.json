@@ -1,0 +1,44 @@
+{
+    "id": 371122,
+    "brand": "ecoprint",
+    "name": "EcoPrint® 5001",
+    "slug": "ecoprint-5001",
+    "description": "EcoPrint® 5001 is a phenolic modified rosin ester. It is specially manufactured to be used in heatset and sheetfed.",
+    "company_name": "PINO PINE",
+    "company_slug": "pino-pine",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112607/production/Brand/27680/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609067/production/CategoryImage/592/category_image/PrintingPackaging_03.jpg",
+    "properties": {
+        "Applications": [
+            "Printing & Inks",
+            "Offset & Lithographic Printing"
+        ],
+        "Product Families": [
+            "Other Resins & Binders",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Phenols & Phenolics",
+            "Esters",
+            "Modified Rosins",
+            "Rosins"
+        ],
+        "End Uses": [
+            "Offset Ink"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Esters",
+            "Modified Rosins",
+            "Phenols & Phenolics",
+            "Rosins"
+        ],
+        "End Uses": [
+            "Offset Ink"
+        ],
+        "Features": [
+            "Good Gelling Properties"
+        ]
+    }
+}

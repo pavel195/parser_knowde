@@ -1,0 +1,29 @@
+{
+    "id": 252717,
+    "brand": "nupro",
+    "name": "NUPRO®",
+    "slug": "nupro",
+    "description": "NUPRO® is a concentrated, natural source of highly digestible and functional nutrients to support the early stages of life and maximize lifetime performance across beef cattle, dairy cows, poultry, pigs, aqua, pet and equine.",
+    "company_name": "Alltech",
+    "company_slug": "alltech",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697222980/production/Company/19217/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608161/production/CategoryImage/546/category_image/AgricultureFeed_02.jpg",
+    "properties": {
+        "Applications": [
+            "Aquaculture",
+            "Other Animal Health & Nutrition",
+            "Ruminants",
+            "Birds & Poultry",
+            "Swine",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Nutrient Premixes",
+            "Premixes & Blends",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements",
+            "Nutritional Ingredients"
+        ]
+    },
+    "summary": {}
+}

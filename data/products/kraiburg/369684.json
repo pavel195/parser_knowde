@@ -1,0 +1,40 @@
+{
+    "id": 369684,
+    "brand": "kraiburg",
+    "name": "KRAIBURG NR",
+    "slug": "kraiburg-nr",
+    "description": "KRAIBURG NR is a natural rubber used in applications such as  conveyor belts, flexible couplings, motor bearings, bridge bearings, O-rings, seals and buffers.",
+    "company_name": "GUMMIWERK KRAIBURG",
+    "company_slug": "gummiwerk-kraiburg",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697222847/production/Brand/27507/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608769/production/CategoryImage/577/category_image/AutomotiveTransportation_05.jpg",
+    "properties": {
+        "Applications": [
+            "Equipment & Parts",
+            "Structural Components",
+            "Other Automotive Applications",
+            "Powertrain & UTH",
+            "Automotive",
+            "Building Materials",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Isoprene Rubbers (IR)",
+            "Thermoset Elastomers"
+        ],
+        "Chemical Family": [
+            "Polyisoprenes",
+            "Natural Rubbers"
+        ],
+        "Polymer Name": [
+            "Natural Rubber Latex"
+        ],
+        "End Uses": [
+            "O Rings",
+            "Couplings",
+            "Conveyor Parts",
+            "Bearings"
+        ]
+    },
+    "summary": {}
+}

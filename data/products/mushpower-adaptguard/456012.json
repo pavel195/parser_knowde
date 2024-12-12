@@ -1,0 +1,39 @@
+{
+    "id": 456012,
+    "brand": "mushpower-adaptguard",
+    "name": "Nura USA Chicory Root Inulin - CIH0438",
+    "slug": "nura-usa-chicory-root-inulin-cih0438",
+    "description": "Nura USA Chicory Root Inulin - CIH0438 is a premium-quality prebiotic that is extracted from the roots of chicory (Cichorium intybus L.). This white to yellowish powder is free of GMOs, glyphosate residue, and allergens and is available in Kosher and GMP-certified versions.\r\n",
+    "company_name": "NURA USA",
+    "company_slug": "nura",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672388/production/Company/51395/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606924/production/CategoryImage/503/category_image/FoodNutrition_04.jpg",
+    "properties": {
+        "Applications": [
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Dietary Fiber",
+            "Prebiotics, Probiotics & Postbiotics",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ]
+    },
+    "summary": {
+        "Labeling Claims": [
+            "Kosher",
+            "Non-GMO",
+            "Allergen-free"
+        ],
+        "Functions": [
+            "Prebiotic"
+        ],
+        "Certifications & Compliance": [
+            "Glyphosate Residue-free",
+            "Kosher",
+            "Non-GMO Project Verified",
+            "GMP"
+        ]
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "id": 408400,
+    "brand": "vi-hemp-pro",
+    "name": "Vi-Hemp OIL™",
+    "slug": "vi-hemp-oil",
+    "description": "Vi-Hemp OIL™ is an oil derived from cold-pressed organic hemp seeds grown and processed in France. This one is rich in essential fatty acids, antioxidants and Vitamin E. This oil not only has very interesting properties for cosmetics, but also for dietetics.",
+    "company_name": "VIDYA EUROPE",
+    "company_slug": "vidya-europe",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686109688/production/Brand/31591/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606961/production/CategoryImage/506/category_image/FoodNutrition_07.jpg",
+    "properties": {
+        "Applications": [
+            "Food",
+            "Other Food Applications"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Edible Oils & Fats"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Hemp Oil"
+        ],
+        "Labeling Claims": [
+            "Halal",
+            "Plant-Based",
+            "Cold-Pressed",
+            "Natural",
+            "Naturally Derived",
+            "Organic"
+        ],
+        "Certifications & Compliance": [
+            "USDA Organic",
+            "GMP",
+            "Organic Certified",
+            "Halal",
+            "NSF Approved"
+        ],
+        "Features": [
+            "Omega-3 Rich",
+            "Cold Pressed",
+            "Antioxidant Properties",
+            "Vitamin E Enriched"
+        ]
+    }
+}

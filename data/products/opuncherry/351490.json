@@ -1,0 +1,40 @@
+{
+    "id": 351490,
+    "brand": "opuncherry",
+    "name": "GlycavOx®",
+    "slug": "glycavox",
+    "description": "GlycavOx® is a good source of nutrients and antioxidants and may support weight management and healthy aging. The synergy between avocado fatty acids and amaranth fiber and minerals makes this product an excellent option for controlling metabolic disorders.",
+    "company_name": "Nating Italia Srl",
+    "company_slug": "nating-italia-srl",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708691198/production/Brand/26234/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606934/production/CategoryImage/504/category_image/FoodNutrition_05.jpg",
+    "properties": {
+        "Applications": [
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Phytochemicals & Plant Extracts",
+            "Phytochemicals",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Nutraceuticals"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Avocado Powder"
+        ],
+        "Functions": [
+            "Supplement",
+            "Dietary Supplement"
+        ],
+        "Labeling Claims": [
+            "Gluten-free"
+        ]
+    }
+}

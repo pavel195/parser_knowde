@@ -1,0 +1,40 @@
+{
+    "id": 419225,
+    "brand": "star-triton",
+    "name": "STAR® S.O.S. SEALER™",
+    "slug": "star-s-o-s-sealer",
+    "description": "STAR® S.O.S. SEALER™ is a latex based coating/primer that adheres to, and seals, oil and grease spots on all types of asphalt pavements. The polymeric matrix and surfactants in STAR® S.O.S. SEALER™ create a tough film that bonds aggressively to the contaminated area. STAR® S.O.S. SEALER™ will allow both Asphalt Emulsion and Refined Tar sealers to bond properly these freshly primed areas. STAR® S.O.S. SEALER™ will eliminate the need for excessive surface preparation that could damage the asphalt substrate.",
+    "company_name": "Star Seal Of Ohio",
+    "company_slug": "star-seal-of-ohio",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520333/production/Brand/32875/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608566/production/CategoryImage/566/category_image/PaintingsCoatings_02.jpg",
+    "properties": {
+        "Applications": [
+            "Infrastructure, Roads & Paving",
+            "Coatings & Markings",
+            "Pavement, Highways, Roads & Bridges"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Sealer"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Asphalt"
+        ],
+        "Features": [
+            "Oil Resistant",
+            "Grease Resistant",
+            "Bleed Resistant"
+        ],
+        "Application Method": [
+            "Spray",
+            "Roller",
+            "Brush"
+        ]
+    }
+}

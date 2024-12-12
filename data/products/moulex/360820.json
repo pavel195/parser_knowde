@@ -1,0 +1,49 @@
+{
+    "id": 360820,
+    "brand": "moulex",
+    "name": "Moulex® 352",
+    "slug": "moulex-352",
+    "description": "Moulex® 352 is internal mold release agent. It also acts as wetting agent.",
+    "company_name": "Additek",
+    "company_slug": "additek",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708699261/production/Brand/26967/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608760/production/CategoryImage/576/category_image/AutomotiveTransportation_04.jpg",
+    "properties": {
+        "Applications": [
+            "Pipes & Plumbing",
+            "Pipes & Hoses",
+            "Equipment & Parts",
+            "Fuel Systems",
+            "Agricultural Films",
+            "Automotive",
+            "Building Materials",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Performance Additives",
+            "Elastomer Additives"
+        ],
+        "End Uses": [
+            "Tanks",
+            "Pipes"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Mold Release Agent",
+            "Release Agent",
+            "Wetting Agent"
+        ],
+        "Compatible Polymers & Resins": [
+            "Unsaturated Polyester (UPE)",
+            "Vinyl Esters"
+        ],
+        "Processing Methods": [
+            "Pultrusion"
+        ],
+        "End Uses": [
+            "Tanks",
+            "Pipes"
+        ]
+    }
+}

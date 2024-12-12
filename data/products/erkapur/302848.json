@@ -1,0 +1,50 @@
+{
+    "id": 302848,
+    "brand": "erkapur",
+    "name": "ERCAPUR 1150",
+    "slug": "ercapur-1150",
+    "description": "ERCAPUR 1150 is applicable in the field of adhesion promoter, base-coat, spray, clothing industry, upholstery, shoe upper.",
+    "company_name": "ERCA Group",
+    "company_slug": "erca-group",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708688741/production/Company/19058/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608779/production/CategoryImage/578/category_image/AutomotiveTransportation_06.jpg",
+    "properties": {
+        "Applications": [
+            "Leather Manufacturing",
+            "Textile Manufacturing",
+            "Footwear",
+            "Leather & Textiles"
+        ],
+        "Product Families": [
+            "Finishing Additives & Treatments",
+            "Polyesters",
+            "Functional Additives",
+            "Additives",
+            "Resins & Binders",
+            "Textile & Leather Chemicals"
+        ],
+        "Chemical Family": [
+            "Polyesters"
+        ],
+        "End Uses": [
+            "Shoe Upper",
+            "Upholstery",
+            "Textiles",
+            "Base Coat"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Coupling Agent",
+            "Binder & Resin",
+            "Adhesion Promoter"
+        ],
+        "Chemical Family": [
+            "Polyesters"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Leather",
+            "Textiles"
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "id": 442975,
+    "brand": "primelt",
+    "name": "PriMelt™ 1110",
+    "slug": "primelt-1110",
+    "description": "PriMelt™ 1110 is a workhorse EVA. Its a general purpose EVA hot melt, improved low-temperature resistance, fast set speed.",
+    "company_name": "Prime Blend",
+    "company_slug": "prime-blend",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520155/production/Company/46231/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608953/production/CategoryImage/586/category_image/AdhesivesSealants_03.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial & Assembly Adhesives",
+            "Tapes, Labels & Adhesives",
+            "Other Industrial & Assembly Applications",
+            "Industrial Adhesives & Sealants",
+            "Chemical & Industrial Manufacturing",
+            "Case & Carton Sealing"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Hot Melt Adhesives"
+        ],
+        "Chemical Family": [
+            "Ethylene Vinyl Acetate (EVA)"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Hot Melt Adhesive"
+        ],
+        "Chemical Family": [
+            "Ethylene Vinyl Acetate (EVA)"
+        ]
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "id": 401686,
+    "brand": "heavy-duty",
+    "name": "KRYSTAL CLEAR™ GLASS CLEANER",
+    "slug": "krystal-clear-glass-cleaner",
+    "description": "KRYSTAL CLEAR™ GLASS CLEANER is a ready to use water based blend of the best glass cleaning agent available. It is specially formulated to clean, brighten and polish glass without streaking or fogging. Krystal Clear™ is a state-of-the-art formula that is simply the very best glass and appliance cleaner. It cuts though grease and grime deposits on glass without streaking. Krystal Clear™ also works well as a general purpose cleaner in your office or home.",
+    "company_name": "Anti-Seize Technology",
+    "company_slug": "anti-seize-technology",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1682593049/production/Brand/30611/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515636/production/CategoryImage/1054/category_image/HII_06.jpg",
+    "properties": {
+        "Applications": [
+            "Institutional & Industrial Care",
+            "Carpet & Upholstery",
+            "Surface Care",
+            "Industrial Cleaning",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Commercial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner",
+            "Multipurpose Cleaners"
+        ],
+        "Application Area": [
+            "Upholstery",
+            "Equipment"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Tile",
+            "Metal",
+            "Stainless Steel",
+            "Glass",
+            "Ceramic"
+        ],
+        "Certifications & Compliance": [
+            "SARA 311/312",
+            "SARA 313"
+        ],
+        "Features": [
+            "Good Penetration",
+            "Good Brightness",
+            "Foamable",
+            "Grime Cleaning"
+        ]
+    }
+}

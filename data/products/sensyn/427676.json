@@ -1,0 +1,40 @@
+{
+    "id": 427676,
+    "brand": "sensyn",
+    "name": "Sensyn 46170",
+    "slug": "sensyn-46170",
+    "description": "Sentinel CanadaSenSyn 46170 is a synthetic fluid developed to meet the severe duty demands of today’s military and industrial equipment. Rust inhibitors are utilized to provide protection to ferrous components and modern additive technology is employed for oxidative stability, corrosion inhibition, and antiwear protection.",
+    "company_name": "Sentinel Canada",
+    "company_slug": "sentinel-canada",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1682593331/production/Brand/33897/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Lubricants & Functional Fluids",
+            "Military & Defense",
+            "Other Military & Defense Applications",
+            "Automotive Fluids & Lubricants",
+            "Chemical & Industrial Manufacturing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Lubricants & Oils",
+            "Fluids & Lubricants"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Hydraulic Fluids"
+        ],
+        "Application Area": [
+            "Military Tanks",
+            "Hydraulic Circuits"
+        ],
+        "Features": [
+            "Wear Resistant",
+            "High Thermo-Oxidative Stability",
+            "High Flash Point",
+            "Corrosion Resistant"
+        ]
+    }
+}

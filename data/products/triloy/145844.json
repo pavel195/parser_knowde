@@ -1,0 +1,62 @@
+{
+    "id": 145844,
+    "brand": "triloy",
+    "name": "TRIREX® 3025U",
+    "slug": "trirex-3025u",
+    "description": "TRIREX is the registered trademark of polycarbonate resin manufactured by Samyang Corporation. TRIREX polycarbonate resins offer superior mechanical properties, good dimensional stability and high electrical performance, which allows it to be widely used for electrical, electronic, appliance, automotive and optical industries. TRIREX 3025U is a UV stabilized polycarbonate resin grade which has a low melt viscosity and transparency in combination with superior physical properties. CHARACTERISTICS High ultraviolet(UV) stability High flowability Good impact resistance Workable under a wide range of temperatures (-100 ? ~ 135 ?) High electrical performance Good dimensional stability Excellent transparency Low moisture absorbency Good weather resistance APPLICATIONS TRIREX 3025U resin grade is used in out-door applications such as electric meter cover, window panes, sing board, wind break, signal lamps, and ship lights etc.",
+    "company_name": "Samyang Corporation",
+    "company_slug": "samyang-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708527134/production/Company/2840/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708527134/production/Company/2840/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Consumer Electronics",
+            "Glazing & Window Elements",
+            "Interior Fixtures",
+            "Exterior & Body",
+            "Automotive Lighting",
+            "Other Devices & Assemblies",
+            "Appliances & Electronics",
+            "Other Automotive Applications",
+            "Automotive",
+            "Building Envelope",
+            "Building Materials",
+            "Devices & Assemblies",
+            "Building Envelope & Roofing"
+        ],
+        "Product Families": [
+            "Polycarbonates",
+            "Engineering & Specialty Polymers"
+        ],
+        "Chemical Family": [
+            "Polycarbonate (PC)"
+        ],
+        "Polymer Name": [
+            "Polycarbonate (PC)"
+        ],
+        "End Uses": [
+            "Bezels",
+            "Headlight Cover",
+            "Door Profiles",
+            "Profiles",
+            "Lighting Fixtures",
+            "Electrical/Electronic Applications",
+            "Appliances",
+            "Automotive Applications"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polycarbonate (PC)"
+        ],
+        "Processing Methods": [
+            "Injection Molding"
+        ],
+        "Additives Included": [
+            "UV Stabilizer"
+        ],
+        "Flexural Modulus": [
+            "23000.0 - 23000.0 MPa"
+        ]
+    }
+}

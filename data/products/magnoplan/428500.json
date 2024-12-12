@@ -1,0 +1,32 @@
+{
+    "id": 428500,
+    "brand": "magnoplan",
+    "name": "Vitaplan C Oraal®",
+    "slug": "vitaplan-c-oraal",
+    "description": "Vitaplan C Oraal® is a supplementary animal feed containing a stable vitamin C for at least 16 hours. This means that the Vitaplan C Oraal® does not require to be prepared repeatedly every 2 to 3 hours as is the case with vitamin C in powder form.",
+    "company_name": "Agraplan Farmaca B.V.",
+    "company_slug": "agraplan-farmaca-b-v",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708690773/production/Brand/34012/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608173/production/CategoryImage/547/category_image/AgricultureFeed_03.jpg",
+    "properties": {
+        "Applications": [
+            "Birds & Poultry",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Feed Supplements",
+            "Vitamins",
+            "Nutritional Ingredients"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Supplement",
+            "Vitamin Source"
+        ],
+        "Features": [
+            "Improves Immunity",
+            "Improving Stress Tolerance"
+        ]
+    }
+}

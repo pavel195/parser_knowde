@@ -1,0 +1,36 @@
+{
+    "id": 422235,
+    "brand": "xtrabond",
+    "name": "XtraBond® 9500SL - Self-Leveling Advanced Polymer Sealant",
+    "slug": "xtrabond-9500sl-self-leveling-advanced-polymer-sealant",
+    "description": null,
+    "company_name": "Premier Building Solutions",
+    "company_slug": "premier-building-solutions",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520060/production/Product/422235/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608929/production/CategoryImage/584/category_image/AdhesivesSealants_01.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Construction Chemicals",
+            "Flooring & Surfaces",
+            "Roofing",
+            "Sealants & Caulks",
+            "Fillers, Levellers & Joints",
+            "Building Envelope & Roofing",
+            "Waterproofing & Weatherproofing"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Caulks & Sealants"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "1K (1 component) Sealant",
+            "Solvent free (100% Solids) Sealant"
+        ],
+        "Application Area": [
+            "Roofing Membranes"
+        ]
+    }
+}

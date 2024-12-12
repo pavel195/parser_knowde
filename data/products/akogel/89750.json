@@ -1,0 +1,91 @@
+{
+    "id": 89750,
+    "brand": "akogel",
+    "name": "LIPEX® L'sens™",
+    "slug": "aak-personal-care-lipex-l-sens",
+    "description": "Lipex L´sens™ is a vegetable-based alternative to lanolin, and possesses lanolin-like properties with respect to touch, structure, gloss, film building and water absorbing capacities. It is semi-solid at room temperature and has a yellowish appearance with a neutral odor. Lipex L´sens™ is an excellent emollient thanks to its unique combination of natural glycerides from soybean and shea butter unsaponifiables.",
+    "company_name": "AAK Personal Care",
+    "company_slug": "aak-personal-care",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1716387913/production/Product/89750/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1716387913/production/Product/89750/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Color Cosmetics",
+            "Skin Care",
+            "Hair Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Texturizers & Fillers",
+            "Conditioners & Emollients",
+            "Functionals"
+        ],
+        "Chemical Family": [
+            "Glycerides"
+        ],
+        "INCI Name": [
+            "Butyrospermum Parkii (Shea) Butter Unsaponifiables",
+            "Soybean Glycerides"
+        ],
+        "End Uses": [
+            "Hair Styling Products",
+            "Rinse Off Products",
+            "Lip Balm",
+            "Lip Care Products",
+            "Lipstick"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Butyrospermum Parkii (Shea) Butter Unsaponifiables",
+            "Soybean Glycerides"
+        ],
+        "Ingredient Origin": [
+            "Plant Origin",
+            "Natural Origin"
+        ],
+        "Functions": [
+            "Emollient",
+            "Texturizing Agent"
+        ],
+        "Labeling Claims": [
+            "Organic",
+            "Natural",
+            "Vegan",
+            "Kosher",
+            "Credo Clean Standard",
+            "Halal",
+            "Plant-Based",
+            "Naturally Derived"
+        ],
+        "Certifications & Compliance": [
+            "IECIC (China)",
+            "REACH (Europe)",
+            "Organic Certified",
+            "Kosher",
+            "ECOCERT",
+            "Halal"
+        ],
+        "Benefit Claims": [
+            "Improved Water Holding Capacity",
+            "Tewl Reduction",
+            "Spreadability",
+            "Film Forming",
+            "Conditioning",
+            "Silky Feel",
+            "Smoothing",
+            "Soft Feel",
+            "Sensory Enhancement",
+            "Moisturizing",
+            "Rich Feel",
+            "Substantivity",
+            "Emolliency",
+            "Skin Barrier",
+            "Lightening Effect",
+            "High Polarity",
+            "Creamy Texture",
+            "Gloss",
+            "Long Lasting"
+        ]
+    }
+}

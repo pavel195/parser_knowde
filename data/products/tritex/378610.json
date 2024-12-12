@@ -1,0 +1,44 @@
+{
+    "id": 378610,
+    "brand": "tritex",
+    "name": "TRITEX SA 50",
+    "slug": "tritex-sa-50",
+    "description": "TRITEX SA 50 is a water based fine particles styrene acrylic copolymer APEO free and formaldehyde free, it is designed for use in matt to glossy emulsion paint.",
+    "company_name": "TRISON POLYMERS",
+    "company_slug": "trison-polymers",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112431/production/Brand/28280/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608465/production/CategoryImage/561/category_image/BuildingConstruction_05.jpg",
+    "properties": {
+        "Applications": [
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Resins & Binders",
+            "Acrylics"
+        ],
+        "Chemical Family": [
+            "Styrene-Acrylic Copolymer"
+        ],
+        "End Uses": [
+            "Waterborne Coating",
+            "Varnishes"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Styrene-Acrylic Copolymer"
+        ],
+        "End Uses": [
+            "Waterborne Coating",
+            "Varnishes"
+        ],
+        "Features": [
+            "Water Resistance",
+            "High Pigment Loading",
+            "Abrasion Resistance",
+            "Good Tint Strength",
+            "High Gloss",
+            "Alkali Resistance"
+        ]
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "id": 298566,
+    "brand": "replacol",
+    "name": "Replacol® 260",
+    "slug": "resins-plastics-replacol-260",
+    "description": "Replacol® 260 is alkyl phenol formaldehyde resins.",
+    "company_name": "Resins & Plastics",
+    "company_slug": "resins-plastics",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112195/production/Company/23772/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609103/production/CategoryImage/595/category_image/PrintingPackaging_06.jpg",
+    "properties": {
+        "Applications": [
+            "Packaging Coatings",
+            "Can Coatings",
+            "Other Adhesives & Sealants Applications",
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Other Resins & Binders",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Phenols & Phenolics",
+            "Phenol Formaldehyde (PF)"
+        ],
+        "End Uses": [
+            "1K (1 component) Coating",
+            "Epoxy Coating"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Phenol Formaldehyde (PF)",
+            "Phenols & Phenolics"
+        ],
+        "End Uses": [
+            "1K (1 component) Coating",
+            "Epoxy Coating"
+        ],
+        "Features": [
+            "Chemical Resistance",
+            "Abrasion Resistance"
+        ]
+    }
+}

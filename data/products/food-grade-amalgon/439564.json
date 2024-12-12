@@ -1,0 +1,43 @@
+{
+    "id": 439564,
+    "brand": "food-grade-amalgon",
+    "name": "Food-Grade Amalgon® FGA0225S",
+    "slug": "food-grade-amalgon-fga0225s",
+    "description": "Food-Grade Amalgon® FGA0225S is a fiber-reinforced thermoset composite specifically designed to replace stainless steel tubing in direct food contact applications. The ultra-smooth interior surface finish (15 Ra) is ideal for any food service application. One-fourth the weight of stainless steel, Amalgon is impervious to caustic cleaning solutions and can be sanitized with conventional cleaning methods. Food-Grade Amalgon tubing is designed, engineered and manufactured to meet the tough environmental and performance requirements of the food processing industry.",
+    "company_name": "Amalga Composites",
+    "company_slug": "amalga-composites",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686149974/production/Company/63749/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607009/production/CategoryImage/509/category_image/FoodNutrition_10.jpg",
+    "properties": {
+        "Applications": [
+            "Processing & Packaging",
+            "Food & Beverage Manufacturing"
+        ],
+        "Product Families": [
+            "Parts & Shapes",
+            "Parts, Shapes & Films"
+        ],
+        "Polymer Name": [
+            "Thermoset (unspecified)"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Thermoset (unspecified)"
+        ],
+        "Reinforcement Material": [
+            "Other Reinforcement Material"
+        ],
+        "Physical Form": [
+            "Tube"
+        ],
+        "Features": [
+            "High Performance",
+            "Bacteria Resistant",
+            "Food Contact Acceptable",
+            "Smooth Surface Finish",
+            "Cost Effective",
+            "Highly Versatile"
+        ]
+    }
+}

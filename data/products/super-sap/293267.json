@@ -1,0 +1,51 @@
+{
+    "id": 293267,
+    "brand": "super-sap",
+    "name": "SUPER SAP® CPM/CPF",
+    "slug": "super-sap-cpm-cpf",
+    "description": "Super SAP® CPM/CPF is a versatile system designed specifically for the compression molding processes of composite parts. CPM system delivers a high bio-content, excellent fiber wetting qualities, and thixotropic characteristics to limit sag in high-temperature cure applications. A high modulus, combined with excellent elongation properties, enable durable yet lightweight composite parts. CPM is a Super Sap® Formulation.",
+    "company_name": "Entropy Resins",
+    "company_slug": "entropy-resins",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708526898/production/Company/23198/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608422/production/CategoryImage/558/category_image/BuildingConstruction_02.jpg",
+    "properties": {
+        "Applications": [
+            "Wallcoverings & Decorative Laminates",
+            "Wallcovering & Decorative Laminates",
+            "Sports & Recreation",
+            "Wall Panels",
+            "Building Materials",
+            "Flooring & Surfaces",
+            "Decorative Materials & Finishes"
+        ],
+        "Product Families": [
+            "Thermoset Resins",
+            "Polymers & Resins"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ],
+        "Polymer Name": [
+            "Epoxy Resins & Compounds"
+        ],
+        "End Uses": [
+            "Skis",
+            "Snowboards"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Epoxy Resins & Compounds"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ],
+        "Processing Methods": [
+            "Compression Molding"
+        ],
+        "End Uses": [
+            "Snowboards",
+            "Skis"
+        ]
+    }
+}

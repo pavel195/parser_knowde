@@ -1,0 +1,58 @@
+{
+    "id": 321768,
+    "brand": "waynflash",
+    "name": "Stainban™ 185",
+    "slug": "stainban-185",
+    "description": "Stainban™ 185 is an aqueous tannin stain inhibitor additive for water based primers intended for wood protection. The unique mechanism of this product allows it to effectively block tannins in stains, clear coats, and pigmented coatings. It can be easily incorporated at any stage of the manufacturing process and is compatible with a wide range of surfactant and dispersants. Stainban™ 185 is effective at any PVC value of primers, however; it is more economical at higher PVC. It may reduce, or eliminate, the need for zinc oxide and stabilizing amines in primers. Paints made with Stainban™ 185 have good storage stability and improved humidity resistance. It is HAPS free and does not contribute to VOC. Typical use level ranges from 1 – 3% based upon total formula weight.",
+    "company_name": "WPC Technologies",
+    "company_slug": "wpc-technologies",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708688547/production/Company/27350/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608640/production/CategoryImage/572/category_image/PaintingsCoatings_08.jpg",
+    "properties": {
+        "Applications": [
+            "Primers & Lacquers",
+            "Wood Coatings & Finishes",
+            "Building & Construction",
+            "Packaging Coatings"
+        ],
+        "Product Families": [
+            "Surface Modifiers",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Carbonates"
+        ],
+        "End Uses": [
+            "Waterborne Coating",
+            "Primer",
+            "Clearcoat"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Stain-Resistant Agent"
+        ],
+        "Chemical Family": [
+            "Carbonates"
+        ],
+        "End Uses": [
+            "Primer",
+            "Clearcoat",
+            "Waterborne Coating"
+        ],
+        "Compatible Polymers & Resins": [
+            "Alkyds",
+            "Acrylics"
+        ],
+        "Labeling Claims": [
+            "HAPs-free",
+            "VOC-free"
+        ],
+        "Features": [
+            "Excellent Stain Blocking",
+            "Humidity Resistance",
+            "Improved Stability",
+            "Long Shelf Life"
+        ]
+    }
+}

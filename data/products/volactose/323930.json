@@ -1,0 +1,56 @@
+{
+    "id": 323930,
+    "brand": "volactose",
+    "name": "Volactive® UltraWhey 90",
+    "slug": "volactive-ultrawhey-90",
+    "description": "Volactive® UltraWhey 90 is a pure whey protein isolate containing on average 93% protein. UK produced in our specialist purpose built state of the art plant, the UltraWhey 90 offers the gold standard in Whey Protein Isolate. It is low in fat, lactose and minerals, whilst being highly nutritious making it ideal for protein fortification in a variety of applications.",
+    "company_name": "Volac",
+    "company_slug": "volac",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708517477/production/Company/29445/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607247/production/CategoryImage/513/category_image/FoodNutrition_13.jpg",
+    "properties": {
+        "Applications": [
+            "Convenience Foods",
+            "Functional Foods",
+            "Nutraceuticals & Supplements",
+            "Food",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Proteins & Amino Acids",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Protein Bars",
+            "Protein Shakes",
+            "Nutraceuticals"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Whey Protein Isolate"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin"
+        ],
+        "Labeling Claims": [
+            "Vegetarian",
+            "Natural",
+            "Naturally Derived",
+            "Kosher",
+            "rBGH-free",
+            "GMO-free",
+            "Halal"
+        ],
+        "Features": [
+            "High Protein Content",
+            "Low Fat"
+        ],
+        "End Uses": [
+            "Protein Bars",
+            "Nutraceuticals",
+            "Protein Shakes"
+        ]
+    }
+}

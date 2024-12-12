@@ -1,0 +1,42 @@
+{
+    "id": 394263,
+    "brand": "barrier-grip",
+    "name": "Barrier-Grip® 9471A",
+    "slug": "barrier-grip-9471a",
+    "description": "Barrier-Grip® 9471A is a high performance water and OGR, printable and gluable. It has high slide angle. Rod coater application recommended. Excellent non-blocking performance when applied to both sides of the board.",
+    "company_name": "Enviro-Coatings",
+    "company_slug": "enviro-coatings",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664291920/production/Brand/29779/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Paper & Pulp",
+            "Coated Paper & Paperboard"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Waterborne Coating"
+        ],
+        "Features": [
+            "High Performance",
+            "Oil Resistant",
+            "Good Blocking Resistance",
+            "Printability",
+            "Water Resistant"
+        ],
+        "Application Areas": [
+            "Paper Manufacturing"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Paper"
+        ],
+        "Application Method": [
+            "Rod Coating"
+        ]
+    }
+}

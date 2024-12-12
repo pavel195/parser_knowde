@@ -1,0 +1,38 @@
+{
+    "id": 376899,
+    "brand": "aderprim",
+    "name": "SCSO UNIKALO NAE IMPRESS",
+    "slug": "scso-unikalo-nae-impress",
+    "description": "SCSO Unikalo Nae Impress is a opacifying impression based on vegetable resin and renewable components in aqueous phase.",
+    "company_name": "SCSO UNIKALO",
+    "company_slug": "scso-unikalo",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520279/production/Company/44784/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608410/production/CategoryImage/557/category_image/BuildingConstruction_01.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Decorative Paints, Coatings & Stains",
+            "Decorative Materials & Finishes"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Top Coats"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Top Coat"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Wood",
+            "Coated Surfaces"
+        ],
+        "Features": [
+            "Excellent Opacity",
+            "Easy To Paint"
+        ],
+        "Application Method": [
+            "Brush"
+        ]
+    }
+}

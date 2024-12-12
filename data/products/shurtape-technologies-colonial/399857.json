@@ -1,0 +1,42 @@
+{
+    "id": 399857,
+    "brand": "shurtape-technologies-colonial",
+    "name": "Shurtape Technologies DF 132",
+    "slug": "shurtape-technologies-df-132",
+    "description": "Shurtape Technologies DF 132 is used for Vibration reduction, Gap filling and General purpose mounting.",
+    "company_name": "Shurtape Technologies",
+    "company_slug": "shurtape-technologies",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520148/production/Company/50464/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608982/production/CategoryImage/589/category_image/AdhesivesSealants_06.jpg",
+    "properties": {
+        "Applications": [
+            "Tapes & Labels",
+            "Tapes, Labels & Adhesives"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Pressure Sensitive Adhesives & Tapes"
+        ],
+        "Chemical Family": [
+            "Polyolefins",
+            "Polyethylenes"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Double Coated Foam Tape"
+        ],
+        "Chemical Family": [
+            "Polyolefins",
+            "Polyethylenes"
+        ],
+        "Features": [
+            "General Purpose",
+            "Good Gap Filling Capabilities",
+            "Good Adhesion",
+            "Conformable",
+            "Vibration Damping",
+            "Moisture Resistant"
+        ]
+    }
+}

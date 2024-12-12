@@ -1,0 +1,48 @@
+{
+    "id": 351772,
+    "brand": "beijing-evergrow-resources-ptfe",
+    "name": "PTFE GASKET",
+    "slug": "ptfe-gasket",
+    "description": "PTFE gasket is manufactured by molding method with PTFE granular resin. PTFE compared with other plastics, has a superior properties against chemicals and temperature.",
+    "company_name": "Beijing Evergrow Resources",
+    "company_slug": "beijing-evergrow-resources",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686150104/production/Company/38231/logo/image",
+    "banner_url": "https://static.knowde.com/card-banners/knowde-card-for-raw-materials-8.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Chemical & Industrial Manufacturing",
+            "Pipes & Plumbing",
+            "Other Industrial Applications",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Fluoropolymers"
+        ],
+        "Polymer Name": [
+            "Polytetrafluoroethylene (PTFE)"
+        ],
+        "End Uses": [
+            "Gaskets",
+            "Pipe Seals"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polytetrafluoroethylene (PTFE)"
+        ],
+        "Physical Form": [
+            "Seals"
+        ],
+        "Features": [
+            "Chemical Resistant",
+            "Temperature Resistance"
+        ],
+        "Density": [
+            "2100.0 - 2300.0 kg/m³"
+        ]
+    }
+}

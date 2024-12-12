@@ -1,0 +1,36 @@
+{
+    "id": 393076,
+    "brand": "dinase-30-15",
+    "name": "Dinamune® Aquatic Species",
+    "slug": "dinamune-aquatic-species",
+    "description": "Dinamune® Aquatic Species is a highly purified form of combined food and feed grade active ingredients. There are no intermediate carriers to add additional labor, packaging, process and freight costs.",
+    "company_name": "Dinatec",
+    "company_slug": "dinatec",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709127709/production/Brand/29621/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608224/production/CategoryImage/551/category_image/AgricultureFeed_07.jpg",
+    "properties": {
+        "Applications": [
+            "Aquaculture",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Immunomodulators",
+            "Health & Well-Being"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Immunomodulator"
+        ],
+        "Labeling Claims": [
+            "Natural"
+        ],
+        "Features": [
+            "Improves Immunity"
+        ],
+        "Certifications & Compliance": [
+            "Generally Recognized As Safe (GRAS)",
+            "FDA Compliant"
+        ]
+    }
+}

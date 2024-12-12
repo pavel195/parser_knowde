@@ -1,0 +1,40 @@
+{
+    "id": 417097,
+    "brand": "bi-u-blue",
+    "name": "606™",
+    "slug": "606",
+    "description": "606™ is a heavy duty ATV cleaner formulated as a spray on and rinse off cleaner that penetrates tough mud stains on most surfaces.",
+    "company_name": "Cajun Kleen Products",
+    "company_slug": "cajun-kleen-products",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1682593174/production/Brand/32618/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515625/production/CategoryImage/1053/category_image/HII_05.jpg",
+    "properties": {
+        "Applications": [
+            "Institutional & Industrial Care",
+            "Surface Care",
+            "Industrial Cleaning",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Industrial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Stain Removers",
+            "Cleaner"
+        ],
+        "Application Area": [
+            "Hard Surfaces"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Plastics"
+        ],
+        "Features": [
+            "Shiny Surface",
+            "Heavy Duty",
+            "Good Surface Care"
+        ]
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "id": 319628,
+    "brand": "snaptube",
+    "name": "Aeos® ePTFE",
+    "slug": "aeos-eptfe",
+    "description": null,
+    "company_name": "Zeus Industrial Products",
+    "company_slug": "zeus-industrial-products",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686149867/production/Product/319628/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608841/production/CategoryImage/581/category_image/HealthcarePharma_03.jpg",
+    "properties": {
+        "Applications": [
+            "Medical",
+            "Medical Devices & Assemblies"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Fluoropolymers"
+        ],
+        "Polymer Name": [
+            "Polytetrafluoroethylene (PTFE)"
+        ],
+        "End Uses": [
+            "Medical Devices"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polytetrafluoroethylene (PTFE)"
+        ],
+        "Physical Form": [
+            "Filament",
+            "Tube"
+        ],
+        "Features": [
+            "High Strength",
+            "Hydrophobic",
+            "Drapability",
+            "Biocompatible",
+            "Excellent Flexibility",
+            "Soft",
+            "Good UV Resistance",
+            "Chemical Resistant",
+            "Biodegradable",
+            "Porous"
+        ]
+    }
+}

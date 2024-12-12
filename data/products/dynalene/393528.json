@@ -1,0 +1,41 @@
+{
+    "id": 393528,
+    "brand": "dynalene",
+    "name": "Dynalene Inhibited Calcium Chloride",
+    "slug": "dynalene-inhibited-calcium-chloride",
+    "description": "Dynalene Inhibited Calcium Chloride heat transfer fluids provide users with a stable, safe, and efficient product for applications where freeze protection, efficiency, and safety are needed. Properly used and maintained, Calcium Chloride solutions and heat transfer fluids provide excellent thermophysical properties.",
+    "company_name": "Dynalene",
+    "company_slug": "dynalene",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664291943/production/Brand/29685/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608831/production/CategoryImage/580/category_image/HealthcarePharma_02.jpg",
+    "properties": {
+        "Applications": [
+            "Lubricants & Functional Fluids",
+            "Coolants & Deicing Fluids"
+        ],
+        "Product Families": [
+            "Fluids & Lubricants",
+            "Heat Transfer Fluids"
+        ],
+        "Chemical Family": [
+            "Calcium Salts"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Heat Transfer Fluid"
+        ],
+        "Features": [
+            "Freeze Resistant",
+            "High Performance",
+            "Cost Effective",
+            "Corrosion Resistant",
+            "Good Thermal Stability",
+            "Easy To Modify",
+            "Odorless"
+        ],
+        "Chemical Family": [
+            "Calcium Salts"
+        ]
+    }
+}

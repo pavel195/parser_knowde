@@ -1,0 +1,39 @@
+{
+    "id": 442976,
+    "brand": "primelt",
+    "name": "PriMelt™ 1063",
+    "slug": "primelt-1063",
+    "description": "PriMelt™ 1063 is a long open time, optically clear EVA. It has application in glue stick replacement, applications needing a long open time.",
+    "company_name": "Prime Blend",
+    "company_slug": "prime-blend",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520141/production/Company/46231/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608953/production/CategoryImage/586/category_image/AdhesivesSealants_03.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial & Assembly Adhesives",
+            "Tapes, Labels & Adhesives",
+            "Other Industrial & Assembly Applications",
+            "Industrial Adhesives & Sealants",
+            "Chemical & Industrial Manufacturing",
+            "Case & Carton Sealing"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Hot Melt Adhesives"
+        ],
+        "Chemical Family": [
+            "Ethylene Vinyl Acetate (EVA)"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Hot Melt Adhesive"
+        ],
+        "Application Area": [
+            "POP Displays"
+        ],
+        "Chemical Family": [
+            "Ethylene Vinyl Acetate (EVA)"
+        ]
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "id": 415123,
+    "brand": "vintre",
+    "name": "ORO® -RZ",
+    "slug": "oro-rz",
+    "description": "ORO®-RZ helps improve pesticide effectiveness in hydrophobic soils. ORO®-RZ soil adjuvant combined with pesticides has been proven a powerful, new tool for controlling resistant weeds and damaging soil pathogens by promoting even distribution and spreading of pesticides throughout soil, including hydrophobic soil, to dramatically improve effectiveness.",
+    "company_name": "Oro Agri",
+    "company_slug": "oro-agri",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708684213/production/Brand/32326/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608150/production/CategoryImage/545/category_image/AgricultureFeed_01.jpg",
+    "properties": {
+        "Applications": [
+            "Vegetables",
+            "Sugar & Starch Crops",
+            "Nuts",
+            "Agricultural Crops"
+        ],
+        "Product Families": [
+            "Stickers, Surfactants & Wetting Agents",
+            "Adjuvants & Formulation Ingredients"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Wetting Agent"
+        ],
+        "Labeling Claims": [
+            "NPE-free"
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": 428417,
+    "brand": "causticcip",
+    "name": "PHOSPHORICcip®",
+    "slug": "phosphoriccip",
+    "description": "PHOSPHORICcip® is an acid cleaner specially formulated to be used in conjunction with the hydrogen peroxide-based, O2XYadd®. PHOSPHORICcip® will activate the hydrogen peroxide in the O2XYadd®. This binary system is recommended to be used for descaling, brightening stainless steel and removing rust, protein buildup and milkstone. Due to its low-foaming characteristics, PHOSPHORICcip®/O2XYadd® is effective in CIP/COP systems and in soak tank operations.",
+    "company_name": "Wayne Chemical",
+    "company_slug": "wayne-chemical",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664293083/production/Brand/33994/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606914/production/CategoryImage/502/category_image/FoodNutrition_03.jpg",
+    "properties": {
+        "Applications": [
+            "Processing & Packaging",
+            "Food & Beverage Manufacturing",
+            "Institutional & Industrial Care",
+            "Food Facility Cleaning & Sanitization"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Food Grade Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Acid Cleaners",
+            "Descalers"
+        ],
+        "Application Areas": [
+            "Tanks"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Stainless Steel",
+            "Metal"
+        ],
+        "Features": [
+            "Low Foaming",
+            "Corrosion Resistant"
+        ]
+    }
+}

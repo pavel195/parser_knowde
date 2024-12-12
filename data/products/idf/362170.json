@@ -1,0 +1,44 @@
+{
+    "id": 362170,
+    "brand": "idf",
+    "name": "IDF® Concentrated Chicken Broth",
+    "slug": "idf-concentrated-chicken-broth",
+    "description": "IDF® Concentrated Chicken Broth, the shelf-stable, easy-to-use option for chefs who need full flavor, faster.",
+    "company_name": "International Dehydrated Foods",
+    "company_slug": "international-dehydrated-foods",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686104878/production/Brand/27159/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606924/production/CategoryImage/503/category_image/FoodNutrition_04.jpg",
+    "properties": {
+        "Applications": [
+            "Beverage",
+            "Food",
+            "Savory & Culinary",
+            "Other Non-Alcoholic Beverages"
+        ],
+        "Product Families": [
+            "Nutrition & Fortification",
+            "Whole Foods, Extracts & Premixes",
+            "Meat Products & Extracts",
+            "Nutraceuticals & Supplements",
+            "Proteins & Amino Acids"
+        ],
+        "End Uses": [
+            "Soups",
+            "Sauces"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Chicken Broth"
+        ],
+        "Ingredient Origin": [
+            "Animal Origin"
+        ],
+        "Labeling Claims": [
+            "Environmentally Friendly",
+            "Allergen-free",
+            "Gluten-free",
+            "Paleo"
+        ]
+    }
+}

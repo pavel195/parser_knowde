@@ -1,0 +1,36 @@
+{
+    "id": 358261,
+    "brand": "krylex",
+    "name": "KRYLEX® KH108B",
+    "slug": "krylex-kh108b",
+    "description": "KRYLEX® KH108B is a one component reactive polyurethane hot melt. It is solid at room temperature. After being applied warm the product will cool to allow immediate handling. Upon further exposure to ambient humidity KRYLEX® KH108B will achieve high strength bonds and excellent environmental resistance.",
+    "company_name": "Chemence",
+    "company_slug": "chemence",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1684497984/production/Brand/26684/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607531/production/CategoryImage/523/category_image/ElectricalElectronics_08.jpg",
+    "properties": {
+        "Applications": [
+            "Other Adhesives & Sealants Applications"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Hot Melt Adhesives"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Hot Melt Adhesive",
+            "1K (1 component) Adhesive"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Plastics"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ]
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "id": 233180,
+    "brand": "embapur",
+    "name": "Embapur 012/3310",
+    "slug": "embapur-012-3310",
+    "description": "Embapur 012/3310 is a pigment preparation for flexible and rigid PU foam.",
+    "company_name": "Sioen",
+    "company_slug": "sioen",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708517763/production/Company/16455/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608422/production/CategoryImage/558/category_image/BuildingConstruction_02.jpg",
+    "properties": {
+        "Applications": [
+            "Textile Manufacturing",
+            "Carpet",
+            "Furniture",
+            "Bedding",
+            "Seating",
+            "Interior",
+            "Automotive",
+            "Flooring & Surfaces",
+            "Textiles & Nonwovens",
+            "Decorative Materials & Finishes",
+            "Leather & Textiles"
+        ],
+        "Product Families": [
+            "Organic Pigments",
+            "Color Dispersions",
+            "Dispersions & Masterbatches",
+            "Pigments & Colorants",
+            "Color Pigments"
+        ],
+        "Chemical Family": [
+            "Polyethers"
+        ]
+    },
+    "summary": {
+        "Color": [
+            "Yellow"
+        ],
+        "Pigment Type": [
+            "Organic Pigments"
+        ],
+        "Chemical Family": [
+            "Polyethers"
+        ],
+        "Synonyms": [
+            "C.I. Pigment Yellow 168, C.I. 13960, PY 168"
+        ]
+    }
+}

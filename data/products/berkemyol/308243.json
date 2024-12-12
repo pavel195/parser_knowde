@@ -1,0 +1,65 @@
+{
+    "id": 308243,
+    "brand": "berkemyol",
+    "name": "Berkem Organic roman chamomile floral water (R0633)",
+    "slug": "berkem-organic-roman-chamomile-floral-water-r0633",
+    "description": "Roman chamomile floral water is mainly used for its soothing properties, and is particularly recommended for babies’ skin. It also relieves irritated skin and redness in addition to eliminating signs of fatigue around the eye contour. Purifying and astringent, it tightens pores and is perfectly adapted to acneprone skin.",
+    "company_name": "Berkem",
+    "company_slug": "berkem",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708683957/production/Product/308243/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708683957/production/Product/308243/card_banner/image",
+    "properties": {
+        "Product Families": [
+            "Skin Actives",
+            "Sensory Modifiers",
+            "Hydrosols & Waters",
+            "Cosmetic Actives",
+            "Vitamins, Extracts & Oils",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Anthemis Nobilis Flower Water"
+        ],
+        "End Uses": [
+            "Acne Treatments"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Anthemis Nobilis Flower Water"
+        ],
+        "Functions": [
+            "Astringent",
+            "Soothing Agent"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Non-Animal Origin",
+            "Plant Origin"
+        ],
+        "Labeling Claims": [
+            "Ulta Beauty's Conscious Beauty",
+            "Credo Clean Standard",
+            "Plant-Based",
+            "Sustainable",
+            "Naturally Derived",
+            "Allergen-free",
+            "Natural",
+            "Organic"
+        ],
+        "Certifications & Compliance": [
+            "Organic Certified",
+            "IECIC (China)",
+            "COSMOS",
+            "ECOCERT"
+        ],
+        "Benefit Claims": [
+            "Anti-Fatigue",
+            "Irritation Reduction",
+            "Redness Reduction",
+            "Purifying",
+            "Skin Tightening",
+            "Soothing"
+        ]
+    }
+}

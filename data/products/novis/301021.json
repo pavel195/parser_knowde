@@ -1,0 +1,44 @@
+{
+    "id": 301021,
+    "brand": "novis",
+    "name": "OPTIM® E-156",
+    "slug": "optim-e-156",
+    "description": "OPTIM® E-156 is a maleic anhydride modified high density polyethylene. It is used for a variety of applications where adhesion improvements or compatibilsation is required.",
+    "company_name": "Pluss Advanced Technologies Pvt Ltd",
+    "company_slug": "pluss-advanced-technologies",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708686379/production/Company/24297/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708686379/production/Product/301021/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Jacketing & Insulation",
+            "Wire & Cable"
+        ],
+        "Product Families": [
+            "Surface Modifiers",
+            "Performance Additives",
+            "Additive Masterbatches",
+            "Functional Additives",
+            "Additives",
+            "Masterbatches",
+            "Polymer Additives"
+        ],
+        "End Uses": [
+            "Cables"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Coupling Agent"
+        ],
+        "Compatible Polymers & Resins": [
+            "High-Density Polyethylene (HDPE)"
+        ],
+        "Processing Methods": [
+            "Extrusion"
+        ],
+        "Carrier": [
+            "High-Density Polyethylene (HDPE)",
+            "Resin-based"
+        ]
+    }
+}

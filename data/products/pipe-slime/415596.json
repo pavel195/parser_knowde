@@ -1,0 +1,43 @@
+{
+    "id": 415596,
+    "brand": "pipe-slime",
+    "name": "J.C. Whitlam Manufacturing TALON NICKEL ANTI-SEIZE Lubricant and Thread Sealant",
+    "slug": "j-c-whitlam-manufacturing-talon-nickel-anti-seize-lubricant-and-thread-sealant",
+    "description": "TALON NICKEL ANTI-SEIZE is an anti-seize lubricant and thread sealant for use in a high temperature environment. TALON NICKEL ANTI- SEIZE is a nickel and graphite based compound composed of pure nickel powder and graphite flake dispersed in a petroleum carrier. TALON NICKEL ANTI-SEIZE will not contaminate catalyst beds, reaction chambers or special alloy fittings. It provides resistance to chemical corrosion and oxidation at temperatures up to 2600°F (1427°C).",
+    "company_name": "J.C. Whitlam Manufacturing",
+    "company_slug": "j-c-whitlam-manufacturing",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1703115850/production/Company/55452/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Equipment & Parts",
+            "Sealants & Caulks",
+            "Building Materials",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Caulks & Sealants",
+            "Greases",
+            "Adhesives & Sealants",
+            "Fluids & Lubricants"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Lubricant",
+            "Thread Sealant"
+        ],
+        "Application Area": [
+            "Valves",
+            "Flanges",
+            "Blowers",
+            "Gaskets"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Stainless Steel",
+            "Nickel",
+            "Metal",
+            "Titanium"
+        ]
+    }
+}

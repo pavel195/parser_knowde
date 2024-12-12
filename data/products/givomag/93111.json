@@ -1,0 +1,56 @@
+{
+    "id": 93111,
+    "brand": "givomag",
+    "name": "MINERALIS® GU/FE (60305E)",
+    "slug": "mineralis-gu-fe",
+    "description": "MINERALIS® GU / FE or Ferrous Gluconate is an iron source used in cosmetics in hair products (keratin restructurer) and in skin products (skin conditioner).",
+    "company_name": "ISALTIS",
+    "company_slug": "isaltis",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708689149/production/Product/93111/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708689149/production/Brand/8295/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Hair Care",
+            "Skin Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Hair Actives",
+            "Conditioners & Emollients",
+            "Cosmetic Actives",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Ferrous Gluconate"
+        ],
+        "End Uses": [
+            "Anti-Aging Products",
+            "Hair Treatment & Repair"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Ferrous Gluconate"
+        ],
+        "Functions": [
+            "Anti-Aging Agent",
+            "Conditioner"
+        ],
+        "Labeling Claims": [
+            "Ulta Beauty's Conscious Beauty"
+        ],
+        "Certifications & Compliance": [
+            "GMP",
+            "Halal",
+            "FSSC 22000",
+            "Kosher"
+        ],
+        "Benefit Claims": [
+            "Cell Regeneration",
+            "Revitalizing",
+            "Skin Conditioning",
+            "Penetrating",
+            "Highly Restructuring"
+        ]
+    }
+}

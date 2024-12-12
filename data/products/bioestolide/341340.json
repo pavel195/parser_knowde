@@ -1,0 +1,49 @@
+{
+    "id": 341340,
+    "brand": "bioestolide",
+    "name": "BT22",
+    "slug": "biosynthetic-technologies-bt22",
+    "description": "BT22 is a medium viscosity, lubricant base oil designed specifically to help customers in the lubrication industries meet their production quality standards. This high quality renewable base oil offers exceptional technical performance and environmental benefits.",
+    "company_name": "Biosynthetic Technologies",
+    "company_slug": "biosynthetic-technologies",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708691833/production/Company/4678/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708691833/production/Brand/28769/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Cold-Chain & Insulation",
+            "Appliances & Electronics",
+            "Automotive Fluids & Lubricants",
+            "Fluids & Lubricants",
+            "Lubricants & Functional Fluids",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "API Group V",
+            "Performance Additives",
+            "Additives",
+            "Base Stocks & Oils"
+        ],
+        "End Uses": [
+            "Bearing Lubricants ",
+            "Industrial Lubricants",
+            "Hydraulic Fluids",
+            "Gear Oils",
+            "Compressor Oils"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Base Stock & Oil"
+        ],
+        "Fluids & Lubricants Type": [
+            "Industrial Oils & Fluids",
+            "Gear Oils & Lubricants",
+            "Hydraulic Oils & Fluids",
+            "Drivetrain Oils & Fluids",
+            "Turbine & Compressor Fluids & Oils"
+        ],
+        "ISO Viscosity Grade": [
+            "ISO 150"
+        ]
+    }
+}

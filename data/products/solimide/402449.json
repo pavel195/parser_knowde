@@ -1,0 +1,42 @@
+{
+    "id": 402449,
+    "brand": "solimide",
+    "name": "SOLIMIDE® TA-301",
+    "slug": "solimide-ta-301",
+    "description": "SOLIMIDE® TA-301 foam can be cut into a variety of shapes and sizes, then faced or coated to meet end user requirements.\r\n",
+    "company_name": "Boyd Corporation",
+    "company_slug": "boyd-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1702444508/production/Brand/30705/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608693/production/CategoryImage/573/category_image/AutomotiveTransportation_01.jpg",
+    "properties": {
+        "Applications": [
+            "Marine",
+            "Fillers, Levellers & Joints",
+            "Other Industrial Applications",
+            "Exterior & Body",
+            "Automotive",
+            "Transportation",
+            "Flooring & Surfaces",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Foams"
+        ],
+        "End Uses": [
+            "Hulls",
+            "Marine Applications"
+        ]
+    },
+    "summary": {
+        "Foam Type": [
+            "Open Cell Foam"
+        ],
+        "Density": [
+            "6.3926272 - 6.3926272 kg/m³"
+        ],
+        "End Uses": [
+            "Marine Applications",
+            "Hulls"
+        ]
+    }
+}

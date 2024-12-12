@@ -1,0 +1,42 @@
+{
+    "id": 346730,
+    "brand": "sil-a-glass",
+    "name": "Silvanil®",
+    "slug": "silvanil",
+    "description": "Silvanil® is made by taking Vanillin as a base and add 12 different notes to create the best vanilla flavor for every profile from buttery and balsamic, through to rummy, beany and caramellic.",
+    "company_name": "Silesia Flavors",
+    "company_slug": "silesia-flavors",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686104589/production/Brand/25820/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606914/production/CategoryImage/502/category_image/FoodNutrition_03.jpg",
+    "properties": {
+        "Applications": [
+            "Food",
+            "Confectionery",
+            "Desserts & Fruit Preparations"
+        ],
+        "Product Families": [
+            "Taste & Flavor",
+            "Flavor Ingredients"
+        ],
+        "Flavor Family": [
+            "Vanilla Flavors"
+        ],
+        "End Uses": [
+            "Confectionery Products",
+            "Desserts"
+        ]
+    },
+    "summary": {
+        "Flavor": [
+            "Vanilla"
+        ],
+        "Certifications & Compliance": [
+            "FSSC 22000",
+            "ISO 22000"
+        ],
+        "End Uses": [
+            "Desserts",
+            "Confectionery Products"
+        ]
+    }
+}

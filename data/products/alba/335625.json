@@ -1,0 +1,60 @@
+{
+    "id": 335625,
+    "brand": "alba",
+    "name": "ALBA 4L",
+    "slug": "alba-4l",
+    "description": "ALBA 4L is a solvent-based, standard leafing aluminum paste with a fine finesse. It is recommended for roof coatings, containers, pipes, tanks, marine coatings, thermo resistant coatings, general industrial coatings, and paper coatings.",
+    "company_name": "Alba Aluminiu",
+    "company_slug": "alba-aluminiu",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708523447/production/Brand/24584/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Marine",
+            "Equipment & Parts",
+            "Industrial Coatings",
+            "Roof Coatings",
+            "Marine Coatings",
+            "Coated Paper & Paperboard",
+            "Pipes & Tanks",
+            "Coatings & Finishes",
+            "Transportation",
+            "Roofing",
+            "Chemical & Industrial Manufacturing",
+            "Paper & Pulp",
+            "Automotive & Transportation",
+            "Building & Construction"
+        ],
+        "Product Families": [
+            "Inorganic Pigments",
+            "Color Pigments",
+            "Pigments & Colorants"
+        ],
+        "Chemical Family": [
+            "Aluminum Compounds"
+        ],
+        "End Uses": [
+            "Solventborne Coating"
+        ]
+    },
+    "summary": {
+        "Color": [
+            "Grey"
+        ],
+        "Pigment Type": [
+            "Inorganic Pigments"
+        ],
+        "Chemical Family": [
+            "Aluminum Compounds"
+        ],
+        "End Uses": [
+            "Solventborne Coating"
+        ],
+        "Particle Size": [
+            "19.0 - 19.0 microns"
+        ],
+        "Synonyms": [
+            "Al"
+        ]
+    }
+}

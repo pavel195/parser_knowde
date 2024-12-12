@@ -1,0 +1,41 @@
+{
+    "id": 358563,
+    "brand": "react",
+    "name": "HASA® 716",
+    "slug": "hasa-716",
+    "description": "Hernon HASA® 716 is a single component structural anaerobic adhesive formulated for bonding rigid assemblies at high temperatures. HASA® 716 cures when it is confined between mating surfaces. Hernon® Primer 50 accelerates the cure.",
+    "company_name": "Hernon Manufacturing",
+    "company_slug": "hernon-manufacturing",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664290889/production/Brand/26741/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608939/production/CategoryImage/585/category_image/AdhesivesSealants_02.jpg",
+    "properties": {
+        "Applications": [
+            "Other Electrical & Electronics Applications"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Anaerobic Adhesives",
+            "Structural Adhesives"
+        ],
+        "Chemical Family": [
+            "Urethanes"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Urethanes"
+        ],
+        "Ready to Use Product Type": [
+            "Anaerobic Adhesive",
+            "1K (1 component) Adhesive",
+            "Structural Adhesive"
+        ],
+        "Cure Method": [
+            "Air Dry"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Ceramic",
+            "Glass"
+        ]
+    }
+}

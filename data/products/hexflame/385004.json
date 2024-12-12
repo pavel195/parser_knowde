@@ -1,0 +1,36 @@
+{
+    "id": 385004,
+    "brand": "hexflame",
+    "name": "HEXFLAME® 45-1000",
+    "slug": "hexflame-45-1000",
+    "description": "HEXFLAME® 45-1000 has excellent environmental resistance, withstanding Ozone, UV, rain, and frost meaning outdoor applications such as lighting systems and enclosures are kept water and dust tight. It is resistant to corrosion, moisture, salt, and light fuels. It has great flexibility, strength, and durability which means it is ideal for all safety critical applications in rail, mass transit, marine vessels, oil &amp; gas; public transport and heavy goods vehicles.",
+    "company_name": "C.B.Frost & Co.",
+    "company_slug": "c-b-frost-co",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112789/production/Brand/28847/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608693/production/CategoryImage/573/category_image/AutomotiveTransportation_01.jpg",
+    "properties": {
+        "Applications": [
+            "Parts & Components",
+            "Automotive Lighting",
+            "Marine",
+            "Commercial",
+            "Rail & Mass Transit",
+            "Other Oil, Gas & Mining Applications",
+            "Housings & Enclosures",
+            "Oil, Gas & Mining",
+            "Transportation",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Thermoset Elastomers",
+            "EP Rubbers (EPDM)"
+        ],
+        "Chemical Family": [
+            "Ethylene-Propylene-Diene Copolymers (EPDM)"
+        ],
+        "End Uses": [
+            "Marine Applications"
+        ]
+    },
+    "summary": {}
+}

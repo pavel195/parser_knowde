@@ -1,0 +1,50 @@
+{
+    "id": 273409,
+    "brand": "gococo",
+    "name": "Vegan D3™",
+    "slug": "vegan-d3",
+    "description": "Cholecalciferol,D3, Powder and Oil. Vitamin D has multiple roles in the body, helping to: Maintain the health of bones and teeth. Support the health of the immune system, brain, and nervous system. Regulate insulin levels and aid diabetes management. Support lung function and cardiovascular health.",
+    "company_name": "Select Ingredients",
+    "company_slug": "select-ingredients",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672190/production/Company/21330/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606984/production/CategoryImage/507/category_image/FoodNutrition_08.jpg",
+    "properties": {
+        "Applications": [
+            "Cereals & Snacks",
+            "Tea, Cocoa & Coffee",
+            "Nutraceuticals & Supplements",
+            "Other Non-Alcoholic Beverages",
+            "Confectionery",
+            "Dairy",
+            "Beverage",
+            "Food",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Vitamins",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Breakfast Cereals",
+            "Coffee",
+            "Tablets",
+            "Yogurt",
+            "Gummies"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Cholecalciferol"
+        ],
+        "Functions": [
+            "Vitamin Source",
+            "Vitamin Source"
+        ],
+        "Labeling Claims": [
+            "Gluten-free",
+            "Kosher",
+            "Vegan"
+        ]
+    }
+}

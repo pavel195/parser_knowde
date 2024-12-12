@@ -1,0 +1,33 @@
+{
+    "id": 415429,
+    "brand": "paradigm-chemical-and-consulting-paraclean",
+    "name": "Paraclean™ 132ES",
+    "slug": "paraclean-132es",
+    "description": "Paraclean™ 132ES is an Safe-Acid Based Cleaning Agent. It is used in Felt, Wire, General Cleaning and Industrial Cleaners.",
+    "company_name": "Paradigm Chemical And Consulting",
+    "company_slug": "paradigm-chemical-and-consulting",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1670414635/production/Brand/32389/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515625/production/CategoryImage/1053/category_image/HII_05.jpg",
+    "properties": {
+        "Applications": [
+            "Institutional & Industrial Care",
+            "Surface Care",
+            "Industrial Cleaning",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Industrial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Acid Cleaners",
+            "Cleaner",
+            "Industrial Cleaners"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Fibers & Fabrics"
+        ]
+    }
+}

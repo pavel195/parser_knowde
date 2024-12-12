@@ -1,0 +1,36 @@
+{
+    "id": 244239,
+    "brand": "sanprene",
+    "name": "NEWPOL 50HB-400",
+    "slug": "newpol-50hb-400",
+    "description": "NEWPOL 50HB-400 is polyoxyalkylene glycol-type lubricants which are useful to apply as hydraulic fluids (water and glycol-type), high-temperature lubricants, low-temperature lubricating oil, compressor oil, vacuum pump oil, gear oil, hydraulic fluids, brake fluids for cars, grease, engine detergent, water-soluble cutting fluids, drawing oil, quenching oil, heating medium, mold-releasing agents for resins and rubber, lubricants for textile industries, defoaming agents, etc.",
+    "company_name": "Sanyo Chemical America Incorporated",
+    "company_slug": "sanam-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691738621/production/Product/244239/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1691738621/production/Product/244239/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Automotive Fluids & Lubricants",
+            "Cold-Chain & Insulation",
+            "Appliances & Electronics",
+            "Fluids & Lubricants",
+            "Lubricants & Functional Fluids",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Performance Additives",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Polyglycols",
+            "Polyalkylene Glycols (PAG)"
+        ],
+        "End Uses": [
+            "Hydraulic Fluids",
+            "Gear Oils",
+            "Metalworking Fluids",
+            "Compressor Oils"
+        ]
+    },
+    "summary": {}
+}

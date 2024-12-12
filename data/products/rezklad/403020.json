@@ -1,0 +1,38 @@
+{
+    "id": 403020,
+    "brand": "rezklad",
+    "name": "ATLAS® GC Primer",
+    "slug": "atlas-gc-primer",
+    "description": "ATLAS® GC Primer is a moisture tolerant primer designed for application on green concrete as a primer, primer sealer or curing compound. Unlike traditional sealers, ATLAS® GC Primer does not need to be removed before further treatment. ATLAS® GC Primer meets ASTM C309 requirements for use as a concrete curing compound.",
+    "company_name": "Atlas Minerals & Chemicals",
+    "company_slug": "atlas-minerals-chemicals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1670387430/production/Brand/30779/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Building & Construction",
+            "Concrete Coatings & Stains"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Primer",
+            "Sealer"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Concrete"
+        ],
+        "Features": [
+            "Moisture Resistant"
+        ],
+        "Application Method": [
+            "Roller",
+            "Brush",
+            "Spray"
+        ]
+    }
+}

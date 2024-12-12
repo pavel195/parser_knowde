@@ -1,0 +1,63 @@
+{
+    "id": 407642,
+    "brand": "zacsil",
+    "name": "Zaclon Quilon M - Chromium Complex",
+    "slug": "zaclon-quilon-m-chromium-complex",
+    "description": null,
+    "company_name": "Zaclon",
+    "company_slug": "zaclon",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708687665/production/Company/47162/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608438/production/CategoryImage/559/category_image/BuildingConstruction_03.jpg",
+    "properties": {
+        "Applications": [
+            "Tape & Label Adhesives",
+            "Leather Manufacturing",
+            "Tapes & Labels",
+            "Food & Beverage Packaging",
+            "Metal Manufacturing & Finishing",
+            "Other Leather Applications",
+            "Packaging & Paper",
+            "Chemical & Industrial Manufacturing",
+            "Leather",
+            "Tapes, Labels & Adhesives",
+            "Packaging",
+            "Leather & Textiles"
+        ],
+        "Product Families": [
+            "Metal Processing Additives",
+            "Finishing Additives & Treatments",
+            "Functional Additives",
+            "Additives",
+            "Paper & Pulp Chemicals",
+            "Processing Aids"
+        ],
+        "Chemical Family": [
+            "Chromium Compounds",
+            "Chemical Mixtures & Blends"
+        ],
+        "End Uses": [
+            "Mold Lining Paper",
+            "Glassine Paper",
+            "Candy Wrappers",
+            "Bakery Pan Liner",
+            "Paper & Pulp"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Water Repellent",
+            "Release Agent"
+        ],
+        "Chemical Family": [
+            "Chemical Mixtures & Blends",
+            "Chromium Compounds"
+        ],
+        "End Uses": [
+            "Paper & Pulp",
+            "Bakery Pan Liner",
+            "Glassine Paper",
+            "Mold Lining Paper",
+            "Candy Wrappers"
+        ]
+    }
+}

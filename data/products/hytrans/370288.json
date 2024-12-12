@@ -1,0 +1,42 @@
+{
+    "id": 370288,
+    "brand": "hytrans",
+    "name": "HYTRANS® 61",
+    "slug": "hytrans-61",
+    "description": "HYTRANS® 61 is a specially processed, inhibited, naphthenic transformer oil made in the U.S.A. It's severely hydrotreated using wax-free, ultra-low sulfur feedstocks and the latest technology.",
+    "company_name": "San Joaquin Refining",
+    "company_slug": "san-joaquin-refining",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664291134/production/Brand/27574/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607574/production/CategoryImage/525/category_image/ElectricalElectronics_10.jpg",
+    "properties": {
+        "Applications": [
+            "Power & Utilities",
+            "Power Transmission & Distribution",
+            "Switches & Relays",
+            "Wire & Cable",
+            "Parts & Components",
+            "Power, Water & Utilities"
+        ],
+        "Product Families": [
+            "Lubricants & Oils",
+            "Fluids & Lubricants"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Oil"
+        ],
+        "Application Areas": [
+            "Power Transformers"
+        ],
+        "Features": [
+            "Good Thermal Stability",
+            "Low Viscosity",
+            "Good Thermal Conductivity",
+            "High Thermo-Oxidative Stability",
+            "Low Moisture Content",
+            "Non Corrosive",
+            "Excellent Electrical Resistance"
+        ]
+    }
+}

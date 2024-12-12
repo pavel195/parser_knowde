@@ -1,0 +1,26 @@
+{
+    "id": 544199,
+    "brand": "h-quat-21daa8a4-a82d-467f-ad0b-564b8f52d13b",
+    "name": "WWT 1040",
+    "slug": "wwt-1040",
+    "description": "WWT 1040 is a liquid flocculant emulsion. Ideal for industrial water treatment applications in power, water, and utilities sectors.",
+    "company_name": "Harcros Chemicals Inc.",
+    "company_slug": "harcros-chemicals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1720679486/production/Brand/41047/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Water Treatment",
+            "Power, Water & Utilities"
+        ],
+        "Product Families": [
+            "Water Treatment Additives",
+            "Water Treatment Chemicals"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Flocculant"
+        ]
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "id": 415722,
+    "brand": "gencote-518",
+    "name": "Halar® (ECTFE)",
+    "slug": "halar-ectfe",
+    "description": "Halar ®(ECTFE) is a melt-processable fluoropolymer from Allied Corporation, Halar E-CTFE is the result of a 1:1 alternating copolymer of ethylene and chlorotrifluoroethytene. Halar E-CTFE is a tough material with excellent impact strength and abrasion resistance, with excellent chemical resistance, and a broad use temperature range ranging from cryogenic to 320°F.",
+    "company_name": "General Plastics Corporation",
+    "company_slug": "general-plastics-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520208/production/Brand/32452/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Coatings & Finishes",
+            "Medical",
+            "Paper & Pulp",
+            "Textiles & Nonwovens",
+            "Other Medical Applications",
+            "Military & Defense",
+            "Other Military & Defense Applications",
+            "Leather & Textiles",
+            "Aerospace Coatings",
+            "Other Textile Applications",
+            "Aerospace & Aviation",
+            "Other Paper & Pulp Applications",
+            "Chemical & Industrial Manufacturing",
+            "Transportation",
+            "Equipment & Parts",
+            "Textile Manufacturing"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Powder Coatings"
+        ],
+        "Chemical Family": [
+            "Fluoropolymers"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Powder Coating"
+        ],
+        "Features": [
+            "Chemical Resistant",
+            "Wide Temperature Operating Range",
+            "Excellent Toughness",
+            "Abrasion Resistant",
+            "Impact Resistance"
+        ],
+        "Chemical Family": [
+            "Fluoropolymers"
+        ]
+    }
+}

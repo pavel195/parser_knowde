@@ -1,0 +1,41 @@
+{
+    "id": 396659,
+    "brand": "envirovar",
+    "name": "ML Campbell AC (Acid Cure) Sealer",
+    "slug": "ml-campbell-ac-acid-cure-sealer",
+    "description": "ML Campbell AC (Acid Cure) Sealer is a high solids acid catalyzed sealer for use under clear acid cure post-catalyzed and pre-catalyzed finishes. AC Sealer will produce an easy sanding wood sealer with very good durability and high resistance to water, solvents and chemicals. Sandpaper (no-fill) must be used for sanding, 220 grit is recommended. AC Sealer must be catalyzed 10% with C1491 M.L. Campbell Care Catalyst added to unreduced product prior to use.",
+    "company_name": "ML Campbell",
+    "company_slug": "ml-campbell",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520307/production/Company/50041/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608611/production/CategoryImage/569/category_image/PaintingsCoatings_05.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Building & Construction",
+            "Decorative Paints, Coatings & Stains",
+            "Decorative Materials & Finishes",
+            "Wood Coatings & Finishes"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Sealer",
+            "Solventborne Coating"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Wood"
+        ],
+        "Features": [
+            "Water Resistant",
+            "Solvent Resistant",
+            "High Moisture Resistance",
+            "High Solids Content",
+            "Durable",
+            "Chemical Resistant"
+        ]
+    }
+}

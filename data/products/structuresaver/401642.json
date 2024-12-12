@@ -1,0 +1,41 @@
+{
+    "id": 401642,
+    "brand": "structuresaver",
+    "name": "Structuresaver® F1 & F4",
+    "slug": "structuresaver-f1-f4",
+    "description": "Structuresaver® F1 &amp; F4 is a proprietary , non-flammable, fire extinguishing, coating that extinguishes liquid fires as tested in accordance with SFI 54.1. This coating is flexible, ductile, elastomeric and maintains protective integrity in vapor fires. AFES fire extinguishing coating is non-toxic, drain safe, no fuming, water based coating that is suitable for interior and exterior surfaces. There is no primer required and is sprayable with standard equipment. The product has also passed astm E84 flame spread/smoke as a class A coating, as well as ASTM E96 vapor barrier tests.",
+    "company_name": "TPR2",
+    "company_slug": "tpr2",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520232/production/Brand/30606/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608410/production/CategoryImage/557/category_image/BuildingConstruction_01.jpg",
+    "properties": {
+        "Applications": [
+            "Coatings & Finishes",
+            "Other Coatings & Finishes",
+            "Marine",
+            "Mining",
+            "Other Oil, Gas & Mining Applications",
+            "Marine Coatings",
+            "Oil, Gas & Mining",
+            "Transportation"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Elastomeric Coating",
+            "Waterborne Coating"
+        ],
+        "Features": [
+            "Ductile",
+            "Flame Retardant",
+            "Flexible"
+        ],
+        "Application Method": [
+            "Spray"
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "id": 407652,
+    "brand": "zacsil",
+    "name": "Zaclon Soprin Hydronet-S",
+    "slug": "zaclon-soprin-hydronet-s",
+    "description": null,
+    "company_name": "Zaclon",
+    "company_slug": "zaclon",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708689013/production/Company/47162/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608438/production/CategoryImage/559/category_image/BuildingConstruction_03.jpg",
+    "properties": {
+        "Applications": [
+            "Food & Beverage Manufacturing",
+            "Vehicle & Machinery",
+            "Food Facility Cleaning & Sanitization",
+            "Institutional & Catering",
+            "Industrial Cleaning",
+            "Surface Care",
+            "Processing & Packaging",
+            "Home Care",
+            "Institutional & Industrial Care"
+        ],
+        "Product Families": [
+            "Detergents & Degreasers",
+            "Cleaning Aids"
+        ],
+        "End Uses": [
+            "Degreasers",
+            "Metal Cleaners"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Degreaser"
+        ],
+        "Features": [
+            "Degreasing"
+        ],
+        "End Uses": [
+            "Degreasers",
+            "Metal Cleaners"
+        ]
+    }
+}

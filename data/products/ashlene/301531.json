@@ -1,0 +1,51 @@
+{
+    "id": 301531,
+    "brand": "ashlene",
+    "name": "Ashlene® PE128 PET Polyester, 45% Glass Reinforced",
+    "slug": "ashlene-pe128-pet-polyester-45-glass-reinforced",
+    "description": "Ashlene® PE128 PET Polyester, 45% Glass Reinforced has 45% glass reinforcement.",
+    "company_name": "Ashley Polymers",
+    "company_slug": "ashley-polymers",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708530308/production/Company/24153/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Tape & Label Adhesives",
+            "Food & Beverage Packaging",
+            "Industrial & Transport Packaging",
+            "Non-Food Consumer Packaging",
+            "Other Packaging Materials",
+            "Tapes & Labels",
+            "Packaging & Paper",
+            "Tapes, Labels & Adhesives",
+            "Packaging"
+        ],
+        "Product Families": [
+            "Polyesters & Copolyesters",
+            "Engineering & Specialty Polymers"
+        ],
+        "Chemical Family": [
+            "Polyesters",
+            "Polyethylene Terephthalate (PET)"
+        ],
+        "Polymer Name": [
+            "Polyethylene Terephthalate (PET)"
+        ],
+        "End Uses": [
+            "Rigid Films",
+            "Bottles",
+            "Rigid Packaging"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyethylene Terephthalate (PET)"
+        ],
+        "Fillers Included": [
+            "Glass Fiber"
+        ],
+        "Flexural Modulus": [
+            "13100.0 - 13100.0 MPa"
+        ]
+    }
+}

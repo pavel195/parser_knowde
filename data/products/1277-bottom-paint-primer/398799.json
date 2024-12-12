@@ -1,0 +1,48 @@
+{
+    "id": 398799,
+    "brand": "1277-bottom-paint-primer",
+    "name": "SMART SOLUTION™",
+    "slug": "smart-solution",
+    "description": "SMART SOLUTION™ is the next generation in antifouling technology and is engineered to be the most effective environmentally friendly antifouling paint available. Smart Solution provides equivalent performance to traditional antifoulants, but utilizes completely METAL-FREE biocides resulting in no bioaccumulation in the environment. The coating’s reaction to salt water creates a slick film that encapsulates the hull, providing enhanced speed and premium performance against growth.",
+    "company_name": "Sea Hawk Paints",
+    "company_slug": "sea-hawk-paints",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1666071999/production/Company/50361/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608693/production/CategoryImage/573/category_image/AutomotiveTransportation_01.jpg",
+    "properties": {
+        "Applications": [
+            "Coatings & Finishes",
+            "Marine",
+            "Marine Coatings",
+            "Transportation"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Other Paints & Coatings"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Paint"
+        ],
+        "Application Areas": [
+            "Marine Applications"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Aluminum",
+            "Painted Surfaces",
+            "Metal",
+            "Steel",
+            "Fiberglass",
+            "Wood"
+        ],
+        "Features": [
+            "Anti-Fouling",
+            "Medium Gloss"
+        ],
+        "Application Method": [
+            "Spray",
+            "Roller",
+            "Brush"
+        ]
+    }
+}

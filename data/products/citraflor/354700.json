@@ -1,0 +1,60 @@
+{
+    "id": 354700,
+    "brand": "citraflor",
+    "name": "CitraFlor OT",
+    "slug": "citraflor-ot",
+    "description": "CitraFlor OT is a citrus d-limonene solvent with a fresh orange odor. This 100% bio-based product is derived from renewable plant resources and serves as an effective cleaning agent for adhesives, oils, and greases. It is also suitable for use as a high-performance additive in heavy-duty cleaner and degreaser formulations. CitraFlor OT is known for its low toxicity, rapid biodegradability, absence of heavy metals, and compliance with RoHS regulations.",
+    "company_name": "FLORACHEM",
+    "company_slug": "florachem",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708686767/production/Company/1228/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708686767/production/Company/1228/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Food & Beverage Manufacturing",
+            "Food Facility Cleaning & Sanitization",
+            "Surface Care",
+            "Vehicle & Machinery",
+            "Institutional & Catering",
+            "Industrial Cleaning",
+            "Processing & Packaging",
+            "Home Care",
+            "Institutional & Industrial Care"
+        ],
+        "Product Families": [
+            "Detergents & Degreasers",
+            "Solvents & Carriers",
+            "Functional Additives",
+            "Cleaning Aids"
+        ],
+        "End Uses": [
+            "Grease Trap Cleaners",
+            "Metal Cleaners",
+            "Concrete Cleaners",
+            "Asphalt Cleaners",
+            "Degreasers",
+            "Wax Strippers",
+            "Glass Cleaners"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "(R)-p-mentha-1,8-diene"
+        ],
+        "Functions": [
+            "Degreaser",
+            "Solvent"
+        ],
+        "Labeling Claims": [
+            "Ozone Non Depleting",
+            "Low Global Warming Potential (GWP)",
+            "Halogen-free",
+            "Heavy Metal-free",
+            "HAPs-free"
+        ],
+        "Certifications & Compliance": [
+            "RoHS Compliant",
+            "Generally Recognized As Safe (GRAS)",
+            "Significant New Alternatives Program (SNAP) Approved"
+        ]
+    }
+}

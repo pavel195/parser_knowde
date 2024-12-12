@@ -1,0 +1,50 @@
+{
+    "id": 407094,
+    "brand": "microring",
+    "name": "ExpresSeal® EPDM (Black) (Ethylene-Propylene-Diene Rubber)",
+    "slug": "expresseal-epdm-black-ethylene-propylene-diene-rubber",
+    "description": "ExpresSeal® EPDM (Black) (Ethylene-Propylene-Diene Rubber) has good resistance to steam, ozone and direct sunlight. ExpresSeal® EPDM (Black) (Ethylene-Propylene-Diene Rubber) has good Flexibility at lower temperatures, Poor resistance to mineral oil, gasoline and hydrocarbon solvents.",
+    "company_name": "Apple Rubber Products",
+    "company_slug": "apple-rubber-products",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686149912/production/Brand/31402/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608769/production/CategoryImage/577/category_image/AutomotiveTransportation_05.jpg",
+    "properties": {
+        "Applications": [
+            "Chassis & Brake",
+            "Cooling & Climate",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Parts & Shapes"
+        ],
+        "Chemical Family": [
+            "Polyolefins"
+        ],
+        "Polymer Name": [
+            "Ethylene Propylene Diene Terpolymer (EPDM)"
+        ],
+        "End Uses": [
+            "Automotive Coolant Pipes"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Ethylene Propylene Diene Terpolymer (EPDM)"
+        ],
+        "Physical Form": [
+            "Seals"
+        ],
+        "Features": [
+            "Low Temperature Flexibility",
+            "Sunlight Resistant",
+            "Ozone Resistant",
+            "Steam Resistant"
+        ],
+        "End Uses": [
+            "Automotive Coolant Pipes"
+        ],
+        "Color": [
+            "Black"
+        ]
+    }
+}

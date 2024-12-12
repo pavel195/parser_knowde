@@ -1,0 +1,37 @@
+{
+    "id": 356298,
+    "brand": "flex-aqualam",
+    "name": "FLEXCOAT ECO WR OPV 1008",
+    "slug": "flexcoat-eco-wr-opv-1008",
+    "description": "FLEXCOAT ECO WR OPV 1008 is a waterborne copolymer emulsion for over printing of printed paper and paper board. It is specially designed to give excellent scuff resistance and water resistance properties. It is also suitable for deep freeze resistance application. It creates an even, smooth surface with good slip properties. Suitable for paper cups &amp; ice cream cones.",
+    "company_name": "Uflex",
+    "company_slug": "uflex",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520430/production/Brand/26513/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609091/production/CategoryImage/594/category_image/PrintingPackaging_05.jpg",
+    "properties": {
+        "Applications": [
+            "Paper & Pulp",
+            "Packaging Coatings",
+            "Overprint Varnishes",
+            "Coated Paper & Paperboard"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Stains & Varnishes"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Waterborne Coating",
+            "Varnishes"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Paper"
+        ],
+        "Features": [
+            "Water Resistant",
+            "Excellent Scuff Resistance",
+            "Slip"
+        ]
+    }
+}

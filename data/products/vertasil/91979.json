@@ -1,0 +1,53 @@
+{
+    "id": 91979,
+    "brand": "vertasil",
+    "name": "Gelest WIA-HSA",
+    "slug": "gelest-titanium-dioxide-hs-wia-hsa",
+    "description": "Gelest Titanium Dioxide HS (WIA-HSA) is a white titanium dioxide powder treated with disodium carboxyethyl siliconate. This pigment is used in various color cosmetic formulations. It has a higher tinting strength and a reduced tendency for color flotation and plate-out.",
+    "company_name": "Gelest Inc.",
+    "company_slug": "gelest",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1713788972/production/Product/91979/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1713788972/production/Product/91979/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Color Cosmetics",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Color & Effects",
+            "Hydrophilic Treatments",
+            "Color Pigments",
+            "Treated Pigments & Powders",
+            "Functionals",
+            "Pigments & Colorants"
+        ],
+        "INCI Name": [
+            "Disodium Carboxyethyl Siliconate",
+            "Titanium Dioxide"
+        ],
+        "End Uses": [
+            "Mascara",
+            "Foundation",
+            "Eye Liner"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Disodium Carboxyethyl Siliconate",
+            "Titanium Dioxide"
+        ],
+        "Pigment Treatment Type": [
+            "Hydrosperse Treatment (HS) ",
+            "Silicone & Silane Treatment"
+        ],
+        "Pigment Treatment Family": [
+            "Hydrophilic Treatments"
+        ],
+        "Color": [
+            "White"
+        ],
+        "Labeling Claims": [
+            "Ulta Beauty's Conscious Beauty"
+        ]
+    }
+}

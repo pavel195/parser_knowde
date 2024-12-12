@@ -1,0 +1,40 @@
+{
+    "id": 399323,
+    "brand": "aldac",
+    "name": "ALDAC SC-100-NP",
+    "slug": "aldac-sc-100-np",
+    "description": "ALDAC SC-100-NP is a mildly alkaline, non-phosphated spray cleaner used for inspection cleaning and in plant corrosion protection of steel surfaces. A dustless powder containing a biodegradable surfactant package.",
+    "company_name": "Aldoa Company",
+    "company_slug": "aldoa-company",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292122/production/Company/50866/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515589/production/CategoryImage/1050/category_image/HII_02.jpg",
+    "properties": {
+        "Applications": [
+            "Home Care",
+            "Institutional & Industrial Care",
+            "Surface Care",
+            "Industrial Cleaning"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Industrial Cleaners",
+            "Commercial Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner",
+            "Alkaline Cleaners"
+        ],
+        "Certifications & Compliance": [
+            "ISO 9001"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Steel",
+            "Metal"
+        ],
+        "Features": [
+            "Corrosion Resistant"
+        ]
+    }
+}

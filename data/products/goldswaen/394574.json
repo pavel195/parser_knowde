@@ -1,0 +1,31 @@
+{
+    "id": 394574,
+    "brand": "goldswaen",
+    "name": "The Swaen FLAKED MAIZE",
+    "slug": "the-swaen-flaked-maize",
+    "description": "The Swaen FLAKED MAIZE is generally pregelatinized, so you can directly add to your mash with all other grains and schedule your brewing as usual. There are many different forms of corn you use in your grist bill. Flake is the simplest one of them. As it only has a little protein no such rest is required.",
+    "company_name": "The Swaen",
+    "company_slug": "the-swaen",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686109674/production/Company/49431/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606846/production/CategoryImage/500/category_image/FoodNutrition_01.jpg",
+    "properties": {
+        "Applications": [
+            "Beverage",
+            "Liquor & Spirits",
+            "Beer Brewing"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Flours & Grains Products",
+            "Other Whole Foods & Extracts"
+        ],
+        "End Uses": [
+            "Beer"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Malt"
+        ]
+    }
+}

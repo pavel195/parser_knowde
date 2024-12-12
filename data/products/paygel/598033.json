@@ -1,0 +1,47 @@
+{
+    "id": 598033,
+    "brand": "paygel",
+    "name": "Pet Probiotic DE-CA9™",
+    "slug": "pet-probiotic-de-ca9",
+    "description": "<p>Pet Probiotic DE-CA9™ (Bacillus subtilis DE-CA9) is a hardy probiotic spore that’s stable in a variety of applications targeting pet wellness. In a canine clinical study, DE-CA9 modulated the gut metabolome as shown by altered fecal metabolites involved in protein, lipid and tryptophan metabolism. Pet Probiotic DE-CA9™ also modulated the serum metabolome and metabolites involved in protein and tryptophan metabolism.</p><p></p>",
+    "company_name": "ADM",
+    "company_slug": "adm",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1674525838/production/Company/4182/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1671125277/production/Company/4182/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Pets",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Feed Supplements",
+            "Prebiotics, Probiotics & Postbiotics",
+            "Health & Well-Being",
+            "Nutritional Ingredients"
+        ],
+        "Ingredient Name": [
+            "Bacillus Subtilis"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Bacillus Subtilis"
+        ],
+        "Animal Species": [
+            "Cats",
+            "Pets",
+            "Dogs"
+        ],
+        "Certifications & Compliance": [
+            "Association Of American Feed Control Officials (AAFCO)"
+        ],
+        "Features": [
+            "Improves Immunity",
+            "Improves Body Weight Gain",
+            "Improves Metabolism",
+            "Improves Gut Microflora",
+            "Healthy Coat",
+            "Improves Digestability & Intestinal Health"
+        ]
+    }
+}

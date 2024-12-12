@@ -1,0 +1,35 @@
+{
+    "id": 344101,
+    "brand": "big-gain",
+    "name": "Elite 40:30",
+    "slug": "elite-40-30",
+    "description": "Elite 40:30 is a high urea level product that complements higher protein forage/carbohydrate sources such as Alfalfa hay.",
+    "company_name": "Big Gain Wisconsin",
+    "company_slug": "big-gain-wisconsin",
+    "logo_url": null,
+    "banner_url": "https://media.knowde.com/image/upload/v1625608238/production/CategoryImage/552/category_image/AgricultureFeed_08.jpg",
+    "properties": {
+        "Applications": [
+            "Ruminants",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Feed Supplements",
+            "Plant Proteins",
+            "Amino Acids & Proteins",
+            "Nutrition & Fortification",
+            "Nutritional Ingredients"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Urea"
+        ],
+        "Functions": [
+            "Supplement"
+        ],
+        "Animal Species": [
+            "Calves"
+        ]
+    }
+}

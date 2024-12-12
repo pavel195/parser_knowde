@@ -1,0 +1,32 @@
+{
+    "id": 400287,
+    "brand": "xceltherm",
+    "name": "XCELTHERM® SST",
+    "slug": "xceltherm-sst",
+    "description": "XCELTHERM® SST is a high operating temperature of 675°F (357°C) at low pressure, liquid phase heat transfer fluid for demanding applications. Recommended for chemical refining, oil and glycol recovery units, chemical processing, gas processing, petrochemical plants and many other applications.",
+    "company_name": "Radco Industries, Inc.",
+    "company_slug": "radco-industries-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680110215/production/Company/7630/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Other Oil, Gas & Mining Applications",
+            "Chemical & Industrial Manufacturing",
+            "Oil, Gas & Mining",
+            "Other Industrial Applications",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Heat Transfer Fluids",
+            "Fluids & Lubricants"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Heat Transfer Fluid"
+        ],
+        "Features": [
+            "High Temperature Performance"
+        ]
+    }
+}

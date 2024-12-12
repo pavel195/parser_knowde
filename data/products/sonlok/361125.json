@@ -1,0 +1,44 @@
+{
+    "id": 361125,
+    "brand": "sonlok",
+    "name": "SONLOK® 3620",
+    "slug": "sonlok-3620",
+    "description": "SONLOK® 3620 is a high viscosity; high strength anaerobic retaining compound for cylindrical fitting parts particularly where bond gaps can approach 0.25mm (0.01”). High temperature resistance up to 200°C. SONLOK® 3620 retaining compound is a single component anaerobic adhesive, which develops high strength rapidly when confined in the absence of air between close fitting metal surfaces.",
+    "company_name": "Parson Adhesives",
+    "company_slug": "parson-adhesives",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1685601160/production/Brand/27003/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608953/production/CategoryImage/586/category_image/AdhesivesSealants_03.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial & Assembly Adhesives",
+            "Other Industrial & Assembly Applications",
+            "Industrial Adhesives & Sealants",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Anaerobic Adhesives"
+        ],
+        "Chemical Family": [
+            "Methacrylates"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "1K (1 component) Adhesive",
+            "Anaerobic Adhesive"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal"
+        ],
+        "Chemical Family": [
+            "Methacrylates"
+        ],
+        "Features": [
+            "High Strength",
+            "High Viscosity",
+            "High Temperature Resistance",
+            "Chemical Resistant"
+        ]
+    }
+}

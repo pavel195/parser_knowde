@@ -1,0 +1,37 @@
+{
+    "id": 390950,
+    "brand": "enotprost",
+    "name": "EPO S.r.l. Vegetal Dry Extract",
+    "slug": "epo-s-r-l-vegetal-dry-extract",
+    "description": null,
+    "company_name": "EPO Srl",
+    "company_slug": "epo-srl",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708687025/production/Company/20150/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708687025/production/Company/20150/card_banner/image",
+    "properties": {
+        "Product Families": [
+            "Nutrient Premixes",
+            "Whole Foods & Extracts",
+            "Botanical Ingredients & Extracts",
+            "Plant & Herb Products & Extracts",
+            "Vitamins, Extracts & Oils",
+            "Whole Foods, Extracts & Premixes",
+            "Nutritional Ingredients",
+            "Formulated Feeds, Whole Foods and Extracts"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Whole Food Ingredient"
+        ],
+        "Ingredient Origin": [
+            "Vegetable Origin",
+            "Plant Origin",
+            "Natural Origin"
+        ],
+        "Labeling Claims": [
+            "Naturally Derived",
+            "Non-Hazardous"
+        ]
+    }
+}

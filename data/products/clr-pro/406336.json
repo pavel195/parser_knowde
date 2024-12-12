@@ -1,0 +1,60 @@
+{
+    "id": 406336,
+    "brand": "clr-pro",
+    "name": "CLR PRO® HEAVY DUTY CLEANER & DEGREASER",
+    "slug": "clr-pro-heavy-duty-cleaner-degreaser",
+    "description": "Clr Pro® Heavy Duty Cleaner &amp; Degreaser quickly lifts out oil, grease and tar from a variety of surfaces.\r\n",
+    "company_name": "CLR Pro",
+    "company_slug": "clr-pro",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292160/production/Brand/31271/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515657/production/CategoryImage/1056/category_image/HII_08.jpg",
+    "properties": {
+        "Applications": [
+            "Carpet & Upholstery",
+            "Surface Care",
+            "Industrial Cleaning",
+            "Vehicle & Machinery",
+            "Institutional & Industrial Care",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Industrial Cleaners",
+            "Commercial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner",
+            "Degreasers",
+            "Tar Cleaner"
+        ],
+        "Certifications & Compliance": [
+            "NSF Approved"
+        ],
+        "Application Areas": [
+            "Floor",
+            "Carpets",
+            "Tanks",
+            "Machine Parts",
+            "Equipment"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Asphalt",
+            "Stainless Steel",
+            "Stone",
+            "Fiberglass",
+            "Brick",
+            "Metal",
+            "Elastomers & Rubbers",
+            "Vinyl",
+            "Concrete",
+            "Tile"
+        ],
+        "Features": [
+            "Grime Cleaning",
+            "Heavy Duty",
+            "Degreasing"
+        ]
+    }
+}

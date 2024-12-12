@@ -1,0 +1,35 @@
+{
+    "id": 427980,
+    "brand": "ms-megades",
+    "name": "MS TopFoam LC Fresh",
+    "slug": "ms-topfoam-lc-fresh",
+    "description": "MS TopFoam LC Fresh is a scented foam cleaner with powerful binding properties and a long contact time (&gt;60min). For a clean stable with a pleasant and refreshing smell.",
+    "company_name": "The Schippers Group",
+    "company_slug": "the-schippers-group",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292901/production/Brand/33943/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515575/production/CategoryImage/1049/category_image/HII_01.jpg",
+    "properties": {
+        "Applications": [
+            "Home Care",
+            "Institutional & Industrial Care",
+            "Surface Care",
+            "Industrial Cleaning"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Industrial Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner"
+        ],
+        "Application Areas": [
+            "Hard Surfaces"
+        ],
+        "Features": [
+            "Good Surface Care",
+            "Foamable"
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": 343748,
+    "brand": "phytopin",
+    "name": "COSMYTHIC®",
+    "slug": "cosmythic",
+    "description": "Cosmythic® is a 100% natural extract intended for the formulation of cosmetic food solutions. Produced in the heart of the Landes forest, from a totally renewable raw material, maritime pine (Pinus pinaster), Cosmythic® acts positively on the essential constituents of the extra-cellular matrix, collagen and elastin.",
+    "company_name": "DRT Purextract",
+    "company_slug": "drt-purextract",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708518239/production/Brand/25494/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606846/production/CategoryImage/500/category_image/FoodNutrition_01.jpg",
+    "properties": {
+        "Applications": [
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Dietary Supplements"
+        ]
+    },
+    "summary": {
+        "Ingredient Origin": [
+            "Plant Origin",
+            "Natural Origin"
+        ],
+        "Labeling Claims": [
+            "Plant-Based",
+            "Natural",
+            "Naturally Derived"
+        ],
+        "Features": [
+            "Healthy-Looking Skin"
+        ]
+    }
+}

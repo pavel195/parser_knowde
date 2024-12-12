@@ -1,0 +1,77 @@
+{
+    "id": 145591,
+    "brand": "korton",
+    "name": "Exac™ ECTFE",
+    "slug": "exac-ectfe",
+    "description": "Exac ECTFE is an Ethylene Chlorotrifluoroethylene Copolymer (ECTFE) product. It is available in North America. Applications of Exac ECTFE include engineering/industrial parts, electrical/electronic applications, aerospace, automotive and medical/healthcare.Characteristics include: Flame Rated Chemical Resistant Heat Resistant Weather Resistant",
+    "company_name": "Saint-Gobain",
+    "company_slug": "saint-gobain",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1703115697/production/Company/1397/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1703115697/production/Company/1397/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Exterior & Body",
+            "Equipment & Parts",
+            "Pipes & Hoses",
+            "Cooling & Climate",
+            "Fuel Systems",
+            "Appliances & Electronics",
+            "Pipes & Plumbing",
+            "Pumps, Turbines & Compressors",
+            "Other Industrial Applications",
+            "Structural Components",
+            "Medical Devices & Assemblies",
+            "Other Parts & Components",
+            "Connectors",
+            "Other Automotive Applications",
+            "Aerospace & Aviation",
+            "Agricultural Films",
+            "Automotive",
+            "Transportation",
+            "Building Materials",
+            "Parts & Components",
+            "Medical",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Fluoropolymers"
+        ],
+        "Polymer Name": [
+            "Ethylene Chlorotrifluoroethylene Copolymer"
+        ],
+        "End Uses": [
+            "Windows",
+            "Sunroof Frame",
+            "Valve Parts",
+            "Valves",
+            "Pump Parts",
+            "Medical Devices",
+            "Electrical Parts",
+            "Connectors",
+            "Bushings",
+            "Bearings",
+            "Automotive Applications",
+            "Aerospace Applications"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Ethylene Chlorotrifluoroethylene Copolymer"
+        ],
+        "Physical Form": [
+            "Rods",
+            "Tube"
+        ],
+        "Features": [
+            "Good Weather Stability",
+            "Good Thermal Stability",
+            "Chemical Resistant",
+            "Self Lubricating",
+            "Machinable",
+            "Low Friction"
+        ]
+    }
+}

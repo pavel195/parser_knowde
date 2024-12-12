@@ -1,0 +1,35 @@
+{
+    "id": 372888,
+    "brand": "mga",
+    "name": "RAPIDA® COFREE Yellow",
+    "slug": "rapida-cofree-yellow",
+    "description": "RAPIDA® COFREE Yellow uses !NKREDIBLE technology stay-open printing inks for straight printing with fast physical drying properties for immediate work-and-turn and rapid postprint finishing.",
+    "company_name": "Huber Inks",
+    "company_slug": "huber-inks",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664291325/production/Brand/27843/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609091/production/CategoryImage/594/category_image/PrintingPackaging_05.jpg",
+    "properties": {
+        "Applications": [
+            "Printing & Inks",
+            "Offset & Lithographic Printing"
+        ],
+        "Product Families": [
+            "Inks & Pastes",
+            "Offset & Lithographic Inks"
+        ]
+    },
+    "summary": {
+        "Features": [
+            "Fast Setting",
+            "High Speed Printing",
+            "High Gloss",
+            "Alkali Resistant",
+            "Good Scratch Resistance",
+            "High Clarity",
+            "Alcohol Resistant"
+        ],
+        "Color": [
+            "Yellow"
+        ]
+    }
+}

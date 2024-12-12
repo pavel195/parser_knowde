@@ -1,0 +1,58 @@
+{
+    "id": 126781,
+    "brand": "duradene",
+    "name": "Royalene® 400",
+    "slug": "royalene-400",
+    "description": "A Highly Extendable DCPD Polymer with Heavy Hydrotreated Paraffinic Oil for TPO/TPV and Thermoset Applications",
+    "company_name": "Lion Elastomers",
+    "company_slug": "lion-elastomers",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709127296/production/Company/2806/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1709127296/production/Company/2806/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Powertrain & UTH",
+            "Interior",
+            "Exterior & Body",
+            "Building Wires & Power Cables",
+            "Tires",
+            "Automotive",
+            "Wire & Cable"
+        ],
+        "Product Families": [
+            "EP Rubbers (EPDM)",
+            "Thermoset Elastomers"
+        ],
+        "Chemical Family": [
+            "Ethylene-Propylene Copolymers (EPR)",
+            "Polyolefins"
+        ],
+        "Polymer Name": [
+            "Ethylene Propylene Diene Terpolymer (EPDM)"
+        ],
+        "End Uses": [
+            "Radiator Seals",
+            "Gaskets",
+            "Automotive Under The Hood",
+            "Automotive Interior Trim",
+            "Automotive Interior Parts",
+            "Automotive Exterior Parts",
+            "Wires",
+            "Cables",
+            "Automotive Applications",
+            "Thermoforming Applications",
+            "Tubing"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Ethylene Propylene Diene Terpolymer (EPDM)"
+        ],
+        "Processing Methods": [
+            "Extrusion",
+            "Profile Extrusion"
+        ],
+        "Additives Included": [
+            "Plasticizer (Unspecified)"
+        ]
+    }
+}

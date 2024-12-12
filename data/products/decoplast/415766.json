@@ -1,0 +1,49 @@
+{
+    "id": 415766,
+    "brand": "decoplast",
+    "name": "Tique Primer",
+    "slug": "tique-primer",
+    "description": "Tique Primer is used for priming prepared concrete, masonry, plaster, EIFS base coat, or drywall surfaces prior to application of Tique Finishes and Coatings.",
+    "company_name": "Greenmaker Industries",
+    "company_slug": "greenmaker-industries",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292548/production/Brand/32455/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608438/production/CategoryImage/559/category_image/BuildingConstruction_03.jpg",
+    "properties": {
+        "Applications": [
+            "Building & Construction",
+            "Concrete Coatings & Stains"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Waterborne Coating",
+            "Base Coat"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Concrete",
+            "Masonry"
+        ],
+        "Features": [
+            "Good Adhesion",
+            "Non-Toxic",
+            "Low VOC",
+            "Water Resistant",
+            "Breathable",
+            "Good Color Stability"
+        ],
+        "Application Method": [
+            "Spray",
+            "Brush"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    }
+}

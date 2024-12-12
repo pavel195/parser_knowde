@@ -1,0 +1,50 @@
+{
+    "id": 299715,
+    "brand": "drt-endere",
+    "name": "Staybelite Ester 10",
+    "slug": "drt-staybelite-ester-10",
+    "description": "Staybelite Ester 10 is the glycerol ester of partially hydrogenated wood rosin.",
+    "company_name": "DRT",
+    "company_slug": "drt",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1703849590/production/Company/22776/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609091/production/CategoryImage/594/category_image/PrintingPackaging_05.jpg",
+    "properties": {
+        "Applications": [
+            "Tape & Label Adhesives",
+            "Tapes & Labels",
+            "Other Tapes, Labels & Adhesives",
+            "Other Paints & Coatings Applications",
+            "Packaging & Paper",
+            "Tapes, Labels & Adhesives"
+        ],
+        "Product Families": [
+            "Surface Modifiers",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Polyesters",
+            "Rosins",
+            "Esters"
+        ],
+        "End Uses": [
+            "Solventborne Adhesive",
+            "Hot Melt Adhesive",
+            "Pressure Sensitive Adhesive"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Esters",
+            "Polyesters",
+            "Rosins"
+        ],
+        "End Uses": [
+            "Solventborne Adhesive",
+            "Hot Melt Adhesive",
+            "Pressure Sensitive Adhesive"
+        ],
+        "Synonyms": [
+            "Glycerol ester of partially hydrogenated wood rosin, Hydrogenated rosin glycerides"
+        ]
+    }
+}

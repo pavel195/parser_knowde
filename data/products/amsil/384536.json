@@ -1,0 +1,38 @@
+{
+    "id": 384536,
+    "brand": "amsil",
+    "name": "Applied Material Solutions Oleic Acids",
+    "slug": "applied-material-solutions-oleic-acids",
+    "description": "Oleic Acids",
+    "company_name": "Applied Material Solutions",
+    "company_slug": "applied-material-solutions",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708688610/production/Company/17132/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Water Treatment",
+            "Pulping & Processing",
+            "Chemical Manufacturing",
+            "Chemical & Industrial Manufacturing",
+            "Paper & Pulp",
+            "Power, Water & Utilities"
+        ],
+        "Product Families": [
+            "Water Treatment Additives",
+            "Finishing Additives & Treatments",
+            "Paper & Pulp Chemicals",
+            "Water Treatment Chemicals"
+        ],
+        "Chemical Family": [
+            "Fatty Acids"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Fatty Acids"
+        ],
+        "Functions": [
+            "Defoamer"
+        ]
+    }
+}

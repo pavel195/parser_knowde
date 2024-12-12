@@ -1,0 +1,23 @@
+{
+    "id": 356238,
+    "brand": "flex-aqualam",
+    "name": "FLEXGLOSS",
+    "slug": "flexgloss",
+    "description": "FLEXGLOSS is a Polyamide base common inks system for gravure and stack ﬂexo surface printing on ﬂexible ﬁlms.",
+    "company_name": "Uflex",
+    "company_slug": "uflex",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664290826/production/Brand/26520/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609091/production/CategoryImage/594/category_image/PrintingPackaging_05.jpg",
+    "properties": {
+        "Applications": [
+            "Printing & Inks",
+            "Flexography",
+            "Gravure Printing"
+        ],
+        "Product Families": [
+            "Inks & Pastes",
+            "Gravure Inks"
+        ]
+    },
+    "summary": {}
+}

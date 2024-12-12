@@ -1,0 +1,31 @@
+{
+    "id": 413123,
+    "brand": "clambp",
+    "name": "Ilexpower™",
+    "slug": "ilexpower",
+    "description": "Ilexpower™ is developed from kuding tea leaves(llex latifolia Thunb), which has been consumed in the southern region of China for over 2,000 years. The recent scientific studies have found kuding tea exhibited the multiple health benefits inrelieving fatigue and supporting healthy blood pressure, blood glucose and lipids, and possessed the antioxidantproperty.",
+    "company_name": "Chenland Nutritionals",
+    "company_slug": "chenland-nutritionals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708690823/production/Product/413123/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515647/production/CategoryImage/1055/category_image/HII_07.jpg",
+    "properties": {
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Phytochemicals & Plant Extracts",
+            "Tea & Coffee Products",
+            "Phytochemicals",
+            "Nutrition & Fortification",
+            "Whole Foods, Extracts & Premixes",
+            "Nutraceuticals & Supplements"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Kuding Tea Leaves"
+        ],
+        "Functions": [
+            "Phytochemical"
+        ]
+    }
+}

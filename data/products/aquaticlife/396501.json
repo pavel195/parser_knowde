@@ -1,0 +1,42 @@
+{
+    "id": 396501,
+    "brand": "aquaticlife",
+    "name": "ecoDUSTRIAL™ with Biocote®",
+    "slug": "ecodustrial-with-biocote",
+    "description": "ecoDUSTRIAL™ with Biocote® is classified as non-toxic to humans. BioCote® technology and products containing BioCote® technology do not cause microbial resistance. Resistant exposure to commonly used cleaning disinfectants.",
+    "company_name": "RWAY Coatings",
+    "company_slug": "rway-coatings",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292157/production/Company/43783/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608611/production/CategoryImage/569/category_image/PaintingsCoatings_05.jpg",
+    "properties": {
+        "Applications": [
+            "Other Building & Construction Applications",
+            "Industrial Coatings",
+            "Building & Construction"
+        ],
+        "Product Families": [
+            "Other Paints & Coatings",
+            "Paints & Coatings"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Coating"
+        ],
+        "Features": [
+            "pH Stability",
+            "Uniform Distribution",
+            "Wear Resistant",
+            "Microbe Resistant",
+            "Durable",
+            "Crack Resistant",
+            "Chemical Resistant",
+            "Non-Porous",
+            "UV Resistant",
+            "Flexible",
+            "Impact Resistance",
+            "Non-Toxic",
+            "Low Slip"
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "id": 212184,
+    "brand": "omnilane",
+    "name": "Esacure A 198",
+    "slug": "esacure-a-198",
+    "description": "Esacure A 198 is a polyfunctional high molecular weight amine. It is co-initiator that when combined with type II photoinitiators gives high speed cure in both clear and pigmented systems. It develops a very low level of odor and yellowing during and after curing. Due to its molecular structure it is particularly suitable for all systems where low migration and low extraction values are needed (food packaging).",
+    "company_name": "IGM Resins",
+    "company_slug": "igm-resins",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708683784/production/Company/7406/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608939/production/CategoryImage/585/category_image/AdhesivesSealants_02.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial Coatings",
+            "Wood Coatings & Finishes",
+            "Building & Construction"
+        ],
+        "Product Families": [
+            "Functional Additives",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Amines"
+        ],
+        "End Uses": [
+            "Waterborne Coating",
+            "Radiation Curable Coating"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Synergist"
+        ],
+        "Chemical Family": [
+            "Amines"
+        ],
+        "End Uses": [
+            "Waterborne Coating",
+            "Radiation Curable Coating"
+        ],
+        "Features": [
+            "Low Migration"
+        ]
+    }
+}

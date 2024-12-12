@@ -1,0 +1,50 @@
+{
+    "id": 396137,
+    "brand": "thermoflow",
+    "name": "Muehlmeier E-CR glass - roving assembled E-CR 13 2400",
+    "slug": "muehlmeier-e-cr-glass-roving-assembled-e-cr-13-2400",
+    "description": "Muehlmeier E-CR glass - roving assembled E-CR 13 2400 is wound to a roving bobbin (assembled) by consistent stress wound strands. The recommended field of application is reinforcement of molds which are produced in spraying process. The size is optimal adjusted to the working with polyester and vinyl resins. E-CR glass fibers unit the electrical and mechanical characteristics of E-glass with excellent chemical and thermal resistance. Further advantages are the high dielectric strength and good wear resistance at simultaneously very good mechanical specific values of the laminate.",
+    "company_name": "Muehlmeier",
+    "company_slug": "muehlmeier",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686149015/production/Company/50305/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608769/production/CategoryImage/577/category_image/AutomotiveTransportation_05.jpg",
+    "properties": {
+        "Applications": [
+            "Interior",
+            "Chemical & Industrial Manufacturing",
+            "Automotive",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Reinforcements",
+            "Glass Fiber"
+        ],
+        "Chemical Family": [
+            "Glass Beads & Fibers"
+        ]
+    },
+    "summary": {
+        "Reinforcement Material": [
+            "Glass Fibers"
+        ],
+        "Reinforcement Form": [
+            "Roving"
+        ],
+        "Compatible Polymers & Resins": [
+            "Unsaturated Polyester (UPE)",
+            "Vinyl Esters"
+        ],
+        "Processing Methods": [
+            "Spray Lay-up"
+        ],
+        "Features": [
+            "High Dielectric Strength",
+            "Excellent Mechanical Strength",
+            "Good Thermal Stability",
+            "Corrosion Resistant",
+            "Chemical Resistant",
+            "Good Dispersion",
+            "Wear Resistant"
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "id": 298956,
+    "brand": "hi-prene",
+    "name": "Kixx Turbine R&O ISO VG 32",
+    "slug": "kixx-turbine-r-o-iso-vg-32",
+    "description": "Kixx Turbine R&amp;O is a premium quality, inhibited turbine oil formulated from highly refined base stocks and special rust, oxidation and foam inhibitors.",
+    "company_name": "GS-Caltex",
+    "company_slug": "gs-caltex",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680108725/production/Company/23716/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical & Industrial Manufacturing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Lubricants & Oils",
+            "Fluids & Lubricants"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Oil"
+        ],
+        "Application Area": [
+            "Hydraulic Pumps",
+            "Rotary Vane Compressors",
+            "Rotary Screw Compressors",
+            "Machine Parts",
+            "Electric Motors",
+            "Industrial Conveyors",
+            "Turbines",
+            "Blowers",
+            "Reciprocating Compressors",
+            "Pump",
+            "Vacuum Pumps",
+            "Compressors"
+        ],
+        "Features": [
+            "Corrosion Resistant",
+            "Consistent High Quality",
+            "Good Air Release Properties",
+            "Service Life Extension",
+            "Defoaming",
+            "Oxidation Resistant"
+        ]
+    }
+}

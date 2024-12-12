@@ -1,0 +1,39 @@
+{
+    "id": 419400,
+    "brand": "zar",
+    "name": "DRYLOK® Latex Concrete Floor Paint",
+    "slug": "drylok-latex-concrete-floor-paint",
+    "description": "DRYLOK® Latex Concrete Floor Paint Resists hot tire pick-up with non-slip, non-glare finish and complies with all current VOC requirements.",
+    "company_name": "United Gilsonite Laboratories",
+    "company_slug": "united-gilsonite-laboratories",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520312/production/Brand/32905/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608422/production/CategoryImage/558/category_image/BuildingConstruction_02.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Flooring & Surfaces",
+            "Decorative Paints, Coatings & Stains",
+            "Floor Coatings"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Other Paints & Coatings"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Latex"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Concrete"
+        ],
+        "Features": [
+            "Primerless",
+            "Anti-Slip"
+        ],
+        "Application Method": [
+            "Roller",
+            "Brush"
+        ]
+    }
+}

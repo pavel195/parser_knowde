@@ -1,0 +1,41 @@
+{
+    "id": 417922,
+    "brand": "tw25b",
+    "name": "TW25B® SYNTHETIC OIL",
+    "slug": "tw25b-synthetic-oil",
+    "description": "TW25B® is a synthetic light grease engineered for long-lasting lubrication protection and extreme pressure, heavy-load applications. TW25B® reduces friction and wear on all working parts, penetrates metal surfaces and leaves a semi-dry film coating for smooth function and extended life of metal parts. This product resists wash-off and wear-off.",
+    "company_name": "Mil-Comm Products Company",
+    "company_slug": "mil-comm-products-company",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680108845/production/Brand/32704/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical & Industrial Manufacturing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Greases",
+            "Fluids & Lubricants"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Grease"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal"
+        ],
+        "Features": [
+            "Durable",
+            "Extreme Pressure Performance",
+            "Low Wear",
+            "Wash-Off Resistance",
+            "Corrosion Resistant",
+            "Cost Effective",
+            "Friction Reduction",
+            "Long-term Lubricity",
+            "Water Resistant",
+            "Service Life Extension"
+        ]
+    }
+}

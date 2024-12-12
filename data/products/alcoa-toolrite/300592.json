@@ -1,0 +1,66 @@
+{
+    "id": 300592,
+    "brand": "alcoa-toolrite",
+    "name": "Toolrite® 2011-T8 Aluminum",
+    "slug": "toolrite-2011-t8-aluminum",
+    "description": "Alcoa Toolrite® 2011-T8 Aluminum has good machinability, especially free-cutting qualities and good mechanical properties. It has excellent surface finish capability. The T451 temper offers good deep drilling characteristics.",
+    "company_name": "Alcoa KAMA",
+    "company_slug": "alcoa-kama",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704106950/production/Company/24149/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608693/production/CategoryImage/573/category_image/AutomotiveTransportation_01.jpg",
+    "properties": {
+        "Applications": [
+            "Pipes & Hoses",
+            "Fuel Systems",
+            "Appliances & Electronics",
+            "Agricultural Films",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Metals",
+            "Metals, Alloys & Complexes"
+        ],
+        "End Uses": [
+            "Parts",
+            "Spindles",
+            "Screw Drivers",
+            "Radio Parts",
+            "Oil Line Filters",
+            "Gears",
+            "Exhaust Systems",
+            "Adapters",
+            "Munitions",
+            "Hydraulic Applications",
+            "ABS Braking Systems",
+            "Valves"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Aluminum"
+        ],
+        "CAS Number": [
+            "7429-90-5"
+        ],
+        "End Uses": [
+            "Spindles",
+            "Exhaust Systems",
+            "Radio Parts",
+            "Oil Line Filters",
+            "ABS Braking Systems",
+            "Valves",
+            "Adapters",
+            "Hydraulic Applications",
+            "Screw Drivers",
+            "Gears",
+            "Parts",
+            "Munitions"
+        ],
+        "Density": [
+            "2820.0 - 2820.0 kg/m³"
+        ],
+        "Synonyms": [
+            "Al"
+        ]
+    }
+}

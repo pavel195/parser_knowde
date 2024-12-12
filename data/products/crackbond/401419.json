@@ -1,0 +1,24 @@
+{
+    "id": 401419,
+    "brand": "crackbond",
+    "name": "ACCU-GROUT LE",
+    "slug": "accu-grout-le",
+    "description": "ACCU-GROUT products are three-component, pre-proportioned, industrial grade epoxy grouting systems. ACCU-GROUT LE is a low exotherm, high strength construction epoxy. The recommended application temperature range for the grout products is between 60°F - 95°F (16°C - 35°C).",
+    "company_name": "Adhesives Technology",
+    "company_slug": "adhesives-technology",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1694073657/production/Brand/30580/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608465/production/CategoryImage/561/category_image/BuildingConstruction_05.jpg",
+    "properties": {
+        "Applications": [
+            "Other Building & Construction Applications"
+        ],
+        "Product Families": [
+            "Mortar & Grouts",
+            "Construction Materials"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    },
+    "summary": {}
+}

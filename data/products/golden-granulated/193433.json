@@ -1,0 +1,45 @@
+{
+    "id": 193433,
+    "brand": "golden-granulated",
+    "name": "Domino Specialty Ingredients Qwik-Flo® Honey (granulated and powdered)",
+    "slug": "domino-specialty-ingredients-qwik-flo-honey-granulated-and-powdered",
+    "description": "Made with pure honey and possessing a pure golden color and smooth flavor, the free-flowing characteristics of these instantly soluble ingredients increase handling efficiencies. Easy to blend and non-hygroscopic, their applications include bakery mixes, cereals, seasoning blends, dried soups, and beverages. These products are not of genetically modified origin and do not include any genetically engineered additives or ingredients.",
+    "company_name": "Domino Specialty Ingredients",
+    "company_slug": "domino-specialty-ingredients",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708689180/production/Company/11170/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708689180/production/Company/11170/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Other Food Applications",
+            "Bakery",
+            "Other Non-Alcoholic Beverages",
+            "Cereals & Snacks",
+            "Savory & Culinary",
+            "Beverage",
+            "Food"
+        ],
+        "Product Families": [
+            "Sweeteners & Syrups",
+            "Taste & Flavor"
+        ],
+        "End Uses": [
+            "Breakfast Cereals",
+            "Soups"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Honey"
+        ],
+        "Functions": [
+            "Nutritive Sweetener"
+        ],
+        "Labeling Claims": [
+            "Non-GMO"
+        ],
+        "End Uses": [
+            "Soups",
+            "Breakfast Cereals"
+        ]
+    }
+}

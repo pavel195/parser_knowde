@@ -1,0 +1,30 @@
+{
+    "id": 163468,
+    "brand": "asfier",
+    "name": "TETRANYL® AT-7590",
+    "slug": "tetranyl-at-7590",
+    "description": "Cationic surfactant advisable for regular domestic softeners. Ecological and biodegradable product with anti-static, rewetting and softening effect.",
+    "company_name": "Kao Chemicals",
+    "company_slug": "kao-chemicals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672391/production/Company/1283/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708672391/production/Company/1283/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Laundry & Fabric Care",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Cationic Surfactants",
+            "Soaps & Surfactants"
+        ],
+        "Chemical Family": [
+            "Quaternary Ammonium Compounds"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Surfactant (Cationic)",
+            "Surfactant"
+        ]
+    }
+}

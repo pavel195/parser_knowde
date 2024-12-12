@@ -1,0 +1,37 @@
+{
+    "id": 380540,
+    "brand": "helmibond",
+    "name": "HELMIBOND 6502",
+    "slug": "helmibond-6502",
+    "description": "Helmibond 6502 is a solvent-free, acrylic wet-set adhesive formulated to permanently install most commercial vinyl and rubber wall base products and preformed corners. Helmibond 6502 has been formulated to dry to a hard set, extremely strong, water resistant bond that reduces seam openings and has excellent corner wrapping properties. May be used on most interior porous wall surfaces.",
+    "company_name": "Helmitin",
+    "company_slug": "helmitin",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664291445/production/Brand/28479/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608465/production/CategoryImage/561/category_image/BuildingConstruction_05.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Interior Fixtures",
+            "Decorative Materials & Finishes",
+            "Wallcoverings & Decorative Laminates"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Contact Adhesives"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Contact Adhesive"
+        ],
+        "Application Method": [
+            "Trowel"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    }
+}

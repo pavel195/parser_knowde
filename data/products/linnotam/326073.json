@@ -1,0 +1,70 @@
+{
+    "id": 326073,
+    "brand": "linnotam",
+    "name": "LINNOTAM GLIDE Pro T",
+    "slug": "linnotam-glide-pro-t",
+    "description": "LiNNOTAM with solid lubricants, additives and stabilizers finely distributed in the material. LiNNOTAMGLIDE Pro T has self-lubricating properties due to the added components and shows excellent wear resistance at very high low coefficient of friction.",
+    "company_name": "Licharz",
+    "company_slug": "licharz",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686149844/production/Brand/23349/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608422/production/CategoryImage/558/category_image/BuildingConstruction_02.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Parts & Components",
+            "Powertrain & UTH",
+            "Other Automotive Applications",
+            "Automotive Electronics",
+            "Belts & Conveyers",
+            "Other Devices & Assemblies",
+            "Devices & Assemblies",
+            "Chemical & Industrial Manufacturing",
+            "Automotive",
+            "Terminal Blocks, Plugs & Sockets",
+            "Other Parts & Components",
+            "Structural Components",
+            "Other Industrial Applications",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Polyamides"
+        ],
+        "Polymer Name": [
+            "Polyamide (unspecified)"
+        ],
+        "End Uses": [
+            "Bearings",
+            "Gears",
+            "Sockets",
+            "Wear Strip",
+            "Bushings"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyamide (unspecified)"
+        ],
+        "Physical Form": [
+            "Plates",
+            "Tube",
+            "Bars"
+        ],
+        "Features": [
+            "Self Lubricating",
+            "Low Friction",
+            "Good Sliding Properties",
+            "Wear Resistant"
+        ],
+        "Density": [
+            "1140.0 - 1140.0 kg/m³"
+        ],
+        "Color": [
+            "Grey",
+            "Red",
+            "Green"
+        ]
+    }
+}

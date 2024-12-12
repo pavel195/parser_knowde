@@ -1,0 +1,43 @@
+{
+    "id": 218494,
+    "brand": "innores",
+    "name": "Tallicin® 4200",
+    "slug": "tallicin-4200",
+    "description": "Tallicin® 4200 decreases the porosity of unsaturated polyesters and provides a smooth, level finish to the surface. It also eliminates the effects of craters and \"orange peel.\" Tallicin® 4200 is also useful in overcoming bubbles in other types of high solids formulations and acts to improve flow and leveling in these systems.",
+    "company_name": "Pflaumer Brothers",
+    "company_slug": "pflaumer-brothers",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708687895/production/Company/14251/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608630/production/CategoryImage/571/category_image/PaintingsCoatings_07.jpg",
+    "properties": {
+        "Applications": [
+            "Architectural Coatings",
+            "Industrial Coatings",
+            "Building Envelope",
+            "Building & Construction",
+            "Building Envelope & Roofing"
+        ],
+        "Product Families": [
+            "Dispersing & Wetting Additives",
+            "Additives"
+        ],
+        "End Uses": [
+            "Solventless & High Solids Coating",
+            "Solventborne Coating"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Surfactant"
+        ],
+        "End Uses": [
+            "Solventless & High Solids Coating",
+            "Solventborne Coating"
+        ],
+        "Compatible Polymers & Resins": [
+            "Vinyls",
+            "Polyurethanes (PU)",
+            "Polyesters",
+            "Cellulose & Cellulosics"
+        ]
+    }
+}

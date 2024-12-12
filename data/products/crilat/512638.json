@@ -1,0 +1,43 @@
+{
+    "id": 512638,
+    "brand": "crilat",
+    "name": "TEXICRYL® 13-818",
+    "slug": "texicryl-13-818",
+    "description": "Texicryl® 13-818 is a recently developed modified acrylic copolymer aqueous dispersion renowned for its remarkable flexibility and MVTR (Moisture Vapor Transmission Rate) properties. Texicryl® 13-818 serves as a prime binder in barrier coating applications, showcasing low MVTR and Cobb values. This product also demonstrates fast drying and low foaming characteristics.",
+    "company_name": "EM Sullivan",
+    "company_slug": "em-sullivan",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1710414971/production/Brand/41041/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Product Families": [
+            "Acrylics",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Styrene-Acrylic Copolymer"
+        ],
+        "End Uses": [
+            "Varnishes",
+            "Barrier Coating"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Styrene-Acrylic Copolymer"
+        ],
+        "End Uses": [
+            "Barrier Coating",
+            "Varnishes"
+        ],
+        "Glass Transition Temperature (Tg):": [
+            "5.0 - 5.0 °C"
+        ],
+        "Features": [
+            "Low Cobb Values",
+            "Low Foaming",
+            "Fast Drying",
+            "Improved Flexibility",
+            "Low Moisture Vapor Transmission Rate (MVTR)"
+        ]
+    }
+}

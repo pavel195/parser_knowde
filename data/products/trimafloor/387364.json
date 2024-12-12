@@ -1,0 +1,50 @@
+{
+    "id": 387364,
+    "brand": "trimafloor",
+    "name": "Trimafloor 2500",
+    "slug": "trimafloor-2500",
+    "description": "Trimafloor 2500 is a water based acrylic, single pack floor paint.",
+    "company_name": "Trimite",
+    "company_slug": "trimite",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520320/production/Brand/29076/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608490/production/CategoryImage/563/category_image/BuildingConstruction_07.jpg",
+    "properties": {
+        "Applications": [
+            "Flooring & Surfaces",
+            "Floor Coatings"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "1K (1 component) Coating",
+            "Waterborne Coating"
+        ],
+        "Features": [
+            "Good Grease Resistance",
+            "Anti-Slip",
+            "Water Resistant",
+            "Oil Resistant",
+            "High Gloss"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Concrete",
+            "Painted Surfaces",
+            "Wood",
+            "Asphalt"
+        ],
+        "Application Method": [
+            "Roller",
+            "Brush"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    }
+}

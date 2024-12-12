@@ -1,0 +1,66 @@
+{
+    "id": 317660,
+    "brand": "polymat",
+    "name": "POLYROV DR",
+    "slug": "polyrov-dr",
+    "description": "Polyrov DR is an E-CR single end direct roving specifically designed for use in Weaving, Pultrusion and Filament Winding processes. With a consistent unwinding tension, the direct rovings also offer superb processability with high productivity levels, low fuzz, low static and fast resin wet-out",
+    "company_name": "Scott & Fyfe",
+    "company_slug": "scott-fyfe",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686149416/production/Product/317660/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608779/production/CategoryImage/578/category_image/AutomotiveTransportation_06.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Marine",
+            "Chemical & Industrial Manufacturing",
+            "Oil, Gas & Mining",
+            "Transportation",
+            "Pipes & Plumbing",
+            "Pipes & Tanks",
+            "Equipment & Parts",
+            "Refining & Gas Processing"
+        ],
+        "Product Families": [
+            "Reinforcements",
+            "Glass Fiber"
+        ],
+        "Chemical Family": [
+            "Glass Beads & Fibers"
+        ],
+        "End Uses": [
+            "Pipes",
+            "FRP Boats"
+        ]
+    },
+    "summary": {
+        "Reinforcement Material": [
+            "Glass Fibers"
+        ],
+        "Reinforcement Form": [
+            "Roving"
+        ],
+        "Compatible Polymers & Resins": [
+            "Polyurethanes (PU)",
+            "Unsaturated Polyester (UPE)",
+            "Vinyl Esters"
+        ],
+        "Processing Methods": [
+            "Pultrusion",
+            "Filament Winding"
+        ],
+        "Features": [
+            "Easy Handling",
+            "Chemical Resistance",
+            "Chemical Resistant",
+            "Easier Processing",
+            "Ease of Handling",
+            "Excellent Mechanical Strength",
+            "Electrically Insulating",
+            "Water Resistant",
+            "Excellent Dielectric Properties",
+            "Water Resistance",
+            "Good Electrical Properties",
+            "Temperature Resistance"
+        ]
+    }
+}

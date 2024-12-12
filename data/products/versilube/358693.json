@@ -1,0 +1,40 @@
+{
+    "id": 358693,
+    "brand": "versilube",
+    "name": "Novagard® G641",
+    "slug": "novagard-g641",
+    "description": "Novagard® G641 is a heat transfer compound that is formulated with select polydimethyl siloxane fluids in combination with metallic oxide fillers to provide superior thermal conductivity.",
+    "company_name": "Novagard",
+    "company_slug": "novagard",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680108925/production/Brand/26763/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Other Electrical & Electronics Applications",
+            "Chemical & Industrial Manufacturing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Heat Transfer Fluids",
+            "Fluids & Lubricants"
+        ],
+        "Chemical Family": [
+            "Siloxanes"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Heat Transfer Fluid"
+        ],
+        "Application Area": [
+            "Electrical Components"
+        ],
+        "Features": [
+            "Good Thermal Conductivity",
+            "Long Shelf Life"
+        ],
+        "Chemical Family": [
+            "Siloxanes"
+        ]
+    }
+}

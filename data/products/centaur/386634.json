@@ -1,0 +1,51 @@
+{
+    "id": 386634,
+    "brand": "centaur",
+    "name": "FILTRASORB® 816M",
+    "slug": "filtrasorb-816m",
+    "description": "FILTRASORB® 816M is a granular activated carbon (GAC) developed by Calgon Carbon Corporation for the removal of contaminants from municipal drinking water. These contaminants include taste and odor compounds such as MIB and Geosmin, organic compounds known to be precursors to disinfection byproduct (DBP) formation, DBP compounds such as haloacetic acids and trihalomethanes, contaminants of emerging concern (CECs), such as endocrine disrupting compounds (EDCs) and pharmaceutical and personal care products (PPCPs), and other targeted organic contaminants.",
+    "company_name": "Calgon Carbon",
+    "company_slug": "calgon-carbon",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708689430/production/Brand/28944/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Water Treatment",
+            "Power, Water & Utilities"
+        ],
+        "Product Families": [
+            "Filtration Media",
+            "Water Treatment Chemicals"
+        ],
+        "Chemical Family": [
+            "Active Carbon"
+        ],
+        "End Uses": [
+            "Swimming Pools",
+            "Ponds"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Active Carbon"
+        ],
+        "Functions": [
+            "Absorbent"
+        ],
+        "End Uses": [
+            "Ponds",
+            "Swimming Pools"
+        ],
+        "Applicable Processes": [
+            "Groundwater Treatment",
+            "Aquaculture",
+            "Water Reclamation",
+            "Sewage Treatment",
+            "Brewing",
+            "Drinking Water Treatment"
+        ],
+        "Features": [
+            "High Mechanical Properties"
+        ]
+    }
+}

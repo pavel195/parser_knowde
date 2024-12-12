@@ -1,0 +1,44 @@
+{
+    "id": 431488,
+    "brand": "panatura",
+    "name": "Hefe Schweiz AG DiaMalt Dry",
+    "slug": "hefe-schweiz-ag-diamalt-dry",
+    "description": "Hefe Schweiz AG DiaMalt Dry is a gently dried malt extract with diastatic activity. DiaMalt dry can be added directly to the flour and gives the dough a racy drive. Due to the small amount used, this barley malt extract is economical to use and can be dosed precisely.",
+    "company_name": "Hefe Schweiz AG",
+    "company_slug": "hefe-schweiz-ag",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686109802/production/Company/23720/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607305/production/CategoryImage/515/category_image/FoodNutrition_15.jpg",
+    "properties": {
+        "Applications": [
+            "Food",
+            "Bakery"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Flours & Grains Products"
+        ],
+        "End Uses": [
+            "Pastries",
+            "Bread",
+            "Cakes"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Malt Extract"
+        ],
+        "Labeling Claims": [
+            "Halal",
+            "Kosher"
+        ],
+        "Certifications & Compliance": [
+            "Kosher",
+            "IFS Certified",
+            "Halal"
+        ],
+        "Features": [
+            "Provides Crispy Texture",
+            "Improved Crispiness"
+        ]
+    }
+}

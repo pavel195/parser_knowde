@@ -1,0 +1,82 @@
+{
+    "id": 79305,
+    "brand": "everbond",
+    "name": "Rice Tein NPNF®",
+    "slug": "tri-k-industries-inc-rice-tein-npnf",
+    "description": null,
+    "company_name": "TRI-K Industries, Inc.",
+    "company_slug": "tri-k-industries-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1671652796/production/Product/79305/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,c_crop,x_295,y_0,w_1267,h_396/v1717530041/production/Company/1448/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Bath & Shower",
+            "Treatment Products",
+            "Hair Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Skin Actives",
+            "Conditioners & Emollients",
+            "Hair Actives",
+            "Cosmetic Actives",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Hydrolyzed Rice Protein"
+        ],
+        "End Uses": [
+            "Scalp Scrub",
+            "Hair Treatment & Repair",
+            "Hair Styling Products",
+            "Hair Conditioner",
+            "Shampoos & Rinses",
+            "Hair Masks"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Hydrolyzed Rice Protein"
+        ],
+        "Functions": [
+            "Conditioner",
+            "Anti-Irritant"
+        ],
+        "Labeling Claims": [
+            "Clean at Sephora",
+            "Formaldehyde-free",
+            "Ulta Beauty's Conscious Beauty",
+            "Non-GMO",
+            "Credo Clean Standard",
+            "Paraben-free",
+            "Gluten-free",
+            "Organic",
+            "Natural",
+            "Sustainable"
+        ],
+        "Certifications & Compliance": [
+            "Organic Certified",
+            "COSMOS",
+            "ECOCERT",
+            "IECIC (China)"
+        ],
+        "Benefit Claims": [
+            "Volumizing",
+            "Conditioning",
+            "Good Wet Combing",
+            "Suitable for Sensitive Skin",
+            "Substantivity",
+            "Anti-Irritant",
+            "Mild",
+            "Moisturizing",
+            "Shine & Radiance",
+            "Scalp Protection Effect",
+            "Nourishing",
+            "Softening",
+            "Ease of Styling",
+            "Manageability",
+            "Good Dry Combing",
+            "Penetrating"
+        ]
+    }
+}

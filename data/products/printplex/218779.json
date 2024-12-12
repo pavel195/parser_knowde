@@ -1,0 +1,55 @@
+{
+    "id": 218779,
+    "brand": "printplex",
+    "name": "AGITAN® 109",
+    "slug": "agitan-109",
+    "description": "AGITAN 109 is an emulsion with excellent stability and defoaming persistency. The defoamer is miscible with water in all ratios. It's recommended for architectural coatings, building products, printing inks, adhesives and polymerization processes.",
+    "company_name": "Munzing",
+    "company_slug": "munzing",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708683437/production/Company/8817/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708683437/production/Company/8817/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Other Printing Applications",
+            "Other Adhesives & Sealants Applications",
+            "Water Treatment",
+            "Coated Paper & Paperboard",
+            "Architectural Coatings",
+            "Paper & Pulp",
+            "Power, Water & Utilities",
+            "Printing & Inks",
+            "Building Envelope & Roofing"
+        ],
+        "Product Families": [
+            "Foam Control",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Silica",
+            "Blends & Combinations"
+        ],
+        "End Uses": [
+            "Waterborne Adhesive",
+            "Waterborne Ink",
+            "Waterborne Coating"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Defoamer"
+        ],
+        "Chemical Family": [
+            "Silica",
+            "Blends & Combinations"
+        ],
+        "End Uses": [
+            "Waterborne Ink",
+            "Waterborne Coating",
+            "Waterborne Adhesive"
+        ],
+        "Labeling Claims": [
+            "Silicone-free",
+            "Bio-based"
+        ]
+    }
+}

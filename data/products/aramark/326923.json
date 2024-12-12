@@ -1,0 +1,47 @@
+{
+    "id": 326923,
+    "brand": "aramark",
+    "name": "ARAMARK - 301 GREEN",
+    "slug": "aramark-201",
+    "description": "ARAMARK-30 emulsions are formaldehyde-free, fluorescent, waterborne acrylic-pigment-emulsions especially for use in highlighter/marker pens after dilution in demineralized water",
+    "company_name": "Aralon Color GmbH",
+    "company_slug": "aralon-color-gmbh",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708524822/production/Company/25971/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Inkjet Printing",
+            "Coated Paper & Paperboard",
+            "Stationery, Art & Office Supplies",
+            "Paper & Pulp",
+            "Printing & Inks"
+        ],
+        "Product Families": [
+            "Color Pigments",
+            "Photoluminescent Pigments",
+            "Acrylics",
+            "Pigments & Colorants",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ],
+        "End Uses": [
+            "Inkjet Ink"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ],
+        "Pigment Type": [
+            "Fluorescent"
+        ],
+        "Color": [
+            "Green (Fluorescent)"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Paper"
+        ]
+    }
+}

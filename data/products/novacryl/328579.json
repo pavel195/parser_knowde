@@ -1,0 +1,50 @@
+{
+    "id": 328579,
+    "brand": "novacryl",
+    "name": "Nova Polymers Inc. LPATLANTISBLUE1924M",
+    "slug": "nova-polymers-inc-lpatlantisblue1924m",
+    "description": "LPATLANTISBLUE1924M is a Wilsonart Atlantis Blue / .032” Photopolymer.",
+    "company_name": "Nova Polymers Inc.",
+    "company_slug": "nova-polymers-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686150094/production/Brand/24413/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608490/production/CategoryImage/563/category_image/BuildingConstruction_07.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Flooring & Surfaces",
+            "Wall Panels",
+            "Wallcovering & Decorative Laminates",
+            "Decorative Materials & Finishes",
+            "Wallcoverings & Decorative Laminates",
+            "Interior Fixtures"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ],
+        "Polymer Name": [
+            "Acrylic Resin"
+        ],
+        "End Uses": [
+            "Displays",
+            "Screen Printing"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Acrylic Resin"
+        ],
+        "Physical Form": [
+            "Sheets"
+        ],
+        "Features": [
+            "Medium Gloss",
+            "Resilient"
+        ],
+        "Color": [
+            "Blue"
+        ]
+    }
+}

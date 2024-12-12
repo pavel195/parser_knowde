@@ -1,0 +1,40 @@
+{
+    "id": 301070,
+    "brand": "fiexiso",
+    "name": "Fiexiso® FI 13014",
+    "slug": "fiexiso-fi-13014",
+    "description": "Fiexiso® FI 13014 is a milky, turbid, highly rugged polyester film. This film has good machine running properties, high dimensional stability and good flatness.",
+    "company_name": "Dr. D. Mueller",
+    "company_slug": "dr-d-mueller",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686149853/production/Company/24190/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Power, Water & Utilities",
+            "Electrical Protection",
+            "Other Electrical & Electronics Applications"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Polyesters",
+            "Polyethylene Terephthalate (PET)"
+        ],
+        "Polymer Name": [
+            "Polyethylene Terephthalate (PET)"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyethylene Terephthalate (PET)"
+        ],
+        "Physical Form": [
+            "Film"
+        ],
+        "Features": [
+            "Good Machinability",
+            "Dimensional Stability"
+        ]
+    }
+}

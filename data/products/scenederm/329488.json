@@ -1,0 +1,42 @@
+{
+    "id": 329488,
+    "brand": "scenederm",
+    "name": "Spiruderm® Spirulina Extract",
+    "slug": "spiruderm-spirulina-extract",
+    "description": "Spiruderm® Spirulina Extract is a cyanobacterium, or blue-green algae, belonging to the arthrospira genus. The most common species are spirulina maxima and arthrospira platensis. Spirulina contains around 60% protein in dry form. It is a source of antioxidants, strengthens the immune system and improves the tone and vitality of the body.Like all microalgae, Spirulina must however be considered with caution to ensure its quality. Cultivation must be managed with rigor and attention to detail in order to avoid the development of elements which are harmful to humans, such as heavy metals.Spirulina is largely made up (80%) of hydrophilic elements: proteins, minerals, polysaccharides and water-soluble vitamins. Inside the cell, water is used to transport the majority of Spirulina metabolites and plays the role of natural support. Thus, water is fundamental to its survival and to the activities of most of its constituents. As a result, the drying of Spirulina eliminates most of this interior water, causing the death of the cell which can no longer ensure its vital functions. Drying therefore profoundly modifies the structure of Spirulina and its metabolites. This is one of the reasons for the liquid form of AlgoSource extracts.",
+    "company_name": "Algosource",
+    "company_slug": "algosource",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708698081/production/Brand/23778/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608071/production/CategoryImage/544/category_image/HomePersonalCare_10.jpg",
+    "properties": {
+        "Product Families": [
+            "Botanical Ingredients & Extracts",
+            "Skin Actives",
+            "Sensory Modifiers",
+            "Marine Extracts",
+            "Cosmetic Actives",
+            "Vitamins, Extracts & Oils",
+            "Functionals"
+        ]
+    },
+    "summary": {
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Marine Origin",
+            "Plant Origin"
+        ],
+        "Functions": [
+            "Smoothing Agent",
+            "Anti-Wrinkle Agent"
+        ],
+        "Labeling Claims": [
+            "Natural"
+        ],
+        "Benefit Claims": [
+            "Anti-Wrinkle",
+            "Smoothing",
+            "Moisturizing",
+            "Antioxidant Properties"
+        ]
+    }
+}

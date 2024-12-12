@@ -1,0 +1,38 @@
+{
+    "id": 393167,
+    "brand": "blackon",
+    "name": "BLACKON SS",
+    "slug": "blackon-ss",
+    "description": "BLACKON SS is a blackening process that produces a black oxide finish on a variety of stainless steels, cast iron as well as mild steel low carbon steels. The coatings produced with Blackon - SS complies to mil-DTL-13924D, Class 4.",
+    "company_name": "MAR-Tech Holdings",
+    "company_slug": "mar-tech-holdings",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680109289/production/Brand/29630/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608566/production/CategoryImage/566/category_image/PaintingsCoatings_02.jpg",
+    "properties": {
+        "Applications": [
+            "Metal Manufacturing & Finishing",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Processing Additives",
+            "Metal Processing Additives"
+        ],
+        "Chemical Family": [
+            "Iron Oxides",
+            "Iron & Iron Compounds"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Iron Oxides",
+            "Iron & Iron Compounds"
+        ],
+        "Applicable Processes": [
+            "Metal Plating"
+        ],
+        "Features": [
+            "Excellent Adhesion",
+            "Water Soluble"
+        ]
+    }
+}

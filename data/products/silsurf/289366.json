@@ -1,0 +1,69 @@
+{
+    "id": 289366,
+    "brand": "silsurf",
+    "name": "Silmer® Q9 IDD",
+    "slug": "silmer-q9-idd",
+    "description": "Silmer® Q9 IDD is a series of MQ resins which consist of tetrafunctional Q group ( silicon surrounded by four oxygen groups) endcapped with mono functional M group ( silicon with one oxygen group). These resins can vary in molecular weight and crosslinking density so that they can vary from liquid pourable resins at low molecular weight to film formers which are provided in solvent at higher molecular weights and crosslink densities.",
+    "company_name": "Siltech",
+    "company_slug": "siltech",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708685255/production/Product/289366/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708685255/production/Product/289366/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Sun Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Sensory Modifiers",
+            "Film Formers",
+            "Conditioners & Emollients",
+            "Functionals"
+        ],
+        "Chemical Family": [
+            "Silicon-based Compounds"
+        ],
+        "INCI Name": [
+            "Trimethylsiloxysilicate"
+        ],
+        "End Uses": [
+            "Sunscreen Cream",
+            "Sunscreen Moisturizer",
+            "Sunscreen Makeup",
+            "Sunscreen Lip Balm",
+            "Baby Sunscreen",
+            "Mascara",
+            "Lip Gloss",
+            "Foundation",
+            "Eye Shadow"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Trimethylsiloxysilicate"
+        ],
+        "Functions": [
+            "Conditioner",
+            "Softener",
+            "Waterproofing Agent",
+            "Film Former"
+        ],
+        "Labeling Claims": [
+            "Ulta Beauty's Conscious Beauty",
+            "Credo Clean Standard",
+            "Clean at Sephora"
+        ],
+        "Benefit Claims": [
+            "Soft Feel",
+            "Compatibility",
+            "Film Forming",
+            "Water Repellency",
+            "Powdery Feel",
+            "Color Extension",
+            "Waterproof",
+            "Pigment Wetting",
+            "Stabilizing",
+            "Conditioning",
+            "Smooth Feel"
+        ]
+    }
+}

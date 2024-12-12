@@ -1,0 +1,38 @@
+{
+    "id": 253550,
+    "brand": "bovaid",
+    "name": "Weedenz™ Rapid",
+    "slug": "weedenz-rapid",
+    "description": "Contains 700g/litre of plant derived fatty acids in the form of an emulsifiable concentrate Glyphosate 100 g/litre + terbuthylazine 350 g/litre + amitrole 60 g/litre + 15 g/litre oxyfluorfen Rapid knockdown activity desiccates and kills a range of annual weeds and grasses. Repeat spraying can kill some perennial weeds.",
+    "company_name": "Orion Agroscience",
+    "company_slug": "orion-agroscience",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708683850/production/Company/19294/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708683850/production/Company/19294/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Agricultural Pest Control",
+            "Other Agricultural Crops",
+            "Fruits",
+            "Agricultural Crops",
+            "Pest Control"
+        ],
+        "Product Families": [
+            "Herbicides",
+            "Crop Protection & Pest Control"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Herbicide"
+        ],
+        "Herbicide Target Species": [
+            "Broadleafs"
+        ],
+        "Application Technique": [
+            "Sprayers"
+        ],
+        "Formulation Type": [
+            "Emulsifiable Concentrates"
+        ]
+    }
+}

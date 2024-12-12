@@ -1,0 +1,37 @@
+{
+    "id": 344097,
+    "brand": "big-gain",
+    "name": "Elite High Risk Calf Starter",
+    "slug": "elite-high-risk-calf-starter",
+    "description": "Elite High Risk Calf Starter is designed to be fed to calves up to 650 pounds upon arrival at the feedlot.This product is also well suited to heavier cattle that are malnourished or under extreme stress upon arrival.The combination of all natural, highly digestible proteins, elevated vitamin and trace minerals, along with other additives, makes this an extremely palatable and reliable starter feed.",
+    "company_name": "Big Gain Wisconsin",
+    "company_slug": "big-gain-wisconsin",
+    "logo_url": null,
+    "banner_url": "https://media.knowde.com/image/upload/v1625608238/production/CategoryImage/552/category_image/AgricultureFeed_08.jpg",
+    "properties": {
+        "Applications": [
+            "Ruminants",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Proteins & Amino Acids",
+            "Feed Supplements",
+            "Nutrient Premixes",
+            "Plant Proteins",
+            "Nutrition & Fortification",
+            "Nutritional Ingredients"
+        ]
+    },
+    "summary": {
+        "Animal Species": [
+            "Calves"
+        ],
+        "Ingredient Origin": [
+            "Plant Origin"
+        ],
+        "Labeling Claims": [
+            "Naturally Derived",
+            "Plant-Based"
+        ]
+    }
+}

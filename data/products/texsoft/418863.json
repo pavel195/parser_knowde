@@ -1,0 +1,40 @@
+{
+    "id": 418863,
+    "brand": "texsoft",
+    "name": "Texsoft ZZR",
+    "slug": "texsoft-zzr",
+    "description": "Texsoft ZZR is a tissue softener, a specialist water-borne lotion for application to tissue / toilet roll fabrics to provide a super smooth &amp; soft, comfortable finish. Texsoft ZZR can be enriched with various addiives to give consumer added benefits.",
+    "company_name": "Texchem UK",
+    "company_slug": "texchem-uk",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708673185/production/Brand/32827/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Pulping & Processing",
+            "Paper & Pulp"
+        ],
+        "Product Families": [
+            "Finishing Additives & Treatments",
+            "Paper & Pulp Chemicals"
+        ],
+        "End Uses": [
+            "Toilet Roll Fabrics",
+            "Paper Tissue",
+            "Paper & Pulp"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Softener",
+            "Tissue Lotion"
+        ],
+        "End Uses": [
+            "Toilet Roll Fabrics",
+            "Paper Tissue",
+            "Paper & Pulp"
+        ],
+        "Features": [
+            "Smoothness"
+        ]
+    }
+}

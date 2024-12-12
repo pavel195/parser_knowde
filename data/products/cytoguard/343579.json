@@ -1,0 +1,61 @@
+{
+    "id": 343579,
+    "brand": "cytoguard",
+    "name": "Texta Blé Pois C",
+    "slug": "texta-ble-pois-c",
+    "description": "Texta Blé Pois C is a textured wheat and pea protein chunks",
+    "company_name": "A&B Ingredients",
+    "company_slug": "a-b-ingredients",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1713789125/production/Company/22382/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1713789125/production/Company/22382/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Meat Substitutes",
+            "Food"
+        ],
+        "Product Families": [
+            "Proteins & Amino Acids",
+            "Plant Proteins",
+            "Vegetable Products & Extracts",
+            "Nutrition & Fortification",
+            "Whole Foods, Extracts & Premixes"
+        ],
+        "Ingredient Name": [
+            "Wheat & Pea Protein"
+        ],
+        "End Uses": [
+            "Meat Substitutes"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Wheat & Pea Protein"
+        ],
+        "Ingredient Origin": [
+            "Plant Origin",
+            "Natural Origin",
+            "Vegetable Origin"
+        ],
+        "Labeling Claims": [
+            "Naturally Derived",
+            "Halal",
+            "Plant-Based",
+            "Natural",
+            "GMO-free",
+            "Kosher",
+            "Allergen-free",
+            "Clean Label",
+            "Soy-free"
+        ],
+        "Protein Content": [
+            "66.4 - 66.4 %"
+        ],
+        "Certifications & Compliance": [
+            "Kosher",
+            "Halal"
+        ],
+        "Physical Form": [
+            "Chunks"
+        ]
+    }
+}

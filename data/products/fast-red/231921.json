@@ -1,0 +1,31 @@
+{
+    "id": 231921,
+    "brand": "fast-red",
+    "name": "Dyrox Chemicals Zinc Chrome Yellow 109",
+    "slug": "dyrox-chemicals-zinc-chrome-yellow-109",
+    "description": "Inorganic Pigment",
+    "company_name": "Dyrox Chemicals",
+    "company_slug": "dyrox-chemicals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708526135/production/Company/16399/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609091/production/CategoryImage/594/category_image/PrintingPackaging_05.jpg",
+    "properties": {
+        "Applications": [
+            "Other Printing Applications",
+            "Other Paints & Coatings Applications",
+            "Printing & Inks"
+        ],
+        "Product Families": [
+            "Inorganic Pigments",
+            "Color Pigments",
+            "Pigments & Colorants"
+        ]
+    },
+    "summary": {
+        "Color": [
+            "Yellow"
+        ],
+        "Pigment Type": [
+            "Inorganic Pigments"
+        ]
+    }
+}

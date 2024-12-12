@@ -1,0 +1,42 @@
+{
+    "id": 426414,
+    "brand": "syn-setral",
+    "name": "MI-setral -FKR 0",
+    "slug": "mi-setral-fkr-0",
+    "description": "Setral MI-Setral-FKR 0 is a light H1 multi-purpose grease for the food, beverage and pharmaceutical industries. It is NSF H1: 139251 registered.",
+    "company_name": "Setral",
+    "company_slug": "setral",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664436011/production/Brand/33752/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Food & Beverage Packaging",
+            "Packaging"
+        ],
+        "Product Families": [
+            "Greases",
+            "Fluids & Lubricants"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Grease"
+        ],
+        "Application Areas": [
+            "Gears",
+            "Armatures",
+            "Pharmaceutical Packaging",
+            "Sliding Guides For Packaging Lines",
+            "Bearings",
+            "Tap Cocks"
+        ],
+        "Features": [
+            "Anti-Wear Properties",
+            "Oxidation Resistant",
+            "Improved Tear Resistance",
+            "Corrosion Resistant",
+            "Water Resistant",
+            "Alkali Resistant"
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": 326406,
+    "brand": "synthan",
+    "name": "Synthan A-92",
+    "slug": "synthan-a-92",
+    "description": "Synthan A-92 is Moisture curing prepolymer based on aromatic polyisocyanate.",
+    "company_name": "Synthecoat",
+    "company_slug": "synthecoat",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686148768/production/Company/31011/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608600/production/CategoryImage/568/category_image/PaintingsCoatings_04.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Building & Construction",
+            "Grouts & Mortars",
+            "Other Paints & Coatings Applications",
+            "Concrete Coatings & Stains"
+        ],
+        "Product Families": [
+            "Intermediates",
+            "Monomers & Intermediates",
+            "Prepolymers & Polyols"
+        ],
+        "Chemical Family": [
+            "Polyisocyanates"
+        ],
+        "End Uses": [
+            "1K (1 component) Coating",
+            "Primer"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Polyisocyanates"
+        ],
+        "Compatible Polymers & Resins": [
+            "Cement"
+        ]
+    }
+}

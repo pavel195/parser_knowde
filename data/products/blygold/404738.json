@@ -1,0 +1,47 @@
+{
+    "id": 404738,
+    "brand": "blygold",
+    "name": "Blygold® Casing guard",
+    "slug": "blygold-casing-guard",
+    "description": "Blygold® Casing guard is for the most severe exposure conditions. HVAC equipment at oil platforms, coastal environments or wastewater plants are examples where the system has a long track record. All reasonable accessible surfaces are thoroughly pretreated , primed with Refamac 3509 and finished with Refamac 3800. The primer creates excellent adhesion to OEM coatings and bare metals, special metallic pigments provide the first corrosion protective barrier. The finishing coating “3800” is designed to create coverage even on vulnerable sharp edges. The thin layer technology creates a smooth and extremely protective finish with limited layer thickness.",
+    "company_name": "Blygold International BV",
+    "company_slug": "blygold-international-bv",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680108902/production/Brand/30955/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Power, Water & Utilities",
+            "Water Treatment",
+            "Other Oil, Gas & Mining Applications",
+            "Chemical & Industrial Manufacturing",
+            "Oil, Gas & Mining",
+            "Other Building Materials",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers",
+            "Protective Coatings"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Primer"
+        ],
+        "Application Area": [
+            "Heat Exchangers"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Plastics",
+            "Steel",
+            "Metal"
+        ],
+        "Features": [
+            "Corrosion Resistant",
+            "Abrasion Resistant",
+            "Good Smoothness",
+            "Good UV Resistance"
+        ]
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "id": 298957,
+    "brand": "hi-prene",
+    "name": "Kixx Compressor P ISO VG 32",
+    "slug": "kixx-compressor-p-iso-vg-32",
+    "description": "Kixx Compressor P are blended from selected high quality paraffinic base oils. A well balanced additive package provides excellent oxidation resistance, corrosion protection, and outstanding EP characteristics. It provides a smooth, economical compressor operation especially under severe conditions. Range of mineral compressor lubricants, meeting DIN 51 506 class VDL specifications and exhibiting high load carrying capacity.",
+    "company_name": "GS-Caltex",
+    "company_slug": "gs-caltex",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680108895/production/Company/23716/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical & Industrial Manufacturing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Lubricants & Oils",
+            "Fluids & Lubricants"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Lubricant",
+            "Oil"
+        ],
+        "Application Area": [
+            "Reciprocating Compressors",
+            "Compressors",
+            "Rotary Vane Compressors",
+            "Rotary Screw Compressors"
+        ],
+        "Features": [
+            "Defoaming",
+            "High Loading Absorption Capability",
+            "High Performance",
+            "Oxidation Resistant",
+            "Corrosion Resistant",
+            "Cost Effective"
+        ]
+    }
+}

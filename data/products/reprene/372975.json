@@ -1,0 +1,35 @@
+{
+    "id": 372975,
+    "brand": "reprene",
+    "name": "Reprene 7307",
+    "slug": "reprene-7307",
+    "description": "Reprene 7307 is a one-component contact adhesive. Polychloroprene and solvents-based. It can be used in the covering, footwear, leather goods, luggage, foam industries, etc. It is an adhesive with vast fields of application.",
+    "company_name": "Cipade S.A.",
+    "company_slug": "cipade",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691741314/production/Brand/27861/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1691741314/production/Company/44014/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Coated Paper & Paperboard",
+            "Other Leather Applications",
+            "Interior",
+            "Textile Manufacturing",
+            "Leather Manufacturing",
+            "Luggage & Leather Goods",
+            "Footwear",
+            "Leather",
+            "Paper & Pulp",
+            "Textiles & Nonwovens",
+            "Leather & Textiles",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Contact Adhesives",
+            "Adhesives & Sealants"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ]
+    },
+    "summary": {}
+}

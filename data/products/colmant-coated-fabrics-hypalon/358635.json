@@ -1,0 +1,53 @@
+{
+    "id": 358635,
+    "brand": "colmant-coated-fabrics-hypalon",
+    "name": "Colmant Coated Fabrics BUTYL (IIR) RUBBER SHEET",
+    "slug": "colmant-coated-fabrics-butyl-iir-rubber-sheet",
+    "description": "Colmant Coated Fabrics Butyl (IIR) Rubber Sheet is a synthetic rubber developed in the 1940’s. It has exceptionally low gas permeability making it ideal for inner tubes and high pressure/vacuum sealing applications. Its very low resilience makes it suitable for shock and vibration damping. Its chemical unsaturation gives it excellent resistance to heat, ozone, and weathering, and also to dilute acids and alkalis. It is not suitable for use in mineral or petroleum based fluids.",
+    "company_name": "Colmant Coated Fabrics",
+    "company_slug": "colmant-coated-fabrics",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686149804/production/Company/26375/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608693/production/CategoryImage/573/category_image/AutomotiveTransportation_01.jpg",
+    "properties": {
+        "Applications": [
+            "Fuel Systems",
+            "Cooling & Climate",
+            "Chemical & Industrial Manufacturing",
+            "Automotive",
+            "Other Industrial Applications"
+        ],
+        "Product Families": [
+            "Parts & Shapes"
+        ],
+        "Polymer Name": [
+            "Butyl Rubber (IIR)"
+        ],
+        "End Uses": [
+            "Tubes"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Butyl Rubber (IIR)"
+        ],
+        "Physical Form": [
+            "Sheets"
+        ],
+        "Features": [
+            "Shock Resistant",
+            "Good Weather Stability",
+            "Low Gas Permeability",
+            "Acid Resistant",
+            "Skid Resistant",
+            "Low Resilience",
+            "Ozone Resistant",
+            "UV Resistant",
+            "Alkali Resistant",
+            "Very Good Heat Resistance",
+            "Vibration Damping"
+        ],
+        "End Uses": [
+            "Tubes"
+        ]
+    }
+}

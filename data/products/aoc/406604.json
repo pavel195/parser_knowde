@@ -1,0 +1,46 @@
+{
+    "id": 406604,
+    "brand": "aoc",
+    "name": "AOC® USH-0554",
+    "slug": "aoc-ush-0554",
+    "description": "AOC® USH-0554 is a water-soluble AOC® polymer coating that makes implants easier to insert into tissue pockets by reducing \"tissue grab.\" The coating prevents debris from accumulating within the implant's pores. Uncoated versions are also available.",
+    "company_name": "Ceremed",
+    "company_slug": "ceremed",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686150461/production/Brand/31339/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608502/production/CategoryImage/564/category_image/BuildingConstruction_08.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Flooring & Surfaces",
+            "Wall Panels",
+            "Other Flooring & Surface Applications"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Polyethylenes",
+            "Polyolefins"
+        ],
+        "Polymer Name": [
+            "High Density Polyethylene (HDPE)"
+        ],
+        "End Uses": [
+            "Flooring",
+            "Wall Panels"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "High Density Polyethylene (HDPE)"
+        ],
+        "Physical Form": [
+            "Sheets"
+        ],
+        "Features": [
+            "High Porosity",
+            "Water Soluble",
+            "Biocompatible"
+        ]
+    }
+}

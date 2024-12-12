@@ -1,0 +1,42 @@
+{
+    "id": 328365,
+    "brand": "millerplex",
+    "name": "Science™ Bean Mix",
+    "slug": "science-bean-mix",
+    "description": "In the presence of non-chelated micronutrients, Glyphosate activity is reduced because it reacts with certain nutrients. Science™ Bean Mix uses EDTA chelates to prevent this from occurring. Once Glyphosate enters the soybean plant, it’s active chelation of specific minerals, especially Mn, causes a partial physiological disruption. Glyphosate Induced Manganese Deficiency (GIMD) can reduce root nodulation, N-fixation, drought stress, early maturity and even increase disease incidence. Science Bean Mix contains many essential micronutrients for soybean production, including high levels of Mn. Other important nutrients included are Zn, B, Fe, Mo, and Co. The addition of Mo and Co supports the plants ability to fix and reduce nitrogen to an available form.",
+    "company_name": "Miller Chemical & Fertilizer Corporation",
+    "company_slug": "miller-chemical-fertilizer-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708684673/production/Brand/23633/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608173/production/CategoryImage/547/category_image/AgricultureFeed_03.jpg",
+    "properties": {
+        "Applications": [
+            "Fodder & Forage",
+            "Fiber Crops",
+            "Oilseeds",
+            "Agricultural Crops"
+        ],
+        "Product Families": [
+            "Fertilizers & Nutrients",
+            "Plant Health, Nutrients & Soil Management"
+        ],
+        "Chemical Family": [
+            "Iron & Iron Compounds",
+            "Zinc & Zinc Compounds",
+            "Magnesium & Magnesium Compounds"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Micronutrient",
+            "Fertilizer"
+        ],
+        "Chemical Family": [
+            "Magnesium & Magnesium Compounds",
+            "Iron & Iron Compounds",
+            "Zinc & Zinc Compounds"
+        ],
+        "Application Technique": [
+            "Foliage Applied"
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": 232221,
+    "brand": "inktec",
+    "name": "InkTec 390G Pantone ® 807 Magenta",
+    "slug": "inktec-390g-pantone-807-magenta",
+    "description": "In answer to a demand in the printing market for faster and higher productivity Sterling Color has developed the 390G range of fluorescent offset inks. The 390G Series inks offer high color strength, minimal waste through rapid color achievement, excellent dot reproduction, stable printing, good drying and excellent rub resistance. Printing and finishing has to be fast, trouble-free and reliable. From an environmental concern 390G Series inks are vegetable oil based and do not use mineral oils.",
+    "company_name": "Sterling Colour",
+    "company_slug": "sterling-colour",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664287387/production/Company/16406/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609057/production/CategoryImage/591/category_image/PrintingPackaging_02.jpg",
+    "properties": {
+        "Applications": [
+            "Printing & Inks",
+            "Offset & Lithographic Printing"
+        ],
+        "Product Families": [
+            "Inks & Pastes",
+            "Offset & Lithographic Inks"
+        ]
+    },
+    "summary": {
+        "Features": [
+            "Good Printability",
+            "High Color Strength",
+            "Printability",
+            "Excellent Drying Properties"
+        ],
+        "Color": [
+            "Magenta (Fluorescent)"
+        ],
+        "Application Method": [
+            "Screen Coating"
+        ]
+    }
+}

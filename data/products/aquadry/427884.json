@@ -1,0 +1,33 @@
+{
+    "id": 427884,
+    "brand": "aquadry",
+    "name": "Avimix®",
+    "slug": "avimix",
+    "description": "Avimix is a nutritional supplement for poultry. Avimix with its complete supply of vitamins is recommended for breeders and layers during the reproduction cycle. AVIMIX allows to avoid deficiencies of vitamins from B group that can impact severely the general growth and reproduction performance of the poultry. Vitamins included in AVIMIX take part on the development of the embryo and so, contribute to maintain the laying peak and to improve the hatchability.",
+    "company_name": "Aquavial",
+    "company_slug": "aquavial",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708529751/production/Brand/34116/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608161/production/CategoryImage/546/category_image/AgricultureFeed_02.jpg",
+    "properties": {
+        "Applications": [
+            "Birds & Poultry",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Feed Supplements",
+            "Nutritional Ingredients"
+        ]
+    },
+    "summary": {
+        "Animal Species": [
+            "Laying Hens"
+        ],
+        "Features": [
+            "Improved Reproductive Efficiency",
+            "Balanced Amino Acids Profile",
+            "Improves Growth Performance",
+            "Improves Feed Conversion Ratio",
+            "Vitamin Rich"
+        ]
+    }
+}

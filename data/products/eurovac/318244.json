@@ -1,0 +1,34 @@
+{
+    "id": 318244,
+    "brand": "eurovac",
+    "name": "Eurocryl 940",
+    "slug": "eurocryl-940",
+    "description": "Eurocryl 940 is elastic for cementitious systems.",
+    "company_name": "Cebra Chemie",
+    "company_slug": "cebra-chemie",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112283/production/Company/29925/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608611/production/CategoryImage/569/category_image/PaintingsCoatings_05.jpg",
+    "properties": {
+        "Applications": [
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Resins & Binders",
+            "Acrylics"
+        ],
+        "Chemical Family": [
+            "Styrene-Acrylic Copolymer"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Styrene-Acrylic Copolymer"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Concrete"
+        ],
+        "Features": [
+            "Multi-Substrate Adhesion"
+        ]
+    }
+}

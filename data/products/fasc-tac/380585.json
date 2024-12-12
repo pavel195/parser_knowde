@@ -1,0 +1,40 @@
+{
+    "id": 380585,
+    "brand": "fasc-tac",
+    "name": "Fasc-Tac™ 307P",
+    "slug": "fasc-tac-307p",
+    "description": "Fasc-Tac™ 307P is an Acrylic Solution PSA used in thin film tapes and double sided tapes.",
+    "company_name": "South Coast Specialty Chemicals",
+    "company_slug": "south-coast-specialty-chemicals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112312/production/Brand/28481/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608929/production/CategoryImage/584/category_image/AdhesivesSealants_01.jpg",
+    "properties": {
+        "Applications": [
+            "Tapes & Labels",
+            "Packaging & Paper",
+            "Tapes, Labels & Adhesives",
+            "Tape & Label Adhesives"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Resins & Binders",
+            "Acrylics",
+            "Pressure Sensitive Adhesives & Tapes"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ],
+        "End Uses": [
+            "Pressure Sensitive Adhesive"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ],
+        "Ready-to-Use Product Type": [
+            "Solventborne Adhesive",
+            "Pressure Sensitive Adhesive"
+        ]
+    }
+}

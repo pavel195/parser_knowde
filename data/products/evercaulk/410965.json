@@ -1,0 +1,47 @@
+{
+    "id": 410965,
+    "brand": "evercaulk",
+    "name": "Everseal",
+    "slug": "everseal",
+    "description": "Everseal is 100% solids self leveling moisture cure sealant.",
+    "company_name": "Everest Systems",
+    "company_slug": "everest-systems",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520054/production/Brand/31957/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608465/production/CategoryImage/561/category_image/BuildingConstruction_05.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Construction Chemicals",
+            "Roofing",
+            "Sealants & Caulks",
+            "Building Envelope & Roofing",
+            "Waterproofing & Weatherproofing"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Caulks & Sealants"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "1K (1 component) Sealant",
+            "Solventless & High Solids Coating"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Polyvinyl Chloride (PVC)",
+            "Aluminum",
+            "Metal",
+            "Coated Surfaces",
+            "Steel",
+            "Ceramic",
+            "Fiberglass",
+            "Polyurethane",
+            "Concrete",
+            "Glass",
+            "Plastics"
+        ],
+        "Cure Method": [
+            "Moisture Cure"
+        ]
+    }
+}

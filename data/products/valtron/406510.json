@@ -1,0 +1,56 @@
+{
+    "id": 406510,
+    "brand": "valtron",
+    "name": "Valtron® SP2260",
+    "slug": "valtron-sp2260",
+    "description": "Valtron® SP2260 is a Noncaustic detergent containing surfactants for effective removal of hydrocarbons and particles.",
+    "company_name": "Valtech Corporation",
+    "company_slug": "valtech-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292325/production/Brand/31323/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608962/production/CategoryImage/587/category_image/AdhesivesSealants_04.jpg",
+    "properties": {
+        "Applications": [
+            "Surface Care",
+            "Commercial Laundry",
+            "Industrial Cleaning",
+            "Institutional & Industrial Care",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Industrial Cleaners",
+            "Commercial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Detergents",
+            "Cleaner",
+            "Degreasers"
+        ],
+        "Certifications & Compliance": [
+            "REACH (Europe)",
+            "ISO 9001"
+        ],
+        "Application Areas": [
+            "Precision Cleaner",
+            "Ultrasonic Cleaner"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Plastics",
+            "Glass",
+            "Nickel",
+            "Metal",
+            "Ceramic",
+            "Stainless Steel",
+            "Steel",
+            "Silicon"
+        ],
+        "Features": [
+            "Good Penetration",
+            "Excellent Rinsability",
+            "Excellent Sequestering Ability",
+            "Free Rinsing"
+        ]
+    }
+}

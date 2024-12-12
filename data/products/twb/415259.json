@@ -1,0 +1,38 @@
+{
+    "id": 415259,
+    "brand": "twb",
+    "name": "TWB™",
+    "slug": "twb",
+    "description": "TWB™ is the best Wheel Cleaning chemical in the industry This one truly does it all: the single most advanced chemical product ever created to perform so many jobs so well, Kaady Tire, Wheel and Body Cleaner is effective on all exterior surfaces. Its remarkable formula simplifies chemical management and inventory control by combining tire, wheel and body cleaning agents into one safe, highly concentrated formula.",
+    "company_name": "Kaady Chemical",
+    "company_slug": "kaady-chemical",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292680/production/Brand/32342/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515684/production/CategoryImage/1058/category_image/HII_10.jpg",
+    "properties": {
+        "Applications": [
+            "Home Care",
+            "Institutional & Industrial Care",
+            "Auto Care",
+            "Surface Care",
+            "Vehicle & Machinery"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Industrial Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner"
+        ],
+        "Application Areas": [
+            "White Wall Tire",
+            "Car",
+            "Hard Surfaces",
+            "Wheel"
+        ],
+        "Features": [
+            "Cost Effective"
+        ]
+    }
+}

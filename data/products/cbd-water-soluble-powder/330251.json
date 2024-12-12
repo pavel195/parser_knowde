@@ -1,0 +1,51 @@
+{
+    "id": 330251,
+    "brand": "cbd-water-soluble-powder",
+    "name": "Mile High Labs CBD Broad Spectrum Distillate",
+    "slug": "mile-high-labs-cbd-broad-spectrum-distillate",
+    "description": "Mile High Labs THC-Free Distillate is a broad-spectrum distillate with the THC removed using a proprietary extraction process. The result is an ingredient with 80–90% CBD potency, as well as terpenes and other minor cannabinoids such as CBG and CBN. Our validated testing method guarantees that our distillate is always below 0.1% THC.",
+    "company_name": "Mile High Labs",
+    "company_slug": "mile-high-labs",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708691639/production/Company/22961/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708691639/production/Product/330251/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Topical",
+            "Oral",
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being",
+            "Drug Delivery & Care Solutions"
+        ],
+        "Product Families": [
+            "Phytochemicals & Plant Extracts",
+            "Phytochemicals",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "Chemical Family": [
+            "Cannabinoids"
+        ],
+        "End Uses": [
+            "Nutraceuticals"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "CBD Distillate"
+        ],
+        "Functions": [
+            "Supplement",
+            "Dietary Supplement",
+            "Phytochemical"
+        ],
+        "Active Component": [
+            "Cannabinoids"
+        ],
+        "Physical Form": [
+            "Solid"
+        ],
+        "Features": [
+            "Suitable for Vegans"
+        ]
+    }
+}

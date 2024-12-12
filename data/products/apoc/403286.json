@@ -1,0 +1,43 @@
+{
+    "id": 403286,
+    "brand": "apoc",
+    "name": "APOC® 298B EPOXY PRIMER",
+    "slug": "apoc-298b-epoxy-primer",
+    "description": "APOC® 298B Epoxy Primer is a high performance primer designed to improve adhesion over difficult to adhere substrates for silicone coating applications. AP-298 is a 2 component (1 to 1 ratio) epoxy which sets up quickly and is ideal for many applications. Verify adhesion with peel test prior to application.",
+    "company_name": "Asphalt Products Oil Corp.",
+    "company_slug": "asphalt-products-oil-corp",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520358/production/Brand/30834/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608566/production/CategoryImage/566/category_image/PaintingsCoatings_02.jpg",
+    "properties": {
+        "Applications": [
+            "Packaging Coatings",
+            "Primers & Lacquers"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Primer",
+            "2K (2 component) Coating",
+            "Epoxy Coating"
+        ],
+        "Features": [
+            "Fast Setting",
+            "Improved Adhesion",
+            "High Performance"
+        ],
+        "Application Method": [
+            "Roller",
+            "Brush"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    }
+}

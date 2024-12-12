@@ -1,0 +1,38 @@
+{
+    "id": 419209,
+    "brand": "xziox",
+    "name": "International Water Solutions Mi-Pro",
+    "slug": "international-water-solutions-mi-pro",
+    "description": "Mi-Pro is a unique formula designed for the terminal disinfection of water lines at down times and turnarounds. Unlike other products Mi-Pro is safe to leave in the pipe work for several days and weeks without causing damage to pipework and fittings.",
+    "company_name": "International Water Solutions",
+    "company_slug": "international-water-solutions",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292556/production/Company/57052/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607098/production/CategoryImage/501/category_image/FoodNutrition_02.jpg",
+    "properties": {
+        "Applications": [
+            "Institutional & Catering",
+            "Food & Beverage Manufacturing",
+            "Processing & Packaging",
+            "Institutional & Industrial Care"
+        ],
+        "Product Families": [
+            "Other Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Disinfectant Products",
+            "Cleaner"
+        ],
+        "Application Areas": [
+            "Tanks",
+            "Water System",
+            "Potable Water Applications"
+        ],
+        "Features": [
+            "Bacteria Resistant",
+            "Stain Resistant"
+        ]
+    }
+}

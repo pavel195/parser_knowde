@@ -1,0 +1,31 @@
+{
+    "id": 307698,
+    "brand": "gemophene",
+    "name": "GEMALKYD 144 S/S",
+    "slug": "gemalkyd-144-s-s",
+    "description": null,
+    "company_name": "Gem Synthetics & Polymer",
+    "company_slug": "gem-synthetics-polymer",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697222762/production/Product/307698/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609128/production/CategoryImage/597/category_image/PrintingPackaging_08.jpg",
+    "properties": {
+        "Applications": [
+            "Other Industrial Coatings",
+            "Industrial Coatings",
+            "Other Printing & Packaging Applications",
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Alkyds",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Alkyds",
+            "Alkyds (Medium Oil)"
+        ],
+        "End Uses": [
+            "Enamel"
+        ]
+    },
+    "summary": {}
+}

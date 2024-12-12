@@ -1,0 +1,36 @@
+{
+    "id": 403551,
+    "brand": "chemeon",
+    "name": "Chemeon Cleaner 1000SP",
+    "slug": "chemeon-surface-technology-chemeon-cleaner-1000sp",
+    "description": "Chemeon Cleaner 1000SP is Heave duty cleaner for Tough soils, oils, grease, drawing and shop compounds, shop soils.\r\n",
+    "company_name": "CHEMEON Surface Technology",
+    "company_slug": "chemeon-surface-technology",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292116/production/Brand/30873/logo/image.png",
+    "banner_url": "https://static.knowde.com/card-banners/knowde-card-for-raw-materials-8.jpg",
+    "properties": {
+        "Applications": [
+            "Home Care",
+            "Institutional & Industrial Care",
+            "Surface Care",
+            "Industrial Cleaning"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Industrial Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner",
+            "Alkaline Cleaners"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal"
+        ],
+        "Features": [
+            "Effective Soil Removal",
+            "Degreasing"
+        ]
+    }
+}

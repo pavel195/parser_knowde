@@ -1,0 +1,63 @@
+{
+    "id": 410953,
+    "brand": "evercaulk",
+    "name": "Evercoat EC",
+    "slug": "evercoat-ec",
+    "description": "Evercoat EC is a general purpose all acrylic elastomeric roof coating.",
+    "company_name": "Everest Systems",
+    "company_slug": "everest-systems",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520359/production/Brand/31953/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608465/production/CategoryImage/561/category_image/BuildingConstruction_05.jpg",
+    "properties": {
+        "Applications": [
+            "Roofing",
+            "Building & Construction",
+            "Roof Coatings",
+            "Building Envelope & Roofing",
+            "Waterproofing & Weatherproofing",
+            "Wood Coatings & Finishes",
+            "Concrete Coatings & Stains"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "1K (1 component) Coating",
+            "Waterborne Coating",
+            "Elastomeric Coating"
+        ],
+        "Features": [
+            "Excellent Dirt Pick-up Resistance",
+            "Good Color Stability",
+            "Cost Effective",
+            "UV Resistant",
+            "Breathable",
+            "Consistent High Quality",
+            "Excellent Flexibility",
+            "Excellent Substrate Adhesion",
+            "Durable"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Plastics",
+            "Polyurethane",
+            "Polyvinyl Chloride (PVC)",
+            "Metal",
+            "Concrete",
+            "Wood"
+        ],
+        "Application Method": [
+            "Roller",
+            "Brush",
+            "Spray"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    }
+}

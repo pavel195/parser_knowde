@@ -1,0 +1,38 @@
+{
+    "id": 278148,
+    "brand": "saitack",
+    "name": "Sycoat® 84",
+    "slug": "sycoat-84",
+    "description": "Sycoat® 84 is a styrene acrylic emulsion with white elastomeric roof coating base polymer for moderate climates.",
+    "company_name": "STI Polymer",
+    "company_slug": "sti-polymer",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112172/production/Company/22069/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609103/production/CategoryImage/595/category_image/PrintingPackaging_06.jpg",
+    "properties": {
+        "Applications": [
+            "Roofing",
+            "Building & Construction",
+            "Roof Coatings"
+        ],
+        "Product Families": [
+            "Resins & Binders",
+            "Acrylics"
+        ],
+        "Chemical Family": [
+            "Styrene-Acrylic Copolymer"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Styrene-Acrylic Copolymer"
+        ],
+        "Glass Transition Temperature (Tg)": [
+            "-15.0 - -15.0 °C"
+        ],
+        "Features": [
+            "Good Elongation",
+            "Crack Resistance",
+            "Dirt Pickup Resistance"
+        ]
+    }
+}

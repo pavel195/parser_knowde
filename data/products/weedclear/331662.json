@@ -1,0 +1,37 @@
+{
+    "id": 331662,
+    "brand": "weedclear",
+    "name": "Weed B-gon™ Lawn Weed Killer Concentrate + Crabgrass Control",
+    "slug": "weed-b-gon-lawn-weed-killer-concentrate-crabgrass-control",
+    "description": "Ortho® Weed B-gon™ Lawn Weed Killer Concentrate + Crabgrass Control kills crabgrass, dandelions and other listed common lawn weeds to the root!  When used as directed, you can kill over 200+ weeds without damaging your lawn. It starts working immediately.",
+    "company_name": "Ortho",
+    "company_slug": "ortho",
+    "logo_url": null,
+    "banner_url": "https://media.knowde.com/image/upload/v1625608161/production/CategoryImage/546/category_image/AgricultureFeed_02.jpg",
+    "properties": {
+        "Applications": [
+            "Residential Pest Control",
+            "Other Turf, Ornamental & Landscape Applications",
+            "Ornamentals",
+            "Industrial Weed & Vegetation Control",
+            "Commercial Pest Control",
+            "Pest Control",
+            "Turf, Ornamentals & Landscape"
+        ],
+        "Product Families": [
+            "Herbicides",
+            "Crop Protection & Pest Control"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Herbicide"
+        ],
+        "Herbicide Target Species": [
+            "Grasses"
+        ],
+        "Application Technique": [
+            "Sprayers"
+        ]
+    }
+}

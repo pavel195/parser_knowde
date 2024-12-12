@@ -1,0 +1,35 @@
+{
+    "id": 296302,
+    "brand": "acris",
+    "name": "ICATACK 281",
+    "slug": "icatack-281",
+    "description": "ICATACK 281 is a High solids aqueous dispersion of a stabilized rosin acid. APEO free. General purpose, higher softening point.\r\n",
+    "company_name": "ICAP-SIRA Chemicals and Polymers SpA",
+    "company_slug": "icap-sira-chemicals-and-polymers-spa",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680680309/production/Company/23363/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Tapes & Labels",
+            "Packaging & Paper",
+            "Textiles & Nonwovens",
+            "Tapes, Labels & Adhesives",
+            "Leather & Textiles",
+            "Textile Manufacturing",
+            "Tape & Label Adhesives"
+        ],
+        "Product Families": [
+            "Additives",
+            "Surface Modifiers",
+            "Functional Additives"
+        ]
+    },
+    "summary": {
+        "Labeling Claims": [
+            "APEO-free"
+        ],
+        "Physical Form": [
+            "Dispersion"
+        ]
+    }
+}

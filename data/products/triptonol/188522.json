@@ -1,0 +1,35 @@
+{
+    "id": 188522,
+    "brand": "triptonol",
+    "name": "AQUAPUNTIA®",
+    "slug": "aquapuntia",
+    "description": "AQUAPUNTIA® is obtained from prickly pear gel (Bolivian supply chain), Aquapuntia offers an immediate (up to +37% in 2 hours) and long-term hydration (up to +59% after 72 hours).",
+    "company_name": "Biocosmethic",
+    "company_slug": "biocosmethic",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704116678/production/Product/188522/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1704116678/production/Product/188522/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Color Cosmetics",
+            "Skin Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Conditioners & Emollients",
+            "Skin Actives",
+            "Cosmetic Actives",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Citric Acid",
+            "Opuntia Ficus-Indica Stem Extract",
+            "Sodium Citrate"
+        ],
+        "End Uses": [
+            "Face Cream",
+            "CC Cream",
+            "BB Creams"
+        ]
+    },
+    "summary": {}
+}

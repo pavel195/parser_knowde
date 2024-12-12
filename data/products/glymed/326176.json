@@ -1,0 +1,46 @@
+{
+    "id": 326176,
+    "brand": "glymed",
+    "name": "Medxtract Aloe Distilled",
+    "slug": "medxtract-aloe-distilled",
+    "description": "MEDXTRACT ALOE DISTILLED is the floral water of concentrated dried juice of leaves of Aloe Barbadensis, produced by distillation. ",
+    "company_name": "Medolla Speciality Chemicals",
+    "company_slug": "medolla-iberia",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1706196281/production/Company/16680/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1706196281/production/Company/16680/card_banner/image",
+    "properties": {
+        "Product Families": [
+            "Botanical Ingredients & Extracts",
+            "Hydrosols & Waters",
+            "Vitamins, Extracts & Oils"
+        ],
+        "Chemical Family": [
+            "Plant Extracts"
+        ],
+        "INCI Name": [
+            "Aloe Barbadensis Leaf Water"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Aloe Barbadensis Leaf Water"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Plant Origin",
+            "Non-Animal Origin"
+        ],
+        "Labeling Claims": [
+            "GMO-free",
+            "Clean at Sephora",
+            "Credo Clean Standard",
+            "Naturally Derived",
+            "Plant-Based"
+        ],
+        "Benefit Claims": [
+            "Anti-Bacterial",
+            "Moisturizing",
+            "Anti-Inflammatory"
+        ]
+    }
+}

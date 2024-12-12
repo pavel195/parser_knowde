@@ -1,0 +1,38 @@
+{
+    "id": 371046,
+    "brand": "opacity-pigment",
+    "name": "Opacity Pigment™ FP-430",
+    "slug": "opacity-pigment-fp-430",
+    "description": "Opacity Pigment™is a unique white pigment designed for use in powder coatings, industrial primers and undercoats. It has been developed using our expertise with FP-Pigments Patented technology to produce the most effective balance of spaced TiO₂ and entrapped air within a precipitated calcium carbonate shell..\r\n",
+    "company_name": "FP-Pigments",
+    "company_slug": "fp-pigments",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708526116/production/Brand/27663/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608477/production/CategoryImage/562/category_image/BuildingConstruction_06.jpg",
+    "properties": {
+        "Applications": [
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Functional Pigments",
+            "Pigments & Colorants"
+        ],
+        "End Uses": [
+            "Undercoat",
+            "Primer",
+            "Powder Coating"
+        ]
+    },
+    "summary": {
+        "Color": [
+            "White"
+        ],
+        "End Uses": [
+            "Powder Coating",
+            "Primer",
+            "Undercoat"
+        ],
+        "Features": [
+            "High Opacity"
+        ]
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "id": 351377,
+    "brand": "akuapol",
+    "name": "Akuabrid HS 019",
+    "slug": "akuabrid-hs-019",
+    "description": "Akuabrid HS 019 is a Non-toxic coating of Toy and living supplies and used in Textile, plastic coating.",
+    "company_name": "T&L Polymer Technology Centre",
+    "company_slug": "t-l-polymer-technology-centre",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1693582743/production/Brand/26228/logo/image",
+    "banner_url": "https://static.knowde.com/card-banners/knowde-card-for-raw-materials-8.jpg",
+    "properties": {
+        "Applications": [
+            "Textile Manufacturing",
+            "Other Coatings & Finishes",
+            "Appliances & Electronics",
+            "Other Automotive & Transportation Coatings",
+            "Appliances & Consumer Goods",
+            "Concrete Coatings & Stains",
+            "Exterior & Body",
+            "Interior",
+            "Metal Coatings",
+            "Wood Coatings & Finishes",
+            "Automotive",
+            "Coatings & Finishes",
+            "Automotive & Transportation",
+            "Building & Construction",
+            "Industrial Coatings",
+            "Leather & Textiles"
+        ],
+        "Product Families": [
+            "Finishing Additives & Treatments",
+            "Acrylics",
+            "Polyurethanes (PU)",
+            "Resins & Binders",
+            "Textile & Leather Chemicals"
+        ],
+        "Chemical Family": [
+            "Polyurethane Acrylic",
+            "Acrylics & Acrylates",
+            "Polyurethanes (PU)"
+        ],
+        "End Uses": [
+            "Textiles"
+        ]
+    },
+    "summary": {}
+}

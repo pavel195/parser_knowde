@@ -1,0 +1,60 @@
+{
+    "id": 334639,
+    "brand": "akest",
+    "name": "Akoactive® Ilyapa",
+    "slug": "akoactive-ilyapa",
+    "description": "Akoactive® Ilyapa is a phytochemically-rich ingredient with multifunctional biological activities and benefits. The anti-inflammatory properties can be useful in cases of skin dermatitis, skin redness, itching, and discomfort often associated to sensitive skin (delicate skin, baby, and pathological skin conditions). Furthermore, the anti-microbial efficacy may preform several benefits in greasy skin conditions.",
+    "company_name": "Akott",
+    "company_slug": "akott",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708688891/production/Brand/24680/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608071/production/CategoryImage/544/category_image/HomePersonalCare_10.jpg",
+    "properties": {
+        "Product Families": [
+            "Skin Actives",
+            "Cosmetic Actives"
+        ],
+        "INCI Name": [
+            "Phyllanthus Niruri Extract"
+        ],
+        "End Uses": [
+            "Rash Cream",
+            "Rosacea (Redness) Treatment",
+            "Anti-Aging Products"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Phyllanthus Niruri Extract"
+        ],
+        "Functions": [
+            "Anti-Inflammatory",
+            "Anti-Wrinkle Agent"
+        ],
+        "Labeling Claims": [
+            "BSE-free",
+            "Nanomaterials-free",
+            "TSE-free",
+            "Pesticide-free",
+            "VOC-free",
+            "GMO-free",
+            "Environmentally Friendly",
+            "Not Tested on Animals",
+            "Gluten-free",
+            "Allergen-free",
+            "Preservative-free",
+            "CMR Substances-free",
+            "Additive-free"
+        ],
+        "Benefit Claims": [
+            "Humectancy",
+            "Moisturizing",
+            "Emolliency",
+            "Non-Irradiated",
+            "Antimicrobial",
+            "Smoothing",
+            "High Purity",
+            "Anti-Irritant",
+            "High Quality"
+        ]
+    }
+}

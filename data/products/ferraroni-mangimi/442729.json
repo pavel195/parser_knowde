@@ -1,0 +1,26 @@
+{
+    "id": 442729,
+    "brand": "ferraroni-mangimi",
+    "name": "Ferraroni MANGIMI® Transition",
+    "slug": "ferraroni-mangimi-transition",
+    "description": "Ferraroni Mangimi® Transition is a specific feed for the transition phase between the dry and the onset of lactation.",
+    "company_name": "Ferraroni",
+    "company_slug": "ferraroni",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686126325/production/Company/64760/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608238/production/CategoryImage/552/category_image/AgricultureFeed_08.jpg",
+    "properties": {
+        "Applications": [
+            "Animal Health & Nutrition",
+            "Ruminants"
+        ],
+        "Product Families": [
+            "Formulated Feeds & Premixes",
+            "Formulated Feeds, Whole Foods and Extracts"
+        ]
+    },
+    "summary": {
+        "Certifications & Compliance": [
+            "ISO 22000"
+        ]
+    }
+}

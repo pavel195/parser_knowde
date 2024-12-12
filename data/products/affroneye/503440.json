@@ -1,0 +1,44 @@
+{
+    "id": 503440,
+    "brand": "affroneye",
+    "name": "Pharmactive Biotech Hops P.E - Ratio 7.5/1, 0.4% Flavonoids",
+    "slug": "pharmactive-biotech-hops-p-e-ratio-7-5-1-0-4-flavonoids",
+    "description": "Pharmactive Biotech Hops P.E - Ratio 7.5/1, 0.4% Flavonoids cater to the food and nutrition market, specifically nutrition and well-being for nutraceuticals and supplements. Known for its benefits in reducing stress, improving sleep quality, and acting as an anti-hypertensive agent, it also exhibits properties in lowering anxiety. This ingredient is recognized for its features as an anti-hypertensive and for stress reduction.",
+    "company_name": "Pharmactive Biotech Products",
+    "company_slug": "pharmactive-biotech-products",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1710156379/production/Company/38223/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1710156379/production/Product/503440/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Functional Ingredients",
+            "Phytochemicals",
+            "Supplements & Functional Ingredients",
+            "Phytochemicals & Plant Extracts",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "Ingredient Name": [
+            "Hops Extract"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Hops Extract"
+        ],
+        "Active Component": [
+            "Flavonoids"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Plant Origin"
+        ],
+        "Labeling Claims": [
+            "Plant-Based",
+            "Naturally Derived"
+        ]
+    }
+}

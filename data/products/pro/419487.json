@@ -1,0 +1,34 @@
+{
+    "id": 419487,
+    "brand": "pro",
+    "name": "Pro® 1113N",
+    "slug": "pro-1113n",
+    "description": "Pro® 1113N is a polyester cotton blend pressure sensitive adhesive tape.",
+    "company_name": "Pro Tapes & Specialties",
+    "company_slug": "pro-tapes-specialties",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520155/production/Brand/32913/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609078/production/CategoryImage/593/category_image/PrintingPackaging_04.jpg",
+    "properties": {
+        "Applications": [
+            "Tapes & Labels",
+            "Tapes, Labels & Adhesives"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Pressure Sensitive Adhesives & Tapes"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Tape"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Steel"
+        ],
+        "Features": [
+            "Conformable",
+            "Good Abrasion Resistance"
+        ]
+    }
+}

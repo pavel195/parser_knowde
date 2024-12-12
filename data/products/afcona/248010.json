@@ -1,0 +1,68 @@
+{
+    "id": 248010,
+    "brand": "afcona",
+    "name": "Afcona 3777",
+    "slug": "afcona-3777",
+    "description": null,
+    "company_name": "AFCONA Additives",
+    "company_slug": "afcona-additives",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1711628406/production/Company/18743/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608630/production/CategoryImage/571/category_image/PaintingsCoatings_07.jpg",
+    "properties": {
+        "Applications": [
+            "Marine",
+            "Industrial Coatings",
+            "Furniture Coatings",
+            "Coil Coatings",
+            "Wood Coatings & Finishes",
+            "Floor Coatings",
+            "Marine Coatings",
+            "Automotive OEM Coatings",
+            "Coatings & Finishes",
+            "Transportation",
+            "Flooring & Surfaces",
+            "Automotive & Transportation",
+            "Building & Construction"
+        ],
+        "Product Families": [
+            "Performance Additives",
+            "Functional Additives",
+            "Dispersing & Wetting Additives",
+            "Additives",
+            "Polymer Additives"
+        ],
+        "Chemical Family": [
+            "Fluorocarbon"
+        ],
+        "End Uses": [
+            "Wood Coating",
+            "Top Coat",
+            "Solventborne Coating",
+            "Radiation Curable Coating",
+            "Gelcoat",
+            "Coil Coating",
+            "Base Coat"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Fluorocarbon"
+        ],
+        "Labeling Claims": [
+            "Silicone-free"
+        ],
+        "Compatible Polymers & Resins": [
+            "Polyurethanes (PU)",
+            "Epoxies (EP)",
+            "Nitrocellulose",
+            "Polyvinyl Chloride (PVC)"
+        ],
+        "Features": [
+            "Anti-Cratering ",
+            "Low Surface Tension",
+            "Good Leveling",
+            "Improved Substrate Wetting",
+            "High Gloss"
+        ]
+    }
+}

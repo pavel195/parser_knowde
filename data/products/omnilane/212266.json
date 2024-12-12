@@ -1,0 +1,41 @@
+{
+    "id": 212266,
+    "brand": "omnilane",
+    "name": "Omnistab OB",
+    "slug": "omnistab-ob",
+    "description": "Omnistab OB is a fluorescent whitening agent for plastic, paint, ink and photographic paper. It is efficient and stable at high temperatures.",
+    "company_name": "IGM Resins",
+    "company_slug": "igm-resins",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708683372/production/Company/7406/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608939/production/CategoryImage/585/category_image/AdhesivesSealants_02.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial Manufacturing",
+            "Furniture Adhesives",
+            "Industrial Adhesives & Sealants",
+            "Furniture",
+            "Stationery, Art & Office Supplies",
+            "Metal Coatings",
+            "Industrial Coatings",
+            "Wood Coatings & Finishes",
+            "Industrial & Assembly Adhesives",
+            "Chemical & Industrial Manufacturing",
+            "Building & Construction"
+        ],
+        "Product Families": [
+            "Functional Additives",
+            "Additives"
+        ],
+        "End Uses": [
+            "Waterborne Coating"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Optical Brightener"
+        ],
+        "End Uses": [
+            "Waterborne Coating"
+        ]
+    }
+}

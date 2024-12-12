@@ -1,0 +1,36 @@
+{
+    "id": 251402,
+    "brand": "primtal-fg",
+    "name": "Primtal WF®",
+    "slug": "primtal-wf",
+    "description": "Primtal WF® is one of the products of the new and innovative range based on \"priming\", an activating mechanism of the immune system of plant that does not generate stress, developed by ARTAL together with the University of Castellón (Spain) - Integration Group metabolism and cell signaling - Plant physiology area\". PRIMTAL WF is an immunological activator that contains plant-specific metabolites based on priming to increase the responsiveness of their immune system in the presence of mites. PRIMTAL WF features activates different defense routes at the same time, hinders the appearance of resistances, does not generate stress, compatible with biological control (beneficials), organic farming certified, 0.0 Residue O residues - 0 days of preharvest interval.",
+    "company_name": "Artal",
+    "company_slug": "artal",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1673943282/production/Company/19266/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1673943282/production/Company/19266/card_banner/image.png",
+    "properties": {
+        "Applications": [
+            "Agricultural Crops",
+            "Turf, Ornamentals & Landscape",
+            "Fiber Crops",
+            "Fodder & Forage",
+            "Fruits",
+            "Legumes",
+            "Other Agricultural Crops",
+            "Herbs & Spice Crops",
+            "Sugar & Starch Crops",
+            "Vegetables",
+            "Ornamentals"
+        ],
+        "Product Families": [
+            "Plant Health, Nutrients & Soil Management",
+            "Other Plant Health, Nutrients & Soil Management Products"
+        ]
+    },
+    "summary": {
+        "Application Technique": [
+            "Sprinklers",
+            "Chemigation"
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "id": 408185,
+    "brand": "millathane",
+    "name": "Thanecure® ZM",
+    "slug": "thanecure-zm",
+    "description": "Thanecure® ZM is a cure activator for sulfur cured Millathane® polyurethane rubber. It consists of a partial complex of zinc chloride and MBTS.",
+    "company_name": "TSE Industries Inc.",
+    "company_slug": "tse-industries-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708684550/production/Company/23385/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708684550/production/Product/408185/card_banner/image",
+    "properties": {
+        "Product Families": [
+            "Catalysts, Initiators & Crosslinkers",
+            "Elastomer Additives"
+        ],
+        "Chemical Family": [
+            "Zinc & Zinc Compounds"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Accelerator",
+            "Activator"
+        ],
+        "Compatible Polymers & Resins": [
+            "Polyurethanes (PU)"
+        ],
+        "Features": [
+            "Scorch Resistant",
+            "Low Compression Set"
+        ]
+    }
+}

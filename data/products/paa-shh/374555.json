@@ -1,0 +1,47 @@
+{
+    "id": 374555,
+    "brand": "paa-shh",
+    "name": "SAH® OX (Showa Aramid Honeycomb Over eXpand) SAH 1/8-3.0",
+    "slug": "sah-ox-showa-aramid-honeycomb-over-expand-sah-1-8-3-0",
+    "description": "SAH® OX (Showa Aramid Honeycomb Over eXpand) SAH 1/8-3.0 is produced with Nomex® aramid fiber sheets. These sheets are bonded by a thermosetting adhesive at the nodes. After expanded to the hexagonal cell or over-expanded cell configuration, it is dipped in a heat resistant phenolic resin and cured in an oven.",
+    "company_name": "Showa Aircraft Industry",
+    "company_slug": "showa-aircraft-industry",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708691539/production/Brand/28013/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608760/production/CategoryImage/576/category_image/AutomotiveTransportation_04.jpg",
+    "properties": {
+        "Applications": [
+            "Other Automotive Applications",
+            "Sports & Recreation",
+            "Interior Fixtures",
+            "Structural Components",
+            "Aerospace & Aviation",
+            "Automotive",
+            "Transportation",
+            "Building Materials"
+        ],
+        "Product Families": [
+            "Honeycomb",
+            "Core Materials"
+        ],
+        "Chemical Family": [
+            "Aramid (Kevlar)"
+        ],
+        "End Uses": [
+            "Aerospace Applications"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Core Material"
+        ],
+        "Core Type": [
+            "Nomex Honeycomb"
+        ],
+        "Compatible Polymers & Resins": [
+            "Phenolic Resins"
+        ],
+        "Chemical Family": [
+            "Aramid (Kevlar)"
+        ]
+    }
+}

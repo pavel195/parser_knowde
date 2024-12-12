@@ -1,0 +1,46 @@
+{
+    "id": 251405,
+    "brand": "primtal-wf",
+    "name": "Vegeamino",
+    "slug": "vegeamino",
+    "description": "VEGEAMINO is a bioactivator made out of free amino acids obtained by hydrolysis of vegetal proteins which activates the phisiology and hormonal processes. The elements it contains are destined to stimulate the plant’s chlorophyllic function and accelerate the vegetative development of the crops. VEGEAMINO improves and activates the assimilation of trace minerals, empowering their effect if used together. It also reinforces the action of fungicides and insecticides, so that it is recommended to mix them. VEGEAMINO is specially recommended before and after sprouting, because it promotes and speeds up the crop development, reinforcing the plants vigor and improving their resistance to certain diseases. It is also recommended to promote the crop development during its first stages (young plants or recently transplanted), during critical stages of growth and to face stress situations.",
+    "company_name": "Artal",
+    "company_slug": "artal",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672441/production/Company/19266/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708672441/production/Company/19266/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Oilseeds",
+            "Fiber Crops",
+            "Legumes",
+            "Fodder & Forage",
+            "Other Agricultural Crops",
+            "Herbs & Spice Crops",
+            "Sugar & Starch Crops",
+            "Ornamentals",
+            "Vegetables",
+            "Fruits",
+            "Agricultural Crops",
+            "Turf, Ornamentals & Landscape"
+        ],
+        "Product Families": [
+            "Plant Growth Regulators (PGR) & Harvest Aids",
+            "Plant Health, Nutrients & Soil Management"
+        ],
+        "Chemical Family": [
+            "Proteins, Peptides & Amino Acid Derivatives"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Plant Growth Regulator (PGR)"
+        ],
+        "Chemical Family": [
+            "Proteins, Peptides & Amino Acid Derivatives"
+        ],
+        "Application Technique": [
+            "Sprinklers",
+            "Chemigation"
+        ]
+    }
+}

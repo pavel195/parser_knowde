@@ -1,0 +1,42 @@
+{
+    "id": 298960,
+    "brand": "hi-prene",
+    "name": "Kixx Gear EP ISO VG 68",
+    "slug": "kixx-gear-ep-iso-vg-68",
+    "description": "Kixx Gear EP is an EP industrial gear lubricant based on a sulfurphosphorus additive system.",
+    "company_name": "GS-Caltex",
+    "company_slug": "gs-caltex",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680108861/production/Company/23716/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical & Industrial Manufacturing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Lubricants & Oils",
+            "Fluids & Lubricants"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Lubricant",
+            "Industrial Lubricants"
+        ],
+        "Application Area": [
+            "Gearboxes",
+            "Steel Mills",
+            "Chain Sprockets",
+            "Sliding Guides For Packaging Lines",
+            "Bearings",
+            "Gears"
+        ],
+        "Features": [
+            "Corrosion Resistant",
+            "Service Life Extension",
+            "High Loading Absorption Capability",
+            "Oxidation Resistant",
+            "Extreme Pressure Performance"
+        ]
+    }
+}

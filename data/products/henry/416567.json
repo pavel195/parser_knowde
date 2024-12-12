@@ -1,0 +1,36 @@
+{
+    "id": 416567,
+    "brand": "henry",
+    "name": "Henry® 930-18",
+    "slug": "henry-930-18",
+    "description": "Henry® 930-18 is a synthetic rubber based adhesive designed for use with thermofused SBS modified bitumen membranes and hot applied rubberized asphalt membranes.",
+    "company_name": "Henry Company",
+    "company_slug": "henry-company",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292484/production/Brand/32534/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608422/production/CategoryImage/558/category_image/BuildingConstruction_02.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Construction Adhesives"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Contact Adhesives"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Contact Adhesive"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Wood",
+            "Concrete",
+            "Metal"
+        ],
+        "Application Method": [
+            "Spray",
+            "Roller",
+            "Brush"
+        ]
+    }
+}

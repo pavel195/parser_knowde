@@ -1,0 +1,33 @@
+{
+    "id": 360840,
+    "brand": "qc",
+    "name": "HCF™ Heat Cure FDA Compliant",
+    "slug": "hcf-heat-cure-fda-compliant",
+    "description": "HCF™ Heat Cure FDA Compliant is a scientifically formulated coating that uses nanotechnology to create a semi-permanent barrier on the surface of a mold which is only 100 nanometers in thickness and which facilitates extraordinary plastic or rubber part release. HCF coating can be used where food or medical applications are needed, and is designed to be applied when the mold is out of the press.",
+    "company_name": "Nanoplas",
+    "company_slug": "nanoplas",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709127546/production/Brand/26972/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Tooling & Moldmaking",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Top Coats",
+            "Paints & Coatings"
+        ]
+    },
+    "summary": {
+        "Product Type": [
+            "Solventborne Coating",
+            "Top Coat"
+        ],
+        "Features": [
+            "Corrosion Resistant",
+            "Low Friction",
+            "Good Release Properties",
+            "Non Stick"
+        ]
+    }
+}

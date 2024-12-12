@@ -1,0 +1,27 @@
+{
+    "id": 403128,
+    "brand": "envirogreen",
+    "name": "EnviroGreen Extreme",
+    "slug": "envirogreen-extreme",
+    "description": "EnviroGreen Extreme is a heavy duty cleaner and degreaser designed to remove the most difficult soils. Removes oxidized and gummy deposits and accumulated soils. Cuts through any grease, dirt, soil, or grime and then suspends the soil.",
+    "company_name": "Ashburn Chemical",
+    "company_slug": "ashburn-chemical",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697222716/production/Brand/30802/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515625/production/CategoryImage/1053/category_image/HII_05.jpg",
+    "properties": {
+        "Applications": [
+            "Institutional & Catering",
+            "Vehicle & Machinery",
+            "Surface Care",
+            "Industrial Cleaning",
+            "Home Care",
+            "Institutional & Industrial Care"
+        ],
+        "Product Families": [
+            "Commercial Cleaners",
+            "Industrial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {}
+}

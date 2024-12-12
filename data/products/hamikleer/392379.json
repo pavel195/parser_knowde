@@ -1,0 +1,43 @@
+{
+    "id": 392379,
+    "brand": "hamikleer",
+    "name": "Hamikleer® 1975 HD",
+    "slug": "hamikleer-1975-hd",
+    "description": "Hamikleer® 1975 HD is a synthetic machining lubricant/coolant for ferrous and non-ferrous metals. It provides the needed lubrication for medium to heavy duty machining operations including: boring, drilling, reaming, tapping, and threading. It is non-staining to non-ferrous metals, e.g., copper, brass, and aluminum and has a liquid residual film, which keeps machinery parts moving.",
+    "company_name": "Harry Miller",
+    "company_slug": "harry-miller",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664291761/production/Company/7386/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608693/production/CategoryImage/573/category_image/AutomotiveTransportation_01.jpg",
+    "properties": {
+        "Applications": [
+            "Lubricants & Functional Fluids",
+            "Coolants & Deicing Fluids"
+        ],
+        "Product Families": [
+            "Fluids & Lubricants",
+            "Heat Transfer Fluids"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Heat Transfer Fluid"
+        ],
+        "Application Areas": [
+            "Drilling Applications",
+            "Tapping Operations",
+            "Boring Applications",
+            "Reaming",
+            "Threading Operations"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Brass",
+            "Copper",
+            "Aluminum",
+            "Metal"
+        ],
+        "Features": [
+            "Oil Resistant",
+            "Low Foaming"
+        ]
+    }
+}

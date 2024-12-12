@@ -1,0 +1,47 @@
+{
+    "id": 449284,
+    "brand": "rosebrand-starch",
+    "name": "ROSEBRAND CASSTEX G1",
+    "slug": "rosebrand-casstex-g1",
+    "description": "Rosebrand CASSTEX G1 is a modified tapioca starch, carefully crafted to enhance food formulations. This fine white powder offers valuable benefits and features for culinary applications. With its neutral taste and odor, it effortlessly integrates into various recipes without affecting the original flavor profile. CASSTEX TM G1 excels at improving cooking stability, ensuring consistent results during the cooking process.",
+    "company_name": "THAI WAH",
+    "company_slug": "thai-wah",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1667935775/production/Brand/35326/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1695611655/production/Brand/35326/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Convenience Foods",
+            "Cereals & Snacks",
+            "Bakery",
+            "Food"
+        ],
+        "Product Families": [
+            "Texturizers",
+            "Starches & Thickeners",
+            "Texture & Consistency"
+        ],
+        "Ingredient Name": [
+            "Modified Tapioca Starch"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Modified Tapioca Starch"
+        ],
+        "Labeling Claims": [
+            "Biodegradable",
+            "Clean Label",
+            "Kosher",
+            "Organic",
+            "Halal",
+            "Plant-Based",
+            "Sustainable"
+        ],
+        "Functions": [
+            "Texturizing Agent"
+        ],
+        "Physical Form": [
+            "Powder"
+        ]
+    }
+}

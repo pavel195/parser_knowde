@@ -1,0 +1,36 @@
+{
+    "id": 378134,
+    "brand": "duraplex",
+    "name": "EquiShure®",
+    "slug": "equishure",
+    "description": "EquiShure® promotes normal digestive function by aiding in the maintenance of an optimal hindgut environment and is designed for horses suspected of suffering from or that are at risk of developing hindgut acidosis.",
+    "company_name": "Kentucky Equine Research",
+    "company_slug": "kentucky-equine-research",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708685845/production/Brand/28235/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608161/production/CategoryImage/546/category_image/AgricultureFeed_02.jpg",
+    "properties": {
+        "Applications": [
+            "Other Animal Health & Nutrition",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Metabolism Modifiers",
+            "Health & Well-Being"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Digestion Promotor"
+        ],
+        "Animal Species": [
+            "Horses"
+        ],
+        "Features": [
+            "Improves Gut Microflora",
+            "Optimizing Gut Health",
+            "Improves Digestability & Intestinal Health",
+            "Increased Digestibility",
+            "Improves Gut Function"
+        ]
+    }
+}

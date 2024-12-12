@@ -1,0 +1,32 @@
+{
+    "id": 120727,
+    "brand": "chemraz",
+    "name": "Fluoraz™ FEPM 797",
+    "slug": "fluoraz-fepm-797",
+    "description": "Fluoraz FEPM 797 is a Perfluoroethylene Propylene Copolymer (FEP) product. It is available in North America.",
+    "company_name": "Greene Tweed",
+    "company_slug": "greene-tweed",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708525513/production/Company/2785/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708525513/production/Company/2785/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Other Industrial Applications"
+        ],
+        "Product Families": [
+            "High Performance Thermoplastics",
+            "Engineering & Specialty Polymers"
+        ],
+        "Chemical Family": [
+            "Polyolefins",
+            "Fluoropolymers"
+        ],
+        "Polymer Name": [
+            "Perfluoroethylene Propylene Copolymer (FEP)"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Perfluoroethylene Propylene Copolymer (FEP)"
+        ]
+    }
+}

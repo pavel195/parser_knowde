@@ -1,0 +1,116 @@
+{
+    "id": 400409,
+    "brand": "white-balsamic",
+    "name": "Balsamic Vinegar Modena (1.27-1.28 Density) 6% Acidity",
+    "slug": "balsamic-vinegar-modena-1-27-1-28-density-6-acidity",
+    "description": null,
+    "company_name": "Food Specialties Trading LLC",
+    "company_slug": "de-nigris-group",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709127755/production/Brand/30454/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606622/production/CategoryImage/492/category_image/FoodIngredients_06.jpg",
+    "properties": {
+        "Applications": [
+            "Other Nutrition Applications",
+            "Other Food Applications",
+            "Oenology",
+            "Liquor & Spirits",
+            "Juice & Juice Drinks",
+            "Clinical Nutrition",
+            "Meat Substitutes",
+            "Nutraceuticals & Supplements",
+            "Energy Drinks",
+            "Food & Beverage Manufacturing",
+            "Functional Foods",
+            "Other Non-Alcoholic Beverages",
+            "Savory & Culinary",
+            "Beverage",
+            "Food",
+            "Nutrition & Well Being",
+            "Processing & Packaging"
+        ],
+        "Product Families": [
+            "Acidulants & Acidity Regulators",
+            "Other Whole Foods & Extracts",
+            "Functional Additives",
+            "Whole Foods, Extracts & Premixes"
+        ],
+        "Flavor Family": [
+            "Sauce Inspired Flavors"
+        ],
+        "End Uses": [
+            "Weight Management Products",
+            "Vinaigrette",
+            "Table Sauces",
+            "Senior & Clinical Nutrition",
+            "Sauces",
+            "Sauce Mixes",
+            "Salad Dressing",
+            "Plant-based Meat",
+            "Nutraceuticals",
+            "Non Alcoholic Beverages",
+            "Functional Foods",
+            "Functional Beverages",
+            "Food Service Applications",
+            "Food Seasonings",
+            "Food Preservation",
+            "Flavors",
+            "Dietetic Foods",
+            "Tabletop Condiments",
+            "Dressings"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Balsamic Vinegar of Modena"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Vegetable Origin",
+            "Plant Origin"
+        ],
+        "Labeling Claims": [
+            "Paraben-free",
+            "Soy-free",
+            "Natural",
+            "GMO-free",
+            "Plant-Based",
+            "Gluten-free",
+            "Clean Label",
+            "Non-GMO",
+            "Gelatin-free",
+            "Non-Flammable",
+            "Bio-based",
+            "Pesticide-free",
+            "Palm Oil-free",
+            "Vegetarian",
+            "Organic",
+            "Vegan"
+        ],
+        "Physical Form": [
+            "Gel",
+            "Liquid",
+            "Fluid"
+        ],
+        "End Uses": [
+            "Plant-based Meat",
+            "Tabletop Condiments",
+            "Flavors",
+            "Sauce Mixes",
+            "Weight Management Products",
+            "Non Alcoholic Beverages",
+            "Dressings",
+            "Salad Dressing",
+            "Nutraceuticals",
+            "Vinaigrette",
+            "Food Preservation",
+            "Functional Foods",
+            "Table Sauces",
+            "Functional Beverages",
+            "Senior & Clinical Nutrition",
+            "Dietetic Foods",
+            "Food Seasonings",
+            "Food Service Applications",
+            "Sauces"
+        ]
+    }
+}

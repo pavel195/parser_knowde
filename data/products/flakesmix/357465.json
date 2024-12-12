@@ -1,0 +1,45 @@
+{
+    "id": 357465,
+    "brand": "flakesmix",
+    "name": "FibraMix",
+    "slug": "fibramix",
+    "description": "The corn fiber (FibraMix) of Milhão presents excellent performance in food enrichment. The solution is made up of 60% dietary fiber and is an insoluble fiber with the ability to act as a texture improver, body agent and moisture controller. It has great application versatility as in breakfast cereals, cereal bars, cookies, pasta and even as a plant-based texture ingredient.",
+    "company_name": "Milhao Corn Ingredients",
+    "company_slug": "milhao-corn-ingredients",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686104831/production/Brand/26596/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606984/production/CategoryImage/507/category_image/FoodNutrition_08.jpg",
+    "properties": {
+        "Applications": [
+            "Food",
+            "Nutrition & Well Being",
+            "Bakery",
+            "Cereals & Snacks",
+            "Savory & Culinary",
+            "Nutraceuticals & Supplements"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Flours & Grains Products"
+        ],
+        "End Uses": [
+            "Pasta",
+            "Soups",
+            "Cookies",
+            "Snacks",
+            "Breakfast Cereals",
+            "Sauces",
+            "Cereal Bars"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Corn Flour"
+        ],
+        "Labeling Claims": [
+            "Non-GMO"
+        ],
+        "Features": [
+            "Fiber Enrichment"
+        ]
+    }
+}

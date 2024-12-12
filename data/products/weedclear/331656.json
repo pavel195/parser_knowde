@@ -1,0 +1,37 @@
+{
+    "id": 331656,
+    "brand": "weedclear",
+    "name": "GroundClear® Weed & Grass Killer",
+    "slug": "groundclear-weed-grass-killer",
+    "description": "GroundClear® Weed &amp; Grass Killer with sprayer has been specifically formulated to kill all types of weeds that are green and growing. The ready-to-use sprayer makes it easy to accurately target the weeds you want to kill. Use it to kill weeds on hardscapes, in landscape beds, and around vegetable gardens (apply directly to weeds). The fast-acting spray produces visible results in just 15-minutes.",
+    "company_name": "Ortho",
+    "company_slug": "ortho",
+    "logo_url": null,
+    "banner_url": "https://media.knowde.com/image/upload/v1625608161/production/CategoryImage/546/category_image/AgricultureFeed_02.jpg",
+    "properties": {
+        "Applications": [
+            "Residential Pest Control",
+            "Other Turf, Ornamental & Landscape Applications",
+            "Ornamentals",
+            "Industrial Weed & Vegetation Control",
+            "Commercial Pest Control",
+            "Pest Control",
+            "Turf, Ornamentals & Landscape"
+        ],
+        "Product Families": [
+            "Herbicides",
+            "Crop Protection & Pest Control"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Herbicide"
+        ],
+        "Herbicide Target Species": [
+            "Grasses"
+        ],
+        "Application Technique": [
+            "Sprayers"
+        ]
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "id": 271802,
+    "brand": "avalanche",
+    "name": "MECHETEC DELRIN",
+    "slug": "mechetec-delrin",
+    "description": "MECHETEC® Delrin® (polyoxy-methylene) offers design engineers a superior blend of strength, stiffness, lubricity, and dimensional stability. These properties, along with inherent machining ease, have made MECHETEC® Delrin® one of the most widely used engineering grade thermoplastics. To meet specific application configurations and to maximize production efficiencies, Polymer Industries offers a broad array of MECHETEC® Delrin® stock shapes. These materials include both homopolymer unfilled grades as well as PTFE-filled grades for enhanced wear resistance and DE-588 options for military applications. Formally known as Unital Delrin. For more Info : Click Here",
+    "company_name": "Nytef Plastics",
+    "company_slug": "nytef-plastics",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709127399/production/Company/20795/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608779/production/CategoryImage/578/category_image/AutomotiveTransportation_06.jpg",
+    "properties": {
+        "Applications": [
+            "Pulping & Processing",
+            "Food & Beverage Manufacturing",
+            "Medical Devices & Assemblies",
+            "Consumer Electronics",
+            "Other Industrial Applications",
+            "Automotive Electronics",
+            "Other Devices & Assemblies",
+            "Powertrain & UTH",
+            "Automotive",
+            "Devices & Assemblies",
+            "Processing & Packaging",
+            "Medical",
+            "Chemical & Industrial Manufacturing",
+            "Paper & Pulp"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Polymer Name": [
+            "Polyacetal Homopolymer (POM)"
+        ],
+        "End Uses": [
+            "Bearings",
+            "Bearing Bushes",
+            "Bushings",
+            "Pump Parts",
+            "Pistons",
+            "Valves",
+            "Wear Strip",
+            "Gears"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyacetal Homopolymer (POM)"
+        ],
+        "Physical Form": [
+            "Sheets",
+            "Rods"
+        ],
+        "Features": [
+            "Good Machinability",
+            "High Strength",
+            "Good Toughness",
+            "Good Thermal Stability",
+            "Wear Resistant",
+            "High Stiffness"
+        ],
+        "Density": [
+            "1420.0 - 1420.0 kg/m³"
+        ],
+        "Tensile Modulus": [
+            "3102.63 - 3102.63 MPa"
+        ],
+        "Color": [
+            "Black",
+            "Natural"
+        ]
+    }
+}

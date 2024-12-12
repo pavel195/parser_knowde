@@ -1,0 +1,42 @@
+{
+    "id": 371139,
+    "brand": "allwrite",
+    "name": "VersaPrint® V300",
+    "slug": "versaprint-v300",
+    "description": "VersaPrint® V300 has resistance to shock and deprive it is developed for porous surfaces. Which has a smooth flow through the delivery system and the printhead.",
+    "company_name": "Trident an ITW Company",
+    "company_slug": "trident-an-itw-company",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664291181/production/Brand/27684/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609091/production/CategoryImage/594/category_image/PrintingPackaging_05.jpg",
+    "properties": {
+        "Applications": [
+            "Printing & Inks",
+            "Inkjet Printing"
+        ],
+        "Product Families": [
+            "Inks & Pastes",
+            "Inkjet Inks"
+        ]
+    },
+    "summary": {
+        "Application Areas": [
+            "Bar Code",
+            "Case Coding"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Ceramic",
+            "Leather",
+            "Wood"
+        ],
+        "Features": [
+            "Durable",
+            "Fast Drying",
+            "Shock Resistant",
+            "Consistent High Quality",
+            "Good Smoothness"
+        ],
+        "Color": [
+            "Black"
+        ]
+    }
+}

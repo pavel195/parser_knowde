@@ -1,0 +1,36 @@
+{
+    "id": 385000,
+    "brand": "hexflame",
+    "name": "BISCO® BF-1000",
+    "slug": "bisco-bf-1000",
+    "description": "BISCO® BF-1000 is a highly compressible, soft silicone foam. The combination of low weight and softness makes it an ideal solution where low closure force and sealing are critical. Patented chemistry and cell structure provide long term performance advantage.",
+    "company_name": "C.B.Frost & Co.",
+    "company_slug": "c-b-frost-co",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1702444503/production/Brand/28846/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608693/production/CategoryImage/573/category_image/AutomotiveTransportation_01.jpg",
+    "properties": {
+        "Applications": [
+            "Rail & Mass Transit",
+            "Interior",
+            "Automotive",
+            "Transportation"
+        ],
+        "Product Families": [
+            "Foams"
+        ],
+        "Chemical Family": [
+            "Silicones"
+        ]
+    },
+    "summary": {
+        "Foam Type": [
+            "Syntactic Foam"
+        ],
+        "Density": [
+            "191.778816 - 191.778816 kg/m³"
+        ],
+        "Chemical Family": [
+            "Silicones"
+        ]
+    }
+}

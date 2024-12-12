@@ -1,0 +1,42 @@
+{
+    "id": 166074,
+    "brand": "armidan",
+    "name": "LINXIDAN® LX4433",
+    "slug": "saco-aei-polymers-linxidan-lx4433",
+    "description": "LINXIDAN® LX4433 is a Maleated HDPE Coupling Agent designed specifically to chemically bind natural fibers to HDPE in Wood-Plastic Composites. Coupling fibers to the HDPE matrix, in a 50% wood-filled system, reduces moisture uptake while increasing flexural modulus by 20% and overall flexural strength by 90%. \r\n",
+    "company_name": "SACO AEI Polymers",
+    "company_slug": "saco-aei-polymers",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709126941/production/Product/166074/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1709126941/production/Product/166074/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Other Electrical & Electronics Applications",
+            "Other Building Materials",
+            "Structural Components",
+            "Building Materials"
+        ],
+        "Product Families": [
+            "Polyolefins",
+            "Basic Thermoplastics"
+        ],
+        "Chemical Family": [
+            "Polyethylenes",
+            "Polyolefins"
+        ],
+        "Polymer Name": [
+            "High Density Polyethylene (HDPE)"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "High Density Polyethylene (HDPE)"
+        ],
+        "Fillers Included": [
+            "Natural Fiber",
+            "Wood Fiber"
+        ],
+        "Melt Flow Index": [
+            "0.6 - 0.6 g/10 min"
+        ]
+    }
+}

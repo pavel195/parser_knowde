@@ -1,0 +1,33 @@
+{
+    "id": 403523,
+    "brand": "transpet",
+    "name": "TRANSMD® PCH-202",
+    "slug": "transmd-pch-202",
+    "description": "TRANSMD® PCH-202 is 1 mil Biax Nylon / 2 mil PE. it has very good puncture and abrasion resistance.",
+    "company_name": "Transcendia",
+    "company_slug": "transcendia",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686149836/production/Brand/30868/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609128/production/CategoryImage/597/category_image/PrintingPackaging_08.jpg",
+    "properties": {
+        "Applications": [
+            "Packaging",
+            "Healthcare Packaging"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "End Uses": [
+            "Medical Devices"
+        ]
+    },
+    "summary": {
+        "Physical Form": [
+            "Film"
+        ],
+        "Features": [
+            "Puncture Resistant",
+            "Good Abrasion Resistance",
+            "Excellent Seal Properties"
+        ]
+    }
+}

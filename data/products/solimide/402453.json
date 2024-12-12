@@ -1,0 +1,39 @@
+{
+    "id": 402453,
+    "brand": "solimide",
+    "name": "SOLIMIDE® Densified",
+    "slug": "solimide-densified",
+    "description": "SOLIMIDE® Densified polyimide foams are utilized in commercial and industrial markets when the high temperature, non-flammable and formaldehyde-free properties of lightweight polyimide foam are desired, but enhanced mechanical or thermal properties are needed. High temperature gaskets and tubing for sensitive instrumentation are examples of applications, as well as high temperature equipment and bleed air duct insulation on aircraft. Densified foam is also used in rugged utility laptops where insulation space is limited. Both SOLIMIDE® HT-340 and TA-301 foams are available in densified form. A variety of shapes and sizes are offered, facings or coatings are easily applied to meet end use requirements.\r\n",
+    "company_name": "Boyd Corporation",
+    "company_slug": "boyd-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1702444509/production/Brand/30705/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608693/production/CategoryImage/573/category_image/AutomotiveTransportation_01.jpg",
+    "properties": {
+        "Applications": [
+            "Automotive Electronics",
+            "Aerospace & Aviation",
+            "Consumer Electronics",
+            "Transportation",
+            "Devices & Assemblies"
+        ],
+        "Product Families": [
+            "Foams"
+        ],
+        "End Uses": [
+            "Aerospace Applications",
+            "Soft Touch Applications"
+        ]
+    },
+    "summary": {
+        "Foam Type": [
+            "Open Cell Foam"
+        ],
+        "Density": [
+            "15.981568 - 63.926272 kg/m³"
+        ],
+        "End Uses": [
+            "Aerospace Applications",
+            "Soft Touch Applications"
+        ]
+    }
+}

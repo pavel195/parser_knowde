@@ -1,0 +1,33 @@
+{
+    "id": 374089,
+    "brand": "essential-water-solutions-essential",
+    "name": "Oxy Blast Plus™ 34",
+    "slug": "oxy-blast-plus-34",
+    "description": "Oxy Blast Plus™ 34 is used when an NSF Certification is necessary and the additional benefits of Oxy Blast are also desired. it utilizes the same powerful oxidizing action as the rest of our Oxy Blast Products.",
+    "company_name": "Essential Water Solutions",
+    "company_slug": "essential-water-solutions",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704101910/production/Brand/27963/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Water Treatment",
+            "Power, Water & Utilities"
+        ],
+        "Product Families": [
+            "Water Treatment Additives",
+            "Water Treatment Chemicals"
+        ],
+        "Chemical Family": [
+            "Peroxides"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Peroxides"
+        ],
+        "Applicable Processes": [
+            "Water Treatment",
+            "Sewage Treatment"
+        ]
+    }
+}

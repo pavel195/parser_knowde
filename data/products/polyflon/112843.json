@@ -1,0 +1,65 @@
+{
+    "id": 112843,
+    "brand": "polyflon",
+    "name": "Neoflon ETFE EP-610",
+    "slug": "neoflon-etfe-ep-610",
+    "description": "Neoflon ETFE EP-610, available in pellet and solid forms, stands out with features such as excellent flexibility, good electrical properties, and a low melting point. Its applications span across automotive, consumer goods, electrical and electronics, and printing and packaging, finding use in aerospace, appliances, automotive electronics, and wire and cable insulation. With processing methods covering extrusion and injection molding, it offers versatility in various end uses.",
+    "company_name": "Daikin Industries, Ltd.",
+    "company_slug": "daikin",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708531209/production/Brand/9813/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708531209/production/Product/112843/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Food & Beverage Packaging",
+            "Semiconductor Manufacturing",
+            "Jacketing & Insulation",
+            "Terminal Blocks, Plugs & Sockets",
+            "Connectors",
+            "Consumer Electronics",
+            "Automotive Electronics",
+            "Powertrain & UTH",
+            "Fuel Systems",
+            "Electrical & Electronic Systems",
+            "Appliances & Electronics",
+            "Automotive",
+            "Devices & Assemblies",
+            "Parts & Components",
+            "Wire & Cable",
+            "Packaging"
+        ],
+        "Product Families": [
+            "High Performance Thermoplastics",
+            "Engineering & Specialty Polymers"
+        ],
+        "Chemical Family": [
+            "Polyolefins",
+            "Fluoropolymers"
+        ],
+        "Polymer Name": [
+            "Ethylene Tetrafluoroethylene Copolymer (ETFE)"
+        ],
+        "End Uses": [
+            "Wires",
+            "Cables",
+            "Fuel Hose",
+            "Pipe Liners",
+            "Sockets",
+            "Semiconductor Applications",
+            "Film",
+            "Connectors",
+            "Automotive Fuel Lines",
+            "Automotive Electronics",
+            "Appliances",
+            "Aerospace Applications"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Ethylene Tetrafluoroethylene Copolymer (ETFE)"
+        ],
+        "Processing Methods": [
+            "Injection Molding",
+            "Extrusion"
+        ]
+    }
+}

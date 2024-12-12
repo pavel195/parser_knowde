@@ -1,0 +1,65 @@
+{
+    "id": 77249,
+    "brand": "foamine",
+    "name": "Polyderm™ PPI-CO-40",
+    "slug": "alzo-international-inc-polyderm-ppi-co-40",
+    "description": "Polyderm™ PPI-CO-40 is a vegetable derived water soluble polyurethane where the triol is an ethoxylated-hydrogenated castor oil. Polyderm™ PPI-CO-40 exhibits substantivity due to the presence of urethane bond (carbamate bond). It also offers conditioning, lubricity and slip to both skin and hair products. Polyderm™ PPI-CO-40 can be used as an emulsifying agent, a coupling agent and as a surfactant in cosmetic formulations where it leaves a silky feel.",
+    "company_name": "ALZO International Inc.",
+    "company_slug": "alzo-international-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708699500/production/Brand/6426/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708699500/production/Product/77249/card_banner/image",
+    "properties": {
+        "Applications": [
+            "AP/Deo",
+            "Hair Care",
+            "Skin Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Solvents & Carriers",
+            "Nonionic Surfactants",
+            "Conditioners & Emollients",
+            "Functionals",
+            "Surfactants & Cleansers"
+        ],
+        "INCI Name": [
+            "PEG-40 Hydrogenated Castor Oil/IPDI Copolymer"
+        ],
+        "End Uses": [
+            "Deodorants",
+            "Antiperspirants",
+            "Hair Conditioner",
+            "Concealer"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "PEG-40 Hydrogenated Castor Oil/IPDI Copolymer"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Vegetable Origin"
+        ],
+        "Functions": [
+            "Surfactant",
+            "Surfactant (Nonionic)",
+            "Coupling Agent",
+            "Conditioner"
+        ],
+        "Labeling Claims": [
+            "Naturally Derived",
+            "Natural"
+        ],
+        "Benefit Claims": [
+            "Substantivity",
+            "Silky Feel",
+            "Long Lasting Fragrance Release",
+            "Imparts Lubricity",
+            "Emulsifying",
+            "Conditioning",
+            "Emolliency",
+            "Solubilizing",
+            "Enhanced Slip"
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "id": 403194,
+    "brand": "arma",
+    "name": "Arma 101",
+    "slug": "arma-101",
+    "description": "Arma 101 is a high solids, moisture-catalyzed, single-component polyurethane coating system. It consists of Arma101, an aromatic polyurethane basecoat, and ARMA 103, a UV-resistant, 100% aliphatic polyurethane topcoat. This product is effective as a protective membrane over polyurethane foam on new or existing roofs and hot or ambient storage tanks.",
+    "company_name": "Arma Coatings",
+    "company_slug": "arma-coatings",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680108999/production/Brand/30811/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608465/production/CategoryImage/561/category_image/BuildingConstruction_05.jpg",
+    "properties": {
+        "Applications": [
+            "Building Envelope & Roofing",
+            "Chemical & Industrial Manufacturing",
+            "Other Building Envelope & Roofing Applications",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Base Coats & Undercoats"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "1K (1 component) Coating",
+            "Base Coat"
+        ],
+        "Application Area": [
+            "Tanks"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Plastics"
+        ],
+        "Features": [
+            "High Solids Content"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ]
+    }
+}

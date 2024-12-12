@@ -1,0 +1,48 @@
+{
+    "id": 341339,
+    "brand": "bioestolide",
+    "name": "BT4",
+    "slug": "biosynthetic-technologies-bt4",
+    "description": "BT4 is a low viscosity, lubricant base oil designed specifically to help customers in the lubrication industries meet their production quality standards. This high quality renewable base oil offers exceptional technical performance and environmental benefits.",
+    "company_name": "Biosynthetic Technologies",
+    "company_slug": "biosynthetic-technologies",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708673433/production/Company/4678/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708673433/production/Company/4678/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Automotive Fluids & Lubricants",
+            "Cold-Chain & Insulation",
+            "Appliances & Electronics",
+            "Fluids & Lubricants",
+            "Lubricants & Functional Fluids",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "API Group V",
+            "Performance Additives",
+            "Additives",
+            "Base Stocks & Oils"
+        ],
+        "End Uses": [
+            "Motor Oils",
+            "Metalworking Fluids",
+            "Industrial Lubricants",
+            "Hydraulic Fluids",
+            "Compressor Oils"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Base Stock & Oil"
+        ],
+        "Fluids & Lubricants Type": [
+            "Industrial Oils & Fluids",
+            "Hydraulic Oils & Fluids",
+            "Metalworking Fluids",
+            "Turbine & Compressor Fluids & Oils"
+        ],
+        "ISO Viscosity Grade": [
+            "ISO 22"
+        ]
+    }
+}

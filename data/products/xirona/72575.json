@@ -1,0 +1,43 @@
+{
+    "id": 72575,
+    "brand": "xirona",
+    "name": "RonaCare® Bronzyl",
+    "slug": "ronacare-bronzyl",
+    "description": "RonaCare® Bronzyl™ helps enable tanning with a natural and even skin tone. The extremely pure active ingredient is a multitalent – it can be incorporated into a wide variety of cosmetics such as day and night creams, body care, as well as pre- and after-sun care products.",
+    "company_name": "EMD Performance Materials",
+    "company_slug": "emd-performance-materials",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708689975/production/Company/1106/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708689975/production/Company/1106/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Skin Care",
+            "Sun Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Skin Actives",
+            "Cosmetic Actives"
+        ],
+        "INCI Name": [
+            "Dihydroxy Methylchromonyl Palmitate"
+        ],
+        "End Uses": [
+            "After Sun Products",
+            "Tanning Products"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Dihydroxy Methylchromonyl Palmitate"
+        ],
+        "Functions": [
+            "Tanning Agent",
+            "Anti-Aging Agent"
+        ],
+        "Benefit Claims": [
+            "Self-Tanning",
+            "Anti-Aging",
+            "Sun Protection"
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "id": 427016,
+    "brand": "cleantech",
+    "name": "CleanTech™ Detergent and Degreaser",
+    "slug": "cleantech-detergent-and-degreaser",
+    "description": "CleanTech™ Detergent and Degreaser is a heavy duty cleaner formulated for the cleaning and degreasing of heavily soiled surfaces with high loads of organic matter and hard to remove built up.",
+    "company_name": "UPI United Promotions",
+    "company_slug": "upi-united-promotions",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664293038/production/Brand/33820/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515684/production/CategoryImage/1058/category_image/HII_10.jpg",
+    "properties": {
+        "Applications": [
+            "Surface Care",
+            "Industrial Cleaning",
+            "Institutional & Catering",
+            "Institutional & Industrial Care",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Commercial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Detergents",
+            "Degreasers",
+            "Disinfectant Products"
+        ],
+        "Application Areas": [
+            "Hard Surfaces"
+        ],
+        "Features": [
+            "Neutral pH",
+            "Heavy Duty",
+            "Highly Efficient",
+            "Degreasing",
+            "Streak Free",
+            "Hard Water Resistance",
+            "Non-Toxic",
+            "Highly Emulsifying",
+            "Effective Soil Removal",
+            "Fast Acting",
+            "Cost Effective",
+            "Ease of Handling"
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": 368152,
+    "brand": "ura-zen",
+    "name": "Epox-Zen™ ZRP",
+    "slug": "epox-zen-zrp",
+    "description": "Epox-Zen™ ZRP is an 2K zinc rich epoxy primer. it has maximum corrosion resistance on blasted ferrous substrates.",
+    "company_name": "Hentzen Coatings",
+    "company_slug": "hentzen-coatings",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520205/production/Brand/27274/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608621/production/CategoryImage/570/category_image/PaintingsCoatings_06.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial Coatings"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Primer",
+            "2K (2 component) Coating",
+            "Epoxy Coating"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal"
+        ],
+        "Features": [
+            "Corrosion Resistant",
+            "Excellent Substrate Adhesion"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    }
+}

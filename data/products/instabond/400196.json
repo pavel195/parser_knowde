@@ -1,0 +1,33 @@
+{
+    "id": 400196,
+    "brand": "instabond",
+    "name": "INSTAbond® 402 Grade A",
+    "slug": "instabond-402-grade-a",
+    "description": "INSTAbond® 402 Grade A is a high strength threadlocking compound designed for threaded fastener diameters of ¼” (6 mm) and smaller. Has moderate chemical resistance and slow fixture time for items requiring adjustment. Parts can be separated using hand tools.",
+    "company_name": "Accrabond",
+    "company_slug": "accrabond",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1682593017/production/Brand/30444/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical & Industrial Manufacturing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Anaerobic Adhesives"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Anaerobic Adhesive"
+        ],
+        "Application Area": [
+            "Thread Sealing"
+        ],
+        "Features": [
+            "High Strength",
+            "Chemical Resistant"
+        ]
+    }
+}

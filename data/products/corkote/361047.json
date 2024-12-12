@@ -1,0 +1,40 @@
+{
+    "id": 361047,
+    "brand": "corkote",
+    "name": "CORKOTE™ FP-3121-DF",
+    "slug": "corkote-fp-3121-df",
+    "description": "CORKOTE™ FP-3121-DF has been formulated to be used as a pre-coat and print primer for paper and various films in the vacuum-metallization process.",
+    "company_name": "Cork Industries",
+    "company_slug": "cork-industries",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520450/production/Brand/26997/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608585/production/CategoryImage/567/category_image/PaintingsCoatings_03.jpg",
+    "properties": {
+        "Applications": [
+            "Packaging Coatings",
+            "Primers & Lacquers",
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Waterborne Coating",
+            "Primer"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Paper"
+        ],
+        "Features": [
+            "Improved Adhesion"
+        ],
+        "Application Method": [
+            "Gravure Coating",
+            "Air Knife Coating",
+            "Flexography",
+            "Rod Coating"
+        ]
+    }
+}

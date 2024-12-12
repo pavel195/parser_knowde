@@ -1,0 +1,76 @@
+{
+    "id": 409410,
+    "brand": "thurmalox",
+    "name": "Elastoid™ 1300",
+    "slug": "elastoid-1300",
+    "description": "Elastoid™ 1300 is a single-package, high-build, elastomeric coating and vapor barrier. It is formulated from multiphase synthetic rubber copolymers which interact to provide an unusual range of desirable chemical and physical properties. It is tough, flexible, and corrosion-resistant and provides heavy-duty, long-term protection in highly aggressive chemical, industrial and marine environments. It has extremely low gas, water and water vapor permeability, and exhibits one of the lowest water vapor transmission rates possible with an elastomeric system. It is virtually unaffected by water immersion.",
+    "company_name": "Dampney Company, Inc.",
+    "company_slug": "dampney-company-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520218/production/Brand/31724/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608585/production/CategoryImage/567/category_image/PaintingsCoatings_03.jpg",
+    "properties": {
+        "Applications": [
+            "Coatings & Finishes",
+            "Building Materials",
+            "Industrial Coatings",
+            "Marine",
+            "Marine Coatings",
+            "Chemical & Industrial Manufacturing",
+            "Transportation",
+            "Pipes & Plumbing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "1K (1 component) Coating",
+            "Elastomeric Coating"
+        ],
+        "Features": [
+            "Chemical Resistant",
+            "Low Temperature Flexibility",
+            "Electrically Insulating",
+            "Good Electrical Properties",
+            "UV Resistant",
+            "Water Resistant",
+            "Oxidation Resistant",
+            "High Temperature Resistance",
+            "Ozone Resistant",
+            "High Impact Resistance",
+            "Low Water Permeability",
+            "Fungus Resistant",
+            "Good Weather Stability",
+            "Good Aging Behavior",
+            "Long Term Protection",
+            "Excellent Toughness",
+            "Bacteria Resistant",
+            "High Elongation",
+            "High Tensile Strength",
+            "Corrosion Resistant",
+            "High Flexibility",
+            "Low Moisture Vapor Transmission",
+            "Good Abrasion Resistance",
+            "Low Gas Permeability"
+        ],
+        "Application Area": [
+            "Pipes",
+            "Marine Applications",
+            "Tanks"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Concrete",
+            "Steel",
+            "Wood"
+        ],
+        "Application Method": [
+            "Spray",
+            "Roller",
+            "Brush"
+        ]
+    }
+}

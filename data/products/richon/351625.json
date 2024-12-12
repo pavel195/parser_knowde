@@ -1,0 +1,47 @@
+{
+    "id": 351625,
+    "brand": "richon",
+    "name": "Richon® ZMBT-2 Powder",
+    "slug": "richon-chem-richon-zmbt-2-powder",
+    "description": "Richon® ZMBT-2 Powder is used in Rubber auxiliary agents. It is hardly soluble in acetone, benzene, ethanol, and carbon tetrachloride. Insoluble in water, gasoline. Decomposed in strong acid and alkali..",
+    "company_name": "Richon Chem",
+    "company_slug": "richon-chem",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672679/production/Company/38227/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608693/production/CategoryImage/573/category_image/AutomotiveTransportation_01.jpg",
+    "properties": {
+        "Applications": [
+            "Housewares",
+            "Apparel"
+        ],
+        "Product Families": [
+            "Catalysts, Initiators & Crosslinkers",
+            "Elastomer Additives"
+        ],
+        "End Uses": [
+            "Gloves"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Zinc di(benzothiazol-2-yl) disulphide"
+        ],
+        "CAS Number": [
+            "155-04-4"
+        ],
+        "Functions": [
+            "Accelerator"
+        ],
+        "Compatible Polymers & Resins": [
+            "Ethylene Propylene Diene Monomer (EPDM)",
+            "Nitrile Butadiene Rubber (NBR)",
+            "Natural Rubbers (NR)",
+            "Isoprene Rubber (IR)",
+            "Styrene Butadiene Rubber (SBR)"
+        ],
+        "Features": [
+            "Good Stain Resistance",
+            "Good Processability",
+            "Scorch Resistant"
+        ]
+    }
+}

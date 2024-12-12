@@ -1,0 +1,50 @@
+{
+    "id": 329696,
+    "brand": "printex",
+    "name": "NIPex® 160 IQ",
+    "slug": "nipex-160-iq",
+    "description": "NIPex® 160 IQ is a pigment carbon black produced on the basis of the medium color gas black process. IQ stands for ink jet quality. NIPex® 160 IQ is easy to disperse and provides outstanding optical print density, high coverage power and improved smear resistance.",
+    "company_name": "Orion Engineered Carbons",
+    "company_slug": "orion-engineered-carbons",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708519853/production/Company/9856/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608477/production/CategoryImage/562/category_image/BuildingConstruction_06.jpg",
+    "properties": {
+        "Applications": [
+            "Inkjet Printing",
+            "Printing & Inks"
+        ],
+        "Product Families": [
+            "Inorganic Pigments",
+            "Color Pigments",
+            "Pigments & Colorants"
+        ],
+        "Chemical Family": [
+            "Carbon Blacks"
+        ],
+        "End Uses": [
+            "Waterborne Ink",
+            "Inkjet Ink"
+        ]
+    },
+    "summary": {
+        "Color": [
+            "Black"
+        ],
+        "Pigment Type": [
+            "Inorganic Pigments"
+        ],
+        "Chemical Family": [
+            "Carbon Blacks"
+        ],
+        "End Uses": [
+            "Inkjet Ink",
+            "Waterborne Ink"
+        ],
+        "Particle Size": [
+            "0.02 - 0.02 microns"
+        ],
+        "Synonyms": [
+            "Acetylene Black, Furnace Black, Lamp Black, Thermal Black"
+        ]
+    }
+}

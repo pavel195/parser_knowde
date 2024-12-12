@@ -1,0 +1,41 @@
+{
+    "id": 395687,
+    "brand": "rapid-set",
+    "name": "Latex Polymer Liquid™",
+    "slug": "latex-polymer-liquid",
+    "description": "Latex Polymer Liquid™ has the characteristics of increasing the bond and durability of cement-based products, being mildew resistant, and not re-emulsifying.",
+    "company_name": "JE Tomes",
+    "company_slug": "je-tomes",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520335/production/Company/49989/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608410/production/CategoryImage/557/category_image/BuildingConstruction_01.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Flooring & Surfaces",
+            "Other Building & Construction Applications",
+            "Other Building Materials",
+            "Floor Coatings"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Primer"
+        ],
+        "Application Area": [
+            "Floor Coverings"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Concrete"
+        ],
+        "Features": [
+            "Mildew Resistant",
+            "Breathable",
+            "High Durability",
+            "Good Bonding Strength"
+        ]
+    }
+}

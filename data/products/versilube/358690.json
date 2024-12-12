@@ -1,0 +1,47 @@
+{
+    "id": 358690,
+    "brand": "versilube",
+    "name": "Novagard® G624",
+    "slug": "novagard-g624",
+    "description": "Novagard® G624 is an amorphous fumed silica thickened, polysiloxane based compound. Novagard® G624 is an excellent water barrier with superior corrosion protection properties. It is similar in many aspects to G623, only produced to a slightly higher penetration specification (softer).",
+    "company_name": "Novagard",
+    "company_slug": "novagard",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680108736/production/Brand/26763/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical & Industrial Manufacturing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Greases",
+            "Fluids & Lubricants"
+        ],
+        "Chemical Family": [
+            "Silicones"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Grease"
+        ],
+        "Application Area": [
+            "Bearings"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Plastics"
+        ],
+        "Features": [
+            "Corrosion Resistant",
+            "Water Resistant",
+            "Excellent Dielectric Properties"
+        ],
+        "Chemical Family": [
+            "Silicones"
+        ],
+        "Thickener Type": [
+            "Silica"
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": 412927,
+    "brand": "eggtek",
+    "name": "Arkion Life Sciences Egg IgY",
+    "slug": "arkion-life-sciences-egg-igy",
+    "description": "Egg IgY is manufactured to include sensitivity to antigens that are most commonly found to challenge piglets.",
+    "company_name": "Arkion Life Sciences",
+    "company_slug": "arkion-life-sciences",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672054/production/Company/32674/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708672054/production/Company/32674/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Ruminants",
+            "Swine",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Immunomodulators",
+            "Health & Well-Being"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Immunoglobulin Y"
+        ],
+        "Functions": [
+            "Immunomodulator"
+        ],
+        "Animal Species": [
+            "Calves",
+            "Swine",
+            "Cattle"
+        ]
+    }
+}

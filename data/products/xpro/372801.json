@@ -1,0 +1,31 @@
+{
+    "id": 372801,
+    "brand": "xpro",
+    "name": "INXFlex™ UV Flexographic Inks",
+    "slug": "inxflex-uv-flexographic-inks",
+    "description": "INXFlex™ UV Flexographic Inks are formulated to provide minimal plate swell on most tag &amp; label, pressure sensitive, shrink and in-mold label applications. Formulated to be benzophenone and ITX free, they are an ultra-low viscosity pourable system that can be printed with aniloxes up to 1800-line screen with 1.0-1.2 BCM. They provide good adhesion to a wide variety of substrates while being V-pyrol free.",
+    "company_name": "INX Digital Czech",
+    "company_slug": "inx-digital-czech",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520143/production/Brand/27822/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609117/production/CategoryImage/596/category_image/PrintingPackaging_07.jpg",
+    "properties": {
+        "Applications": [
+            "Tapes & Labels",
+            "Printing & Inks",
+            "Tapes, Labels & Adhesives",
+            "Flexography"
+        ],
+        "Product Families": [
+            "Flexography Inks",
+            "Inks & Pastes"
+        ]
+    },
+    "summary": {
+        "Features": [
+            "Low Viscosity",
+            "UV Curable",
+            "Good Adhesion",
+            "Swell Resistance"
+        ]
+    }
+}

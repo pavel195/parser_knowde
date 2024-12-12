@@ -1,0 +1,43 @@
+{
+    "id": 402063,
+    "brand": "purol",
+    "name": "Basis® F15",
+    "slug": "basis-f15",
+    "description": "Basis® F15 has Adipic Acid base used as adhesives, PU coatings, PU shoe soles, elastomers, PU flexible foam.",
+    "company_name": "Baalbaki Chemical Industries",
+    "company_slug": "baalbaki-chemical-industries",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708673357/production/Brand/30662/logo/image",
+    "banner_url": "https://static.knowde.com/card-banners/knowde-card-for-raw-materials-8.jpg",
+    "properties": {
+        "Applications": [
+            "Footwear",
+            "Other Adhesives & Sealants Applications",
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Functional Additives",
+            "Monomers",
+            "Oligomers",
+            "Prepolymers & Polyols",
+            "Additives",
+            "Monomers & Intermediates"
+        ],
+        "Chemical Family": [
+            "Polyols",
+            "Aliphatics",
+            "Polyols (Polyester)"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Oligomer",
+            "Hardener",
+            "Monomer"
+        ],
+        "Chemical Family": [
+            "Aliphatics",
+            "Polyols (Polyester)",
+            "Polyols"
+        ]
+    }
+}

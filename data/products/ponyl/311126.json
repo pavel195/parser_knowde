@@ -1,0 +1,37 @@
+{
+    "id": 311126,
+    "brand": "ponyl",
+    "name": "POBUX® 3001EPG30",
+    "slug": "pobux-3001epg30",
+    "description": "Pobux® 3001EPG30 is applied in connector, cooling fan, etc.",
+    "company_name": "Polyrocks Chemical",
+    "company_slug": "polyrocks-chemical",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691737570/production/Product/311126/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607546/production/CategoryImage/524/category_image/ElectricalElectronics_09.jpg",
+    "properties": {
+        "Applications": [
+            "Connectors",
+            "Consumer Electronics",
+            "Appliances & Electronics",
+            "Parts & Components",
+            "Devices & Assemblies"
+        ],
+        "Product Families": [
+            "Polyesters & Copolyesters",
+            "Engineering & Specialty Polymers"
+        ],
+        "Chemical Family": [
+            "Polyesters"
+        ],
+        "Polymer Name": [
+            "Polybutylene Terephthalate (PBT)"
+        ],
+        "End Uses": [
+            "Appliances",
+            "Lawn Equipment",
+            "Garden Equipment",
+            "Connectors"
+        ]
+    },
+    "summary": {}
+}

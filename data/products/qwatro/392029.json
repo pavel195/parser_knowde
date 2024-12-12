@@ -1,0 +1,47 @@
+{
+    "id": 392029,
+    "brand": "qwatro",
+    "name": "Qwatro 5% Perox",
+    "slug": "qwatro-5-perox",
+    "description": "Qwatro 5% Perox is a peroxide-based sanitizer for use in food processing and handling establishments. Perox may be used on a wide variety of surfaces such as floors, walls, concrete, plastic, stainless steel, glass, tile, glazed porcelain and any other hard non-porous surface that is not harmed by water.",
+    "company_name": "Qwatro Corp",
+    "company_slug": "qwatro-corp",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664291750/production/Company/48738/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515636/production/CategoryImage/1054/category_image/HII_06.jpg",
+    "properties": {
+        "Applications": [
+            "Institutional & Catering",
+            "Food & Beverage Manufacturing",
+            "Food Facility Cleaning & Sanitization",
+            "Processing & Packaging",
+            "Institutional & Industrial Care"
+        ],
+        "Product Families": [
+            "Food Grade Cleaners",
+            "Commercial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Industrial Surface Care",
+            "Sanitizers",
+            "Cleaner"
+        ],
+        "Certifications & Compliance": [
+            "CFIA Amenable"
+        ],
+        "Application Areas": [
+            "Floor",
+            "Industrial Surfaces",
+            "Wall"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Concrete",
+            "Plastics",
+            "Glass",
+            "Tile"
+        ]
+    }
+}

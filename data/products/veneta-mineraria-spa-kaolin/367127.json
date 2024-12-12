@@ -1,0 +1,35 @@
+{
+    "id": 367127,
+    "brand": "veneta-mineraria-spa-kaolin",
+    "name": "Kaolin P30-84",
+    "slug": "kaolin-p30-84",
+    "description": "Kaolin P30-84 is ultra-pure product with controlled bulk density and controlled pH.",
+    "company_name": "Veneta Mineraria Spa",
+    "company_slug": "veneta-mineraria-s-p-a",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704101247/production/Brand/27187/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1704101247/production/Brand/27187/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Chemical Manufacturing",
+            "Other Paints & Coatings Applications",
+            "Other Agriculture & Feed Applications",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Inorganics",
+            "Technical Salts & Inorganics"
+        ],
+        "Chemical Family": [
+            "Silicates"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Kaolin"
+        ],
+        "Labeling Claims": [
+            "Mineral based",
+            "High Purity"
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "id": 131130,
+    "brand": "lightspan",
+    "name": "NuSil™ MED-6670",
+    "slug": "nusil-med-6670",
+    "description": "NuSil™ MED-6670 is a low coefficient of friction silicone coating.",
+    "company_name": "NuSil Technology",
+    "company_slug": "nusil-technology",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697221182/production/Company/1345/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1697221182/production/Company/1345/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Medical Devices & Assemblies",
+            "Other Medical Applications",
+            "Pipes & Plumbing",
+            "Pipes & Hoses",
+            "Agricultural Films",
+            "Building Materials",
+            "Medical"
+        ],
+        "Product Families": [
+            "Other Paints & Coatings",
+            "Paints & Coatings"
+        ],
+        "Chemical Family": [
+            "Silicones"
+        ],
+        "End Uses": [
+            "Drug Delivery Pens"
+        ]
+    },
+    "summary": {}
+}

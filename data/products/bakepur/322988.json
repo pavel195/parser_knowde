@@ -1,0 +1,35 @@
+{
+    "id": 322988,
+    "brand": "bakepur",
+    "name": "BakePur™ Flax",
+    "slug": "bakepur-flax",
+    "description": "Change your baked good labels. BakePur™ flax improves your gluten-free baked goods’ functionality and nutrition while cleaning up your label.",
+    "company_name": "Pizzey Ingredients",
+    "company_slug": "pizzey-ingredients",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686104968/production/Product/322988/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1686104968/production/Product/322988/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Food",
+            "Bakery"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Nut & Seed Products",
+            "Flours & Grains Products"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Flax Seed Powder"
+        ],
+        "Labeling Claims": [
+            "Plant-Based",
+            "Gluten-free",
+            "Naturally Derived"
+        ],
+        "Features": [
+            "High in Linoleic Acid"
+        ]
+    }
+}

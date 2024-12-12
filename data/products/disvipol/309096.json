@@ -1,0 +1,42 @@
+{
+    "id": 309096,
+    "brand": "disvipol",
+    "name": "Disvimol 102",
+    "slug": "disvimol-102",
+    "description": "Disvimol 102 is used in N. C. lacquers &amp; putty, in vinyl lacquers for gloss &amp; flexo inks.",
+    "company_name": "D.S.V. Chemicals",
+    "company_slug": "d-s-v-chemicals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112552/production/Product/309096/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609103/production/CategoryImage/595/category_image/PrintingPackaging_06.jpg",
+    "properties": {
+        "Applications": [
+            "Packaging Coatings",
+            "Printing & Inks",
+            "Primers & Lacquers",
+            "Flexography"
+        ],
+        "Product Families": [
+            "Other Resins & Binders",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Rosins"
+        ],
+        "End Uses": [
+            "Lacquers",
+            "Flexography Ink"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Rosins"
+        ],
+        "End Uses": [
+            "Lacquers",
+            "Flexography Ink"
+        ],
+        "Features": [
+            "High Gloss"
+        ]
+    }
+}

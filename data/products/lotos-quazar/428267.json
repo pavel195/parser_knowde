@@ -1,0 +1,35 @@
+{
+    "id": 428267,
+    "brand": "lotos-quazar",
+    "name": "Lotos Quazar Dynamic C2 SAE 0W-30",
+    "slug": "lotos-quazar-dynamic-c2-sae-0w-30",
+    "description": "Lotos Quazar Dynamic C2 SAE 0W-30 is the latest generation special, energy-efficient synthetic engine oil. Owing to the Hi-Tec Protection Plus formula it provides complete and lasting wear protection for ultramodern passenger cars and light-duty vehicle engines in which ACEA C2 class oils may be used.",
+    "company_name": "Lotos Oil",
+    "company_slug": "lotos-oil",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292798/production/Brand/33981/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608779/production/CategoryImage/578/category_image/AutomotiveTransportation_06.jpg",
+    "properties": {
+        "Applications": [
+            "Lubricants & Functional Fluids",
+            "Automotive Fluids & Lubricants"
+        ],
+        "Product Families": [
+            "Fluids & Lubricants",
+            "Lubricants & Oils"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Alternate Fuel Engine Oils"
+        ],
+        "Application Areas": [
+            "Automotive Engine"
+        ],
+        "Features": [
+            "Wear Resistant"
+        ],
+        "SAE Viscosity Grade": [
+            "SAE 0W-30"
+        ]
+    }
+}

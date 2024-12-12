@@ -1,0 +1,83 @@
+{
+    "id": 408802,
+    "brand": "gosulin",
+    "name": "TOSOLIN",
+    "slug": "tosolin",
+    "description": "TOSOLIN is a sun tan accelerator produced from yeast and microscopic mushrooms. TOSOLIN increases the natural resistance of the skin to the sun. Sun care products with TOSOLIN offer besides skin protection also natural skin tanning.",
+    "company_name": "Gobiotics",
+    "company_slug": "gobiotics",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708689379/production/Company/29233/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708689379/production/Product/408802/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Treatment Products",
+            "Skin Care",
+            "Sun Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Skin Actives",
+            "Cosmetic Actives"
+        ],
+        "INCI Name": [
+            "Glucose",
+            "Sodium Hyaluronate",
+            "Mannose",
+            "Beta-Glucan"
+        ],
+        "End Uses": [
+            "Rosacea (Redness) Treatment",
+            "After Sun Products",
+            "Self Tanning",
+            "Night Creams",
+            "Day Creams",
+            "Anti-Aging Products",
+            "Tanning Products"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Sodium Hyaluronate",
+            "Beta-Glucan",
+            "Glucose",
+            "Mannose"
+        ],
+        "Functions": [
+            "Tanning Agent"
+        ],
+        "Ingredient Origin": [
+            "Non-Animal Origin",
+            "Mineral Origin",
+            "Fermentation",
+            "Biotechnology",
+            "Synthetic"
+        ],
+        "Labeling Claims": [
+            "BSE-free",
+            "TSE-free",
+            "VOC-free",
+            "Allergen-free",
+            "Natural",
+            "Sustainable"
+        ],
+        "Benefit Claims": [
+            "Collagen Protection",
+            "Non-Irradiated",
+            "Tanning",
+            "Solvency",
+            "Preservation",
+            "Tan Accelerator",
+            "Skin Protection",
+            "Humectancy",
+            "Antioxidant Properties",
+            "Wrinkle Prevention",
+            "Sun Protection",
+            "Conditioning",
+            "UV Protection"
+        ],
+        "Certifications & Compliance": [
+            "WADA Certified",
+            "Generally Recognized As Safe (GRAS)"
+        ]
+    }
+}

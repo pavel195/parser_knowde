@@ -1,0 +1,31 @@
+{
+    "id": 292896,
+    "brand": "pepton",
+    "name": "Casabond™ TX",
+    "slug": "casabond-tx",
+    "description": "Casabond™ TX provides a useful means of bonding rubber doughs, solution coatings and solvent based dips to a variety of synthetic textiles.\r\n",
+    "company_name": "Thomas Swan",
+    "company_slug": "thomas-swan",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708687232/production/Brand/19797/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708687232/production/Brand/19797/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Footwear",
+            "Textile & Footwear Adhesives",
+            "Industrial & Assembly Adhesives"
+        ],
+        "Product Families": [
+            "Functional Additives",
+            "Additives"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Coupling Agent",
+            "Adhesion Promoter"
+        ],
+        "Features": [
+            "Low Viscosity"
+        ]
+    }
+}

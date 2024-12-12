@@ -1,0 +1,59 @@
+{
+    "id": 389638,
+    "brand": "komatex",
+    "name": "KömaTex® 158631",
+    "slug": "komatex-158631",
+    "description": "KömaTex® 158631 free-foam PVC sheets exhibit a highly regular, fine-celled foam structure and a good surface strength. The closed, matt, fine-textured, and high-quality surface presents an excellent substrate for printing, painting, and laminating and is very easy to process. Excellent properties offering the best conditions for great design potential. KömaTex® 158631 is therefore a highly interesting solution above all for advertising and building applications. Whether for signs, banners, or displays – for shop or stand design: KömaTex® 158631 is the right choice. In the color white 662 (similar to RAL 9003), the sheets are even weatherproof and weather resistant, making them the ideal material for outdoor applications as well.",
+    "company_name": "Profine",
+    "company_slug": "profine",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686149927/production/Brand/29302/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608454/production/CategoryImage/560/category_image/BuildingConstruction_04.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Printing & Inks",
+            "Displays",
+            "Building Envelope & Roofing",
+            "Devices & Assemblies",
+            "Interior Fixtures",
+            "Glazing & Window Elements",
+            "Digital Printing"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Vinyls, Vinylics & Vinyl Derivatives"
+        ],
+        "Polymer Name": [
+            "Polyvinyl Chloride (PVC)"
+        ],
+        "End Uses": [
+            "Displays",
+            "Signage",
+            "3D Printing Applications"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyvinyl Chloride (PVC)"
+        ],
+        "Physical Form": [
+            "Sheets"
+        ],
+        "Features": [
+            "Good Weather Stability",
+            "Recyclable",
+            "Bondability",
+            "Light Weight",
+            "Good Printability",
+            "Uniform Distribution",
+            "Flame Resistant",
+            "Excellent Surface Properties",
+            "Low Thermal Conductivity",
+            "Chemical Resistant",
+            "Corrosion Resistant",
+            "Low Water Absorption"
+        ]
+    }
+}

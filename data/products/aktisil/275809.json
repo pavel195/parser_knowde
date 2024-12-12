@@ -1,0 +1,69 @@
+{
+    "id": 275809,
+    "brand": "aktisil",
+    "name": "SILLITIN N 82",
+    "slug": "sillitin-n-82",
+    "description": "SILLITIN N 82 is a medium particle size distribution with highest yellowish tinge.",
+    "company_name": "Hoffmann Mineral",
+    "company_slug": "hoffmann-mineral",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708696395/production/Company/20722/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608566/production/CategoryImage/566/category_image/PaintingsCoatings_02.jpg",
+    "properties": {
+        "Applications": [
+            "Off Road & Recreational Vehicle (RV)",
+            "Aerospace & Aviation",
+            "Commercial",
+            "Rail & Mass Transit",
+            "Decorative Paints, Coatings & Stains",
+            "Architectural Coatings",
+            "Metal Coatings",
+            "Industrial Coatings",
+            "Appliances & Consumer Goods",
+            "Agricultural & Construction Equipment",
+            "Rail & Mass Transit Coatings",
+            "Other Automotive & Transportation Applications",
+            "Off Road & Commercial Vehicle Coatings",
+            "Automotive OEM Coatings",
+            "Aerospace Coatings",
+            "Other Industrial Applications",
+            "Sports & Recreation",
+            "Appliances & Electronics",
+            "Interior",
+            "Decorative Paints",
+            "Automotive",
+            "Coatings & Finishes",
+            "Transportation",
+            "Building Envelope",
+            "Building Materials",
+            "Chemical & Industrial Manufacturing",
+            "Automotive & Transportation",
+            "Building & Construction",
+            "Building Envelope & Roofing",
+            "Decorative Materials & Finishes"
+        ],
+        "Product Families": [
+            "Fillers & Extenders",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Carbonates",
+            "Barites & Barium Salts",
+            "Silica",
+            "Silicon-based Compounds"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Filler"
+        ],
+        "Chemical Family": [
+            "Silicon-based Compounds",
+            "Silica",
+            "Barites & Barium Salts",
+            "Carbonates"
+        ],
+        "Particle Size": [
+            "22.0 - 22.0 microns"
+        ]
+    }
+}

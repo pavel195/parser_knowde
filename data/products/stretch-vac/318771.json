@@ -1,0 +1,49 @@
+{
+    "id": 318771,
+    "brand": "stretch-vac",
+    "name": "Northern Composites NRF-2150",
+    "slug": "northern-composites-nrf-2150",
+    "description": "NRF-2150 is an intermediate temperature range, polypropylene release film with high elongation and excellent conformability. It is designed for use with low temperature epoxy and phenolic prepregs with release applications up to 302°F (150°C).",
+    "company_name": "Northern Composites",
+    "company_slug": "northern-composites",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686150310/production/Company/29321/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608769/production/CategoryImage/577/category_image/AutomotiveTransportation_05.jpg",
+    "properties": {
+        "Applications": [
+            "Medical",
+            "Marine",
+            "Other Medical Applications",
+            "Aerospace & Aviation",
+            "Transportation"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Polypropylenes (PP)",
+            "Polyolefins"
+        ],
+        "Polymer Name": [
+            "Polypropylene (unspecified)"
+        ],
+        "End Uses": [
+            "Film",
+            "Vacuum Bagging Film"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polypropylene (unspecified)"
+        ],
+        "Physical Form": [
+            "Film"
+        ],
+        "Features": [
+            "Cost Effective",
+            "High Elongation"
+        ],
+        "Color": [
+            "Pink"
+        ]
+    }
+}

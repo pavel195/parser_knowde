@@ -1,0 +1,88 @@
+{
+    "id": 425788,
+    "brand": "security-floor",
+    "name": "DeVere Chemical Sterox",
+    "slug": "devere-chemical-sterox",
+    "description": "DeVere Chemical Sterox is a non-foaming, chlorine-free, alkaline powder containing active oxygen, phosphates, and additives. It is formulated for use in breweries, wineries, and food processing plants for cleaning, bleaching &amp; deodorizing tanks, equipment, and production area.",
+    "company_name": "DeVere Chemical",
+    "company_slug": "devere-chemical",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1672225597/production/Company/12215/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1672225597/production/Company/12215/card_banner/image.png",
+    "properties": {
+        "Applications": [
+            "Processing & Packaging",
+            "Institutional & Industrial Care",
+            "Auto Care",
+            "Surface Care",
+            "Industrial Cleaning",
+            "Institutional & Catering",
+            "Vehicle & Machinery",
+            "Food Facility Cleaning & Sanitization",
+            "Food & Beverage Manufacturing",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Industrial Cleaners",
+            "Commercial Cleaners",
+            "Cleaners"
+        ],
+        "End Uses": [
+            "Casks",
+            "Utensils",
+            "Decanter",
+            "Barrels",
+            "Chillers",
+            "Wineries",
+            "Separator",
+            "Vats",
+            "Floor",
+            "Pipes",
+            "Wall",
+            "Equipment",
+            "Breweries",
+            "Industrial Surfaces",
+            "Kitchen",
+            "Tanks",
+            "Food Processing"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner"
+        ],
+        "Application Areas": [
+            "Breweries",
+            "Separator",
+            "Industrial Surfaces",
+            "Casks",
+            "Wineries",
+            "Utensils",
+            "Food Processing",
+            "Floor",
+            "Tanks",
+            "Barrels",
+            "Kitchen",
+            "Chillers",
+            "Vats",
+            "Equipment",
+            "Pipes",
+            "Decanter",
+            "Wall"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Silicone",
+            "Elastomers & Rubbers",
+            "Metal",
+            "Steel",
+            "Plastics",
+            "Stainless Steel"
+        ],
+        "Features": [
+            "Non-Foaming",
+            "Odorless",
+            "Neutralizes Odor",
+            "Effective Soil Removal",
+            "Whitening"
+        ]
+    }
+}

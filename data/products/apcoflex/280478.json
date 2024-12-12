@@ -1,0 +1,38 @@
+{
+    "id": 280478,
+    "brand": "apcoflex",
+    "name": "Apcotex TY 100",
+    "slug": "apcotex-ty-100",
+    "description": "Apcotex TY100 is a copolymer of styrene-butadiene latex used for dipping of fabric for tire cord, V-belts and conveyor belts. Its application also includes textile finishing and adhesive. It is manufactured by emulsion polymerization method with state-of-the-art manufacturing facilities to produce consistent product.",
+    "company_name": "Apcotex Industries Limited",
+    "company_slug": "apcotex-industries-limited",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1693578481/production/Company/12182/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Textile Manufacturing",
+            "Equipment & Parts",
+            "Other Textile Applications",
+            "Belts & Conveyers",
+            "Tires",
+            "Automotive",
+            "Chemical & Industrial Manufacturing",
+            "Textiles & Nonwovens",
+            "Leather & Textiles"
+        ],
+        "Product Families": [
+            "Styrene Butadiene Rubbers (SBR)",
+            "Thermoset Elastomers"
+        ],
+        "Polymer Name": [
+            "Styrene Butadiene Latex (SB Latex)"
+        ],
+        "End Uses": [
+            "Textile Applications",
+            "Conveyor Parts",
+            "Belts/Belt Repair",
+            "Tires"
+        ]
+    },
+    "summary": {}
+}

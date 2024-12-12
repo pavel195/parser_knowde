@@ -1,0 +1,47 @@
+{
+    "id": 300383,
+    "brand": "ethylene-propylene-rubber-epr-epdm",
+    "name": "HIGH DENSITY POLYETHYLENE (HDPE) B2555",
+    "slug": "high-density-polyethylene-hdpe-b2555",
+    "description": "HIGH DENSITY POLYETHYLENE (HDPE) B2555 is a medium molecular weight high density polyethylene resin used for blow molding. Blow molded parts made from this resin exhibit high stiffness, good impact strength and good Environmental Stress-Cracking Resistance (ESCR).",
+    "company_name": "Petro Rabigh",
+    "company_slug": "petro-rabigh",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708531965/production/Company/24290/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608477/production/CategoryImage/562/category_image/BuildingConstruction_06.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial & Transport Packaging",
+            "Other Consumer Goods Applications",
+            "Other Industrial Applications",
+            "Chemical & Industrial Manufacturing",
+            "Packaging"
+        ],
+        "Product Families": [
+            "Polyolefins",
+            "Basic Thermoplastics"
+        ],
+        "Chemical Family": [
+            "Polyethylenes",
+            "Polyolefins"
+        ],
+        "Polymer Name": [
+            "High Density Polyethylene (HDPE)",
+            "Bimodal Polyethylene (Bimodal PE)"
+        ],
+        "End Uses": [
+            "Industrial Containers",
+            "Household Goods",
+            "Containers",
+            "Blown Containers"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "High Density Polyethylene (HDPE)",
+            "Bimodal Polyethylene (Bimodal PE)"
+        ],
+        "Processing Methods": [
+            "Blow Molding"
+        ]
+    }
+}

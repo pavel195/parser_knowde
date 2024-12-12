@@ -1,0 +1,52 @@
+{
+    "id": 275918,
+    "brand": "borchers",
+    "name": "Borchi® Gel PW 25",
+    "slug": "borchi-gel-pw-25",
+    "description": "Borchi® Gel PW 25 is a HEUR rheology modifier ( Hydrophobically modified Ethoxylated Ur ethane copolymer rheology modifier). This solution works well as a low shear range thickener for improved rheological profiles in coatings. Borchi® Gel PW 25 is an emulsifier-, APEO-, and organo tin-free non-ionic polyurethane-based thickener for water-based coatings.",
+    "company_name": "Borchers: A Milliken Brand",
+    "company_slug": "borchers",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1715601606/production/Brand/18991/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608611/production/CategoryImage/569/category_image/PaintingsCoatings_05.jpg",
+    "properties": {
+        "Applications": [
+            "Decorative Paints",
+            "Decorative Paints, Coatings & Stains",
+            "Industrial Coatings",
+            "Building & Construction",
+            "Decorative Materials & Finishes"
+        ],
+        "Product Families": [
+            "Rheology Modifiers & Stabilizers",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)",
+            "HEUR Thickener"
+        ],
+        "End Uses": [
+            "Waterborne Coating"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Rheology Modifier",
+            "Thickener"
+        ],
+        "Chemical Family": [
+            "HEUR Thickener",
+            "Polyurethanes (PU)"
+        ],
+        "End Uses": [
+            "Waterborne Coating"
+        ],
+        "Labeling Claims": [
+            "APEO-Free",
+            "Emulsifier-free",
+            "Tin-free"
+        ],
+        "Physical Form": [
+            "Liquid"
+        ]
+    }
+}

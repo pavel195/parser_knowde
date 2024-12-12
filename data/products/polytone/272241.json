@@ -1,0 +1,40 @@
+{
+    "id": 272241,
+    "brand": "polytone",
+    "name": "POLYTONE® PF201",
+    "slug": "polytone-pf201",
+    "description": "POLYTONE™ PF 201 is a phenol - formaldehyde two-step resin containing hexa.",
+    "company_name": "Polyols and Polymers",
+    "company_slug": "polyols-and-polymers",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112288/production/Company/20954/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609128/production/CategoryImage/597/category_image/PrintingPackaging_08.jpg",
+    "properties": {
+        "Applications": [
+            "Paper & Pulp",
+            "Industrial Coatings",
+            "Other Industrial Coatings",
+            "Coated Paper & Paperboard",
+            "Chemical & Industrial Manufacturing",
+            "Rigid Packaging",
+            "Crates & Boxes",
+            "Tooling & Moldmaking"
+        ],
+        "Product Families": [
+            "Other Resins & Binders",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Phenols & Phenolics",
+            "Phenol Formaldehyde (PF)"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Phenols & Phenolics",
+            "Phenol Formaldehyde (PF)"
+        ],
+        "Features": [
+            "Abrasion Resistance"
+        ]
+    }
+}

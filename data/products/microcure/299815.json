@@ -1,0 +1,30 @@
+{
+    "id": 299815,
+    "brand": "microcure",
+    "name": "FluoroSyl 880.00",
+    "slug": "fluorosyl-880-00",
+    "description": "FluoroSyl is triethoxysilane terminated, bifunctional perfluoropolyether (PFPE) designed as a low surface energy treatment for glass, siliceous surfaces, metals, and other substrates that have hydroxyl (–OH) groups on the surface. FluoroSyl is a hydrophobic and oleophobic coating. FluoroSyl provides long-lasting, antifouling, anti-fingerprint, and anti-smudge properties. FluoroSyl 880 is a good replacement for Fluorolink S10.",
+    "company_name": "Cytonix, LLC",
+    "company_slug": "cytonix-llc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1693579683/production/Company/13816/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608566/production/CategoryImage/566/category_image/PaintingsCoatings_02.jpg",
+    "properties": {
+        "Applications": [
+            "Metal Coatings",
+            "Other Paints & Coatings Applications",
+            "Glass Coatings",
+            "Industrial Coatings",
+            "Specialty Coatings"
+        ],
+        "Product Families": [
+            "Surface Modifiers",
+            "Functional Additives",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Perfluoropolyethers (PFPE)",
+            "Fluoropolymers"
+        ]
+    },
+    "summary": {}
+}

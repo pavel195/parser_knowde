@@ -1,0 +1,51 @@
+{
+    "id": 92017,
+    "brand": "vertasil",
+    "name": "SiBrid® DE-23",
+    "slug": "sibrid-diethicone-de-23-de-23",
+    "description": "SiBrid® DIETHICONE DE-23 (DE-23) is a rich, non-tacky emollient that is substantive to the skin. It provides a rich feel in water-in-silicone emulsions and lipsticks. Due to its excellent pigment-wetting properties, this product also serves as a good binder in pressed powders.",
+    "company_name": "Gelest Inc.",
+    "company_slug": "gelest",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1713788896/production/Product/92017/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1713788896/production/Brand/8130/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Color Cosmetics",
+            "Skin Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Texturizers & Fillers",
+            "Solvents & Carriers",
+            "Emulsifiers, Solubilizers & Dispersants",
+            "Conditioners & Emollients",
+            "Sensory Modifiers",
+            "Functionals"
+        ],
+        "Chemical Family": [
+            "Silicones"
+        ],
+        "INCI Name": [
+            "Polydiethylsiloxane"
+        ],
+        "End Uses": [
+            "Face Powder",
+            "Lipstick"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Polydiethylsiloxane"
+        ],
+        "Functions": [
+            "Binder",
+            "Slip Agent",
+            "Carrier",
+            "Wetting Agent",
+            "Emollient"
+        ],
+        "Labeling Claims": [
+            "Ulta Beauty's Conscious Beauty"
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "id": 428243,
+    "brand": "moisture-vapor-barrier",
+    "name": "Moisture Vapor Barrier®",
+    "slug": "moisture-vapor-barrier",
+    "description": "Moisture Vapor Barrier is a two component, 100% solids, solvent free epoxy primer designed for superior moisture vapor transmission control. Moisture Vapor Barrier can eliminate the risk of coating failure due to high moisture vapor emissions. It is suitable for concrete and a variety floor coverings such as vinyl, tiles, sheeting, carpet, hardwood, and as a primer for urethanes, epoxies and traffic membranes. It is an ideal primer for damp areas, high moisture emitting surfaces and for below grade applications.",
+    "company_name": "Monopole",
+    "company_slug": "monopole",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520396/production/Brand/33980/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608611/production/CategoryImage/569/category_image/PaintingsCoatings_05.jpg",
+    "properties": {
+        "Applications": [
+            "Building & Construction",
+            "Packaging Coatings",
+            "Primers & Lacquers",
+            "Concrete Coatings & Stains"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Top Coats",
+            "Primers & Sealers"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ],
+        "Ready-to-Use Product Type": [
+            "Primer",
+            "Solventless & High Solids Coating",
+            "Top Coat",
+            "2K (2 component) Coating"
+        ],
+        "Application Area": [
+            "Floor Coverings"
+        ],
+        "Application Method": [
+            "Roller",
+            "Wipe",
+            "Broom"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Epoxies",
+            "Wood",
+            "Urethane Membranes",
+            "Vinyl",
+            "Concrete"
+        ],
+        "Features": [
+            "High Solids Content",
+            "Abrasion Resistant",
+            "Salt Water/Spray Resistant",
+            "Moisture Barrier",
+            "Very Low MVTR (Moisture Vapour Transmission Rate)",
+            "Enhanced Physical Properties",
+            "Excellent Substrate Adhesion",
+            "Low VOC",
+            "Alkali Resistant",
+            "Chemical Resistant",
+            "Solventless",
+            "Low Temperature Performance"
+        ]
+    }
+}

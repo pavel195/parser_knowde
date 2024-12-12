@@ -1,0 +1,35 @@
+{
+    "id": 418593,
+    "brand": "sodium-azide-with-cab-o-sil",
+    "name": "Fine Chemicals 1H-Tetrazole in water",
+    "slug": "fine-chemicals-1h-tetrazole-in-water",
+    "description": null,
+    "company_name": "Fine Chemicals",
+    "company_slug": "fine-chemicals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704106451/production/Company/48686/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608769/production/CategoryImage/577/category_image/AutomotiveTransportation_05.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical Manufacturing",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Heterocycles",
+            "Intermediates"
+        ],
+        "Chemical Family": [
+            "Tetrazoles"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "1H-Tetrazole"
+        ],
+        "CAS Number": [
+            "288-94-8"
+        ],
+        "Chemical Family": [
+            "Tetrazoles"
+        ]
+    }
+}

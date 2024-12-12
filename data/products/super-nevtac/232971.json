@@ -1,0 +1,46 @@
+{
+    "id": 232971,
+    "brand": "super-nevtac",
+    "name": "LX® 2161",
+    "slug": "lx-2161",
+    "description": "LX®-2161 is a thermoplastic low molecular weight, hydrocarbon resin produced by thermal polymerization of mixed DCPD, aromatic and alicyclic monomers derived from petroleum feedstocks.",
+    "company_name": "Neville",
+    "company_slug": "neville",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686111975/production/Company/16401/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608422/production/CategoryImage/558/category_image/BuildingConstruction_02.jpg",
+    "properties": {
+        "Applications": [
+            "Printing & Inks",
+            "Offset & Lithographic Printing"
+        ],
+        "Product Families": [
+            "Other Resins & Binders",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Aliphatics",
+            "Hydrocarbons"
+        ],
+        "End Uses": [
+            "Lithographic Ink",
+            "Solventborne Coating"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Hydrocarbons",
+            "Aliphatics"
+        ],
+        "End Uses": [
+            "Lithographic Ink",
+            "Solventborne Coating"
+        ],
+        "Molecular Weight": [
+            "1840.0 - 1840.0 g/mol"
+        ],
+        "Features": [
+            "Improved Substrate Wetting",
+            "Low VOC"
+        ]
+    }
+}

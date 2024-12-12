@@ -1,0 +1,50 @@
+{
+    "id": 310883,
+    "brand": "addinyl",
+    "name": "Addibatch® MBD 50699",
+    "slug": "addibatch-mbd-50699",
+    "description": "The MBD 50699 is a masterbatch containing 70% of extra-lamellar talc based on a polypropylene resin. This masterbatch can be used in dilution during the extrusion of compounds or directly in injection molding. For SDS, please contact Addiplast Group using the 'Request Document' button.",
+    "company_name": "Addiplast Group",
+    "company_slug": "addiplast-group",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708686885/production/Product/310883/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708686885/production/Brand/21490/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Food & Beverage Packaging",
+            "Non-Food Consumer Packaging",
+            "Healthcare Packaging",
+            "Packaging"
+        ],
+        "Product Families": [
+            "Fillers & Extenders",
+            "Additive Masterbatches",
+            "Masterbatches",
+            "Polymer Additives"
+        ],
+        "End Uses": [
+            "Food Packaging",
+            "Cosmetic Packaging"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Filler"
+        ],
+        "Processing Methods": [
+            "Extrusion",
+            "Injection Molding"
+        ],
+        "Carrier": [
+            "Polypropylenes (PP)",
+            "Resin-based"
+        ],
+        "Features": [
+            "Food Contact Acceptable",
+            "Dimensional Stability",
+            "Excellent Flexural Modulus",
+            "Excellent Stiffness",
+            "High Impact Resistance",
+            "Good Surface Appearance"
+        ]
+    }
+}

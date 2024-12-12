@@ -1,0 +1,54 @@
+{
+    "id": 112872,
+    "brand": "polyflon",
+    "name": "Neoflon PFA AP-231SH",
+    "slug": "neoflon-pfa-ap-231sh",
+    "description": "Neoflon PFA AP-231SH, in pellet or solid form, is a white resin tailored for extrusion and transfer molding. Known for features like excellent mold release, good environmental stress crack resistance (ESCR), and high purity, it caters to markets in electrical and electronics and printing and packaging. The product finds applications in bottles, cables, semiconductor components, and various industrial tanks.",
+    "company_name": "Daikin Industries, Ltd.",
+    "company_slug": "daikin",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708528381/production/Brand/9813/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708528381/production/Product/112872/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Semiconductor Manufacturing",
+            "Industrial & Transport Packaging",
+            "Jacketing & Insulation",
+            "Housings & Enclosures",
+            "Parts & Components",
+            "Wire & Cable",
+            "Packaging"
+        ],
+        "Product Families": [
+            "High Performance Thermoplastics",
+            "Engineering & Specialty Polymers"
+        ],
+        "Chemical Family": [
+            "Fluoropolymers"
+        ],
+        "Polymer Name": [
+            "Perfluoroalkoxy Polymer (PFA)"
+        ],
+        "End Uses": [
+            "Wires",
+            "Cables",
+            "Tubes",
+            "Gaskets",
+            "Valve Parts",
+            "Shipping Containers",
+            "Semiconductor Applications",
+            "Industrial Tanks",
+            "Housings",
+            "Fittings",
+            "Bottles"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Perfluoroalkoxy Polymer (PFA)"
+        ],
+        "Processing Methods": [
+            "Transfer Molding",
+            "Extrusion"
+        ]
+    }
+}

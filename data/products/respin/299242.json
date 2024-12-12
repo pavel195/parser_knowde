@@ -1,0 +1,42 @@
+{
+    "id": 299242,
+    "brand": "respin",
+    "name": "CARBOFEN GOLD",
+    "slug": "carbofen-gold",
+    "description": "Carbofen Gold is a flaked natural anionic bitumen emulsifying agent used in slow set emulsions for road surface binder applications and waterproofing. Our resin is derived from a tree native to Brazil, the Parana Pine, and has a chemical composition similar to oxidized gum rosin. Carbofen Gold is insoluable in water in its natural state. Once neutralized with caustic soda, the product becomes a soap solution and soluble. Our product can be used as is or saponified, depending on the application.",
+    "company_name": "Polytrade",
+    "company_slug": "polytrade",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708685896/production/Company/22818/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608600/production/CategoryImage/568/category_image/PaintingsCoatings_04.jpg",
+    "properties": {
+        "Applications": [
+            "Waterproofing & Weatherproofing",
+            "Building Envelope & Roofing"
+        ],
+        "Product Families": [
+            "Asphalt Additives",
+            "Other Resins & Binders",
+            "Functional Additives",
+            "Additives",
+            "Resins & Binders",
+            "Construction Chemicals"
+        ],
+        "End Uses": [
+            "Asphalt"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Emulsifier",
+            "Binder & Resin"
+        ],
+        "Labeling Claims": [
+            "Environmentally Friendly",
+            "Plant-Based",
+            "Non-Hazardous"
+        ],
+        "Physical Form": [
+            "Solid"
+        ]
+    }
+}

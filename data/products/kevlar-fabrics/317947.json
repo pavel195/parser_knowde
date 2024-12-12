@@ -1,0 +1,33 @@
+{
+    "id": 317947,
+    "brand": "kevlar-fabrics",
+    "name": "Kevlar Fabrics KF900T",
+    "slug": "kevlar-fabrics-kf900t",
+    "description": "Kevlar Fabrics KF900T is made of fabric by 2/2 Twill weaving style.",
+    "company_name": "Carr Reinforcements",
+    "company_slug": "carr-reinforcements",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691741975/production/Product/317947/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608769/production/CategoryImage/577/category_image/AutomotiveTransportation_05.jpg",
+    "properties": {
+        "Applications": [
+            "Sports & Recreation",
+            "Aerospace & Aviation",
+            "Interior",
+            "Exterior & Body",
+            "Transportation",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Aramid (Kevlar)",
+            "Reinforcements"
+        ],
+        "Chemical Family": [
+            "Aramid (Kevlar)"
+        ],
+        "End Uses": [
+            "Wheel Arch Housing",
+            "Hulls"
+        ]
+    },
+    "summary": {}
+}

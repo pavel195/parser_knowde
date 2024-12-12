@@ -1,0 +1,52 @@
+{
+    "id": 331337,
+    "brand": "hebofill",
+    "name": "HeBoCoat® EL-W 100",
+    "slug": "hebocoat-el-w-100",
+    "description": "HeBoCoat® EL-W 100 is a water-based, ready-to-use boron nitride suspension that has been developed especially as a high-temperature release layer for forming processes. Thanks to the inorganic binder system, the product offers the optimum compromise between good substrate adhesion and a very good lubricating and release effect.\r\n",
+    "company_name": "HENZE BORON NITRIDE PRODUCTS",
+    "company_slug": "henze-boron-nitride-products",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520131/production/Brand/19274/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1687520131/production/Brand/19274/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Industrial Coatings",
+            "Specialty Coatings",
+            "Other Industrial Coatings",
+            "Other Specialty Coatings",
+            "Other Industrial Applications",
+            "Other Paints & Coatings Applications",
+            "Chemical & Industrial Manufacturing",
+            "Fluids & Lubricants",
+            "Tooling & Moldmaking"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Other Paints & Coatings"
+        ],
+        "Chemical Family": [
+            "Boron-based Compounds"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Waterborne Coating"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal"
+        ],
+        "Features": [
+            "Good Release Properties",
+            "Excellent Lubricity",
+            "Excellent Substrate Adhesion",
+            "Temperature Resistance"
+        ],
+        "Application Method": [
+            "Brush",
+            "Spray"
+        ],
+        "Chemical Family": [
+            "Boron-based Compounds"
+        ]
+    }
+}

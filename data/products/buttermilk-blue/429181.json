@@ -1,0 +1,43 @@
+{
+    "id": 429181,
+    "brand": "buttermilk-blue",
+    "name": "Emmi Roth Natural Gruyere Shred",
+    "slug": "emmi-roth-natural-gruyere-shred",
+    "description": null,
+    "company_name": "Emmi Roth",
+    "company_slug": "emmi-roth",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1703231504/production/Company/57929/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625604505/production/CategoryImage/418/category_image/AnimalFeed_01.jpg",
+    "properties": {
+        "Applications": [
+            "Convenience Foods",
+            "Savory & Culinary",
+            "Food"
+        ],
+        "Product Families": [
+            "Dairy Products",
+            "Whole Foods, Extracts & Premixes"
+        ],
+        "End Uses": [
+            "Packaged Sandwiches",
+            "Soups"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Gruyere Cheese"
+        ],
+        "Labeling Claims": [
+            "rBGH-free",
+            "Gluten-free"
+        ],
+        "Features": [
+            "Smooth Texture",
+            "Firm Texture",
+            "Low Moisture"
+        ],
+        "Sugar Content": [
+            "0.0 - 0.0 %"
+        ]
+    }
+}

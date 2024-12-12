@@ -1,0 +1,54 @@
+{
+    "id": 163355,
+    "brand": "burcopel",
+    "name": "BURCOTERGE™ LFE-1000",
+    "slug": "burcoterge-lfe-1000",
+    "description": "BURCOTERGE™ LFE-1000 is a nonionic surfactant. Detergent for oils and greases, excellent oil emulsifying properties to prevent redeposition. Effective at removing silicone oils. Controlled foam; foam levels decrease at elevated temperatures, quick breaking foam.",
+    "company_name": "Burlington Chemical Co",
+    "company_slug": "burlington-chemical-co",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672565/production/Company/1171/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708672565/production/Company/1171/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Food & Beverage Manufacturing",
+            "Food Facility Cleaning & Sanitization",
+            "Surface Care",
+            "Industrial Cleaning",
+            "Laundry & Fabric Care",
+            "Institutional & Catering",
+            "Vehicle & Machinery",
+            "Other Home Care Applications",
+            "Processing & Packaging",
+            "Home Care",
+            "Institutional & Industrial Care"
+        ],
+        "Product Families": [
+            "Emulsifiers & Demulsifiers",
+            "Nonionic Surfactants",
+            "Soaps & Surfactants",
+            "Cleaning Aids"
+        ],
+        "End Uses": [
+            "Parts Cleaners",
+            "Metal Cleaners",
+            "Industrial Cleaners",
+            "Degreasers",
+            "Laundry Detergents",
+            "Pipe Cleaners"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Emulsifier",
+            "Surfactant (Nonionic)"
+        ],
+        "End Uses": [
+            "Industrial Cleaners",
+            "Metal Cleaners",
+            "Pipe Cleaners",
+            "Parts Cleaners",
+            "Degreasers",
+            "Laundry Detergents"
+        ]
+    }
+}

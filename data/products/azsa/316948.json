@@ -1,0 +1,60 @@
+{
+    "id": 316948,
+    "brand": "azsa",
+    "name": "Asturiana de Zinc, S.A.U. 37 402 - Gold Seal",
+    "slug": "asturiana-de-zinc-s-a-u-37-402-gold-seal",
+    "description": "Asturiana de Zinc, S.A.U. 37 402 - Gold Seal is used in Coloring agents, pigments. Fuels and fuel additives. Intermediates. Laboratory chemicals. Lubricants and lubricant additives. Plating agents and metal surface treating agents. Process regulators, other than polymerisation or vulcanisation processes. Component in batteries. Corrosion inhibitors and anti-scaling agents. Fertilizers. Photosensitive agents and other photo-chemicals. Process regulators, used in vulcanisation or polymerisation processes. Processing aid, not otherwise listed. Semiconductors.",
+    "company_name": "Asturiana de Zinc, S.A.U.",
+    "company_slug": "asturiana-de-zinc-s-a-u",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704100229/production/Product/316948/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical Manufacturing",
+            "Semiconductor Manufacturing",
+            "Batteries",
+            "Metal Manufacturing & Finishing",
+            "Fluids & Lubricants",
+            "Other Battery Materials",
+            "Other Agriculture & Feed Applications",
+            "Battery Materials",
+            "Parts & Components",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Inorganics",
+            "Technical Salts & Inorganics"
+        ],
+        "Chemical Family": [
+            "Zinc & Zinc Compounds"
+        ],
+        "End Uses": [
+            "Metal Finishing Compound",
+            "Fuel Additives",
+            "Fertilizers"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Zinc Oxide"
+        ],
+        "CAS Number": [
+            "1314-13-2"
+        ],
+        "Grade": [
+            "Laboratory Grade"
+        ],
+        "Labeling Claims": [
+            "Not Tested on Animals",
+            "GMO-free",
+            "Non-GMO",
+            "Formaldehyde-free"
+        ],
+        "Features": [
+            "Corrosion Resistance"
+        ],
+        "Synonyms": [
+            "Hubbuck's White, Zinc gelatin, Zinc monoxide, Zinc white, ZnO"
+        ]
+    }
+}

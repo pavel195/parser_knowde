@@ -1,0 +1,34 @@
+{
+    "id": 367131,
+    "brand": "ferrotech",
+    "name": "Ferrotech red",
+    "slug": "ferrotech-yellow",
+    "description": null,
+    "company_name": "Veneta Mineraria Spa",
+    "company_slug": "veneta-mineraria-s-p-a",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704101733/production/Brand/27189/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1704101733/production/Brand/27189/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Chemical Manufacturing",
+            "Other Paints & Coatings Applications",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Inorganics",
+            "Technical Salts & Inorganics"
+        ],
+        "Chemical Family": [
+            "Iron & Iron Compounds",
+            "Iron Oxides"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Iron Oxide"
+        ],
+        "Labeling Claims": [
+            "High Purity"
+        ]
+    }
+}

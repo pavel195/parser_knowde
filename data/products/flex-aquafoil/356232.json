@@ -1,0 +1,30 @@
+{
+    "id": 356232,
+    "brand": "flex-aquafoil",
+    "name": "FLEXPRIME Inline Primer 1004",
+    "slug": "flexprime-inline-primer-1004",
+    "description": "FLEXPRIME Inline Primer 1004 is a waterborne copolymer dispersion for primer coating on printed paper and board with oil base inks. It is suitable as a top coat on oil base inks for varnishing with UV coatings.",
+    "company_name": "Uflex",
+    "company_slug": "uflex",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520448/production/Brand/26514/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609091/production/CategoryImage/594/category_image/PrintingPackaging_05.jpg",
+    "properties": {
+        "Applications": [
+            "Paper & Pulp",
+            "Packaging Coatings",
+            "Primers & Lacquers",
+            "Coated Paper & Paperboard"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Primer",
+            "Waterborne Coating",
+            "Top Coat"
+        ]
+    }
+}

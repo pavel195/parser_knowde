@@ -1,0 +1,63 @@
+{
+    "id": 165349,
+    "brand": "pq",
+    "name": "GLUCO™ DOE 120",
+    "slug": "gluco-doe-120",
+    "description": "GLUCO DOE 120 is a natural glucose derivative from corn, acting as high-efficient thickener in shampoo, body wash, facial cleanser and baby cleanser. It is especially applicable to some surfactants hardly to thicken. It causes no irritation to eyes, meanwhile significantly reduces irritation of whole formula.",
+    "company_name": "Tinci Materials",
+    "company_slug": "tinci-materials",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672479/production/Company/3662/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708672479/production/Company/3662/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Baby Care",
+            "Bath & Shower",
+            "Hair Care",
+            "Skin Care",
+            "Treatment Products",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Nonionic Surfactants",
+            "Skin Actives",
+            "Rheology Modifiers",
+            "Cosmetic Actives",
+            "Functionals",
+            "Surfactants & Cleansers"
+        ],
+        "INCI Name": [
+            "PEG-120 Methyl Glucose Dioleate"
+        ],
+        "End Uses": [
+            "Body Wash",
+            "Shampoos & Rinses",
+            "Baby Shampoo",
+            "Baby Soap",
+            "Bubble Bath",
+            "Facial Cleanser"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "PEG-120 Methyl Glucose Dioleate"
+        ],
+        "Ingredient Origin": [
+            "Synthetic",
+            "Oleochemical"
+        ],
+        "Functions": [
+            "Thickener",
+            "Viscosity Modifier",
+            "Cleansing Agent",
+            "Anti-Irritant"
+        ],
+        "Labeling Claims": [
+            "Clean at Sephora",
+            "Ulta Beauty's Conscious Beauty"
+        ],
+        "Benefit Claims": [
+            "Soft Feel",
+            "Anti-Irritant"
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "id": 273353,
+    "brand": "astapure",
+    "name": "Solabia-Algatech Nutrition Bioecolians",
+    "slug": "solabia-algatech-nutrition-bioecolians",
+    "description": "Bioecolians, patented alpha-gluco oligosaccharide, is an effective unique prebiotic ingredient active at low doses, only 2g/day, providing proven health benefits and well tolerated.\r\n\r\nBioecolians is composed of short glucose chains linked by glycosidic bonds α1-2 and α1-6, obtained from sugars by completely controlled enzymatic process.\r\n\r\nBioecolians resists hydrolysis in the stomach and absorption in the small intestine. It reaches the colon intact, where it is fermented by colonic beneficial bacteria, promoting their growth. The beneficial effect is already felt within a few days from initiating consumption.\r\n",
+    "company_name": "Solabia-Algatech Nutrition",
+    "company_slug": "solabia-algatech-nutrition",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708690937/production/Company/21298/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708690937/production/Company/21298/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Oral",
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being",
+            "Drug Delivery & Care Solutions"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Prebiotics, Probiotics & Postbiotics",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Alpha-Gluco Oligosaccharide"
+        ],
+        "Functions": [
+            "Prebiotic"
+        ],
+        "Labeling Claims": [
+            "Allergen-free",
+            "Vegan",
+            "Non-GMO",
+            "Gluten-free"
+        ],
+        "Certifications & Compliance": [
+            "Non-GMO Project Verified",
+            "Generally Recognized As Safe (GRAS)",
+            "Gluten-free",
+            "ISO 22000"
+        ],
+        "Benefit Claims (Health)": [
+            "Stimulates Immune System"
+        ]
+    }
+}

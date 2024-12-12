@@ -1,0 +1,65 @@
+{
+    "id": 88856,
+    "brand": "promois",
+    "name": "Amitose™ DGA",
+    "slug": "amitose-dga",
+    "description": "Amitose™ DGA, \"Rich-Moisturizing vitamin C\", is a novel stable vitamin C derivative produced by binding Vitamin C (ascorbic acid) and two glyceryl groups using SEIWA KASEI's original technology. In addition to inhibiting melanin production it provides ultra moisture to the skin as it strenghtens the cornified cell envelope in the stratum corneum. As a non-ionic ingredient it can be used easily in gel and emuslion formulae such as creams but it is also notably recommended for transparent gel-serums, Vitamin C-rich serum and skin toners. This product is preservative free water-soluble ingredient. It is developed and manufactured in Japan by SEIWA KASEI.",
+    "company_name": "Seiwa Kasei",
+    "company_slug": "seiwa-kasei",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672218/production/Product/88856/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708672218/production/Product/88856/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Skin Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Conditioners & Emollients",
+            "Skin Actives",
+            "Cosmetic Actives",
+            "Functionals"
+        ],
+        "Chemical Family": [
+            "Ascorbates"
+        ],
+        "INCI Name": [
+            "Bis-Glyceryl Ascorbate"
+        ],
+        "End Uses": [
+            "Moisturizers",
+            "Skin Toners"
+        ],
+        "Labeling Claims": [
+            "Clean at Sephora",
+            "Preservative-free"
+        ],
+        "Benefit Claims": [
+            "Skin Whitening",
+            "Humectancy",
+            "Skin Lightening",
+            "Moisturizing"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Bis-Glyceryl Ascorbate"
+        ],
+        "Functions": [
+            "Bleaching Agent",
+            "Moisturizing Agent",
+            "Lightening Agent",
+            "Whitening Agent",
+            "Humectant"
+        ],
+        "Labeling Claims": [
+            "Preservative-free",
+            "Clean at Sephora"
+        ],
+        "Benefit Claims": [
+            "Humectancy",
+            "Skin Lightening",
+            "Skin Whitening",
+            "Moisturizing"
+        ]
+    }
+}

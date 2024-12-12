@@ -1,0 +1,37 @@
+{
+    "id": 360841,
+    "brand": "qc",
+    "name": "QC™ Quick Cure",
+    "slug": "qc-quick-cure",
+    "description": "QC™ Quick Cure – has been scientifically formulated with the use of nanotechnology to create a semi-permanent barrier on the surface of a mold which is only 100 nanometers in thickness and which facilitates extraordinary plastic part release. QC coating is designed to be used on all plastics and is applied in the press.",
+    "company_name": "Nanoplas",
+    "company_slug": "nanoplas",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680109425/production/Brand/26973/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical & Industrial Manufacturing",
+            "Tooling & Moldmaking"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Top Coats"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Solventborne Coating",
+            "Top Coat"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Plastics"
+        ],
+        "Features": [
+            "Non Stick",
+            "Corrosion Resistant",
+            "Good Release Properties",
+            "Fast Cure",
+            "Low Friction"
+        ]
+    }
+}

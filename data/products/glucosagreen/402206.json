@@ -1,0 +1,37 @@
+{
+    "id": 402206,
+    "brand": "glucosagreen",
+    "name": "Pureflex® Glucosamine",
+    "slug": "pureflex-glucosamine",
+    "description": "Pureflex glucosamine is manufactured exclusively by TSI Group Ltd Bio-Active Ingredients Division, the world’s largest producer of glucosamine. Decades of expertise and continuous improvement ensure the highest, most consistent quality and provide for full transparency to the source of the ingredient. Pureflex glucosamine is supplied as a superior tablet grade, through our exclusive OptiTab® process, as well as capsule and soft chew grades. It is available is all salt forms as well.",
+    "company_name": "TSI Group Ltd Bio-Active Ingredients Division",
+    "company_slug": "tsi-group",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708527725/production/Company/35193/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708527725/production/Product/402206/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Topical",
+            "Oral",
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being",
+            "Drug Delivery & Care Solutions"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Glucosamine"
+        ],
+        "Ingredient Origin": [
+            "Marine Origin"
+        ],
+        "Certifications & Compliance": [
+            "European Pharmacopeia (Ph. Eur.)"
+        ]
+    }
+}

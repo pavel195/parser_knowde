@@ -1,0 +1,52 @@
+{
+    "id": 307378,
+    "brand": "starfire",
+    "name": "DayGlo Organic Yellow (HT-4796)",
+    "slug": "dayglo-organic-yellow-ht-4796",
+    "description": "Hi-Tint dispersions are recommended for in-plant tinting of solvent-based industrial, aerosol and trade sales coatings. These high strength conventional pigment dispersions incorporate high quality pigments in a unique alkyd vehicle system. Each colorant has been formulated for maximum pigment color value while maintaining a wide range of compatibility and characteristics such as non-settling, pourability, flocculation resistance and shelf stability.",
+    "company_name": "DayGlo",
+    "company_slug": "dayglo",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708521408/production/Product/307378/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708521408/production/Product/307378/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Other Paints & Coatings Applications",
+            "Industrial Coatings"
+        ],
+        "Product Families": [
+            "Organic Pigments",
+            "Color Dispersions",
+            "Dispersions & Masterbatches",
+            "Pigments & Colorants",
+            "Color Pigments"
+        ],
+        "End Uses": [
+            "Solventborne Coating"
+        ]
+    },
+    "summary": {
+        "Color": [
+            "Yellow"
+        ],
+        "Pigment Type": [
+            "Organic Pigments"
+        ],
+        "End Uses": [
+            "Solventborne Coating"
+        ],
+        "Compatible Polymers & Resins": [
+            "Alkyds",
+            "Vinyls",
+            "Polyesters",
+            "Epoxies (EP)",
+            "Polyurethanes (PU)"
+        ],
+        "Carrier": [
+            "Resin-based",
+            "Alkyd Resin"
+        ],
+        "Synonyms": [
+            "2-[2-(2-Methoxy-4-nitrophenyl)diazenyl]-N-(2-methoxyphenyl)-3-oxobutanamide, C.I. Pigment Yellow 74, Sunbrite Yellow 74, C.I. 11741, C.I. PY 74, PY 74"
+        ]
+    }
+}

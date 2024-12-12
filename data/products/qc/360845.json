@@ -1,0 +1,44 @@
+{
+    "id": 360845,
+    "brand": "qc",
+    "name": "SYN-LUBE™ High Performance Synthetic Grease",
+    "slug": "syn-lube-high-performance-synthetic-grease",
+    "description": "Syn-Lube™ High Performance Synthetic Grease is an extraordinary, state-of-the art synthetic lubricating grease that’s NSF Listed. Food-and medical-grade, the calcium sulfonate formula does not contain metals, PTFE, or silicone. With antioxidants, extreme pressure additives, and anti-wear additives, SYN-LUBE outlasts and outperforms virtually all other greases on the market. PTFE lubricants and other food-grade greases (calcium-based, clay-based, aluminum complex-based) just can’t match the exceptional friction reduction and wear resistance of SYN-LUBE. Designed for the most severe industrial and food applications, SYN-LUBE is the right choice if you’re looking for a universal grease for all of your needs.",
+    "company_name": "Nanoplas",
+    "company_slug": "nanoplas",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680110339/production/Brand/26977/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical & Industrial Manufacturing",
+            "Other Industrial Applications",
+            "Tooling & Moldmaking",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Lubricants & Oils",
+            "Fluids & Lubricants"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Special Synthetic Lubricants",
+            "Grease"
+        ],
+        "Application Area": [
+            "Bearings"
+        ],
+        "Features": [
+            "Anti-Wear Properties",
+            "High Performance",
+            "Extreme Pressure Performance",
+            "High Temperature Strength",
+            "Cost Effective",
+            "Corrosion Resistant",
+            "Good Adhesion",
+            "Reduced Friction",
+            "Improved Shear Stability",
+            "Excellent Water Resistance"
+        ]
+    }
+}

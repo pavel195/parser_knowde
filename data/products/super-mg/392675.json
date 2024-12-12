@@ -1,0 +1,36 @@
+{
+    "id": 392675,
+    "brand": "super-mg",
+    "name": "HOT ROCK™ PAWGUARD",
+    "slug": "hot-rock-pawguard",
+    "description": "HOT ROCK™ PAWGUARD is salt free containing 100% magnesium.",
+    "company_name": "Mid-American Salt",
+    "company_slug": "mid-american-salt",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708688661/production/Brand/29562/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606934/production/CategoryImage/504/category_image/FoodNutrition_05.jpg",
+    "properties": {
+        "Applications": [
+            "Pets",
+            "Other Food Applications",
+            "Animal Health & Nutrition",
+            "Food"
+        ],
+        "Product Families": [
+            "Minerals",
+            "Salt & Salt Substitutes",
+            "Taste & Flavor",
+            "Nutritional Ingredients"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Magnesium"
+        ],
+        "Functions": [
+            "Mineral Source"
+        ],
+        "Features": [
+            "High Melting Point"
+        ]
+    }
+}

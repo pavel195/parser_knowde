@@ -1,0 +1,45 @@
+{
+    "id": 303965,
+    "brand": "imagitint",
+    "name": "Imagifine Blue 612",
+    "slug": "imagifine-blue-612",
+    "description": "Imagifine Blue 612 are high strength, pourable pigment dispersions, specifically formulated for in-plant tinting of emulsion and water-based or aqueous paints &amp; aqueous inks. IMAGIFINE pigment pastes are cost economic alternatives to commonly used, high concentration aqueous dispersions containing high quality pigments in respect to light fastness, temperature and chemical resistance. IMAGIFINE pigment pastes use a minimal of additives to ensure that these dispersions interfere as little as possible with the chemistry of customer products. IMAGIFINE pigment pastes are standardized with respect to color strength on a weight basis. Pigment loading may vary from color to color.",
+    "company_name": "Imagico India",
+    "company_slug": "imagico-india",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708517007/production/Company/24754/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609091/production/CategoryImage/594/category_image/PrintingPackaging_05.jpg",
+    "properties": {
+        "Applications": [
+            "Other Printing Applications",
+            "Other Printing & Packaging Applications",
+            "Industrial Maintenance",
+            "Industrial Coatings",
+            "Printing & Inks"
+        ],
+        "Product Families": [
+            "Organic Pigments",
+            "Color Dispersions",
+            "Dispersions & Masterbatches",
+            "Color Pigments",
+            "Pigments & Colorants"
+        ],
+        "End Uses": [
+            "Waterborne Ink",
+            "Waterborne Coating"
+        ]
+    },
+    "summary": {
+        "Pigment Type": [
+            "Organic Pigments"
+        ],
+        "Color": [
+            "Blue"
+        ],
+        "Compatible Polymers & Resins": [
+            "Polyvinyl Acetate (PVA)",
+            "Styrene Butadiene Styrene (SBS)",
+            "Polyurethanes (PU)",
+            "Acrylics"
+        ]
+    }
+}

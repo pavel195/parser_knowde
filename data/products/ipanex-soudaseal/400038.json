@@ -1,0 +1,31 @@
+{
+    "id": 400038,
+    "brand": "ipanex-soudaseal",
+    "name": "SoudaSeal SL",
+    "slug": "ipanex-soudaseal-sl",
+    "description": "SoudaSeal SL is a SMX® sealant designed to offer superior adhesion to concrete as well as a wide variety of substrates with a smooth finish, which allows installation without tooling.",
+    "company_name": "Ipanex",
+    "company_slug": "ipanex",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1670414873/production/Company/51023/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608502/production/CategoryImage/564/category_image/BuildingConstruction_08.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Flooring & Surfaces",
+            "Fillers, Levellers & Joints",
+            "Sealants & Caulks"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Caulks & Sealants"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Sealant"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Concrete"
+        ]
+    }
+}

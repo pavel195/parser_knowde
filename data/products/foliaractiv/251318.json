@@ -1,0 +1,41 @@
+{
+    "id": 251318,
+    "brand": "foliaractiv",
+    "name": "Activ Zinc–Manganese Orchards",
+    "slug": "activ-zinc-manganese-orchards",
+    "description": "Activ Zinc-Manganese Orchards – thanks to its unique composition of chelated zinc and manganese micro molecules, this fertilizer is designed for interventions to improve the plant resistance to low temperatures and im-prove the sanitary condition of the plantation.",
+    "company_name": "Arkop",
+    "company_slug": "arkop",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708671946/production/Company/19265/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708671946/production/Company/19265/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Residential Pest Control",
+            "Commercial Pest Control",
+            "Agricultural Pest Control",
+            "Trees & Woodlands",
+            "Fruits",
+            "Agricultural Crops",
+            "Pest Control",
+            "Turf, Ornamentals & Landscape"
+        ],
+        "Product Families": [
+            "Fertilizers & Nutrients",
+            "Plant Health, Nutrients & Soil Management"
+        ],
+        "Chemical Family": [
+            "Zinc & Zinc Compounds"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Zinc & Zinc Compounds"
+        ],
+        "Functions": [
+            "Fertilizer"
+        ],
+        "Application Technique": [
+            "Sprayers"
+        ]
+    }
+}

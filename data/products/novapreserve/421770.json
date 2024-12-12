@@ -1,0 +1,69 @@
+{
+    "id": 421770,
+    "brand": "novapreserve",
+    "name": "Novapreserve P4",
+    "slug": "novapreserve-p4",
+    "description": "Novapreserve P4 is a higly effective preservative blend consisting of Methyl Paraben, Ethyl Paraben, Propyl Paraben, Butyl Paraben and disolved in (2-Phenoxyethanol). The blend has both a low-toxicity profile and dispays very low irritation to the skin, eyes or mucous membranes when used at recommended concentrations.",
+    "company_name": "Novaphene Specialities Pvt Ltd",
+    "company_slug": "novaphene-specialities-pvt-ltd",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708691623/production/Company/12150/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1634331907/production/CategoryImage/956/category_image/BaseChemicals_04.jpg",
+    "properties": {
+        "Applications": [
+            "Sun Care",
+            "Color Cosmetics",
+            "Bath & Shower",
+            "Hair Care",
+            "Skin Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Antioxidants & Preservatives",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Butylparaben",
+            "Propylparaben",
+            "Ethylparaben",
+            "Methylparaben",
+            "Phenoxyethanol"
+        ],
+        "End Uses": [
+            "Sunscreen Lotion",
+            "Cleansing Milk",
+            "Hair Styling Products",
+            "Hair Conditioner",
+            "Shampoos & Rinses",
+            "Lipstick",
+            "Mascara",
+            "Eye Liner",
+            "Liquid Soap",
+            "Shower Gels"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Propylparaben",
+            "Methylparaben",
+            "Ethylparaben",
+            "Butylparaben",
+            "Phenoxyethanol"
+        ],
+        "Functions": [
+            "Preservative"
+        ],
+        "Benefit Claims": [
+            "Compatibility",
+            "Temperature stability",
+            "Broad pH Stability",
+            "Low Volatility",
+            "Preservation",
+            "Low-Irritation",
+            "Easy To Handle"
+        ],
+        "Labeling Claims": [
+            "Biodegradable",
+            "Low Toxicity"
+        ]
+    }
+}

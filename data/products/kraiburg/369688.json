@@ -1,0 +1,41 @@
+{
+    "id": 369688,
+    "brand": "kraiburg",
+    "name": "KRAIBURG CR",
+    "slug": "kraiburg-cr",
+    "description": "KRAIBURG CR is a chloroprene rubber is used in applications such as conveyor belts, seals, hoses, air springs, roller coatings, wiper blades, linings, cable sheathings and rubber-coated fabrics.",
+    "company_name": "GUMMIWERK KRAIBURG",
+    "company_slug": "gummiwerk-kraiburg",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697222691/production/Brand/27507/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608769/production/CategoryImage/577/category_image/AutomotiveTransportation_05.jpg",
+    "properties": {
+        "Applications": [
+            "Equipment & Parts",
+            "Other Industrial Applications",
+            "Jacketing & Insulation",
+            "Pipes & Plumbing",
+            "Fuel Systems",
+            "Automotive",
+            "Building Materials",
+            "Wire & Cable",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Butadiene Rubbers (BR)",
+            "Thermoset Elastomers"
+        ],
+        "Chemical Family": [
+            "Polybutadienes",
+            "Polychloroprenes"
+        ],
+        "Polymer Name": [
+            "Chloroprene Rubber (CR)"
+        ],
+        "End Uses": [
+            "Hoses",
+            "Conveyor Parts",
+            "Cable Jacketing"
+        ]
+    },
+    "summary": {}
+}

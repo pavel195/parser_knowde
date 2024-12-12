@@ -1,0 +1,25 @@
+{
+    "id": 403133,
+    "brand": "envirogreen",
+    "name": "Ashburn Chemical Final Rinse",
+    "slug": "ashburn-chemical-final-rinse",
+    "description": "Ashburn Chemical Final Rinse is a specially formulated water soluble machine tool sump cleaner. This product will cut oil and sludge and remove contaminants and fungus found in sumps and coolant lines. It will make the tough job of cleaning a machine tool easier, and prepare the machine for a fresh charge of coolant.",
+    "company_name": "Ashburn Chemical",
+    "company_slug": "ashburn-chemical",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697221343/production/Company/40446/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515625/production/CategoryImage/1053/category_image/HII_05.jpg",
+    "properties": {
+        "Applications": [
+            "Surface Care",
+            "Industrial Cleaning",
+            "Home Care",
+            "Institutional & Industrial Care"
+        ],
+        "Product Families": [
+            "Commercial Cleaners",
+            "Industrial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {}
+}

@@ -1,0 +1,45 @@
+{
+    "id": 417998,
+    "brand": "mascoat",
+    "name": "Mascoat® 450EN",
+    "slug": "mascoat-450en",
+    "description": "Mascoat® 450EN is to be used under insulating coatings or conventional insulation in highly corrosive environments. It is designed to provide CUI protection per NACE SP0198. When used under insulation, 450EN offers outstanding resistance to wet &amp; dry cycling at high temperatures up to 450°F. The coating can be used on steel for offshore platforms, barges, refineries, petrochemical plants, power plants, pulp &amp; paper mills, and many other areas as recommended. The coating can also be used to line steel tanks at a higher film thickness.",
+    "company_name": "Mascoat",
+    "company_slug": "mascoat",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680109011/production/Brand/32716/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608611/production/CategoryImage/569/category_image/PaintingsCoatings_05.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial Coatings",
+            "Chemical & Industrial Manufacturing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Solventless & High Solids Coating",
+            "Primer"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Steel"
+        ],
+        "Features": [
+            "High Temperature Resistance",
+            "Corrosion Resistant",
+            "Thermal Shock Resistant",
+            "Low VOC",
+            "Water Resistant",
+            "Ease of Handling"
+        ],
+        "Application Method": [
+            "Spray",
+            "Roller",
+            "Brush"
+        ]
+    }
+}

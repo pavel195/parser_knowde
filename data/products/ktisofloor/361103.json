@@ -1,0 +1,37 @@
+{
+    "id": 361103,
+    "brand": "ktisofloor",
+    "name": "Ktisopur",
+    "slug": "ktisopur",
+    "description": "Ktisopur is a slightly elastic two-component polyurethane based paint suitable for coating floors in decks, car parking, storage facilities, and pedestrian areas. It is also a suitable covering for floors in food manufacturing that are exposed to organic acids like milk and other dairy products.",
+    "company_name": "Ktisis",
+    "company_slug": "ktisis",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520321/production/Brand/27001/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608422/production/CategoryImage/558/category_image/BuildingConstruction_02.jpg",
+    "properties": {
+        "Applications": [
+            "Flooring & Surfaces",
+            "Floor Coatings"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Other Paints & Coatings"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "2K (2 component) Coating"
+        ],
+        "Features": [
+            "Excellent Elasticity",
+            "Fast Cure",
+            "Outdoor Durability"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ]
+    }
+}

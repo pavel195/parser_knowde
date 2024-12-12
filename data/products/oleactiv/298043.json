@@ -1,0 +1,45 @@
+{
+    "id": 298043,
+    "brand": "oleactiv",
+    "name": "Oleactiv®",
+    "slug": "oleactiv",
+    "description": "Polyphenols formulated to maintain a healthy blood lipid profile and decrease the deposit of oxidized fat, reinforcing protection against cardiovascular disease. Allows equivalence claims with 2 servings of fruit and vegetables.",
+    "company_name": "Fytexia",
+    "company_slug": "fytexia",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708690576/production/Product/298043/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708690576/production/Product/298043/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Oral",
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being",
+            "Drug Delivery & Care Solutions"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Phytochemicals & Plant Extracts",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "Chemical Family": [
+            "Phenols & Phenolics",
+            "Polyphenols"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Polyphenols"
+        ],
+        "Active Component": [
+            "Polyphenols"
+        ],
+        "Functions": [
+            "Dietary Supplement"
+        ],
+        "Labeling Claims": [
+            "Organic",
+            "Plant-Based"
+        ]
+    }
+}

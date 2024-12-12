@@ -1,0 +1,41 @@
+{
+    "id": 396283,
+    "brand": "getsome-extreme",
+    "name": "GETSOME Extreme® Aerosol- GSX-11A",
+    "slug": "getsome-extreme-aerosol-gsx-11a",
+    "description": "GETSOME Extreme® Aerosol- GSX-11A has been engineered as a SUPER DUTY Lubricant with Heavy Duty Anti-Corrosive Additives and Pure Lanolin. Deep Penetrating formula designed for long lasting protection in extreme corrosive and wet conditions. Hydraulics to places you can not reach to stop corrosion and electrolysis. Does not dry out or wash off.",
+    "company_name": "GETSOME ",
+    "company_slug": "getsome",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664291923/production/Company/50302/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608760/production/CategoryImage/576/category_image/AutomotiveTransportation_04.jpg",
+    "properties": {
+        "Applications": [
+            "Automotive Fluids & Lubricants",
+            "Marine Fluids & Lubricants",
+            "Lubricants & Functional Fluids"
+        ],
+        "Product Families": [
+            "Lubricants & Oils",
+            "Fluids & Lubricants"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Industrial Lubricants"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Plastics",
+            "Elastomers & Rubbers",
+            "Painted Surfaces",
+            "Metal",
+            "Fiberglass"
+        ],
+        "Features": [
+            "Corrosion Resistant",
+            "Anti-Static",
+            "Low VOC",
+            "Non-Toxic",
+            "Electrically Insulating"
+        ]
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "id": 89756,
+    "brand": "akogel",
+    "name": "LIPEX® SheaClear™",
+    "slug": "aak-personal-care-lipex-sheaclear",
+    "description": "Lipex SheaClear™ is a liquid ingredient suitable for clear cosmetic formulations. Lipex SheaClear™ is composed of refined, fractionated and deodorized vegetable oil from the fruit of the Shea tree (Butyrospermum parkii). Lipex SheaClear™ contains a relatively high level of unsaponifiables.",
+    "company_name": "AAK Personal Care",
+    "company_slug": "aak-personal-care",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1716387916/production/Product/89756/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1716387916/production/Product/89756/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Baby Care",
+            "Bath & Shower",
+            "Color Cosmetics",
+            "Hair Care",
+            "Skin Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Conditioners & Emollients",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Butyrospermum Parkii (Shea) Oil"
+        ],
+        "End Uses": [
+            "Body Oil",
+            "Hair Oil",
+            "Body Firming Lotion",
+            "Anti-Dandruff Products",
+            "Foot Moisturizer",
+            "Facial Moisturizer",
+            "Face Powder",
+            "Eye Shadow",
+            "Eye Liner",
+            "Diaper Cream",
+            "Blush",
+            "Baby Soap",
+            "Baby Shampoo",
+            "Baby Lotion",
+            "Foundation",
+            "Shampoos & Rinses"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Butyrospermum Parkii (Shea) Oil"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Plant Origin"
+        ],
+        "Functions": [
+            "Occlusive",
+            "Conditioner",
+            "Emollient"
+        ],
+        "Labeling Claims": [
+            "Naturally Derived",
+            "Organic",
+            "Natural",
+            "Vegan",
+            "Kosher",
+            "Clean at Sephora",
+            "Credo Clean Standard",
+            "Sustainable",
+            "Halal",
+            "Environmentally Friendly"
+        ],
+        "Certifications & Compliance": [
+            "IECIC (China)",
+            "REACH (Europe)",
+            "Kosher",
+            "Halal"
+        ],
+        "Benefit Claims": [
+            "Good Transparency",
+            "Easy To Use",
+            "Cold Processable",
+            "Regenerating",
+            "Softening",
+            "Translucency",
+            "Conditioning",
+            "Soft Feel",
+            "Soothing",
+            "Texturizing",
+            "Moisturizing",
+            "Emolliency"
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "id": 407954,
+    "brand": "protal",
+    "name": "DENSO PASTE S105™",
+    "slug": "denso-paste-s105",
+    "description": "Denso Paste S105™ is a soft petrolatum primer containing water displacing corrosion inhibiting and flow control additives. The primer can be applied by gloved hand or stiff bristle brush.",
+    "company_name": "Denso North America",
+    "company_slug": "denso-north-america",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520411/production/Brand/31552/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608422/production/CategoryImage/558/category_image/BuildingConstruction_02.jpg",
+    "properties": {
+        "Applications": [
+            "Packaging Coatings",
+            "Primers & Lacquers"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Primer"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal"
+        ],
+        "Features": [
+            "Corrosion Resistant",
+            "Soft"
+        ],
+        "Application Method": [
+            "Brush"
+        ]
+    }
+}

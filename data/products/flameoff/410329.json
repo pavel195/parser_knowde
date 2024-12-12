@@ -1,0 +1,52 @@
+{
+    "id": 410329,
+    "brand": "flameoff",
+    "name": "FlameOFF® FR Clear",
+    "slug": "flameoff-fr-clear",
+    "description": "FlameOFF® FR Clear is a new environmentally friendly clear fire retardant designed for use on water absorbent substrates. Non-toxic and water-based. This product has only been tested for interior use and has not been tested for exterior applications.",
+    "company_name": "FlameOFF Coatings",
+    "company_slug": "flameoff-coatings",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1682593112/production/Brand/31877/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608502/production/CategoryImage/564/category_image/BuildingConstruction_08.jpg",
+    "properties": {
+        "Applications": [
+            "Building & Construction",
+            "Building Envelope & Roofing",
+            "Architectural Coatings",
+            "Wood Coatings & Finishes"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Waterborne Coating"
+        ],
+        "Features": [
+            "Non-Toxic",
+            "Excellent Aesthetics",
+            "Light Weight",
+            "Long Term Protection",
+            "Low Fume",
+            "UL Listed",
+            "Heat Resistance",
+            "Flame Resistant",
+            "Cost Effective",
+            "Odorless",
+            "Low Smoke Emission",
+            "Cleanable"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Leather",
+            "Wood",
+            "Textiles",
+            "Fibers & Fabrics"
+        ],
+        "Application Method": [
+            "Pad Printing",
+            "Spray"
+        ]
+    }
+}

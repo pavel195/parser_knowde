@@ -1,0 +1,39 @@
+{
+    "id": 399330,
+    "brand": "aldac",
+    "name": "ALDAC DAC-1",
+    "slug": "aldac-dac-1",
+    "description": "ALDAC DAC-1 is a foaming type for use in cleaning and descaling of metals with the exception of zinc and aluminum, or their alloys. Contains an indicator, which under goes color changes when acid is neutralized and serves as a visual aid in determining when the acid content is spent.",
+    "company_name": "Aldoa Company",
+    "company_slug": "aldoa-company",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292067/production/Company/50866/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515589/production/CategoryImage/1050/category_image/HII_02.jpg",
+    "properties": {
+        "Applications": [
+            "Home Care",
+            "Institutional & Industrial Care",
+            "Surface Care",
+            "Industrial Cleaning"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Industrial Cleaners",
+            "Commercial Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Descalers",
+            "Cleaner"
+        ],
+        "Certifications & Compliance": [
+            "ISO 9001"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal"
+        ],
+        "Features": [
+            "Foamable"
+        ]
+    }
+}

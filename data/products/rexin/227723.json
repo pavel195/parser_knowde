@@ -1,0 +1,33 @@
+{
+    "id": 227723,
+    "brand": "rexin",
+    "name": "REXIN HSP 50",
+    "slug": "rexin-hsp-50",
+    "description": "Saturated polyester resin with high wettability and flexibility. Suitable for high filled two-pack coatings and adhesives formulations.",
+    "company_name": "Sapici Spa",
+    "company_slug": "sapici-spa",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686111964/production/Company/8918/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1686111964/production/Company/8918/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Building & Construction",
+            "Wood Coatings & Finishes",
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Polyesters",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Polyesters"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Polyesters"
+        ],
+        "Features": [
+            "Improved Flexibility"
+        ]
+    }
+}

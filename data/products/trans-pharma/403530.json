@@ -1,0 +1,33 @@
+{
+    "id": 403530,
+    "brand": "trans-pharma",
+    "name": "TRANSPROP® CWPCT2-F",
+    "slug": "transprop-cwpct2-f",
+    "description": "TRANSPROP® CWPCT2-F is a white voided film with pearlized appearance. Both sides non heat sealable and both sides treated.",
+    "company_name": "Transcendia",
+    "company_slug": "transcendia",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686150463/production/Brand/30871/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609128/production/CategoryImage/597/category_image/PrintingPackaging_08.jpg",
+    "properties": {
+        "Applications": [
+            "Packaging",
+            "Non-Food Consumer Packaging"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ]
+    },
+    "summary": {
+        "Features": [
+            "Good Printability",
+            "Excellent Aesthetics",
+            "Low Density",
+            "Excellent Seal Properties",
+            "Excellent Opacity",
+            "Enhanced Yields"
+        ],
+        "Density": [
+            "620.0 - 620.0 kg/m³"
+        ]
+    }
+}

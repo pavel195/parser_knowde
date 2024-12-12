@@ -1,0 +1,53 @@
+{
+    "id": 78741,
+    "brand": "descarb",
+    "name": "Biolumitá®",
+    "slug": "biolumita",
+    "description": "Skin lightening agent that can also be used to balance uneven skin tone. Triple whitening action through interference in the formation of the melanosomes, melanin synthesis and in the transport of the melanossome to the keratinocytes.",
+    "company_name": "Chemyunion",
+    "company_slug": "chemyunion",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708687374/production/Company/1183/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708687374/production/Company/1183/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Skin Care",
+            "Color Cosmetics",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Skin Actives",
+            "Cosmetic Actives"
+        ],
+        "INCI Name": [
+            "Lecithin",
+            "Alpinia Officinarum Root Extract"
+        ],
+        "End Uses": [
+            "Eye Serum",
+            "Around Eye Cream",
+            "Facial Treatments",
+            "Skin Serums",
+            "Essence",
+            "Anti-Aging Products",
+            "Foundation"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Alpinia Officinarum Root Extract",
+            "Lecithin"
+        ],
+        "Functions": [
+            "Lightening Agent"
+        ],
+        "Labeling Claims": [
+            "Ulta Beauty's Conscious Beauty"
+        ],
+        "Benefit Claims": [
+            "Skin Whitening",
+            "Age & Dark Spot Reduction",
+            "Skin Lightening",
+            "Even Skin Tone"
+        ]
+    }
+}

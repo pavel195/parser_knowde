@@ -1,0 +1,37 @@
+{
+    "id": 373603,
+    "brand": "freshpak",
+    "name": "Freshpak Series",
+    "slug": "freshpak-series",
+    "description": "Freshpak Series is a low odor series developed specifically for indirect food contact folding carton applications. This system is formulated following the eupia exclusion list, guideline on printing inks, and gmp for packaging inks. Freshpak inks are vegetable based and formulated without mineral oil. Trillions of cartons have been successfully produced with freshpak inks.",
+    "company_name": "Precision Ink Corporation",
+    "company_slug": "precision-ink-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520121/production/Brand/27891/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609091/production/CategoryImage/594/category_image/PrintingPackaging_05.jpg",
+    "properties": {
+        "Applications": [
+            "Printing & Inks",
+            "Tapes, Labels & Adhesives",
+            "Offset & Lithographic Printing",
+            "Case & Carton Sealing"
+        ],
+        "Product Families": [
+            "Offset & Lithographic Inks",
+            "Inks & Pastes"
+        ],
+        "Chemical Family": [
+            "Vegetable Oils"
+        ]
+    },
+    "summary": {
+        "Features": [
+            "Food Contact Acceptable",
+            "Low Odor",
+            "Low Migration",
+            "Low VOC"
+        ],
+        "Chemical Family": [
+            "Vegetable Oils"
+        ]
+    }
+}

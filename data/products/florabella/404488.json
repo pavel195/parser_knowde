@@ -1,0 +1,30 @@
+{
+    "id": 404488,
+    "brand": "florabella",
+    "name": "Rednite®",
+    "slug": "maypro-rednite",
+    "description": "Rednite® is clinically proven beetroot powder for enhancing exercise endurance using dietary nitrates naturally found in beetroot.",
+    "company_name": "Maypro",
+    "company_slug": "maypro",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1693580848/production/Company/22007/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1693580848/production/Product/404488/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Nutraceuticals & Supplements",
+            "Sports Nutrition",
+            "Energy Drinks",
+            "Beverage",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Vegetable Products & Extracts",
+            "Whole Foods, Extracts & Premixes"
+        ],
+        "End Uses": [
+            "Dietary Supplements",
+            "Sports Nutrition",
+            "Energy Drinks"
+        ]
+    },
+    "summary": {}
+}

@@ -1,0 +1,34 @@
+{
+    "id": 297637,
+    "brand": "pensel",
+    "name": "ARDYME R-85",
+    "slug": "ardyme-r-85",
+    "description": "ARDYME R-85 is Arakawa’s polymerized rosin (derivatives of a natural rosin containing dimerized rosin), which is produced at Guangxi Wuzhou Arakawa’s plant. ARDYME R-85 has low metallic contents and is excellent for various applications, including adhesives, inks and soldering flux.",
+    "company_name": "Arakawa Chemical",
+    "company_slug": "arakawa-chemical",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1694095685/production/Company/20955/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609057/production/CategoryImage/591/category_image/PrintingPackaging_02.jpg",
+    "properties": {
+        "Applications": [
+            "Bookbinding",
+            "Tape & Label Adhesives",
+            "Bookbinding Adhesives",
+            "Tapes & Labels",
+            "Other Printing & Packaging Applications",
+            "Other Adhesives & Sealants Applications",
+            "Packaging & Paper",
+            "Tapes, Labels & Adhesives"
+        ],
+        "Product Families": [
+            "Surface Modifiers",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Rosins"
+        ],
+        "End Uses": [
+            "Hot Melt Adhesive"
+        ]
+    },
+    "summary": {}
+}

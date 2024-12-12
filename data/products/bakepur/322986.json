@@ -1,0 +1,46 @@
+{
+    "id": 322986,
+    "brand": "bakepur",
+    "name": "BlendPur™ Flax",
+    "slug": "blendpur-flax",
+    "description": "Change ingredients for the Better. BlendPur™ Flax offers a number of compelling benefits such as more nutrition, lower costs increased fiber and protein, plus ALA Omega-3 and lignans\r\n",
+    "company_name": "Pizzey Ingredients",
+    "company_slug": "pizzey-ingredients",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686104970/production/Product/322986/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1686104970/production/Product/322986/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Food",
+            "Nutrition & Well Being",
+            "Bakery",
+            "Sports Nutrition"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Nut & Seed Products",
+            "Alternates & Replacements",
+            "Flours & Grains Products"
+        ],
+        "End Uses": [
+            "Sports Nutrition",
+            "Bread",
+            "Muffins",
+            "Tortilla"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Flax Seed Powder"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Plant Origin"
+        ],
+        "Labeling Claims": [
+            "Clean Label",
+            "Plant-Based",
+            "Gluten-free",
+            "Naturally Derived"
+        ]
+    }
+}

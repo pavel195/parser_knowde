@@ -1,0 +1,42 @@
+{
+    "id": 304237,
+    "brand": "styacryl",
+    "name": "STYACRYL S600",
+    "slug": "rozachim-s600",
+    "description": "Styacryl S600 is APEO free aqueous copolymer emulsion based on Acrylic (meth) acrylic acid esters and Styrene.",
+    "company_name": "Rozachim",
+    "company_slug": "rozachim",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112099/production/Company/24774/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608557/production/CategoryImage/565/category_image/PaintingsCoatings_01.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial Coatings",
+            "Metal Coatings",
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Resins & Binders",
+            "Acrylics"
+        ],
+        "Chemical Family": [
+            "Styrene-Acrylic Copolymer",
+            "Esters"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Esters",
+            "Styrene-Acrylic Copolymer"
+        ],
+        "Glass Transition Temperature (Tg)": [
+            "21.0 - 21.0 °C"
+        ],
+        "Features": [
+            "Outdoor Durability",
+            "Blocking Resistance",
+            "Improved Flexibility",
+            "Water Resistance",
+            "Excellent Scratch Resistance"
+        ]
+    }
+}

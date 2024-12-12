@@ -1,0 +1,39 @@
+{
+    "id": 374600,
+    "brand": "fs-talent",
+    "name": "FS RinseOut™",
+    "slug": "fs-rinseout",
+    "description": "FS RinseOut is a next generation spray system cleaner, proven to be more efficient at removing pesticide residues than ordinary tank cleaners. Many new herbicide formulations often have limited compatibility or easily settle out in sprayer lines and hoses. FS RinseOut removes both dried on residues and oily residues to prevent cross contamination in future sprays.",
+    "company_name": "Insight FS",
+    "company_slug": "insight-fs",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708683705/production/Brand/28036/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608161/production/CategoryImage/546/category_image/AgricultureFeed_02.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial Cleaning",
+            "Surface Care",
+            "Home Care",
+            "Institutional & Industrial Care"
+        ],
+        "Product Families": [
+            "Performance Additives",
+            "Functional Additives"
+        ],
+        "End Uses": [
+            "Spray Cleaners",
+            "Tank Cleaners"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Scale Inhibitor"
+        ],
+        "Certifications & Compliance": [
+            "CPDA Certified"
+        ],
+        "End Uses": [
+            "Spray Cleaners",
+            "Tank Cleaners"
+        ]
+    }
+}

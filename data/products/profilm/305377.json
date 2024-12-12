@@ -1,0 +1,67 @@
+{
+    "id": 305377,
+    "brand": "profilm",
+    "name": "Santicizer® 1438",
+    "slug": "santicizer-1438",
+    "description": "Santicizer® 1438 is a modified alkyl aryl phosphate\nester for flexible PVC products that must meet\nstringent flame retardancy standards. Santicizer®\n1438 is specially recommended for plastisol\napplications where lower viscosity is combined with\nhigh fire-retardancy of the end product. Santicizer®\n1438 exhibits superior flow properties and plasticizer\nefficiency compared to triaryl phosphate esters at\nequal concentrations. Santicizer® 1438 can be used\nat lower concentrations for similar flame spread\nwithout affecting tensile properties.",
+    "company_name": "Valtris Specialty Chemicals Company",
+    "company_slug": "valtris-specialty-chemicals-company",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708696433/production/Product/305377/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708696433/production/Product/305377/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Technical Fabrics",
+            "Wallcoverings & Decorative Laminates",
+            "Equipment & Parts",
+            "Belts & Conveyers",
+            "Luggage & Leather Goods",
+            "Wallcovering & Decorative Laminates",
+            "Flooring & Surfaces",
+            "Chemical & Industrial Manufacturing",
+            "Textiles & Nonwovens",
+            "Decorative Materials & Finishes",
+            "Leather & Textiles"
+        ],
+        "Product Families": [
+            "Functional Additives",
+            "Flame Retardants",
+            "Performance Additives",
+            "Additives",
+            "Polymer Additives"
+        ],
+        "Chemical Family": [
+            "Phosphorous-based Compounds",
+            "Organophosphates",
+            "Phosphate Esters"
+        ],
+        "End Uses": [
+            "Conveyor Parts",
+            "Synthetic Leather",
+            "Belts/Belt Repair",
+            "Coated Fabrics",
+            "Vinyl Sheets",
+            "Tarpaulins",
+            "Wall Coverings"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Phosphate Esters",
+            "Phosphorous-based Compounds",
+            "Organophosphates"
+        ],
+        "Functions": [
+            "Flame Retardant",
+            "Smoke Suppressant",
+            "Plasticizer"
+        ],
+        "Labeling Claims": [
+            "Halogen-free"
+        ],
+        "Compatible Polymers & Resins": [
+            "Polyvinyl Chloride (PVC)",
+            "Polyurethanes (PU)",
+            "Acrylics"
+        ]
+    }
+}

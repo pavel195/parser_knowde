@@ -1,0 +1,38 @@
+{
+    "id": 254064,
+    "brand": "fitomix",
+    "name": "Top-Tan SR",
+    "slug": "top-tan-sr",
+    "description": "Top-Tan SR is Based on grape tannin, its chemical properties allow to obtain more structured red wines and to improve the color stability.",
+    "company_name": "Dal Cin Gildo Spa",
+    "company_slug": "dal-cin-gildo-spa",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708687222/production/Company/19798/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708687222/production/Company/19798/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Oenology",
+            "Beverage"
+        ],
+        "Product Families": [
+            "Flavor Enhancers",
+            "Taste & Flavor"
+        ],
+        "End Uses": [
+            "Wine"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Grapes Tannin"
+        ],
+        "Functions": [
+            "Flavor Enhancer"
+        ],
+        "Labeling Claims": [
+            "Non-GMO"
+        ],
+        "End Uses": [
+            "Wine"
+        ]
+    }
+}

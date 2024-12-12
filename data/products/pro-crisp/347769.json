@@ -1,0 +1,40 @@
+{
+    "id": 347769,
+    "brand": "pro-crisp",
+    "name": "PRO CRISP™",
+    "slug": "pro-crisp",
+    "description": "PRO CRISP™ introduced a 90% Milk Protein Crisp to its line of dairy protein products. The crisps are made using a proprietary patent pending extrusion process.",
+    "company_name": "Erie Foods International",
+    "company_slug": "erie-foods-international",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1693441298/production/Brand/25956/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606961/production/CategoryImage/506/category_image/FoodNutrition_07.jpg",
+    "properties": {
+        "Applications": [
+            "Food & Beverage Packaging",
+            "Other Food Applications",
+            "Cereals & Snacks",
+            "Confectionery",
+            "Other Non-Alcoholic Beverages",
+            "Dairy",
+            "Bakery",
+            "Beverage",
+            "Food",
+            "Processing & Packaging",
+            "Packaging"
+        ],
+        "Product Families": [
+            "Proteins & Amino Acids",
+            "Dairy Products",
+            "Nutrition & Fortification",
+            "Whole Foods, Extracts & Premixes",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Snacks",
+            "Breakfast Cereals",
+            "Food Coatings",
+            "Cereal Bars"
+        ]
+    },
+    "summary": {}
+}

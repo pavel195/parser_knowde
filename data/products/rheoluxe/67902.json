@@ -1,0 +1,88 @@
+{
+    "id": 67902,
+    "brand": "rheoluxe",
+    "name": "Fancol® Shea butter",
+    "slug": "fancol-shea-butter",
+    "description": "FANCOL SHEA BUTTER shows its ability to protect the skin from sun and helps to ease superficial skin irritation.",
+    "company_name": "Elementis",
+    "company_slug": "elementis",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672513/production/Product/67902/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708672513/production/Product/67902/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Hand Hygiene",
+            "Baby Care",
+            "Hair Care",
+            "Skin Care",
+            "Sun Care",
+            "Treatment Products",
+            "Beauty & Care",
+            "Personal Hygiene"
+        ],
+        "Product Families": [
+            "Fats, Butters & Waxes",
+            "Botanical Ingredients & Extracts",
+            "Skin Actives",
+            "Emulsifiers, Solubilizers & Dispersants",
+            "Conditioners & Emollients",
+            "Cosmetic Actives",
+            "Vitamins, Extracts & Oils",
+            "Functionals"
+        ],
+        "Chemical Family": [
+            "Botanical Derivatives"
+        ],
+        "INCI Name": [
+            "Butyrospermum Parkii (Shea) Butter"
+        ],
+        "End Uses": [
+            "Night Creams",
+            "Day Creams",
+            "Shaving Foam",
+            "Body Lotion",
+            "Hand Soap",
+            "Body Oil",
+            "Body Firming Lotion",
+            "Baby Sunscreen",
+            "Moisturizers",
+            "Anti-Aging Products",
+            "Facial Cleanser",
+            "Lip Care Products",
+            "After Sun Products",
+            "Foot Moisturizer",
+            "Facial Moisturizer",
+            "Detanglers",
+            "Beard Oil",
+            "Baby Soap",
+            "Baby Oil",
+            "Baby Lotion",
+            "Bar Soaps",
+            "Hair Conditioner",
+            "Hand Cream",
+            "Lipstick",
+            "Shampoos & Rinses",
+            "After Shaves"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Butyrospermum Parkii (Shea) Butter"
+        ],
+        "Functions": [
+            "Conditioner",
+            "Superfatting Agent",
+            "Protective Agent"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Non-Animal Origin",
+            "Plant Origin"
+        ],
+        "Labeling Claims": [
+            "Natural",
+            "Credo Clean Standard",
+            "Clean at Sephora",
+            "Ulta Beauty's Conscious Beauty"
+        ]
+    }
+}

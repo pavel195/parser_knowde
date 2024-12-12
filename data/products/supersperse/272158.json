@@ -1,0 +1,40 @@
+{
+    "id": 272158,
+    "brand": "supersperse",
+    "name": "Eagle Specialty Products FB 500",
+    "slug": "eagle-specialty-products-fb-500",
+    "description": "Eagle Specialty Products FB 500 is a silicone-free defoamer designed specifically for chronic foam problems in dip and flow coatings applications.",
+    "company_name": "Eagle Specialty Products",
+    "company_slug": "eagle-specialty-products",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708691617/production/Company/20968/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608640/production/CategoryImage/572/category_image/PaintingsCoatings_08.jpg",
+    "properties": {
+        "Applications": [
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Foam Control",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Organometallics"
+        ],
+        "End Uses": [
+            "Waterborne Coating"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Organometallics"
+        ],
+        "Functions": [
+            "Defoamer"
+        ],
+        "End Uses": [
+            "Waterborne Coating"
+        ],
+        "Labeling Claims": [
+            "Silicone-free"
+        ]
+    }
+}

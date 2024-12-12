@@ -1,0 +1,76 @@
+{
+    "id": 473817,
+    "brand": "namino",
+    "name": "Daesang America, Inc. L-Glutamine 98.5% (Food)",
+    "slug": "daesang-america-inc-l-glutamine-98-5-food",
+    "description": "Daesang America, Inc. L-Glutamine 98.5% (Food) is nutritionally classified as a non-essential amino acid, produced by microbial fermentation. It plays an important role in the maintenance of nitrogen levels and ammonia detoxification. Glutamine is a protein-building amino acid that is important for maintaining muscle as well as supporting immune and intestinal health.Please find more information on https://ingredient.daesang.com/s/?language=en_US",
+    "company_name": "Daesang America, Inc.",
+    "company_slug": "daesang-america",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708111423/production/Company/46517/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606914/production/CategoryImage/502/category_image/FoodNutrition_03.jpg",
+    "properties": {
+        "Applications": [
+            "Functional Foods",
+            "Sports Drinks",
+            "Infant & Baby Food",
+            "Nutraceuticals & Supplements",
+            "Beverage",
+            "Food",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Proteins & Amino Acids",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "Ingredient Name": [
+            "L-glutamine"
+        ],
+        "End Uses": [
+            "Energy Bars",
+            "Sports Drinks",
+            "Infant Formula",
+            "Dietary Supplements"
+        ],
+        "Labeling Claims": [
+            "Kosher",
+            "Halal",
+            "Not Listed In California Proposition 65",
+            "Non-GMO"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "L-glutamine"
+        ],
+        "Ingredient Origin": [
+            "Fermentation"
+        ],
+        "Labeling Claims": [
+            "Not Listed In California Proposition 65",
+            "Non-GMO",
+            "Kosher",
+            "Halal"
+        ],
+        "Certifications & Compliance": [
+            "Generally Recognized As Safe (GRAS)",
+            "ISO 9001",
+            "FSSC 22000",
+            "Kosher",
+            "FCC Compliant",
+            "German Pharmacopeia (DAB)",
+            "GMP",
+            "Japan Pharmacopeia (JP)",
+            "Halal",
+            "California Proposition 65",
+            "United States Pharmacopeia (USP)"
+        ],
+        "Benefit Claims (Health)": [
+            "Promotes Intestinal Health",
+            "Anti-Fatigue",
+            "Stimulates Immune System"
+        ]
+    }
+}

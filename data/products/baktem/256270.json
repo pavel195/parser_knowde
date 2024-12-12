@@ -1,0 +1,51 @@
+{
+    "id": 256270,
+    "brand": "baktem",
+    "name": "Bakels Cremodan SE99 Veg",
+    "slug": "bakels-cremodan-se99-veg",
+    "description": "CREMODAN® SE 99 VEG is a fully integrated blend of food-grade emulsifiers and stabilizers. CREMODAN® SE 99 VEG consists of uniform beads. Batch to batch color variations may occur, varying from off-white to yellowish/brownish. All components are based on raw materials of non-animal origin. Soft lumps may occur.",
+    "company_name": "Bakels",
+    "company_slug": "bakels",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1720783196/production/Company/19673/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1720783196/production/Company/19673/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Desserts & Fruit Preparations",
+            "Dairy",
+            "Food"
+        ],
+        "Product Families": [
+            "Stabilizers",
+            "Emulsifiers",
+            "Texture & Consistency"
+        ],
+        "Ingredient Name": [
+            "Sodium Alginate"
+        ],
+        "End Uses": [
+            "Ice Cream"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Sodium Alginate"
+        ],
+        "Functions": [
+            "Stabilizer",
+            "Emulsifier"
+        ],
+        "Labeling Claims": [
+            "Vegetarian",
+            "Vegan"
+        ],
+        "Physical Form": [
+            "Solid",
+            "Beads"
+        ],
+        "Features": [
+            "Smooth Texture",
+            "Stabilizing",
+            "Emulsifying"
+        ]
+    }
+}

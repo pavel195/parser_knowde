@@ -1,0 +1,50 @@
+{
+    "id": 251372,
+    "brand": "primtal-fg",
+    "name": "Fertiorgan CA",
+    "slug": "fertiorgan-ca",
+    "description": "FERTIORGAN Ca is a product made out of complexed calcium with lignosulphonates, which allows its assimilation, and rich in organic matter coming from conifers from northern Europe. It works increasing the soil microbial activity and the cation-exchange capacity (CEC), thus improving its physico-chemical properties, and moving sodium ions (Na) off the clay-humic complex. As a result, the assimilation of other nutrients needed for the plant is reactivated. FERTIORGAN Ca is specially indicated for crops that are more sensitive to calcium insufficiency, to prevent and correct deficiencies of this element. It can be applied throughout the growing cycle, from transplant in horticultural crops, cereals and ornamental and at the beginning of the vegetative activity in fruit and citrus trees. FERTIORGAN Ca is also a great saline corrector, it is specially recommended for soils that are poor in organic matter and have salinity problems, because it works improving its properties and the assimilation of other nutrients needed for the crop’s proper nutrition.",
+    "company_name": "Artal",
+    "company_slug": "artal",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672448/production/Company/19266/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708672448/production/Company/19266/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Ornamentals",
+            "Fiber Crops",
+            "Legumes",
+            "Other Agricultural Crops",
+            "Herbs & Spice Crops",
+            "Oilseeds",
+            "Sugar & Starch Crops",
+            "Fodder & Forage",
+            "Vegetables",
+            "Fruits",
+            "Cereals",
+            "Agricultural Crops",
+            "Turf, Ornamentals & Landscape"
+        ],
+        "Product Families": [
+            "Fertilizers & Nutrients",
+            "Plant Health, Nutrients & Soil Management"
+        ],
+        "Chemical Family": [
+            "Sulfur-based Compounds",
+            "Calcium Salts"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Micronutrient",
+            "Fertilizer"
+        ],
+        "Chemical Family": [
+            "Calcium Salts",
+            "Sulfur-based Compounds"
+        ],
+        "Application Technique": [
+            "Sprinklers",
+            "Chemigation"
+        ]
+    }
+}

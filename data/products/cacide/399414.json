@@ -1,0 +1,41 @@
+{
+    "id": 399414,
+    "brand": "cacide",
+    "name": "PETROBLEND Middle East CT RLIG",
+    "slug": "petroblend-middle-east-ct-rlig",
+    "description": "PETROBLEND Middle East CT RLIG is a broad application Fluid Loss Control agent that can be used in virtually all water based mud Systems in the presence of contaminants.",
+    "company_name": "PETROBLEND Middle East",
+    "company_slug": "petroblend-middle-east",
+    "logo_url": null,
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Exploration & Upstream",
+            "Oil, Gas & Mining"
+        ],
+        "Product Families": [
+            "Oilfield & Transport Chemicals",
+            "Oil, Gas & Mining Chemicals"
+        ],
+        "Chemical Family": [
+            "Resinated Lignite"
+        ],
+        "End Uses": [
+            "Drilling Fluids"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Resinated Lignite"
+        ],
+        "Functions": [
+            "Fluid Loss Control Additive"
+        ],
+        "End Uses": [
+            "Drilling Fluids"
+        ],
+        "Applicable Processes": [
+            "Drilling Applications"
+        ]
+    }
+}

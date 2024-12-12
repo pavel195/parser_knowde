@@ -1,0 +1,57 @@
+{
+    "id": 356570,
+    "brand": "min-u-gel",
+    "name": "Liquid Acti-Gel® 208",
+    "slug": "liquid-acti-gel-208",
+    "description": "Liquid Acti-Gel® 208 is a high quality, purified magnesium aluminosilicate pre-dispersed in water and intended for high performance as a thixotrope, reinforcement additive and anti-settling agent in areas where the addition or metering of a liquid is preferable to using a dry powder.",
+    "company_name": "Active Minerals",
+    "company_slug": "active-minerals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708687406/production/Company/27020/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608422/production/CategoryImage/558/category_image/BuildingConstruction_02.jpg",
+    "properties": {
+        "Applications": [
+            "Agricultural Pest Control",
+            "Other Agricultural Crops",
+            "Agricultural Crops",
+            "Pest Control"
+        ],
+        "Product Families": [
+            "Rheology Modifiers & Stabilizers",
+            "Carriers, Diluents, Solvents & Solubilizers",
+            "Drift Control, Foam Markers & Thickeners",
+            "Other Formulation Ingredients",
+            "Additives",
+            "Adjuvants & Formulation Ingredients"
+        ],
+        "Chemical Family": [
+            "Aluminosilicates",
+            "Magnesium & Magnesium Compounds"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Aluminum Magnesium Silicate"
+        ],
+        "CAS Number": [
+            "1327-43-1"
+        ],
+        "Functions": [
+            "Binder",
+            "Anti-Settling Agent",
+            "Carrier",
+            "Thickener",
+            "Stabilizer",
+            "Rheology Modifier"
+        ],
+        "Chemical Family": [
+            "Magnesium & Magnesium Compounds",
+            "Aluminosilicates"
+        ],
+        "Labeling Claims": [
+            "Environmentally Friendly"
+        ],
+        "Synonyms": [
+            "Aluminum Magnesium Silicon Oxide, Magnesium Aluminum Silicate, Neutralon, Silicic Acid Aluminum Magnesium Salt"
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "id": 411018,
+    "brand": "colpor",
+    "name": "Nitoseal® MS60",
+    "slug": "nitoseal-ms60",
+    "description": "Nitoseal® MS60 is a one part, low modulus sealant based on hybrid silyl modified polyether (\"MS\") technology.",
+    "company_name": "Fosroc Inc.",
+    "company_slug": "fosroc-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520054/production/Brand/31962/logo/image",
+    "banner_url": "https://static.knowde.com/card-banners/knowde-card-for-raw-materials-8.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Construction Chemicals",
+            "Roofing",
+            "Sealants & Caulks",
+            "Building Envelope & Roofing",
+            "Chemical & Industrial Manufacturing",
+            "EIFS & Insulation",
+            "Glazing & Window Elements",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Caulks & Sealants"
+        ],
+        "Chemical Family": [
+            "Silyl-modified Polymers (SMP)"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "1K (1 component) Sealant"
+        ],
+        "Application Area": [
+            "Acoustic Barrier",
+            "Universal Joints"
+        ],
+        "Chemical Family": [
+            "Silyl-modified Polymers (SMP)"
+        ]
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "id": 342220,
+    "brand": "centrocar",
+    "name": "CENTROMID 12 GF / PA 12 GF 30",
+    "slug": "centromid-12-gf-pa-12-gf-30",
+    "description": "CENTROMID 12 GF / PA 12 GF 30 is reinforced with 30% glassfibres. This leads to stiffness and increased resistance in the binding substance and an increased heat distortion resistance at the same time. The impact strength is reduced, the tensile strength is increased up to 6.000 MPa. PA 12 GF 30-plastics are often used as lever or valve components.",
+    "company_name": "Centroplast",
+    "company_slug": "centroplast",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691737680/production/Brand/25295/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608730/production/CategoryImage/574/category_image/AutomotiveTransportation_02.jpg",
+    "properties": {
+        "Applications": [
+            "Equipment & Parts",
+            "Pipes & Plumbing",
+            "Cooling & Climate",
+            "Fuel Systems",
+            "Other Industrial Applications",
+            "Other Parts & Components",
+            "Appliances & Electronics",
+            "Building Materials",
+            "Parts & Components",
+            "Chemical & Industrial Manufacturing",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Parts & Shapes",
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Polyamides"
+        ],
+        "Polymer Name": [
+            "Polyamide 12 (PA 12)"
+        ],
+        "End Uses": [
+            "Valve Parts",
+            "Levers"
+        ]
+    },
+    "summary": {
+        "Density": [
+            "1230.0 - 1230.0 kg/m³"
+        ]
+    }
+}

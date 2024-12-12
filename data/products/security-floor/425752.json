@@ -1,0 +1,33 @@
+{
+    "id": 425752,
+    "brand": "security-floor",
+    "name": "DeVere Chemical InstantFoam Non-Alcohol Foaming Hand Sanitizer",
+    "slug": "devere-chemical-instantfoam-non-alcohol-foaming-hand-sanitizer",
+    "description": "DeVere Chemical InstantFoam Non-Alcohol Foaming Hand Sanitizer provides instant hand sanitizing without water. It kills 99.99% of most common germs in 15 seconds. InstantFoam Non-Alcohol Foaming Hand Sanitizer is gentle to the skin and hypoallergenic. It has a mild lavender scent and leaves no sticky residue on the hands.",
+    "company_name": "DeVere Chemical",
+    "company_slug": "devere-chemical",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292930/production/Company/12215/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1664292930/production/Company/12215/card_banner/image.png",
+    "properties": {
+        "Applications": [
+            "Processing & Packaging",
+            "Food & Beverage Manufacturing",
+            "Institutional & Industrial Care",
+            "Institutional & Catering",
+            "Food Facility Cleaning & Sanitization"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Commercial Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Sanitizers"
+        ],
+        "Application Areas": [
+            "Food Processing",
+            "Bathrooms"
+        ]
+    }
+}

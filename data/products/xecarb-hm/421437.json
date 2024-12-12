@@ -1,0 +1,49 @@
+{
+    "id": 421437,
+    "brand": "xecarb-hm",
+    "name": "XECARB® 29-C40",
+    "slug": "xecarb-29-c40",
+    "description": "XECARB® 29-C40 is a 40% carbon fiber reinforced PA4.10",
+    "company_name": "Xenia",
+    "company_slug": "xenia",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708527594/production/Company/24102/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708527594/production/Brand/20478/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Footwear"
+        ],
+        "Product Families": [
+            "Polyamides",
+            "Thermoplastic Resins",
+            "Polymers & Resins",
+            "Engineering & Specialty Polymers"
+        ],
+        "Chemical Family": [
+            "Polyamides"
+        ],
+        "Polymer Name": [
+            "Polyamide 410 (PA 410)"
+        ],
+        "End Uses": [
+            "Mountaineering Boots",
+            "Structural Parts"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyamide 410 (PA 410)"
+        ],
+        "Chemical Family": [
+            "Polyamides"
+        ],
+        "Reinforcement Material": [
+            "Carbon Fibers"
+        ],
+        "Fillers Included": [
+            "Carbon Fiber"
+        ],
+        "Processing Methods": [
+            "Injection Molding"
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": 401644,
+    "brand": "structuresaver",
+    "name": "FIRESHELL® F1E",
+    "slug": "fireshell-f1e",
+    "description": "FIRESHELL® F1E is the only waterproof, 1-part, non-combustible, fire retardant, intumescing coating complying with AC 377 ICC ES for interior and exterior use. Our fire barrier foam expands up to 2000% and provides oxygen starvation when in contact with fire. This barrier coating / ignition barrier comes in both insulating and fire extinguishing versions and is a non-toxic, drain safe, no fuming, water based coating. Protect your buildings and the people in them with fire rated spray from TPR2. Fires are extremely unpredictable, so it is wise to use fire barrier foam as a necessary precaution.",
+    "company_name": "TPR2",
+    "company_slug": "tpr2",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520337/production/Brand/30605/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608410/production/CategoryImage/557/category_image/BuildingConstruction_01.jpg",
+    "properties": {
+        "Applications": [
+            "Coatings & Finishes",
+            "Building Materials",
+            "Roofing",
+            "Marine",
+            "Wall Panels",
+            "Roof Coatings",
+            "Marine Coatings",
+            "Transportation",
+            "Interior Fixtures",
+            "Pipes & Plumbing"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Intumescent Coating",
+            "1K (1 component) Coating",
+            "Waterborne Coating"
+        ],
+        "Features": [
+            "Flame Retardant",
+            "Good Weather Stability"
+        ]
+    }
+}

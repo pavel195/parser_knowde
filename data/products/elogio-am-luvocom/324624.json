@@ -1,0 +1,42 @@
+{
+    "id": 324624,
+    "brand": "elogio-am-luvocom",
+    "name": "Elogio AM TPC-91A Filament",
+    "slug": "elogio-am-tpc-91a-filament",
+    "description": "TPC-91A Filament ﻿is a thermoplastic copolyester elastomer with both thermoplastic and elastomeric properties. TPC Filament is easier to print compared to other flexible filaments like TPU. The layer bonding in the Z direction of this material is extremely good meaning that it's almost impossible to detach the printed layers. Typical applications for this material are drive belts, vibration dampers, phone cases, wearables and other objects that need to take a lot of wear.",
+    "company_name": "Elogio AM",
+    "company_slug": "elogio-am",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691737653/production/Company/31252/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608779/production/CategoryImage/578/category_image/AutomotiveTransportation_06.jpg",
+    "properties": {
+        "Applications": [
+            "Consumer Electronics",
+            "Aftermarket Parts & Components",
+            "Appliances & Electronics",
+            "Devices & Assemblies",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Thermoplastic Filament",
+            "3D Printing Polymers"
+        ],
+        "Chemical Family": [
+            "Polyesters"
+        ],
+        "Polymer Name": [
+            "Thermoplastic Copolyester Elastomer (TPC-ET)"
+        ],
+        "End Uses": [
+            "Electronic Accessory Cases",
+            "Belts/Belt Repair"
+        ]
+    },
+    "summary": {
+        "Density": [
+            "1220.0 - 1220.0 kg/m³"
+        ],
+        "Flexural Modulus": [
+            "66.0 - 66.0 MPa"
+        ]
+    }
+}

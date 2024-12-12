@@ -1,0 +1,48 @@
+{
+    "id": 78734,
+    "brand": "descarb",
+    "name": "Acquasolv",
+    "slug": "acquasolv",
+    "description": "Solubilizer of perfumes, oils and other oil soluble compounds incompatible with transparent aqueous systems.",
+    "company_name": "Chemyunion",
+    "company_slug": "chemyunion",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708685249/production/Company/1183/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708685249/production/Company/1183/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Skin Care",
+            "Hair Care",
+            "Bath & Shower",
+            "Fragrances & Perfumes",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Emulsifiers, Solubilizers & Dispersants",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "PPG-5-Ceteth-20"
+        ],
+        "End Uses": [
+            "Body Cream",
+            "Body Lotion",
+            "Shampoos & Rinses",
+            "Hair Spray",
+            "Hair Conditioner",
+            "Anti-Dandruff Products",
+            "Shower Gels"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "PPG-5-Ceteth-20"
+        ],
+        "Functions": [
+            "Solubilizer"
+        ],
+        "Labeling Claims": [
+            "Ulta Beauty's Conscious Beauty",
+            "Clean at Sephora"
+        ]
+    }
+}

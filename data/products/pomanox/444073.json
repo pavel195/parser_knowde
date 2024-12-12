@@ -1,0 +1,48 @@
+{
+    "id": 444073,
+    "brand": "pomanox",
+    "name": "Pomalive®",
+    "slug": "pomalive",
+    "description": "Inspired by the Mediterranean diet, Pomalive® contains a special synergistic combination of highly bioactive polyphenols from pomegranates and olives obtained by Pure-Hydro Process®, an eco-friendly patent-pending extraction method using ultrapure water as the only solvent. It preserves and concentrates natural ingredients of the fruit and vegetable without any risk of residual volatile solvents.POMALIVE® PROPERTIESPromotes Healthy Cardiovascular FunctionArterial functionLipids LevelsBlood Pressure",
+    "company_name": "Euromed S.A.",
+    "company_slug": "euromed",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708691826/production/Product/444073/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708691826/production/Product/444073/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Functional Foods",
+            "Energy Drinks",
+            "Nutraceuticals & Supplements",
+            "Powdered Beverages",
+            "Beverage",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Phytochemicals",
+            "Phytochemicals & Plant Extracts",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Nutraceuticals",
+            "Functional Foods",
+            "Functional Beverages",
+            "Dietary Supplements",
+            "Powdered Beverages"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Pomegranate-Olive Extract"
+        ],
+        "Active Component": [
+            "Punicalagins",
+            "Hydroxytyrosol"
+        ],
+        "Functions": [
+            "Phytochemical"
+        ]
+    }
+}

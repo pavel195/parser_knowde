@@ -1,0 +1,37 @@
+{
+    "id": 531804,
+    "brand": "noryl-ppx-resin",
+    "name": "LNP™ THERMOCOMP™ Compound DF004AXC",
+    "slug": "lnp-thermocomp-compound-df004axc",
+    "description": "LNP™ THERMOCOMP™ Compound DF004AXC is based on polycarbonate (pc) resin filled with 20% glass fiber.",
+    "company_name": "SABIC's Specialties Business",
+    "company_slug": "sabic-specialties",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1718787345/production/Brand/28740/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1626797855/production/CategoryImage/997/category_image/PigmentsColorants_04.jpg",
+    "properties": {
+        "Product Families": [
+            "Polycarbonates",
+            "Engineering & Specialty Polymers"
+        ],
+        "Chemical Family": [
+            "Polycarbonate (PC)"
+        ],
+        "Polymer Name": [
+            "Polycarbonate (PC)"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polycarbonate (PC)"
+        ],
+        "Processing Methods": [
+            "Injection Molding"
+        ],
+        "Fillers Included": [
+            "Glass Fiber"
+        ],
+        "Flexural Modulus": [
+            "5510.0 - 5510.0 MPa"
+        ]
+    }
+}

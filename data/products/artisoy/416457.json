@@ -1,0 +1,50 @@
+{
+    "id": 416457,
+    "brand": "artisoy",
+    "name": "ARTISOY 4008",
+    "slug": "chemital-artisoy-4008",
+    "description": "ARTISOY/4008 is isolated or concentrated soy protein with high hydration, gelation and emulsifying capacity.\r\n",
+    "company_name": "Chemital",
+    "company_slug": "chemital",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686109599/production/Brand/32516/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606934/production/CategoryImage/504/category_image/FoodNutrition_05.jpg",
+    "properties": {
+        "Applications": [
+            "Food",
+            "Meat, Poultry & Seafood",
+            "Savory & Culinary"
+        ],
+        "Product Families": [
+            "Nutrition & Fortification",
+            "Plant Proteins",
+            "Nutraceuticals & Supplements",
+            "Proteins & Amino Acids"
+        ],
+        "End Uses": [
+            "Processed Seafood",
+            "Processed Meat Products",
+            "Vegetarian Savory Products"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Soy Protein"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Plant Origin"
+        ],
+        "Labeling Claims": [
+            "Halal",
+            "Plant-Based",
+            "Naturally Derived"
+        ],
+        "Features": [
+            "Good Gelling Properties",
+            "Emulsifying",
+            "Ready-To-Use",
+            "Improved Hydration",
+            "Balanced Nutrition"
+        ]
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "id": 330276,
+    "brand": "sibelius",
+    "name": "SIBELIUS™ : LactoMato",
+    "slug": "sibelius-limited-sibelius-lactomato",
+    "description": "Sibelius™:LactoMato is a natural and highly bioavailable lycopene-rich tomato extract. It is patent protected and clinical studies have shown that a conveniently small dose can have significant benefits in cardiovascular health and men’s health.\r\n",
+    "company_name": "Sibelius Limited",
+    "company_slug": "sibelius-limited",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708522081/production/Product/330276/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708522081/production/Product/330276/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Oral",
+            "Other Non-Alcoholic Beverages",
+            "Nutraceuticals & Supplements",
+            "Beverage",
+            "Nutrition & Well Being",
+            "Drug Delivery & Care Solutions"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Vegetable Products & Extracts",
+            "Fruit Products & Extracts",
+            "Nutrition & Fortification",
+            "Whole Foods, Extracts & Premixes",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Dietary Supplements"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Tomato Extract"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Vegetable Origin",
+            "Plant Origin"
+        ],
+        "Labeling Claims": [
+            "Natural",
+            "Naturally Derived",
+            "GMO-free",
+            "Plant-Based"
+        ],
+        "Certifications & Compliance": [
+            "Generally Recognized As Safe (GRAS)"
+        ],
+        "Physical Form": [
+            "Solid",
+            "Powder"
+        ],
+        "Benefit Claims (Health)": [
+            "Antioxidant Properties",
+            "Improves Bioavailability",
+            "Cardioprotective"
+        ]
+    }
+}

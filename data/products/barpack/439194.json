@@ -1,0 +1,46 @@
+{
+    "id": 439194,
+    "brand": "barpack",
+    "name": "Barpack™ RT",
+    "slug": "barpack-rt",
+    "description": "Barbier Group Barpack™ RT is a shrink film multi-layer that offers a very good presentation of the final product and has formulations that can be adapted to the use such as a combination of products and rates machines, and high cadency machines.",
+    "company_name": "Barbier Group",
+    "company_slug": "barbier-group",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686150176/production/Company/63641/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609091/production/CategoryImage/594/category_image/PrintingPackaging_05.jpg",
+    "properties": {
+        "Applications": [
+            "Packaging",
+            "Industrial & Transport Packaging",
+            "Non-Food Consumer Packaging"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Polyolefins"
+        ],
+        "Polymer Name": [
+            "Polyolefin (unspecified)"
+        ],
+        "End Uses": [
+            "Film",
+            "Shrink Wrap"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyolefin (unspecified)"
+        ],
+        "Physical Form": [
+            "Film"
+        ],
+        "Features": [
+            "Good Rigidity",
+            "Good Thermal Stability",
+            "Anti-Static",
+            "Good Optical Properties",
+            "Tear Resistance"
+        ]
+    }
+}

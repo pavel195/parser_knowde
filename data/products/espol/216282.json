@@ -1,0 +1,43 @@
+{
+    "id": 216282,
+    "brand": "espol",
+    "name": "Crestapol® 1260 Urethane Acrylate Resin",
+    "slug": "crestapol-1260-urethane-acrylate-resin",
+    "description": "Crestapol® 1260 Urethane Acrylate Resin is a low-viscosity urethane acrylate type resin. It is suitable for infusion, resin transfer molding (RTM), and similar processes at room temperature. This product can be infused at vacuum levels down to -1.0 bar. It produces laminates with high strength, toughness, and exceptional water and hydrolysis resistance.",
+    "company_name": "Scott Bader",
+    "company_slug": "scott-bader",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1625045836/production/Product/216282/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1625746085/production/Product/216282/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Renewable Energy",
+            "Power, Water & Utilities"
+        ],
+        "Product Families": [
+            "Thermoset Resins",
+            "Polymers & Resins"
+        ],
+        "Chemical Family": [
+            "Urethanes",
+            "Acrylics, Acrylates & Methacrylates"
+        ],
+        "Polymer Name": [
+            "Urethane Acrylate"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Urethane Acrylate"
+        ],
+        "Chemical Family": [
+            "Urethanes",
+            "Acrylics, Acrylates & Methacrylates"
+        ],
+        "Processing Methods": [
+            "Closed Molding",
+            "Vacuum Infusion Processing (VIP)",
+            "Resin Transfer Molding (RTM)",
+            "Pultrusion"
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "id": 402736,
+    "brand": "hyperox",
+    "name": "Hyperox™",
+    "slug": "hyperox",
+    "description": "Hyperox is a fenugreek seed extract standardized for Yamogenin glycosides. Hyperox is an innovative and never seen before ingredient in the Pre-workout segment. Hyperox extends nitric oxide signaling for enhanced muscle pumps and designed to accelerate nutrient delivery for increased muscle growth.",
+    "company_name": "Natrusolate",
+    "company_slug": "natrusolate",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708690792/production/Company/50411/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606129/production/CategoryImage/472/category_image/PharmaceuticalsNutraceuticals_03.jpg",
+    "properties": {
+        "Applications": [
+            "Oral",
+            "Functional Foods",
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being",
+            "Drug Delivery & Care Solutions"
+        ],
+        "Product Families": [
+            "Phytochemicals & Plant Extracts",
+            "Phytochemicals",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Energy Bars",
+            "RTD Nutrition Formulas",
+            "Dietary Supplements",
+            "Weight Management Products"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Fenugreek Seeds Extract"
+        ],
+        "Functions": [
+            "Supplement",
+            "Dietary Supplement",
+            "Phytochemical"
+        ],
+        "Active Component": [
+            "Yamogenin Glycosides"
+        ],
+        "Physical Form": [
+            "Powder",
+            "Solid"
+        ],
+        "Features": [
+            "Free Flowing",
+            "Improves Muscle Mass",
+            "Helps In Weight Management"
+        ]
+    }
+}

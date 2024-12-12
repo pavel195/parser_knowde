@@ -1,0 +1,37 @@
+{
+    "id": 409838,
+    "brand": "esnalube",
+    "name": "EVERLUBE® 811",
+    "slug": "everlube-811",
+    "description": "Everlube® 811 is a low VOC, thermally cured, MoS2/Graphite based solid film lubricant which utilizes a silicate binder system. This coating provides excellent thermal stability, very good chemical resistance, is lead free, and performs best in higher load carrying applications. Everlube® 811 is approved/qualified to many aerospace and industrial specification.",
+    "company_name": "Everlube Products",
+    "company_slug": "everlube-products",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1682593390/production/Brand/31767/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Military & Defense",
+            "Other Military & Defense Applications",
+            "Aerospace & Aviation",
+            "Chemical & Industrial Manufacturing",
+            "Transportation",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Lubricants & Oils",
+            "Fluids & Lubricants"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Industrial Lubricants",
+            "Dry Lubricants"
+        ],
+        "Features": [
+            "Chemical Resistant",
+            "Good Thermal Stability",
+            "Low Friction",
+            "Low VOC"
+        ]
+    }
+}

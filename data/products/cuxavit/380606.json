@@ -1,0 +1,33 @@
+{
+    "id": 380606,
+    "brand": "cuxavit",
+    "name": "Carneon 50",
+    "slug": "carneon-50",
+    "description": "Carneon 50 is a granulate with 50% L-carnitine. It is characterized by excellent flow behavior and good pourability, which guarantees homogeneous mixing into premixes. In this way, L-carnitine can be easily added to any feed.",
+    "company_name": "Kaesler Nutrition GmbH",
+    "company_slug": "kaesler-nutrition-gmbh",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708688131/production/Brand/28484/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608161/production/CategoryImage/546/category_image/AgricultureFeed_02.jpg",
+    "properties": {
+        "Applications": [
+            "Birds & Poultry",
+            "Swine",
+            "Ruminants",
+            "Pets",
+            "Other Animal Health & Nutrition",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Plant Proteins",
+            "Conditioning & Flow Enhancers",
+            "Nutrition & Fortification",
+            "Production Aids and Processing Additives"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Flow Promoter",
+            "Anti-Caking Agent"
+        ]
+    }
+}

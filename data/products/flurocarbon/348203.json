@@ -1,0 +1,64 @@
+{
+    "id": 348203,
+    "brand": "flurocarbon",
+    "name": "Flurocarbon 9500-75",
+    "slug": "flurocarbon-9500-75",
+    "description": "Flurocarbon 9500-75 is general-purpose 75-durometer fluorocarbon having excellent resistance to compression set and low cost.",
+    "company_name": "Parco",
+    "company_slug": "parco",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686149249/production/Brand/25996/logo/image",
+    "banner_url": "https://static.knowde.com/card-banners/knowde-card-for-raw-materials-8.jpg",
+    "properties": {
+        "Applications": [
+            "Fuel Systems",
+            "Cooling & Climate",
+            "Other Automotive Applications",
+            "Exploration & Upstream",
+            "Midstream",
+            "Aerospace & Aviation",
+            "Oil, Gas & Mining",
+            "Transportation",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Parts & Shapes"
+        ],
+        "Chemical Family": [
+            "Fluoropolymers"
+        ],
+        "Polymer Name": [
+            "Fluoroelastomer (FKM)"
+        ],
+        "End Uses": [
+            "O Rings",
+            "General Purpose"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Fluoroelastomer (FKM)"
+        ],
+        "Physical Form": [
+            "Seals",
+            "O-rings"
+        ],
+        "Features": [
+            "Low Temperature Resistant",
+            "High Temperature Resistance",
+            "Low Compression Set",
+            "Steam Resistant",
+            "Chemical Resistant",
+            "Cost Effective",
+            "Wide Temperature Operating Range",
+            "General Purpose",
+            "Automotive Fluid Resistant"
+        ],
+        "End Uses": [
+            "O Rings",
+            "General Purpose"
+        ],
+        "Tensile Strength": [
+            "11.74056 - 11.74056 MPa"
+        ]
+    }
+}

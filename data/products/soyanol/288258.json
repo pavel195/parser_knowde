@@ -1,0 +1,60 @@
+{
+    "id": 288258,
+    "brand": "soyanol",
+    "name": "Soyanol™ 5000X-TB",
+    "slug": "soyanol-5000x-tb",
+    "description": "Soyanol™ 5000X-TB is a unique thinner Base for use in compliant lacquer and paint thinner formulations. It is certified Formulations by SCAQMD, has multiple base formulations available for blending of compliant solvents. Typical usage 7% to formulate a 25 g/l VOC thinner solution.",
+    "company_name": "Soy Technologies",
+    "company_slug": "soy-technologies",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708678960/production/Company/22757/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607934/production/CategoryImage/535/category_image/HomePersonalCare_01.jpg",
+    "properties": {
+        "Applications": [
+            "Sealants & Caulks",
+            "Architectural Coatings",
+            "Other Adhesives & Sealants Applications",
+            "Industrial Coatings",
+            "Primers & Lacquers",
+            "Other Paints & Coatings Applications",
+            "Building & Construction",
+            "Building Envelope",
+            "Building Materials",
+            "Construction Chemicals",
+            "Roofing",
+            "Packaging Coatings",
+            "Building Envelope & Roofing"
+        ],
+        "Product Families": [
+            "Diluents",
+            "Rheology Modifiers & Stabilizers",
+            "Additives",
+            "Solvents & Carriers"
+        ],
+        "End Uses": [
+            "Stains",
+            "Enamel",
+            "Waterborne Coating",
+            "Solventborne Coating",
+            "Lacquers"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Rheology Modifier",
+            "Thinner"
+        ],
+        "Labeling Claims": [
+            "Non-Hazardous",
+            "Non-Flammable",
+            "HAPs-free",
+            "Plant-Based",
+            "Low VOC",
+            "Non-Carcinogenic",
+            "Not Listed In California Proposition 65",
+            "Non-Toxic",
+            "APEO-free",
+            "Bio-based",
+            "Phthalates-free"
+        ]
+    }
+}

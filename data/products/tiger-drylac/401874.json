@@ -1,0 +1,61 @@
+{
+    "id": 401874,
+    "brand": "tiger-drylac",
+    "name": "TIGER Drylac® 038/30041",
+    "slug": "tiger-drylac-038-30041",
+    "description": "TIGER Drylac® 038/30041 is a polyester tgic super durable powder coating compliant to AAMA 2604 with excellent weather resistance properties for high performance architectural exterior applications.",
+    "company_name": "Tiger Drylac",
+    "company_slug": "tiger-drylac",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520246/production/Brand/30626/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608769/production/CategoryImage/577/category_image/AutomotiveTransportation_05.jpg",
+    "properties": {
+        "Applications": [
+            "Coatings & Finishes",
+            "Marine",
+            "Architectural Coatings",
+            "Building Envelope & Roofing",
+            "Marine Coatings",
+            "Transportation",
+            "Building Envelope"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Powder Coatings"
+        ],
+        "Chemical Family": [
+            "Polyesters"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Powder Coating"
+        ],
+        "Application Area": [
+            "Furniture",
+            "Window Frames",
+            "Door Panels",
+            "Seats",
+            "Milling Operations",
+            "Marine Applications",
+            "Facade"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Galvanized Steel",
+            "Aluminum",
+            "Metal",
+            "Steel"
+        ],
+        "Features": [
+            "Durable",
+            "Good Weather Stability",
+            "High Performance",
+            "Long Shelf Life",
+            "Good Non-Yellowing Properties",
+            "Good Flow",
+            "Good UV Resistance"
+        ],
+        "Chemical Family": [
+            "Polyesters"
+        ]
+    }
+}

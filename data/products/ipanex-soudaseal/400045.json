@@ -1,0 +1,22 @@
+{
+    "id": 400045,
+    "brand": "ipanex-soudaseal",
+    "name": "IPATOP VO",
+    "slug": "ipatop-vo",
+    "description": "IPATOP VO is a two component cementitious polymer modified repair mortar. Controlled set and slump provide a superior non sag repair mortar for vertical and overhead applications repairs.",
+    "company_name": "Ipanex",
+    "company_slug": "ipanex",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1694073672/production/Company/51023/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608502/production/CategoryImage/564/category_image/BuildingConstruction_08.jpg",
+    "properties": {
+        "Applications": [
+            "Repair & Rehabilitation",
+            "Infrastructure, Roads & Paving"
+        ],
+        "Product Families": [
+            "Mortar & Grouts",
+            "Construction Materials"
+        ]
+    },
+    "summary": {}
+}

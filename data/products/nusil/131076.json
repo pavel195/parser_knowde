@@ -1,0 +1,33 @@
+{
+    "id": 131076,
+    "brand": "nusil",
+    "name": "NuSil™ MED-4750",
+    "slug": "nusil-med-4750",
+    "description": "NuSil™ MED-4750 is a high consistency silicone elastomer.",
+    "company_name": "NuSil Technology",
+    "company_slug": "nusil-technology",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697221066/production/Company/1345/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1697221066/production/Company/1345/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Medical Devices & Assemblies",
+            "Other Medical Applications",
+            "Medical"
+        ],
+        "Product Families": [
+            "Silicone Elastomers",
+            "Specialty Elastomers"
+        ],
+        "Chemical Family": [
+            "Silicones"
+        ],
+        "Polymer Name": [
+            "Silicone Elastomer"
+        ],
+        "End Uses": [
+            "Drug Delivery Pens",
+            "Medical/Healthcare Applications"
+        ]
+    },
+    "summary": {}
+}

@@ -1,0 +1,68 @@
+{
+    "id": 455222,
+    "brand": "glucodet",
+    "name": "T-Det® A 267-9",
+    "slug": "t-det-a-267-9",
+    "description": "T-Det® A 267-9 is a biodegradable, 7-mole ethoxylate of a linear C12-C16 alcohol with 90% active content. It has exceptional detergent properties and can be used in various cleaning formulations. This product appears as a clear liquid at room temperature.",
+    "company_name": "Harcros Chemicals Inc.",
+    "company_slug": "harcros-chemicals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1720679479/production/Brand/35970/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Exploration & Upstream",
+            "Surface Care",
+            "Oil, Gas & Mining",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Oilfield & Transport Chemicals",
+            "Nonionic Surfactants",
+            "Soaps & Surfactants",
+            "Oil, Gas & Mining Chemicals"
+        ],
+        "Chemical Family": [
+            "Ethoxylated Fatty Alcohols",
+            "Alkoxylates"
+        ],
+        "End Uses": [
+            "Drilling Fluids"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Surfactant",
+            "Emulsifier (O/W)",
+            "Surfactant (Nonionic)"
+        ],
+        "Chemical Family": [
+            "Alkoxylates",
+            "Ethoxylated Fatty Alcohols"
+        ],
+        "Labeling Claims": [
+            "No Added PFAS",
+            "Preservative-free",
+            "PFOS-free",
+            "Irradiation-free",
+            "Food Allergen-free",
+            "APEO-Free",
+            "Biodegradable",
+            "Pesticide-free",
+            "Not Tested on Animals",
+            "Heavy Metal-free",
+            "PFOA-free",
+            "PFAS-Free",
+            "GenX-free",
+            "Conflict minerals-free",
+            "Melamine-free"
+        ],
+        "Certifications & Compliance": [
+            "Coalition of Northeastern Governors (CONEG)",
+            "Directive 2002/95/EC",
+            "California Transparency in Supply Chains Act of 2010",
+            "California Proposition 65",
+            "EPA Registered",
+            "RoHS Compliant"
+        ]
+    }
+}

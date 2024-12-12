@@ -1,0 +1,39 @@
+{
+    "id": 224190,
+    "brand": "syncopol",
+    "name": "Rokryl TW1",
+    "slug": "rokryl-tw1",
+    "description": "Rokryl TW1 is a stabilized, aqueous dispersion of acrylic acid derivatives polymerization products. It is a white, milky liquid, miscible with water in any proportion, which facilitates application of the product. Rokryl TW1 is used as an auxiliary in the textile industry for inner-side gluing of fabric and non-woven and non-woven bonding using the padding method.",
+    "company_name": "PCC Chemax",
+    "company_slug": "pcc-chemax",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708688858/production/Company/6826/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Textile Manufacturing",
+            "Textiles & Nonwovens",
+            "Leather & Textiles"
+        ],
+        "Product Families": [
+            "Finishing Additives & Treatments",
+            "Textile & Leather Chemicals"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ],
+        "End Uses": [
+            "Textiles"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Emulsifier"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ],
+        "End Uses": [
+            "Textiles"
+        ]
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "id": 309342,
+    "brand": "greenpc",
+    "name": "GREENPC® SOYA PC",
+    "slug": "greenpc-soya-pc",
+    "description": "Greenpc® Soya PC is non-GMO, IP certified PhosphatidylCholine derived from Soybeans, which is specially produced by Supercritical Carbon Dioxide (SC-CO2) extraction process, and is Chemical Solvents Free.",
+    "company_name": "ECA Healthcare",
+    "company_slug": "eca-healthcare",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708689541/production/Product/309342/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607305/production/CategoryImage/515/category_image/FoodNutrition_15.jpg",
+    "properties": {
+        "Applications": [
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Emulsifiers & Stabilizers",
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Nutrition & Fortification",
+            "Excipients",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Dietary Supplements"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Soybeans"
+        ],
+        "Functions": [
+            "Supplement",
+            "Dietary Supplement",
+            "Emulsifier"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin"
+        ],
+        "Labeling Claims": [
+            "Allergen-free",
+            "Solvent-free"
+        ]
+    }
+}

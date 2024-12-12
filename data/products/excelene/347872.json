@@ -1,0 +1,51 @@
+{
+    "id": 347872,
+    "brand": "excelene",
+    "name": "SuperOhm® 240-NL-HE",
+    "slug": "superohm-240-nl-he",
+    "description": "SuperohmÂ® 240 NL-HE is a RoHS compliant, highly flexible, colorable, polymeric composition in pellet form, based on EPR rubber, containing peroxide curing agent, ready for extrusion in a conventional CV or Dry cure extrusion line.  It is formulated to obtain balanced performance characteristics with excellent electrical properties suitable for applications up to 25kV. ",
+    "company_name": "Electric Cable Compounds",
+    "company_slug": "electric-cable-compounds",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112788/production/Brand/23151/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1686112788/production/Brand/23151/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Wire & Cable",
+            "Power, Water & Utilities",
+            "Jacketing & Insulation",
+            "Exploration & Upstream",
+            "Electrical Protection",
+            "Power & Utilities",
+            "Power Transmission & Distribution",
+            "Oil, Gas & Mining"
+        ],
+        "Product Families": [
+            "Thermoset Elastomers",
+            "EP Rubbers (EPDM)"
+        ],
+        "Chemical Family": [
+            "Ethylene-Propylene Copolymers (EPR)"
+        ],
+        "Polymer Name": [
+            "Ethylene Propylene Copolymer"
+        ],
+        "End Uses": [
+            "Industrial Cable Jacketing",
+            "Cables",
+            "Wires",
+            "Medium Voltage Insulation",
+            "Industrial Cable Insulation"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Ethylene Propylene Copolymer"
+        ],
+        "Processing Methods": [
+            "Extrusion"
+        ],
+        "Density": [
+            "1300.0 - 1300.0 kg/m³"
+        ]
+    }
+}

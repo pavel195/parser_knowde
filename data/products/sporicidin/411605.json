@@ -1,0 +1,39 @@
+{
+    "id": 411605,
+    "brand": "sporicidin",
+    "name": "CyQuanol™ Disinfectant Solution",
+    "slug": "cyquanol-disinfectant-solution",
+    "description": "CyQuanol™ Disinfectant Solution is a quaternary ammonium and ethyl alcohol solution available in 32 oz. (0.9L) and 1 gallon (3.8L) containers. It is a ready-to-use cleaner/disinfectant with a low residue. CyQuanol has a 1-minute contact time that is bactericidal, virucidal, tuberculocidal, and fungicidal. It is bleach-free, making it an excellent choice for critical-environment operators.",
+    "company_name": "Contec",
+    "company_slug": "contec",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1682593131/production/Brand/32071/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515684/production/CategoryImage/1058/category_image/HII_10.jpg",
+    "properties": {
+        "Applications": [
+            "Institutional & Industrial Care",
+            "Industrial Cleaning",
+            "Institutional & Catering"
+        ],
+        "Product Families": [
+            "Commercial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner",
+            "Disinfectant Products"
+        ],
+        "Application Area": [
+            "Equipment"
+        ],
+        "Certifications & Compliance": [
+            "EPA Registered"
+        ],
+        "Features": [
+            "Bacteria Resistant",
+            "Fungus Resistant",
+            "Detergency"
+        ]
+    }
+}

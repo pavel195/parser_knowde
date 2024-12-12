@@ -1,0 +1,39 @@
+{
+    "id": 405560,
+    "brand": "nano-tox",
+    "name": "Hyper Grain IR",
+    "slug": "hyper-grain-ir",
+    "description": "Hyper Grain IR granules are formulated for use in modified bitumen roofing applications. Our durable, high opacity granules have an astonishing high reflectance that prolongs roof life and contributes to overall energy savings.",
+    "company_name": "20 Microns",
+    "company_slug": "20-microns",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708690012/production/Company/27477/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1637776875/production/CategoryImage/1484/category_image/OilGasMiningChemicals_ProductBanner_03.jpg",
+    "properties": {
+        "Applications": [
+            "Waterproofing & Weatherproofing",
+            "Building Envelope & Roofing"
+        ],
+        "Product Families": [
+            "Cement & Concrete Additives",
+            "Construction Chemicals"
+        ],
+        "End Uses": [
+            "Cement",
+            "Asphalt"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Filler"
+        ],
+        "End Uses": [
+            "Asphalt",
+            "Cement"
+        ],
+        "Features": [
+            "High Durability",
+            "Weather Resistant",
+            "Cost Effective"
+        ]
+    }
+}

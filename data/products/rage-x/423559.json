@@ -1,0 +1,43 @@
+{
+    "id": 423559,
+    "brand": "rage-x",
+    "name": "RAVE WASH & WAX",
+    "slug": "ankem-inc-rave-wash-wax",
+    "description": "RAVE WASH &amp; WAX is a safe wash and wax that can be used on all vehicles. Works best after a product like RAGE is applied and rinsed. Product quantity sold in 5 Gallons, 15 Gallons, 30 Gallons, 55 Gallons, 275 Gallons ",
+    "company_name": "Ankem of Texas, inc.",
+    "company_slug": "ankem-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1681139261/production/Product/423559/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1681139261/production/Company/49451/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Institutional & Industrial Care",
+            "Auto Care",
+            "Industrial Cleaning",
+            "Technical Cleaning",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Industrial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner"
+        ],
+        "Application Area": [
+            "Truck Cab",
+            "Equipment",
+            "Truck"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Concrete"
+        ],
+        "Features": [
+            "Good Stain Resistance",
+            "Non Staining",
+            "Non Stick",
+            "Grime Cleaning"
+        ]
+    }
+}

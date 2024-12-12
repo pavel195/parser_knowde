@@ -1,0 +1,44 @@
+{
+    "id": 347694,
+    "brand": "braggadocio",
+    "name": "Braggadocio Organic Popcorn",
+    "slug": "braggadocio-organic-popcorn",
+    "description": "Braggadocio Organic Popcorn is Certified Organic Popcorn. A delicious and healthy snack option.",
+    "company_name": "McKaskle Family Farm/Braggadocio",
+    "company_slug": "mckaskle-family-farm-braggadocio",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704796082/production/Brand/25943/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607305/production/CategoryImage/515/category_image/FoodNutrition_15.jpg",
+    "properties": {
+        "Applications": [
+            "Bakery",
+            "Cereals & Snacks",
+            "Food"
+        ],
+        "Product Families": [
+            "Flours & Grains Products",
+            "Whole Foods, Extracts & Premixes"
+        ],
+        "End Uses": [
+            "Popcorn",
+            "Snacks"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Popcorn"
+        ],
+        "Labeling Claims": [
+            "Kosher",
+            "Preservative-free",
+            "Additive-free",
+            "Organic",
+            "Non-GMO"
+        ],
+        "Certifications & Compliance": [
+            "Kosher",
+            "Non-GMO Project Verified",
+            "USDA Organic",
+            "Organic Certified"
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "id": 419328,
+    "brand": "benestim",
+    "name": "BeneLIQ 4-2-8",
+    "slug": "beneliq-4-2-8",
+    "description": "BeneLIQ 4-2-8 is a liquid organic fertilizer, composed of 100% natural products that can increase the plant’s yield and the quality of vegetables, fruits and flowers. Due to the nature of BeneLIQ 4-2-8, a quick effect on the soil can be noted.",
+    "company_name": "BENEFERT",
+    "company_slug": "benefert",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708688089/production/Brand/32897/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608238/production/CategoryImage/552/category_image/AgricultureFeed_08.jpg",
+    "properties": {
+        "Applications": [
+            "Trees & Woodlands",
+            "Ornamentals",
+            "Fruits",
+            "Vegetables",
+            "Agricultural Crops",
+            "Turf, Ornamentals & Landscape"
+        ],
+        "Product Families": [
+            "Fertilizers & Nutrients",
+            "Plant Health, Nutrients & Soil Management"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Fertilizer"
+        ],
+        "Labeling Claims": [
+            "Organic",
+            "Plant-Based"
+        ]
+    }
+}

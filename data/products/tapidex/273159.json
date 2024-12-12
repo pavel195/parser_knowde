@@ -1,0 +1,66 @@
+{
+    "id": 273159,
+    "brand": "tapidex",
+    "name": "TapiSweet™ CL 42",
+    "slug": "tapisweet-cl-42",
+    "description": "A medium DE syrup made by the enzymatic conversion of tapioca starch and naturally clarified (CL) yielding a translucent colored sweetener with relatively low glucose content. These syrups contribute mild sweetness, body and viscosity. Its functional properties include binding, crystal growth inhibition and moisture retention. Manufactured in the USA.\r\n",
+    "company_name": "Sweet Additions",
+    "company_slug": "sweet-additions",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708696222/production/Company/21332/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708696222/production/Product/273159/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Other Non-Alcoholic Beverages",
+            "Savory & Culinary",
+            "Desserts & Fruit Preparations",
+            "Confectionery",
+            "Cereals & Snacks",
+            "Bakery",
+            "Beverage",
+            "Food"
+        ],
+        "Product Families": [
+            "Sweeteners & Syrups",
+            "Taste & Flavor"
+        ],
+        "End Uses": [
+            "Sauces",
+            "Hard Boiled Candy",
+            "Gummies",
+            "Frozen Desserts",
+            "Confectionery Products",
+            "Tabletop Condiments",
+            "Breakfast Cereals",
+            "Cereal Bars"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Tapioca Syrup"
+        ],
+        "Functions": [
+            "Nutritive Sweetener",
+            "Mouthfeel Improvement"
+        ],
+        "Labeling Claims": [
+            "Hypoallergenic",
+            "Natural",
+            "Naturally Derived",
+            "Gluten-free",
+            "Organic",
+            "Non-GMO",
+            "Allergen-free",
+            "Kosher"
+        ],
+        "Physical Form": [
+            "Liquid"
+        ],
+        "Packaging Type": [
+            "Totes (IBC)"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Plant Origin"
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "id": 301077,
+    "brand": "hostaphan",
+    "name": "Hostaphan® WN FI 13012",
+    "slug": "hostaphan-wn-fi-13012",
+    "description": "Hostaphan® WN FI 13012 is a transparent biaxially stretched film made of Polyethylene terephthalate (PET). She stands out for her exceptional physical properties.",
+    "company_name": "Dr. D. Mueller",
+    "company_slug": "dr-d-mueller",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686149745/production/Company/24190/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Power, Water & Utilities",
+            "Electrical Protection",
+            "Other Electrical & Electronics Applications"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Polyesters",
+            "Polyethylene Terephthalate (PET)"
+        ],
+        "Polymer Name": [
+            "Polyethylene Terephthalate (PET)"
+        ],
+        "End Uses": [
+            "Electric Motors"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyethylene Terephthalate (PET)"
+        ],
+        "Physical Form": [
+            "Film"
+        ],
+        "Features": [
+            "Excellent Moisture Resistance",
+            "Good Balance of Properties",
+            "Solvent Resistant"
+        ]
+    }
+}

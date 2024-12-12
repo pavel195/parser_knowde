@@ -1,0 +1,38 @@
+{
+    "id": 231901,
+    "brand": "fast-red",
+    "name": "Phthalocyanine Blue BS",
+    "slug": "phthalocyanine-blue-bs",
+    "description": "Organic Pigment",
+    "company_name": "Dyrox Chemicals",
+    "company_slug": "dyrox-chemicals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708517384/production/Company/16399/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609091/production/CategoryImage/594/category_image/PrintingPackaging_05.jpg",
+    "properties": {
+        "Applications": [
+            "Textile Manufacturing",
+            "Other Paints & Coatings Applications",
+            "Industrial Coatings",
+            "Leather & Textiles"
+        ],
+        "Product Families": [
+            "Organic Pigments",
+            "Color Pigments",
+            "Pigments & Colorants"
+        ],
+        "Chemical Family": [
+            "Phthalocyanine"
+        ]
+    },
+    "summary": {
+        "Color": [
+            "Blue"
+        ],
+        "Pigment Type": [
+            "Organic Pigments"
+        ],
+        "Chemical Family": [
+            "Phthalocyanine"
+        ]
+    }
+}

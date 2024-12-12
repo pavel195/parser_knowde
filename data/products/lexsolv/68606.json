@@ -1,0 +1,71 @@
+{
+    "id": 68606,
+    "brand": "lexsolv",
+    "name": "Spectrastat™",
+    "slug": "spectrastat-spectrastat",
+    "description": "Spectrastat™ is a versatile broad-spectrum preservation system. It is a widely used optimized combination of multifunctional ingredients that allows formulators to create self-preserving formulations.",
+    "company_name": "Inolex",
+    "company_slug": "inolex-chemical-company",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1717010458/production/Product/68606/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1717010458/production/Product/68606/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Bath & Shower",
+            "Skin Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Stabilizers",
+            "Antioxidants & Preservatives",
+            "Conditioners & Emollients",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Caprylhydroxamic Acid",
+            "Caprylyl Glycol"
+        ],
+        "End Uses": [
+            "Body Cream",
+            "Body Lotion",
+            "Shower Gels"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Caprylyl Glycol",
+            "Caprylhydroxamic Acid"
+        ],
+        "Ingredient Origin": [
+            "Synthetic"
+        ],
+        "Functions": [
+            "Anti-Microbial Agent",
+            "Preservative",
+            "Emollient",
+            "Chelating Agent"
+        ],
+        "Labeling Claims": [
+            "Clean at Sephora",
+            "Paraben-free",
+            "Credo Clean Standard",
+            "Palm Oil-free",
+            "Biodegradable",
+            "Halal",
+            "Formaldehyde releasing substances-free",
+            "MIT-free",
+            "Palm free",
+            "Ulta Beauty's Conscious Beauty"
+        ],
+        "Certifications & Compliance": [
+            "IECIC (China)",
+            "Halal"
+        ],
+        "Benefit Claims": [
+            "Antimicrobial",
+            "Self-Preserving",
+            "Preservation",
+            "Chelating",
+            "Emolliency"
+        ]
+    }
+}

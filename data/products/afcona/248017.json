@@ -1,0 +1,52 @@
+{
+    "id": 248017,
+    "brand": "afcona",
+    "name": "Afcona 4010",
+    "slug": "afcona-4010",
+    "description": null,
+    "company_name": "AFCONA Additives",
+    "company_slug": "afcona-additives",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1711628405/production/Company/18743/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608630/production/CategoryImage/571/category_image/PaintingsCoatings_07.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial Coatings",
+            "Furniture Coatings",
+            "Coil Coatings",
+            "Wood Coatings & Finishes",
+            "Floor Coatings",
+            "Flooring & Surfaces",
+            "Building & Construction"
+        ],
+        "Product Families": [
+            "Other Processing Additives",
+            "Dispersing & Wetting Additives",
+            "Additives",
+            "Processing Aids"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ],
+        "End Uses": [
+            "Matting Agents",
+            "Titanium Dioxides Pigments",
+            "Organic Pigments",
+            "Iron Oxides Pigments",
+            "Inorganic Pigments",
+            "Wood Coating",
+            "Solventborne Coating",
+            "Radiation Curable Coating",
+            "Coil Coating"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ],
+        "Features": [
+            "Excellent Dispersibility",
+            "Excellent Whiteness",
+            "Good Compatibility"
+        ]
+    }
+}

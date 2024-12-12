@@ -1,0 +1,60 @@
+{
+    "id": 184204,
+    "brand": "niaproof",
+    "name": "Probake® Calcium Neutralized Dry Vinegar",
+    "slug": "probake-calcium-neutralized-dry-vinegar",
+    "description": "Probake NDV is a free-flowing powder made from naturally fermented vinegar.",
+    "company_name": "Niacet",
+    "company_slug": "niacet",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708688105/production/Product/184204/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708688105/production/Product/184204/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Fruits & Vegetables",
+            "Desserts & Fruit Preparations",
+            "Other Food Applications",
+            "Bakery",
+            "Cereals & Snacks",
+            "Food"
+        ],
+        "Product Families": [
+            "Antioxidants & Preservatives",
+            "Texturizers",
+            "Dough Conditioners & Flour Additives",
+            "Stabilizers",
+            "Acidulants & Acidity Regulators",
+            "Functional Additives",
+            "Texture & Consistency"
+        ],
+        "End Uses": [
+            "Chips",
+            "Pretzels",
+            "Tortilla Chips",
+            "Corn Based Snacks",
+            "Dried Vegetables"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Vinegar"
+        ],
+        "Functions": [
+            "Buffers & pH Stabilizer",
+            "Leavening Agent",
+            "Anti-Microbial Agent",
+            "Stabilizer",
+            "Firming Agent"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin"
+        ],
+        "Labeling Claims": [
+            "Natural",
+            "Naturally Derived"
+        ],
+        "Physical Form": [
+            "Solid",
+            "Powder"
+        ]
+    }
+}

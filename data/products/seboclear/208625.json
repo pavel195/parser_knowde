@@ -1,0 +1,83 @@
+{
+    "id": 208625,
+    "brand": "seboclear",
+    "name": "SEBOCLEAR™ MP Balanced Microbiota in Ageless Skin",
+    "slug": "seboclear-mp-balanced-microbiota-in-ageless-skin",
+    "description": "SEBOCLEARTM-MP helps escape the vicious cycle of blemished skin: it optimizes the skin microbiota by selectively inhibiting the acne bacteria P. Acnes and shuts down inflammation by suppressing the skin‘s key inflammation enzymes, COX - 1,COX - 2 and 5 - LOX. It prevents 5α-reductase from forming DHT and resets the morphology of sebocytes to their original fibroblast-like shape in order to normalize sebum production. SEBOCLEARTM-MP is a multifunctional and natural active ingredient from the leaves of Maclura cochinchinensis. It gets to the root cause of oily skin, setting all levers in motion to prevent the formation of comedones and acne vulgaris. It shows retinol-like activity and provides even, youthful-looking skin.",
+    "company_name": "RAHN",
+    "company_slug": "rahn",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708690016/production/Product/208625/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708690016/production/Product/208625/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Skin Care",
+            "Treatment Products",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Skin Actives",
+            "Antioxidants & Preservatives",
+            "AP/Deo Actives",
+            "Cosmetic Actives",
+            "Functionals"
+        ],
+        "Chemical Family": [
+            "Plant Extracts"
+        ],
+        "INCI Name": [
+            "Maclura Cochinchinensis Leaf Extract"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Maclura Cochinchinensis Leaf Extract"
+        ],
+        "Functions": [
+            "Sebum Regulator",
+            "Bacteriostatic Agent",
+            "Anti-Acne Agent",
+            "Deodorant",
+            "Anti-Microbial Agent"
+        ],
+        "Ingredient Origin": [
+            "Non-Animal Origin",
+            "Natural Origin",
+            "Plant Origin"
+        ],
+        "Labeling Claims": [
+            "BSE-free",
+            "Nanomaterials-free",
+            "VOC-free",
+            "Biodegradable",
+            "Naturally Derived",
+            "Non-Irritant",
+            "Allergen-free",
+            "Natural",
+            "Vegan",
+            "Non-Carcinogenic",
+            "Organic",
+            "Solvent-free",
+            "Non-Mutagenic",
+            "Non-Toxic",
+            "Gluten-free",
+            "Preservative-free",
+            "Non-Phototoxic"
+        ],
+        "Certifications & Compliance": [
+            "ISO 22716",
+            "Organic Certified",
+            "Kosher",
+            "COSMOS",
+            "NaTrue",
+            "EU Compliant",
+            "REACH (Europe)",
+            "ECOCERT",
+            "Halal"
+        ],
+        "Benefit Claims": [
+            "Anti-Bacterial",
+            "Non-Sensitizing",
+            "Anti-Acne"
+        ]
+    }
+}

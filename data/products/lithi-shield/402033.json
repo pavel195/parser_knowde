@@ -1,0 +1,60 @@
+{
+    "id": 402033,
+    "brand": "lithi-shield",
+    "name": "STEEL SHIELD Extreme Pressure Anti-Wear (EPAW)™",
+    "slug": "steel-shield-extreme-pressure-anti-wear-epaw",
+    "description": "STEEL SHIELD Extreme Pressure Anti-Wear (EPAW)™ is the ultimate protection for the moving metal parts for industry. Utilizing the most Advanced Boundary Film (ABF) Technology, it protects moving metal parts from heat, friction and wear in engines, transmissions, differentials, transfer cases, hydraulic pumps and motors, gear boxes, and other enclosed lubrication systems, due to boundary conditions of frictional abrasion, extreme pressure torque, dry startup and shutdown. Increased performance and greatly reduced maintenance and downtime are the results. These performance goals are achieved through ABF Technology by lowering the operating temperatures, extending the life of component parts and increasing reliability.",
+    "company_name": "Steel Shield Technologies",
+    "company_slug": "steel-shield-technologies",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708692213/production/Brand/30651/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608744/production/CategoryImage/575/category_image/AutomotiveTransportation_03.jpg",
+    "properties": {
+        "Applications": [
+            "Cold-Chain & Insulation",
+            "Appliances & Electronics",
+            "Transmission Fluids",
+            "Automotive Fluids & Lubricants",
+            "Lubricants & Functional Fluids"
+        ],
+        "Product Families": [
+            "Surface Protective Additives",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Hydrocarbons"
+        ],
+        "End Uses": [
+            "Hydraulic Fluids",
+            "Heavy Duty Transmission Fluids",
+            "Gear Oils",
+            "Gear Lubricants",
+            "Engine Lubricants",
+            "Compressor Oils"
+        ]
+    },
+    "summary": {
+        "End Uses": [
+            "Compressor Oils",
+            "Heavy Duty Transmission Fluids",
+            "Engine Lubricants",
+            "Gear Oils",
+            "Hydraulic Fluids",
+            "Gear Lubricants"
+        ],
+        "Functions": [
+            "Extreme Pressure Additive",
+            "Anti-Wear Agent"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal"
+        ],
+        "Chemical Family": [
+            "Hydrocarbons"
+        ],
+        "Features": [
+            "Good Film Former",
+            "Wear Protection",
+            "Friction Reduction"
+        ]
+    }
+}

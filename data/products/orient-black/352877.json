@@ -1,0 +1,50 @@
+{
+    "id": 352877,
+    "brand": "orient-black",
+    "name": "Orient Black® N220",
+    "slug": "orient-black-n220",
+    "description": "Orient Black® N220 is an intermediate Super Abrasion Furnace (SAF) grade withmedium structure and high surface area, offers high tensile strength.",
+    "company_name": "Phillips Carbon Black",
+    "company_slug": "phillips-carbon-black",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708687874/production/Brand/26317/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608760/production/CategoryImage/576/category_image/AutomotiveTransportation_04.jpg",
+    "properties": {
+        "Applications": [
+            "Tires",
+            "Equipment & Parts",
+            "Other Industrial Applications",
+            "Automotive",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Fillers & Extenders",
+            "Elastomer Additives"
+        ],
+        "Chemical Family": [
+            "Carbon Blacks"
+        ],
+        "End Uses": [
+            "Tires",
+            "Conveyors",
+            "Belts/Belt Repair"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Reinforcement"
+        ],
+        "Chemical Family": [
+            "Carbon Blacks"
+        ],
+        "Features": [
+            "High Performance",
+            "High Surface Area",
+            "High Tensile Strength",
+            "Wear Resistant",
+            "Good Abrasion Resistance"
+        ],
+        "Synonyms": [
+            "Acetylene Black, Furnace Black, Lamp Black, Thermal Black"
+        ]
+    }
+}

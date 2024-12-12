@@ -1,0 +1,49 @@
+{
+    "id": 335791,
+    "brand": "nutrigut",
+    "name": "Recoverben®",
+    "slug": "recoverben",
+    "description": "Recoverben is an innovative, natural, organic, sports nutrition ingredient based on the extract of lemon verbena (Aloysia citriodora). It improves recovery after exercise and thereby supports physical performance, motivation for sports and may prevent overtraining. It is scientifically proven, IP protected, and frequently used in food supplements. In vitro and human studies demonstrated that Recoverben® helps to defend oxidative stress and inflammation. Moreover, it is able to prevent loss of muscle strength and muscle damage. In addition it reduces muscle soreness related to physical exercise.",
+    "company_name": "Vital Solutions",
+    "company_slug": "vital-solutions",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708690833/production/Brand/24819/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607247/production/CategoryImage/513/category_image/FoodNutrition_13.jpg",
+    "properties": {
+        "Applications": [
+            "Functional Foods",
+            "Powdered Beverages",
+            "Nutraceuticals & Supplements",
+            "Beverage",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Phytochemicals & Plant Extracts",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Dietary Supplements",
+            "Beverage Mixes",
+            "Functional Foods"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Lemon Verbena"
+        ],
+        "Features": [
+            "Anti-Fatigue",
+            "Anti-Inflammatory",
+            "Stress Reduction",
+            "High Quality",
+            "Antioxidant Properties"
+        ],
+        "Physical Form": [
+            "Solid",
+            "Powder"
+        ],
+        "Functions": [
+            "Dietary Supplement",
+            "Supplement"
+        ]
+    }
+}

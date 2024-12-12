@@ -1,0 +1,40 @@
+{
+    "id": 402044,
+    "brand": "pyrosil",
+    "name": "Silicaflex™ Tape AB",
+    "slug": "silicaflex-tape-ab",
+    "description": "Silicaflex™ Tape AB is a slit Silica tape designed to protect hoses, cables and tubing from intense radiant heat and flame. Coated with a pressure sensitive adhesive on one side to facilitate wrapping. It is a low cost, convenient, field-installable solution to some of the most demanding high temperature problems.",
+    "company_name": "ADL Insulflex",
+    "company_slug": "adl-insulflex",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520148/production/Brand/30660/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608953/production/CategoryImage/586/category_image/AdhesivesSealants_03.jpg",
+    "properties": {
+        "Applications": [
+            "Tapes & Labels",
+            "Building Materials",
+            "Tapes, Labels & Adhesives",
+            "Pipes & Plumbing"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Pressure Sensitive Adhesives & Tapes"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Tape"
+        ],
+        "Application Area": [
+            "Pipes"
+        ],
+        "Features": [
+            "High Temperature Strength",
+            "High Tensile Strength",
+            "Heat Resistance",
+            "Low Smoke Emission",
+            "Corrosion Resistant",
+            "Abrasion Resistant",
+            "Cost Effective"
+        ]
+    }
+}

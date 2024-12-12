@@ -1,0 +1,50 @@
+{
+    "id": 321240,
+    "brand": "iso-len",
+    "name": "ISO-LEN® HOT",
+    "slug": "iso-len-hot",
+    "description": "ISO-LEN® HOT is an ultra-high molecular weight low-pressure polyethylene based on the well-known ISO-LEN® 1000. The addition of oxidation-inhibiting additives enables a longer service life at higher temperatures.",
+    "company_name": "ISO TECH Kunststoff GmbH",
+    "company_slug": "iso-tech-kunststoff-gmbh",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697223339/production/Product/321240/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Food & Beverage Packaging",
+            "Non-Food Consumer Packaging",
+            "Other Industrial Applications",
+            "Equipment & Parts",
+            "Other Parts & Components",
+            "Structural Components",
+            "Other Automotive Applications",
+            "Automotive",
+            "Building Materials",
+            "Parts & Components",
+            "Chemical & Industrial Manufacturing",
+            "Packaging"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Polyolefins",
+            "Polyethylenes"
+        ],
+        "Polymer Name": [
+            "Ultra High Molecular Weight Polyethylene (UHMWPE)"
+        ],
+        "End Uses": [
+            "Pharmaceutical Packaging",
+            "Machine/Mechanical Parts",
+            "Food Packaging"
+        ]
+    },
+    "summary": {
+        "Density": [
+            "960.0 - 960.0 kg/m³"
+        ],
+        "Tensile Modulus": [
+            "700.0 - 700.0 MPa"
+        ]
+    }
+}

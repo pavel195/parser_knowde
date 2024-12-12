@@ -1,0 +1,52 @@
+{
+    "id": 240025,
+    "brand": "sugar-spheres-sanaq",
+    "name": "CELLETS® 780",
+    "slug": "cellets-780",
+    "description": "CELLETS® 780 is smallest size starter core(<200 μm) for the production of micropellets and MUPS tablet formulation incl.ODT.",
+    "company_name": "PHARMATRANS SANAQ AG",
+    "company_slug": "pharmatrans",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708696009/production/Company/16760/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708696009/production/Company/16760/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Oral",
+            "Drug Delivery & Care Solutions"
+        ],
+        "Product Families": [
+            "Carriers & Bulking Agents",
+            "Modified & Controlled Release",
+            "Excipients"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Cellulose, Microcrystalline"
+        ],
+        "CAS Number": [
+            "9004-34-6"
+        ],
+        "Functions": [
+            "Carrier",
+            "Controlled Release Agent"
+        ],
+        "Dosage Form": [
+            "Pellets",
+            "Tablets"
+        ],
+        "Labeling Claims": [
+            "TSE-free",
+            "Naturally Derived",
+            "BSE-free"
+        ],
+        "Certifications & Compliance": [
+            "National Formulary (NF)",
+            "United States Pharmacopeia (USP)",
+            "Japan Pharmacopeia (JP)",
+            "European Pharmacopeia (Ph. Eur.)"
+        ],
+        "Synonyms": [
+            "Crystalline cellulose, Micro Fibril Cellulose, Pyrocellulose"
+        ]
+    }
+}

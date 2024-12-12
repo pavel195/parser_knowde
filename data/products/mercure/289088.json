@@ -1,0 +1,62 @@
+{
+    "id": 289088,
+    "brand": "mercure",
+    "name": "Mercure MBTS",
+    "slug": "mercure-mbts",
+    "description": "Mercure MBTS is semi ultra-fast accelerator / its combinations with booster accelerators are used in NR, SBR, SBR-NR / BR blends, NBR, IIR, EPDM, and other synthetic rubber based compounds used for the manufacture of motor cycles and scooter tires, butyl tubes, cycle tire and tubes, beltings, retreading materials, footwear, hot air cured products and miscellaneous molded and extruded products.",
+    "company_name": "Merchem",
+    "company_slug": "merchem",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708696337/production/Company/22803/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608769/production/CategoryImage/577/category_image/AutomotiveTransportation_05.jpg",
+    "properties": {
+        "Applications": [
+            "Equipment & Parts",
+            "Maintenance, Repair & Overhaul",
+            "Other Wire & Cable Applications",
+            "Other Industrial Applications",
+            "Footwear",
+            "Belts & Conveyers",
+            "Tires",
+            "Automotive",
+            "Wire & Cable",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Catalysts, Initiators & Crosslinkers",
+            "Polymer Additives",
+            "Elastomer Additives"
+        ],
+        "End Uses": [
+            "Cables",
+            "Hoses",
+            "Footwear",
+            "Belts/Belt Repair",
+            "Tires"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "2,2′-Dithiobis(benzothiazole)"
+        ],
+        "CAS Number": [
+            "120-78-5"
+        ],
+        "Functions": [
+            "Accelerator"
+        ],
+        "Compatible Polymers & Resins": [
+            "Natural Rubbers (NR)",
+            "Nitrile Butadiene Rubber (NBR)",
+            "Ethylene Propylene Diene Monomer (EPDM)",
+            "Polybutadienes",
+            "Isobutylene-isoprene (IIR)",
+            "Styrene Butadiene Rubber (SBR)"
+        ],
+        "Processing Methods": [
+            "Extrusion"
+        ],
+        "Synonyms": [
+            "1,2-Bis(2-benzothiazolyl) disulfide, 1,2-Bis(benzo[d]thiazol-2-yl)disulfane, 2-(1,3-Benzothiazol-2-yldisulfanyl)-1,3-benzothiazole, 2-Benzothiazolyl disulfide, 2-Benzothiazyl disulfide, 2-Mercaptobenzothiazole disulfide, 2,2′-Benzothiazole disulfide, 2,2′-Benzothiazolyl disulfide, 2,2′-Benzothiazyl disulfide, 2,2′-Dibenzothiazole disulfide, 2,2′-Dibenzothiazolyl disulfide, 2,2′-Dithiobis-1,3-benzothiazole, 2,2′-Dithiobis[benzothiazole], Benzothiazole disulfide, Benzothiazolyl disulfide, Benzothiazyl disulfide, Bis(2-benzothiazolyl) disulfide, Bis(2-benzothiazyl) disulfide, Bis(benzothiazol-2-yl)disulfide, DBTD, Di-2-benzothiazolyl disulfide, Dibenzothiazolyl disulfide, Dibenzothiazyl disulfide, Dibenzothiophene disulfide, Dibenzthiazyl disulfide"
+        ]
+    }
+}

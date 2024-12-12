@@ -1,0 +1,38 @@
+{
+    "id": 326405,
+    "brand": "synthan",
+    "name": "Synthan 2095",
+    "slug": "synthan-2095",
+    "description": "Synthan 2095 is used to make liquid polyurethane systems, solvent-free. Synthan 2095 is recommended to improve flexibility in epoxy resins. When used in blends with epoxy resin, the curing agent are polyamines.",
+    "company_name": "Synthecoat",
+    "company_slug": "synthecoat",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686148763/production/Company/31011/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608600/production/CategoryImage/568/category_image/PaintingsCoatings_04.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Flooring & Surfaces",
+            "Adhesives",
+            "Other Adhesives & Sealants Applications",
+            "Construction Adhesives"
+        ],
+        "Product Families": [
+            "Intermediates",
+            "Monomers & Intermediates",
+            "Prepolymers & Polyols"
+        ],
+        "Chemical Family": [
+            "Polyisocyanates"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Polyisocyanates"
+        ],
+        "Compatible Polymers & Resins": [
+            "Polyurethanes (PU)",
+            "Polyamines",
+            "Epoxies (EP)"
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "id": 331758,
+    "brand": "dinocide-hp",
+    "name": "Abacide™ 2Hp",
+    "slug": "abacide-2hp",
+    "description": "ABACIDE™ 2Hp is a more concentrated abamectin insecticide for use on forest, woodland, Christmas and ornamental trees. Contained within a totally enclosed micro-infusion system, Abacide 2 can be applied in commercial or residential landscapes, interior and exterior plantscapes, and other areas including near swimming pools, waterways, schools and busy streets. Spring or summer applications are recommended, and can be made prior to pest appearance or after they are observed. A single application typically lasts one growing season, but severe pest pressure may require two applications in a year.",
+    "company_name": "Mauget",
+    "company_slug": "mauget",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708688360/production/Brand/24213/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608150/production/CategoryImage/545/category_image/AgricultureFeed_01.jpg",
+    "properties": {
+        "Applications": [
+            "Ornamentals",
+            "Residential Pest Control",
+            "Agricultural Pest Control",
+            "Commercial Pest Control",
+            "Pest Control",
+            "Turf, Ornamentals & Landscape"
+        ],
+        "Product Families": [
+            "Insecticides",
+            "Crop Protection & Pest Control"
+        ]
+    },
+    "summary": {
+        "Insecticide Target Species": [
+            "Lace Bugs",
+            "Caterpillars",
+            "Tent Caterpillars",
+            "Thrips",
+            "Leaf Miners",
+            "Mites",
+            "Beetles",
+            "Moths",
+            "Leafhoppers",
+            "Whiteflies",
+            "Scale Insects",
+            "Fall Webworms",
+            "Aphids"
+        ],
+        "Functions": [
+            "Miticide",
+            "Insecticide"
+        ],
+        "Application Technique": [
+            "Tree Injection"
+        ]
+    }
+}

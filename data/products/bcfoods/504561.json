@@ -1,0 +1,47 @@
+{
+    "id": 504561,
+    "brand": "bcfoods",
+    "name": "Culinary Farms Smoked Ancho Chile Sea Salt with Irradiated Chiles Fine",
+    "slug": "culinary-farms-smoked-ancho-chile-sea-salt-with-irradiated-chiles-fine",
+    "description": null,
+    "company_name": "BCFoods & Culinary Farms",
+    "company_slug": "bcfoods",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709128069/production/Company/37431/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1709128069/production/Company/37431/card_banner/image",
+    "properties": {
+        "Product Families": [
+            "Spices, Herbs & Seasonings",
+            "Salt & Salt Substitutes",
+            "Taste & Flavor"
+        ],
+        "Flavor Family": [
+            "Spice & Seasoning Inspired Flavors"
+        ],
+        "Ingredient Name": [
+            "Sea Salt, Smoked"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Sea Salt, Smoked"
+        ],
+        "Labeling Claims": [
+            "Artificial Colorants Free",
+            "Fumigation Free",
+            "Pareve",
+            "Clean Label",
+            "Pathogen-free",
+            "GMO-free",
+            "Gluten-free",
+            "Irradiation-free",
+            "Kosher",
+            "Allergen-free",
+            "Natural",
+            "Preservative-free",
+            "Artificial Flavor-Free"
+        ],
+        "Sodium Content": [
+            "32972.0 - 32972.0 mg/100 g"
+        ]
+    }
+}

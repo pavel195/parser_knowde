@@ -1,0 +1,63 @@
+{
+    "id": 273162,
+    "brand": "i-sabi",
+    "name": "BioCell Collagen® FG",
+    "slug": "biocell-collagen-fg",
+    "description": "BioCell Collagen® FG is a food-grade collagen. It is a clinically studied dietary ingredient composed of naturally occurring hydrolyzed collagen type II peptides, chondroitin sulfate, and hyaluronic acid. It is suitable for use in dietary supplements, gummies, nutritional bars, tablets, and more. BioCell's unique matrix is not a blend of individual ingredients. Numerous safety, efficacy, and bioavailability research studies, including seven human clinical trials, confirm that BioCell Collagen® promotes active joints, youthful-looking skin, and healthy connective tissues. BioCell Collagen® is made exclusively in the USA and Germany.",
+    "company_name": "BIOCELL TECHNOLOGY LLC",
+    "company_slug": "biocell-technology",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1711435572/production/Product/273162/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607009/production/CategoryImage/509/category_image/FoodNutrition_10.jpg",
+    "properties": {
+        "Applications": [
+            "Nutraceuticals & Supplements",
+            "Functional Foods",
+            "Confectionery",
+            "Food",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Tablets",
+            "Dietary Supplements",
+            "Nutritional Bars",
+            "Gummies"
+        ],
+        "Labeling Claims": [
+            "Non-Irritant",
+            "Sugar-free",
+            "Soy-free",
+            "Non-GMO",
+            "Gluten-free",
+            "Dairy-free"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Hydrolyzed Chicken Cartilage Extract"
+        ],
+        "Labeling Claims": [
+            "Dairy-free",
+            "Non-GMO",
+            "Gluten-free",
+            "Non-Irritant",
+            "Soy-free",
+            "Sugar-free"
+        ],
+        "Benefit Claims (Health)": [
+            "Skin Elasticity",
+            "Collagen Boosting",
+            "Boosts Hyaluronic Acid",
+            "Joint Support"
+        ],
+        "Features": [
+            "Supports Healthy Joints",
+            "Promotes Joint Comfort And Mobility"
+        ]
+    }
+}

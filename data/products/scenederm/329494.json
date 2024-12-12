@@ -1,0 +1,34 @@
+{
+    "id": 329494,
+    "brand": "scenederm",
+    "name": "Hyposodé® Marine Magnesium",
+    "slug": "hyposode-marine-magnesium",
+    "description": "Hyposodé® Marine Magnesium is naturally rich in magnesium, concentrated seawater is, however, unusable as it is. Algosource has therefore developed an exclusive bio-process to filter and purify them.",
+    "company_name": "Algosource",
+    "company_slug": "algosource",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708691872/production/Brand/23780/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608071/production/CategoryImage/544/category_image/HomePersonalCare_10.jpg",
+    "properties": {
+        "Applications": [
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Minerals",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Mineral Source",
+            "Mineral Source"
+        ],
+        "Labeling Claims": [
+            "Salt-free"
+        ],
+        "Features": [
+            "Anti-Fatigue"
+        ]
+    }
+}

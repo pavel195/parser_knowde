@@ -1,0 +1,48 @@
+{
+    "id": 241305,
+    "brand": "best-special-x",
+    "name": "BEST Melanoidin Light",
+    "slug": "best-melanoidin-light",
+    "description": "BEST Melanoidin Light has high levels of Maillard reactions, or melanoidins, which produce a highly intensive aroma and color. As well as giving the beer a rust color, they lend it a unique taste and dry, full-bodied character. Melanoidins can also have a positive impact on the storage life of the beer. As the malt is high in enzymes, it can make up large share of the grain bill. BEST Melanoidin Light complies with the purity guidelines of the German Reinheitsgebot.",
+    "company_name": "BESTMALZ",
+    "company_slug": "bestmalz",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686634662/production/Company/16830/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1686634662/production/Company/16830/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Beverage",
+            "Liquor & Spirits",
+            "Beer Brewing"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Flours & Grains Products"
+        ],
+        "End Uses": [
+            "Beer"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Barley Malt"
+        ],
+        "Labeling Claims": [
+            "Kosher",
+            "Plant-Based",
+            "GMO-free",
+            "Naturally Derived"
+        ],
+        "Certifications & Compliance": [
+            "Hazard Analysis Critical Control Point (HACCP)",
+            "Kosher",
+            "ISO 9001",
+            "ISO 50001"
+        ],
+        "Features": [
+            "Imparts color",
+            "Enhanced Shelf Life",
+            "Improved Flavour Stability",
+            "Foam Stability"
+        ]
+    }
+}

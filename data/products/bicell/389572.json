@@ -1,0 +1,53 @@
+{
+    "id": 389572,
+    "brand": "bicell",
+    "name": "Veralite ® 200",
+    "slug": "veralite-200",
+    "description": "Veralite ® 200 is an extruded plastic sheet based upon thermoplastic polyester PETG (Glycol modified Polyethylene Terephthalate).",
+    "company_name": "Industrial Plastics Belgium (IPB NV)",
+    "company_slug": "industrial-plastics-belgium-ipb-nv",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686149844/production/Brand/29288/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607422/production/CategoryImage/517/category_image/ElectricalElectronics_02.jpg",
+    "properties": {
+        "Applications": [
+            "Food",
+            "Displays",
+            "Other Food Applications",
+            "Devices & Assemblies"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Polymer Name": [
+            "Polyethylene Terephthalate (PET)"
+        ],
+        "End Uses": [
+            "Displays",
+            "Signage"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyethylene Terephthalate (PET)"
+        ],
+        "Features": [
+            "Flame Resistant",
+            "Chemical Resistant",
+            "Cost Effective",
+            "Excellent Transparency Properties",
+            "Food Contact Acceptable",
+            "Amorphous",
+            "Recyclable",
+            "High Rigidity",
+            "High Impact Resistance",
+            "Easier Processing",
+            "Good Printability"
+        ],
+        "Density": [
+            "1270.0 - 1270.0 kg/m³"
+        ],
+        "Tensile Modulus": [
+            "2200.0 - 2200.0 MPa"
+        ]
+    }
+}

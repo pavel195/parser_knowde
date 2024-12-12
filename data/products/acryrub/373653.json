@@ -1,0 +1,35 @@
+{
+    "id": 373653,
+    "brand": "acryrub",
+    "name": "Soudasil HT1",
+    "slug": "soudasil-ht1",
+    "description": "Product: Soudasil HT1 is a one-part acetoxy silicone sealant that withstands very high temperatures.",
+    "company_name": "Soudal USA",
+    "company_slug": "soudal",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680110400/production/Brand/27896/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608438/production/CategoryImage/559/category_image/BuildingConstruction_03.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical & Industrial Manufacturing",
+            "Other Industrial Applications"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Caulks & Sealants"
+        ],
+        "Chemical Family": [
+            "Silicones"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "1K (1 component) Sealant"
+        ],
+        "Cure Method": [
+            "Moisture Cure"
+        ],
+        "Chemical Family": [
+            "Silicones"
+        ]
+    }
+}

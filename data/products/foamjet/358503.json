@@ -1,0 +1,34 @@
+{
+    "id": 358503,
+    "brand": "foamjet",
+    "name": "Adesilex P10",
+    "slug": "adesilex-p10",
+    "description": "Adesilex P10 is high-performance, white cementitious adhesive with no vertical slip and extended open time for glass mosaic, ceramic and marble coatings (thickness of adhesive up to 5 mm).",
+    "company_name": "Mapei Spa",
+    "company_slug": "mapei-spa",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520034/production/Brand/26731/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608939/production/CategoryImage/585/category_image/AdhesivesSealants_02.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Construction Chemicals",
+            "Adhesives",
+            "Other Building & Construction Applications",
+            "Construction Adhesives"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Structural Adhesives"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Structural Adhesive"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Concrete",
+            "Glass",
+            "Ceramic"
+        ]
+    }
+}

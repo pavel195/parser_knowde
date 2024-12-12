@@ -1,0 +1,54 @@
+{
+    "id": 317296,
+    "brand": "graxy",
+    "name": "Graxy™ 601M",
+    "slug": "graxy-601m",
+    "description": "Graxy™ 601M is a type of graphene mixture. It is designed for use in the production of water-based low zinc content anti-corrosive primers..",
+    "company_name": "Topsen Technology",
+    "company_slug": "topsen-technology",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112124/production/Product/317296/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608566/production/CategoryImage/566/category_image/PaintingsCoatings_02.jpg",
+    "properties": {
+        "Applications": [
+            "Packaging Coatings",
+            "Primers & Lacquers",
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Resins & Binders",
+            "Epoxies"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives",
+            "Graphene & Graphites"
+        ],
+        "End Uses": [
+            "Solventborne Coating",
+            "Waterborne Coating",
+            "Primer"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Graphene & Graphites",
+            "Epoxy & Epoxy Derivatives"
+        ],
+        "End Uses": [
+            "Waterborne Coating",
+            "Solventborne Coating",
+            "Primer"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Steel"
+        ],
+        "Features": [
+            "Salt Spray Resistance",
+            "Excellent Adhesion",
+            "Corrosion Resistance",
+            "High Performance",
+            "Low VOC",
+            "Good Compatibility"
+        ]
+    }
+}

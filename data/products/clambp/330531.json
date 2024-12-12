@@ -1,0 +1,55 @@
+{
+    "id": 330531,
+    "brand": "clambp",
+    "name": "ClamBP™",
+    "slug": "clambp",
+    "description": "ClamBP™ utilizes marine protein peptides prepared by our eco-friendly patented bionic enzymolysis technology of Philippine clams. Traceability is guaranteed through strict quality control throughout the production process.",
+    "company_name": "Chenland Nutritionals",
+    "company_slug": "chenland-nutritionals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708524644/production/Product/330531/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515647/production/CategoryImage/1055/category_image/HII_07.jpg",
+    "properties": {
+        "Applications": [
+            "Confectionery",
+            "Nutraceuticals & Supplements",
+            "Oral",
+            "Food",
+            "Nutrition & Well Being",
+            "Drug Delivery & Care Solutions"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Seafood Products & Extracts",
+            "Proteins & Amino Acids",
+            "Nutrition & Fortification",
+            "Whole Foods, Extracts & Premixes",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Tablets",
+            "Gummies",
+            "Dietary Supplements"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Marine Peptide"
+        ],
+        "Ingredient Origin": [
+            "Animal Origin",
+            "Natural Origin",
+            "Marine Origin"
+        ],
+        "Labeling Claims": [
+            "Kosher",
+            "Environmentally Friendly",
+            "Halal"
+        ],
+        "Certifications & Compliance": [
+            "Generally Recognized As Safe (GRAS)",
+            "Halal",
+            "Kosher"
+        ]
+    }
+}

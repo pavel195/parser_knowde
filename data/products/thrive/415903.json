@@ -1,0 +1,40 @@
+{
+    "id": 415903,
+    "brand": "thrive",
+    "name": "THRIVE® Full Synthetic HP SAE 5W-40 Euro",
+    "slug": "thrive-full-synthetic-hp-sae-5w-40-euro",
+    "description": "THRIVE® Full Synthetic HP SAE 5W-40 Euro is a full synthetic gasoline and light duty diesel engine oil engineered for high performance European automobiles including Mercedes Benz, Volkswagen, BMW and Porsche. SYN 5W40 HP EURO is a unique blend of full sulfated ash, phosphorus and sulfur (SAPS) for longterm engine protection.",
+    "company_name": "U.S. Lubricants",
+    "company_slug": "u-s-lubricants",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292458/production/Brand/32474/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608779/production/CategoryImage/578/category_image/AutomotiveTransportation_06.jpg",
+    "properties": {
+        "Applications": [
+            "Lubricants & Functional Fluids",
+            "Automotive Fluids & Lubricants"
+        ],
+        "Product Families": [
+            "Fluids & Lubricants",
+            "Lubricants & Oils"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Oil"
+        ],
+        "Application Areas": [
+            "Diesel Engine",
+            "Engine",
+            "Gasoline Engine"
+        ],
+        "Features": [
+            "Heat Resistance",
+            "Low Temperature Performance",
+            "Wear Resistant",
+            "High Performance"
+        ],
+        "SAE Viscosity Grade": [
+            "SAE 5W-40"
+        ]
+    }
+}

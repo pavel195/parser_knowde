@@ -1,0 +1,41 @@
+{
+    "id": 374861,
+    "brand": "curv",
+    "name": "VersaComp™",
+    "slug": "versacomp",
+    "description": "VersaComp™ was created to be a lower cost alternative to Curv®. It is achieved this by reducing the complexity of construction and color options without sacrificing its impact resistance. VersaComp original is also recyclable.\r\n",
+    "company_name": "Propex Furnishing Solutions",
+    "company_slug": "propex-furnishing-solutions",
+    "logo_url": null,
+    "banner_url": "https://media.knowde.com/image/upload/v1625608744/production/CategoryImage/575/category_image/AutomotiveTransportation_03.jpg",
+    "properties": {
+        "Applications": [
+            "Advanced Materials",
+            "Body Armor",
+            "Interior",
+            "Exterior & Body",
+            "Sports & Recreation",
+            "Luggage & Leather Goods",
+            "Automotive",
+            "Military & Defense"
+        ],
+        "Product Families": [
+            "Thermoplastic Resins",
+            "Polymers & Resins"
+        ],
+        "Polymer Name": [
+            "Thermoplastic (unspecified)"
+        ],
+        "End Uses": [
+            "Skate Board"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Thermoplastic (unspecified)"
+        ],
+        "End Uses": [
+            "Skate Board"
+        ]
+    }
+}

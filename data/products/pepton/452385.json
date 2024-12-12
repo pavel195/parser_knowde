@@ -1,0 +1,43 @@
+{
+    "id": 452385,
+    "brand": "pepton",
+    "name": "Casamid™ 831",
+    "slug": "casamid-831",
+    "description": "Casamid™ 831 is a co-solvent thermoplastic polyamide resin designed for use in gravure inks and lacquers. CASAMID 831 is the highest viscosity grade of the standard range of CASAMID non- reactive polyamide resins. The composition of CASAMID 831 is similar to that approved under FDA 175.320-\"Resinous and polymeric coatings for polyolefin films.\"",
+    "company_name": "Thomas Swan",
+    "company_slug": "thomas-swan",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112362/production/Brand/35827/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1686112362/production/Brand/35827/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Packaging Coatings",
+            "Printing & Inks",
+            "Primers & Lacquers",
+            "Gravure Printing"
+        ],
+        "Product Families": [
+            "Other Resins & Binders",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Polyamides"
+        ],
+        "End Uses": [
+            "Gravure Ink",
+            "Lacquers"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Polyamides"
+        ],
+        "End Uses": [
+            "Gravure Ink",
+            "Lacquers"
+        ],
+        "Features": [
+            "High Viscosity",
+            "Improves Solvent Release"
+        ]
+    }
+}

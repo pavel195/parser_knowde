@@ -1,0 +1,43 @@
+{
+    "id": 389515,
+    "brand": "durpack",
+    "name": "DurSolex® Chemically Crosslinked Polyethylene Foam",
+    "slug": "dursolex-chemically-crosslinked-polyethylene-foam",
+    "description": "DurSolex® Chemically Crosslinked Polyethylene Foam is a polyethylene foam material that is expanded in heat oven after extruded with the help of chemical inflators and cross linking agents that are put inside. It has advanced chemical and mechanical features thanks to its cross-linked structure Compared to DurProx (physically Cross-Linked Polyethylene Foam) the cell structure is larger and the surface is not as smooth. It can be used in many areas that sound, heat, humidity insulation and shock protection is intended. It can be produced for different sectors as cut plate, roll, tube, extra-laminated or non-laminated.",
+    "company_name": "Durfoam",
+    "company_slug": "durfoam",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1702444503/production/Brand/29280/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608769/production/CategoryImage/577/category_image/AutomotiveTransportation_05.jpg",
+    "properties": {
+        "Applications": [
+            "Sports & Recreation",
+            "EIFS & Insulation",
+            "Interior",
+            "Exterior & Body",
+            "Automotive",
+            "Building Envelope & Roofing"
+        ],
+        "Product Families": [
+            "Foams"
+        ],
+        "Chemical Family": [
+            "Polyolefins",
+            "Polyethylenes",
+            "Polyethylene Cross-Linked (PEX)"
+        ]
+    },
+    "summary": {
+        "Foam Type": [
+            "Closed Cell Foam"
+        ],
+        "Chemical Family": [
+            "Polyethylenes",
+            "Polyethylene Cross-Linked (PEX)",
+            "Polyolefins"
+        ],
+        "Physical Form": [
+            "Sheets",
+            "Foam"
+        ]
+    }
+}

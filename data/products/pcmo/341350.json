@@ -1,0 +1,60 @@
+{
+    "id": 341350,
+    "brand": "pcmo",
+    "name": "Castor Derivatives BT TMPTO",
+    "slug": "castor-derivatives-bt-tmpto",
+    "description": "BT TMPTO is trimethylpropane trioleate and applied in metalworking Fluids ,Environmentally acceptable lubricants and it is Produced from plant-based materials.",
+    "company_name": "Biosynthetic Technologies",
+    "company_slug": "biosynthetic-technologies",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704101464/production/Company/4678/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1704101464/production/Company/4678/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Fluids & Lubricants",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Performance Additives",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Estolides",
+            "Synthetic Esters"
+        ],
+        "End Uses": [
+            "Stamping Oils",
+            "Rolling Fluids",
+            "Neat Oils ",
+            "Metalworking Fluids",
+            "Grinding Oils",
+            "Grinding Fluids ",
+            "Fire-Resistant Hydraulic Oils",
+            "Drawing Oils",
+            "Cutting Oils"
+        ]
+    },
+    "summary": {
+        "End Uses": [
+            "Grinding Fluids ",
+            "Neat Oils ",
+            "Grinding Oils",
+            "Rolling Fluids",
+            "Metalworking Fluids",
+            "Cutting Oils",
+            "Fire-Resistant Hydraulic Oils",
+            "Drawing Oils",
+            "Stamping Oils"
+        ],
+        "Chemical Family": [
+            "Synthetic Esters",
+            "Estolides"
+        ],
+        "Features": [
+            "Excellent Lubricity",
+            "High Viscosity Index",
+            "High Flash Point",
+            "Hydrolytic Stability",
+            "Low Temperature Performance"
+        ]
+    }
+}

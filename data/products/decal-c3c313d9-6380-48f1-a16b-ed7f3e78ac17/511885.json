@@ -1,0 +1,82 @@
+{
+    "id": 511885,
+    "brand": "decal-c3c313d9-6380-48f1-a16b-ed7f3e78ac17",
+    "name": "Ravecarb Diethyl Ketone",
+    "slug": "ravecarb-diethyl-ketone",
+    "description": null,
+    "company_name": "EM Sullivan",
+    "company_slug": "em-sullivan",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1710414969/production/Brand/41038/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical Manufacturing",
+            "Pharmaceutical Processing",
+            "Pharmaceutical Manufacturing",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Ketones",
+            "Intermediates"
+        ],
+        "Chemical Family": [
+            "Ketones"
+        ],
+        "End Uses": [
+            "Pharmaceutical Application"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Pentan-3-one"
+        ],
+        "CAS Number": [
+            "96-22-0"
+        ],
+        "Chemical Family": [
+            "Ketones"
+        ],
+        "Purity (Assay)": [
+            "99.0 - 99.0 %"
+        ],
+        "Labeling Claims": [
+            "Adsorbable Organic Halides (AOX)-free",
+            "Nitrite-free",
+            "PFOS-free",
+            "Boron-free",
+            "Gold-Free",
+            "Tantalum-Free",
+            "PAH-free",
+            "TSE-free",
+            "APEO-Free",
+            "CMR Substances-free",
+            "Polychlorinated Biphenyls (PCB)-free",
+            "1,2-Dichloropropane-free",
+            "Alkylamide-free",
+            "DMF (dimethylformamide)-free",
+            "PFAS-Free",
+            "Tungsten-Free",
+            "Mineral-free",
+            "Metal-free",
+            "Bisphenol Derivatives-free",
+            "Nitric Acid-free",
+            "Alkylphenol-free",
+            "Ethanolamines - Free",
+            "Quaternary Ammonium Salt-Free",
+            "BSE-free",
+            "NPEO-Free",
+            "Nitrosamines-free",
+            "GMO-free",
+            "Aldehyde-free",
+            "Phthalates-free",
+            "Nitrous Acid-free",
+            "Amide-free",
+            "Organotins-free",
+            "Tin-free",
+            "Octylphenolethoxylate (OPEO)-free",
+            "PFOA-free",
+            "Azide-free",
+            "Melamine-free"
+        ]
+    }
+}

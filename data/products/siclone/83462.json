@@ -1,0 +1,58 @@
+{
+    "id": 83462,
+    "brand": "siclone",
+    "name": "Permethyl® 101A",
+    "slug": "permethyl-101a",
+    "description": "Permethyl® 101A is highly emollient, easy-spreading, and moisturizing. It imparts a non-drying feeling on the skin and has a light, smooth feel with excellent cleansing properties. The Permethyl® line is a series of unique, highly branched aliphatic hydrocarbons ranging from highly volatile, low viscosity liquids to non-volatile viscous materials. The low viscosity grades have excellent makeup removal properties and are differentiated by skin feel, spreadability and volatility. The high viscosity grades give high gloss and film forming properties, and are differentiated by product viscosity.",
+    "company_name": "Presperse",
+    "company_slug": "presperse-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708695549/production/Company/1370/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708695549/production/Brand/7036/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Color Cosmetics",
+            "Hair Care",
+            "Skin Care",
+            "Sun Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Conditioners & Emollients",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Isohexadecane"
+        ],
+        "End Uses": [
+            "Compact Powder",
+            "Moisturizers",
+            "Make Up Remover"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Isohexadecane"
+        ],
+        "Functions": [
+            "Emollient"
+        ],
+        "Labeling Claims": [
+            "Ulta Beauty's Conscious Beauty",
+            "Credo Clean Standard",
+            "Clean at Sephora"
+        ],
+        "Benefit Claims": [
+            "Film Forming",
+            "Gloss Enhancement",
+            "Low Viscosity",
+            "Dispersing",
+            "Cleansing",
+            "Moisturizing",
+            "Pigment Wetting",
+            "Spreadability",
+            "Shine Enhancing",
+            "Smooth Feel",
+            "Emolliency"
+        ]
+    }
+}

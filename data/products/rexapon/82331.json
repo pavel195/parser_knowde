@@ -1,0 +1,81 @@
+{
+    "id": 82331,
+    "brand": "rexapon",
+    "name": "ULTRAPEG® 400",
+    "slug": "ultrapeg-400",
+    "description": "The ULTRAPEG® product line is made up of ethylene oxide polymers. It is represented by the following general formula: HO(CH2CH2O)nH\nAccording to the degree of ethoxylation(n), products with different molecular weights and melting points can be obtained, which allows the use of these products in various applications. The hydrophilicity of the polyoxyethylene chain from the ULTRAPEG® product line allows for the obtention of a hygroscopic polymer which is highly water soluble. By varying the molecular weight, liquid or solid products may be obtained, covering a wide range of viscosities and consistencies.",
+    "company_name": "Oxiteno",
+    "company_slug": "oxiteno",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708684295/production/Product/82331/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708684295/production/Brand/6906/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Baby Care",
+            "Bath & Shower",
+            "Color Cosmetics",
+            "Hair Care",
+            "Skin Care",
+            "Sun Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Aroma Ingredients",
+            "Sensory Modifiers",
+            "Rheology Modifiers",
+            "Emulsifiers, Solubilizers & Dispersants",
+            "Conditioners & Emollients",
+            "Functionals"
+        ],
+        "Chemical Family": [
+            "Polyols (Polyether)",
+            "Polyols"
+        ],
+        "INCI Name": [
+            "PEG-8"
+        ],
+        "End Uses": [
+            "Body Wash",
+            "Body Cream",
+            "Body Lotion",
+            "Body Oil",
+            "Fragrances & Perfumes",
+            "Body Firming Lotion",
+            "Baby Sunscreen",
+            "Diaper Cream",
+            "Foot Moisturizer",
+            "Eye Shadow",
+            "Foundation",
+            "Lipstick",
+            "Eczema Treatment",
+            "Eye Liner",
+            "Facial Cleanser",
+            "Facial Moisturizer",
+            "After Shaves",
+            "Anti-Aging Products",
+            "Concealer",
+            "Bar Soaps",
+            "Shampoos & Rinses"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "PEG-8"
+        ],
+        "Functions": [
+            "Softener",
+            "Solubilizer",
+            "Conditioner",
+            "Anti-Static Agent",
+            "Humectant",
+            "Plasticizer",
+            "Fixative"
+        ],
+        "Ingredient Origin": [
+            "Synthetic"
+        ],
+        "Labeling Claims": [
+            "Clean at Sephora",
+            "Ulta Beauty's Conscious Beauty"
+        ]
+    }
+}

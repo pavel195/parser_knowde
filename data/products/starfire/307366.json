@@ -1,0 +1,49 @@
+{
+    "id": 307366,
+    "brand": "starfire",
+    "name": "DayGlo DNA Orange (HT-359)",
+    "slug": "dayglo-dna-orange-ht-359",
+    "description": "Hi-Tint dispersions are recommended for in-plant tinting of solvent-based industrial, aerosol and trade sales coatings. These high strength conventional pigment dispersions incorporate high quality pigments in a unique alkyd vehicle system. Each colorant has been formulated for maximum pigment color value while maintaining a wide range of compatibility and characteristics such as non-settling, pourability, flocculation resistance and shelf stability.",
+    "company_name": "DayGlo",
+    "company_slug": "dayglo",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708523738/production/Product/307366/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708523738/production/Product/307366/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Other Paints & Coatings Applications",
+            "Industrial Coatings"
+        ],
+        "Product Families": [
+            "Organic Pigments",
+            "Color Dispersions",
+            "Dispersions & Masterbatches",
+            "Pigments & Colorants",
+            "Color Pigments"
+        ],
+        "End Uses": [
+            "Solventborne Coating"
+        ]
+    },
+    "summary": {
+        "Color": [
+            "Orange"
+        ],
+        "Pigment Type": [
+            "Organic Pigments"
+        ],
+        "End Uses": [
+            "Solventborne Coating"
+        ],
+        "Compatible Polymers & Resins": [
+            "Alkyds",
+            "Vinyls",
+            "Polyesters",
+            "Epoxies (EP)",
+            "Polyurethanes (PU)"
+        ],
+        "Carrier": [
+            "Resin-based",
+            "Alkyd Resin"
+        ]
+    }
+}

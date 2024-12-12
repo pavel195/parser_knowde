@@ -1,0 +1,37 @@
+{
+    "id": 220790,
+    "brand": "barrierpro",
+    "name": "Rovene® 6502",
+    "slug": "rovene-6502",
+    "description": "Rovene 6502 is a high solids, acrylic emulsion designed for formulation of PSA and packaging adhesives It can be used neat or blended with a variety of polymer emulsions, dispersed tackifiers, and fillers to yield performance characteristics that meet specific requirements. Rovene 6502 may also have application in vinyl flooring adhesives due to its plasticizer migration resistance.",
+    "company_name": "Mallard Creek Polymers",
+    "company_slug": "mallard-creek-polymers",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1693579422/production/Company/15660/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1693579422/production/Company/15660/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Construction Adhesives",
+            "Electronics Adhesives",
+            "Adhesives & Sealants",
+            "Adhesives",
+            "Building & Construction",
+            "Industrial & Assembly Adhesives",
+            "Building Materials",
+            "Construction Chemicals",
+            "Packaging & Assembly"
+        ],
+        "Product Families": [
+            "Acrylics",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates",
+            "Acrylics, Acrylates & Methacrylates"
+        ]
+    },
+    "summary": {
+        "Glass Transition Temperature (Tg)": [
+            "-43.0 - -43.0 °C"
+        ]
+    }
+}

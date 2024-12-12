@@ -1,0 +1,73 @@
+{
+    "id": 354851,
+    "brand": "bib2",
+    "name": "BSR RD213",
+    "slug": "bsr-rd213",
+    "description": "A fine particle size pigment with high tinctorial strength, manufactured in a thermoset matrix. For use where heat and solvent resistance are essential. These pigments are generally more suitable for long term storage in water systems. Formulated for optimal fade resistance.\r\n",
+    "company_name": "Brilliant Group, Inc.",
+    "company_slug": "brilliant-group",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708687649/production/Brand/26447/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708687649/production/Product/354851/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Textile Manufacturing",
+            "Leather Manufacturing",
+            "Decorative Paints, Coatings & Stains",
+            "Appliances & Electronics",
+            "Appliances & Consumer Goods",
+            "Color Cosmetics",
+            "Decorative Paints",
+            "Screen Printing",
+            "Gravure Printing",
+            "Flexography",
+            "Building Materials",
+            "Building & Construction",
+            "Industrial Coatings",
+            "Printing & Inks",
+            "Beauty & Care",
+            "Decorative Materials & Finishes",
+            "Leather & Textiles"
+        ],
+        "Product Families": [
+            "Finishing Additives & Treatments",
+            "Pigments & Colorants",
+            "Photoluminescent Pigments",
+            "Color Pigments",
+            "Polymer Additives",
+            "Textile & Leather Chemicals"
+        ],
+        "End Uses": [
+            "Synthetic Leather",
+            "Leather",
+            "Radiation Curable Coating",
+            "Solventborne Ink",
+            "Solventborne Coating",
+            "Radiation Curable Ink",
+            "Aerosol Paint",
+            "Waterborne Coating",
+            "Latex",
+            "Screen Printing Ink",
+            "Plastisol Ink",
+            "Gravure Ink",
+            "Flexography Ink",
+            "Aerosol Ink",
+            "Plastisol Coating"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Colorant",
+            "Pigment"
+        ],
+        "Pigment Type": [
+            "Fluorescent"
+        ],
+        "Color": [
+            "Red (Fluorescent)"
+        ],
+        "Compatible Polymers & Resins": [
+            "Polyurethanes (PU)",
+            "Epoxies (EP)"
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "id": 246493,
+    "brand": "k-ox",
+    "name": "K-OX™ 9100",
+    "slug": "k-ox-9100",
+    "description": "K-Ox™ 9100 is a barium free non-staining, non-emulsifiable, alkali resistant, water displacing and water separating rust preventive concentrate which is soluble in aliphatic and aromatic solvents, naphthenic and paraffinic oils, and a selection of natural oils. K-Ox™ 9100 is particularly effective in displacing water from metal parts after machining operations or alkali cleaning. K-Ox™ 9100 will deposit an ultra-thin oily or waxy film, depending upon the diluent used. K-Ox™ 9100 will provide excellent humidity resistance and provide limited protection in salt environments and acid atmospheres.",
+    "company_name": "Kimes Technologies International",
+    "company_slug": "kimes-technologies",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708687777/production/Company/18491/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708687777/production/Company/18491/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Fluids & Lubricants",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Surface Protective Additives",
+            "Additives"
+        ],
+        "End Uses": [
+            "Dip Tank Fluids",
+            "Honing Oils",
+            "Slushing Oils"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Corrosion Inhibitor"
+        ],
+        "End Uses": [
+            "Slushing Oils",
+            "Dip Tank Fluids",
+            "Honing Oils"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal"
+        ],
+        "Features": [
+            "Salt Spray Resistance",
+            "Improved Solubility",
+            "Corrosion Resistant",
+            "Non-Emulsifiable",
+            "Excellent Water Separation",
+            "Chemical Resistant",
+            "Water Resistant",
+            "Non-Staining"
+        ]
+    }
+}

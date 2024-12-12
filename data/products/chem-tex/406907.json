@@ -1,0 +1,62 @@
+{
+    "id": 406907,
+    "brand": "chem-tex",
+    "name": "CHEM-THANE DCP FLEX",
+    "slug": "chem-thane-dcp-flex",
+    "description": "CHEM-THANE DCP FLEX primer sealer/finish coatings, pigmented or clear, being self-priming, both decorative and protective, are a new generation of fast-curing, two-component, polyaspartic products for interior or exterior use over properly prepared concrete, metal, mineral substrates, and certain plastics. For application to wood surfaces, contact manufacturer. They have excellent penetration and bond strength to properly prepared surfaces and are UV resistant with flexible properties. They have good splash and chemical-spill-resistant properties involving commercial and household cleaners, pool water treatment products, and hot tires.",
+    "company_name": "Indmar Coatings",
+    "company_slug": "indmar-coatings",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709127677/production/Brand/31366/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608600/production/CategoryImage/568/category_image/PaintingsCoatings_04.jpg",
+    "properties": {
+        "Applications": [
+            "Aerospace & Aviation",
+            "Floor Coatings",
+            "Aerospace Coatings",
+            "Coatings & Finishes",
+            "Transportation",
+            "Flooring & Surfaces"
+        ],
+        "Product Families": [
+            "Protective Coatings",
+            "Primers & Sealers",
+            "Paints & Coatings"
+        ]
+    },
+    "summary": {
+        "Product Type": [
+            "Primer",
+            "2K (2 component) Coating"
+        ],
+        "Application Area": [
+            "Pet Enclosures",
+            "Floor Coverings",
+            "Aircraft Hangers"
+        ],
+        "Application Method": [
+            "Roller"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Masonry",
+            "Plastics",
+            "Concrete",
+            "Metal"
+        ],
+        "Features": [
+            "Excellent Substrate Adhesion",
+            "Impact Resistance",
+            "Flexible",
+            "Low Temperature Curing",
+            "Excellent Stain Resistance",
+            "Matte Gloss Capable",
+            "UV Resistant",
+            "Good Optical Properties",
+            "Abrasion Resistant",
+            "Wear Resistant",
+            "Fast Curing",
+            "Low VOC",
+            "Self-Priming",
+            "Low Odor"
+        ]
+    }
+}

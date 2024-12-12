@@ -1,0 +1,35 @@
+{
+    "id": 359139,
+    "brand": "glyptal",
+    "name": "Glyptal® 1202",
+    "slug": "glyptal-1202",
+    "description": "Glyptal® 1202 INSULATING VARNISH is a clear air-drying , insulating, and finishing varnish designed for applications where oil, moisture, and acid-resistant coatings are desired. This fast-drying, synthetic-resin-type varnish is often used as a final coat over other varnishes, giving a hard, glossy protective coating. Glyptal® 1202 Varnish has excellent heat resistance and will operate as a finish coat at temperatures up to 145 ºC on an apparatus that is not flexed. Although primarily an airdrying varnish, the oil, moisture, acid, and salt water resistance are greatly improved by baking. Glyptal® 1202 has excellent adhesion to most materials. It has excellent dip tank stability where the proper thinners are used.",
+    "company_name": "Glyptal",
+    "company_slug": "glyptal",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664290911/production/Company/30765/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608557/production/CategoryImage/565/category_image/PaintingsCoatings_01.jpg",
+    "properties": {
+        "Applications": [
+            "Other Electrical & Electronics Applications",
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Stains & Varnishes"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Varnishes"
+        ],
+        "Features": [
+            "Moisture Resistant",
+            "Good Adhesion",
+            "Oil Resistant",
+            "Acid Resistant",
+            "Fast Drying",
+            "High Gloss",
+            "Heat Resistance"
+        ]
+    }
+}

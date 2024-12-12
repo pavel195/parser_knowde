@@ -1,0 +1,83 @@
+{
+    "id": 304792,
+    "brand": "equibiotics",
+    "name": "ROELMI HPC CeraFluid",
+    "slug": "roelmi-hpc-cerafluid",
+    "description": "active solubilized ceramides in patented fluid olive matrix",
+    "company_name": "ROELMI HPC",
+    "company_slug": "roelmi-hpc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708685316/production/Product/304792/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708685316/production/Company/1386/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Skin Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Skin Actives",
+            "Sensory Modifiers",
+            "Cosmetic Actives",
+            "Functionals"
+        ],
+        "Chemical Family": [
+            "Glycerides"
+        ],
+        "INCI Name": [
+            "Ceramide NP"
+        ],
+        "End Uses": [
+            "Anti-Aging Products"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Ceramide NP"
+        ],
+        "Functions": [
+            "Anti-Wrinkle Agent",
+            "Smoothing Agent"
+        ],
+        "Labeling Claims": [
+            "Glycol ether-free",
+            "BSE-free",
+            "Nanomaterials-free",
+            "Amine-free",
+            "Credo Clean Standard",
+            "Clean at Sephora",
+            "TSE-free",
+            "VOC-free",
+            "Not Tested on Animals",
+            "Ethylene Oxide-free",
+            "Allergen-free",
+            "Formaldehyde-free",
+            "Chelate-free",
+            "Protein-free",
+            "Vegan",
+            "Animal Products-free",
+            "Ulta Beauty's Conscious Beauty",
+            "Ethanol-free",
+            "Phthalates-free",
+            "Stabilizers-free",
+            "GMO-free"
+        ],
+        "Benefit Claims": [
+            "Smoothing",
+            "Skin Protection",
+            "Improves Skin Elasticity",
+            "Firming",
+            "Anti-Aging",
+            "Anti-Wrinkle",
+            "Moisture Retention",
+            "Compatibility",
+            "Hydrating",
+            "Non-Occlusive",
+            "Easy To Use",
+            "Excellent Adhesive Properties",
+            "Antioxidant Properties",
+            "Improves Cohesion"
+        ],
+        "Synonyms": [
+            "Ceramide 2, Ceramide 3, N-(9Z-octadecenoyl)-4-hydroxysphinganine, N-(9Z-octadecenoyl)phytosphingosine, N-Octadecanoylphytosphingosine, N-Oleoylphytosphingosine, N-Oloeoyl-4-Hydroxysphinganine"
+        ]
+    }
+}

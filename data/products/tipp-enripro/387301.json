@@ -1,0 +1,41 @@
+{
+    "id": 387301,
+    "brand": "tipp-enripro",
+    "name": "Tipperary-Operative Creamery Slice MAASDAM CHEESE",
+    "slug": "tipperary-operative-creamery-slice-maasdam-cheese",
+    "description": "Slice MAASDAM CHEESE is a sweet cheese with a nutty flavor. It is a delicate flavored cheese with natural eyes distributed throughout the cheese.",
+    "company_name": "Tipperary-Operative Creamery",
+    "company_slug": "tipperary-operative-creamery",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686105141/production/Company/47139/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606914/production/CategoryImage/502/category_image/FoodNutrition_03.jpg",
+    "properties": {
+        "Applications": [
+            "Food",
+            "Convenience Foods"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Dairy Products"
+        ],
+        "End Uses": [
+            "Ready Meals",
+            "Packaged Sandwiches"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Maasdam Cheese"
+        ],
+        "Labeling Claims": [
+            "Halal",
+            "Kosher",
+            "Vegetarian"
+        ],
+        "Certifications & Compliance": [
+            "Kosher",
+            "ISO 50001",
+            "Halal",
+            "GFSI Certified"
+        ]
+    }
+}

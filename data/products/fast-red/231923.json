@@ -1,0 +1,61 @@
+{
+    "id": 231923,
+    "brand": "fast-red",
+    "name": "NANO Y-313",
+    "slug": "nano-y-313",
+    "description": "Transparent Iron Oxide Pigment",
+    "company_name": "Dyrox Chemicals",
+    "company_slug": "dyrox-chemicals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708518944/production/Company/16399/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609091/production/CategoryImage/594/category_image/PrintingPackaging_05.jpg",
+    "properties": {
+        "Applications": [
+            "Aerospace & Aviation",
+            "Commercial",
+            "Rail & Mass Transit",
+            "Furniture",
+            "Other Printing Applications",
+            "Metal Coatings",
+            "Industrial Coatings",
+            "Furniture Coatings",
+            "Appliances & Consumer Goods",
+            "Agricultural & Construction Equipment",
+            "Wood Coatings & Finishes",
+            "Rail & Mass Transit Coatings",
+            "Other Automotive & Transportation Applications",
+            "Off Road & Commercial Vehicle Coatings",
+            "Automotive OEM Coatings",
+            "Aerospace Coatings",
+            "Other Industrial Applications",
+            "Sports & Recreation",
+            "Appliances & Electronics",
+            "Other Automotive Applications",
+            "Automotive",
+            "Coatings & Finishes",
+            "Transportation",
+            "Chemical & Industrial Manufacturing",
+            "Automotive & Transportation",
+            "Building & Construction",
+            "Printing & Inks"
+        ],
+        "Product Families": [
+            "Inorganic Pigments",
+            "Color Pigments",
+            "Pigments & Colorants"
+        ],
+        "End Uses": [
+            "Powder Coating"
+        ]
+    },
+    "summary": {
+        "Color": [
+            "Yellow"
+        ],
+        "Pigment Type": [
+            "Inorganic Pigments"
+        ],
+        "End Uses": [
+            "Powder Coating"
+        ]
+    }
+}

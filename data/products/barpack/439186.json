@@ -1,0 +1,49 @@
+{
+    "id": 439186,
+    "brand": "barpack",
+    "name": "Barstretch M 15",
+    "slug": "barstretch-m-15",
+    "description": "Barbier Group Barstretch M 15 offers exceptional performance and resistance to irregular pallets. Its flexibility makes it easy to use for everyone. Its transparency eases the identification of pallets in storage and its low noise when unwinding makes it comfortable in use.",
+    "company_name": "Barbier Group",
+    "company_slug": "barbier-group",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686150212/production/Company/63641/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609091/production/CategoryImage/594/category_image/PrintingPackaging_05.jpg",
+    "properties": {
+        "Applications": [
+            "Packaging",
+            "Industrial & Transport Packaging",
+            "Non-Food Consumer Packaging"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Polyethylenes",
+            "Polyolefins"
+        ],
+        "Polymer Name": [
+            "Polyethylene Copolymer"
+        ],
+        "End Uses": [
+            "Film",
+            "Co-extruded Film",
+            "Stretch Films"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyethylene Copolymer"
+        ],
+        "Physical Form": [
+            "Film"
+        ],
+        "Features": [
+            "High Performance",
+            "High Flexibility"
+        ],
+        "Color": [
+            "Translucent",
+            "Opaque"
+        ]
+    }
+}

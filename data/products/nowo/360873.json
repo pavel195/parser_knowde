@@ -1,0 +1,31 @@
+{
+    "id": 360873,
+    "brand": "nowo",
+    "name": "Nowo® Metal SB Thinner",
+    "slug": "nowo-metal-sb-thinner",
+    "description": "Nowo® Metal SB Thinner is a sheet metal paint thinner with a 2K rating.",
+    "company_name": "Coating Source",
+    "company_slug": "coating-source",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1683727419/production/Brand/26978/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608410/production/CategoryImage/557/category_image/BuildingConstruction_01.jpg",
+    "properties": {
+        "Applications": [
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Solvents & Carriers",
+            "Diluents"
+        ],
+        "Chemical Family": [
+            "Mixtures & Blends"
+        ],
+        "End Uses": [
+            "2K (2 component) Coating"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Mixtures & Blends"
+        ]
+    }
+}

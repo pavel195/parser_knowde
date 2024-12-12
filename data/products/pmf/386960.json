@@ -1,0 +1,38 @@
+{
+    "id": 386960,
+    "brand": "pmf",
+    "name": "PMF® Fiber 204 BX",
+    "slug": "pmf-fiber-204-bx",
+    "description": "PMF® Fiber 204 BX is produced from high purity mineral ores in an electric arc furnace, the precisely designed fiber is used as a reinforcing material in a variety of composite end-uses including friction materials; quality plastics; paints; caulks; sealants, coatings and gaskets. Fibrox PMF 204 milled fiber has a fiber index greater than 95%. It boasts thermal stability, consistent uniformity and excellent tensile strength and is the perfect alternative to asbestos.",
+    "company_name": "Fibrox",
+    "company_slug": "fibrox",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686149332/production/Brand/29003/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical & Industrial Manufacturing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Reinforcements",
+            "Other Reinforcements"
+        ],
+        "End Uses": [
+            "Gaskets"
+        ]
+    },
+    "summary": {
+        "Reinforcement Material": [
+            "Mineral"
+        ],
+        "Reinforcement Form": [
+            "Milled Fiber"
+        ],
+        "Features": [
+            "High Purity",
+            "High Tensile Strength",
+            "Wear Resistant",
+            "Heat Resistance"
+        ]
+    }
+}

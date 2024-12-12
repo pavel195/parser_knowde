@@ -1,0 +1,49 @@
+{
+    "id": 373744,
+    "brand": "bioset",
+    "name": "Bioset Black",
+    "slug": "bioset-black",
+    "description": "Bioset Black are vegetable ink with excellent performance, for use in presses sheetfed offset with or without water/alcohol system, specially developed to cover a wide range of common papers in offset. They are vegetable-based inks based on renewable sources, they have minimal odor and low migration, are manufactured according to the BPC (EUPIA code of good practices) which makes it very suitable for printing the outside of food packaging, food wrappers, toys and cosmetics.",
+    "company_name": "Brigal",
+    "company_slug": "brigal",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520367/production/Brand/27902/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Paper & Pulp",
+            "Packaging Coatings",
+            "Printing & Inks",
+            "Overprint Varnishes",
+            "Packaging",
+            "Food & Beverage Packaging",
+            "Offset & Lithographic Printing",
+            "Coated Paper & Paperboard"
+        ],
+        "Product Families": [
+            "Offset & Lithographic Inks",
+            "Inks & Pastes"
+        ]
+    },
+    "summary": {
+        "Application Area": [
+            "Stamping"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Paper"
+        ],
+        "Features": [
+            "Excellent Performance",
+            "Good Light Fastness",
+            "Friction Resistant",
+            "High Solids Content",
+            "Low Odor",
+            "Low Migration",
+            "Fast Setting",
+            "Good Brightness",
+            "Renewable Resource Content"
+        ],
+        "Color": [
+            "Black"
+        ]
+    }
+}

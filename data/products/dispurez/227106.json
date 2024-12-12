@@ -1,0 +1,52 @@
+{
+    "id": 227106,
+    "brand": "dispurez",
+    "name": "Dispurez 103",
+    "slug": "dispurez-103",
+    "description": "Dispurez 103 is a flexible, toughened polyurethane dispersion that forms films with excellent optical clarity and good chemical and block resistance. Upon application, the water evaporates to yield a tough and flexible transparent film. Films derived from Dispurez® 103 exhibit good chemical, stain and hydrolysis resistance, making them particularly suited for automotive and waterproofing applications.",
+    "company_name": "Incorez Ltd",
+    "company_slug": "incorez-ltd",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112160/production/Company/8738/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1686112160/production/Company/8738/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Exterior & Body",
+            "Interior",
+            "Building Envelope & Roofing",
+            "Waterproofing & Weatherproofing",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Resins & Binders",
+            "Polyurethanes (PU)"
+        ],
+        "Chemical Family": [
+            "Urethanes",
+            "Polyurethanes (PU)"
+        ],
+        "End Uses": [
+            "Waterborne Coating"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Polyurethanes (PU)",
+            "Urethanes"
+        ],
+        "End Uses": [
+            "Waterborne Coating"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Plastics"
+        ],
+        "Glass Transition Temperature (Tg)": [
+            "-36.0 - -36.0 °C"
+        ],
+        "Features": [
+            "Chemical Resistance",
+            "Weather Resistance",
+            "Excellent Adhesion",
+            "Water Resistance"
+        ]
+    }
+}

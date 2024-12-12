@@ -1,0 +1,87 @@
+{
+    "id": 406553,
+    "brand": "silvacell",
+    "name": "SilvaCell",
+    "slug": "silvacell",
+    "description": "SilvaCell is a mix of strong antioxidants and antimicrobials. High concentration of flavonoids contributes to specific biological activities. Procyanidin derivatives of different polymerization degree have been identified as main compounds responsible for biological activity.\r\n",
+    "company_name": "Alternative Plants",
+    "company_slug": "alternative-plants",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708683759/production/Company/7168/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708683759/production/Product/406553/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Treatment Products",
+            "Skin Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Skin Actives",
+            "Cosmetic Actives"
+        ],
+        "INCI Name": [
+            "Usnea Barbata (Lichen) Extract",
+            "Juniperus Communis Callus Extract",
+            "Cetraria Islandica Extract"
+        ],
+        "End Uses": [
+            "Skin Toners",
+            "Body Cream",
+            "Acne Treatments"
+        ],
+        "Labeling Claims": [
+            "Ulta Beauty's Conscious Beauty",
+            "Ethanol-free",
+            "Plant-Based",
+            "Naturally Derived",
+            "Biodegradable"
+        ],
+        "Benefit Claims": [
+            "Sebum Control",
+            "Collagen Protection",
+            "Anti-Bacterial",
+            "Oxidation Protection",
+            "UV Protection",
+            "Skin Protection",
+            "Free Radical Scavenging",
+            "Antioxidant Properties",
+            "Anti-Inflammatory",
+            "Anti-Acne"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Usnea Barbata (Lichen) Extract",
+            "Juniperus Communis Callus Extract",
+            "Cetraria Islandica Extract"
+        ],
+        "Functions": [
+            "Antioxidant",
+            "Anti-Inflammatory",
+            "Anti-Acne Agent"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Non-Animal Origin",
+            "Plant Origin"
+        ],
+        "Labeling Claims": [
+            "Ulta Beauty's Conscious Beauty",
+            "Ethanol-free",
+            "Plant-Based",
+            "Biodegradable",
+            "Naturally Derived"
+        ],
+        "Benefit Claims": [
+            "Sebum Control",
+            "Anti-Inflammatory",
+            "UV Protection",
+            "Anti-Acne",
+            "Skin Protection",
+            "Anti-Bacterial",
+            "Collagen Protection",
+            "Antioxidant Properties",
+            "Free Radical Scavenging",
+            "Oxidation Protection"
+        ]
+    }
+}

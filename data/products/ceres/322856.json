@@ -1,0 +1,32 @@
+{
+    "id": 322856,
+    "brand": "ceres",
+    "name": "Super Kleaned Wheat",
+    "slug": "super-kleaned-wheat",
+    "description": "Super Kleaned Wheat that can be further processed for malting, distillation or cereal. Our wheat berries undergo an extensive and thorough cleaning that includes the use of electronic color sorting machines.",
+    "company_name": "King Milling",
+    "company_slug": "king-milling",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686104229/production/Product/322856/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607026/production/CategoryImage/510/category_image/FoodNutrition_11.jpg",
+    "properties": {
+        "Applications": [
+            "Food",
+            "Cereals & Snacks"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Flours & Grains Products"
+        ],
+        "End Uses": [
+            "Breakfast Cereals"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Wheat"
+        ],
+        "Labeling Claims": [
+            "Sustainable"
+        ]
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "id": 418811,
+    "brand": "ultratape",
+    "name": "Ultratape® 7245",
+    "slug": "ultratape-7245",
+    "description": "Ultratape® 7245 is Teflon (PTFE) high temperature tape with silicone adhesive. Used in electrical applications such as coil wraps, separators, transformers, slot liners and harness wrapping where good insulation and heat resistant properties are needed.",
+    "company_name": "Ultratape Industries",
+    "company_slug": "ultratape-industries",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691738139/production/Brand/32823/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608962/production/CategoryImage/587/category_image/AdhesivesSealants_04.jpg",
+    "properties": {
+        "Applications": [
+            "Power & Utilities",
+            "Medical Tapes & Adhesives",
+            "Adhesives & Sealants",
+            "Appliances & Electronics",
+            "Tapes & Labels",
+            "Aerospace & Aviation",
+            "Packaging & Assembly",
+            "Medical",
+            "Power, Water & Utilities",
+            "Tapes, Labels & Adhesives",
+            "Transportation"
+        ],
+        "Product Families": [
+            "Pressure Sensitive Adhesives & Tapes",
+            "Adhesives & Sealants"
+        ]
+    },
+    "summary": {}
+}

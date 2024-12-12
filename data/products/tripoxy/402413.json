@@ -1,0 +1,54 @@
+{
+    "id": 402413,
+    "brand": "tripoxy",
+    "name": "Trilon S™",
+    "slug": "trilon-s",
+    "description": "Trilon S™ is a next-generation 2-part acrylic urethane topcoat that employs cutting-edge technology. Trilon S cures to a tough, abrasion-resistant film that is resistant to the majority of chemicals. When exposed to extreme weather in exterior applications, this product performs admirably in terms of gloss and color retention. Trilon S meets or exceeds most OEM specifications for off-road vehicles when applied over a high performance primer.",
+    "company_name": "Triangle Coatings",
+    "company_slug": "triangle-coatings",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1673943282/production/Brand/30701/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608621/production/CategoryImage/570/category_image/PaintingsCoatings_06.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial Coatings",
+            "Agricultural & Construction Equipment",
+            "Transportation",
+            "Off Road & Recreational Vehicle (RV)"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Top Coats"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "2K (2 component) Coating",
+            "Top Coat",
+            "Solventless & High Solids Coating"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal"
+        ],
+        "Features": [
+            "Good Flexibility",
+            "Good Gloss Retention",
+            "High Gloss",
+            "Good Color Stability",
+            "Chipping Resistance",
+            "High Solids Content",
+            "Abrasion Resistant",
+            "Low VOC",
+            "Impact Resistance",
+            "Good Toughness",
+            "High Durability",
+            "High Performance",
+            "Good Weather Stability",
+            "Chemical Resistant"
+        ],
+        "Application Method": [
+            "Brush",
+            "Roll Coater",
+            "Spray"
+        ]
+    }
+}

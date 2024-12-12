@@ -1,0 +1,79 @@
+{
+    "id": 277245,
+    "brand": "pansperse",
+    "name": "PanTINT® 18B1203",
+    "slug": "pantint-18b1203",
+    "description": "High strength 100% solid colorants with broad compatibility in a wide variety of conventional, low and zero VOC water based coatings and inks. Pigments used in PanTINT 18 Series have been selected to meet the durability and transparency requirements of most high performance applications.",
+    "company_name": "Pan Technology Inc.",
+    "company_slug": "pan-technology-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708525197/production/Company/11927/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608621/production/CategoryImage/570/category_image/PaintingsCoatings_06.jpg",
+    "properties": {
+        "Applications": [
+            "Tape & Label Adhesives",
+            "Furniture",
+            "Industrial Coatings",
+            "Wood Coatings & Finishes",
+            "Tapes & Labels",
+            "Marine Coatings",
+            "Marine",
+            "Vehicle Refinish",
+            "Agricultural & Construction Equipment",
+            "Industrial Maintenance",
+            "Gravure Printing",
+            "Furniture Coatings",
+            "Appliances & Consumer Goods",
+            "Appliances & Electronics",
+            "Aerospace Coatings",
+            "Aerospace & Aviation",
+            "Other Paints & Coatings Applications",
+            "Packaging & Paper",
+            "Coatings & Finishes",
+            "Transportation",
+            "Automotive & Transportation",
+            "Building & Construction",
+            "Printing & Inks",
+            "Tapes, Labels & Adhesives"
+        ],
+        "Product Families": [
+            "Organic Pigments",
+            "Color Dispersions",
+            "Dispersions & Masterbatches",
+            "Pigments & Colorants",
+            "Color Pigments"
+        ],
+        "Chemical Family": [
+            "Phthalocyanine"
+        ],
+        "End Uses": [
+            "2K (2 component) Coating",
+            "Gravure Ink"
+        ]
+    },
+    "summary": {
+        "Color": [
+            "Blue"
+        ],
+        "Pigment Type": [
+            "Organic Pigments"
+        ],
+        "Chemical Family": [
+            "Phthalocyanine"
+        ],
+        "End Uses": [
+            "2K (2 component) Coating",
+            "Gravure Ink"
+        ],
+        "Compatible Polymers & Resins": [
+            "Alkyds",
+            "Polyesters",
+            "Epoxies (EP)",
+            "Polyurethanes (PU)",
+            "Acrylics",
+            "Styrene Copolymers"
+        ],
+        "Carrier": [
+            "Water"
+        ]
+    }
+}

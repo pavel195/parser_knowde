@@ -1,0 +1,37 @@
+{
+    "id": 246490,
+    "brand": "synsul",
+    "name": "SOLUBLE BASE 5700",
+    "slug": "soluble-base-5700",
+    "description": "Soluble Base 5700 is a versatile sulfonate and PIBSA derived soluble oil emulsifier package. It is designed to emulsify paraffinic and naphthenic oils, as well as the more difficult re-refined oils that are primarily paraffinic in composition. Soluble Base 5700 offers hard water stability and rust inhibiting characteristics. In addition, the PIBSA technology provides exceptional system cleanliness by preventing buildup of soap and sludge in the sumps. In turn, this limits microbial growth and thereby enhances corrosion protection and extends fluid life.",
+    "company_name": "Kimes Technologies International",
+    "company_slug": "kimes-technologies",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708685991/production/Company/18491/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708685991/production/Company/18491/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Fluids & Lubricants",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Performance Additives",
+            "Additives"
+        ],
+        "End Uses": [
+            "Metalworking Fluids"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Emulsifier"
+        ],
+        "End Uses": [
+            "Metalworking Fluids"
+        ],
+        "Features": [
+            "Corrosion Resistant",
+            "Excellent Emulsifiability",
+            "Hard Water Stability"
+        ]
+    }
+}

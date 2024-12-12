@@ -1,0 +1,52 @@
+{
+    "id": 308528,
+    "brand": "hangzhou-jingyi-chemical-jingyi",
+    "name": "HUATE BK-883",
+    "slug": "huate-bk-883",
+    "description": "HUATE BK-883 has a strong thickening ability, good compatibility, need polar activator. Applicable to low and middle polar solvent systems. It is also used in paints, printing inks, sealants, lubricating greases, paint filers, atomic ash, mixed paints, etc. The international countertype of BK-883 is Bentone-34.",
+    "company_name": "Hangzhou Jingyi Chemical",
+    "company_slug": "hangzhou-jingyi-chemical",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672143/production/Product/308528/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608769/production/CategoryImage/577/category_image/AutomotiveTransportation_05.jpg",
+    "properties": {
+        "Applications": [
+            "Fluids & Lubricants",
+            "Other Automotive Applications",
+            "Other Adhesives & Sealants Applications",
+            "Other Printing & Packaging Applications",
+            "Other Paints & Coatings Applications",
+            "Automotive",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Rheology Modifiers & Stabilizers",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Organoclays"
+        ],
+        "End Uses": [
+            "Solventborne Adhesive",
+            "Solventborne Ink",
+            "Solventborne Coating"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Rheology Modifier",
+            "Viscosity Modifier"
+        ],
+        "Chemical Family": [
+            "Organoclays"
+        ],
+        "End Uses": [
+            "Solventborne Adhesive",
+            "Solventborne Ink",
+            "Solventborne Coating"
+        ],
+        "Physical Form": [
+            "Solid",
+            "Powder"
+        ]
+    }
+}

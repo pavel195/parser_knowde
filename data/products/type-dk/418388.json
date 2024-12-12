@@ -1,0 +1,38 @@
+{
+    "id": 418388,
+    "brand": "type-dk",
+    "name": "Type 7TB™",
+    "slug": "type-7tb",
+    "description": "Type 7TB™ is a thermal barrier for plastic foams formulated with vermiculite and Portland cement. The formulation cures to form a medium density, polymer modified cementitious fire barrier to provide code required finish ratings to foam plastics.",
+    "company_name": "Southwest Fireproofing Products",
+    "company_slug": "southwest-fireproofing-products",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520276/production/Brand/32774/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608490/production/CategoryImage/563/category_image/BuildingConstruction_07.jpg",
+    "properties": {
+        "Applications": [
+            "Architectural Coatings",
+            "Building Envelope"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Coating"
+        ],
+        "Features": [
+            "High Fire Retardancy",
+            "Medium Density",
+            "Fire Proof"
+        ],
+        "Application Area": [
+            "Wall Coverings",
+            "Ceiling Coverings"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Plastics"
+        ]
+    }
+}

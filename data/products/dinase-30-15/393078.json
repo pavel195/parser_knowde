@@ -1,0 +1,31 @@
+{
+    "id": 393078,
+    "brand": "dinase-30-15",
+    "name": "Cattle Booster®",
+    "slug": "cattle-booster",
+    "description": "Cattle Booster® is used for effective buffering of ruminant feeds.",
+    "company_name": "Dinatec",
+    "company_slug": "dinatec",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686132187/production/Brand/29622/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608224/production/CategoryImage/551/category_image/AgricultureFeed_07.jpg",
+    "properties": {
+        "Applications": [
+            "Animal Health & Nutrition",
+            "Ruminants",
+            "Other Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Nutritional Ingredients",
+            "Nutrient Premixes"
+        ]
+    },
+    "summary": {
+        "Animal Species": [
+            "Cattle"
+        ],
+        "Features": [
+            "Improved Milk Yield",
+            "Improve Feed Palatability "
+        ]
+    }
+}

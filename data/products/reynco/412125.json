@@ -1,0 +1,27 @@
+{
+    "id": 412125,
+    "brand": "reynco",
+    "name": "Reynco 54-452-2",
+    "slug": "reynco-54-452-2",
+    "description": "Reynco 54-452-2 is a hot melt semi-pressure sensitive based adhesive. This product was designed for poly film to poly film in multi-wall bag seam applications.",
+    "company_name": "The Reynolds Company",
+    "company_slug": "the-reynolds-company",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1684406536/production/Brand/32129/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608939/production/CategoryImage/585/category_image/AdhesivesSealants_02.jpg",
+    "properties": {
+        "Applications": [
+            "Packaging",
+            "Industrial & Transport Packaging"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Hot Melt Adhesives"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Hot Melt Adhesive",
+            "Pressure Sensitive Adhesive"
+        ]
+    }
+}

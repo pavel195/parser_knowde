@@ -1,0 +1,38 @@
+{
+    "id": 455870,
+    "brand": "nicsalt",
+    "name": "Chemnovatic Benzoic Acid",
+    "slug": "chemnovatic-benzoic-acid",
+    "description": "Chemnovatic Benzoic Acid is an organic acid that meets the requirements of the European Pharmacopoeia and has major use in chemical manufacturing. This acid is highly pure, with at least 99% acid content, and is widely used in the food industry.\r\n",
+    "company_name": "Chemnovatic",
+    "company_slug": "chemnovatic",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1707730437/production/Company/63320/logo/image",
+    "banner_url": "https://static.knowde.com/card-banners/knowde-card-for-raw-materials-8.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical Manufacturing",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Organic Acids",
+            "Intermediates"
+        ],
+        "Chemical Family": [
+            "Organic Acids"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Benzoic acid"
+        ],
+        "CAS Number": [
+            "65-85-0"
+        ],
+        "Purity (Assay)": [
+            "99.0 - 100.0 %"
+        ],
+        "Synonyms": [
+            "Benzeneformic Acid, Benzenemethanoic Acid, Carboxybenzene, Phenylcarboxylic Acid"
+        ]
+    }
+}

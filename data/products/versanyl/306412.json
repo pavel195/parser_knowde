@@ -1,0 +1,50 @@
+{
+    "id": 306412,
+    "brand": "versanyl",
+    "name": "Versal® YELLOW 2GS",
+    "slug": "versal-yellow-2gs",
+    "description": "Versal® YELLOW 2GS Pigment Yellow 168",
+    "company_name": "Synthesia",
+    "company_slug": "synthesia",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708524164/production/Product/306412/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608630/production/CategoryImage/571/category_image/PaintingsCoatings_07.jpg",
+    "properties": {
+        "Applications": [
+            "Other Printing & Packaging Applications",
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Organic Pigments",
+            "Color Pigments",
+            "Pigments & Colorants"
+        ],
+        "Chemical Family": [
+            "Azo Compounds"
+        ],
+        "End Uses": [
+            "Powder Coating"
+        ]
+    },
+    "summary": {
+        "Color": [
+            "Yellow"
+        ],
+        "Pigment Type": [
+            "Organic Pigments"
+        ],
+        "Chemical Family": [
+            "Azo Compounds"
+        ],
+        "End Uses": [
+            "Powder Coating"
+        ],
+        "Compatible Polymers & Resins": [
+            "Polyvinyl Chloride (PVC)",
+            "Polyolefins",
+            "Polypropylenes (PP)"
+        ],
+        "Synonyms": [
+            "C.I. Pigment Yellow 168, C.I. 13960, PY 168"
+        ]
+    }
+}

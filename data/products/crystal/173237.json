@@ -1,0 +1,59 @@
+{
+    "id": 173237,
+    "brand": "crystal",
+    "name": "Actique™ NAG",
+    "slug": "actique-nag",
+    "description": "Acetyl Glucosamine has been shown to stimulate production of Hyaluronic Acid in skin, improving skin hydration and reducing appearance of wrinkles. It is also effective in anti-hyperpigmentation treatments.",
+    "company_name": "Aurorium",
+    "company_slug": "aurorium",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709833892/production/Company/1461/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1709833892/production/Company/1461/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Color Cosmetics",
+            "Skin Care",
+            "Treatment Products",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Skin Actives",
+            "Conditioners & Emollients",
+            "Cosmetic Actives",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Acetyl Glucosamine"
+        ],
+        "End Uses": [
+            "Body Cream",
+            "Body Lotion",
+            "Foundation",
+            "Lip Balm",
+            "Moisturizers",
+            "Concealer"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Acetyl Glucosamine"
+        ],
+        "Functions": [
+            "Conditioner",
+            "Anti-Aging Agent"
+        ],
+        "Labeling Claims": [
+            "Natural",
+            "Credo Clean Standard",
+            "Clean at Sephora",
+            "Ulta Beauty's Conscious Beauty"
+        ],
+        "Benefit Claims": [
+            "Hydrating",
+            "Conditioning",
+            "Anti-Aging"
+        ],
+        "Synonyms": [
+            "2-(Acetylamino)-2-deoxy-α- D -glucopyranose, 2-Acetamido-2-deoxy-α- D -glucopyranose, 2-Acetamido-2-deoxy-α- D -glucose, 2-Deoxy-2-acetamido-α- D -glucopyranose, Glucopyranose, 2-acetamido-2-deoxy-, α- D -, N -Acetyl-α- D -glucosamine, α- D -Glucopyranose, 2-(acetylamino)-2-deoxy-, α- N -Acetyl- D -glucosamine, α- N -Acetylglucosamine"
+        ]
+    }
+}

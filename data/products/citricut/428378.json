@@ -1,0 +1,43 @@
+{
+    "id": 428378,
+    "brand": "citricut",
+    "name": "Nuvite Chemical Compounds PCS PC2210QT",
+    "slug": "nuvite-chemical-compounds-pcs-pc2210qt",
+    "description": "Nuvite Chemical Compounds PCS PC2210QT is a concentrated soil, stain, spot remover, and shampoo for carpets. PCS will clean tar, oil, soil, and organic matter from natural or synthetic carpet.",
+    "company_name": "Nuvite Chemical Compounds",
+    "company_slug": "nuvite-chemical-compounds",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1682593285/production/Company/61304/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515657/production/CategoryImage/1056/category_image/HII_08.jpg",
+    "properties": {
+        "Applications": [
+            "Institutional & Industrial Care",
+            "Carpet & Upholstery",
+            "Laundry & Fabric Care",
+            "Surface Care",
+            "Industrial Cleaning",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Commercial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner",
+            "Tar Cleaner",
+            "Stain Removers",
+            "Spot Removers"
+        ],
+        "Application Area": [
+            "Carpets"
+        ],
+        "Features": [
+            "High Performance",
+            "Effective Soil Removal",
+            "Stain Removing",
+            "Good Penetration",
+            "Cost Effective"
+        ]
+    }
+}

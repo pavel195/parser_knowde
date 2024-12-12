@@ -1,0 +1,46 @@
+{
+    "id": 314752,
+    "brand": "aluminium-pigment-chemtech",
+    "name": "Pearlescent Pigment ChemTech SK8800",
+    "slug": "pearlescent-pigment-chemtech-sk8800",
+    "description": "Natural looking pearlescent pigments with a broad spectrum of bright colors and pearly sheen create unlimited combinations of possibilities for gorgeous designs. In contrast to traditional colored systems with standard silver pearls, the color series of Pearlescent Pigments ChemTech allows preparation of transparent systems with bright pure colors, which are achieved without losing lustrous highlights.",
+    "company_name": "Chemical Technologies",
+    "company_slug": "chemical-technologies",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708524323/production/Company/19429/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708524323/production/Product/314752/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Decorative Paints, Coatings & Stains",
+            "Industrial Coatings",
+            "Decorative Paints",
+            "Building Materials",
+            "Building & Construction",
+            "Decorative Materials & Finishes"
+        ],
+        "Product Families": [
+            "Pearlescent",
+            "Effects Pigments",
+            "Pigments & Colorants"
+        ],
+        "Chemical Family": [
+            "Titanium Compounds"
+        ]
+    },
+    "summary": {
+        "Color": [
+            "White"
+        ],
+        "Pigment Type": [
+            "Pearlescent"
+        ],
+        "Chemical Family": [
+            "Titanium Compounds"
+        ],
+        "Particle Size": [
+            "50.0 - 250.0 microns"
+        ],
+        "Synonyms": [
+            "TiO2, Titania, Titanium Peroxide"
+        ]
+    }
+}

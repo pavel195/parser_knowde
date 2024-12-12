@@ -1,0 +1,51 @@
+{
+    "id": 324357,
+    "brand": "excelene",
+    "name": "SuperOhm® 2595",
+    "slug": "superohm-2595",
+    "description": "SuperOhm® 2595 peroxide crosslinkable EPR compounds are designed for high temperature stability and superior electrical performance.",
+    "company_name": "Electric Cable Compounds",
+    "company_slug": "electric-cable-compounds",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686113029/production/Brand/23151/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1686113029/production/Product/324357/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Wire & Cable",
+            "Jacketing & Insulation",
+            "Exploration & Upstream",
+            "Building Wires & Power Cables",
+            "Oil, Gas & Mining"
+        ],
+        "Product Families": [
+            "Thermoset Elastomers",
+            "EP Rubbers (EPDM)"
+        ],
+        "Chemical Family": [
+            "Ethylene-Propylene Copolymers (EPR)"
+        ],
+        "Polymer Name": [
+            "Ethylene Propylene Copolymer"
+        ],
+        "End Uses": [
+            "Cables",
+            "Wires",
+            "Pump Parts",
+            "Medium Voltage Insulation",
+            "Industrial Cable Insulation"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Ethylene Propylene Copolymer"
+        ],
+        "Processing Methods": [
+            "Extrusion"
+        ],
+        "Additives Included": [
+            "Flame Retardant"
+        ],
+        "Density": [
+            "1130.0 - 1170.0 kg/m³"
+        ]
+    }
+}

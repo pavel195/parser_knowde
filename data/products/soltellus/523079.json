@@ -1,0 +1,69 @@
+{
+    "id": 523079,
+    "brand": "soltellus",
+    "name": "Soltellus™ 2501L",
+    "slug": "soltellus-2501l",
+    "description": "Soltellus™ 2501L is an anionic, biodegradable polymer with versatile applications. It offers a blend of benefits for surfactant, haircare, skincare, and emulsion formulations. Featuring chelating, film-forming, and hydrating properties, it enhances user experience, appearance, and skin feel. This multifunctional polymer performs effectively in various water conditions, improving wet combing, hydration, and shine, thus presenting a promising option for diverse cosmetic formulations.",
+    "company_name": "Lygos",
+    "company_slug": "lygos",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1725093332/production/Company/95115/logo/image",
+    "banner_url": "https://static.knowde.com/card-banners/knowde-card-for-raw-materials-8.jpg",
+    "properties": {
+        "Applications": [
+            "Skin Care",
+            "Hand Hygiene",
+            "Hair Care",
+            "Bath & Shower",
+            "Beauty & Care",
+            "Personal Hygiene"
+        ],
+        "Product Families": [
+            "Anionic Surfactants",
+            "Conditioners & Emollients",
+            "Film Formers",
+            "Stabilizers",
+            "Functionals",
+            "Surfactants & Cleansers"
+        ],
+        "INCI Name": [
+            "Sodium Polyaspartate"
+        ],
+        "End Uses": [
+            "Micellar Water",
+            "Skin Serums",
+            "Hand Wash",
+            "Hair Styling Products",
+            "Hair Serums",
+            "Shampoos & Rinses",
+            "Body Wash"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Sodium Polyaspartate"
+        ],
+        "Labeling Claims": [
+            "Solvent-free",
+            "Preservative-free",
+            "Antioxidants-free",
+            "Biodegradable"
+        ],
+        "Benefit Claims": [
+            "Good Wet Combing",
+            "Improved Texture",
+            "Outstanding Skin feel",
+            "Conditioning",
+            "Hair Softening",
+            "Frizz Control",
+            "Non-Greasy Feel",
+            "Smoothing",
+            "Lubricating",
+            "Film Forming",
+            "Smooth Feel",
+            "Silky Feel",
+            "Prevents Hair Breakage",
+            "Cleansing",
+            "Hydrating"
+        ]
+    }
+}

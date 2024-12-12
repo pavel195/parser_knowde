@@ -1,0 +1,34 @@
+{
+    "id": 360977,
+    "brand": "resinlab",
+    "name": "ResinLab® EP1026HP Part A",
+    "slug": "resinlab-resinlab-ep1026hp",
+    "description": "ResinLab® EP1026HP Part A is a high performance fast setting epoxy adhesive designed for bonding metals, ceramics, glass and most plastics. This product will have good resistance to water, salt spray, inorganic acids and bases and most organic solvents.",
+    "company_name": "Resinlab",
+    "company_slug": "resinlab",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664291132/production/Brand/26983/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608939/production/CategoryImage/585/category_image/AdhesivesSealants_02.jpg",
+    "properties": {
+        "Applications": [
+            "Other Adhesives & Sealants Applications"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Other Adhesives & Sealants"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "2K (2 component) Adhesive",
+            "Epoxy Adhesive"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Plastics",
+            "Ceramic"
+        ],
+        "Cure Method": [
+            "Air Dry"
+        ]
+    }
+}

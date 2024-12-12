@@ -1,0 +1,41 @@
+{
+    "id": 407402,
+    "brand": "ethocure",
+    "name": "Ethosurf RSN 1010",
+    "slug": "ethosurf-rsn-1010",
+    "description": "Ethosurf series of reactive emulsifiers are next-generation surfactants designed specifically to overcome the negative properties imparted by free surfactants in the system. These new surfactants have an unsaturated bond which gets attached to the polymer during the polymerization process thereby reducing the free surfactant content in the system. These surfactants offer superior water resistance, better adhesion and a score of other property enhancements to the polymer. Functional emulsions using reactive emulsifiers have widespread use especially in the paints, coatings, inks &amp; adhesive industry.",
+    "company_name": "Ethomer",
+    "company_slug": "ethomer",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708692059/production/Company/52615/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608557/production/CategoryImage/565/category_image/PaintingsCoatings_01.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical Building Blocks & Intermediates",
+            "Chemical Manufacturing",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Polymerization Additives",
+            "Processing Aids"
+        ],
+        "Chemical Family": [
+            "Non-Ionics"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Non-Ionics"
+        ],
+        "Functions": [
+            "Surfactant",
+            "Surfactant (Nonionic)"
+        ],
+        "Applicable Processes": [
+            "Emulsion Polymerization"
+        ],
+        "Features": [
+            "Excellent Adhesion",
+            "Improved Dimensional Stability"
+        ]
+    }
+}

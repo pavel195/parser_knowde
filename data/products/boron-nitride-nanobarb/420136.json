@@ -1,0 +1,38 @@
+{
+    "id": 420136,
+    "brand": "boron-nitride-nanobarb",
+    "name": "Boron Nitride NanoBarb™ Aluminum Master Alloy",
+    "slug": "boron-nitride-nanobarb-aluminum-master-alloy",
+    "description": "Boron Nitride NanoBarb™ Aluminum Master Alloy uses a proprietary process to incorporate and evenly disperse the Boron Nitride NanoBarbsTM into Aluminum to create the Master Alloy Composition.\r\n",
+    "company_name": "BNNano",
+    "company_slug": "bn-nano",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704106808/production/Brand/32932/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625605916/production/CategoryImage/464/category_image/CompositeMaterials_04.jpg",
+    "properties": {
+        "Applications": [
+            "Advanced Materials",
+            "Equipment & Parts",
+            "Aerospace & Aviation",
+            "Transportation",
+            "Chemical & Industrial Manufacturing",
+            "Military & Defense"
+        ],
+        "Product Families": [
+            "Alloys",
+            "Metals, Alloys & Complexes"
+        ],
+        "Chemical Family": [
+            "Aluminum Compounds",
+            "Boron-based Compounds"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Aluminum",
+            "Boron Nitride"
+        ],
+        "Density": [
+            "2250.0 - 2550.0 kg/m³"
+        ]
+    }
+}

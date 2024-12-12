@@ -1,0 +1,56 @@
+{
+    "id": 326181,
+    "brand": "glymed",
+    "name": "Medxtract Bearberry 1:2",
+    "slug": "medxtract-bearberry-1-2",
+    "description": "MEDXTRACT BEARBERRY 1:2 is the glycolic extract of leaves of Arctostaphylos Uva Ursi, produced by ultrasounds at low temperature (25°C).",
+    "company_name": "Medolla Speciality Chemicals",
+    "company_slug": "medolla-iberia",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708673323/production/Company/16680/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708673323/production/Company/16680/card_banner/image",
+    "properties": {
+        "Product Families": [
+            "Skin Actives",
+            "Botanical Ingredients & Extracts",
+            "Antioxidants & Preservatives",
+            "Cosmetic Actives",
+            "Vitamins, Extracts & Oils",
+            "Functionals"
+        ],
+        "Chemical Family": [
+            "Plant Extracts"
+        ],
+        "INCI Name": [
+            "Arctostaphylos Uva-Ursi Leaf Extract"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Arctostaphylos Uva-Ursi Leaf Extract"
+        ],
+        "Functions": [
+            "Anti-Septic",
+            "Bleaching Agent",
+            "Astringent"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Non-Animal Origin",
+            "Plant Origin"
+        ],
+        "Labeling Claims": [
+            "Ulta Beauty's Conscious Beauty",
+            "Credo Clean Standard",
+            "Clean at Sephora",
+            "Plant-Based",
+            "GMO-free",
+            "Naturally Derived"
+        ],
+        "Benefit Claims": [
+            "Bleaching",
+            "Antiseptic",
+            "Astringency",
+            "Diuretic"
+        ]
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "id": 302531,
+    "brand": "catolite",
+    "name": "CATOLITE BLUE 501-R",
+    "slug": "catolite-blue-501-r",
+    "description": "CATOLITE BLUE 501-R is an organic pigment in powder form consisting of regular as well as equivalents as per International Standards having wider application such as paints, inks, plastic, textile, rubber industries etc.",
+    "company_name": "City Cat Pigments (City Cat Group)",
+    "company_slug": "city-cat-pigments-city-cat-group",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708526036/production/Company/24178/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609057/production/CategoryImage/591/category_image/PrintingPackaging_02.jpg",
+    "properties": {
+        "Applications": [
+            "Textile Manufacturing",
+            "Other Paints & Coatings Applications",
+            "Offset & Lithographic Printing",
+            "Gravure Printing",
+            "Printing & Inks",
+            "Leather & Textiles"
+        ],
+        "Product Families": [
+            "Organic Pigments",
+            "Color Pigments",
+            "Pigments & Colorants"
+        ],
+        "Chemical Family": [
+            "Phthalocyanine"
+        ],
+        "End Uses": [
+            "Offset Ink",
+            "Waterborne Ink",
+            "Solventborne Ink",
+            "Gravure Ink",
+            "Solventborne Coating",
+            "Waterborne Coating"
+        ]
+    },
+    "summary": {
+        "Color": [
+            "Blue"
+        ],
+        "Pigment Type": [
+            "Organic Pigments"
+        ],
+        "Chemical Family": [
+            "Phthalocyanine"
+        ],
+        "End Uses": [
+            "Solventborne Ink",
+            "Waterborne Coating",
+            "Offset Ink",
+            "Waterborne Ink",
+            "Solventborne Coating",
+            "Gravure Ink"
+        ],
+        "Synonyms": [
+            "(Phthalocyaninato)copper, (SP-4-1)-[29H,31H-Phthalocyaninato(2-)-κN29,κN30,κN31,κN32]copper, [29H ,31H-Phthalocyaninato(2-)-N29,N30,N31,N32]copper, [Phthalocyaninato(2-)]copper, Copper phthalocyanine, Copper phthalocyanine blue, Copper tetrabenzoporphyrazine, Copper β-phthalocyanine, Copper(2+) phthalocyanine, Cupric phthalocyanine, Cyanine Blue"
+        ]
+    }
+}

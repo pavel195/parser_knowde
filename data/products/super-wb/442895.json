@@ -1,0 +1,47 @@
+{
+    "id": 442895,
+    "brand": "super-wb",
+    "name": "Super WB™",
+    "slug": "super-wb",
+    "description": "Super WB™ is a water-based, strong binding, clear, gloss acrylic sealer for overlays or any cement-based product. This product contains a hybrid, self-cross-linking, acrylic resin with built-in water repellence and tenacious penetration and adhesion.",
+    "company_name": "SureCrete",
+    "company_slug": "surecrete",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664569204/production/Company/64844/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608454/production/CategoryImage/560/category_image/BuildingConstruction_04.jpg",
+    "properties": {
+        "Applications": [
+            "Concrete Coatings & Stains",
+            "Building & Construction"
+        ],
+        "Product Families": [
+            "Primers & Sealers",
+            "Paints & Coatings"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Sealer",
+            "Waterborne Coating"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Concrete"
+        ],
+        "Features": [
+            "Blush Resistant",
+            "High Capacity of Penetration",
+            "Mechanical Stability",
+            "Good Adhesion",
+            "Water-based",
+            "High Gloss"
+        ],
+        "Application Method": [
+            "Spray"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    }
+}

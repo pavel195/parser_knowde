@@ -1,0 +1,45 @@
+{
+    "id": 278169,
+    "brand": "saitack",
+    "name": "Saitack® 566",
+    "slug": "saitack-566",
+    "description": "Saitack® 566 is a coater ready two part pressure sensitive acrylic adhesive specifically designed for removable applications with removable tape and label adhesive for filmic and paper facestocks.",
+    "company_name": "STI Polymer",
+    "company_slug": "sti-polymer",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112207/production/Company/22069/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609103/production/CategoryImage/595/category_image/PrintingPackaging_06.jpg",
+    "properties": {
+        "Applications": [
+            "Tapes & Labels",
+            "Packaging & Paper",
+            "Tapes, Labels & Adhesives",
+            "Tape & Label Adhesives"
+        ],
+        "Product Families": [
+            "Resins & Binders",
+            "Acrylics"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ],
+        "End Uses": [
+            "Pressure Sensitive Adhesive",
+            "2K (2 Component) Adhesive"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ],
+        "End Uses": [
+            "2K (2 Component) Adhesive",
+            "Pressure Sensitive Adhesive"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Paper"
+        ],
+        "Features": [
+            "Multi-Substrate Adhesion"
+        ]
+    }
+}

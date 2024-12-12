@@ -1,0 +1,33 @@
+{
+    "id": 411628,
+    "brand": "trymer",
+    "name": "Hibco Plastics Anti-Static Polyethylene",
+    "slug": "hibco-plastics-anti-static-polyethylene",
+    "description": "Anti-Static Polyethylene is a closed-cell foam for static discharge protection. It provides critical protection to sensitive electronic parts and products. Anti-Static Polyethylene offers controlled, dissipation of electro-static charges emitted from other neighboring materials and personnel during handling, assembly, and shipment of the product. It contains internal anti-static agents designed to eliminate static-potential from the foam itself, and to dissipate electro-static discharges from other sources.",
+    "company_name": "Hibco Plastics",
+    "company_slug": "hibco-plastics",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1702444511/production/Company/54848/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Other Parts & Components",
+            "Parts & Components"
+        ],
+        "Product Families": [
+            "Foams"
+        ],
+        "Chemical Family": [
+            "Polyolefins",
+            "Polyethylenes"
+        ]
+    },
+    "summary": {
+        "Foam Type": [
+            "Closed Cell Foam"
+        ],
+        "Chemical Family": [
+            "Polyolefins",
+            "Polyethylenes"
+        ]
+    }
+}

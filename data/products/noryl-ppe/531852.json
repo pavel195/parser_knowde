@@ -1,0 +1,51 @@
+{
+    "id": 531852,
+    "brand": "noryl-ppe",
+    "name": "LNP™ VERTON™ Compound UV00AS",
+    "slug": "lnp-verton-compound-uv00as",
+    "description": "LNP™ VERTON™ Compound UV00AS is formulated with Polyphthalamide (PPA) resin and 50% long glass fiber, offering exceptional heat stabilization and structural integrity. This compound is designed to excel in high-temperature environments, ensuring reliable performance under thermal stress. Its composition enhances dimensional stability and mechanical strength, making it suitable for demanding applications in automotive, electrical, and industrial sectors where heat resistance and robust structural properties are critical. LNP™ VERTON™ Compound UV00AS provides manufacturers with a versatile solution for components requiring both durability and thermal stability, meeting stringent performance requirements across various industries.",
+    "company_name": "SABIC's Specialties Business",
+    "company_slug": "sabic-specialties",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1718787590/production/Company/44208/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1626797855/production/CategoryImage/997/category_image/PigmentsColorants_04.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial Automation",
+            "Sports & Recreation",
+            "Structural Components",
+            "Appliances & Electronics",
+            "Exterior & Body",
+            "Automotive",
+            "Building Materials",
+            "Devices & Assemblies"
+        ],
+        "Product Families": [
+            "Polyamides",
+            "Engineering & Specialty Polymers"
+        ],
+        "Chemical Family": [
+            "Polyamides"
+        ],
+        "Polymer Name": [
+            "Polyphthalamide (PPA)"
+        ],
+        "End Uses": [
+            "Sporting Goods",
+            "Home Appliances",
+            "Building Materials",
+            "Commercial Appliance",
+            "Automotive Exterior Parts"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyphthalamide (PPA)"
+        ],
+        "Processing Methods": [
+            "Injection Molding"
+        ],
+        "Fillers Included": [
+            "Glass Fiber"
+        ]
+    }
+}

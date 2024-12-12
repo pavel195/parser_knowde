@@ -1,0 +1,48 @@
+{
+    "id": 163314,
+    "brand": "burco",
+    "name": "BURCO® DEO-46G",
+    "slug": "burco-deo-46g",
+    "description": "Burco® DEO-46G is an amber liquid odor neutralizer concentrate that permanently eliminates unpleasant organic odors immediately upon contact, can be used as a “stand alone” product or can be incorporated into other products, and neutralizes odors through a covalent bonding mechanism instead of masking odors like fragrances, perfumes, and oils.",
+    "company_name": "Burlington Chemical Co",
+    "company_slug": "burlington-chemical-co",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708673165/production/Company/1171/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708673165/production/Company/1171/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Air Care",
+            "Surface Care",
+            "Institutional & Catering",
+            "Auto Care",
+            "Vehicle & Machinery",
+            "Carpet & Upholstery",
+            "Laundry & Fabric Care",
+            "Other Home Care Applications",
+            "Home Care",
+            "Institutional & Industrial Care"
+        ],
+        "Product Families": [
+            "Odor Control Agents",
+            "Performance Additives",
+            "Aroma Ingredients",
+            "Functional Additives"
+        ],
+        "End Uses": [
+            "Deodorizer",
+            "Car Wash",
+            "Bathroom Cleaners",
+            "Upholstery Cleaners",
+            "Hard Surface Cleaners"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Odor Neutralizing Agent",
+            "Fragrance"
+        ],
+        "Labeling Claims": [
+            "Biodegradable",
+            "APEO-free"
+        ]
+    }
+}

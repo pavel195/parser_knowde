@@ -1,0 +1,81 @@
+{
+    "id": 470274,
+    "brand": "altech",
+    "name": "ALCOM® PC740/26 UV WT1407-04LB",
+    "slug": "mocom-alcom-pc740-26-uv-wt1407-04lb",
+    "description": "MOCOM Compounds ALCOM® PC740/26 UV WT1407-04LB is a high heat polycarbonate base polymer with a special filler/additive system that is UV stabilized and highly reflective, opaque, and easy to flow. It is suitable for automotive and lighting applications such as light guides, reflectors, and light blocking components. During processing injection molding, the melt temperature should be between 330-340°C and the mold temperature should be between 120-140°C.",
+    "company_name": "MOCOM Compounds",
+    "company_slug": "mocom",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1713790242/production/Company/50276/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1713790242/production/Company/50276/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Automotive Lighting",
+            "Exterior & Body",
+            "Aftermarket Parts & Components",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Polycarbonates",
+            "Engineering & Specialty Polymers"
+        ],
+        "Chemical Family": [
+            "Polycarbonate (PC)"
+        ],
+        "Polymer Name": [
+            "Polycarbonate (PC)"
+        ],
+        "End Uses": [
+            "Light Guides",
+            "Light Blocking Components",
+            "Reflectors",
+            "Automotive Exterior Parts",
+            "Automotive Applications"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polycarbonate (PC)"
+        ],
+        "Processing Methods": [
+            "Injection Molding"
+        ],
+        "Fillers Included": [
+            "Mineral",
+            "Proprietary"
+        ],
+        "Functions": [
+            "Resin"
+        ],
+        "Additives Included": [
+            "UV Stabilizer"
+        ],
+        "Labeling Claims": [
+            "Persistent Organic Pollutants (POP)-free",
+            "Conflict minerals-free",
+            "PFOA-free",
+            "Azo Dyes-free",
+            "Azo Colorants-free",
+            "PAH-free",
+            "PFOS-free"
+        ],
+        "Flexural Modulus": [
+            "2800.0 - 2800.0 MPa"
+        ],
+        "Certifications & Compliance": [
+            "ISO 13485",
+            "RoHS Compliant",
+            "ISO 50001",
+            "REACH (UK)",
+            "EC No.1907/2006",
+            "ISO 17025",
+            "REACH (Europe)",
+            "Directive 2011/65/EC amended through EU/2015/863 (RoHS)",
+            "ISO 9001",
+            "ISO 14001",
+            "ISO 45001",
+            "SVHC Compliant",
+            "IATF 16949"
+        ]
+    }
+}

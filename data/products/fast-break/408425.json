@@ -1,0 +1,35 @@
+{
+    "id": 408425,
+    "brand": "fast-break",
+    "name": "Fast Break™ Life-Extending Finished Wood Floor Cleaner",
+    "slug": "fast-break-life-extending-finished-wood-floor-cleaner",
+    "description": "Fast Break™ Life-Extending Finished Wood Floor Cleaner specially formulated to work with SlamDunk’s unique polymer technology, this restorative cleaner promotes bond resilience and durability in the finish while extending the life of the floor itself. Its norinse, neutral formulation makes it ultrasimple to use.",
+    "company_name": "Damon Industries",
+    "company_slug": "damon-industries",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664562364/production/Brand/31607/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515625/production/CategoryImage/1053/category_image/HII_05.jpg",
+    "properties": {
+        "Applications": [
+            "Home Care",
+            "Surface Care"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Commercial Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner"
+        ],
+        "Application Areas": [
+            "Floor"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Wood"
+        ],
+        "Features": [
+            "Neutral pH"
+        ]
+    }
+}

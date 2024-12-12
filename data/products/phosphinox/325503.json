@@ -1,0 +1,49 @@
+{
+    "id": 325503,
+    "brand": "phosphinox",
+    "name": "NOVINOX ACE110",
+    "slug": "novinox-ace110",
+    "description": "Novinox®ACE110 is a corrosion inhibiting pigment designed for coil coatings. It is a stable and easily dispersed white powder with a low tinting strength. Novinox®ACE110 has been developed as a non toxic and eco-friendly alternative to Strontium chromate for coil coatings. Compatible with PU and PE/melamine systems, Novinox®ACE110 gives excellent anticorrosive performance in coil coatings applied to HDGS, ZAM and CRS.",
+    "company_name": "SNCZ",
+    "company_slug": "sncz",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708687118/production/Company/31010/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608630/production/CategoryImage/571/category_image/PaintingsCoatings_07.jpg",
+    "properties": {
+        "Applications": [
+            "Coil Coatings",
+            "Industrial Coatings"
+        ],
+        "Product Families": [
+            "Inorganic Pigments",
+            "Corrosion Inhibiting Pigments",
+            "Functional Pigments",
+            "Functional Additives",
+            "Additives",
+            "Pigments & Colorants",
+            "Color Pigments"
+        ],
+        "Chemical Family": [
+            "Silica"
+        ],
+        "End Uses": [
+            "Waterborne Coating",
+            "Solventborne Coating",
+            "Coil Coating"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Corrosion Inhibitor",
+            "Colorant"
+        ],
+        "Chemical Family": [
+            "Silica"
+        ],
+        "Pigment Type": [
+            "Inorganic Pigments"
+        ],
+        "Color": [
+            "White"
+        ]
+    }
+}

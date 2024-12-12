@@ -1,0 +1,39 @@
+{
+    "id": 416803,
+    "brand": "multi-slick",
+    "name": "ManuSpec Company MS-67 Pipe Thread Sealant",
+    "slug": "manuspec-company-ms-67-pipe-thread-sealant",
+    "description": "MS-67 Pipe Thread Sealant is a semi-curing pipe thread sealant for applications where a 100% seal is essential in minutes. Works on inactive surfaces such as stainless steel. An excellent pipe thread sealant for line-pipe carrying liquids or gasses. Usable on coarse threaded PVC, iron, steel, copper or fiberglass pipe. MS-67 Pipe Thread Sealant is an excellent sealant for line-pipe carrying liquids or gasses. Withstands continuous temperatures up to 455°F (235°C). MS67 is non-hazardous and non-flammable. It contains no lead, heavy metals or volatile solvents.",
+    "company_name": "ManuSpec Company",
+    "company_slug": "manuspec-company",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292720/production/Company/55920/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608490/production/CategoryImage/563/category_image/BuildingConstruction_07.jpg",
+    "properties": {
+        "Applications": [
+            "Pipes & Plumbing",
+            "Building Materials"
+        ],
+        "Product Families": [
+            "Caulks & Sealants",
+            "Adhesives & Sealants"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Thread Sealant"
+        ],
+        "Application Areas": [
+            "Pipes"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Iron",
+            "Copper",
+            "Polyvinyl Chloride (PVC)",
+            "Metal",
+            "Steel",
+            "Fiberglass",
+            "Stainless Steel",
+            "Plastics"
+        ]
+    }
+}

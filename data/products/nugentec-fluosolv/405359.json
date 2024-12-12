@@ -1,0 +1,70 @@
+{
+    "id": 405359,
+    "brand": "nugentec-fluosolv",
+    "name": "SuperGreen® Precision Cleaner",
+    "slug": "supergreen-precision-cleaner",
+    "description": "SuperGreen® Precision Cleaner is a special blend of grease –and ink– cutting, water based ingredients, designed specifically for water based parts washing systems and industrial degreasing - precision cleaning. It reduces the concerns regarding combustibility, toxic odors, worker safety, atmospheric and environmental pollution and disposal.",
+    "company_name": "NuGenTec",
+    "company_slug": "nugentec",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1672225339/production/Brand/31068/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515684/production/CategoryImage/1058/category_image/HII_10.jpg",
+    "properties": {
+        "Applications": [
+            "Institutional & Industrial Care",
+            "Surface Care",
+            "Industrial Cleaning",
+            "Institutional & Catering",
+            "Vehicle & Machinery",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Industrial Cleaners",
+            "Cleaners"
+        ],
+        "End Uses": [
+            "Equipment",
+            "Cabinetry",
+            "Tanks",
+            "Ultrasonic Cleaner",
+            "Engine",
+            "Machine Parts"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Alkaline Cleaners",
+            "Degreasers",
+            "Cleaner"
+        ],
+        "Application Areas": [
+            "Tanks",
+            "Engine",
+            "Cabinetry",
+            "Equipment",
+            "Ultrasonic Cleaner",
+            "Machine Parts"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Aluminum",
+            "Metal",
+            "Steel"
+        ],
+        "Certifications & Compliance": [
+            "ISO 9001",
+            "California Proposition 65",
+            "ISO 14001"
+        ],
+        "Features": [
+            "Cost Effective",
+            "Low Foaming",
+            "Heavy Duty",
+            "Non-Foaming",
+            "Water-based",
+            "Degreasing",
+            "Carbon Deposits Removing",
+            "Biodegradable",
+            "Protects Metal Surfaces",
+            "Effective Soil Removal"
+        ]
+    }
+}

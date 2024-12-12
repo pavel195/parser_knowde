@@ -1,0 +1,48 @@
+{
+    "id": 388305,
+    "brand": "cardiolix",
+    "name": "Cardiolix® Cardiovascular sphere",
+    "slug": "cardiolix-cardiovascular-sphere",
+    "description": "Cardiolix® Cardiovascular Sphere is a mixture of peptide hydrolysate extracted from snail flesh, extract of black garlic (Allium Sativum) and vitamin B1. This ingredient ensures a complete action on the cardiovascular sphere.",
+    "company_name": "HPE INGREDIENTS",
+    "company_slug": "hpe-ingredients",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708522064/production/Brand/29158/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606945/production/CategoryImage/505/category_image/FoodNutrition_06.jpg",
+    "properties": {
+        "Applications": [
+            "Oral",
+            "Swine",
+            "Pets",
+            "Birds & Poultry",
+            "Other Nutrition Applications",
+            "Nutraceuticals & Supplements",
+            "Animal Health & Nutrition",
+            "Nutrition & Well Being",
+            "Drug Delivery & Care Solutions"
+        ],
+        "Product Families": [
+            "Feed Supplements",
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements",
+            "Nutritional Ingredients"
+        ],
+        "End Uses": [
+            "Dietary Supplements"
+        ]
+    },
+    "summary": {
+        "Ingredient Origin": [
+            "Natural Origin"
+        ],
+        "Labeling Claims": [
+            "Natural",
+            "Naturally Derived"
+        ],
+        "Benefit Claims (Health)": [
+            "Controls Systolic Blood Pressure",
+            "Cardioprotective"
+        ]
+    }
+}

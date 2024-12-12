@@ -1,0 +1,38 @@
+{
+    "id": 342064,
+    "brand": "wienie-pak",
+    "name": "FIBROUS XL",
+    "slug": "fibrous-xl",
+    "description": "XL is our fibrous casing technology combined with reliable, lightweight construction. It’s a good alternative when the superior properties of the ST casing aren't needed.",
+    "company_name": "ViskoTeepak",
+    "company_slug": "viskoteepak",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686109141/production/Company/29437/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607009/production/CategoryImage/509/category_image/FoodNutrition_10.jpg",
+    "properties": {
+        "Applications": [
+            "Food",
+            "Meat, Poultry & Seafood"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Other Whole Foods & Extracts"
+        ],
+        "End Uses": [
+            "Cured Meats",
+            "Sausage Rolls"
+        ]
+    },
+    "summary": {
+        "Features": [
+            "Good Stretchability",
+            "Wrinkle Resistance",
+            "Excellent Adhesive Properties",
+            "High Strength",
+            "Good Transparency"
+        ],
+        "End Uses": [
+            "Cured Meats",
+            "Sausage Rolls"
+        ]
+    }
+}

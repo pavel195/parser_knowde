@@ -1,0 +1,53 @@
+{
+    "id": 165404,
+    "brand": "pq",
+    "name": "Aquagel™ 45",
+    "slug": "aquagel-45",
+    "description": "AQUAGEL 45 is a rheology modifier, stabilizer, thickener and emulsifier. It swells fast and allows you to create gel or cream immediately without neutralization or heat. It can emulsify all kinds of oil and disperse pigment and physical sunscreen. It is recommended to be used in skin cream, creamy gel, as single or union emulsifier.",
+    "company_name": "Tinci Materials",
+    "company_slug": "tinci-materials",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708673192/production/Company/3662/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708673192/production/Company/3662/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Color Cosmetics",
+            "Skin Care",
+            "Sun Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Stabilizers",
+            "Rheology Modifiers",
+            "Emulsifiers, Solubilizers & Dispersants",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Sodium Polyacrylate",
+            "Laureth-7",
+            "C13-14 Isoparaffin"
+        ],
+        "End Uses": [
+            "Sunscreen Cream",
+            "Foundation"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Laureth-7",
+            "Sodium Polyacrylate",
+            "C13-14 Isoparaffin"
+        ],
+        "Functions": [
+            "Thickener",
+            "Dispersant",
+            "Emulsifier",
+            "Viscosity Modifier",
+            "Stabilizer",
+            "Co-Emulsifier"
+        ],
+        "Labeling Claims": [
+            "Clean at Sephora",
+            "Ulta Beauty's Conscious Beauty"
+        ]
+    }
+}

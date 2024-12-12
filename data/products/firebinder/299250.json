@@ -1,0 +1,30 @@
+{
+    "id": 299250,
+    "brand": "firebinder",
+    "name": "RESPIN Shellac Gloss",
+    "slug": "respin-shellac-gloss",
+    "description": "Respin Shellac Gloss is a flaked natural resin capable of bestowing wooden surfaces shine and a glossy finish when added to wood varnish formulations. This plant-based product is obtained from the Parana Pine, a native Brazillian tree from the pine family. Respin Shellac Gloss is soluble in ethanol, methanol, esters and acetone, while being insoluble in aliphatic solvents, aromatic solvents and water. Furthermore, for added flexibility, this flaked natural resin can be combined with synthetic resins, such as those produced from colophony, nitrocellulose and P.V.A.",
+    "company_name": "Polytrade",
+    "company_slug": "polytrade",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697223117/production/Company/22818/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608600/production/CategoryImage/568/category_image/PaintingsCoatings_04.jpg",
+    "properties": {
+        "Applications": [
+            "Furniture",
+            "Furniture Coatings",
+            "Wood Coatings & Finishes",
+            "Building & Construction",
+            "Industrial Coatings"
+        ],
+        "Product Families": [
+            "Other Resins & Binders",
+            "Resins & Binders"
+        ],
+        "End Uses": [
+            "Waterborne Coating",
+            "Varnishes",
+            "Solventborne Coating"
+        ]
+    },
+    "summary": {}
+}

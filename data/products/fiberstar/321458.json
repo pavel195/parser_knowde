@@ -1,0 +1,50 @@
+{
+    "id": 321458,
+    "brand": "fiberstar",
+    "name": "StarBond® 100",
+    "slug": "starbond-100",
+    "description": "StarBond® 100 is a cold-water soluble, low viscosity, non-ionic polymer for use in industrial applications. It is a natural polysaccharide designed to impart enhanced functional properties including: adhesion/binding, water retention, improved rheology and viscosity. StarBond 100 is an excellent product for binding and adhesive applications where economics is important.",
+    "company_name": "Chemstar",
+    "company_slug": "chemstar",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708686021/production/Company/21262/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608939/production/CategoryImage/585/category_image/AdhesivesSealants_02.jpg",
+    "properties": {
+        "Applications": [
+            "Other Industrial & Assembly Applications",
+            "Other Building & Construction Applications",
+            "Industrial Adhesives & Sealants",
+            "Building & Construction",
+            "Industrial & Assembly Adhesives",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Rheology Modifiers & Stabilizers",
+            "Functional Additives",
+            "Additives"
+        ],
+        "End Uses": [
+            "Waterborne Adhesive"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Adhesion Promoter",
+            "Rheology Modifier",
+            "Viscosity Modifier",
+            "Coupling Agent"
+        ],
+        "Physical Form": [
+            "Solid",
+            "Powder"
+        ],
+        "Features": [
+            "Excellent Adhesion",
+            "Improved Workability",
+            "Improved Water Retention",
+            "Excellent Stability",
+            "Improved Rheology",
+            "Low Viscosity",
+            "Good Film Former"
+        ]
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "id": 384089,
+    "brand": "castor-derivatives",
+    "name": "Castor Derivatives Synthetic Ester",
+    "slug": "castor-derivatives-synthetic-ester",
+    "description": "Biosynthetic® Technologies has developed a revolutionary new class of high-performance bio-based additives for metalworking fluids. These novel and, sustainable additives use the patented estolide technology and are biobased, biodegradable, non-bioaccumulative, and non-toxic.",
+    "company_name": "Biosynthetic Technologies",
+    "company_slug": "biosynthetic-technologies",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680109155/production/Company/4678/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1680109155/production/Company/4678/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Chemical & Industrial Manufacturing",
+            "Fluids & Lubricants"
+        ],
+        "Product Families": [
+            "Additives",
+            "Performance Additives"
+        ],
+        "Chemical Family": [
+            "Synthetic Esters"
+        ],
+        "End Uses": [
+            "Metalworking Fluids",
+            "Cutting Oils",
+            "Machining Oils"
+        ]
+    },
+    "summary": {
+        "End Uses": [
+            "Metalworking Fluids",
+            "Machining Oils",
+            "Cutting Oils"
+        ],
+        "Compatible Base Stocks": [
+            "Mineral Oils"
+        ],
+        "Chemical Family": [
+            "Synthetic Esters"
+        ],
+        "Features": [
+            "Good Film Former",
+            "Excellent Lubricity",
+            "Improved Solubility",
+            "Excellent Emulsifiability",
+            "Hydrolytic Stability",
+            "Oxidation Resistant",
+            "Environmentally Friendly"
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "id": 384532,
+    "brand": "amsil",
+    "name": "TRANS P2000",
+    "slug": "trans-p2000",
+    "description": "TRANS-P2000 is a surfactant-based non-Silicone antifoams typically incorporated in surfactants to boost efficacy and d ispersibility within foaming water.",
+    "company_name": "Applied Material Solutions",
+    "company_slug": "applied-material-solutions",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708689121/production/Company/17132/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Water Treatment",
+            "Pulping & Processing",
+            "Chemical Manufacturing",
+            "Chemical & Industrial Manufacturing",
+            "Paper & Pulp",
+            "Power, Water & Utilities"
+        ],
+        "Product Families": [
+            "Water Treatment Additives",
+            "Finishing Additives & Treatments",
+            "Paper & Pulp Chemicals",
+            "Water Treatment Chemicals"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Defoamer"
+        ],
+        "Features": [
+            "Defoaming",
+            "Less Reactive"
+        ]
+    }
+}

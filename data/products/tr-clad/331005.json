@@ -1,0 +1,65 @@
+{
+    "id": 331005,
+    "brand": "tr-clad",
+    "name": "CORIN® XLS Polyimide",
+    "slug": "corin-xls-polyimide",
+    "description": "CORIN® XLS Polyimide is Transparent polyimide with exceptional Atomic Oxygen resistance.\nCORIN® XLS Polyimide is a colorless, clear, organic/inorganic nanocomposite with exceptional resistance to atomic oxygen erosion. CORIN® XLS exhibits a glass transition temperature in excess of 250°C, making it suitable for many high temperature applications. CORIN® XLS is available as a raw polymer powder, liquid casting resin, or film product.",
+    "company_name": "NeXolve",
+    "company_slug": "nexolve",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1702547067/production/Brand/24093/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607422/production/CategoryImage/517/category_image/ElectricalElectronics_02.jpg",
+    "properties": {
+        "Applications": [
+            "Tape & Label Adhesives",
+            "Jacketing & Insulation",
+            "Aerospace & Aviation",
+            "Tapes & Labels",
+            "Other Devices & Assemblies",
+            "Displays",
+            "Packaging & Paper",
+            "Transportation",
+            "Devices & Assemblies",
+            "Wire & Cable",
+            "Tapes, Labels & Adhesives"
+        ],
+        "Product Families": [
+            "High Performance Thermoplastics",
+            "Engineering & Specialty Polymers"
+        ],
+        "Chemical Family": [
+            "Polyimides (PI)"
+        ],
+        "Polymer Name": [
+            "Polyimide (PI)"
+        ],
+        "End Uses": [
+            "Tape",
+            "Film",
+            "Electrical Insulation",
+            "Aerospace Applications"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyimide (PI)"
+        ],
+        "Physical Form": [
+            "Powder"
+        ],
+        "Features": [
+            "Low Dielectric Constant",
+            "High Glass Transition Temperature",
+            "Good Erosion Resistance",
+            "Low Temperature Curing"
+        ],
+        "Density": [
+            "1400.0 - 1400.0 kg/m³"
+        ],
+        "Tensile Modulus": [
+            "2100.0 - 2100.0 MPa"
+        ],
+        "Color": [
+            "Transparent"
+        ]
+    }
+}

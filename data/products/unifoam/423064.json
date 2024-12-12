@@ -1,0 +1,66 @@
+{
+    "id": 423064,
+    "brand": "unifoam",
+    "name": "UNIFOAM® XVA 200",
+    "slug": "unifoam-xva-200",
+    "description": "UNIFOAM® XVA 200 is made from high-quality ethylene vinyl acetate copolymer.",
+    "company_name": "UFM Bt",
+    "company_slug": "ufm-bt",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1702444512/production/Brand/33282/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608693/production/CategoryImage/573/category_image/AutomotiveTransportation_01.jpg",
+    "properties": {
+        "Applications": [
+            "Aerospace & Aviation",
+            "Appliances & Electronics",
+            "Industrial & Transport Packaging",
+            "Other Medical Applications",
+            "Sports & Recreation",
+            "Other Electrical & Electronics Applications",
+            "EIFS & Insulation",
+            "Advanced Materials",
+            "Other Industrial Applications",
+            "Interior",
+            "Marine",
+            "Automotive",
+            "Transportation",
+            "Medical",
+            "Chemical & Industrial Manufacturing",
+            "Military & Defense",
+            "Packaging",
+            "Building Envelope & Roofing"
+        ],
+        "Product Families": [
+            "Foams"
+        ],
+        "Chemical Family": [
+            "Ethylene Vinyl Acetate (EVA)"
+        ],
+        "End Uses": [
+            "Acoustic Barrier",
+            "Aerospace Applications",
+            "Marine Applications",
+            "HVAC Insulation",
+            "Appliances",
+            "Medical Applications"
+        ]
+    },
+    "summary": {
+        "Foam Type": [
+            "Closed Cell Foam"
+        ],
+        "Density": [
+            "170.0 - 230.0 kg/m³"
+        ],
+        "Chemical Family": [
+            "Ethylene Vinyl Acetate (EVA)"
+        ],
+        "End Uses": [
+            "Aerospace Applications",
+            "HVAC Insulation",
+            "Appliances",
+            "Medical Applications",
+            "Marine Applications",
+            "Acoustic Barrier"
+        ]
+    }
+}

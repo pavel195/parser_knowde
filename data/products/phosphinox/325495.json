@@ -1,0 +1,48 @@
+{
+    "id": 325495,
+    "brand": "phosphinox",
+    "name": "NOVINOX PC01",
+    "slug": "novinox-pc01",
+    "description": "Novinox®PC01 is a Calcium phosphate used as an anticorrosion inhibiting pigment in DYI coatings. It is a stable and non-hygroscopic white powder, it is easily dispersed. Novinox®PC01 may be used in formulations for Environmentally-friendly coatings.",
+    "company_name": "SNCZ",
+    "company_slug": "sncz",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708686511/production/Company/31010/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608630/production/CategoryImage/571/category_image/PaintingsCoatings_07.jpg",
+    "properties": {
+        "Applications": [
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Inorganic Pigments",
+            "Corrosion Inhibiting Pigments",
+            "Functional Pigments",
+            "Functional Additives",
+            "Additives",
+            "Pigments & Colorants",
+            "Color Pigments"
+        ],
+        "Chemical Family": [
+            "Phosphates"
+        ],
+        "End Uses": [
+            "Waterborne Coating",
+            "Solventborne Coating",
+            "Powder Coating"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Corrosion Inhibitor",
+            "Colorant"
+        ],
+        "Chemical Family": [
+            "Phosphates"
+        ],
+        "Pigment Type": [
+            "Inorganic Pigments"
+        ],
+        "Color": [
+            "White"
+        ]
+    }
+}

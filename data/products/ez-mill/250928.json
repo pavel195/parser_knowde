@@ -1,0 +1,40 @@
+{
+    "id": 250928,
+    "brand": "ez-mill",
+    "name": "Bin-Aid Anti-Bridging Agent",
+    "slug": "bin-aid-anti-bridging-agent",
+    "description": "Bin-Aid Anti-Bridging Agent is a unique anti-bridging agent for pelleted feeds, especially those containing urea and or high molasses levels. When associated with steam, water or friction heat, Bin-Aidforms an aqueous suspension that coats and lubricates the feed particles. Once the pellets pass through the pellet cooler, the lubricant film dries, reducing pellet bridging in the holding bin.",
+    "company_name": "Uniscope",
+    "company_slug": "uniscope",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708684616/production/Company/19216/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708684616/production/Company/19216/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Other Animal Health & Nutrition",
+            "Swine",
+            "Ruminants",
+            "Pets",
+            "Feed Production & Processing",
+            "Birds & Poultry",
+            "Aquaculture",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Conditioning & Flow Enhancers",
+            "Production Aids and Processing Additives"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Anti-Caking Agent",
+            "Flow Promoter",
+            "Conditioner"
+        ],
+        "Certifications & Compliance": [
+            "Generally Recognized As Safe (GRAS)"
+        ],
+        "Features": [
+            "Shelf Stable"
+        ]
+    }
+}

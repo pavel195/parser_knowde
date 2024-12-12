@@ -1,0 +1,84 @@
+{
+    "id": 321128,
+    "brand": "tilicine",
+    "name": "Setiline®",
+    "slug": "setiline",
+    "description": "SETILINE® improves the skin’s overall architecture, by preserving dermis from glycation phenomena, a major cause of aging, and strengthens the epidermis’s barrier by reducing keratinocyte differentiation. All of the skin’s structures are preserved.",
+    "company_name": "Greentech",
+    "company_slug": "greentech",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709127459/production/Product/321128/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1709127459/production/Product/321128/card_banner/image",
+    "properties": {
+        "Product Families": [
+            "Skin Actives",
+            "Cosmetic Actives"
+        ],
+        "INCI Name": [
+            "Hydrolyzed Trigonella Foenum-Graecum Seed Extract"
+        ],
+        "End Uses": [
+            "Moisturizers",
+            "Body Firming Lotion",
+            "Anti-Aging Products"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Hydrolyzed Trigonella Foenum-Graecum Seed Extract"
+        ],
+        "Functions": [
+            "Anti-Wrinkle Agent",
+            "Anti-Aging Agent"
+        ],
+        "Ingredient Origin": [
+            "Vegetable Origin"
+        ],
+        "Labeling Claims": [
+            "Glycol ether-free",
+            "BSE-free",
+            "Nanomaterials-free",
+            "TSE-free",
+            "VOC-free",
+            "Impurities-free",
+            "EDTA-free",
+            "Not Tested on Animals",
+            "Nitrosamines-free",
+            "Non-Irritant",
+            "Natural",
+            "Vegan",
+            "Solvent-free",
+            "Non-Mutagenic",
+            "Phthalates-free",
+            "Sustainable",
+            "GMO-free",
+            "Non-Toxic",
+            "Gluten-free",
+            "Preservative-free",
+            "CMR Substances-free"
+        ],
+        "Benefit Claims": [
+            "Firming",
+            "Excellent Flexibility",
+            "Skin Barrier",
+            "Strengthening",
+            "Suppleness",
+            "Regenerating",
+            "Fine Lines Reduction",
+            "Improves Skin Elasticity",
+            "Moisturizing",
+            "Improves Dermal Thickness",
+            "Anti-Aging",
+            "Hypo-Allergenic",
+            "Anti-Wrinkle"
+        ],
+        "Certifications & Compliance": [
+            "EU Cosmetic Regulation 1223/2009 Compliant",
+            "CFDA Compliant (China)",
+            "FDA Compliant",
+            "IECIC (China)",
+            "ISO 22716",
+            "ISO 16128",
+            "GMP"
+        ]
+    }
+}

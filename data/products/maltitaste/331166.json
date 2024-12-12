@@ -1,0 +1,69 @@
+{
+    "id": 331166,
+    "brand": "maltitaste",
+    "name": "SCG 40 Glucose Syrup",
+    "slug": "scg-40-glucose-syrup",
+    "description": "SCG 40 Glucose Syrup is natural glucose syrup obtained as result of hydrolysis of corn starch. It is clear, colorless and natural.",
+    "company_name": "Sunar Group",
+    "company_slug": "sunar-group",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709127396/production/Brand/24119/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607026/production/CategoryImage/510/category_image/FoodNutrition_11.jpg",
+    "properties": {
+        "Applications": [
+            "Savory & Culinary",
+            "Dairy",
+            "Desserts & Fruit Preparations",
+            "Confectionery",
+            "Bakery",
+            "Food"
+        ],
+        "Product Families": [
+            "Sweeteners & Syrups",
+            "Taste & Flavor"
+        ],
+        "End Uses": [
+            "Filling Applications",
+            "Toffee",
+            "Cakes",
+            "Jams",
+            "Candies",
+            "Ice Cream",
+            "Nougat",
+            "Ketchup",
+            "Jellies",
+            "Caramels",
+            "Marshmallow",
+            "Chewing Gum"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Glucose Syrup"
+        ],
+        "Functions": [
+            "Nutritive Sweetener"
+        ],
+        "Labeling Claims": [
+            "GMO-free",
+            "Naturally Derived",
+            "Kosher",
+            "Natural",
+            "Halal",
+            "Non-GMO"
+        ],
+        "End Uses": [
+            "Chewing Gum",
+            "Caramels",
+            "Cakes",
+            "Toffee",
+            "Nougat",
+            "Filling Applications",
+            "Candies",
+            "Jellies",
+            "Jams",
+            "Marshmallow",
+            "Ketchup",
+            "Ice Cream"
+        ]
+    }
+}

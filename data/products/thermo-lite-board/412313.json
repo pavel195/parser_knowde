@@ -1,0 +1,43 @@
+{
+    "id": 412313,
+    "brand": "thermo-lite-board",
+    "name": "Thermo-Lite Board® Versatile",
+    "slug": "thermo-lite-board-versatile",
+    "description": "Thermo-Lite Board® Versatile is manufactured with polymer foam and a matt fiberglass lay-up, this product is a great choice for a wide variety of uses from floor to ceiling. Available in a density range of 12 to 40 lbs/ft³ depending on the thickness required.",
+    "company_name": "Space Age Synthetics Inc.",
+    "company_slug": "space-age-synthetics-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1702444514/production/Brand/32173/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608693/production/CategoryImage/573/category_image/AutomotiveTransportation_01.jpg",
+    "properties": {
+        "Applications": [
+            "Other Automotive & Transportation Applications",
+            "Marine",
+            "Transportation"
+        ],
+        "Product Families": [
+            "Foams"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ],
+        "End Uses": [
+            "Automotive Trim",
+            "Marine Applications"
+        ]
+    },
+    "summary": {
+        "Foam Type": [
+            "Closed Cell Foam"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ],
+        "End Uses": [
+            "Marine Applications",
+            "Automotive Trim"
+        ],
+        "Physical Form": [
+            "Foam"
+        ]
+    }
+}

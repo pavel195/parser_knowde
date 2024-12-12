@@ -1,0 +1,65 @@
+{
+    "id": 91443,
+    "brand": "pel-fix",
+    "name": "PEL-AMID™ L-DIPA",
+    "slug": "pel-amid-l-dipa",
+    "description": "PEL-AMID™ L-DIPA is a useful replacement for Cocamide & Lauramide DEA in personal care applications. This product is not diethanolamine derived but it performs similarly to traditional diethanolamides. It is a good viscosifier & foam booster that is an easy to handle liquid at room temperature. PEL-AMID™ L-DIPA can be used in any application where the traditional coco or lauryl diethanolamides have been used. PEL-AMID™ L-DIPA is effective in a wide variety of personal care products, including shampoos, body cleansers, bubble baths & facial cleansers.",
+    "company_name": "Ele Corporation",
+    "company_slug": "ele-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708700838/production/Product/91443/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708700838/production/Product/91443/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Bath & Shower",
+            "Hair Care",
+            "Skin Care",
+            "Surface Care",
+            "Industrial Cleaning",
+            "Home Care",
+            "Institutional & Industrial Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Nonionic Surfactants",
+            "Rheology Modifiers",
+            "Stabilizers",
+            "Performance Additives",
+            "Functionals",
+            "Surfactants & Cleansers",
+            "Functional Additives"
+        ],
+        "INCI Name": [
+            "Lauramide DIPA"
+        ],
+        "End Uses": [
+            "Body Wash",
+            "Liquid Soap",
+            "Facial Cleanser",
+            "Shampoos & Rinses",
+            "Bubble Bath",
+            "Multipurpose Cleaners",
+            "Institutional Cleaners",
+            "Industrial Cleaners",
+            "Hard Surface Cleaners"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Lauramide DIPA"
+        ],
+        "CAS Number": [
+            "54914-38-4"
+        ],
+        "Functions": [
+            "Surfactant (Nonionic)",
+            "Thickener",
+            "Viscosity Modifier",
+            "Cleansing Agent",
+            "Corrosion Inhibitor",
+            "Foam Booster"
+        ],
+        "Synonyms": [
+            "Dodecanamide, N,N-bis(2-hydroxypropyl)-"
+        ]
+    }
+}

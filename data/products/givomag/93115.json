@@ -1,0 +1,82 @@
+{
+    "id": 93115,
+    "brand": "givomag",
+    "name": "MINERALIS® GU/ZN (60309L)",
+    "slug": "mineralis-gu-zn",
+    "description": "Manufactured in France, GMP certified activeOur Mineralis is a proven purifying agent, with antisebum and pore refiing proven properties. ISALTIS owns a clinical study on its benefits for the skin.Zinc gluconate can also be used in Hair Care as a dye fixative, and is particularly recommended for colored hair shampoos and conditioners.Due to its antimicrobial properties, it can also enhance microbial preservation of cosmetic formulations. As a chelate, it can also replace traditional chelating agents such as EDTA, as a more natural option.Mineralis Gu/Zn is COSMOS certified.",
+    "company_name": "ISALTIS",
+    "company_slug": "isaltis",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708689613/production/Product/93115/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708689613/production/Brand/8295/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Hair Care",
+            "AP/Deo",
+            "Oral Care",
+            "Skin Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Antioxidants & Preservatives",
+            "Film Formers",
+            "Conditioners & Emollients",
+            "AP/Deo Actives",
+            "Sensory Modifiers",
+            "Skin Actives",
+            "Cosmetic Actives",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Zinc Gluconate"
+        ],
+        "End Uses": [
+            "Hair Color",
+            "Deodorants",
+            "Acne Treatments"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Zinc Gluconate"
+        ],
+        "Functions": [
+            "Anti-Septic",
+            "Sebum Regulator",
+            "Conditioner",
+            "Hair Fixative",
+            "Healing Agent",
+            "Anti-Aging Agent",
+            "Astringent",
+            "Anti-Acne Agent",
+            "Deodorant",
+            "Soothing Agent",
+            "Anti-Inflammatory"
+        ],
+        "Labeling Claims": [
+            "Credo Clean Standard",
+            "Clean at Sephora",
+            "Ulta Beauty's Conscious Beauty"
+        ],
+        "Certifications & Compliance": [
+            "Kosher",
+            "FSSC 22000",
+            "REACH (Europe)",
+            "GMP",
+            "Halal"
+        ],
+        "Benefit Claims": [
+            "Antiseptic",
+            "Anti-Aging",
+            "De-Odorizing",
+            "Skin Conditioning",
+            "Soothing",
+            "Anti-Inflammatory",
+            "Color Fixative",
+            "Astringency",
+            "Antioxidant Properties",
+            "Sebum Control",
+            "Anti-Acne",
+            "Healing"
+        ]
+    }
+}

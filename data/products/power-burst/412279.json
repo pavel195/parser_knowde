@@ -1,0 +1,44 @@
+{
+    "id": 412279,
+    "brand": "power-burst",
+    "name": "Theochem Laboratories Lemon APD",
+    "slug": "theochem-laboratories-lemon-apd",
+    "description": "Lemon APD is an economical formulation designed for the food service industry. It is an all-purpose disinfectant, sanitizer, fungicide, and virucide.",
+    "company_name": "Theochem Laboratories",
+    "company_slug": "theochem-laboratories",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292431/production/Company/41714/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515647/production/CategoryImage/1055/category_image/HII_07.jpg",
+    "properties": {
+        "Applications": [
+            "Air Care",
+            "Surface Care",
+            "Industrial Cleaning",
+            "Institutional & Catering",
+            "Food & Beverage Manufacturing",
+            "Food Facility Cleaning & Sanitization",
+            "Processing & Packaging",
+            "Institutional & Industrial Care",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Industrial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner",
+            "Deodorizers",
+            "Disinfectant Products",
+            "Institutional Cleaners",
+            "Sanitizers"
+        ],
+        "Application Areas": [
+            "Hard Surfaces"
+        ],
+        "Features": [
+            "Fungus Resistant",
+            "Neutralizes Odor"
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "id": 393210,
+    "brand": "refinase",
+    "name": "Repulpase™",
+    "slug": "repulpase",
+    "description": "Repulpase™ is used in the treatment of wet strength-containing and highly sized broke to facilitate the defiberization and processing as usable pulp without the safety concerns inherent in current methods.",
+    "company_name": "Enzymatic Deinking Technologies",
+    "company_slug": "enzymatic-deinking-technologies",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664291803/production/Brand/29641/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Paper & Pulp",
+            "Pulping & Processing"
+        ],
+        "Product Families": [
+            "Paper & Pulp Chemicals",
+            "Recycling Aids"
+        ],
+        "Chemical Family": [
+            "Enzymes"
+        ],
+        "End Uses": [
+            "Paper & Pulp"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Enzymes"
+        ],
+        "End Uses": [
+            "Paper & Pulp"
+        ],
+        "Applicable Processes": [
+            "Paper Deinking"
+        ]
+    }
+}

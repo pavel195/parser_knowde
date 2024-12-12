@@ -1,0 +1,59 @@
+{
+    "id": 425787,
+    "brand": "security-floor",
+    "name": "DeVere Chemical Steroklor Plus",
+    "slug": "devere-chemical-steroklor-plus",
+    "description": "DeVere Chemical Steroklor Plus is an EPA registered food contact no-rinse sanitizer that combines the properties of a heavy-duty cleaner/degreaser with sanitizing, disinfecting, mold &amp; mildew killing, deodorizing and stain removing. It is a true all-in-one product.",
+    "company_name": "DeVere Chemical",
+    "company_slug": "devere-chemical",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292719/production/Company/12215/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1664292719/production/Company/12215/card_banner/image.png",
+    "properties": {
+        "Applications": [
+            "Auto Care",
+            "Surface Care",
+            "Institutional & Catering",
+            "Vehicle & Machinery",
+            "Food & Beverage Manufacturing",
+            "Food Facility Cleaning & Sanitization",
+            "Processing & Packaging",
+            "Institutional & Industrial Care",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Commercial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Sanitizers",
+            "Cleaner",
+            "Disinfectant Products"
+        ],
+        "Application Areas": [
+            "Sink",
+            "Kitchenware",
+            "Tanks",
+            "Pots",
+            "Food Processing",
+            "Pans",
+            "Equipment",
+            "Dishes",
+            "Refrigerators",
+            "Cutlery",
+            "Breweries",
+            "Stove Top",
+            "Glass Surface",
+            "Vats"
+        ],
+        "Certifications & Compliance": [
+            "EPA Registered",
+            "SARA 313"
+        ],
+        "Features": [
+            "Anti-Fungal",
+            "Anti-Bacterial"
+        ]
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "id": 393964,
+    "brand": "vertec",
+    "name": "Vertec™ 5023",
+    "slug": "vertec-5023",
+    "description": "Vertec™ 5023 is a proprietary, bearing grade PEEK (polyetheretherketone) material developed especially for the canning industry. Tribological evaluations under dry running conditions have shown its friction coefficient and wear rate to be much lower than any other bearing grade PEEK composite material available in the market. It is more ductile and flexible than our top-of-the-line Vertec 5025 and Vertec 5028 allowing more of a softer contact surface against a variety of metallic counter-surfaces. At the PV values of 40,000 psi-fpm and higher, its coefficient of friction approaches that of unfilled PTFE. Also, the counter-surface wear is much less.",
+    "company_name": "Vertec Polymers",
+    "company_slug": "vertec-polymers",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708531352/production/Brand/29755/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Equipment & Parts",
+            "Structural Components",
+            "Other Automotive Applications",
+            "Automotive",
+            "Building Materials",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "High Performance Thermoplastics",
+            "Engineering & Specialty Polymers"
+        ],
+        "Chemical Family": [
+            "Polyether Ether Ketone (PEEK)"
+        ],
+        "Polymer Name": [
+            "Polyetheretherketone (PEEK)"
+        ],
+        "End Uses": [
+            "Bearings"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyetheretherketone (PEEK)"
+        ],
+        "Fillers Included": [
+            "Proprietary"
+        ],
+        "Flexural Modulus": [
+            "6890.0 - 6890.0 MPa"
+        ]
+    }
+}

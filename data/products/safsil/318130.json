@@ -1,0 +1,40 @@
+{
+    "id": 318130,
+    "brand": "safsil",
+    "name": "Navajo Brand® 2/0",
+    "slug": "navajo-brand-2-0",
+    "description": "Navajo Brand® 2/0 pumice products are available in particle size distributions ranging from 6-mesh to 5 microns. Their high brightness, purity, and low specific gravity offer formulators unique opportunities for superior performance.",
+    "company_name": "CR Minerals",
+    "company_slug": "cr-minerals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708696327/production/Company/29918/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608477/production/CategoryImage/562/category_image/BuildingConstruction_06.jpg",
+    "properties": {
+        "Applications": [
+            "Floor Coatings",
+            "Water Treatment",
+            "Flooring & Surfaces",
+            "Power, Water & Utilities",
+            "Building & Construction"
+        ],
+        "Product Families": [
+            "Water Treatment Additives",
+            "Fillers & Extenders",
+            "Additives",
+            "Water Treatment Chemicals"
+        ],
+        "End Uses": [
+            "Tile Adhesive",
+            "Electronics"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Polishing Agent",
+            "Filler"
+        ],
+        "End Uses": [
+            "Electronics",
+            "Tile Adhesive"
+        ]
+    }
+}

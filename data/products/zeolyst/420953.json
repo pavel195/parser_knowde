@@ -1,0 +1,59 @@
+{
+    "id": 420953,
+    "brand": "zeolyst",
+    "name": "Gasil® AB735",
+    "slug": "gasil-ab735",
+    "description": null,
+    "company_name": "Ecovyst",
+    "company_slug": "ecovyst",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709127844/production/Company/36479/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1709127844/production/Brand/33050/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Food & Beverage Packaging",
+            "Packaging"
+        ],
+        "Product Families": [
+            "Surface Modifiers",
+            "Additive Masterbatches",
+            "Masterbatches",
+            "Polymer Additives"
+        ]
+    },
+    "summary": {
+        "Labeling Claims": [
+            "Halal",
+            "Kosher",
+            "Food Contact Acceptable"
+        ],
+        "Functions": [
+            "Anti-Blocking Agent"
+        ],
+        "Compatible Polymers & Resins": [
+            "Polyethylene Terephthalate (PET)",
+            "Polyamides"
+        ],
+        "Processing Methods": [
+            "Film Extrusion",
+            "Extrusion",
+            "Blown Film Extrusion",
+            "Calendering"
+        ],
+        "Carrier": [
+            "Polyethylene Terephthalate (PET)",
+            "Resin-based",
+            "Polyamides"
+        ],
+        "Features": [
+            "Improves Physical Properties",
+            "High Efficiency",
+            "Good Non-Yellowing Properties",
+            "High Clarity",
+            "Food Contact Acceptable",
+            "Excellent Dispersibility",
+            "Improved Surface Quality",
+            "Good Optical Properties",
+            "Abrasion Resistant"
+        ]
+    }
+}

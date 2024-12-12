@@ -1,0 +1,56 @@
+{
+    "id": 371727,
+    "brand": "astaferm",
+    "name": "astaferm®",
+    "slug": "astaferm",
+    "description": "Astaferm® is the first and only fermented astaxanthin available today, resulting in a highly potent, flavorless product optimized for any food and supplement application. Leading exclusive out-performing grades and applications include:30% powder for Gummies5% Oleoresin for soft gels5% CWD for special powder applications such as water dispersions and tablets.",
+    "company_name": "NextFerm Technologies",
+    "company_slug": "nextferm-technologies",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708690877/production/Company/35742/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606914/production/CategoryImage/502/category_image/FoodNutrition_03.jpg",
+    "properties": {
+        "Applications": [
+            "Oral",
+            "Powdered Beverages",
+            "Sports Drinks",
+            "Confectionery",
+            "Beverage",
+            "Food",
+            "Drug Delivery & Care Solutions"
+        ],
+        "Product Families": [
+            "Phytochemicals & Plant Extracts",
+            "Phytochemicals",
+            "Antioxidants",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Powdered Mixes",
+            "Sports Drinks",
+            "Candies",
+            "Gummies"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Astaxanthin"
+        ],
+        "Functions": [
+            "Supplement",
+            "Dietary Supplement",
+            "Antioxidant"
+        ],
+        "Active Component": [
+            "Astaxanthin"
+        ],
+        "Labeling Claims": [
+            "Clean Label"
+        ],
+        "Physical Form": [
+            "Solid",
+            "Powder",
+            "Liquid"
+        ]
+    }
+}

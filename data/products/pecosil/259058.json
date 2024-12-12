@@ -1,0 +1,51 @@
+{
+    "id": 259058,
+    "brand": "pecosil",
+    "name": "PECOSIL® PTF",
+    "slug": "pecosil-ptf",
+    "description": "Phenyl Trimethicone is a short chain silicone particularly suitable for hair conditioning where it provided sheen and softness and as an occlusive skin conditioning agent. It is non-oily, not greasy, and provides an emollient silky feel on skin. The sensory properties of PECOSIL® PTF also dictate its use in sunscreens, makeup products for color cosmetics and in stick deodorants.",
+    "company_name": "Phoenix Chemical Inc.",
+    "company_slug": "phoenix-chemical-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708687002/production/Product/259058/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708687002/production/Product/259058/card_banner/image",
+    "properties": {
+        "Product Families": [
+            "Conditioners & Emollients",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Phenyl Trimethicone"
+        ],
+        "End Uses": [
+            "Sunscreen Lotion",
+            "Sunscreen Moisturizer"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Phenyl Trimethicone"
+        ],
+        "Functions": [
+            "Occlusive",
+            "Emollient",
+            "Conditioner"
+        ],
+        "Labeling Claims": [
+            "Credo Clean Standard",
+            "Clean at Sephora",
+            "Sustainable",
+            "Ulta Beauty's Conscious Beauty"
+        ],
+        "Benefit Claims": [
+            "Softening",
+            "Hair Conditioning",
+            "Skin Conditioning",
+            "Non-Greasy Feel",
+            "Hair Softening",
+            "Non-Oily Feel"
+        ],
+        "Synonyms": [
+            "Belsil SPR 45VP, CF 4271, FT 8, Gelest SST 3P01, LP 103, Ph silsesquioxanes, Phenylsilsesquioxanes, PM 1270, SR 165, SR 20, SR 21, SR 23, TMS 217"
+        ]
+    }
+}

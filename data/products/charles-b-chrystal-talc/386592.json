@@ -1,0 +1,56 @@
+{
+    "id": 386592,
+    "brand": "charles-b-chrystal-talc",
+    "name": "Talc MP 25-38",
+    "slug": "talc-mp-25-38",
+    "description": "Talc MP 25-38 is a fine-particle talc with high brightness, low surface area and oil absorption, and excellent Hegman fineness. It is used in a number of applications including: industrial and architectural coatings and primers; adhesives and sealants; and caulks and putties. It is low in abrasion, chemically inert and has a platy crystal shape that improves weatherability and reinforcement.",
+    "company_name": "Charles B. Chrystal",
+    "company_slug": "charles-b-chrystal",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708696753/production/Brand/28943/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608502/production/CategoryImage/564/category_image/BuildingConstruction_08.jpg",
+    "properties": {
+        "Applications": [
+            "Sealants & Caulks",
+            "Architectural Coatings",
+            "Primers & Lacquers",
+            "Industrial Coatings",
+            "Building & Construction",
+            "Building Envelope",
+            "Building Materials",
+            "Construction Chemicals",
+            "Roofing",
+            "Packaging Coatings",
+            "Building Envelope & Roofing"
+        ],
+        "Product Families": [
+            "Cement & Concrete Additives",
+            "Fillers & Extenders",
+            "Additives",
+            "Construction Chemicals"
+        ],
+        "End Uses": [
+            "Cardboard",
+            "Powder Coating",
+            "Wall Putty",
+            "Primer"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Filler"
+        ],
+        "Features": [
+            "Low Surface Area",
+            "Fast Drying",
+            "Low Oil Absorption",
+            "Excellent Weatherability",
+            "High Gloss",
+            "High Durability",
+            "Weather Resistance",
+            "Chemically Inert",
+            "Good Brightness",
+            "Efflorescence Resistance",
+            "Abrasion Resistance"
+        ]
+    }
+}

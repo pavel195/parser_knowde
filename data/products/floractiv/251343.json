@@ -1,0 +1,47 @@
+{
+    "id": 251343,
+    "brand": "floractiv",
+    "name": "Immuno Activ Si",
+    "slug": "immuno-activ-si",
+    "description": "Immuno Activ Si is a liquid foliar fertilizer of the latest generation, containing potassium silicate compounds, which have a beneficial effect on plant immunity, and consequently results in increased yield. The silicon absorbed by the plant is deposited in the cell walls, causing their strengthening. The deposition of silicon in the cell wall hinders any pathogen – eg. fungi and pests such as aphids - attacking the plant.",
+    "company_name": "Arkop",
+    "company_slug": "arkop",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672449/production/Company/19265/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708672449/production/Company/19265/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Ornamentals",
+            "Trees & Woodlands",
+            "Agricultural Pest Control",
+            "Vegetables",
+            "Sugar & Starch Crops",
+            "Other Agricultural Crops",
+            "Oilseeds",
+            "Nuts",
+            "Legumes",
+            "Herbs & Spice Crops",
+            "Fruits",
+            "Fodder & Forage",
+            "Fiber Crops",
+            "Cereals",
+            "Agricultural Crops",
+            "Pest Control",
+            "Turf, Ornamentals & Landscape"
+        ],
+        "Product Families": [
+            "Fertilizers & Nutrients",
+            "Plant Health, Nutrients & Soil Management"
+        ],
+        "Chemical Family": [
+            "Silicones"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Fertilizer"
+        ],
+        "Chemical Family": [
+            "Silicones"
+        ]
+    }
+}

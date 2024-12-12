@@ -1,0 +1,71 @@
+{
+    "id": 67848,
+    "brand": "bentone-gel",
+    "name": "Bentone Gel® ISD V",
+    "slug": "bentone-gel-isd-v",
+    "description": "BENTONE GEL ISD V provides thermostable viscosity control of the emulsion's oil phase, improves application properties, enhances skin-feel by masking greasy or tacky components and imparts a pleasant residual silkiness to the skin.",
+    "company_name": "Elementis",
+    "company_slug": "elementis",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708689731/production/Product/67848/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708689731/production/Product/67848/card_banner/image",
+    "properties": {
+        "Applications": [
+            "AP/Deo",
+            "Color Cosmetics",
+            "Sun Care",
+            "Skin Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Stabilizers",
+            "Rheology Modifiers",
+            "Functionals"
+        ],
+        "Chemical Family": [
+            "Esters"
+        ],
+        "INCI Name": [
+            "Propylene Carbonate",
+            "Disteardimonium Hectorite",
+            "Hectorite"
+        ],
+        "End Uses": [
+            "Antiperspirants",
+            "Eye Shadow",
+            "Mascara"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Disteardimonium Hectorite",
+            "Hectorite",
+            "Propylene Carbonate"
+        ],
+        "Functions": [
+            "Stabilizer",
+            "Thickener",
+            "Viscosity Modifier",
+            "Emulsion Stabilizer"
+        ],
+        "Ingredient Origin": [
+            "Non-Animal Origin"
+        ],
+        "Labeling Claims": [
+            "Ulta Beauty's Conscious Beauty",
+            "Mineral based",
+            "Credo Clean Standard",
+            "Clean at Sephora"
+        ],
+        "Certifications & Compliance": [
+            "RSPO MassBalance Certified"
+        ],
+        "Benefit Claims": [
+            "Silky Feel",
+            "Emulsion Stabiliser",
+            "SPF Enhancement",
+            "Good Consistency",
+            "Formula Stability",
+            "Smoothing"
+        ]
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "id": 131736,
+    "brand": "pentamid",
+    "name": "Pentamid™ B GV30 H black",
+    "slug": "pentamid-b-gv30-h-black",
+    "description": "Pentamid B GV30 H black is a normal viscosity, heat stabilized polyamide 6, 30% glass fiber reinforced.",
+    "company_name": "PENTAC Polymer GmbH",
+    "company_slug": "pentac-polymer-gmbh",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708527825/production/Company/2823/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708527825/production/Company/2823/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Switches & Relays",
+            "Cooling & Climate",
+            "Interior",
+            "Fuel Systems",
+            "Exterior & Body",
+            "Chassis & Brake",
+            "Terminal Blocks, Plugs & Sockets",
+            "Powertrain & UTH",
+            "Automotive Electronics",
+            "Housings & Enclosures",
+            "Other Devices & Assemblies",
+            "Other Automotive Applications",
+            "Automotive",
+            "Devices & Assemblies",
+            "Parts & Components"
+        ],
+        "Product Families": [
+            "Polyamides",
+            "Engineering & Specialty Polymers"
+        ],
+        "Chemical Family": [
+            "Polyamides"
+        ],
+        "Polymer Name": [
+            "Polyamide 6 (PA 6)"
+        ],
+        "End Uses": [
+            "Damping Bands",
+            "Pedal",
+            "Switches",
+            "Relay Bases",
+            "Fuel Pipes",
+            "Covers",
+            "Caps",
+            "Capless Fuel Filler",
+            "Bearings",
+            "Automotive Suspension",
+            "Automotive Brackets",
+            "Air Intake Manifolds",
+            "Plugs",
+            "Housings",
+            "Gears",
+            "Automotive Applications"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyamide 6 (PA 6)"
+        ],
+        "Processing Methods": [
+            "Injection Molding"
+        ],
+        "Fillers Included": [
+            "Glass Fiber"
+        ],
+        "Additives Included": [
+            "Heat Stabilizer"
+        ]
+    }
+}

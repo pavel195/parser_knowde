@@ -1,0 +1,56 @@
+{
+    "id": 77113,
+    "brand": "nulastic",
+    "name": "Dermol™ M-5",
+    "slug": "alzo-international-inc-dermol-m-5",
+    "description": "Dermol M-5 is a naturally derived ester that is a cost effective co-solvent and coupler.  It is non-oily and penetrating with low irritation.",
+    "company_name": "ALZO International Inc.",
+    "company_slug": "alzo-international-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708673183/production/Brand/6405/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708673183/production/Product/77113/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Skin Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Conditioners & Emollients",
+            "Solvents & Carriers",
+            "Functionals"
+        ],
+        "Chemical Family": [
+            "Glycerides",
+            "Esters"
+        ],
+        "INCI Name": [
+            "Caprylic/Capric Triglyceride"
+        ],
+        "End Uses": [
+            "Body Cream",
+            "Body Lotion"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Caprylic/Capric Triglyceride"
+        ],
+        "Functions": [
+            "Carrier",
+            "Cosolvent",
+            "Emollient",
+            "Coupling Agent"
+        ],
+        "Labeling Claims": [
+            "Ulta Beauty's Conscious Beauty",
+            "Credo Clean Standard",
+            "Clean at Sephora"
+        ],
+        "Benefit Claims": [
+            "Imparts Lubricity",
+            "Penetrating",
+            "Emolliency",
+            "Silky Feel",
+            "Low-Irritation"
+        ]
+    }
+}

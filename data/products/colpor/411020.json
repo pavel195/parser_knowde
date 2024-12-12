@@ -1,0 +1,36 @@
+{
+    "id": 411020,
+    "brand": "colpor",
+    "name": "Nitoseal® MS600",
+    "slug": "nitoseal-ms600",
+    "description": "Nitoseal® MS600 is a one part medium modulus sealant based on hybrid silyl modified polyether technology. It has a fast rate of cure and forms a tough, highly durable and water resistant elastomer.",
+    "company_name": "Fosroc Inc.",
+    "company_slug": "fosroc-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520058/production/Brand/31962/logo/image",
+    "banner_url": "https://static.knowde.com/card-banners/knowde-card-for-raw-materials-8.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Construction Chemicals",
+            "Infrastructure, Roads & Paving",
+            "Roofing",
+            "Sealants & Caulks",
+            "Chemical & Industrial Manufacturing",
+            "Pavement, Highways, Roads & Bridges",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Caulks & Sealants"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "1K (1 component) Sealant"
+        ],
+        "Application Area": [
+            "Tanks",
+            "Bridges"
+        ]
+    }
+}

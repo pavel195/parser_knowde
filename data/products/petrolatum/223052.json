@@ -1,0 +1,46 @@
+{
+    "id": 223052,
+    "brand": "petrolatum",
+    "name": "Natrochem TBEP DLC-A",
+    "slug": "natrochem-tbep-dlc-a",
+    "description": "Natrochem TBEP DLC-A is blend of tributoxyethyl phosphate and silicon-dioxide. Provides very low temperature flexibility to plastics and acrylonitrile elastomers. Used as a plasticizer and a flame retardant in adhesives. It may retard cure with large loadings. Incorporates rapidly; aids filler dispersion; and reduces pigment requirements in colored stocks.",
+    "company_name": "Natrochem",
+    "company_slug": "natrochem",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708684386/production/Company/15664/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Other Adhesives & Sealants Applications"
+        ],
+        "Product Families": [
+            "Performance Additives",
+            "Flame Retardants",
+            "Polymer Additives",
+            "Elastomer Additives"
+        ],
+        "Chemical Family": [
+            "Silica",
+            "Phosphates"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Silicon Dioxide"
+        ],
+        "Chemical Family": [
+            "Silica",
+            "Phosphates"
+        ],
+        "Functions": [
+            "Plasticizer",
+            "Flame Retardant"
+        ],
+        "Compatible Polymers & Resins": [
+            "Nitrile Butadiene Rubber (NBR)",
+            "Chlorinated Compounds"
+        ],
+        "Synonyms": [
+            "Silica, SiO2"
+        ]
+    }
+}

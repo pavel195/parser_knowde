@@ -1,0 +1,46 @@
+{
+    "id": 297224,
+    "brand": "cyanotech-bioastin",
+    "name": "Cyanotech BioAstin® Hawaiian Astaxanthin®",
+    "slug": "cyanotech-bioastin-hawaiian-astaxanthin",
+    "description": "Cyanotech BioAstin® Hawaiian Astaxanthin® is a red carotenoid and exceptionally powerful antioxidant found in certain species of plants, animals and microalgae. Grown on the pristine Kailua-Kona Coast of Hawaii, Cyanotech sources astaxanthin from natural microalgae Haematococcus pluvialis, nature’s richest and most concentrated source of astaxanthin.",
+    "company_name": "Cyanotech Corporation",
+    "company_slug": "cyanotech-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709127397/production/Company/23674/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607274/production/CategoryImage/514/category_image/FoodNutrition_14.jpg",
+    "properties": {
+        "Applications": [
+            "Oral",
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being",
+            "Drug Delivery & Care Solutions"
+        ],
+        "Product Families": [
+            "Antioxidants",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Nutraceuticals"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Astaxanthin"
+        ],
+        "Functions": [
+            "Supplement",
+            "Dietary Supplement",
+            "Antioxidant"
+        ],
+        "Labeling Claims": [
+            "Gluten-free",
+            "Natural",
+            "Non-GMO",
+            "Vegan",
+            "Halal"
+        ],
+        "Benefit Claims (Health)": [
+            "Cardioprotective"
+        ]
+    }
+}

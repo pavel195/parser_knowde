@@ -1,0 +1,41 @@
+{
+    "id": 360874,
+    "brand": "nowo",
+    "name": "Nowo® Metal Special Primer SB",
+    "slug": "nowo-metal-special-primer-sb",
+    "description": "Nowo® Metal Special Primer SB is a solvent-based anti-corrosion primer for professional use.",
+    "company_name": "Coating Source",
+    "company_slug": "coating-source",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664290972/production/Brand/26978/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608410/production/CategoryImage/557/category_image/BuildingConstruction_01.jpg",
+    "properties": {
+        "Applications": [
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "1K (1 component) Coating",
+            "Solventborne Coating",
+            "Primer"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Steel"
+        ],
+        "Features": [
+            "Corrosion Resistant",
+            "Fast Drying",
+            "Excellent Substrate Adhesion"
+        ],
+        "Application Method": [
+            "Spray",
+            "Roller",
+            "Brush"
+        ]
+    }
+}

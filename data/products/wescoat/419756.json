@@ -1,0 +1,40 @@
+{
+    "id": 419756,
+    "brand": "wescoat",
+    "name": "WESCOAT® CX01P6",
+    "slug": "wescoat-cx01p6",
+    "description": "WESCOAT® CX01P6 is a coating product that will guarantee performance and longer lifespans. WESCOAT® CX01P6 addresses the chemical problems and wear and erosion problems.",
+    "company_name": "White Engineering Surfaces Corporation",
+    "company_slug": "white-engineering-surfaces-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520500/production/Brand/32925/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608600/production/CategoryImage/568/category_image/PaintingsCoatings_04.jpg",
+    "properties": {
+        "Applications": [
+            "Coatings & Finishes",
+            "Packaging & Assembly",
+            "Medical",
+            "Power, Water & Utilities",
+            "Other Medical Applications",
+            "Power & Utilities",
+            "Electronics Coatings",
+            "Aerospace Coatings",
+            "Automotive OEM Coatings",
+            "Aerospace & Aviation",
+            "Transportation"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ]
+    },
+    "summary": {
+        "Features": [
+            "Wear Resistant",
+            "Good Erosion Resistance",
+            "Chemical Resistant"
+        ],
+        "Application Method": [
+            "Spray"
+        ]
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "id": 509690,
+    "brand": "renosage",
+    "name": "Pharm-Rx Cassia Twig Extract",
+    "slug": "pharm-rx-chemical-corp-cassia-twig-extract",
+    "description": null,
+    "company_name": "Pharm-Rx Chemical Corp.",
+    "company_slug": "pharm-rx",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto/v1724132492/production/Company/102900/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1724132492/production/Company/102900/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Phytochemicals",
+            "Phytochemicals & Plant Extracts",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "Ingredient Name": [
+            "Cassia Twig Extract"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Cassia Twig Extract"
+        ]
+    }
+}

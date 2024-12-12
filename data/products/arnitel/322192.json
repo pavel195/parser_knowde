@@ -1,0 +1,50 @@
+{
+    "id": 322192,
+    "brand": "arnitel",
+    "name": "ForTii® XS81B",
+    "slug": "fortii-xs81b",
+    "description": "ForTii® XS81B is a breakthrough high-temperature polyamide with halogen-free and halogen-containing flame retardant grades and a broad and versatile portfolio of grades that deliver high performance with a unique balance of properties. It is mainly used for demanding applications in the electronics, lighting, automotive, white goods, industrial, and aerospace industries. It has excellent impact resistance and high stiffness. Its good processing ability allows for high cosmetic requirements and good bonding in various painting processes. It is very suitable for mobile phone middle frame applications due to its low warpage and excellent performance in tumbling tests. It is 50% glass-reinforced, PA4T, and is best suited for injection molding.",
+    "company_name": "Envalior",
+    "company_slug": "envalior",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708517980/production/Company/30097/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708517980/production/Company/30097/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Housings & Enclosures",
+            "Circuit Breakers",
+            "Consumer Electronics",
+            "Appliances & Electronics",
+            "Devices & Assemblies",
+            "Parts & Components"
+        ],
+        "Product Families": [
+            "Polyamides",
+            "Engineering & Specialty Polymers"
+        ],
+        "Polymer Name": [
+            "Polyphthalamide (PPA)"
+        ],
+        "End Uses": [
+            "Robotics",
+            "Camera Holder",
+            "Antenna Splitters",
+            "Medium Voltage Circuit Breakers Embedded Pole",
+            "Medium Voltage Circuit Breakers",
+            "Camera Applications"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyphthalamide (PPA)"
+        ],
+        "Processing Methods": [
+            "Injection Molding"
+        ],
+        "Fillers Included": [
+            "Glass Fiber"
+        ],
+        "Flexural Modulus": [
+            "16500.0 - 16500.0 MPa"
+        ]
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "id": 373572,
+    "brand": "duroacro",
+    "name": "DuroAcro® DP242",
+    "slug": "duroacro-dp242",
+    "description": "DuroAcro® DP242 is a Styrene polymer type.",
+    "company_name": "Dukepolytech Corporation",
+    "company_slug": "dukepolytech-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664291509/production/Brand/27885/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608566/production/CategoryImage/566/category_image/PaintingsCoatings_02.jpg",
+    "properties": {
+        "Applications": [
+            "Building & Construction",
+            "Industrial Coatings",
+            "Wood Coatings & Finishes",
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers",
+            "Protective Coatings"
+        ],
+        "Chemical Family": [
+            "Styrene Copolymers",
+            "Styrenics"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Styrenics",
+            "Styrene Copolymers"
+        ],
+        "Ready to Use Product Type": [
+            "Stains",
+            "Sealer",
+            "Primer"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Wood"
+        ]
+    }
+}

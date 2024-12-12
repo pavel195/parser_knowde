@@ -1,0 +1,48 @@
+{
+    "id": 412248,
+    "brand": "danimer",
+    "name": "Danimer 2272",
+    "slug": "danimer-2272",
+    "description": "Danimer 2272 resin is a PHA based resin designed for extrusion applications and is produced using Danimer’s proprietary reactive extrusion process. The resin is suitable for a range of profile extrusion applications, such as drinking straws. It is designed to meet the TUV standards for compostability and biodegradation.",
+    "company_name": "Danimer Scientific",
+    "company_slug": "danimer-scientific",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708522434/production/Brand/24654/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708522434/production/Product/412248/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Food & Beverage Packaging",
+            "Packaging"
+        ],
+        "Product Families": [
+            "Polyesters & Copolyesters",
+            "Biodegradable Polymers",
+            "Engineering & Specialty Polymers"
+        ],
+        "Chemical Family": [
+            "Polyesters",
+            "Polyhydroxyalkanoates (PHA)"
+        ],
+        "Polymer Name": [
+            "Polyhydroxyalkanoate (PHA)"
+        ],
+        "End Uses": [
+            "Drinking Straws"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyhydroxyalkanoate (PHA)"
+        ],
+        "Labeling Claims": [
+            "Bio-based",
+            "Plant-Based",
+            "Food Contact Acceptable",
+            "Sustainable",
+            "Biodegradable"
+        ],
+        "Processing Methods": [
+            "Profile Extrusion",
+            "Extrusion"
+        ]
+    }
+}

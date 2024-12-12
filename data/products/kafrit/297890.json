@@ -1,0 +1,41 @@
+{
+    "id": 297890,
+    "brand": "kafrit",
+    "name": "KAFRIT SL 0A864 LD",
+    "slug": "kafrit-group-sl-0a864-ld",
+    "description": "KAFRIT SL 0A864 LD presents a hot slip masterbatch product that's tailored for low coefficient of friction (COF) properties at elevated temperatures. Carried by polyethylenes (PE) and resins, this slip agent product is beneficial for packaging applications, including food and beverage packaging and industrial and transport packaging.",
+    "company_name": "Kafrit Group",
+    "company_slug": "kafrit-group",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708686619/production/Brand/38849/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625605472/production/CategoryImage/448/category_image/Plastics_07.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial & Transport Packaging",
+            "Food & Beverage Packaging",
+            "Packaging"
+        ],
+        "Product Families": [
+            "Performance Additives",
+            "Additive Masterbatches",
+            "Masterbatches",
+            "Polymer Additives"
+        ],
+        "End Uses": [
+            "Food Packaging",
+            "Film",
+            "Cast Films"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Slip Agent"
+        ],
+        "Carrier": [
+            "Resin-based",
+            "Polyethylenes (PE)"
+        ],
+        "Features": [
+            "Low Coefficient of Friction"
+        ]
+    }
+}

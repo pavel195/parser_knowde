@@ -1,0 +1,53 @@
+{
+    "id": 336278,
+    "brand": "storflam",
+    "name": "Storflam® ZS",
+    "slug": "storflam-zs",
+    "description": "Storflam® ZS is recommend it for higher temperature applications i.e. for processing above 200°C. The product is used in a number of Plastic, Rubber and Paint applications and it can completely replace Antimony Trioxide in formulations. Zinc Stannate ZS is also capable of improving smoke performance in both halogen and halogen free systems. Addition levels for this product are typically in the range of 2 % to 7 %.",
+    "company_name": "Specialty Chemicals Lardello",
+    "company_slug": "specialty-chemicals-lardello",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708687710/production/Brand/24867/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607403/production/CategoryImage/516/category_image/ElectricalElectronics_01.jpg",
+    "properties": {
+        "Applications": [
+            "EIFS & Insulation",
+            "Equipment & Parts",
+            "Belts & Conveyers",
+            "Jacketing & Insulation",
+            "Exterior Insulation & Finishing Systems (EIFS)",
+            "Building Envelope",
+            "Wire & Cable",
+            "Chemical & Industrial Manufacturing",
+            "Building Envelope & Roofing"
+        ],
+        "Product Families": [
+            "Flame Retardants",
+            "Polymer Additives"
+        ],
+        "Chemical Family": [
+            "Zinc Stannates (ZS)"
+        ],
+        "End Uses": [
+            "Conveyors",
+            "Cables",
+            "Belts/Belt Repair"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Zinc Stannates (ZS)"
+        ],
+        "Functions": [
+            "Flame Retardant",
+            "Smoke Suppressant"
+        ],
+        "Compatible Polymers & Resins": [
+            "Polyvinyl Chloride (PVC)"
+        ],
+        "End Uses": [
+            "Conveyors",
+            "Cables",
+            "Belts/Belt Repair"
+        ]
+    }
+}

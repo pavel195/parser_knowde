@@ -1,0 +1,42 @@
+{
+    "id": 399111,
+    "brand": "deltagreen",
+    "name": "DeltaGreen® Glass Cleaner DG-100",
+    "slug": "deltagreen-glass-cleaner-dg-100",
+    "description": "DeltaGreen® Glass Cleaner DG-100 is a concentrated Glass and multi-surface cleaner, a fast-drying, non-streaking glass cleaner formulated to effectively cut through dirt, dust, fingerprints, water spots, and haze deposits. It provides Streak-free glass cleaning on non-porous surfaces as well as stainless steel, chrome, mirrors, plastic, enamel, ceramic tile and porcelain.",
+    "company_name": "DeltaGreen",
+    "company_slug": "deltagreen",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292054/production/Company/50822/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515647/production/CategoryImage/1055/category_image/HII_07.jpg",
+    "properties": {
+        "Applications": [
+            "Home Care",
+            "Surface Care"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Commercial Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner",
+            "Multipurpose Cleaners"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Tile",
+            "Metal",
+            "Steel",
+            "Stainless Steel",
+            "Glass",
+            "Plastics"
+        ],
+        "Certifications & Compliance": [
+            "SARA 311/312",
+            "SARA 313"
+        ],
+        "Features": [
+            "Fast Drying"
+        ]
+    }
+}

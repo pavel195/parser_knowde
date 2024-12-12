@@ -1,0 +1,43 @@
+{
+    "id": 402271,
+    "brand": "virus",
+    "name": "Virus® HYDRA WHITE 120 SOFT",
+    "slug": "virus-hydra-white-120-soft",
+    "description": "Virus® HYDRA WHITE 120 SOFT is the new extra-soft version of Hydra White 120, suitable to achieve untouchable prints on cotton garments.",
+    "company_name": "Virus",
+    "company_slug": "virus",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680110733/production/Brand/30679/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Textiles & Nonwovens",
+            "Leather & Textiles",
+            "Textile Coatings & Inks",
+            "Textile Manufacturing"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Other Paints & Coatings"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Waterborne Ink",
+            "Screen Printing Ink"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Cotton"
+        ],
+        "Features": [
+            "Cost Effective",
+            "Low Vent Bleed",
+            "Fast Curing",
+            "Strong Opacity",
+            "Low Energy Consumption",
+            "Soft"
+        ],
+        "Application Method": [
+            "Screen Coating"
+        ]
+    }
+}

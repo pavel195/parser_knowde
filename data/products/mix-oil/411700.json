@@ -1,0 +1,35 @@
+{
+    "id": 411700,
+    "brand": "mix-oil",
+    "name": "CoxxOil™ (Control coccidiosis)",
+    "slug": "coxxoil-control-coccidiosis",
+    "description": "CoxxOil™ (control coccidiosis) is a unique blend of natural essential oils designed to prevent and break down coccidia life cycle.",
+    "company_name": "A.W.P. srl",
+    "company_slug": "a-w-p-srl",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686132126/production/Brand/32098/logo/image",
+    "banner_url": "https://static.knowde.com/card-banners/knowde-card-for-raw-materials-8.jpg",
+    "properties": {
+        "Applications": [
+            "Animal Health & Nutrition",
+            "Birds & Poultry"
+        ],
+        "Product Families": [
+            "Nutritional Ingredients",
+            "Fats & Oils"
+        ]
+    },
+    "summary": {
+        "Features": [
+            "Antioxidant Effect"
+        ],
+        "Labeling Claims": [
+            "Naturally Derived",
+            "Natural"
+        ],
+        "Certifications & Compliance": [
+            "ISO 22000",
+            "ISO 9001",
+            "FAMI-QS"
+        ]
+    }
+}

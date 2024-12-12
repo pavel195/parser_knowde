@@ -1,0 +1,49 @@
+{
+    "id": 279818,
+    "brand": "nycast",
+    "name": "NYCAST® NYLOIL®MDX Blue",
+    "slug": "nycast-nyloil-mdx-blue",
+    "description": "Nycast® Nyloil®MDX Blue offers three grades of self-lubricating Nylon bearing material tailored to meet your specific application. A cast nylon with built-in oil lubrication, NYLOIL provides superior machinability, performance, and durability compared to other plastic and traditional bearing materials. Three grades of NYLOIL are available to fit the most demanding applications: original green NYLOIL for most bearing applications; food-grade, Natural NYLOIL-FG for direct contact with food, and MoS2 filledNYLOIL-MDX with slightly higher compressive load capabilities than original NYLOIL. The incorporation of an oil lubricant package into the nylon matrix provides significant advantages over other bearing materials: NYLOIL-MDX is formulated with Molybdenum Disulfide filler, which promotes higher crystallinity in the cast polymer, in addition to the oil lubricant package. This yields a bearing material with more consistent intermolecular structure and generally a narrower distribution within the range of physical property values, while retaining the advanced friction properties of unfilled NYLOIL.",
+    "company_name": "Cast Nylons",
+    "company_slug": "cast-nylons",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708530507/production/Company/20788/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608779/production/CategoryImage/578/category_image/AutomotiveTransportation_06.jpg",
+    "properties": {
+        "Applications": [
+            "Marine",
+            "Other Industrial Applications",
+            "Other Parts & Components",
+            "Structural Components",
+            "Other Automotive Applications",
+            "Automotive",
+            "Transportation",
+            "Building Materials",
+            "Parts & Components",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Polyamides",
+            "Engineering & Specialty Polymers"
+        ],
+        "Chemical Family": [
+            "Polyamides"
+        ],
+        "Polymer Name": [
+            "Polyamide (unspecified)"
+        ],
+        "End Uses": [
+            "Marine Applications"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyamide (unspecified)"
+        ],
+        "Fillers Included": [
+            "Molybdenum Disulfide"
+        ],
+        "Flexural Modulus": [
+            "2930.26 - 3275.0 MPa"
+        ]
+    }
+}

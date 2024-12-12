@@ -1,0 +1,68 @@
+{
+    "id": 329972,
+    "brand": "rugoppa",
+    "name": "SPINOPC® P16-061",
+    "slug": "spinopc-p16-061",
+    "description": "SPINOPC® P16-061 is a PC %20 GLASS FIBER BLACK for injection applications.",
+    "company_name": "Politem Plastik",
+    "company_slug": "politem-plastik",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691740756/production/Brand/23862/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608769/production/CategoryImage/577/category_image/AutomotiveTransportation_05.jpg",
+    "properties": {
+        "Applications": [
+            "Glazing & Window Elements",
+            "Jacketing & Insulation",
+            "Switches & Relays",
+            "Connectors",
+            "Other Agricultural Films",
+            "Textile Manufacturing",
+            "Other Textile Applications",
+            "Housings & Enclosures",
+            "Consumer Electronics",
+            "Housewares",
+            "Furniture",
+            "Appliances & Electronics",
+            "Structural Components",
+            "Interior",
+            "Exterior & Body",
+            "Other Agriculture & Feed Applications",
+            "Agricultural Films",
+            "Building Materials",
+            "Parts & Components",
+            "Wire & Cable",
+            "Textiles & Nonwovens",
+            "Building Envelope & Roofing",
+            "Leather & Textiles",
+            "Devices & Assemblies",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Polycarbonates",
+            "Engineering & Specialty Polymers"
+        ],
+        "Chemical Family": [
+            "Polycarbonate (PC)"
+        ],
+        "Polymer Name": [
+            "Polycarbonate (PC)"
+        ],
+        "End Uses": [
+            "Window Profiles",
+            "Switches",
+            "Connectors",
+            "Cable Jacketing",
+            "Housewares",
+            "Furniture",
+            "Electrical/Electronic Applications",
+            "Construction Applications",
+            "Automotive Interior Parts",
+            "Automotive Exterior Parts",
+            "Agricultural Applications"
+        ]
+    },
+    "summary": {
+        "Flexural Modulus": [
+            "5500.0 - 5500.0 MPa"
+        ]
+    }
+}

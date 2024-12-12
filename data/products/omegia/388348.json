@@ -1,0 +1,62 @@
+{
+    "id": 388348,
+    "brand": "omegia",
+    "name": "Trans-Resveratrol™",
+    "slug": "trans-resveratrol",
+    "description": "Trans-Resveratrol™ is derived naturally from the Japanese Knotweed plant and has much higher bioavailability than that of chemically derived trans resveratrol. Unlike grapes, Knotweed grows in the wild and contains a higher concentration of trans-resveratrol; grape resveratrol is only available in purities of up to 5%-8%. This “natural fountain of youth” contains anti-aging and anti-cancer antioxidants*. It is also excellent for the cardiovascular system and helps improve protection against neurodegenerative diseases like Alzheimer’s.",
+    "company_name": "Puredia",
+    "company_slug": "puredia",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708688130/production/Brand/29240/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515740/production/CategoryImage/1062/category_image/PersonalCare_04.jpg",
+    "properties": {
+        "Applications": [
+            "Skin Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Skin Actives",
+            "Cosmetic Actives"
+        ],
+        "End Uses": [
+            "Anti-Aging Products"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Anti-Aging Agent"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Vegetable Origin",
+            "Non-Animal Origin",
+            "Plant Origin"
+        ],
+        "Labeling Claims": [
+            "Naturally Derived",
+            "Kosher",
+            "Halal",
+            "Organic",
+            "Non-GMO"
+        ],
+        "Benefit Claims": [
+            "Neuroprotection",
+            "Anti-Cancer Properties",
+            "Antioxidant Properties",
+            "Cardioprotective",
+            "Anti-Aging"
+        ],
+        "Certifications & Compliance": [
+            "Halal",
+            "ISO 22000",
+            "BRC Certified",
+            "ISO 14001",
+            "NPA Certified",
+            "Hazard Analysis Critical Control Point (HACCP)",
+            "Organic Certified",
+            "USDA Certified",
+            "Kosher",
+            "NSF Approved",
+            "ISO 9001"
+        ]
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "id": 333877,
+    "brand": "rescarb",
+    "name": "RESBLEND 2 (PA + ABS)",
+    "slug": "resblend-2-pa-abs",
+    "description": "RESBLEND 2 (PA + ABS) is an acrylonitrile butadiene styrene and polyamide (ABS + PA) grade by Polimarky. RESBLEND PA/ABS complies with ISO 9001:2008, ISO 14001:2004 and ISO/TS 16949:2009.",
+    "company_name": "Polimarky",
+    "company_slug": "polimarky",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691739795/production/Brand/24601/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608224/production/CategoryImage/551/category_image/AgricultureFeed_07.jpg",
+    "properties": {
+        "Applications": [
+            "Equipment & Parts",
+            "Pipes & Tanks",
+            "Other Industrial Applications",
+            "Other Wire & Cable Applications",
+            "Furniture",
+            "Pipes & Plumbing",
+            "Automotive Lighting",
+            "Pipes & Hoses",
+            "Agricultural Films",
+            "Building Materials",
+            "Wire & Cable",
+            "Chemical & Industrial Manufacturing",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Blends & Alloys",
+            "Engineering & Specialty Polymers"
+        ],
+        "Polymer Name": [
+            "PA/ABS Alloy"
+        ],
+        "End Uses": [
+            "Pipes",
+            "Headlight Cover",
+            "Furniture",
+            "Fittings",
+            "Cables"
+        ]
+    },
+    "summary": {
+        "Density": [
+            "1100.0 - 1100.0 kg/m³"
+        ]
+    }
+}

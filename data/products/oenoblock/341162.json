@@ -1,0 +1,34 @@
+{
+    "id": 341162,
+    "brand": "oenoblock",
+    "name": "OENOCHIPS® Exception",
+    "slug": "seguin-moreau-napa-oenochips-exception",
+    "description": "OENOCHIPS® Exception undergoes a very strict selection process, chosen from the best of the french oak “Futaies”. This unique analytical selection process enables a taste result never achieved before and a perfect reproducibility. It is the fruit of decades of research led by Seguin Moreau.",
+    "company_name": "Seguin Moreau NAPA",
+    "company_slug": "seguin-moreau-napa",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686104173/production/Brand/25190/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606934/production/CategoryImage/504/category_image/FoodNutrition_05.jpg",
+    "properties": {
+        "Applications": [
+            "Beverage",
+            "Liquor & Spirits",
+            "Oenology"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Plant & Herb Products & Extracts"
+        ],
+        "End Uses": [
+            "Alcoholic Beverages",
+            "Wine"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Oak Wood Chips Extract"
+        ],
+        "Features": [
+            "Consistent Quality"
+        ]
+    }
+}

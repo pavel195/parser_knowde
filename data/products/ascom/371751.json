@@ -1,0 +1,54 @@
+{
+    "id": 371751,
+    "brand": "ascom",
+    "name": "ASCOM 60",
+    "slug": "ascom-60",
+    "description": "ASCOM 60 limestone powder is the highest whiteness and high purity with low iron, silica and magnesium levels. Limestone is derived from enormous reserves.",
+    "company_name": "ACCM",
+    "company_slug": "accm",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708696422/production/Brand/27741/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608410/production/CategoryImage/557/category_image/BuildingConstruction_01.jpg",
+    "properties": {
+        "Applications": [
+            "Architectural Coatings",
+            "Other Printing Applications",
+            "Metal Coatings",
+            "Other Adhesives & Sealants Applications",
+            "Building Envelope",
+            "Building & Construction",
+            "Industrial Coatings",
+            "Printing & Inks",
+            "Building Envelope & Roofing"
+        ],
+        "Product Families": [
+            "Fillers & Extenders",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Calcium Salts",
+            "Carbonates"
+        ],
+        "End Uses": [
+            "Latex",
+            "Waterborne Coating",
+            "Top Coat"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Filler"
+        ],
+        "Chemical Family": [
+            "Carbonates",
+            "Calcium Salts"
+        ],
+        "End Uses": [
+            "Top Coat",
+            "Waterborne Coating",
+            "Latex"
+        ],
+        "Particle Size": [
+            "1.6 - 1.8 microns"
+        ]
+    }
+}

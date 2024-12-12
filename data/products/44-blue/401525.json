@@ -1,0 +1,41 @@
+{
+    "id": 401525,
+    "brand": "44-blue",
+    "name": "62 Red™",
+    "slug": "62-red",
+    "description": "62 RED™ is a high strength thixotropic threadlocker for all types of metal fasteners. It works by unitizing the fastener assembly, effectively sealing the thread path against fluid leaks and corrosion. The result is disassembly at a known unchanging torque, anytime in the future, regardless of the environment.",
+    "company_name": "Adhesive R&D",
+    "company_slug": "adhesive-r-d",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520038/production/Brand/30712/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608939/production/CategoryImage/585/category_image/AdhesivesSealants_02.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Other Building & Construction Applications",
+            "Pipes & Plumbing"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Anaerobic Adhesives"
+        ],
+        "Chemical Family": [
+            "Methacrylates"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Anaerobic Adhesive"
+        ],
+        "Application Area": [
+            "Thread Sealing"
+        ],
+        "Chemical Family": [
+            "Methacrylates"
+        ],
+        "Features": [
+            "Thixotropic",
+            "Excellent Seal Properties",
+            "High Strength"
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "id": 371052,
+    "brand": "opacity-pigment",
+    "name": "Opacity Pigment™ FP-610",
+    "slug": "opacity-pigment-fp-610",
+    "description": "Opacity Pigment™ FP-610 is unique opacity pigment powder for use in printing ink applications. Opacity Pigment™ FP-610 is designed to give optimal optical properties enabling partial replacement of TiO2 in printing inks..",
+    "company_name": "FP-Pigments",
+    "company_slug": "fp-pigments",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708527064/production/Brand/27663/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608477/production/CategoryImage/562/category_image/BuildingConstruction_06.jpg",
+    "properties": {
+        "Applications": [
+            "Offset & Lithographic Printing",
+            "Inkjet Printing",
+            "Gravure Printing",
+            "Flexography",
+            "Printing & Inks"
+        ],
+        "Product Families": [
+            "Functional Pigments",
+            "Pigments & Colorants"
+        ],
+        "End Uses": [
+            "Offset Ink",
+            "Waterborne Ink",
+            "Inkjet Ink",
+            "Flexography Ink",
+            "Gravure Ink"
+        ]
+    },
+    "summary": {
+        "End Uses": [
+            "Flexography Ink",
+            "Inkjet Ink",
+            "Gravure Ink",
+            "Offset Ink",
+            "Waterborne Ink"
+        ],
+        "Features": [
+            "Improves Coating Hiding Power ",
+            "High Opacity"
+        ]
+    }
+}

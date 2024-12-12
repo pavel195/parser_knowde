@@ -1,0 +1,47 @@
+{
+    "id": 408311,
+    "brand": "cocoasupply",
+    "name": "Cocoa Supply Organic Natural 20-22 Cacao Powder",
+    "slug": "cocoa-supply-organic-natural-20-22-cacao-powder",
+    "description": "Organic Natural 20-22 Cacao Powder are made of cacao beans that are grown organically in Ecuador. This high-fat powder contains no alkali, making it less soluble. Ideal for cakes, cookies, puddings, shakes. Enjoy the taste of organic natural 100% cacao!",
+    "company_name": "Cocoa Supply",
+    "company_slug": "cocoa-supply",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686109549/production/Company/53575/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606945/production/CategoryImage/505/category_image/FoodNutrition_06.jpg",
+    "properties": {
+        "Applications": [
+            "Food",
+            "Nutrition & Well Being",
+            "Bakery",
+            "Desserts & Fruit Preparations",
+            "Functional Foods"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Cocoa & Chocolate"
+        ],
+        "End Uses": [
+            "Cookies",
+            "Puddings",
+            "Cakes",
+            "Powder Shakes"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Cocoa Powder"
+        ],
+        "Labeling Claims": [
+            "Dairy-free",
+            "Vegan",
+            "Kosher",
+            "Gluten-free",
+            "Allergen-free",
+            "Organic"
+        ],
+        "Certifications & Compliance": [
+            "Vegan",
+            "Organic Certified"
+        ]
+    }
+}

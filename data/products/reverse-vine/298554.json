@@ -1,0 +1,30 @@
+{
+    "id": 298554,
+    "brand": "reverse-vine",
+    "name": "Telos 95®",
+    "slug": "telos-95",
+    "description": "Telos95® is a nutritional ingredient that supplies powerful necessary elements to help the maintenance of healthy telomeres. The rising number of baby boomers will be more than 75 million in the 21st century. The demand for natural ingredients for prevention will surpass the demand for treatment. A daily supplement of Telos95® is the natural answer.",
+    "company_name": "Certified Nutraceuticals",
+    "company_slug": "certified-nutraceuticals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708517002/production/Company/23658/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606984/production/CategoryImage/507/category_image/FoodNutrition_08.jpg",
+    "properties": {
+        "Applications": [
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ]
+    },
+    "summary": {
+        "Benefit Claims (Health)": [
+            "Anti-Inflammatory",
+            "Anti-Aging",
+            "Cardioprotective"
+        ]
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "id": 371827,
+    "brand": "vf-bioscience-sas-etas",
+    "name": "VF Bioscience SAS Lactobacillus delbrueckii VFL050",
+    "slug": "vf-bioscience-sas-lactobacillus-delbrueckii-vfl050",
+    "description": "VF Bioscience SAS Lactobacillus delbrueckii VFL050 presents superior growth performance and acidification capacity, and is therefore suitable for the production of fermented dairy products, especially yogurts. Furthermore, hydrolysis of milk casein by this unique strain leads to the generation of bioactive casein phosphopeptides that will facilitate the solubilisation and subsequent absorption of calcium.",
+    "company_name": "VF Bioscience SAS",
+    "company_slug": "vf-bioscience-sas",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672667/production/Company/43700/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606984/production/CategoryImage/507/category_image/FoodNutrition_08.jpg",
+    "properties": {
+        "Applications": [
+            "Dairy",
+            "Sports Nutrition",
+            "Functional Foods",
+            "Other Nutrition Applications",
+            "Nutraceuticals & Supplements",
+            "Food",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Prebiotics, Probiotics & Postbiotics",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Yogurt"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Lactobacillus Delbrueckii"
+        ],
+        "Functions": [
+            "Probiotic"
+        ],
+        "Features": [
+            "Enhanced Calcium Absorption"
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": 344103,
+    "brand": "big-gain",
+    "name": "Elite 25% Balancer",
+    "slug": "elite-25-balancer",
+    "description": "Elite 25% Balancer is a lower protein supplement with the appropriate amount of urea to optimize protein output from rumen bacteria. This supplement complements high-protein forages, and many of the byproducts that are very common today, especially well.",
+    "company_name": "Big Gain Wisconsin",
+    "company_slug": "big-gain-wisconsin",
+    "logo_url": null,
+    "banner_url": "https://media.knowde.com/image/upload/v1625608238/production/CategoryImage/552/category_image/AgricultureFeed_08.jpg",
+    "properties": {
+        "Applications": [
+            "Ruminants",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Feed Supplements",
+            "Plant Proteins",
+            "Amino Acids & Proteins",
+            "Nutrition & Fortification",
+            "Nutritional Ingredients"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Urea"
+        ],
+        "Functions": [
+            "Supplement"
+        ],
+        "Animal Species": [
+            "Calves"
+        ]
+    }
+}

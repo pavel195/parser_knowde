@@ -1,0 +1,93 @@
+{
+    "id": 91292,
+    "brand": "inca",
+    "name": "ANDEAN Q Ultra Organic",
+    "slug": "andean-q-ultra-organic",
+    "description": "ANDEAN Q ULTRA ORGANIC is the non-preserved purified natural extract of the Chilean Soap Bark Tree (Quillaja saponaria Bark Extract or Quillaja saponaria Wood Extract) made under organic regulation.",
+    "company_name": "Desert King International",
+    "company_slug": "desert-king-international",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708700914/production/Product/91292/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708700914/production/Product/91292/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Bath & Shower",
+            "Skin Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Skin Actives",
+            "Blends & Other Cleansers",
+            "Cosmetic Actives",
+            "Surfactants & Cleansers"
+        ],
+        "Chemical Family": [
+            "Plant Extracts"
+        ],
+        "INCI Name": [
+            "Quillaja Saponaria Bark Extract"
+        ],
+        "End Uses": [
+            "Body Wash",
+            "Body Lotion",
+            "Acne Treatments",
+            "Make Up Remover",
+            "Facial Cleanser",
+            "Toothpaste",
+            "Mouthwash",
+            "Shampoos & Rinses",
+            "Hair Conditioner",
+            "Anti-Dandruff Products",
+            "Foundation",
+            "Baby Bubble Bath",
+            "Baby Wipes"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Quillaja Saponaria Bark Extract"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Plant Origin"
+        ],
+        "Functions": [
+            "Anti-Acne Agent",
+            "Surfactant",
+            "Cleansing Agent",
+            "Foaming Agent",
+            "Soothing Agent",
+            "Dispersant",
+            "Anti-Microbial Agent",
+            "Sebum Regulator",
+            "Anti-Irritant",
+            "Co-Emulsifier"
+        ],
+        "Labeling Claims": [
+            "Credo Clean Standard",
+            "Clean at Sephora",
+            "Naturally Derived",
+            "Allergen-free",
+            "Natural",
+            "Vegan",
+            "Organic",
+            "Ulta Beauty's Conscious Beauty"
+        ],
+        "Certifications & Compliance": [
+            "JECFA (FAO/WHO)"
+        ],
+        "Benefit Claims": [
+            "Dispersing",
+            "Foaming",
+            "Soothing",
+            "Anti-Irritant",
+            "Cleansing",
+            "Emulsifying",
+            "Sebum Control",
+            "Anti-Acne",
+            "Antimicrobial"
+        ],
+        "Synonyms": [
+            "Quillaja saponaria extract"
+        ]
+    }
+}

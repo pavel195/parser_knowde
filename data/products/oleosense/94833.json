@@ -1,0 +1,57 @@
+{
+    "id": 94833,
+    "brand": "oleosense",
+    "name": "Oléoactif® Bio Myrte-Olivier",
+    "slug": "oleoactif-bio-myrte-olivier",
+    "description": "Oléoactif® Bio Myrte-Olivier combines two naturally concentrated sources of phenolic acids: myrtle and olive leaves, and thus provides the skin with a pool of synergistic molecules capable of trapping Radical Oxygen Species (ROS). Acts on photo-induced oxidative stress and scavenges free radicals.",
+    "company_name": "Oleos",
+    "company_slug": "oleos",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708691008/production/Company/1349/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708691008/production/Company/1349/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Skin Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Skin Actives",
+            "Cosmetic Actives"
+        ],
+        "INCI Name": [
+            "Olea Europaea (Olive) Leaf Extract",
+            "Olea Europaea (Olive) Fruit Oil",
+            "Myrtus Communis Leaf Extract"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Olea Europaea (Olive) Leaf Extract",
+            "Olea Europaea (Olive) Fruit Oil",
+            "Myrtus Communis Leaf Extract"
+        ],
+        "Functions": [
+            "Anti-Aging Agent"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin"
+        ],
+        "Labeling Claims": [
+            "Naturally Derived",
+            "Natural",
+            "Organic",
+            "Ulta Beauty's Conscious Beauty"
+        ],
+        "Benefit Claims": [
+            "Anti-Aging",
+            "Anti-Allergic",
+            "Anti-Irritant"
+        ],
+        "Certifications & Compliance": [
+            "Halal",
+            "Organic Certified",
+            "Kosher",
+            "EFISC",
+            "ECOCERT"
+        ]
+    }
+}

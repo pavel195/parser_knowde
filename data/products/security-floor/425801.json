@@ -1,0 +1,63 @@
+{
+    "id": 425801,
+    "brand": "security-floor",
+    "name": "DeVere Chemical WOW50 An All Purpose Cleaning Product",
+    "slug": "devere-chemical-wow50-an-all-purpose-cleaning-product",
+    "description": "DeVere Chemical WOW50 An All Purpose Cleaning Product is a less aggressive version of DeVere’s best-selling all-purpose-cleaner, WOW. This product is a fast-acting, strong liquid detergent and degreaser for all cleaning jobs. WOW50 is safe to use on all types of floors and is ideal for floor scrubbers, wet vacuums, or hand mopping. It easily removes black heel marks too.",
+    "company_name": "DeVere Chemical",
+    "company_slug": "devere-chemical",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292714/production/Company/12215/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1664292714/production/Company/12215/card_banner/image.png",
+    "properties": {
+        "Applications": [
+            "Auto Care",
+            "Carpet & Upholstery",
+            "Laundry & Fabric Care",
+            "Surface Care",
+            "Commercial Laundry",
+            "Institutional & Catering",
+            "Vehicle & Machinery",
+            "Institutional & Industrial Care",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Commercial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Detergents",
+            "Degreasers",
+            "Multipurpose Cleaners"
+        ],
+        "Application Areas": [
+            "Asphalt Tile",
+            "Laundry",
+            "Equipment",
+            "Wall",
+            "Floor",
+            "Refrigerators",
+            "Automotive Interior Trim",
+            "Upholstery",
+            "Windshields",
+            "Quarry Tiles",
+            "Woodwork",
+            "Furniture"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Vinyl",
+            "Cork",
+            "Asphalt",
+            "Linoleum",
+            "Ceramic",
+            "Wood",
+            "Concrete",
+            "Styrene Butadiene Rubber (SBR)",
+            "Vinyl Asbestos"
+        ],
+        "Features": [
+            "Degreasing"
+        ]
+    }
+}

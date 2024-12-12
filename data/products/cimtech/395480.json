@@ -1,0 +1,49 @@
+{
+    "id": 395480,
+    "brand": "cimtech",
+    "name": "CIMPERIAL® 1311",
+    "slug": "cimperial-1311",
+    "description": "CIMPERIAL® 1311 is a heavy-duty, soluble metalworking fluid that combines the dependability of traditional soluble fluids with industry-leading technology to deliver market-leading performance. CIMPERIAL®1311 is designed for all machining, sawing, and grinding operations on ferrous and most non-ferrous metals, including Cast/Ductile Iron.",
+    "company_name": "Cimcool Fluid Technology",
+    "company_slug": "cimcool-fluid-technology",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680108874/production/Brand/29598/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical & Industrial Manufacturing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Metalworking Fluids",
+            "Fluids & Lubricants"
+        ]
+    },
+    "summary": {
+        "Application Area": [
+            "Reaming",
+            "Sawing Operations",
+            "Boring Applications",
+            "Turning Operations",
+            "Machining Operations",
+            "Broaching Applications",
+            "Drilling Applications",
+            "Milling Operations",
+            "Tapping Operations"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Aluminum",
+            "Steel",
+            "Metal",
+            "Iron"
+        ],
+        "Features": [
+            "Corrosion Resistant",
+            "Highly Versatile",
+            "Extreme Pressure Performance",
+            "Low Foaming"
+        ],
+        "Metalworking Fluid Type": [
+            "Soluble Oil"
+        ]
+    }
+}

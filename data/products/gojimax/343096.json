@@ -1,0 +1,43 @@
+{
+    "id": 343096,
+    "brand": "gojimax",
+    "name": "GojiMax™",
+    "slug": "gojimax",
+    "description": "GojiMax™ is used as Anti-aging, Immunological, Anti-diabetic, Anti-fatigue.",
+    "company_name": "Avesthagen",
+    "company_slug": "avesthagen",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708691788/production/Brand/25381/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607009/production/CategoryImage/509/category_image/FoodNutrition_10.jpg",
+    "properties": {
+        "Applications": [
+            "Functional Foods",
+            "Other Nutrition Applications",
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Phytochemicals",
+            "Phytochemicals & Plant Extracts",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "Chemical Family": [
+            "Phytochemicals"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Goji Berry Extract"
+        ],
+        "Functions": [
+            "Supplement",
+            "Dietary Supplement"
+        ],
+        "Labeling Claims": [
+            "Non-Toxic",
+            "Plant-Based"
+        ]
+    }
+}

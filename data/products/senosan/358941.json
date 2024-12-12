@@ -1,0 +1,48 @@
+{
+    "id": 358941,
+    "brand": "senosan",
+    "name": "Senosan® CA60FR-3U SUPERMATT",
+    "slug": "senosan-ca60fr-3u-supermatt",
+    "description": "Senosan® CA60FR-3U SUPERMATT has a multi-layer composite with a layer of ABS/PC-Compound with flame retardant properties (halogen free) and a top layer of ABS. The top layer has a supermatt surface and is UV stabilized.",
+    "company_name": "Senoplast Klepsch & Co. GmbH",
+    "company_slug": "senoplast-klepsch-co-gmbh",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686148255/production/Brand/26773/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608760/production/CategoryImage/576/category_image/AutomotiveTransportation_04.jpg",
+    "properties": {
+        "Applications": [
+            "Rail & Mass Transit",
+            "Transportation"
+        ],
+        "Product Families": [
+            "Parts & Shapes"
+        ],
+        "Chemical Family": [
+            "Polycarbonate (PC)",
+            "Acrylonitrile Butadiene Styrene (ABS)"
+        ],
+        "Polymer Name": [
+            "Polycarbonate (PC)",
+            "Acrylonitrile Butadiene Styrene (ABS)"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polycarbonate (PC)",
+            "Acrylonitrile Butadiene Styrene (ABS)"
+        ],
+        "Physical Form": [
+            "Sheets"
+        ],
+        "Density": [
+            "1290.0 - 1290.0 kg/m³"
+        ],
+        "Features": [
+            "Matte Finish",
+            "Good Thermal Stability",
+            "UV Stabilized",
+            "Flame Retardant",
+            "Chemical Resistant",
+            "Good Mechanical Properties"
+        ]
+    }
+}

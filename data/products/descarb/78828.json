@@ -1,0 +1,56 @@
+{
+    "id": 78828,
+    "brand": "descarb",
+    "name": "Uniox Quat C22",
+    "slug": "uniox-quat-c22",
+    "description": "Self-emulsifying cationic wax offers conditioning properties to the hair. The behenic chain improves combability, reduces static and leaves hair tangle-free. Adds conditioning and shine to hair.",
+    "company_name": "Chemyunion",
+    "company_slug": "chemyunion",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708698248/production/Company/1183/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708698248/production/Company/1183/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Hair Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Fats, Butters & Waxes",
+            "Conditioners & Emollients",
+            "Functionals"
+        ],
+        "Chemical Family": [
+            "Waxes"
+        ],
+        "INCI Name": [
+            "Cetearyl Alcohol",
+            "Behentrimonium Chloride"
+        ],
+        "End Uses": [
+            "Hair Masks",
+            "Hair Conditioner"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Behentrimonium Chloride",
+            "Cetearyl Alcohol"
+        ],
+        "Functions": [
+            "Conditioner"
+        ],
+        "Labeling Claims": [
+            "Credo Clean Standard",
+            "Clean at Sephora"
+        ],
+        "Benefit Claims": [
+            "Self-Emulsifying",
+            "Static Reduction",
+            "Good Dry Combing",
+            "Good Wet Combing",
+            "Frizz Control",
+            "Detangling",
+            "Hair Conditioning",
+            "Shine Enhancing"
+        ]
+    }
+}

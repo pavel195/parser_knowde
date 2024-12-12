@@ -1,0 +1,53 @@
+{
+    "id": 347623,
+    "brand": "ultraply",
+    "name": "UltraPly™ TPO Platinum Membrane",
+    "slug": "ultraply-tpo-platinum-membrane",
+    "description": "UltraPly™ TPO Platinum Membrane is a flexible, 0.080\" (2.03 mm) thick, Thermoplastic Polyolefin (TPO) roofing membrane, reinforced with polyester, weft-inserted scrim. This heat weldable TPO Platinum membrane is available in 0.080\" (2.0 mm) thickness and widths up to 12'4\" (3.8 m). Firestone Platinum TPO is available in white, tan and gray. This reflective membrane is suitable for a variety of low-slope applications.",
+    "company_name": "Firestone Building Products",
+    "company_slug": "firestone-building-products",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686149789/production/Brand/25938/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608454/production/CategoryImage/560/category_image/BuildingConstruction_04.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Roofing",
+            "Roofing Sheets",
+            "Waterproofing Membranes",
+            "Building Envelope & Roofing",
+            "Waterproofing & Weatherproofing",
+            "Insulation",
+            "Other Building Materials",
+            "EIFS & Insulation",
+            "Building Envelope"
+        ],
+        "Product Families": [
+            "Parts & Shapes"
+        ],
+        "Chemical Family": [
+            "Polyolefins"
+        ],
+        "Polymer Name": [
+            "Thermoplastic Polyolefin (TPO)"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Thermoplastic Polyolefin (TPO)"
+        ],
+        "Physical Form": [
+            "Sheets"
+        ],
+        "Features": [
+            "Tear Resistance",
+            "Abrasion Resistant",
+            "Puncture Resistant",
+            "Durable"
+        ],
+        "Color": [
+            "Grey",
+            "White",
+            "Tan"
+        ]
+    }
+}

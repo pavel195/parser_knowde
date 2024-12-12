@@ -1,0 +1,30 @@
+{
+    "id": 428357,
+    "brand": "cowpow",
+    "name": "COWPOW Instant Full Cream Milk Powder Min 28% Milkfat",
+    "slug": "cowpow-instant-full-cream-milk-powder-min-28-milkfat",
+    "description": "COWPOW Instant Full Cream Milk Powder Min 28% Milkfat is a product resulting from dehydration of fresh milk obtained in complete, controlled and hygienic procedures from good and healthful cows.",
+    "company_name": "BPI A/S",
+    "company_slug": "bpi-a-s",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686635528/production/Brand/33982/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607026/production/CategoryImage/510/category_image/FoodNutrition_11.jpg",
+    "properties": {
+        "Applications": [
+            "Food",
+            "Other Food Applications"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Dairy Products"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Milk Powder, Full Fat"
+        ],
+        "Physical Form": [
+            "Solid",
+            "Powder"
+        ]
+    }
+}

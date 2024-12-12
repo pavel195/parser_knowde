@@ -1,0 +1,58 @@
+{
+    "id": 249273,
+    "brand": "suntheanine",
+    "name": "InoPhyte® Calcium Magnesium Phytate (Inositol Hexaphosphate/IP6)",
+    "slug": "inophyte-calcium-magnesium-phytate-inositol-hexaphosphate-ip6",
+    "description": "InoPhyte® Calcium Magnesium Phytate (Inositol Hexaphosphate/IP6) is a natural antioxidant. It is a sugar molecule with six attached phosphates and is made via a proprietary process from rice bran. Calcium Magnesium Phytate is one of the organophosphoric esters that occurs naturally in rice bran with an average of 9.5 - 10.5 % compared with other plant seeds that normally contain 0.6 - 3.6 %.",
+    "company_name": "NutriScience Innovations",
+    "company_slug": "nutriscience-innovations",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709127924/production/Brand/16436/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1709127924/production/Product/249273/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Oral",
+            "Energy Drinks",
+            "Functional Foods",
+            "Nutraceuticals & Supplements",
+            "Beverage",
+            "Nutrition & Well Being",
+            "Drug Delivery & Care Solutions"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Antioxidants",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements",
+            "Health & Well-Being"
+        ],
+        "End Uses": [
+            "Functional Beverages",
+            "Functional Foods",
+            "Dietary Supplements"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Inositol Hexaphosphate"
+        ],
+        "Functions": [
+            "Supplement",
+            "Dietary Supplement",
+            "Antioxidant"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Plant Origin"
+        ],
+        "Labeling Claims": [
+            "Naturally Derived",
+            "Natural",
+            "Plant-Based"
+        ],
+        "Certifications & Compliance": [
+            "FDA Compliant",
+            "Generally Recognized As Safe (GRAS)"
+        ]
+    }
+}

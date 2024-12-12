@@ -1,0 +1,42 @@
+{
+    "id": 334632,
+    "brand": "akest",
+    "name": "AKEST AD16R1",
+    "slug": "akest-ad16r1",
+    "description": "AKEST AD16R1 is a clear liquid that is highly miscible with a wide range of hydrophobic emollients. AKEST AD16R1 is ideal for use in skin care products, with unique velvety feel.",
+    "company_name": "Akott",
+    "company_slug": "akott",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708684433/production/Brand/24679/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608071/production/CategoryImage/544/category_image/HomePersonalCare_10.jpg",
+    "properties": {
+        "Product Families": [
+            "Sensory Modifiers",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Cetyl Dimethicone/Bis-Vinyldimethicone Crosspolymer",
+            "Polydecene",
+            "Caprylic/Capric Triglyceride"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Caprylic/Capric Triglyceride",
+            "Polydecene",
+            "Cetyl Dimethicone/Bis-Vinyldimethicone Crosspolymer"
+        ],
+        "Functions": [
+            "Softener"
+        ],
+        "Benefit Claims": [
+            "Texturizing",
+            "Cushioning Effect",
+            "Silky Feel",
+            "Emolliency",
+            "Soft Feel"
+        ],
+        "Labeling Claims": [
+            "Ulta Beauty's Conscious Beauty"
+        ]
+    }
+}

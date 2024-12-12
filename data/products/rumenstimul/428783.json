@@ -1,0 +1,43 @@
+{
+    "id": 428783,
+    "brand": "rumenstimul",
+    "name": "Vitalac Kalvion+",
+    "slug": "vitalac-kalvion",
+    "description": "Vitalac Kalvion+ is a feed supplement for calves, lambs and kids during the milk phase. It is composed of 100% natural raw materials. Kalvion+ is effective from the first feed. Non-medicinal (no antibiotics), Kalvion+ may be used starting from birth.",
+    "company_name": "Vitalac",
+    "company_slug": "vitalac",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708530213/production/Company/61348/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608224/production/CategoryImage/551/category_image/AgricultureFeed_07.jpg",
+    "properties": {
+        "Applications": [
+            "Ruminants",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Feed Supplements",
+            "Nutritional Ingredients"
+        ]
+    },
+    "summary": {
+        "Animal Species": [
+            "Calves"
+        ],
+        "Features": [
+            "Prevents Dehydration",
+            "High Energy Content",
+            "Promotes Digestive Health",
+            "Mineral Rich",
+            "Vitamin Rich"
+        ],
+        "Labeling Claims": [
+            "Antibiotics-free",
+            "Natural",
+            "Organic",
+            "GMO-free"
+        ],
+        "Certifications & Compliance": [
+            "ECOCERT",
+            "Organic Certified"
+        ]
+    }
+}

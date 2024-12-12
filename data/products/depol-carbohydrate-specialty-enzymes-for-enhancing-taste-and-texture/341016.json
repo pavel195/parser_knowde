@@ -1,0 +1,53 @@
+{
+    "id": 341016,
+    "brand": "depol-carbohydrate-specialty-enzymes-for-enhancing-taste-and-texture",
+    "name": "Lipomod® 833L2",
+    "slug": "lipomod-833l2",
+    "description": "Lipomod® 833L2 modifies Phospholipids in egg yolk (lecithin) to produce lyso-lecithin with superior emulsifying properties and improved heat stability, especially useful in mayonnaise manufacture.\r\n",
+    "company_name": "Biocatalysts Ltd",
+    "company_slug": "biocatalysts-ltd",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708695458/production/Brand/25173/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708695458/production/Product/341016/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Other Food Applications",
+            "Savory & Culinary",
+            "Convenience Foods",
+            "Food"
+        ],
+        "Product Families": [
+            "Enzymes & Starter Cultures",
+            "Functional Additives"
+        ],
+        "End Uses": [
+            "Mayonnaise",
+            "Liquid Egg Products",
+            "Frozen Egg Products",
+            "Dried Egg Products"
+        ]
+    },
+    "summary": {
+        "Ingredient Origin": [
+            "Fermentation"
+        ],
+        "Functions": [
+            "Enzyme"
+        ],
+        "Physical Form": [
+            "Liquid"
+        ],
+        "Labeling Claims": [
+            "Halal",
+            "GMO-free",
+            "Vegetarian",
+            "Non-GMO",
+            "Kosher"
+        ],
+        "End Uses": [
+            "Dried Egg Products",
+            "Frozen Egg Products",
+            "Mayonnaise",
+            "Liquid Egg Products"
+        ]
+    }
+}

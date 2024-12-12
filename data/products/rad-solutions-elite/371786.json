@@ -1,0 +1,59 @@
+{
+    "id": 371786,
+    "brand": "rad-solutions-elite",
+    "name": "Elite UVP6338",
+    "slug": "elite-uvp6338",
+    "description": "Elite UVP6338 is a flexible hybrid ester acrylate which is BPA-free and contains 30% TMP(EO)TA.",
+    "company_name": "Rad Solutions",
+    "company_slug": "rad-solutions",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686148775/production/Brand/27742/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Packaging Coatings",
+            "Printing & Inks",
+            "Overprint Varnishes",
+            "Leather & Textiles",
+            "Offset & Lithographic Printing",
+            "Screen Printing",
+            "Chemical & Industrial Manufacturing",
+            "Digital Printing",
+            "Flexography",
+            "Inkjet Printing",
+            "Additive Manufacturing",
+            "Textile Manufacturing"
+        ],
+        "Product Families": [
+            "Oligomers",
+            "Monomers & Intermediates"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ],
+        "End Uses": [
+            "Lithographic Ink",
+            "Offset Ink",
+            "Radiation Curable Coating",
+            "Screen Printing Ink",
+            "Flexography Ink",
+            "Inkjet Ink",
+            "Varnishes",
+            "Digital Ink"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ],
+        "End Uses": [
+            "Inkjet Ink",
+            "Radiation Curable Coating",
+            "Varnishes",
+            "Offset Ink",
+            "Digital Ink",
+            "Flexography Ink",
+            "Screen Printing Ink",
+            "Lithographic Ink"
+        ]
+    }
+}

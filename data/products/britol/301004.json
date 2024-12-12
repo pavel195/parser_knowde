@@ -1,0 +1,42 @@
+{
+    "id": 301004,
+    "brand": "britol",
+    "name": "BRITOL 909",
+    "slug": "britol-909",
+    "description": "BRITOL 909 used as Fast curing at low temperature, For screen &amp; wood, epoxy and Acid Catalyzed Finishes.",
+    "company_name": "Bright Associates (Bright Resin)",
+    "company_slug": "bright-associates-bright-resin",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112200/production/Company/24162/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609057/production/CategoryImage/591/category_image/PrintingPackaging_02.jpg",
+    "properties": {
+        "Applications": [
+            "Building & Construction",
+            "Printing & Inks",
+            "Leather & Textiles",
+            "Wood Coatings & Finishes",
+            "Screen Printing",
+            "Other Paints & Coatings Applications",
+            "Textile Manufacturing"
+        ],
+        "Product Families": [
+            "Other Resins & Binders",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Amino Resins",
+            "Urea & Urea Derivatives"
+        ],
+        "End Uses": [
+            "Epoxy Coating"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Amino Resins",
+            "Urea & Urea Derivatives"
+        ],
+        "End Uses": [
+            "Epoxy Coating"
+        ]
+    }
+}

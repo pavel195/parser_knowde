@@ -1,0 +1,61 @@
+{
+    "id": 416654,
+    "brand": "mortartec-cermaico",
+    "name": "A1 Primecoat™",
+    "slug": "a1-primecoat",
+    "description": "A1 Primecoat™ is a surface tolerant, two-component, multi-purpose primer (barrier coat). Formulated for high film build and long-term protection from salt/fresh water, as well as a wide variety of chemical exposures. Exceptional corrosion protection with advanced rust inhibitors. Excellent adhesion to tight rust. Fine adhesion to damp surfaces. Ideal for maintenance painting and fabrication shop applications. The high solids content ensures adequate protection of sharp edges, corners, and welds.",
+    "company_name": "Epoxytec",
+    "company_slug": "epoxytec",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680108864/production/Brand/32546/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608410/production/CategoryImage/557/category_image/BuildingConstruction_01.jpg",
+    "properties": {
+        "Applications": [
+            "Coatings & Finishes",
+            "Building Materials",
+            "Paper & Pulp",
+            "Marine",
+            "Fence, Decks & Rails",
+            "Marine Coatings",
+            "Other Paper & Pulp Applications",
+            "Chemical & Industrial Manufacturing",
+            "Transportation",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers",
+            "Protective Coatings"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "2K (2 component) Coating",
+            "Primer",
+            "Base Coat"
+        ],
+        "Application Area": [
+            "Marine Applications",
+            "Pulp And Paper Mills"
+        ],
+        "Application Method": [
+            "Roller",
+            "Brush",
+            "Spray"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Steel"
+        ],
+        "Features": [
+            "High Solids Content",
+            "Self-Leveling",
+            "Corrosion Resistant",
+            "Long Term Protection",
+            "Low Viscosity",
+            "Good Adhesion",
+            "Chemical Resistant",
+            "Water Resistant",
+            "Excellent Flexibility"
+        ]
+    }
+}

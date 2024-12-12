@@ -1,0 +1,45 @@
+{
+    "id": 331113,
+    "brand": "amarillo",
+    "name": "ProPhyt®",
+    "slug": "prophyt",
+    "description": "ProPhyt® is a systemic biofungicide for the control of several foliar and soil-borne diseases of field crops, grapes, herbs, orchards, tree nuts and vegetables.\n",
+    "company_name": "Luxembourg-Pamol",
+    "company_slug": "luxembourg-pamol",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672828/production/Brand/24105/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608224/production/CategoryImage/551/category_image/AgricultureFeed_07.jpg",
+    "properties": {
+        "Applications": [
+            "Cereals",
+            "Oilseeds",
+            "Fodder & Forage",
+            "Legumes",
+            "Other Agricultural Crops",
+            "Sugar & Starch Crops",
+            "Herbs & Spice Crops",
+            "Agricultural Pest Control",
+            "Nuts",
+            "Fruits",
+            "Vegetables",
+            "Agricultural Crops",
+            "Pest Control"
+        ],
+        "Product Families": [
+            "Fungicides",
+            "Crop Protection & Pest Control"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Fungicide"
+        ],
+        "Fungicide Target Species": [
+            "Phytophthora",
+            "Peronospora",
+            "Pythium",
+            "Rhizoctonia",
+            "Alternaria",
+            "Colletotrichum"
+        ]
+    }
+}

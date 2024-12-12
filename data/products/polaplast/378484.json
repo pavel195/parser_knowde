@@ -1,0 +1,42 @@
+{
+    "id": 378484,
+    "brand": "polaplast",
+    "name": "PU PRIMER 870-Polyurethane primer",
+    "slug": "pu-primer-870-polyurethane-primer",
+    "description": "PU PRIMER 870-Polyurethane primer is a clear, polyurethane-based, one-component primer, which is used as an adhesive component between the sub-floor and sport systems.",
+    "company_name": "Kataskeves Dapedon",
+    "company_slug": "kataskeves-dapedon",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520292/production/Brand/28263/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608490/production/CategoryImage/563/category_image/BuildingConstruction_07.jpg",
+    "properties": {
+        "Applications": [
+            "Flooring & Surfaces",
+            "Other Paints & Coatings Applications",
+            "Floor Coatings"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "1K (1 component) Coating",
+            "Primer",
+            "Sealer"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Painted Surfaces",
+            "Concrete"
+        ],
+        "Features": [
+            "High Capacity of Penetration"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ]
+    }
+}

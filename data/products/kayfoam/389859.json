@@ -1,0 +1,54 @@
+{
+    "id": 389859,
+    "brand": "kayfoam",
+    "name": "Kayfoam™ AS22",
+    "slug": "kayfoam-as22",
+    "description": "Kayfoam™ AS22 is manufactured in a wide range of hardness and density levels to meet the needs of diverse customers, sectors and industries.",
+    "company_name": "Kayfoam Woolfson",
+    "company_slug": "kayfoam-woolfson",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1702444509/production/Brand/29331/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608850/production/CategoryImage/582/category_image/HealthcarePharma_04.jpg",
+    "properties": {
+        "Applications": [
+            "Bedding",
+            "Industrial & Transport Packaging",
+            "Medical Devices & Assemblies",
+            "Furniture",
+            "Other Automotive & Transportation Applications",
+            "Medical",
+            "Packaging"
+        ],
+        "Product Families": [
+            "Foams"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ],
+        "End Uses": [
+            "Pharmaceutical Packaging",
+            "Mattresses",
+            "Medical Devices",
+            "Furniture"
+        ]
+    },
+    "summary": {
+        "Foam Type": [
+            "Open Cell Foam"
+        ],
+        "Density": [
+            "20.0 - 24.0 kg/m³"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ],
+        "End Uses": [
+            "Medical Devices",
+            "Mattresses",
+            "Pharmaceutical Packaging",
+            "Furniture"
+        ],
+        "Physical Form": [
+            "Foam"
+        ]
+    }
+}

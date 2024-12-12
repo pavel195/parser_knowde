@@ -1,0 +1,68 @@
+{
+    "id": 422397,
+    "brand": "nutridex",
+    "name": "FructoSan® MF",
+    "slug": "fructosan-mf",
+    "description": "\r\n\r\nFructosan® MF is processed from high fructose corn syrup. An ideal choice of sweetener which enhances natural and healthy sweetness in foods and beverages.\r\n",
+    "company_name": "Omnia Nisasta",
+    "company_slug": "omnia-nisasta",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708683091/production/Brand/25846/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607098/production/CategoryImage/501/category_image/FoodNutrition_02.jpg",
+    "properties": {
+        "Applications": [
+            "Confectionery",
+            "Desserts & Fruit Preparations",
+            "Dairy",
+            "Bakery",
+            "Sports Drinks",
+            "Beverage",
+            "Food"
+        ],
+        "Product Families": [
+            "Alternates & Replacements",
+            "Sweeteners & Syrups",
+            "Taste & Flavor",
+            "Whole Foods, Extracts & Premixes"
+        ],
+        "End Uses": [
+            "Yogurt",
+            "Jellies",
+            "Jams",
+            "Desserts",
+            "Sports Drinks",
+            "Sorbet",
+            "Ice Cream"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Crystalline Fructose"
+        ],
+        "Functions": [
+            "Sugar Substitute",
+            "Nutritive Sweetener"
+        ],
+        "Labeling Claims": [
+            "Kosher",
+            "Allergen-free",
+            "Natural",
+            "Halal",
+            "Non-Carcinogenic",
+            "Non-GMO"
+        ],
+        "Calories (Energy)": [
+            "398.0 - 398.0 Cal/100 g"
+        ],
+        "Certifications & Compliance": [
+            "Halal",
+            "USP Class I",
+            "FSSC 22000",
+            "ISO 45001",
+            "BRC Certified",
+            "FCC Compliant",
+            "ISO 14001",
+            "Kosher",
+            "ISO 9001"
+        ]
+    }
+}

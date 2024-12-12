@@ -1,0 +1,26 @@
+{
+    "id": 427611,
+    "brand": "yincae",
+    "name": "Yincae® TM 150E",
+    "slug": "yincae-tm-150e",
+    "description": "Yincae® TM 150E is a rapid cure, self-filling, self-leveling and self­ soldering adhesives, which can be used as die attach adhesives for LED, CSP, QFP etc., to replace conductive adhesives (Ag) or solder materials such as solder paste or preform. In comparison to conductive adhesives (Ag),TM products have higher electrical and thermal conductivity. In comparison to soldering materials, our solderable adhesives eliminate outgassing from soldering processes, eliminate die skewing and shifting and eliminate solder bleeding. This soldered interface is encapsulated with a 3D polymer network after curing allowing it to tolerate harsh environmental conditions .",
+    "company_name": "Yincae Advanced Materials",
+    "company_slug": "yincae-advanced-materials",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691737996/production/Brand/33890/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607486/production/CategoryImage/521/category_image/ElectricalElectronics_06.jpg",
+    "properties": {
+        "Applications": [
+            "Printed Circuit Boards (PCBs)",
+            "Adhesives & Sealants",
+            "Appliances & Electronics",
+            "Semiconductor Manufacturing",
+            "Packaging & Assembly",
+            "Parts & Components"
+        ],
+        "Product Families": [
+            "Conductive Adhesives",
+            "Adhesives & Sealants"
+        ]
+    },
+    "summary": {}
+}

@@ -1,0 +1,38 @@
+{
+    "id": 314682,
+    "brand": "aluminium-pigment-chemtech",
+    "name": "Water-based Varnish ChemTech A2901",
+    "slug": "water-based-varnish-chemtech-a2901",
+    "description": "Along with special effect materials, ChemTech offers high-performance water-based varnish for wallpaper industry produced in-house and sourced from leading manufacturers. They are suitable for gravure, flexographic and rotary screen printing on paper, fleece and vinyl printing materials. Products are lightfast, highly thermally stable, wash-resistant, suitable for hot-embossing on vinyl and inhibitor printing. Water-based varnish is available with different performance and optical properties, which can be customized when requested.",
+    "company_name": "Chemical Technologies",
+    "company_slug": "chemical-technologies",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520287/production/Company/19429/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1687520287/production/Product/314682/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Industrial Coatings",
+            "Decorative Paints, Coatings & Stains",
+            "Decorative Materials & Finishes"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Stains & Varnishes"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Waterborne Coating",
+            "Varnishes"
+        ],
+        "Features": [
+            "Good Thermal Stability",
+            "Good Light Fastness"
+        ],
+        "Application Method": [
+            "Screen Coating",
+            "Gravure Coating",
+            "Flexography"
+        ]
+    }
+}

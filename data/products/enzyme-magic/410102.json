@@ -1,0 +1,31 @@
+{
+    "id": 410102,
+    "brand": "enzyme-magic",
+    "name": "Foaming Magic® Skin Cleanser",
+    "slug": "foaming-magic-skin-cleanser",
+    "description": "Foaming Magic® Skin Cleanser contains a professional grade blend of soaps and moisturizers to thoroughly clean hands and any other exposed skin. Foaming Magic® leaves hands clean and soft. Foaming Magic® should be used in foaming dispenser. ",
+    "company_name": "Enzyme Solutions",
+    "company_slug": "enzyme-solutions",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292347/production/Brand/31794/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515602/production/CategoryImage/1051/category_image/HII_03.jpg",
+    "properties": {
+        "Applications": [
+            "Institutional & Industrial Care",
+            "Institutional & Catering"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Commercial Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Hand Cleansers"
+        ],
+        "Features": [
+            "Foamable",
+            "Neutral pH",
+            "Free Rinsing"
+        ]
+    }
+}

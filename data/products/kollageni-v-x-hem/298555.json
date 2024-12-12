@@ -1,0 +1,43 @@
+{
+    "id": 298555,
+    "brand": "kollageni-v-x-hem",
+    "name": "Reverse-Vine®",
+    "slug": "reverse-vine",
+    "description": "Reverse-Vine® is a proprietary extract from a blend of red wine, grape cluster stems, and grapevine. This age defying extract contains naturally occuring Trans-Resveratrol, OPC's, Polyphenols, and the newly discovered Trans-e-Viniferin only found in the grapevine. Our key advantage is our exclusive extraction purification technology process to extract Trans-e-Viniferin and other important nutrients. This process produces highly concentrated molecules for optimum utilization to help reduce cell-oxidation.",
+    "company_name": "Certified Nutraceuticals",
+    "company_slug": "certified-nutraceuticals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708691035/production/Company/23658/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606984/production/CategoryImage/507/category_image/FoodNutrition_08.jpg",
+    "properties": {
+        "Applications": [
+            "Oral",
+            "Confectionery",
+            "Dairy",
+            "Functional Foods",
+            "Nutraceuticals & Supplements",
+            "Food",
+            "Nutrition & Well Being",
+            "Drug Delivery & Care Solutions"
+        ],
+        "Product Families": [
+            "Vitamins",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Yogurt",
+            "Nutritional Bars",
+            "Chocolate Bars"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Grapes"
+        ],
+        "Functions": [
+            "Vitamin Source",
+            "Vitamin Source",
+            "Dietary Supplement"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "id": 120723,
+    "brand": "chemraz",
+    "name": "Fluoraz™ 799",
+    "slug": "fluoraz-799",
+    "description": "Sanitary gaskets made from Fluoraz® 799 proivde a level of performance in SIP and CIP systems that surpasses all other elastomers. While EPDMs and FKMs can provide a seal for extended periods, chnages in physical properties can have adverse effects beyond simple volume swell. A decrease in hardness or drop in modulus signals a reduction in compressive strength. If a sanitary gasket is retorqued to the installation specifications, the gasket will be compressed at a greater level than desired, resulting in increased intrusion into the proecess stream. An increased in hardness/modulus and a drop in elongation means embrittlement. The seal will be undertorques, resulting in either leaks or cracking.",
+    "company_name": "Greene Tweed",
+    "company_slug": "greene-tweed",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708522353/production/Company/2785/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708522353/production/Company/2785/card_banner/image",
+    "properties": {
+        "Product Families": [
+            "High Performance Thermoplastics",
+            "Engineering & Specialty Polymers"
+        ],
+        "Chemical Family": [
+            "Fluoropolymers"
+        ],
+        "Polymer Name": [
+            "Polytetrafluoroethylene (PTFE)"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polytetrafluoroethylene (PTFE)"
+        ]
+    }
+}

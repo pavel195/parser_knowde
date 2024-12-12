@@ -1,0 +1,44 @@
+{
+    "id": 52946,
+    "brand": "crodasol-ws",
+    "name": "ModiSurf™ Clarity",
+    "slug": "modisurf-clarity",
+    "description": "ModiSurf™ Clarity is an additive for hard surface cleaners that forms a protective layer on glass and polymeric surfaces, repelling limescale and reducing the tendency of surfaces to mist up. It is effective in acid, neutral, and alkaline cleaners. ModiSurf™ Clarity can be formulated into a wide range of products and provides various consumer benefits. Unlike most alternatives, ModiSurf™ Clarity is biodegradable and has a high content of renewable raw materials.",
+    "company_name": "Croda",
+    "company_slug": "croda",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709822017/production/Product/52946/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1709822017/production/Product/52946/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Auto Care",
+            "Surface Care",
+            "Institutional & Catering",
+            "Vehicle & Machinery",
+            "Industrial Cleaning",
+            "Home Care",
+            "Institutional & Industrial Care"
+        ],
+        "Product Families": [
+            "Detergents & Degreasers",
+            "Performance Additives",
+            "Functional Additives",
+            "Cleaning Aids"
+        ],
+        "End Uses": [
+            "Institutional Cleaners",
+            "Window Cleaners",
+            "Industrial Cleaners",
+            "Toilet Cleaners",
+            "Shower Cleaners",
+            "Multisurface Cleaners",
+            "Hard Surface Cleaners",
+            "Glass Cleaners",
+            "Descalers",
+            "Bowl Cleaners",
+            "Bathroom Cleaners",
+            "Alkaline Cleaners",
+            "Acid Cleaners"
+        ]
+    },
+    "summary": {}
+}

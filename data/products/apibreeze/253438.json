@@ -1,0 +1,25 @@
+{
+    "id": 253438,
+    "brand": "apibreeze",
+    "name": "SENSERYN™",
+    "slug": "senseryn",
+    "description": "Back to calm through your senses. Sensocosmetic. Local, sustainable, ethically-sourced. COSMOS certified.",
+    "company_name": "Provital",
+    "company_slug": "provital",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708683680/production/Product/253438/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708683680/production/Product/253438/card_banner/image",
+    "properties": {
+        "Product Families": [
+            "Sensory Modifiers",
+            "Skin Actives",
+            "Functionals",
+            "Cosmetic Actives"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Anti-Inflammatory",
+            "Soothing Agent"
+        ]
+    }
+}

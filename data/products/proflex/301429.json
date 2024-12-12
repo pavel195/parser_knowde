@@ -1,0 +1,43 @@
+{
+    "id": 301429,
+    "brand": "proflex",
+    "name": "PROFLEX N1",
+    "slug": "proflex-n1",
+    "description": "PROFLEX N1 is a semi-transparent material for general use Extrusion.",
+    "company_name": "Celloplast GD",
+    "company_slug": "celloplast-gd",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691744351/production/Company/24170/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608769/production/CategoryImage/577/category_image/AutomotiveTransportation_05.jpg",
+    "properties": {
+        "Applications": [
+            "Other Wire & Cable Applications",
+            "Other Electrical & Electronics Applications",
+            "Other Consumer Goods Applications",
+            "Appliances & Electronics",
+            "Other Building & Construction Applications",
+            "Other Automotive & Transportation Applications",
+            "Other Automotive Applications",
+            "Pipes & Hoses",
+            "Agricultural Films",
+            "Wire & Cable",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Styrenic Thermoplastic Elastomers (TPE-S)",
+            "Thermoplastic Elastomers"
+        ],
+        "Polymer Name": [
+            "Styrene Ethylene Butylene Styrene (SEBS)"
+        ],
+        "End Uses": [
+            "Profiles",
+            "Power/Other Tools",
+            "Cables",
+            "Appliances",
+            "Appliance Components",
+            "General Purpose",
+            "Hoses"
+        ]
+    },
+    "summary": {}
+}

@@ -1,0 +1,35 @@
+{
+    "id": 361153,
+    "brand": "coolube",
+    "name": "Coolube® 2120 Solid",
+    "slug": "coolube-2120-solid",
+    "description": "Coolube® 2120 solid and paste are ideal lubricants for portable cutting tools as well as abrasive applications such as belt sanding and grinding. Apply Coolube® solid and paste directly to the cutting/grinding surface to prolong tool life and prevent heat buildup in the work piece/tool interface.",
+    "company_name": "UNIST",
+    "company_slug": "unist",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680108759/production/Brand/27004/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical & Industrial Manufacturing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Lubricants & Oils",
+            "Fluids & Lubricants"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cutting Oils"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Iron"
+        ],
+        "Features": [
+            "Oxidation Resistant",
+            "Service Life Extension",
+            "Heat Resistance"
+        ]
+    }
+}

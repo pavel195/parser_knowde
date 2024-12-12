@@ -1,0 +1,48 @@
+{
+    "id": 347772,
+    "brand": "pro-crisp",
+    "name": "Erie Foods International Edible Potassium Caseinate",
+    "slug": "erie-foods-international-edible-potassium-caseinate",
+    "description": "Erie Foods International Edible Potassium Caseinate is very soluble and possesses excellent emulsifying and water binding characteristics. Potassium Caseinate is recommended for use in food systems where the functional properties of sodium caseinate are desired, but without the sodium content.",
+    "company_name": "Erie Foods International",
+    "company_slug": "erie-foods-international",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686104544/production/Company/37440/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606961/production/CategoryImage/506/category_image/FoodNutrition_07.jpg",
+    "properties": {
+        "Applications": [
+            "Beverage",
+            "Food",
+            "Nutrition & Well Being",
+            "Dairy",
+            "Desserts & Fruit Preparations",
+            "Functional Foods",
+            "Nutraceuticals & Supplements",
+            "Oenology"
+        ],
+        "Product Families": [
+            "Nutrition & Fortification",
+            "Whole Foods, Extracts & Premixes",
+            "Dairy Products",
+            "Nutraceuticals & Supplements",
+            "Proteins & Amino Acids"
+        ],
+        "End Uses": [
+            "Functional Foods",
+            "Dietary Supplements",
+            "Dairy Desserts",
+            "Wine",
+            "Cheese"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Potassium Milk Caseinate"
+        ],
+        "Ingredient Origin": [
+            "Dairy Origin"
+        ],
+        "Protein Content": [
+            "94.0 - 94.0 %"
+        ]
+    }
+}

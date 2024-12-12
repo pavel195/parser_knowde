@@ -1,0 +1,39 @@
+{
+    "id": 299583,
+    "brand": "tpu",
+    "name": "TPU T170",
+    "slug": "tpu-t170",
+    "description": "TPU T170 is a polyester based material with good processability, short cycle time, and excellent mechanical properties for injection molding applications.",
+    "company_name": "INOV Polyurethane",
+    "company_slug": "inov-polyurethane",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691744228/production/Company/22790/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Equipment & Parts",
+            "Footwear",
+            "Tooling & Moldmaking",
+            "Other Electrical & Electronics Applications",
+            "Sports & Recreation",
+            "Other Consumer Goods Applications",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Thermoplastic Urethanes (TPU)",
+            "Thermoplastic Elastomers"
+        ],
+        "Chemical Family": [
+            "Thermoplastic Polyurethanes (TPU)",
+            "Polyurethanes (PU)"
+        ],
+        "Polymer Name": [
+            "Thermoplastic Polyurethane (Polyester based)"
+        ],
+        "End Uses": [
+            "Power/Other Tools",
+            "Footwear",
+            "Molds/Dies/Tools"
+        ]
+    },
+    "summary": {}
+}

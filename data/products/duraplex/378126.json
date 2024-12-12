@@ -1,0 +1,43 @@
+{
+    "id": 378126,
+    "brand": "duraplex",
+    "name": "Nano-E®",
+    "slug": "nano-e",
+    "description": "Nano-E® uses advanced nanotechnology to create a rapidly available and absorbed source of vitamin E that enables administration to be timed to provide peak antioxidant protection to performance horses.",
+    "company_name": "Kentucky Equine Research",
+    "company_slug": "kentucky-equine-research",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708687135/production/Brand/28230/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608161/production/CategoryImage/546/category_image/AgricultureFeed_02.jpg",
+    "properties": {
+        "Applications": [
+            "Other Animal Health & Nutrition",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Vitamins",
+            "Antioxidants",
+            "Health & Well-Being",
+            "Nutritional Ingredients"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Vitamin E"
+        ],
+        "Functions": [
+            "Antioxidant"
+        ],
+        "Animal Species": [
+            "Horses"
+        ],
+        "Labeling Claims": [
+            "Natural",
+            "Naturally Derived"
+        ],
+        "Features": [
+            "High Bioavailability",
+            "Improves Heart Function",
+            "Improving Stress Tolerance"
+        ]
+    }
+}

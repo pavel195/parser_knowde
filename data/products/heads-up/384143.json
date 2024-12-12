@@ -1,0 +1,43 @@
+{
+    "id": 384143,
+    "brand": "heads-up",
+    "name": "Heads Up® Plant Protectant",
+    "slug": "heads-up-plant-protectant",
+    "description": "Heads Up® Plant Protectant is a Preplant seed and pretransplant seedling treatment for the prevention of fungal and bacterial diseases of plants (including Sudden Death Syndrome (Fusarium virguliforme) on soybeans, Rhizoctonia Root Rot/Damping Off (Rhizoctonia solani) on soybeans and White Mold (Sclerotinia sclerotiorum) on soybeans and dry beans).",
+    "company_name": "Heads Up Plant Protectants",
+    "company_slug": "heads-up-plant-protectants",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664291555/production/Brand/28777/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608161/production/CategoryImage/546/category_image/AgricultureFeed_02.jpg",
+    "properties": {
+        "Applications": [
+            "Oilseeds",
+            "Sugar & Starch Crops",
+            "Vegetables",
+            "Legumes",
+            "Cereals",
+            "Fodder & Forage",
+            "Fruits",
+            "Agricultural Crops"
+        ],
+        "Product Families": [
+            "Seed Treatments",
+            "Crop Protection & Pest Control"
+        ]
+    },
+    "summary": {
+        "Application Technique": [
+            "Sprayers",
+            "Foliage Applied",
+            "Seed Treatment"
+        ],
+        "Features": [
+            "Approved For Organic Farming",
+            "Easy To Handle",
+            "Increased Disease Suppression",
+            "Enhanced Crop Yield & Quality"
+        ],
+        "Labeling Claims": [
+            "Environmentally Friendly"
+        ]
+    }
+}

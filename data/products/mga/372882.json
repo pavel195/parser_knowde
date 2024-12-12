@@ -1,0 +1,41 @@
+{
+    "id": 372882,
+    "brand": "mga",
+    "name": "MGA® NATURA 5250 Black",
+    "slug": "mga-natura-5250-black",
+    "description": "MGA® NATURA 5250 Black is a fast setting sheet fed offset series for printing organoleptically neutral print products on cardboard and other absorbent substrates.",
+    "company_name": "Huber Inks",
+    "company_slug": "huber-inks",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664291244/production/Brand/27841/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609091/production/CategoryImage/594/category_image/PrintingPackaging_05.jpg",
+    "properties": {
+        "Applications": [
+            "Offset & Lithographic Printing",
+            "Coated Paper & Paperboard",
+            "Food & Beverage Packaging",
+            "Paper & Pulp",
+            "Packaging",
+            "Printing & Inks"
+        ],
+        "Product Families": [
+            "Offset & Lithographic Inks",
+            "Inks & Pastes"
+        ]
+    },
+    "summary": {
+        "Compatible Substrates & Surfaces": [
+            "Paper"
+        ],
+        "Features": [
+            "Low Migration",
+            "Excellent Printability",
+            "Alkali Resistant",
+            "Good Scratch Resistance",
+            "Alcohol Resistant",
+            "Good Light Fastness"
+        ],
+        "Color": [
+            "Black"
+        ]
+    }
+}

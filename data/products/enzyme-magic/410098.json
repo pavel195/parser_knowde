@@ -1,0 +1,47 @@
+{
+    "id": 410098,
+    "brand": "enzyme-magic",
+    "name": "Enzyme Solutions BC314HD Industrial Cleaner",
+    "slug": "enzyme-solutions-bc314hd-industrial-cleaner",
+    "description": "BC314HD Industrial Cleaner is blended to clean heavy grease, oil, dirt and stains from floors, walls, tables and other hard surfaces BC314HD Industrial Cleaner breaks down and destroys oils, grease, ink, petroleum products, food, dirt, grime and other organic matter BC314HD Industrial Cleaner will remove stains in overalls, rags, aprons and linens BC314HD Industrial Cleaner eliminates offensive odors by destroying the source of odors. Enzyme Magic® Grease &amp; Waste Digester works naturally to help break down waste and grease. This helps improve grease trap performance. It is also safely cleans clogged and problem drains, including floor drains, beverage tower drains, urinals and commodes.\r\n",
+    "company_name": "Enzyme Solutions",
+    "company_slug": "enzyme-solutions",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292274/production/Company/54161/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515602/production/CategoryImage/1051/category_image/HII_03.jpg",
+    "properties": {
+        "Applications": [
+            "Laundry & Fabric Care",
+            "Surface Care",
+            "Industrial Cleaning",
+            "Institutional & Industrial Care",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Industrial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner",
+            "Degreasers",
+            "Stain Removers"
+        ],
+        "Application Areas": [
+            "Wall",
+            "Floor",
+            "Hard Surfaces",
+            "Kitchen"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Fibers & Fabrics",
+            "Concrete"
+        ],
+        "Features": [
+            "Degreasing",
+            "Stain Removing",
+            "Neutralizes Odor",
+            "Grime Cleaning"
+        ]
+    }
+}

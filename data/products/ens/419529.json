@@ -1,0 +1,53 @@
+{
+    "id": 419529,
+    "brand": "ens",
+    "name": "Classic™ Naturals Topcoat",
+    "slug": "classic-naturals-topcoat",
+    "description": "Classic™ Naturals Topcoat is a water-repellent top-coat formula designed as the final step of the Classic application system. May also be applied as a maintenance coat to existing Classic coatings to help ensure a water repellence on surfaces subject to more severe wetting. Classic Topcoat delivers excellent water beading, is resistant to wear, and enhances the natural UV protection – and beauty – of your Sansin Classic finish. When applying as a maintenance coat, dilute Classic Top Coat with the Sansin Classic color of your choice before application.",
+    "company_name": "The Sansin Corporation",
+    "company_slug": "the-sansin-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1670414006/production/Brand/32916/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608454/production/CategoryImage/560/category_image/BuildingConstruction_04.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Building & Construction",
+            "Wood Coatings & Finishes",
+            "Wood"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Top Coats"
+        ],
+        "Chemical Family": [
+            "Alkyds"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Waterborne Coating",
+            "Top Coat"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Wood"
+        ],
+        "Features": [
+            "Dimensional Stability",
+            "Low VOC",
+            "Good Penetration",
+            "Breathable",
+            "Clarity",
+            "Wear Resistant",
+            "Long Term Protection",
+            "Excellent UV Stability"
+        ],
+        "Application Method": [
+            "Dip Coating",
+            "Brush",
+            "Spray"
+        ],
+        "Chemical Family": [
+            "Alkyds"
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "id": 426811,
+    "brand": "terraco",
+    "name": "Terraco® Flexicoat Thermo",
+    "slug": "terraco-flexicoat-thermo",
+    "description": "Terraco® Flexicoat Thermo is a liquid elastomeric waterproof coating for roofing with thermo reflective properties.",
+    "company_name": "Terraco",
+    "company_slug": "terraco",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292752/production/Brand/33798/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608438/production/CategoryImage/559/category_image/BuildingConstruction_03.jpg",
+    "properties": {
+        "Applications": [
+            "Building Envelope & Roofing",
+            "Waterproofing & Weatherproofing"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Elastomeric Coating"
+        ],
+        "Features": [
+            "Good Light Reflection",
+            "Good Weather Stability",
+            "Waterproofing",
+            "Fast Drying",
+            "Thermally Insulating",
+            "Highly Flexible",
+            "Heat Reflective"
+        ],
+        "Application Areas": [
+            "Roofing Membranes"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Concrete",
+            "Wood",
+            "Asphalt",
+            "Galvanized Steel"
+        ],
+        "Application Method": [
+            "Spray",
+            "Brush"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    }
+}

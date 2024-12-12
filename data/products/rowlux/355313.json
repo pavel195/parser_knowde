@@ -1,0 +1,35 @@
+{
+    "id": 355313,
+    "brand": "rowlux",
+    "name": "RowTec® SC",
+    "slug": "rowtec-sc",
+    "description": "RowTec® SC is used in the following processes: printing, die-cutting, embossing, thermoforming, and hot stamping.",
+    "company_name": "ORAFOL",
+    "company_slug": "orafol",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697223442/production/Brand/26470/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609128/production/CategoryImage/597/category_image/PrintingPackaging_08.jpg",
+    "properties": {
+        "Applications": [
+            "Housewares",
+            "Other Packaging Materials",
+            "Other Printing & Packaging Applications",
+            "Packaging"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Polycarbonate (PC)"
+        ],
+        "Polymer Name": [
+            "Polycarbonate (PC)"
+        ],
+        "End Uses": [
+            "Household Goods",
+            "Flexible Packaging",
+            "Thermoforming Applications",
+            "Film"
+        ]
+    },
+    "summary": {}
+}

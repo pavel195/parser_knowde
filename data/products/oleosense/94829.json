@@ -1,0 +1,62 @@
+{
+    "id": 94829,
+    "brand": "oleosense",
+    "name": "Oléoactif® Diam Bio",
+    "slug": "oleoactif-diam-bio",
+    "description": "Oléoactif® Diam Bio Prevents and reduces skin redness, Decreases hemoglobin content Improves collagen network and Scavenges free radicals.",
+    "company_name": "Oleos",
+    "company_slug": "oleos",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708688367/production/Company/1349/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708688367/production/Company/1349/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Skin Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Skin Actives",
+            "Stabilizers",
+            "Cosmetic Actives",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Oak Root Extract",
+            "Cocos Nucifera (Coconut) Oil"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Cocos Nucifera (Coconut) Oil",
+            "Oak Root Extract"
+        ],
+        "Functions": [
+            "Stabilizer",
+            "Anti-Aging Agent"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Non-Animal Origin"
+        ],
+        "Labeling Claims": [
+            "Ulta Beauty's Conscious Beauty",
+            "Naturally Derived",
+            "Natural",
+            "Organic"
+        ],
+        "Certifications & Compliance": [
+            "Organic Certified",
+            "Kosher",
+            "EFISC",
+            "ECOCERT",
+            "Halal"
+        ],
+        "Benefit Claims": [
+            "Anti-Inflammatory",
+            "Anti-Allergic",
+            "Anti-Irritant",
+            "Couperose Reduction",
+            "Redness Reduction",
+            "Anti-Aging"
+        ]
+    }
+}

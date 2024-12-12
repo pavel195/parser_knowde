@@ -1,0 +1,41 @@
+{
+    "id": 407100,
+    "brand": "microring",
+    "name": "ExpresSeal® Carbon Filled Teflon® (Black) - CTFE",
+    "slug": "expresseal-carbon-filled-teflon-black-ctfe",
+    "description": "ExpresSeal® Carbon Filled Teflon® (Black) - CTFE good chemical resistance to corrosive environments. Exhibits good initial wear and rubbing characteristics, both dry and water applications.",
+    "company_name": "Apple Rubber Products",
+    "company_slug": "apple-rubber-products",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686150185/production/Brand/31402/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608769/production/CategoryImage/577/category_image/AutomotiveTransportation_05.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical & Industrial Manufacturing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Fluoropolymers"
+        ],
+        "Polymer Name": [
+            "Polytetrafluoroethylene (PTFE)"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polytetrafluoroethylene (PTFE)"
+        ],
+        "Physical Form": [
+            "Seals"
+        ],
+        "Features": [
+            "Chemical Resistant",
+            "Improved Wear"
+        ],
+        "Color": [
+            "Black"
+        ]
+    }
+}

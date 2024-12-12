@@ -1,0 +1,33 @@
+{
+    "id": 422952,
+    "brand": "nora",
+    "name": "nora® Lunalastik",
+    "slug": "nora-lunalastik",
+    "description": "nora® Lunalastik are EVA expanded sheets which are smooth and perforated.",
+    "company_name": "nora Systems",
+    "company_slug": "nora-systems",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691739061/production/Brand/33258/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608831/production/CategoryImage/580/category_image/HealthcarePharma_02.jpg",
+    "properties": {
+        "Applications": [
+            "Other Medical Applications",
+            "Footwear",
+            "Bedding",
+            "Medical"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Polymer Name": [
+            "Ethylene Vinyl Acetate Copolymer (EVA)"
+        ],
+        "End Uses": [
+            "Footwear"
+        ]
+    },
+    "summary": {
+        "Density": [
+            "200.0 - 200.0 kg/m³"
+        ]
+    }
+}

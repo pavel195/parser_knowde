@@ -1,0 +1,43 @@
+{
+    "id": 372982,
+    "brand": "styrene",
+    "name": "Styrene 7757",
+    "slug": "styrene-7757",
+    "description": "Styrene 7757 is a solvent, nr and synthetic resins-based adhesive. Adhesive with strong fixing power for all types of materials, including expanded polystyrene.",
+    "company_name": "Cipade S.A.",
+    "company_slug": "cipade",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1682593309/production/Brand/27865/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1682593309/production/Company/44014/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Wall Panels",
+            "Building Envelope & Roofing",
+            "EIFS & Insulation"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Other Adhesives & Sealants"
+        ],
+        "Chemical Family": [
+            "Natural Rubbers",
+            "Polyisoprenes"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Solventborne Adhesive",
+            "Adhesive"
+        ],
+        "Application Area": [
+            "Acoustic Barrier"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Expanded Polystyrene (EPS)"
+        ],
+        "Chemical Family": [
+            "Natural Rubbers",
+            "Polyisoprenes"
+        ]
+    }
+}

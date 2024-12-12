@@ -1,0 +1,48 @@
+{
+    "id": 388308,
+    "brand": "helidigest",
+    "name": "Helitein Proteins® Proteins",
+    "slug": "helitein-proteins-proteins",
+    "description": "Helitein Proteins® Proteins is a snail extract rich in protein and essential amino acids. Helitein® is a powder snail extract with a high protein (+60%) and in essential amino acids. This extract contains the 8 essential amino acids (including BCAA) Isoleucine, Leucine, Valine, Lysine, Phenylalanine, Threonine, Methionine, Tryptophan as well as the two semi-essential amino acids Arginine and Histidine.",
+    "company_name": "HPE INGREDIENTS",
+    "company_slug": "hpe-ingredients",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708690362/production/Brand/29161/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606945/production/CategoryImage/505/category_image/FoodNutrition_06.jpg",
+    "properties": {
+        "Applications": [
+            "Oral",
+            "Swine",
+            "Pets",
+            "Birds & Poultry",
+            "Other Nutrition Applications",
+            "Nutraceuticals & Supplements",
+            "Animal Health & Nutrition",
+            "Nutrition & Well Being",
+            "Drug Delivery & Care Solutions"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Proteins & Amino Acids",
+            "Amino Acids & Proteins",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements",
+            "Nutritional Ingredients"
+        ],
+        "End Uses": [
+            "Dietary Supplements"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Protein Source"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin"
+        ],
+        "Labeling Claims": [
+            "Natural",
+            "Naturally Derived"
+        ]
+    }
+}

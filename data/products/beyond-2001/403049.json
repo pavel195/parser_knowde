@@ -1,0 +1,37 @@
+{
+    "id": 403049,
+    "brand": "beyond-2001",
+    "name": "BEYOND‑2005™",
+    "slug": "beyond-2005",
+    "description": "BEYOND‑2005™ is a unique concentrated industrial cleaner.",
+    "company_name": "Today & Beyond",
+    "company_slug": "today-beyond",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292101/production/Brand/30789/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515625/production/CategoryImage/1053/category_image/HII_05.jpg",
+    "properties": {
+        "Applications": [
+            "Home Care",
+            "Institutional & Industrial Care",
+            "Auto Care",
+            "Industrial Cleaning",
+            "Vehicle & Machinery"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Industrial Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner",
+            "Industrial Cleaners"
+        ],
+        "Application Areas": [
+            "Engine"
+        ],
+        "Features": [
+            "Carbon Deposits Removing",
+            "Degreasing"
+        ]
+    }
+}

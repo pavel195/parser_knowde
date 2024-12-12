@@ -1,0 +1,30 @@
+{
+    "id": 344031,
+    "brand": "kd-pur",
+    "name": "Omevital 4510 EE/TG Ultra",
+    "slug": "omevital-4510-ee-tg-ultra",
+    "description": "Omevital 4510 EE/TG Ultra is Medium Concentrated Omega-3 with 390/420 EPA content and 70/110 DHA content.",
+    "company_name": "KD Nutra",
+    "company_slug": "kd-nutra",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672393/production/Brand/25554/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607305/production/CategoryImage/515/category_image/FoodNutrition_15.jpg",
+    "properties": {
+        "Applications": [
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Fatty Acids, Specialty Lipids & Oils",
+            "Nutrition & Fortification"
+        ],
+        "End Uses": [
+            "Dietary Supplements"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Supplement",
+            "Dietary Supplement"
+        ]
+    }
+}

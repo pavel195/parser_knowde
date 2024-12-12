@@ -1,0 +1,61 @@
+{
+    "id": 439570,
+    "brand": "food-grade-amalgon",
+    "name": "Amalga Composites Fiberglass Epoxy Tubing (CL) High Modulus Carbon",
+    "slug": "amalga-composites-fiberglass-epoxy-tubing-cl-high-modulus-carbon",
+    "description": "Fiberglass Epoxy Tubing (CL) High Modulus Carbon is constructed of fiber reinforced thermoset epoxy resin, fiberglass epoxy tubing (CL) is a lightweight, high strength, corrosion resistant material that can replace carbon steel, chromed steel, stainless steel, aluminum or brass in a variety of applications. General Purpose Fiberglass Epoxy Tubing.",
+    "company_name": "Amalga Composites",
+    "company_slug": "amalga-composites",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686150494/production/Company/63749/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607009/production/CategoryImage/509/category_image/FoodNutrition_10.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Chemical & Industrial Manufacturing",
+            "Structural Components",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Parts & Shapes",
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ],
+        "Polymer Name": [
+            "Epoxy Resins & Compounds"
+        ],
+        "End Uses": [
+            "Radomes",
+            "Structural Components",
+            "Cryogenic Applications"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Epoxy Resins & Compounds"
+        ],
+        "Reinforcement Material": [
+            "Carbon Fibers"
+        ],
+        "Physical Form": [
+            "Tube"
+        ],
+        "Density": [
+            "1606.64814 - 1606.64814 kg/m³"
+        ],
+        "Features": [
+            "High Strength",
+            "Good Thermal Stability",
+            "Corrosion Resistant",
+            "Impact Resistance",
+            "Light Weight",
+            "Electrically Insulating",
+            "General Purpose",
+            "X-Ray Transparent",
+            "Radio Frequency (RF) Transparent",
+            "High Modulus",
+            "Ease of Handling"
+        ]
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "id": 321750,
+    "brand": "oat-com",
+    "name": "AvenaPLex",
+    "slug": "avenaplex",
+    "description": "AvenaPLex is a unique and powerful oat active that repairs, renews and protects the skin’s lipid barrier – helping to prevent and manage the signs of skin aging.",
+    "company_name": "Oat Cosmetics",
+    "company_slug": "oat-cosmetics",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708688335/production/Product/321750/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708688335/production/Product/321750/card_banner/image",
+    "properties": {
+        "Product Families": [
+            "Conditioners & Emollients",
+            "Skin Actives",
+            "Functionals",
+            "Cosmetic Actives"
+        ],
+        "INCI Name": [
+            "Avena Sativa (Oat) Kernel Extract"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Avena Sativa (Oat) Kernel Extract"
+        ],
+        "Functions": [
+            "Anti-Aging Agent",
+            "Skin Barrier Protectant"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin"
+        ],
+        "Labeling Claims": [
+            "Credo Clean Standard",
+            "Clean at Sephora",
+            "Biodegradable",
+            "Naturally Derived",
+            "Environmentally Friendly",
+            "Not Tested on Animals",
+            "Allergen-free",
+            "Alcohol-free",
+            "Natural",
+            "Organic",
+            "Paraben-free",
+            "Ulta Beauty's Conscious Beauty",
+            "Fragrance-free",
+            "GMO-free",
+            "Gluten-free",
+            "Halal",
+            "Hypoallergenic"
+        ],
+        "Certifications & Compliance": [
+            "Organic Certified",
+            "CFDA Compliant (China)",
+            "COSMOS",
+            "IECIC (China)",
+            "ECOCERT",
+            "Halal"
+        ],
+        "Benefit Claims": [
+            "Tewl Reduction",
+            "Wrinkle Refinement",
+            "Improves Skin Elasticity",
+            "Firming",
+            "Anti-Aging",
+            "Rapid Absorption",
+            "Broad pH Stability",
+            "Promotes Youthful Skin",
+            "Penetrating",
+            "Skin Strengthening Effect",
+            "Repairing",
+            "Hydrating",
+            "Replenishing",
+            "Skin Barrier",
+            "Non-Comedogenic",
+            "Strengthening",
+            "Non-Greasy Feel",
+            "Hypo-Allergenic",
+            "Skin Protection"
+        ]
+    }
+}

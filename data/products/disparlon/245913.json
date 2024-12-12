@@ -1,0 +1,58 @@
+{
+    "id": 245913,
+    "brand": "disparlon",
+    "name": "NA-LUBE® AW-6400FG",
+    "slug": "na-lube-aw-6400fg",
+    "description": "NA-LUBE® AW-6400FG is an ashless rust and corrosion inhibitor and antiwear additive.",
+    "company_name": "King Industries",
+    "company_slug": "king-industries",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672187/production/Company/7448/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708672187/production/Company/7448/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Cold-Chain & Insulation",
+            "Appliances & Electronics",
+            "Fluids & Lubricants",
+            "Food & Beverage Manufacturing",
+            "Processing & Packaging",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Surface Protective Additives",
+            "Additives"
+        ],
+        "End Uses": [
+            "Hydraulic Fluids",
+            "Turbine Oils",
+            "Compressor Oils",
+            "Gear Oils"
+        ],
+        "Labeling Claims": [
+            "Food Contact Acceptable",
+            "Halal",
+            "Kosher"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Corrosion Inhibitor",
+            "Extreme Pressure Additive",
+            "Anti-Wear Agent"
+        ],
+        "End Uses": [
+            "Compressor Oils",
+            "Turbine Oils",
+            "Gear Oils",
+            "Hydraulic Fluids"
+        ],
+        "Features": [
+            "Easy Handling",
+            "Improved Anti-Wear",
+            "Ashless Additive",
+            "Low Odor",
+            "Food Contact Acceptable",
+            "Corrosion Resistant",
+            "Extreme Pressure Performance"
+        ]
+    }
+}

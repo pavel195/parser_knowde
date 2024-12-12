@@ -1,0 +1,38 @@
+{
+    "id": 358613,
+    "brand": "ply-guard",
+    "name": "Ply-Guard FCE 224",
+    "slug": "polyset-ply-guard-fce-224",
+    "description": "Ply-Guard FCE 224 is a fast-curing, high-solids, high-build Epoxy that can be applied to properly prepared steel and concrete surfaces. Ply-Guard FCE 224 is an ideal product for maintenance/repair applications where quick turnaround and return to service is required. Ply-Guard FCE 224 is also well-suited to new product applications where its fast curing properties can lead to increased throughput and production efficiencies.",
+    "company_name": "Polyset",
+    "company_slug": "polyset",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520214/production/Brand/27235/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608502/production/CategoryImage/564/category_image/BuildingConstruction_08.jpg",
+    "properties": {
+        "Applications": [
+            "Coatings & Finishes",
+            "Infrastructure, Roads & Paving",
+            "Marine",
+            "Marine Coatings",
+            "Transportation",
+            "Pavement, Highways, Roads & Bridges"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Solventless & High Solids Coating"
+        ],
+        "Features": [
+            "Fast Curing"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Concrete",
+            "Steel"
+        ]
+    }
+}

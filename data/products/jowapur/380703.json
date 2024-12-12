@@ -1,0 +1,41 @@
+{
+    "id": 380703,
+    "brand": "jowapur",
+    "name": "Jowapur® 683.24",
+    "slug": "jowapur-683-24",
+    "description": "Jowapur® 683.24 is a adhesive with functional additives for mineral aggregate panels, sandwich and composite panels made of soft wood species, for polystyrene foam, pur foams, metals and many other substrates.",
+    "company_name": "Jowat Corporation",
+    "company_slug": "jowat-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664291691/production/Brand/28506/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608929/production/CategoryImage/584/category_image/AdhesivesSealants_01.jpg",
+    "properties": {
+        "Applications": [
+            "Other Adhesives & Sealants Applications"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Structural Adhesives"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Solvent free (100% Solids) Adhesive",
+            "1K (1 component) Adhesive"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Wood"
+        ],
+        "Cure Method": [
+            "Moisture Cure"
+        ],
+        "Application Method": [
+            "Roller"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ]
+    }
+}

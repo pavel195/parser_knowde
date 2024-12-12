@@ -1,0 +1,59 @@
+{
+    "id": 292893,
+    "brand": "casacide",
+    "name": "Casabond™ 1200",
+    "slug": "casabond-1200",
+    "description": "Casabond™ 1200 is an adhesion promoter for use in direct-bonding systems for rubber compounds.\r\n",
+    "company_name": "Thomas Swan",
+    "company_slug": "thomas-swan",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708686637/production/Brand/19797/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708686637/production/Brand/19797/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Technical Fabrics",
+            "Equipment & Parts",
+            "Tires",
+            "Automotive",
+            "Chemical & Industrial Manufacturing",
+            "Leather & Textiles"
+        ],
+        "Product Families": [
+            "Surface Modifiers",
+            "Polymer Additives"
+        ],
+        "Chemical Family": [
+            "Resorcinol-based"
+        ],
+        "End Uses": [
+            "Tires",
+            "Textile Bonding",
+            "Tarpaulins",
+            "Hoses",
+            "Fabrics",
+            "Diaphragms",
+            "Belts/Belt Repair"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Adhesion Promoter"
+        ],
+        "Compatible Polymers & Resins": [
+            "Ethylene Propylene Diene Monomer (EPDM)",
+            "Styrene Butadiene Rubber (SBR)",
+            "Nitrile Butadiene Rubber (NBR)",
+            "Natural Rubbers (NR)",
+            "Isoprene Rubber (IR)",
+            "Chloroprene Rubber (CR)"
+        ],
+        "End Uses": [
+            "Tires",
+            "Belts/Belt Repair",
+            "Tarpaulins",
+            "Diaphragms",
+            "Fabrics",
+            "Textile Bonding",
+            "Hoses"
+        ]
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "id": 427872,
+    "brand": "decagen",
+    "name": "Odofresh®",
+    "slug": "odofresh",
+    "description": "Odofresh® is a deodorizing product for the dairy room, toilets, garbage cans, waste room and hatchery sinks.",
+    "company_name": "Synthese Elevage",
+    "company_slug": "synthese-elevage",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292768/production/Brand/33931/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515684/production/CategoryImage/1058/category_image/HII_10.jpg",
+    "properties": {
+        "Applications": [
+            "Processing & Packaging",
+            "Food & Beverage Manufacturing",
+            "Institutional & Industrial Care",
+            "Institutional & Catering",
+            "Food Facility Cleaning & Sanitization"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Food Grade Cleaners",
+            "Commercial Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Deodorizers",
+            "Detergents"
+        ]
+    }
+}

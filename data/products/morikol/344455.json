@@ -1,0 +1,63 @@
+{
+    "id": 344455,
+    "brand": "morikol",
+    "name": "MoriKol®",
+    "slug": "morikol",
+    "description": "MoriKol® presents as an off-white to pale yellow powder. It's a standardized tripeptide of fish collagen that's capsule and gummy-friendly. This bioavailable collagen is known for its direct impact on supporting beauty and skin health, as well as promoting joint health.",
+    "company_name": "DolCas Biotech",
+    "company_slug": "dolcas-biotech",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1711435809/production/Brand/25630/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625605156/production/CategoryImage/441/category_image/CleaningIngredients_06.jpg",
+    "properties": {
+        "Applications": [
+            "Oral",
+            "Drug Delivery & Care Solutions"
+        ],
+        "Product Families": [
+            "Functional Ingredients",
+            "Proteins & Amino Acids",
+            "Supplements & Functional Ingredients",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "Ingredient Name": [
+            "Collagen Peptide, Fish"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Collagen Peptide, Fish"
+        ],
+        "Ingredient Origin": [
+            "Animal Origin"
+        ],
+        "Labeling Claims": [
+            "BSE-free",
+            "GMO-free",
+            "Halal",
+            "Irradiation-free",
+            "Kosher"
+        ],
+        "Protein Content": [
+            "90.0 - 90.0 %"
+        ],
+        "Certifications & Compliance": [
+            "Kosher",
+            "Halal"
+        ],
+        "Benefit Claims (Health)": [
+            "Supports Skin Health",
+            "UV Protection",
+            "Joint Support",
+            "Healthy-Looking Skin",
+            "Maintains Skin Hydration",
+            "Anti-Aging",
+            "Reduces Joint Discomfort",
+            "Collagen Boosting",
+            "Improved Joint Flexibility",
+            "Anti-Wrinkle",
+            "Boosts Hyaluronic Acid",
+            "Skin Elasticity"
+        ]
+    }
+}

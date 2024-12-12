@@ -1,0 +1,32 @@
+{
+    "id": 302657,
+    "brand": "luxcor",
+    "name": "Luxcor 100",
+    "slug": "luxcor-100",
+    "description": "Luxcor 100 is a general use product with good solvent resistance. It can be used in paints and plastics, such as PVC and LDPE It has excellent fluorescence in white light and UV light. It is particularly indicated when the fluorescence under UV light is used in to detect leaks and cracks.",
+    "company_name": "Fluorcolors Pigmentos industria e comercio",
+    "company_slug": "fluorcolors-pigmentos-industria-e-comercio",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708522084/production/Company/24204/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609091/production/CategoryImage/594/category_image/PrintingPackaging_05.jpg",
+    "properties": {
+        "Applications": [
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Photoluminescent Pigments",
+            "Color Pigments",
+            "Pigments & Colorants"
+        ]
+    },
+    "summary": {
+        "Pigment Type": [
+            "Fluorescent"
+        ],
+        "Compatible Polymers & Resins": [
+            "Polyvinyl Chloride (PVC)"
+        ],
+        "Particle Size": [
+            "5.0 - 6.0 microns"
+        ]
+    }
+}

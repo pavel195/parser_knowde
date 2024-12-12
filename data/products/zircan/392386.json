@@ -1,0 +1,44 @@
+{
+    "id": 392386,
+    "brand": "zircan",
+    "name": "ZirCan™ AZC20",
+    "slug": "zircan-azc20",
+    "description": "ZirCan™ AZC20 (Ammonium Zirconium Carbonate) is a clear alkaline aqueous solution with 20% ZrO2 content. It is a reactive crosslinker used as a binder insolubilizer for paper and paperboard coatings, component of inks, adhesives, paints.",
+    "company_name": "Aqua Bond",
+    "company_slug": "aqua-bond",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708673265/production/Brand/29544/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Coated Paper & Paperboard",
+            "Other Printing & Packaging Applications",
+            "Other Paints & Coatings Applications",
+            "Other Adhesives & Sealants Applications",
+            "Paper & Pulp"
+        ],
+        "Product Families": [
+            "Chain Extenders & Crosslinkers",
+            "Monomers & Intermediates"
+        ],
+        "Chemical Family": [
+            "Carbonates"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Crosslinking Agent"
+        ],
+        "Chemical Family": [
+            "Carbonates"
+        ],
+        "Compatible Polymers & Resins": [
+            "Cellulose & Cellulosics",
+            "Polyvinyl Alcohol (PVOH)",
+            "Styrene Butadiene Rubber (SBR)",
+            "Styrene Acrylics"
+        ],
+        "Labeling Claims": [
+            "Formaldehyde-free"
+        ]
+    }
+}

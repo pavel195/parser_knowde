@@ -1,0 +1,42 @@
+{
+    "id": 402270,
+    "brand": "virus",
+    "name": "Virus® DIGI BLENDING WHITE",
+    "slug": "virus-digi-blending-white",
+    "description": "Virus® DIGI BLENDING WHITE is a soft semi opaque white that directly receives the digital printing ensuring much brighter and defined colors. It can be mixed with DIGI WHITE and DIGI SUPER-WHITE or used as a single product on light fabrics and pastel colors. Matt finish, great opacity, fast flashing.",
+    "company_name": "Virus",
+    "company_slug": "virus",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680110741/production/Brand/30679/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Textiles & Nonwovens",
+            "Printing & Inks",
+            "Leather & Textiles",
+            "Textile Coatings & Inks",
+            "Digital Printing",
+            "Textile Manufacturing"
+        ],
+        "Product Families": [
+            "Digital Printing Inks",
+            "Inks & Pastes"
+        ]
+    },
+    "summary": {
+        "Compatible Substrates & Surfaces": [
+            "Textiles",
+            "Cotton"
+        ],
+        "Features": [
+            "Soft",
+            "Strong Opacity",
+            "Matte Finish"
+        ],
+        "Color": [
+            "White"
+        ],
+        "Application Method": [
+            "Wipe"
+        ]
+    }
+}

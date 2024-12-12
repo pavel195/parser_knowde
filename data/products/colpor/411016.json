@@ -1,0 +1,45 @@
+{
+    "id": 411016,
+    "brand": "colpor",
+    "name": "Nitoseal® MS100",
+    "slug": "nitoseal-ms100",
+    "description": "Nitoseal® MS100 is a tough, durable elastomeric joint sealant. It is based upon hybrid silyl modified polyether technology. It is suitable for use over a wide range of external and internal building applications and has excellent weather resistance. Nitoseal® MS100 has excellent primer-less adhesion to a wide range of common building substrates and does not stain concrete, marble and other masonry surfaces.",
+    "company_name": "Fosroc Inc.",
+    "company_slug": "fosroc-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520055/production/Brand/31962/logo/image",
+    "banner_url": "https://static.knowde.com/card-banners/knowde-card-for-raw-materials-8.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Construction Chemicals",
+            "Roofing",
+            "Sealants & Caulks",
+            "Building Envelope & Roofing",
+            "EIFS & Insulation",
+            "Glazing & Window Elements"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Caulks & Sealants"
+        ],
+        "Chemical Family": [
+            "Silyl-modified Polymers (SMP)"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "1K (1 component) Sealant"
+        ],
+        "Application Area": [
+            "Acoustic Barrier"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Concrete",
+            "Masonry",
+            "Marble"
+        ],
+        "Chemical Family": [
+            "Silyl-modified Polymers (SMP)"
+        ]
+    }
+}

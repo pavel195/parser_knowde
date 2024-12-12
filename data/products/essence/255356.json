@@ -1,0 +1,54 @@
+{
+    "id": 255356,
+    "brand": "essence",
+    "name": "Nutri-Link HP Starter 7-23-1",
+    "slug": "nutri-link-hp-starter-7-23-1",
+    "description": "Nutri-Link HP 7-23-1 .46% Zn contains a 70/30 ortho/polyphosphate blend. With added EDTA Zinc and fertilizer enhancement additives, it also improves fertilizer efficiency and compatibility with tank mix partners. Nutri-Link HP 7-23-1 .46% Zn can be applied at flexible rates in a broad range of agricultural applications.",
+    "company_name": "Helena Agri-Enterprises",
+    "company_slug": "helena-agri-enterprises",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708673283/production/Company/19288/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708673283/production/Company/19288/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Ornamentals",
+            "Fodder & Forage",
+            "Vegetables",
+            "Sugar & Starch Crops",
+            "Oilseeds",
+            "Legumes",
+            "Cereals",
+            "Agricultural Crops",
+            "Turf, Ornamentals & Landscape"
+        ],
+        "Product Families": [
+            "Fertilizers & Nutrients",
+            "Plant Health, Nutrients & Soil Management"
+        ],
+        "Chemical Family": [
+            "Nitrogen",
+            "Chlorides",
+            "Zinc & Zinc Compounds",
+            "Potassium Salts",
+            "Phosphates",
+            "Ammonium Compounds"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Micronutrient",
+            "Fertilizer"
+        ],
+        "Chemical Family": [
+            "Nitrogen",
+            "Potassium Salts",
+            "Phosphates",
+            "Zinc & Zinc Compounds",
+            "Chlorides",
+            "Ammonium Compounds"
+        ],
+        "Application Technique": [
+            "Chemigation",
+            "Sprayers"
+        ]
+    }
+}

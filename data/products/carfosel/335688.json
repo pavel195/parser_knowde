@@ -1,0 +1,28 @@
+{
+    "id": 335688,
+    "brand": "carfosel",
+    "name": "Carfosel™ 700",
+    "slug": "carfosel-700",
+    "description": "Carfosel™ 700 blends interact in a unique way to bind water with proteins and increase meat tenderness. Treated products will maintain their juicy appearance as well as their natural nutritional properties, texture and color.",
+    "company_name": "Prayon S.A.",
+    "company_slug": "prayon-s-a",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697222881/production/Brand/24812/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607215/production/CategoryImage/511/category_image/FoodNutrition_12.jpg",
+    "properties": {
+        "Applications": [
+            "Meat, Poultry & Seafood",
+            "Food"
+        ],
+        "Product Families": [
+            "Texturizers",
+            "Salt & Salt Substitutes",
+            "Taste & Flavor",
+            "Texture & Consistency"
+        ],
+        "End Uses": [
+            "Sausage Rolls",
+            "Cured Meats"
+        ]
+    },
+    "summary": {}
+}

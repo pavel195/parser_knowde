@@ -1,0 +1,52 @@
+{
+    "id": 388309,
+    "brand": "helishell-calcium-rich-shells",
+    "name": "Helicare® Powder",
+    "slug": "helicare-powder",
+    "description": "Helicare® Powder is a snail extract that improves joints health. This snail extract is obtained from a refined product of the snail’s mucus. This ingredient gives strength and elasticity to joint cartilage and accelerates tissue and fracture healing.",
+    "company_name": "HPE INGREDIENTS",
+    "company_slug": "hpe-ingredients",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708519911/production/Brand/29162/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606945/production/CategoryImage/505/category_image/FoodNutrition_06.jpg",
+    "properties": {
+        "Applications": [
+            "Oral",
+            "Other Animal Health & Nutrition",
+            "Other Nutrition Applications",
+            "Nutraceuticals & Supplements",
+            "Animal Health & Nutrition",
+            "Nutrition & Well Being",
+            "Drug Delivery & Care Solutions"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Dietary Supplements"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Snail Extract",
+            "Snail Mucus Extract"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin"
+        ],
+        "Labeling Claims": [
+            "Natural",
+            "Naturally Derived"
+        ],
+        "Benefit Claims (Health)": [
+            "Improved Joint Flexibility",
+            "Joint Support"
+        ],
+        "Features": [
+            "Supports Healthy Joints",
+            "Promotes Joint Comfort And Mobility"
+        ]
+    }
+}

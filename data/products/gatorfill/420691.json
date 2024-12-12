@@ -1,0 +1,40 @@
+{
+    "id": 420691,
+    "brand": "gatorfill",
+    "name": "Gatorfill Trowelable Surface Mastic",
+    "slug": "gatorfill-trowelable-surface-mastic",
+    "description": "Gatorfill is a blend of asphalt emulsion, high molecular weight acrylic polymer, graded rubber and fine ceramic aggregate designed to fill cracks on asphalt pavement surfaces.",
+    "company_name": "Neyra Industries",
+    "company_slug": "neyra-industries",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292610/production/Brand/33033/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608410/production/CategoryImage/557/category_image/BuildingConstruction_01.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Infrastructure, Roads & Paving",
+            "Pavement, Highways, Roads & Bridges",
+            "Sealants & Caulks"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Caulks & Sealants"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Structural Sealant"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Asphalt"
+        ],
+        "Application Method": [
+            "Trowel"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    }
+}

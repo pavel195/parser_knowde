@@ -1,0 +1,37 @@
+{
+    "id": 454570,
+    "brand": "purenic",
+    "name": "NicSalt T",
+    "slug": "nicsalt-t",
+    "description": "NicSalt T is a premium quality nicotine salts dedicated to e-liquid and nicotine pouches manufacturing.\r\n",
+    "company_name": "Chemnovatic",
+    "company_slug": "chemnovatic",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704106885/production/Company/63320/logo/image",
+    "banner_url": "https://static.knowde.com/card-banners/knowde-card-for-raw-materials-8.jpg",
+    "properties": {
+        "Applications": [
+            "Other Consumer Goods Applications"
+        ],
+        "Product Families": [
+            "Organic Salts",
+            "Technical Salts & Inorganics"
+        ],
+        "Chemical Family": [
+            "Tartrates"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Nicotine Dihydrogen Ditartrate"
+        ],
+        "CAS Number": [
+            "65-31-6"
+        ],
+        "Purity (Assay)": [
+            "99.9 - 99.9 %"
+        ],
+        "Labeling Claims": [
+            "Biocompatible"
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "id": 333695,
+    "brand": "moltopren",
+    "name": "ISOCOLOR EP",
+    "slug": "isocolor-ep",
+    "description": "Isocolor EP are very well tolerated in the epoxy systems. One of the reasons for this is the build-up on an epoxy resin as a carrier binder. Different epoxy resins are used depending on the area of ​​application and the associated requirements. The selected pigments meet the high demands of these industries in terms of light and weather fastness as well as temperature and chemical resistance.",
+    "company_name": "ISL-Chemie",
+    "company_slug": "isl-chemie",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708517156/production/Brand/24578/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608760/production/CategoryImage/576/category_image/AutomotiveTransportation_04.jpg",
+    "properties": {
+        "Applications": [
+            "Floor Coatings",
+            "Other Parts & Components",
+            "Flooring & Surfaces",
+            "Parts & Components",
+            "Building & Construction"
+        ],
+        "Product Families": [
+            "Dispersions & Masterbatches",
+            "Pigments & Colorants"
+        ],
+        "End Uses": [
+            "Epoxy Adhesive",
+            "2K (2 Component) Adhesive"
+        ]
+    },
+    "summary": {
+        "End Uses": [
+            "Epoxy Adhesive",
+            "2K (2 Component) Adhesive"
+        ],
+        "Compatible Polymers & Resins": [
+            "Epoxies (EP)"
+        ]
+    }
+}

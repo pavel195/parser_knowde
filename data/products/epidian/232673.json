@@ -1,0 +1,50 @@
+{
+    "id": 232673,
+    "brand": "epidian",
+    "name": "EPIDIAN® 6F",
+    "slug": "epidian-6f",
+    "description": "EPIDIAN® 6F is used in anti-corrosive paints.",
+    "company_name": "Ciech",
+    "company_slug": "ciech",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112425/production/Product/232673/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608600/production/CategoryImage/568/category_image/PaintingsCoatings_04.jpg",
+    "properties": {
+        "Applications": [
+            "Other Adhesives & Sealants Applications",
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Resins & Binders",
+            "Epoxies"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives",
+            "Bisphenol F Type Epoxy",
+            "Phenols & Phenolics",
+            "Bisphenol A Type Epoxy",
+            "Bisphenol Epoxy Resins"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Bisphenol F Type Epoxy",
+            "Phenols & Phenolics",
+            "Bisphenol Epoxy Resins",
+            "Epoxy & Epoxy Derivatives",
+            "Bisphenol A Type Epoxy"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal"
+        ],
+        "Features": [
+            "Improved Hardness",
+            "Heat Resistance",
+            "Corrosion Resistance",
+            "Chemical Resistance",
+            "Dirt Pickup Resistance",
+            "Good Electrical Properties",
+            "Good Shrinkage Resistance",
+            "Good Mechanical Properties"
+        ]
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "id": 300696,
+    "brand": "antiskin",
+    "name": "Organo Sr 10",
+    "slug": "organo-sr-10",
+    "description": "Organo Sr 10 is a clear solution with medium viscosity of strontium metallic soap of a synthetic fatty acid in mineral spirit.",
+    "company_name": "Organometal SA",
+    "company_slug": "organometal-sa",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708673351/production/Company/24279/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608621/production/CategoryImage/570/category_image/PaintingsCoatings_06.jpg",
+    "properties": {
+        "Applications": [
+            "Other Printing & Packaging Applications",
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Functional Additives",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Strontium & Strontium Compounds",
+            "Organometallics"
+        ],
+        "End Uses": [
+            "Solventborne Coating",
+            "Solventless & High Solids Coating"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Drying Agent"
+        ],
+        "Chemical Family": [
+            "Organometallics",
+            "Strontium & Strontium Compounds"
+        ],
+        "Labeling Claims": [
+            "Lead-free"
+        ],
+        "Compatible Polymers & Resins": [
+            "Alkyds"
+        ],
+        "Features": [
+            "Non-Yellowing Grade"
+        ],
+        "End Uses": [
+            "Solventless & High Solids Coating",
+            "Solventborne Coating"
+        ]
+    }
+}

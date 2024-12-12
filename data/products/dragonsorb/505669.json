@@ -1,0 +1,52 @@
+{
+    "id": 505669,
+    "brand": "dragonsorb",
+    "name": "Flyaro - Litsea Cubeba Oil",
+    "slug": "guangzhou-flying-dragon-chemical-ltd-litsea-cubeba-oil",
+    "description": null,
+    "company_name": "Guangzhou Flying Dragon Chemical Ltd.",
+    "company_slug": "guangzhou-flying-dragon-chemical",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1713790852/production/Company/38164/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515657/production/CategoryImage/1056/category_image/HII_08.jpg",
+    "properties": {
+        "Applications": [
+            "Fragrances & Perfumes",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Flavors & Taste Maskers",
+            "Flavor Ingredients",
+            "Aroma Ingredients",
+            "Functionals",
+            "Taste & Flavor",
+            "Excipients"
+        ],
+        "Flavor Family": [
+            "Fruit Flavors"
+        ],
+        "INCI Name": [
+            "Litsea Cubeba Fruit Oil"
+        ],
+        "Ingredient Name": [
+            "Litsea Cubeba Oil"
+        ],
+        "End Uses": [
+            "Fragrances & Perfumes"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Litsea Cubeba Fruit Oil"
+        ],
+        "Flavor": [
+            "Lemon"
+        ],
+        "Functions": [
+            "Flavoring Agent",
+            "Fragrance"
+        ],
+        "Fragrance": [
+            "Citral"
+        ]
+    }
+}

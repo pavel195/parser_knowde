@@ -1,0 +1,54 @@
+{
+    "id": 261446,
+    "brand": "sulfenax",
+    "name": "DUHOR® N-PL/S",
+    "slug": "duhor-n-pl-s",
+    "description": "Duhor® N-PL/S is a flame retardant and smoke suppressor. DUHOR® N-PL/S is surface untreated white powder of magnesium hydroxide with limited particle size distribution and specific morphological properties.",
+    "company_name": "Duslo",
+    "company_slug": "duslo",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708696057/production/Company/20592/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608769/production/CategoryImage/577/category_image/AutomotiveTransportation_05.jpg",
+    "properties": {
+        "Applications": [
+            "Other Printing & Packaging Applications",
+            "Other Electrical & Electronics Applications",
+            "Other Consumer Goods Applications",
+            "Other Building & Construction Applications",
+            "Tires",
+            "Other Industrial Applications",
+            "Maintenance, Repair & Overhaul",
+            "Other Automotive & Transportation Applications",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Flame Retardants",
+            "Performance Additives",
+            "Polymer Additives",
+            "Elastomer Additives"
+        ],
+        "Chemical Family": [
+            "Magnesium Salts",
+            "Magnesium & Magnesium Compounds"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Magnesium Hydroxide"
+        ],
+        "Chemical Family": [
+            "Magnesium Salts",
+            "Magnesium & Magnesium Compounds"
+        ],
+        "Functions": [
+            "Flame Retardant",
+            "Smoke Suppressant"
+        ],
+        "Compatible Polymers & Resins": [
+            "Polyethylenes (PE)",
+            "Chloroprene Rubber (CR)"
+        ],
+        "Synonyms": [
+            "Magnesia hydrate, Magnesium dihydroxide, Magnesium hydroxide (Mg(OH)2), Magnesium(II) hydroxide, Milk of magnesia"
+        ]
+    }
+}

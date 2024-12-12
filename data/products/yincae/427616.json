@@ -1,0 +1,48 @@
+{
+    "id": 427616,
+    "brand": "yincae",
+    "name": "Yincae® UVC 88G",
+    "slug": "yincae-uvc-88g",
+    "description": "Yincae® UVC 88G is a biocompatible hydrogel coating. It is a silver filled, one part epoxy conductive coating for glass and plastic surfaces. It features highly fluorescing, one part, 100% solid, dual cure acrylate polyurethane conformal coatings. They provide excellent chemical resistance, surface hardness, flexibility, and moisture resistance. After cure, these products provide excellent protection for all surfaces against dust, chemicals and harsh environmental factors. They also increase their biocompatibility and ability to retain relatively brilliant fluorescence, allowing coating inspection under UV light. The cure of shadow areas can be accomplished using a secondary heat cure.",
+    "company_name": "Yincae Advanced Materials",
+    "company_slug": "yincae-advanced-materials",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520509/production/Brand/33890/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607486/production/CategoryImage/521/category_image/ElectricalElectronics_06.jpg",
+    "properties": {
+        "Applications": [
+            "Packaging & Assembly",
+            "Parts & Components",
+            "Electronics Coatings",
+            "Semiconductor Manufacturing"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Other Paints & Coatings"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "1K (1 component) Coating",
+            "Conformal Coating",
+            "Radiation Curable Coating"
+        ],
+        "Features": [
+            "UV Curable",
+            "Moisture Resistant",
+            "Chemical Resistant",
+            "Flexible",
+            "Excellent Flexibility",
+            "Biocompatible"
+        ],
+        "Application Method": [
+            "Spray",
+            "Dip Coating"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ]
+    }
+}

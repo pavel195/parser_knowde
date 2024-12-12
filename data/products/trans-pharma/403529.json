@@ -1,0 +1,39 @@
+{
+    "id": 403529,
+    "brand": "trans-pharma",
+    "name": "TRANSPROP® CWF1-F",
+    "slug": "transprop-cwf1-f",
+    "description": "TRANSPROP® CWF1-F is a biaxially oriented white opaque cavitated polypropylene film, high gloss, high energy treated one side.",
+    "company_name": "Transcendia",
+    "company_slug": "transcendia",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686150176/production/Brand/30871/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609128/production/CategoryImage/597/category_image/PrintingPackaging_08.jpg",
+    "properties": {
+        "Applications": [
+            "Packaging",
+            "Food & Beverage Packaging"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Polymer Name": [
+            "BOPP (Polypropylene) Film"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "BOPP (Polypropylene) Film"
+        ],
+        "Physical Form": [
+            "Film"
+        ],
+        "Features": [
+            "High Gloss",
+            "Excellent Stiffness",
+            "Good Adhesion",
+            "Excellent Opacity",
+            "Corona Treated",
+            "Excellent Whiteness"
+        ]
+    }
+}

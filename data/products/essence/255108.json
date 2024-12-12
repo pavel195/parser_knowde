@@ -1,0 +1,35 @@
+{
+    "id": 255108,
+    "brand": "essence",
+    "name": "Helena Agri-Enterprises Dyne-A-Pak",
+    "slug": "helena-agri-enterprises-dyne-a-pak",
+    "description": "Dyne-A-Pak is a unique adjuvant that provides deposition enhancement, while providing an alternative to traditional methylated seed oil and crop oil concentrate adjuvants. It can provide equivalent or superior efficacy enhancement with improved crop safety. Dyne-A-Pak enhances absorption of water-soluble herbicides and is compatible with most pesticides and liquid fertilizers.",
+    "company_name": "Helena Agri-Enterprises",
+    "company_slug": "helena-agri-enterprises",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672655/production/Company/19288/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708672655/production/Company/19288/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Other Agricultural Crops",
+            "Agricultural Crops"
+        ],
+        "Product Families": [
+            "Stickers, Surfactants & Wetting Agents",
+            "Adjuvants & Formulation Ingredients"
+        ],
+        "Chemical Family": [
+            "Urea & Urea Derivatives",
+            "Ammonium Compounds"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Surfactant",
+            "Sticker"
+        ],
+        "Chemical Family": [
+            "Urea & Urea Derivatives",
+            "Ammonium Compounds"
+        ]
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "id": 313526,
+    "brand": "lipicorn",
+    "name": "Lípidos Santiga S.A. Copal / Helip",
+    "slug": "lipidos-santiga-s-a-copal-helip",
+    "description": "Lípidos Santiga S.A. Copal / Helip is a special vegetable product range for ice cream. Our solutions are designed to provide a great sensory experience that guarantees a quality final product.\r\n",
+    "company_name": "Lípidos Santiga S.A.",
+    "company_slug": "lipidos-santiga-s-a",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686109055/production/Product/313526/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606934/production/CategoryImage/504/category_image/FoodNutrition_05.jpg",
+    "properties": {
+        "Applications": [
+            "Food",
+            "Dairy",
+            "Desserts & Fruit Preparations"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Edible Oils & Fats"
+        ],
+        "End Uses": [
+            "Ice Cream"
+        ]
+    },
+    "summary": {
+        "Features": [
+            "High Quality",
+            "Improved Texture"
+        ]
+    }
+}

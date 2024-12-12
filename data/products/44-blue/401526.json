@@ -1,0 +1,41 @@
+{
+    "id": 401526,
+    "brand": "44-blue",
+    "name": "71 Red™",
+    "slug": "71-red",
+    "description": "71 RED™ is a high strength medium viscosity threadlocker. It provides excellent strength on a variety of different size fasteners, and has great resistance to surface contamination. Use 71 RED™ for all jobs requiring a fast setting permanent thread locker.",
+    "company_name": "Adhesive R&D",
+    "company_slug": "adhesive-r-d",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520038/production/Brand/30713/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608939/production/CategoryImage/585/category_image/AdhesivesSealants_02.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Other Building & Construction Applications",
+            "Pipes & Plumbing"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Anaerobic Adhesives"
+        ],
+        "Chemical Family": [
+            "Methacrylates"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Anaerobic Adhesive"
+        ],
+        "Application Area": [
+            "Thread Sealing"
+        ],
+        "Chemical Family": [
+            "Methacrylates"
+        ],
+        "Features": [
+            "High Strength",
+            "Medium Viscosity",
+            "Fast Setting"
+        ]
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "id": 335657,
+    "brand": "primex-golden-flex",
+    "name": "Primex Golden Flex® All-Purpose Shortening",
+    "slug": "primex-golden-flex-all-purpose-shortening",
+    "description": "Primex Golden Flex is a zero grams trans-fat premium all-purpose shortening that is a true drop-in replacement for all-purpose bakery applications. With its neutral flavor and excellent mouthfeel, Primex Golden Flex is the perfect choice for pie doughs, cookies, biscuits, and general bakery applications.Golden Flex expands the reach of non-PHO shortenings into the more challenging baking applications. Unlike most non-PHO shortenings which suffer reduced functionality and flexibility compared to PHO shortenings, Golden Flex is a true PHO-free drop-in replacement.",
+    "company_name": "STRATAS FOODS - Food Ingredients Division",
+    "company_slug": "stratas-foods-food-ingredients-division",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686104171/production/Brand/24795/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606961/production/CategoryImage/506/category_image/FoodNutrition_07.jpg",
+    "properties": {
+        "Applications": [
+            "Food",
+            "Bakery",
+            "Convenience Foods"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Edible Oils & Fats"
+        ],
+        "End Uses": [
+            "Pies",
+            "Dough",
+            "Biscuits & Cookies",
+            "Shortening"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Vegetable Fat"
+        ],
+        "Labeling Claims": [
+            "Trans fat-free",
+            "PHO (Partially Hydrogenated Oil)-Free"
+        ],
+        "Features": [
+            "Improved Mouthfeel",
+            "Neutral Taste",
+            "Excellent Mouthfeel"
+        ]
+    }
+}

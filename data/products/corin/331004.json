@@ -1,0 +1,65 @@
+{
+    "id": 331004,
+    "brand": "corin",
+    "name": "CP1™ Polyimide",
+    "slug": "cp1-polyimide",
+    "description": "CP1™ Polyimide Colorless, transparent polyimide with low moisture uptake and low dielectric constant\nCP1™ Polyimide exhibits the lowest moisture uptake, lowest dielectric constant, and lowest color of all commercially available polyimides, making it an ideal choice for electronics, displays, and aerospace applications. Material is available as a raw powder, liquid resin or in continuous rolls in thicknesses as low as 2.5 microns (0.1 mil) and in widths up to 60 inches (152 cm).",
+    "company_name": "NeXolve",
+    "company_slug": "nexolve",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686150346/production/Product/331004/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1686150346/production/Product/331004/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Tapes & Labels",
+            "Packaging & Paper",
+            "Wire & Cable",
+            "Tapes, Labels & Adhesives",
+            "Displays",
+            "Jacketing & Insulation",
+            "Other Devices & Assemblies",
+            "Aerospace & Aviation",
+            "Devices & Assemblies",
+            "Transportation",
+            "Tape & Label Adhesives"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Polyimides (PI)"
+        ],
+        "Polymer Name": [
+            "Polyimide (PI)"
+        ],
+        "End Uses": [
+            "Film",
+            "Aerospace Applications",
+            "Tape",
+            "Electrical Insulation"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyimide (PI)"
+        ],
+        "Physical Form": [
+            "Liquid",
+            "Film",
+            "Powder"
+        ],
+        "Features": [
+            "Low Dielectric Constant",
+            "UV Resistant",
+            "Low Moisture Absorption"
+        ],
+        "Density": [
+            "1540.0 - 1540.0 kg/m³"
+        ],
+        "Tensile Modulus": [
+            "2000.0 - 2000.0 MPa"
+        ],
+        "Color": [
+            "Transparent"
+        ]
+    }
+}

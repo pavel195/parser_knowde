@@ -1,0 +1,57 @@
+{
+    "id": 411634,
+    "brand": "trymer",
+    "name": "Hibco Plastics Flexible Foam Polyether Urethane",
+    "slug": "hibco-plastics-flexible-foam-polyether-urethane",
+    "description": "Flexible Foam Polyether Urethane is a lower density flexible urethane foam used in industrial packaging applications where higher loads are involved. It is a low cost, high resilient open cell flexible foam. It can be formulated to meet the MIL-PRF-26514, Cal-117, MVSS302, UL-94, and the FAR 25.853(a) specifications.",
+    "company_name": "Hibco Plastics",
+    "company_slug": "hibco-plastics",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1702444508/production/Company/54848/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Other Military & Defense Applications",
+            "Sports & Recreation",
+            "Non-Food Consumer Packaging",
+            "Industrial & Transport Packaging",
+            "Marine",
+            "Aerospace & Aviation",
+            "Equipment & Parts",
+            "Transportation",
+            "Chemical & Industrial Manufacturing",
+            "Military & Defense",
+            "Packaging"
+        ],
+        "Product Families": [
+            "Foams"
+        ],
+        "Chemical Family": [
+            "Urethanes"
+        ],
+        "End Uses": [
+            "Military Applications",
+            "Aerospace Applications",
+            "Marine Applications",
+            "Furniture",
+            "Appliances",
+            "Gaskets"
+        ]
+    },
+    "summary": {
+        "Foam Type": [
+            "Flexible Foam",
+            "Open Cell Foam"
+        ],
+        "Chemical Family": [
+            "Urethanes"
+        ],
+        "End Uses": [
+            "Aerospace Applications",
+            "Gaskets",
+            "Military Applications",
+            "Appliances",
+            "Furniture",
+            "Marine Applications"
+        ]
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "id": 307276,
+    "brand": "starfire",
+    "name": "DayGlo Corona Magenta (ZQ-21)",
+    "slug": "dayglo-corona-magenta-zq-21",
+    "description": "Z/ZQ® Series are fluorescent pigments for low plateout, olefin applications. Z and ZQ® pigments are produced in a thermoplastic polyamide resin.",
+    "company_name": "DayGlo",
+    "company_slug": "dayglo",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708688404/production/Product/307276/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708688404/production/Product/307276/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Other Paints & Coatings Applications",
+            "Other Printing & Packaging Applications",
+            "Other Consumer Goods Applications"
+        ],
+        "Product Families": [
+            "Inorganic Pigments",
+            "Photoluminescent Pigments",
+            "Color Pigments",
+            "Pigments & Colorants",
+            "Polymer Additives"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Pigment",
+            "Colorant"
+        ],
+        "Pigment Type": [
+            "Inorganic Pigments",
+            "Fluorescent"
+        ],
+        "Color": [
+            "Magenta (Fluorescent)"
+        ],
+        "Compatible Polymers & Resins": [
+            "Acrylonitrile Butadiene Styrene (ABS)",
+            "Polyethylenes (PE)",
+            "Polyamides",
+            "Polypropylenes (PP)",
+            "Polyvinyl Chloride (PVC)",
+            "Poly(Methyl Methacrylate) (PMMA)",
+            "Acrylics",
+            "Polycarbonates (PC)",
+            "Ionomer Resins",
+            "Polystyrenes (PS)"
+        ],
+        "Processing Methods": [
+            "Injection Molding"
+        ]
+    }
+}

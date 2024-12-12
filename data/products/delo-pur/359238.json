@@ -1,0 +1,27 @@
+{
+    "id": 359238,
+    "brand": "delo-pur",
+    "name": "DELO KATIOBOND® 4552",
+    "slug": "delo-katiobond-4552",
+    "description": "DELO KATIOBOND® 4552 is a  modified epoxy resin , 1C , preactivated free of solvents , unfilled , electrically insulating, self-leveling, preactivated.",
+    "company_name": "DELO",
+    "company_slug": "delo",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697223681/production/Brand/26841/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607546/production/CategoryImage/524/category_image/ElectricalElectronics_09.jpg",
+    "properties": {
+        "Applications": [
+            "Adhesives & Sealants",
+            "Appliances & Electronics",
+            "Packaging & Assembly"
+        ],
+        "Product Families": [
+            "Encapsulants",
+            "Other Adhesives & Sealants",
+            "Adhesives & Sealants"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    },
+    "summary": {}
+}

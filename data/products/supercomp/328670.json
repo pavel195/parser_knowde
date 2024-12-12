@@ -1,0 +1,34 @@
+{
+    "id": 328670,
+    "brand": "supercomp",
+    "name": "Supercomp® 1015 PW",
+    "slug": "supercomp-1015-pw",
+    "description": "Supercomp® 1015 PW is a plain weave fabric coated with 150μm milled carbon fibers and available as a cost‐effective prepreg for composite tooling.",
+    "company_name": "Boston Materials",
+    "company_slug": "boston-materials",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691741920/production/Brand/23671/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608779/production/CategoryImage/578/category_image/AutomotiveTransportation_06.jpg",
+    "properties": {
+        "Applications": [
+            "Implants & Prosthetics",
+            "Housings & Enclosures",
+            "Sports & Recreation",
+            "Rail & Mass Transit",
+            "Parts & Components",
+            "Medical",
+            "Transportation"
+        ],
+        "Product Families": [
+            "Carbon Fiber",
+            "Reinforcements"
+        ],
+        "Chemical Family": [
+            "Carbon Fiber"
+        ],
+        "End Uses": [
+            "Snowboards",
+            "Prosthetic Materials"
+        ]
+    },
+    "summary": {}
+}

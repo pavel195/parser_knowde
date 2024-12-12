@@ -1,0 +1,50 @@
+{
+    "id": 402730,
+    "brand": "recoupedrol",
+    "name": "Biocreat™ Debittered",
+    "slug": "biocreat-debittered",
+    "description": "Biocreat is a highly purified extract standardized for Total amino acid and Trigonelline content derived from fenugreek seed. Biocreat is a clinically proven composition to increase bioavailability of creatine in muscle cell. Each 1380 mg of Biocreat Debittered contains 450 mg of active Biocreat which contains not less than 20% total amino acid and not less than 15% trigonelline.",
+    "company_name": "Natrusolate",
+    "company_slug": "natrusolate",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708690810/production/Company/50411/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606129/production/CategoryImage/472/category_image/PharmaceuticalsNutraceuticals_03.jpg",
+    "properties": {
+        "Applications": [
+            "Functional Foods",
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Phytochemicals & Plant Extracts",
+            "Phytochemicals",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "RTD Nutrition Formulas",
+            "Dietary Supplements"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Fenugreek Extract"
+        ],
+        "Functions": [
+            "Supplement",
+            "Dietary Supplement",
+            "Phytochemical"
+        ],
+        "Active Component": [
+            "Trigonelline"
+        ],
+        "Physical Form": [
+            "Powder",
+            "Solid"
+        ],
+        "Features": [
+            "Free Flowing",
+            "High Purity",
+            "No Bitterness"
+        ]
+    }
+}

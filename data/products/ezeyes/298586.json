@@ -1,0 +1,44 @@
+{
+    "id": 298586,
+    "brand": "ezeyes",
+    "name": "ezeyes™ 5% Beadlet",
+    "slug": "ezeyes-5-beadlet",
+    "description": "EZ Eyes 5% Beadlet is a dietary supplement that contains the same natural carotenoids present in the human macula. The purified zeaxanthin is derived from marigold flowers (Tagetes erecta) and protected by US patents 6,784,351, 7,033,622 and 7,575,766. The purified zeaxanthin powder is stabilized using all natural antioxidants and a natural, GMO free, vegetarian coating.\r\n",
+    "company_name": "Chrysantis",
+    "company_slug": "chrysantis",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708690934/production/Company/23663/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608831/production/CategoryImage/580/category_image/HealthcarePharma_02.jpg",
+    "properties": {
+        "Applications": [
+            "Oral",
+            "Drug Delivery & Care Solutions"
+        ],
+        "Product Families": [
+            "Phytochemicals & Plant Extracts",
+            "Plant & Herb Products & Extracts",
+            "Whole Foods, Extracts & Premixes",
+            "Nutraceuticals & Supplements"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Marigold Extract"
+        ],
+        "Active Component": [
+            "Carotenoids",
+            "Zeaxanthin"
+        ],
+        "Functions": [
+            "Dietary Supplement"
+        ],
+        "Labeling Claims": [
+            "Vegetarian",
+            "Natural",
+            "Non-GMO"
+        ],
+        "Physical Form": [
+            "Solid",
+            "Powder"
+        ]
+    }
+}

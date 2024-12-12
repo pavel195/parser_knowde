@@ -1,0 +1,55 @@
+{
+    "id": 340289,
+    "brand": "amsil",
+    "name": "AMSil™ 70",
+    "slug": "applied-material-solutions-amsil-70",
+    "description": "AMSil™ 70 is a hydrophobic silica, fumed and precipitated silicas are used in a wide range of applications\r\n",
+    "company_name": "Applied Material Solutions",
+    "company_slug": "applied-material-solutions",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708696106/production/Brand/25066/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Non-Food Consumer Packaging",
+            "Housewares",
+            "Apparel",
+            "Packaging"
+        ],
+        "Product Families": [
+            "Texturizers & Fillers",
+            "Solvents & Carriers",
+            "Defoamers",
+            "Surface Modifiers",
+            "Processing Aids",
+            "Fillers & Extenders",
+            "Additives",
+            "Functionals",
+            "Polymer Additives",
+            "Adjuvants & Formulation Ingredients"
+        ],
+        "Chemical Family": [
+            "Barites & Barium Salts",
+            "Silica"
+        ],
+        "End Uses": [
+            "Gloves",
+            "Kitchenware",
+            "Handles",
+            "Bottles"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Anti-Caking Agent",
+            "Carrier",
+            "Defoamer",
+            "Anti-Static Agent",
+            "Adsorbent",
+            "Filler"
+        ],
+        "Chemical Family": [
+            "Silica",
+            "Barites & Barium Salts"
+        ]
+    }
+}

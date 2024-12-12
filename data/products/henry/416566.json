@@ -1,0 +1,37 @@
+{
+    "id": 416566,
+    "brand": "henry",
+    "name": "Henry® 910-01",
+    "slug": "henry-910-01",
+    "description": "Henry® 910-01 is a quality penetrating primer of thin brush or spray consistency.",
+    "company_name": "Henry Company",
+    "company_slug": "henry-company",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520333/production/Brand/32534/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608422/production/CategoryImage/558/category_image/BuildingConstruction_02.jpg",
+    "properties": {
+        "Applications": [
+            "Roofing",
+            "Roof Coatings",
+            "Building Envelope & Roofing",
+            "Other Building Envelope & Roofing Applications"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Primer"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Concrete",
+            "Asphalt"
+        ],
+        "Application Method": [
+            "Spray",
+            "Roller",
+            "Brush"
+        ]
+    }
+}

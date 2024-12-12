@@ -1,0 +1,38 @@
+{
+    "id": 370617,
+    "brand": "multi-pro-plus",
+    "name": "Multi Pro Plus XP Yellow",
+    "slug": "multi-pro-plus-xp-yellow",
+    "description": "The Multi Pro Plus XP Yellow series is an innovative sheetfed offset printing ink for paper and board, is suitable for publication, commercial, packaging (Non-food) and label printing. Multi Pro Plus XP fulfills all requirements of ISO-Norm 2846-1. It’s color intensity and dot sharpness allows the printer to meet all requirements of ISO-Norm 12647-2 regarding the ink properties, as well as achieving a very neutral gray-balance.",
+    "company_name": "Deutsche Druckfarben",
+    "company_slug": "deutsche-druckfarben",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520379/production/Brand/27602/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609091/production/CategoryImage/594/category_image/PrintingPackaging_05.jpg",
+    "properties": {
+        "Applications": [
+            "Tapes & Labels",
+            "Packaging Coatings",
+            "Printing & Inks",
+            "Tapes, Labels & Adhesives",
+            "Other Packaging Coatings",
+            "Offset & Lithographic Printing"
+        ],
+        "Product Families": [
+            "Offset & Lithographic Inks",
+            "Inks & Pastes"
+        ]
+    },
+    "summary": {
+        "Compatible Substrates & Surfaces": [
+            "Paper"
+        ],
+        "Features": [
+            "Good Abrasion Resistance",
+            "Fast Setting",
+            "High Gloss"
+        ],
+        "Color": [
+            "Yellow"
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "id": 407193,
+    "brand": "super-cal-8",
+    "name": "UAS of America Phosphonate NPK Plant Mixes",
+    "slug": "uas-of-america-phosphonate-npk-plant-mixes",
+    "description": "UAS of America, Inc creates Phosphonate fertilizers by combining an inorganic hydroxide with pure H3PO3 to form a 100% liquid fertilizer. Keeping in mind the importance of P in an N P K, U.A.S. has developed the pHorus™ line of NPK’s. pHorus™ is a specially designed high Phosphonate concentrate, manufactured with a high phosphorus base needed by plants, trees, and vegetable crops to produce blossoms. Phosphorus is an essential element for all plant life. It makes up an important part of plant genes and is essential for molecules that carry genetic information.",
+    "company_name": "UAS of America",
+    "company_slug": "uas-of-america",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708683686/production/Company/48822/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608173/production/CategoryImage/547/category_image/AgricultureFeed_03.jpg",
+    "properties": {
+        "Applications": [
+            "Cereals",
+            "Trees & Woodlands",
+            "Fruits",
+            "Agricultural Crops",
+            "Turf, Ornamentals & Landscape"
+        ],
+        "Product Families": [
+            "Fertilizers & Nutrients",
+            "Plant Health, Nutrients & Soil Management"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Fertilizer",
+            "Micronutrient"
+        ]
+    }
+}

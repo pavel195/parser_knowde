@@ -1,0 +1,39 @@
+{
+    "id": 394265,
+    "brand": "barrier-grip",
+    "name": "Vapor-Guard® 9311B",
+    "slug": "vapor-guard-9311b",
+    "description": "Vapor-Guard® 9311B is a high performance MVTR, water and OGR. It is not printable nor cold set gluable. Rod coater application recommended with or without a base coat.",
+    "company_name": "Enviro-Coatings",
+    "company_slug": "enviro-coatings",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1682592984/production/Brand/29780/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Paper & Pulp",
+            "Coated Paper & Paperboard"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Waterborne Coating"
+        ],
+        "Features": [
+            "Water Resistant",
+            "Oil Resistant"
+        ],
+        "Application Area": [
+            "Paper Manufacturing"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Paper"
+        ],
+        "Application Method": [
+            "Rod Coating"
+        ]
+    }
+}

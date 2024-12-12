@@ -1,0 +1,64 @@
+{
+    "id": 84265,
+    "brand": "stearinerie-dubois",
+    "name": "DUB™ 810 C",
+    "slug": "dub-810-c",
+    "description": "DUB 810C is a moisturizing emollient with a light feel whose sensory profile resembles cyclomethicones. It can be used as a substitute for isohexadecane or dicaprylyl carbonate. In makeup, DUB 810C is effective for countering drying effects, for example in long-hold or waterproof formulas. Its emollient action is also prized in shaving products to improve razor glide.",
+    "company_name": "Stearinerie Dubois",
+    "company_slug": "stearinerie-dubois",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708686553/production/Company/1426/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708686553/production/Company/1426/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Baby Care",
+            "Color Cosmetics",
+            "Skin Care",
+            "Sun Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Conditioners & Emollients",
+            "Functionals"
+        ],
+        "Chemical Family": [
+            "Esters"
+        ],
+        "INCI Name": [
+            "Coco-Caprylate/Caprate"
+        ],
+        "End Uses": [
+            "Body Oil",
+            "Baby Sunscreen",
+            "Eye Liner",
+            "Face Powder",
+            "After Sun Products",
+            "Baby Lotion",
+            "Anti-Aging Products",
+            "Facial Cleanser",
+            "Eye Shadow",
+            "Concealer",
+            "Facial Moisturizer",
+            "BB Creams",
+            "Lipstick"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Coco-Caprylate/Caprate"
+        ],
+        "Functions": [
+            "Emollient"
+        ],
+        "Ingredient Origin": [
+            "Plant Origin"
+        ],
+        "Labeling Claims": [
+            "Ulta Beauty's Conscious Beauty",
+            "Credo Clean Standard",
+            "Clean at Sephora"
+        ],
+        "Benefit Claims": [
+            "Emolliency"
+        ]
+    }
+}

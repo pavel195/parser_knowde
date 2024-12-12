@@ -1,0 +1,38 @@
+{
+    "id": 509031,
+    "brand": "stirri",
+    "name": "STIRRI LT HF",
+    "slug": "stirri-lt-hf-no-clean-solder-paste-tacky-paste-flux",
+    "description": "STIRRI LT HF™ is a lead-free solder paste and tacky flux designed for stencil applications on printed circuit boards. With its low viscosity and halogen-free formulation, it ensures smooth application and compliance with regulatory standards such as REACH (Europe). Ideal for both professional and DIY projects, the STIRRI LT HF™ offers reliable performance without compromising environmental safety.",
+    "company_name": "STIRRI® USA",
+    "company_slug": "stirri",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto/v1719483200/production/Company/110213/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607618/production/CategoryImage/522/category_image/ElectricalElectronics_07.jpg",
+    "properties": {
+        "Applications": [
+            "Printed Circuit Boards (PCBs)",
+            "Parts & Components"
+        ],
+        "Product Families": [
+            "Other Ready-to-Use Products"
+        ],
+        "Chemical Family": [
+            "Rosins"
+        ]
+    },
+    "summary": {
+        "Product Type": [
+            "Solder Paste"
+        ],
+        "Application Area": [
+            "Printed Circuit Boards",
+            "Stencil"
+        ],
+        "Features": [
+            "Low Viscosity"
+        ],
+        "Chemical Family": [
+            "Rosins"
+        ]
+    }
+}

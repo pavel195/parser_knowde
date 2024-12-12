@@ -1,0 +1,46 @@
+{
+    "id": 334645,
+    "brand": "akest",
+    "name": "AKOLL P",
+    "slug": "akoll-p",
+    "description": "AKOLL P is a white to yellowish powder with a low viscosity. It is stable in extreme pH conditions. AKOLL P is ideal for use as an emulsion stabilizer, a skin feel enhancer, foam stabilizer, and moisturizing agent. It can be used in skin care and make-up applications.",
+    "company_name": "Akott",
+    "company_slug": "akott",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672661/production/Brand/24681/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608071/production/CategoryImage/544/category_image/HomePersonalCare_10.jpg",
+    "properties": {
+        "Applications": [
+            "Skin Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Conditioners & Emollients",
+            "Stabilizers",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Pectin"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Pectin"
+        ],
+        "Functions": [
+            "Moisturizing Agent",
+            "Stabilizer"
+        ],
+        "Labeling Claims": [
+            "Ulta Beauty's Conscious Beauty",
+            "Credo Clean Standard",
+            "Clean at Sephora"
+        ],
+        "Benefit Claims": [
+            "Emulsion Stabiliser",
+            "Broad pH Stability",
+            "Outstanding Skin feel",
+            "Low Viscosity",
+            "Foam Stability"
+        ]
+    }
+}

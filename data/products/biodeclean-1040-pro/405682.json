@@ -1,0 +1,40 @@
+{
+    "id": 405682,
+    "brand": "biodeclean-1040-pro",
+    "name": "Biodeclean Cleaner®",
+    "slug": "biodeclean-cleaner",
+    "description": "Biodeclean Cleaner® is a 100 % biodegradable product combined with a bio-content formulation. It acts as a cleaning and disinfectant agent mainly for carpets and upholstery. It has a high-efficiency rate as a cleaning degreaser on dirt and grime as well as other industrial and household applications.",
+    "company_name": "G&C Ambient Petrol",
+    "company_slug": "g-c-ambient-petrol",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292424/production/Brand/31154/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515636/production/CategoryImage/1054/category_image/HII_06.jpg",
+    "properties": {
+        "Applications": [
+            "Home Care",
+            "Institutional & Industrial Care",
+            "Carpet & Upholstery",
+            "Industrial Cleaning"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Industrial Cleaners",
+            "Commercial Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Disinfectant Products",
+            "Cleaner",
+            "Degreasers",
+            "Industrial Cleaners"
+        ],
+        "Application Areas": [
+            "Upholstery",
+            "Carpets"
+        ],
+        "Features": [
+            "Degreasing",
+            "Grime Cleaning"
+        ]
+    }
+}

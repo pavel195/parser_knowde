@@ -1,0 +1,78 @@
+{
+    "id": 354816,
+    "brand": "bsr",
+    "name": "BMS MG421",
+    "slug": "bms-mg421",
+    "description": "An incredibly inert fluorescent pigment, which is highly cross-linked and has a spherical particle shape for use in applications where the avoidance of swelling, bleeding, migration or plateout is desired.",
+    "company_name": "Brilliant Group, Inc.",
+    "company_slug": "brilliant-group",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708689547/production/Brand/26443/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708689547/production/Product/354816/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Textile Manufacturing",
+            "Leather Manufacturing",
+            "Non-Food Consumer Packaging",
+            "Luggage & Leather Goods",
+            "Footwear",
+            "Screen Printing",
+            "Gravure Printing",
+            "Flexography",
+            "Sports & Recreation",
+            "Printing & Inks",
+            "Packaging",
+            "Leather & Textiles"
+        ],
+        "Product Families": [
+            "Finishing Additives & Treatments",
+            "Color Pigments",
+            "Photoluminescent Pigments",
+            "Pigments & Colorants",
+            "Polymer Additives",
+            "Textile & Leather Chemicals"
+        ],
+        "End Uses": [
+            "Closures",
+            "Caps",
+            "Liquid Colorants",
+            "Traffic Cones",
+            "Tactile Objects",
+            "Midsole",
+            "Color Concentrates",
+            "Profiles",
+            "Toys",
+            "Synthetic Leather",
+            "Leather",
+            "Waterborne Ink",
+            "Solventborne Ink",
+            "Solventborne Coating",
+            "Screen Printing Ink",
+            "Plastisol Ink",
+            "Gravure Ink",
+            "Flexography Ink",
+            "Powder Coating",
+            "Sporting Goods"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Colorant",
+            "Pigment"
+        ],
+        "Pigment Type": [
+            "Fluorescent"
+        ],
+        "Color": [
+            "Magenta (Fluorescent)"
+        ],
+        "Compatible Polymers & Resins": [
+            "Ethylene Vinyl Acetate (EVA)",
+            "Polyvinyl Chloride (PVC)",
+            "Thermoplastic Polyurethane (TPU)",
+            "Polyurethanes (PU)",
+            "Polyolefins",
+            "Polyethylenes (PE)",
+            "Polypropylenes (PP)"
+        ]
+    }
+}

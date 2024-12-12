@@ -1,0 +1,85 @@
+{
+    "id": 316790,
+    "brand": "reinste",
+    "name": "Reinste 259",
+    "slug": "reinste-259",
+    "description": "Reinste 259 is Used as a functional filler for onec omp o n e n t o r two - c omp o n e n t polyurethane adhesive and sealant.",
+    "company_name": "Reinste Nano Ventures",
+    "company_slug": "reinste-nano-ventures",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708696111/production/Product/316790/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608982/production/CategoryImage/589/category_image/AdhesivesSealants_06.jpg",
+    "properties": {
+        "Applications": [
+            "Sealants & Caulks",
+            "Offset & Lithographic Printing",
+            "Gravure Printing",
+            "Sealants",
+            "Building & Construction",
+            "Bonding & Assembly",
+            "Building Materials",
+            "Construction Chemicals",
+            "Roofing",
+            "Printing & Inks"
+        ],
+        "Product Families": [
+            "Fillers & Extenders",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Quartz",
+            "Silicon-based Compounds",
+            "Carbonates",
+            "Calcium Salts"
+        ],
+        "End Uses": [
+            "Electrostatic Ink",
+            "Solvent Free (100% Solids) Adhesive",
+            "Solventborne Adhesive",
+            "Structural Adhesive",
+            "Offset Ink",
+            "Lithographic Ink",
+            "2K (2 Component) Sealant",
+            "2K (2 Component) Adhesive",
+            "1K (1 Component) Sealant",
+            "1K (1 Component) Adhesive",
+            "Hot Melt Adhesive",
+            "Gravure Ink"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Filler"
+        ],
+        "Chemical Family": [
+            "Quartz",
+            "Calcium Salts",
+            "Silicon-based Compounds",
+            "Carbonates"
+        ],
+        "End Uses": [
+            "1K (1 Component) Adhesive",
+            "2K (2 Component) Adhesive",
+            "Hot Melt Adhesive",
+            "2K (2 Component) Sealant",
+            "1K (1 Component) Sealant",
+            "Solventborne Adhesive",
+            "Solvent Free (100% Solids) Adhesive",
+            "Offset Ink",
+            "Gravure Ink",
+            "Structural Adhesive",
+            "Electrostatic Ink",
+            "Lithographic Ink"
+        ],
+        "Compatible Polymers & Resins": [
+            "Latex",
+            "Polyamides",
+            "Cement",
+            "Polyvinyl Chloride (PVC)",
+            "Polyolefins",
+            "Polyurethanes (PU)",
+            "Polysulfide Rubber",
+            "Ethylene Vinyl Acetate (EVA)",
+            "Cellulose & Cellulosics"
+        ]
+    }
+}

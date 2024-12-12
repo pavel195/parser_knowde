@@ -1,0 +1,42 @@
+{
+    "id": 371825,
+    "brand": "vf-bioscience-sas-ahcc",
+    "name": "Lactobacillus fermentum ME-3®",
+    "slug": "lactobacillus-fermentum-me-3",
+    "description": "Lactobacillus fermentum ME-3® is a patented probiotic strain with antioxidant and anti-inflammatory properties. Consumption of Lactobacillus fermentum ME-3® boosts production of the major cellular antioxidant glutathione. 20 years of research and clinical studies support the efficacy of L.fermentum ME-3® for cardiovascular and metabolic disease prevention (reduction of oxidized LDL, cholesterol and triglycerides), anti-aging (systemic antioxidant effect), detoxification (liver function support).",
+    "company_name": "VF Bioscience SAS",
+    "company_slug": "vf-bioscience-sas",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708673202/production/Brand/27752/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606984/production/CategoryImage/507/category_image/FoodNutrition_08.jpg",
+    "properties": {
+        "Applications": [
+            "Oral",
+            "Sports Nutrition",
+            "Functional Foods",
+            "Other Nutrition Applications",
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being",
+            "Drug Delivery & Care Solutions"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Prebiotics, Probiotics & Postbiotics",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Lactobacillus Fermentums"
+        ],
+        "Functions": [
+            "Probiotic"
+        ],
+        "Benefit Claims (Health)": [
+            "Cardioprotective",
+            "Hepatoprotection",
+            "Anti-Bacterial"
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "id": 88888,
+    "brand": "promois",
+    "name": "Promois™ SILK-1000F",
+    "slug": "promois-silk-1000f",
+    "description": "Promois™ SILK-1000F is hydrolyzed silk protein with hair conditioning efficacy. Silk protein is formed of two proteins: fibroin and sericin. Fibroin has a unique amino acid composition. It is rich in glycine, alanine and serine which have small molecular weight and simple chemical structure. This composition is known to form a sheet structure to which is associated the comfortable touch of silk. Many of the amino acids of sericin have hydroxyl groups which provides uncomparable moisturizing effect. Promois™ series is a range of peptides and derivatives obtained through hydrolysis of natural proteins. There are also products with different preservatives. It is developed and manufactured in Japan by SEIWA KASEI.",
+    "company_name": "Seiwa Kasei",
+    "company_slug": "seiwa-kasei",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708690495/production/Product/88888/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708690495/production/Product/88888/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Skin Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Conditioners & Emollients",
+            "Functionals"
+        ],
+        "Chemical Family": [
+            "Proteins, Peptides & Amino Acid Derivatives"
+        ],
+        "INCI Name": [
+            "Hydrolyzed Silk"
+        ],
+        "End Uses": [
+            "Moisturizers"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Hydrolyzed Silk"
+        ],
+        "Functions": [
+            "Conditioner",
+            "Moisturizing Agent"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Non-Animal Origin",
+            "Animal Origin"
+        ],
+        "Labeling Claims": [
+            "Natural",
+            "Clean at Sephora",
+            "Naturally Derived",
+            "Ulta Beauty's Conscious Beauty"
+        ],
+        "Benefit Claims": [
+            "Shine & Radiance",
+            "Conditioning",
+            "Soft Feel",
+            "Moisturizing"
+        ]
+    }
+}

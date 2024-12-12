@@ -1,0 +1,39 @@
+{
+    "id": 321533,
+    "brand": "nkx",
+    "name": "NKX 210",
+    "slug": "nkx-210",
+    "description": "NKX-210 Resin with excellent properties on the plate and recording. Great for formulation use in serigraphy (water base plastisol with hot iron resistance) in applications in the textile area. Can be combined with expanders.",
+    "company_name": "Nokxeller Microdispersions",
+    "company_slug": "nokxeller-microdispersions",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112406/production/Brand/22902/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Textiles & Nonwovens",
+            "Leather & Textiles",
+            "Textile Manufacturing"
+        ],
+        "Product Families": [
+            "Other Resins & Binders",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Polyethers",
+            "Aliphatics"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Polyethers",
+            "Aliphatics"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Textiles"
+        ],
+        "Features": [
+            "Good Brightness",
+            "Heat Resistance"
+        ]
+    }
+}

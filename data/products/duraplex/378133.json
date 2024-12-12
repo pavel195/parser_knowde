@@ -1,0 +1,34 @@
+{
+    "id": 378133,
+    "brand": "duraplex",
+    "name": "B-Quiet®",
+    "slug": "b-quiet",
+    "description": "B-QUIET® has been formulated to treat the symptoms of thiamine and magnesium deficiency including hyperirritability and nervousness in horses.",
+    "company_name": "Kentucky Equine Research",
+    "company_slug": "kentucky-equine-research",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708530712/production/Brand/28234/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608161/production/CategoryImage/546/category_image/AgricultureFeed_02.jpg",
+    "properties": {
+        "Applications": [
+            "Other Animal Health & Nutrition",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Feed Supplements",
+            "Nutrient Premixes",
+            "Nutritional Ingredients"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Magnesium & Thiamin Supplement"
+        ],
+        "Animal Species": [
+            "Horses"
+        ],
+        "Features": [
+            "Improving Stress Tolerance",
+            "Improves Muscle Development"
+        ]
+    }
+}

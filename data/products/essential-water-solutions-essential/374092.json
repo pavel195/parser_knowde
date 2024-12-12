@@ -1,0 +1,33 @@
+{
+    "id": 374092,
+    "brand": "essential-water-solutions-essential",
+    "name": "Essential™ 50 Hydrogen Peroxide",
+    "slug": "essential-50-hydrogen-peroxide",
+    "description": "Essential™ 50 Hydrogen Peroxide Hydrogen Peroxide is pure and simple with all the powerful oxidizing properties of hydrogen peroxide and nothing more. Essential Hydrogen Peroxide can be used in the same applications as Oxy Blast where the additional benefits of Oxy Blast and longer shelf life are not of importance.",
+    "company_name": "Essential Water Solutions",
+    "company_slug": "essential-water-solutions",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704101640/production/Brand/27964/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Water Treatment",
+            "Power, Water & Utilities"
+        ],
+        "Product Families": [
+            "Water Treatment Additives",
+            "Water Treatment Chemicals"
+        ],
+        "Chemical Family": [
+            "Peroxides"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Peroxides"
+        ],
+        "Applicable Processes": [
+            "Water Treatment",
+            "Sewage Treatment"
+        ]
+    }
+}

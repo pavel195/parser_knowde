@@ -1,0 +1,48 @@
+{
+    "id": 275619,
+    "brand": "syntholux",
+    "name": "LIOPTAL 541",
+    "slug": "lioptal-541",
+    "description": "Short-oil alkyd resin modified with phenol resin",
+    "company_name": "Synthopol",
+    "company_slug": "synthopol",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112125/production/Company/22068/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608630/production/CategoryImage/571/category_image/PaintingsCoatings_07.jpg",
+    "properties": {
+        "Applications": [
+            "Coatings & Finishes",
+            "Automotive & Transportation",
+            "Industrial Coatings",
+            "Packaging Coatings",
+            "Marine",
+            "Industrial Maintenance",
+            "Primers & Lacquers",
+            "Metal Coatings",
+            "Marine Coatings",
+            "Transportation"
+        ],
+        "Product Families": [
+            "Resins & Binders",
+            "Alkyds"
+        ],
+        "Chemical Family": [
+            "Alkyds",
+            "Alkyds (Modified)"
+        ],
+        "End Uses": [
+            "Primer"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Alkyds",
+            "Alkyds (Modified)"
+        ],
+        "End Uses": [
+            "Primer"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal"
+        ]
+    }
+}

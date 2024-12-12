@@ -1,0 +1,52 @@
+{
+    "id": 358032,
+    "brand": "metalon-products",
+    "name": "Metalon Pulser Oil",
+    "slug": "metalon-pulser-oil",
+    "description": "METALON PULSER OIL has been specifically formulated to address the many obstacles confronting MWD PULSER operations. The pulser is subjected to tremendous pressure and friction, causing very high operating temperatures. These extreme conditions, often at depths exceeding 5000 feet, adversely affect the life of the pulser, whether it be a solenoid or linear drive motor. As a result, increased downtime and maintenance costs are incurred. Metalon products delivers the practical solution.",
+    "company_name": "Metalon Products",
+    "company_slug": "metalon-products",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664290872/production/Brand/26647/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Other Oil, Gas & Mining Applications",
+            "Exploration & Upstream",
+            "Oil, Gas & Mining"
+        ],
+        "Product Families": [
+            "Lubricants & Oils",
+            "Fluids & Lubricants"
+        ],
+        "Chemical Family": [
+            "Blends & Combinations",
+            "Hydrocarbon Derivatives"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Fluid",
+            "Lubricant"
+        ],
+        "Application Areas": [
+            "Drilling Applications",
+            "Bearings"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Iron",
+            "Metal"
+        ],
+        "Features": [
+            "Heat Resistance",
+            "High Temperature Resistance",
+            "Wear Resistant",
+            "Extreme Pressure Performance",
+            "Cost Effective",
+            "Friction Reduction"
+        ],
+        "Chemical Family": [
+            "Blends & Combinations",
+            "Hydrocarbon Derivatives"
+        ]
+    }
+}

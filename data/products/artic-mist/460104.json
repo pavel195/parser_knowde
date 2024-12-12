@@ -1,0 +1,33 @@
+{
+    "id": 460104,
+    "brand": "artic-mist",
+    "name": "AFCONA 7525",
+    "slug": "afcona-7525",
+    "description": "AFCONA 7525 is a block polymer with acidic functionality and viscosity-depressing properties. It is recommended for use in unsaturated polyester, PVC, epoxy, and polyurethane resin systems and is primarily used as a wetting and dispersing agent in highly filled systems, providing strong viscosity-depressing properties. It has excellent wetting and dispersing properties with pigments and functional fillers such as ATH, resulting in very low viscosity.",
+    "company_name": "Dar-Tech Inc.",
+    "company_slug": "dar-tech-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1713790185/production/Brand/36291/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1713790185/production/Company/75921/card_banner/image",
+    "properties": {
+        "Product Families": [
+            "Rheology Modifiers",
+            "Thixotropes",
+            "Functional Additives",
+            "Additives",
+            "Polymer Additives"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Dispersant",
+            "Wetting Agent",
+            "Viscosity Modifier"
+        ],
+        "Compatible Polymers & Resins": [
+            "Unsaturated Polyester (UPE)",
+            "Epoxies (EP)",
+            "Polyurethanes (PU)",
+            "Polyvinyl Chloride (PVC)"
+        ]
+    }
+}

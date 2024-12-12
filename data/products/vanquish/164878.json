@@ -1,0 +1,55 @@
+{
+    "id": 164878,
+    "brand": "vanquish",
+    "name": "Bardac® 2240",
+    "slug": "bardac-2240",
+    "description": "Bardac® 2240 Antimicrobials contain the active substance Didecyldimethyl ammonium chloride (DDAC). The active is a cationic molecule offering good surfactant properties and can be formulated to- gether with non- ionic and/or amphoteric surfactants. DDAC has a broad antimicrobial efficacy against gram-positive and gram-negative bacteria, yeast, and enveloped viruses. High antimicrobial efficacy is maintained even at low temperatures and in the presence of organic soil, such as blood and protein. In formulated products, DDAC is stable over a wide range of pH levels and is used in a number of applications such as food processing, institutional, veterinary, healthcare areas and medical devices. Single-active DDAC products are available at different active concentrations and solvent combinations.",
+    "company_name": "Arxada",
+    "company_slug": "arxada",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709824470/production/Company/408/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1709824470/production/Product/164878/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Other Home Care Applications",
+            "Surface Care",
+            "Auto Care",
+            "Laundry & Fabric Care",
+            "Institutional & Catering",
+            "Other Institutional & Industrial Care",
+            "Industrial Cleaning",
+            "Food & Beverage Manufacturing",
+            "Processing & Packaging",
+            "Home Care",
+            "Institutional & Industrial Care"
+        ],
+        "Product Families": [
+            "Microbial Control & Preservatives",
+            "Functional Additives"
+        ],
+        "Chemical Family": [
+            "Quaternary Ammonium Compounds",
+            "Halogenated Compounds"
+        ],
+        "End Uses": [
+            "Disinfectant Products"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Halogenated Compounds",
+            "Quaternary Ammonium Compounds"
+        ],
+        "Functions": [
+            "Anti-Microbial Agent"
+        ],
+        "Certifications & Compliance": [
+            "BPR Supported"
+        ],
+        "End Uses": [
+            "Disinfectant Products"
+        ],
+        "Synonyms": [
+            "DDAC, Di-n-decyl-dimethylammonium chloride, Didecyldimethylammonium chloride, Didecyldimethylammounium chloride, Dimethyldidecylammonium chloride, N,N-Didecyl-N,N-dimethylammonium chloride"
+        ]
+    }
+}

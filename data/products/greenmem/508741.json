@@ -1,0 +1,44 @@
+{
+    "id": 508741,
+    "brand": "greenmem",
+    "name": "GreenMem® GM500P-2540",
+    "slug": "greenmem-gm500p-2540",
+    "description": "GreenMem® GM500P-2540 functions as an industrial filter aid, known for its cost-effectiveness, high surface area, and efficient energy consumption. With its rapid separation speed and minimal CO2 emissions, it excels in processes such as wax removal, solvent recovery, API purification, and the removal of free fatty acids, homogeneous catalysts, lipids, and monomers. Additionally, it is proficient in hydrocarbon separation and solvent exchange, making it suitable for a variety of industrial applications.",
+    "company_name": "SepPure Technologies",
+    "company_slug": "seppure-technologies",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1713261613/production/Company/110825/logo/image",
+    "banner_url": "https://static.knowde.com/card-banners/knowde-card-for-raw-materials-8.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical Manufacturing",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Filtration Aids",
+            "Processing Aids"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Filtration Aid"
+        ],
+        "Applicable Processes": [
+            "Free Fatty Acid Removal",
+            "API Concentration & Purification",
+            "Lipid Removal",
+            "Wax Removal",
+            "Homogeneous Catalyst Recovery",
+            "Hydrocarbon Separation",
+            "Monomer Removal",
+            "Solvent Exchange",
+            "Solvent Recovery"
+        ],
+        "Features": [
+            "Cost Effective",
+            "Lower Energy Consumption",
+            "High Surface Area",
+            "High Separation Speed",
+            "Low CO2 Emission"
+        ]
+    }
+}

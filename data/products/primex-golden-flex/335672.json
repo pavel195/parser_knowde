@@ -1,0 +1,37 @@
+{
+    "id": 335672,
+    "brand": "primex-golden-flex",
+    "name": "Buckeye Z® Puff Pastry and Danish Margarine",
+    "slug": "buckeye-z-puff-pastry-and-danish-margarine",
+    "description": "Buckeye Puff Pastry margarine is a buttery flavored roll-in margarine recommended for use in Danish pastries, puff pastry, croissants, and other sweet goods. Easy to work with and with no color added Buckeye Puff Pastry provides superior performance for your baked goods.",
+    "company_name": "STRATAS FOODS - Food Ingredients Division",
+    "company_slug": "stratas-foods-food-ingredients-division",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686104169/production/Brand/24808/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606961/production/CategoryImage/506/category_image/FoodNutrition_07.jpg",
+    "properties": {
+        "Applications": [
+            "Food",
+            "Bakery"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Edible Oils & Fats"
+        ],
+        "End Uses": [
+            "Pastries",
+            "Puff Pastry"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Margarine"
+        ],
+        "Labeling Claims": [
+            "Trans fat-free",
+            "Colorants-free"
+        ],
+        "Features": [
+            "Easy To Use"
+        ]
+    }
+}

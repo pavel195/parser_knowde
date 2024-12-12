@@ -1,0 +1,26 @@
+{
+    "id": 356236,
+    "brand": "flex-aqualam",
+    "name": "FLEX AQUALAM",
+    "slug": "flex-aqualam",
+    "description": "FLEX AQUALAM is a water-based ink system, suitable for Gravure reverse printing purpose.",
+    "company_name": "Uflex",
+    "company_slug": "uflex",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664290718/production/Brand/26518/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609091/production/CategoryImage/594/category_image/PrintingPackaging_05.jpg",
+    "properties": {
+        "Applications": [
+            "Printing & Inks",
+            "Gravure Printing"
+        ],
+        "Product Families": [
+            "Inks & Pastes",
+            "Gravure Inks"
+        ]
+    },
+    "summary": {
+        "Application Method": [
+            "Reverse Gravure Coating"
+        ]
+    }
+}

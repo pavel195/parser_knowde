@@ -1,0 +1,52 @@
+{
+    "id": 91986,
+    "brand": "vertasil",
+    "name": "Gelest RIA-SRA",
+    "slug": "gelest-red-iron-oxide-sr-ria-sra",
+    "description": "Gelest Red Iron Oxide SR (RIA-SRA) is a red iron oxide powder with polycaprylylsilsesquioxane and trimethylsiloxysilicate. The hydroxyl-terminated silsesquioxane network in the coating improves adhesion to skin and hair, making it ideal for use in color cosmetic formulations. This pigment is the best candidate for use in long-wearing and water-resistant makeup.",
+    "company_name": "Gelest Inc.",
+    "company_slug": "gelest",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704116737/production/Product/91986/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1704116737/production/Product/91986/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Color Cosmetics",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Color & Effects",
+            "Hydrophilic Treatments",
+            "Color Pigments",
+            "Treated Pigments & Powders",
+            "Functionals",
+            "Pigments & Colorants"
+        ],
+        "INCI Name": [
+            "Iron Oxides",
+            "Trimethylsiloxysilicate",
+            "Polycaprylylsilsesquioxane"
+        ],
+        "End Uses": [
+            "Foundation",
+            "Compact Powder",
+            "BB Creams",
+            "Lipstick"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Polycaprylylsilsesquioxane",
+            "Iron Oxides",
+            "Trimethylsiloxysilicate"
+        ],
+        "Pigment Treatment Type": [
+            "Silicone & Silane Treatment"
+        ],
+        "Pigment Treatment Family": [
+            "Hydrophilic Treatments"
+        ],
+        "Color": [
+            "Red"
+        ]
+    }
+}

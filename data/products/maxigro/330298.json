@@ -1,0 +1,38 @@
+{
+    "id": 330298,
+    "brand": "maxigro",
+    "name": "DEFGUARD®",
+    "slug": "defguard",
+    "description": "DEFGUARD® is a An IPM foundational product, this broad spectrum biofungicide has been extensively tested and used across many plant types. Multiple modes of action work to protect against different foliar and soil pathogens of CBD Hemp.",
+    "company_name": "General Hydroponics",
+    "company_slug": "general-hydroponics",
+    "logo_url": null,
+    "banner_url": "https://media.knowde.com/image/upload/v1625608200/production/CategoryImage/549/category_image/AgricultureFeed_05.jpg",
+    "properties": {
+        "Applications": [
+            "Ornamentals",
+            "Fiber Crops",
+            "Agricultural Pest Control",
+            "Herbs & Spice Crops",
+            "Other Agricultural Crops",
+            "Fruits",
+            "Vegetables",
+            "Agricultural Crops",
+            "Pest Control",
+            "Turf, Ornamentals & Landscape"
+        ],
+        "Product Families": [
+            "Fungicides",
+            "Crop Protection & Pest Control"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Fungicide"
+        ],
+        "Application Technique": [
+            "Foliage Applied",
+            "Ground Soil Applied"
+        ]
+    }
+}

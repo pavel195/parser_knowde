@@ -1,0 +1,44 @@
+{
+    "id": 275810,
+    "brand": "gloxil",
+    "name": "SILLITIN N 85",
+    "slug": "sillitin-n-85",
+    "description": "SILLITIN N 85 has a slightly higher requirements in color than SILLITIN N 82",
+    "company_name": "Hoffmann Mineral",
+    "company_slug": "hoffmann-mineral",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708696286/production/Company/20722/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608566/production/CategoryImage/566/category_image/PaintingsCoatings_02.jpg",
+    "properties": {
+        "Applications": [
+            "Metal Coatings",
+            "Industrial Maintenance",
+            "Industrial Coatings",
+            "Other Automotive & Transportation Applications",
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Fillers & Extenders",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Calcium Salts",
+            "Sulfates",
+            "Silica",
+            "Silicon-based Compounds"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Filler"
+        ],
+        "Chemical Family": [
+            "Silicon-based Compounds",
+            "Silica",
+            "Sulfates",
+            "Calcium Salts"
+        ],
+        "Particle Size": [
+            "22.0 - 22.0 microns"
+        ]
+    }
+}

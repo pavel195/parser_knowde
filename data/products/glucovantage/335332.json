@@ -1,0 +1,64 @@
+{
+    "id": 335332,
+    "brand": "glucovantage",
+    "name": "CaloriBurnGP™",
+    "slug": "caloriburngp",
+    "description": "CaloriBurnGP™ has been shown to effectively activate BAT (Brown Adipose Tissue), which is a very unique type of fat cell that is both thermogenic and metabolically active, burning calories rather than storing them like typical White Adipose Tissue (WAT). BAT is increasingly recognized as a powerful metabolic target, playing a significant role in the regulation of body composition and energy expenditure.",
+    "company_name": "NNB Nutrition USA",
+    "company_slug": "nnb-nutrition-usa",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708523699/production/Brand/24777/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606924/production/CategoryImage/503/category_image/FoodNutrition_04.jpg",
+    "properties": {
+        "Applications": [
+            "Powdered Beverages",
+            "Nutraceuticals & Supplements",
+            "Beverage",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Flours & Grains Products",
+            "Nutrition & Fortification",
+            "Whole Foods, Extracts & Premixes",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Dietary Supplements",
+            "Powdered Beverages"
+        ]
+    },
+    "summary": {
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Plant Origin"
+        ],
+        "Labeling Claims": [
+            "Natural",
+            "Naturally Derived",
+            "Plant-Based",
+            "Non-GMO",
+            "Allergen-free",
+            "Kosher",
+            "Vegan"
+        ],
+        "Certifications & Compliance": [
+            "Non-GMO Project Verified",
+            "NSF Approved",
+            "Hazard Analysis Critical Control Point (HACCP)",
+            "Kosher",
+            "ISO 9001",
+            "GMP",
+            "Generally Recognized As Safe (GRAS)",
+            "Vegan"
+        ],
+        "Physical Form": [
+            "Solid",
+            "Capsules",
+            "Powder"
+        ],
+        "Benefit Claims (Health)": [
+            "Regulates Metabolism"
+        ]
+    }
+}

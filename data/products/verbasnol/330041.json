@@ -1,0 +1,51 @@
+{
+    "id": 330041,
+    "brand": "verbasnol",
+    "name": "AstraGin®",
+    "slug": "astragin",
+    "description": "AstraGin® is a patented, 100% natural compound that increases absorption of many vital nutrients promoting a healthy gut environmen.",
+    "company_name": "NuLiv Science USA",
+    "company_slug": "nuliv-science-usa",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708521296/production/Brand/23871/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607247/production/CategoryImage/513/category_image/FoodNutrition_13.jpg",
+    "properties": {
+        "Applications": [
+            "Nutraceuticals & Supplements",
+            "Sports Nutrition",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Dietary Supplements",
+            "Sports Nutrition"
+        ]
+    },
+    "summary": {
+        "Labeling Claims": [
+            "Kosher",
+            "Vegan",
+            "Halal",
+            "Gluten-free"
+        ],
+        "Certifications & Compliance": [
+            "Generally Recognized As Safe (GRAS)",
+            "EU Novel Foods",
+            "Halal",
+            "Kosher"
+        ],
+        "Benefit Claims (Health)": [
+            "Anti-Inflammatory",
+            "Promotes Nutrient Absorption",
+            "Promotes Healthy Gut Microflora"
+        ],
+        "Features": [
+            "Promotes Nutrient Absorption",
+            "Promotes Healthy Gut Microflora"
+        ]
+    }
+}

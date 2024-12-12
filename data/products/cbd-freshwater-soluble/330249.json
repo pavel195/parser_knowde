@@ -1,0 +1,49 @@
+{
+    "id": 330249,
+    "brand": "cbd-freshwater-soluble",
+    "name": "Mile High Labs CBD Isolate",
+    "slug": "mile-high-labs-cbd-isolate",
+    "description": "Mile High Labs CBD isolate is the key ingredient for some of the industry’s most recognized CBD products. With greater than 98% potency, our CBD isolate is extracted in a highly controlled environment and refined to guarantee industry-leading purity and consistency.",
+    "company_name": "Mile High Labs",
+    "company_slug": "mile-high-labs",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708690379/production/Company/22961/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708690379/production/Product/330249/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Topical",
+            "Oral",
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being",
+            "Drug Delivery & Care Solutions"
+        ],
+        "Product Families": [
+            "Phytochemicals & Plant Extracts",
+            "Phytochemicals",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "Chemical Family": [
+            "Cannabinoids"
+        ],
+        "End Uses": [
+            "Nutraceuticals"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "CBD Isolate"
+        ],
+        "Functions": [
+            "Supplement",
+            "Dietary Supplement",
+            "Phytochemical"
+        ],
+        "Active Component": [
+            "Cannabinoids"
+        ],
+        "Physical Form": [
+            "Powder",
+            "Solid"
+        ]
+    }
+}

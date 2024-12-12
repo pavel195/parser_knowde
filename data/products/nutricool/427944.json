@@ -1,0 +1,35 @@
+{
+    "id": 427944,
+    "brand": "nutricool",
+    "name": "Nutrimix Biosacc",
+    "slug": "nutrimix-biosacc",
+    "description": "Nutrimix Biosacc is a powder premix containing live and inactive yeast prepared for rectification of rumen health and regular work of dairy cattles and beef cattles.",
+    "company_name": "Nutrilab",
+    "company_slug": "nutrilab",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686635446/production/Brand/33936/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608224/production/CategoryImage/551/category_image/AgricultureFeed_07.jpg",
+    "properties": {
+        "Applications": [
+            "Animal Health & Nutrition",
+            "Ruminants"
+        ],
+        "Product Families": [
+            "Formulated Feeds & Premixes",
+            "Formulated Feeds, Whole Foods and Extracts"
+        ]
+    },
+    "summary": {
+        "Animal Species": [
+            "Cattle",
+            "Buffalo"
+        ],
+        "Certifications & Compliance": [
+            "GMP",
+            "ISO 9001"
+        ],
+        "Features": [
+            "Rumen Stable",
+            "Improves Feed Efficiency"
+        ]
+    }
+}

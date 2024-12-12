@@ -1,0 +1,36 @@
+{
+    "id": 410100,
+    "brand": "enzyme-magic",
+    "name": "Enzyme Magic® Mold & Mildew Stain Cleaner",
+    "slug": "enzyme-magic-mold-mildew-stain-cleaner",
+    "description": "Enzyme Magic® Mold &amp; Mildew Stain Cleaner has rapid penetrating action which breaks down, removes and cleans accumulated organic debris. It eliminates odors by destroying the source! Enzyme Magic® Mold &amp; Mildew Stain Cleaner is accepted as Generally Regarded as Safe (GRAS). ",
+    "company_name": "Enzyme Solutions",
+    "company_slug": "enzyme-solutions",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292529/production/Brand/31793/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515602/production/CategoryImage/1051/category_image/HII_03.jpg",
+    "properties": {
+        "Applications": [
+            "Home Care",
+            "Laundry & Fabric Care",
+            "Surface Care"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Commercial Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Stain Removers"
+        ],
+        "Certifications & Compliance": [
+            "Generally Recognized As Safe (GRAS)"
+        ],
+        "Features": [
+            "Stain Removing",
+            "Neutralizes Odor",
+            "Neutral pH",
+            "Good Penetration"
+        ]
+    }
+}

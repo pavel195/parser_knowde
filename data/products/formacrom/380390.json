@@ -1,0 +1,62 @@
+{
+    "id": 380390,
+    "brand": "formacrom",
+    "name": "Formac Formamid 6.6 Fibre Glass 30% Natural",
+    "slug": "formac-formamid-6-6-fibre-glass-30-natural",
+    "description": "Formac Formamid 6.6 Fiber Glass 30% Natural is used for automotive &amp; farming mechanics, consumer goods and industrial applications. It has good mechanical strength, stiffness, heat resistance and wear resistance. It is a termal stabilized, injection molding grade.",
+    "company_name": "Formac",
+    "company_slug": "formac",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708530098/production/Brand/28662/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608730/production/CategoryImage/574/category_image/AutomotiveTransportation_02.jpg",
+    "properties": {
+        "Applications": [
+            "Sports & Recreation",
+            "Powertrain & UTH",
+            "Interior",
+            "Equipment & Parts",
+            "Other Automotive Applications",
+            "Other Consumer Goods Applications",
+            "Lawn & Garden",
+            "Appliances & Electronics",
+            "Automotive",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Polyamides",
+            "Engineering & Specialty Polymers"
+        ],
+        "Chemical Family": [
+            "Polyamides"
+        ],
+        "Polymer Name": [
+            "Polyamide 66 (PA 66)"
+        ],
+        "End Uses": [
+            "Sporting Goods",
+            "Automotive Under The Hood",
+            "Automotive Interior Parts",
+            "Windows",
+            "Doors",
+            "Industrial Parts",
+            "Consumer Applications",
+            "Automotive Applications"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyamide 66 (PA 66)"
+        ],
+        "Processing Methods": [
+            "Injection Molding"
+        ],
+        "Fillers Included": [
+            "Glass Fiber"
+        ],
+        "Additives Included": [
+            "Heat Stabilizer"
+        ],
+        "Flexural Modulus": [
+            "8500.0 - 8500.0 MPa"
+        ]
+    }
+}

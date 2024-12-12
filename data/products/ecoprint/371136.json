@@ -1,0 +1,54 @@
+{
+    "id": 371136,
+    "brand": "ecoprint",
+    "name": "EcoResin® 5401",
+    "slug": "ecoresin-5401",
+    "description": "EcoResin® 5401 is a maleic modified glycerol ester of gum rosin.",
+    "company_name": "PINO PINE",
+    "company_slug": "pino-pine",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112144/production/Brand/27682/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609067/production/CategoryImage/592/category_image/PrintingPackaging_03.jpg",
+    "properties": {
+        "Applications": [
+            "Packaging Coatings",
+            "Printing & Inks",
+            "Overprint Varnishes",
+            "Primers & Lacquers",
+            "Flexography"
+        ],
+        "Product Families": [
+            "Other Resins & Binders",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Esters",
+            "Maleics",
+            "Rosins"
+        ],
+        "End Uses": [
+            "Lacquers",
+            "Flexography Ink",
+            "Primer",
+            "Varnishes",
+            "Enamel"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Esters",
+            "Maleics",
+            "Rosins"
+        ],
+        "End Uses": [
+            "Varnishes",
+            "Lacquers",
+            "Primer",
+            "Flexography Ink",
+            "Enamel"
+        ],
+        "Features": [
+            "Improved Hardness",
+            "High Gloss"
+        ]
+    }
+}

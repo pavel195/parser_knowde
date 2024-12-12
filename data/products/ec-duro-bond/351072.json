@@ -1,0 +1,62 @@
+{
+    "id": 351072,
+    "brand": "ec-duro-bond",
+    "name": "Duro-Bond E-CTFE",
+    "slug": "duro-bond-e-ctfe",
+    "description": "Duro-Bond E-CTFE is a laminated sheet lining consisting of a layer of Ethylene Chlorotetrafluoroethylene (E-CTFE) resin laminated to a fabric or vulcanized soft rubber backing that is readily bonded to steel, concrete, or FRP substrates.",
+    "company_name": "Electro Chemical Engineering",
+    "company_slug": "electro-chemical-engineering",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686149687/production/Brand/26190/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Agricultural Films",
+            "Pipes & Hoses",
+            "Midstream",
+            "Chemical & Industrial Manufacturing",
+            "Oil, Gas & Mining",
+            "Equipment & Parts",
+            "Refining & Gas Processing"
+        ],
+        "Product Families": [
+            "Parts & Shapes"
+        ],
+        "Chemical Family": [
+            "Fluoropolymers"
+        ],
+        "Polymer Name": [
+            "Polychlorotrifluoroethylene (PCTFE)"
+        ],
+        "End Uses": [
+            "Chemical Process",
+            "Valves",
+            "Tanks"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polychlorotrifluoroethylene (PCTFE)"
+        ],
+        "Physical Form": [
+            "Sheets"
+        ],
+        "Features": [
+            "Chemical Resistant",
+            "Corrosion Resistant",
+            "Good Bonding Strength",
+            "Good Abrasion Resistance",
+            "Low Permeability",
+            "High Purity",
+            "Good Smoothness",
+            "Service Life Extension"
+        ],
+        "End Uses": [
+            "Tanks",
+            "Chemical Process",
+            "Valves"
+        ],
+        "Tensile Strength": [
+            "42.0 - 48.0 MPa"
+        ]
+    }
+}

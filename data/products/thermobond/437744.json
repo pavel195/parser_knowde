@@ -1,0 +1,50 @@
+{
+    "id": 437744,
+    "brand": "thermobond",
+    "name": "United Adhesives OP4036",
+    "slug": "united-adhesives-op4036",
+    "description": "United Adhesives OP4036 is a fast cure optically clear silicone potting firm gel.",
+    "company_name": "United Adhesives",
+    "company_slug": "united-adhesives",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664567580/production/Company/63007/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607422/production/CategoryImage/517/category_image/ElectricalElectronics_02.jpg",
+    "properties": {
+        "Applications": [
+            "Housings & Enclosures",
+            "Devices & Assemblies",
+            "Displays",
+            "Connectors",
+            "Parts & Components"
+        ],
+        "Product Families": [
+            "Encapsulants",
+            "Adhesives & Sealants"
+        ],
+        "Chemical Family": [
+            "Silicones"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Potting Compound",
+            "1K (1 component) Adhesive",
+            "2K (2 component) Adhesive"
+        ],
+        "Application Areas": [
+            "Housing",
+            "Optical Applications",
+            "LEDs",
+            "Electronic Components",
+            "Connectors"
+        ],
+        "Cure Method": [
+            "Heat Cure"
+        ],
+        "Application Method": [
+            "Injection"
+        ],
+        "Chemical Family": [
+            "Silicones"
+        ]
+    }
+}

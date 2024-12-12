@@ -1,0 +1,38 @@
+{
+    "id": 416454,
+    "brand": "artisoy",
+    "name": "Chemital NITRAL",
+    "slug": "chemital-nitral",
+    "description": "NITRAL products include powder formulations based on nitrifying agents, specially designed for cured meat products. The use of the NITRAL range of products improves the organoleptic properties of cured mead products.",
+    "company_name": "Chemital",
+    "company_slug": "chemital",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708687625/production/Company/55878/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606934/production/CategoryImage/504/category_image/FoodNutrition_05.jpg",
+    "properties": {
+        "Applications": [
+            "Meat, Poultry & Seafood",
+            "Food"
+        ],
+        "Product Families": [
+            "Other Functional Additives",
+            "Functional Additives"
+        ],
+        "End Uses": [
+            "Processed Meat Products"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Curing Agent"
+        ],
+        "Labeling Claims": [
+            "Halal"
+        ],
+        "Features": [
+            "Excellent Organoleptic Profile",
+            "Improved Flavour Release",
+            "Balanced Nutrition",
+            "Color Stability"
+        ]
+    }
+}

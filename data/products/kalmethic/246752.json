@@ -1,0 +1,46 @@
+{
+    "id": 246752,
+    "brand": "kalmethic",
+    "name": "Biocosmethic Refined Chiuri Butter",
+    "slug": "biocosmethic-refined-chiuri-butter",
+    "description": "Refined Chiuri Butter is obtained from the expelling of the seeds of Diploknema butyracea Roxb syn Bassia Butyracea, then deodorized and filtered.",
+    "company_name": "Biocosmethic",
+    "company_slug": "biocosmethic",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708698221/production/Product/246752/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708698221/production/Product/246752/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Skin Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Conditioners & Emollients",
+            "Sensory Modifiers",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Bassia Butyracea Seed Butter"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Bassia Butyracea Seed Butter"
+        ],
+        "Ingredient Origin": [
+            "Vegetable Origin"
+        ],
+        "Functions": [
+            "Soothing Agent",
+            "Moisturizing Agent",
+            "Emollient"
+        ],
+        "Labeling Claims": [
+            "Credo Clean Standard",
+            "Clean at Sephora"
+        ],
+        "Benefit Claims": [
+            "Emolliency",
+            "Moisturizing"
+        ]
+    }
+}

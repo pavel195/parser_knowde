@@ -1,0 +1,69 @@
+{
+    "id": 498509,
+    "brand": "solarsea",
+    "name": "SolarSea® Magnesium Oil",
+    "slug": "solarsea-magnesium-oil",
+    "description": "SolarSea® Magnesium Oil from MRI, a top-quality topical magnesium chloride product that offers remarkable benefits for the skin and its unique microbiome. The application of ionic minerals directly to the skin is highly effective in reducing muscle and joint inflammation and may also help improve inflammatory skin conditions like eczema and acne. \n\nEnhanced skin hydration has been demonstrated through bathing in magnesium-rich water, and you can achieve the same effect with our topical magnesium oil, sourced exclusively from the Great Salt Lake in Utah.",
+    "company_name": "Mineral Resources International",
+    "company_slug": "mineral-resources-international",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1714167210/production/Company/35216/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1714167210/production/Product/498509/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Topical",
+            "Ruminants",
+            "Pets",
+            "Treatment Products",
+            "Skin Care",
+            "Animal Health & Nutrition",
+            "Drug Delivery & Care Solutions",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Minerals",
+            "Skin Actives",
+            "Other OTC Actives",
+            "Soil Amendments & Conditioners",
+            "Cosmetic Actives",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements",
+            "Nutritional Ingredients",
+            "Plant Health, Nutrients & Soil Management"
+        ],
+        "Chemical Family": [
+            "Minerals"
+        ],
+        "Ingredient Name": [
+            "Magnesium Chloride"
+        ],
+        "End Uses": [
+            "Eczema Treatment",
+            "Acne Treatments",
+            "Body Salve"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Magnesium Chloride"
+        ],
+        "Chemical Family": [
+            "Minerals"
+        ],
+        "Functions": [
+            "Supplement",
+            "Anti-Inflammatory",
+            "Soil Conditioner",
+            "Mineral Source",
+            "Muscle Relaxant"
+        ],
+        "Mineral Type": [
+            "Sodium",
+            "Magnesium",
+            "Chloride",
+            "Sulfur"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin"
+        ]
+    }
+}

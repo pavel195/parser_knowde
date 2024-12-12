@@ -1,0 +1,47 @@
+{
+    "id": 373750,
+    "brand": "bioset",
+    "name": "Biostar Magenta",
+    "slug": "biostar-magenta",
+    "description": "Biostar Magenta are valid for both sheet and coil, and including those of high solidity. Excellent adhesion on recommended substrates. Indicated for high quality prints.",
+    "company_name": "Brigal",
+    "company_slug": "brigal",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520400/production/Brand/27903/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Paper & Pulp",
+            "Packaging Coatings",
+            "Printing & Inks",
+            "Overprint Varnishes",
+            "Packaging",
+            "Food & Beverage Packaging",
+            "Offset & Lithographic Printing",
+            "Coated Paper & Paperboard"
+        ],
+        "Product Families": [
+            "Offset & Lithographic Inks",
+            "Inks & Pastes"
+        ]
+    },
+    "summary": {
+        "Application Area": [
+            "Stamping"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Paper"
+        ],
+        "Features": [
+            "High Gloss",
+            "Good Brightness",
+            "Matte Finish",
+            "High Performance",
+            "Friction Resistant",
+            "Flexible",
+            "High Solids Content"
+        ],
+        "Color": [
+            "Yellow"
+        ]
+    }
+}

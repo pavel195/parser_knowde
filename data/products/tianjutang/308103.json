@@ -1,0 +1,55 @@
+{
+    "id": 308103,
+    "brand": "tianjutang",
+    "name": "Acesulfame K",
+    "slug": "acesulfame-k",
+    "description": "Acesulfame K is an ideal non-nutritive sweetener for food, beverage, cosmetic and pharmacy industry.",
+    "company_name": "Hangzhou Sanhe USA",
+    "company_slug": "hangzhou-sanhe-usa",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672443/production/Product/308103/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606924/production/CategoryImage/503/category_image/FoodNutrition_04.jpg",
+    "properties": {
+        "Applications": [
+            "Sports Drinks",
+            "Powdered Beverages",
+            "Carbonated Drinks",
+            "Juice & Juice Drinks",
+            "Other Non-Alcoholic Beverages",
+            "Beverage"
+        ],
+        "Product Families": [
+            "Alternates & Replacements",
+            "Sweeteners & Syrups",
+            "Taste & Flavor",
+            "Whole Foods, Extracts & Premixes"
+        ],
+        "End Uses": [
+            "Sports Drinks",
+            "Powdered Beverages",
+            "Carbonated Drinks",
+            "Juices"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Acesulfame Potassium"
+        ],
+        "Functions": [
+            "Sugar Substitute",
+            "Non Nutritive Sweetener"
+        ],
+        "Labeling Claims": [
+            "Kosher",
+            "Zero Calorie",
+            "Halal",
+            "Non-Carcinogenic"
+        ],
+        "Certifications & Compliance": [
+            "Halal",
+            "Kosher",
+            "ISO 22000",
+            "ISO 9001",
+            "Hazard Analysis Critical Control Point (HACCP)"
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "id": 519420,
+    "brand": "ceampectin",
+    "name": "CEAMGEL®",
+    "slug": "ceamgel",
+    "description": "CEAMGEL® is CEAMSA’s speciality solutions for personal care products providing a wide range of textures ensuring moisturizing properties. Multiple combinations are possible thanks to the versatile solutions portfolio. Sustainable raw materials preserving the natural habitat and the biodiversity.",
+    "company_name": "CEAMSA",
+    "company_slug": "ceamsa",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,c_crop,x_159,y_0,w_1780,h_1780/v1717066511/production/Company/35296/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,c_crop,x_0,y_241,w_1280,h_400/v1717066511/production/Brand/41945/card_banner/image",
+    "properties": {
+        "Product Families": [
+            "Rheology Modifiers",
+            "Starches & Thickeners",
+            "Functionals",
+            "Texture & Consistency"
+        ],
+        "INCI Name": [
+            "Carrageenan"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Carrageenan"
+        ],
+        "Certifications & Compliance": [
+            "Regulation (EU) No. 453/2010",
+            "Regulation (EU) No. 2015/830",
+            "Regulation (EU) No. 1272/2008",
+            "EC No.1907/2006"
+        ]
+    }
+}

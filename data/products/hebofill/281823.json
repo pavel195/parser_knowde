@@ -1,0 +1,54 @@
+{
+    "id": 281823,
+    "brand": "hebofill",
+    "name": "HeBoCoat® PL-W 130",
+    "slug": "hebocoat-pl-w-130",
+    "description": "HeBoCoat® PL-W 130 is a pure, water-based and ready-to-use Boron Nitride coating with inorganic binders for high temperature processes. It is particulary suited for use in aluminum casting processes.",
+    "company_name": "HENZE BORON NITRIDE PRODUCTS",
+    "company_slug": "henze-boron-nitride-products",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520074/production/Product/281823/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1687520074/production/Product/281823/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Industrial Coatings",
+            "Specialty Coatings",
+            "Other Industrial Coatings",
+            "Other Specialty Coatings",
+            "Other Industrial Applications",
+            "Ceramics & Refractory",
+            "Other Paints & Coatings Applications",
+            "Chemical & Industrial Manufacturing",
+            "Fluids & Lubricants"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Other Paints & Coatings"
+        ],
+        "Chemical Family": [
+            "Boron-based Compounds"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Waterborne Coating"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Aluminum",
+            "Metal"
+        ],
+        "Features": [
+            "Good Substrate Wetting",
+            "Temperature Resistance",
+            "Fast Drying",
+            "Good Release Properties",
+            "Excellent Lubricity"
+        ],
+        "Application Method": [
+            "Spray",
+            "Brush"
+        ],
+        "Chemical Family": [
+            "Boron-based Compounds"
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "id": 427926,
+    "brand": "deha",
+    "name": "DJCHEM CHEMICALS POLAND S.A. THT",
+    "slug": "djchem-chemicals-poland-s-a-tht",
+    "description": "THT (Tetrahydrothiophene) is gas odorant, colorless liquid with an unpleasant, penetrating odor.",
+    "company_name": "DJCHEM CHEMICALS POLAND S.A.",
+    "company_slug": "djchem-chemicals-poland-s-a",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704106513/production/Company/61170/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical Manufacturing",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Aromatics",
+            "Intermediates"
+        ],
+        "Chemical Family": [
+            "Aromatics",
+            "Thiophenes"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Tetrahydrothiophene"
+        ],
+        "Chemical Family": [
+            "Thiophenes",
+            "Aromatics"
+        ],
+        "CAS Number": [
+            "110-01-0"
+        ]
+    }
+}

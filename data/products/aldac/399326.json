@@ -1,0 +1,42 @@
+{
+    "id": 399326,
+    "brand": "aldac",
+    "name": "ALDAC 97",
+    "slug": "aldac-97",
+    "description": "Aldac 97 is formulated to inhibit the attack of sulfamic acid when used for cleaning and descaling of metals and equipment. Aldac 97 is a non-foaming type.",
+    "company_name": "Aldoa Company",
+    "company_slug": "aldoa-company",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664291998/production/Company/50866/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515589/production/CategoryImage/1050/category_image/HII_02.jpg",
+    "properties": {
+        "Applications": [
+            "Home Care",
+            "Institutional & Industrial Care",
+            "Surface Care",
+            "Industrial Cleaning"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Industrial Cleaners",
+            "Commercial Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Descalers",
+            "Cleaner"
+        ],
+        "Certifications & Compliance": [
+            "ISO 9001"
+        ],
+        "Application Areas": [
+            "Equipment"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal"
+        ],
+        "Features": [
+            "Non-Foaming"
+        ]
+    }
+}

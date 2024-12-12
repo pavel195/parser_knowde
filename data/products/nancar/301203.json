@@ -1,0 +1,56 @@
+{
+    "id": 301203,
+    "brand": "nancar",
+    "name": "Nancar® NBR 4975",
+    "slug": "nancar-nbr-4975",
+    "description": "Nancar® NBR 4975 is an ultra-high acrylonitrile butadiene copolymer with excellent oil resistance. It is polymerized at low temperature and contains sufficient antioxidant for normal aging conditions. It has good processing characteristics in compounds where flow and knitting are desired and is especially valuable in high durometer compounds.",
+    "company_name": "Nantex Industry",
+    "company_slug": "nantex-industry",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112572/production/Company/24268/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Fuel Systems",
+            "Other Automotive Applications",
+            "Belts & Conveyers",
+            "Other Printing & Packaging Applications",
+            "Chemical & Industrial Manufacturing",
+            "Automotive",
+            "Other Industrial Applications",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Specialty Elastomers",
+            "Nitrile Rubbers"
+        ],
+        "Chemical Family": [
+            "Nitrile Rubbers"
+        ],
+        "Polymer Name": [
+            "Acrylonitrile Butadiene Rubber (NBR)"
+        ],
+        "End Uses": [
+            "Gaskets",
+            "Automotive Fuel Lines",
+            "Automotive Applications",
+            "Seals"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Acrylonitrile Butadiene Rubber (NBR)"
+        ],
+        "End Uses": [
+            "Gaskets",
+            "Automotive Applications",
+            "Automotive Fuel Lines",
+            "Seals"
+        ],
+        "Features": [
+            "Oil Resistant",
+            "Good Processability",
+            "Cold Polymerized",
+            "Low Air Permeability"
+        ]
+    }
+}

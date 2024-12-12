@@ -1,0 +1,53 @@
+{
+    "id": 425717,
+    "brand": "vista-max",
+    "name": "DeVere Chemical Caustic HT Powder",
+    "slug": "devere-chemical-caustic-ht-powder",
+    "description": "DeVere Chemical Caustic HT Powder excels in deep fat fryer cleaning as well as circulation and boil-out operations on high-temperature processing equipment in the dairy and food processing industries. Caustic HT Powder does not contain chlorine and is designed for challenging applications where high alkalinity is needed or desirable. This product will clean tough protein and burnt-on soils while handling any water hardness level and heavy saturated soils. This product is free-rinsing with normal water rinses.",
+    "company_name": "DeVere Chemical",
+    "company_slug": "devere-chemical",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1672225599/production/Company/12215/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1672225599/production/Company/12215/card_banner/image.png",
+    "properties": {
+        "Applications": [
+            "Processing & Packaging",
+            "Institutional & Industrial Care",
+            "Industrial Cleaning",
+            "Institutional & Catering",
+            "Food Facility Cleaning & Sanitization",
+            "Food & Beverage Manufacturing"
+        ],
+        "Product Families": [
+            "Industrial Cleaners",
+            "Commercial Cleaners",
+            "Cleaners"
+        ],
+        "End Uses": [
+            "Deep Fat Fryer",
+            "Dairy",
+            "Industrial Surfaces",
+            "Kitchen",
+            "Food Processing"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Institutional Cleaners",
+            "Cleaner",
+            "Industrial Cleaners"
+        ],
+        "Application Areas": [
+            "Industrial Surfaces",
+            "Kitchen",
+            "Dairy",
+            "Food Processing",
+            "Deep Fat Fryer"
+        ],
+        "Features": [
+            "Effective Soil Removal",
+            "Free Rinsing",
+            "Low Foaming",
+            "Hard Water Resistance"
+        ]
+    }
+}

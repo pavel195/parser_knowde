@@ -1,0 +1,47 @@
+{
+    "id": 424684,
+    "brand": "buttermilk-blue",
+    "name": "Emmi Roth Natural Smoked Gouda Shred",
+    "slug": "emmi-roth-natural-smoked-gouda-shred",
+    "description": "Emmi Roth Natural Smoked Gouda Shred is delicately smoked, adding subtle flavor to this popular cheese. Artfully crafted, this creamy, smoky favorite is ideal for game day and party-worthy cheeseboards.\r\n",
+    "company_name": "Emmi Roth",
+    "company_slug": "emmi-roth",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1703231484/production/Company/57929/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625604505/production/CategoryImage/418/category_image/AnimalFeed_01.jpg",
+    "properties": {
+        "Applications": [
+            "Savory & Culinary",
+            "Convenience Foods",
+            "Bakery",
+            "Food"
+        ],
+        "Product Families": [
+            "Dairy Products",
+            "Whole Foods, Extracts & Premixes"
+        ],
+        "End Uses": [
+            "Spreads",
+            "Packaged Sandwiches",
+            "Dips",
+            "Burgers & Patty",
+            "Bread"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Gouda Cheese"
+        ],
+        "Labeling Claims": [
+            "BST-Free",
+            "Vegetarian",
+            "Gluten-free"
+        ],
+        "Features": [
+            "Firm Texture",
+            "Suitable for Vegetarian Foods"
+        ],
+        "Sugar Content": [
+            "0.0 - 0.0 %"
+        ]
+    }
+}

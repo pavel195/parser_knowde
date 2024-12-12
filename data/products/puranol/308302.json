@@ -1,0 +1,36 @@
+{
+    "id": 308302,
+    "brand": "puranol",
+    "name": "Puranol G 5030",
+    "slug": "puranol-g-5030",
+    "description": "Puranol G 5030 is synthesized with propylene glycol, glycerin, and epoxide. It is used in polyurethane elastomers, adhesives, coatings, waterproof coatings, chemical grouting materials, shoe soles, and non-cellular polyurethane applications such as coating, adhesives, sealants and elastomers.",
+    "company_name": "Jiahua Chemicals",
+    "company_slug": "jiahua-chemicals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1693580625/production/Product/308302/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608502/production/CategoryImage/564/category_image/BuildingConstruction_08.jpg",
+    "properties": {
+        "Applications": [
+            "Other Paints & Coatings Applications",
+            "Footwear",
+            "Grouts & Mortars",
+            "Other Adhesives & Sealants Applications",
+            "Building Materials"
+        ],
+        "Product Families": [
+            "Prepolymers & Polyols",
+            "Monomers & Intermediates"
+        ],
+        "Chemical Family": [
+            "Polyols (Polyether)",
+            "Polyols"
+        ]
+    },
+    "summary": {
+        "Hydroxyl Value": [
+            "31.0 - 35.0 mg KOH/g"
+        ],
+        "Viscosity": [
+            "800.0 - 1000.0 cps"
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": 405725,
+    "brand": "cor-ban",
+    "name": "Cor-Ban® 22",
+    "slug": "cor-ban-22",
+    "description": "Cor-Ban® 22 is corrosion inhibiting compound. Highly penetrating formula of Cor-Ban® 22 delivers the corrosion protection of Cor-Ban® 27L into faying surfaces.",
+    "company_name": "Zip-Chem",
+    "company_slug": "zip-chem",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520216/production/Brand/31145/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608611/production/CategoryImage/569/category_image/PaintingsCoatings_05.jpg",
+    "properties": {
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Coating"
+        ],
+        "Features": [
+            "Corrosion Resistant",
+            "Good Barrier Properties",
+            "Self Healing",
+            "Soft",
+            "Low Toxicity",
+            "Service Life Extension",
+            "Crack Resistant",
+            "High Capacity of Penetration",
+            "Detectable"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Steel",
+            "Metal"
+        ],
+        "Application Method": [
+            "Spray"
+        ]
+    }
+}

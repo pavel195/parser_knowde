@@ -1,0 +1,31 @@
+{
+    "id": 374602,
+    "brand": "fs-talent",
+    "name": "FS TankMax™",
+    "slug": "fs-tankmax",
+    "description": "FS TankMax is a tank mix compatibility agent formulated to eliminate compatibility problems associated with tank mixing UAN/ATS solutions or suspension fertilizers with emulsifiable concentrates and flowable pesticides. FS TankMax can also funcition as an effective spreader and/or buffering agent depending on the use rate.",
+    "company_name": "Insight FS",
+    "company_slug": "insight-fs",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708683194/production/Brand/28038/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608161/production/CategoryImage/546/category_image/AgricultureFeed_02.jpg",
+    "properties": {
+        "Applications": [
+            "Other Agricultural Crops",
+            "Agricultural Crops"
+        ],
+        "Product Families": [
+            "Stickers, Surfactants & Wetting Agents",
+            "pH Control",
+            "Carriers, Diluents, Solvents & Solubilizers",
+            "Adjuvants & Formulation Ingredients",
+            "Plant Health, Nutrients & Soil Management"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Solubilizer",
+            "Buffers & pH Stabilizer",
+            "Wetting Agent"
+        ]
+    }
+}

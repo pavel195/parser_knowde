@@ -1,0 +1,41 @@
+{
+    "id": 358669,
+    "brand": "resicote",
+    "name": "Eurogrip STS",
+    "slug": "eurogrip-sts",
+    "description": "Eurogrip STS is a high friction ‘coat and scatter’ for used Ro-Ro ferry link spans and similar. It comprises a heavy duty polyurethane adhesive slurry with a surface scatter of high friction aggregate. This highly effective extra heavy duty surface is suitable for use by all types of vehicle and ‘tractor’. Suitable for use with 3-5 mm size high friction aggregate.",
+    "company_name": "Optus",
+    "company_slug": "optus",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520214/production/Brand/26757/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608566/production/CategoryImage/566/category_image/PaintingsCoatings_02.jpg",
+    "properties": {
+        "Applications": [
+            "Coatings & Finishes",
+            "Automotive OEM Coatings"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Coating"
+        ],
+        "Features": [
+            "High Friction",
+            "Oil Resistant",
+            "Wear Resistant",
+            "Provides Solvent Resistance",
+            "Abrasion Resistant",
+            "Skid Resistant",
+            "Anti-Slip",
+            "Long Shelf Life"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Steel",
+            "Wood"
+        ]
+    }
+}

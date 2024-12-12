@@ -1,0 +1,31 @@
+{
+    "id": 323751,
+    "brand": "bioblend",
+    "name": "Spectabio TR45MB",
+    "slug": "spectabio-tr45mb",
+    "description": "Spectabio TR45MB are developed for balanced to flexible injection molded application where a maximum filler content of natural agricultural by-products is required. Spectabio TR45MB is reinforced with 45 w.-% rice husk (agricultural by-product). Spectabio TR grades are biodegradable in all conditions.",
+    "company_name": "nature2need",
+    "company_slug": "nature2need",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691741046/production/Brand/23098/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607934/production/CategoryImage/535/category_image/HomePersonalCare_01.jpg",
+    "properties": {
+        "Applications": [
+            "Lawn & Garden",
+            "Agricultural Pest Control",
+            "Pest Control"
+        ],
+        "Product Families": [
+            "Biodegradable Polymers",
+            "Engineering & Specialty Polymers"
+        ],
+        "End Uses": [
+            "Plant Pot",
+            "Agricultural Applications"
+        ]
+    },
+    "summary": {
+        "Density": [
+            "1230.0 - 1230.0 kg/m³"
+        ]
+    }
+}

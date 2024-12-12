@@ -1,0 +1,29 @@
+{
+    "id": 344033,
+    "brand": "kd-pur",
+    "name": "kd-pür 280280TG",
+    "slug": "kd-pur-280280tg",
+    "description": "kd-pür 280280TG is High Concentrated Omega-3 having EPA and DHA content as 280. ",
+    "company_name": "KD Nutra",
+    "company_slug": "kd-nutra",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708686739/production/Brand/25555/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607305/production/CategoryImage/515/category_image/FoodNutrition_15.jpg",
+    "properties": {
+        "Applications": [
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being"
+        ],
+        "End Uses": [
+            "Dietary Supplements"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Dietary Supplement",
+            "Supplement"
+        ],
+        "Certifications & Compliance": [
+            "FOS Certified"
+        ]
+    }
+}

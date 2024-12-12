@@ -1,0 +1,59 @@
+{
+    "id": 311290,
+    "brand": "x-pro",
+    "name": "X-Pro® SP200 TF 30 3033",
+    "slug": "x-pro-sp200-tf-30-3033",
+    "description": "X-Pro® SP200 TF30 3033 is an automotive-certified, general-purpose black polypropylene with 30% talc reinforcement and 98% recycled content, designed for non-visual injection molding applications. This resin is applicable in various industries, including automotive, industrial, construction, consumer, lawn, and garden products.",
+    "company_name": "CTC Plastics",
+    "company_slug": "ctc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1620673316/production/Company/15217/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1693401707/production/Product/311290/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Lawn & Garden",
+            "Other Industrial Applications",
+            "Fence, Decks & Rails",
+            "Exterior & Body",
+            "Automotive",
+            "Building Materials",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Recycled Polymers",
+            "Polyolefins",
+            "Basic Thermoplastics"
+        ],
+        "Chemical Family": [
+            "Polypropylenes (PP)",
+            "Polyolefins"
+        ],
+        "Polymer Name": [
+            "Polypropylene Copolymer"
+        ],
+        "End Uses": [
+            "Automotive Applications",
+            "Industrial Applications",
+            "Construction Applications",
+            "Consumer Applications",
+            "Windows",
+            "Doors",
+            "General Purpose"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polypropylene Copolymer"
+        ],
+        "Fillers Included": [
+            "Talc"
+        ],
+        "Labeling Claims": [
+            "Contains PIR Resin",
+            "Recycled",
+            "Contains PCR Resin"
+        ],
+        "Processing Methods": [
+            "Injection Molding"
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "id": 268377,
+    "brand": "eraspray",
+    "name": "ERAPOL BRG65A",
+    "slug": "erapol-brg65a",
+    "description": null,
+    "company_name": "Era Polymers",
+    "company_slug": "era-polymers",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1693579950/production/Company/20716/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Other Industrial Applications",
+            "Other Building Materials",
+            "Other Automotive & Transportation Applications",
+            "Building Materials"
+        ],
+        "Product Families": [
+            "Polyurethane Rubbers",
+            "Specialty Elastomers"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ],
+        "Polymer Name": [
+            "Polyurethane Thermoset Elastomer (Polyether-based)"
+        ]
+    },
+    "summary": {}
+}

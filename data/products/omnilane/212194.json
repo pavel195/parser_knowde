@@ -1,0 +1,52 @@
+{
+    "id": 212194,
+    "brand": "omnilane",
+    "name": "Esacure TZT",
+    "slug": "esacure-tzt",
+    "description": "Esacure TZT is particularly indicated for the photo polymerisation of UV curable systems when high reactivity, low curing odor and low yellowing are required. The radical generation occurs via hydrogen abstraction by the action of a co-initiator such as tertiary amines.",
+    "company_name": "IGM Resins",
+    "company_slug": "igm-resins",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708688092/production/Company/7406/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608939/production/CategoryImage/585/category_image/AdhesivesSealants_02.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial Manufacturing",
+            "Furniture Adhesives",
+            "Industrial Adhesives & Sealants",
+            "Furniture",
+            "Metal Coatings",
+            "Industrial Coatings",
+            "Wood Coatings & Finishes",
+            "Industrial & Assembly Adhesives",
+            "Chemical & Industrial Manufacturing",
+            "Building & Construction"
+        ],
+        "Product Families": [
+            "Catalysts & Initiators",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Benzophenones"
+        ],
+        "End Uses": [
+            "Radiation Curable Adhesive",
+            "Radiation Curable Ink",
+            "Other Ink Types",
+            "Radiation Curable Coating"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Photoinitiator"
+        ],
+        "Chemical Family": [
+            "Benzophenones"
+        ],
+        "End Uses": [
+            "Radiation Curable Coating",
+            "Radiation Curable Adhesive",
+            "Radiation Curable Ink",
+            "Other Ink Types"
+        ]
+    }
+}

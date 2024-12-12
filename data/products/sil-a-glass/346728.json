@@ -1,0 +1,60 @@
+{
+    "id": 346728,
+    "brand": "sil-a-glass",
+    "name": "Silarom®",
+    "slug": "silarom",
+    "description": "Silarom® is Micro-encapsulated flavors with optimum shelf-life and flowability.",
+    "company_name": "Silesia Flavors",
+    "company_slug": "silesia-flavors",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686109333/production/Brand/25818/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606914/production/CategoryImage/502/category_image/FoodNutrition_03.jpg",
+    "properties": {
+        "Applications": [
+            "Beverage",
+            "Food",
+            "Confectionery",
+            "Dairy",
+            "Desserts & Fruit Preparations",
+            "Meat, Poultry & Seafood",
+            "Savory & Culinary",
+            "Other Non-Alcoholic Beverages",
+            "Tea, Cocoa & Coffee"
+        ],
+        "Product Families": [
+            "Taste & Flavor",
+            "Flavor Ingredients"
+        ],
+        "End Uses": [
+            "Candies",
+            "Fruit Based Preparations",
+            "Ice Cream",
+            "Soups",
+            "Processed Meat Products",
+            "Sauces",
+            "Chewing Gum",
+            "Dairy Products",
+            "Tea"
+        ]
+    },
+    "summary": {
+        "Physical Form": [
+            "Solid",
+            "Powder"
+        ],
+        "Certifications & Compliance": [
+            "FSSC 22000",
+            "ISO 22000"
+        ],
+        "End Uses": [
+            "Candies",
+            "Dairy Products",
+            "Ice Cream",
+            "Processed Meat Products",
+            "Soups",
+            "Chewing Gum",
+            "Sauces",
+            "Fruit Based Preparations",
+            "Tea"
+        ]
+    }
+}

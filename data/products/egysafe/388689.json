@@ -1,0 +1,42 @@
+{
+    "id": 388689,
+    "brand": "egysafe",
+    "name": "EGYPLAST SE900152",
+    "slug": "egyplast-se900152",
+    "description": "EGYPLAST SE900152 is a concentration of active antistatic substances which are added to polymers/ plastic articles during thermoforming or compounding in order to minimize the natural tendency of most plastics to accumulate static charge.",
+    "company_name": "EGYPLAST",
+    "company_slug": "egyplast",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708699933/production/Company/36035/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607546/production/CategoryImage/524/category_image/ElectricalElectronics_09.jpg",
+    "properties": {
+        "Applications": [
+            "Non-Food Consumer Packaging",
+            "Industrial & Transport Packaging",
+            "Housewares",
+            "Packaging"
+        ],
+        "Product Families": [
+            "Surface Modifiers",
+            "Additive Masterbatches",
+            "Masterbatches",
+            "Polymer Additives"
+        ],
+        "End Uses": [
+            "Containers",
+            "Bottles"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Anti-Static Agent"
+        ],
+        "Processing Methods": [
+            "Injection Molding",
+            "Thermoforming"
+        ],
+        "Carrier": [
+            "Resin-based",
+            "Polyethylenes (PE)"
+        ]
+    }
+}

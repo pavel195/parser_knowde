@@ -1,0 +1,40 @@
+{
+    "id": 267184,
+    "brand": "eraspray",
+    "name": "Eralease LP 57",
+    "slug": "eralease-lp-57",
+    "description": "Eralease LP 57 is a low viscosity liquid mold release agent based on a blend of waxes with excellent releasing in hard-to-reach zones.",
+    "company_name": "Era Polymers",
+    "company_slug": "era-polymers",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708690074/production/Company/20716/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Other Industrial Applications",
+            "Other Electrical & Electronics Applications",
+            "Other Consumer Goods Applications",
+            "Other Building & Construction Applications"
+        ],
+        "Product Families": [
+            "Processing Aids",
+            "Performance Additives",
+            "Polymer Additives",
+            "Elastomer Additives"
+        ],
+        "Chemical Family": [
+            "Waxes"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Release Agent",
+            "Mold Release Agent"
+        ],
+        "Chemical Family": [
+            "Waxes"
+        ],
+        "Compatible Polymers & Resins": [
+            "Polyurethanes (PU)"
+        ]
+    }
+}

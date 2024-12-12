@@ -1,0 +1,36 @@
+{
+    "id": 298486,
+    "brand": "capsifen",
+    "name": "Clovinol®",
+    "slug": "clovinol",
+    "description": "Clovinol® is a unique combination of clove bud derived water soluble polyphenols with minimized taste/odor for natural detoxification.",
+    "company_name": "Akay Group",
+    "company_slug": "akay-group",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697222883/production/Company/23615/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606996/production/CategoryImage/508/category_image/FoodNutrition_09.jpg",
+    "properties": {
+        "Applications": [
+            "Nutraceuticals & Supplements",
+            "Sports Nutrition",
+            "Confectionery",
+            "Convenience Foods",
+            "Functional Foods",
+            "Juice & Juice Drinks",
+            "Beverage",
+            "Food",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Vegetable Products & Extracts",
+            "Whole Foods, Extracts & Premixes"
+        ],
+        "End Uses": [
+            "Nutraceuticals",
+            "Sports Nutrition",
+            "Protein Bars",
+            "Chocolates",
+            "Juices"
+        ]
+    },
+    "summary": {}
+}

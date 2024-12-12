@@ -1,0 +1,91 @@
+{
+    "id": 240079,
+    "brand": "innollient",
+    "name": "PolyAquol™ LW",
+    "slug": "polyaquol-lw",
+    "description": "<p>PolyAquol™-LW, a patented, naturally derived polyglycerol-based O/W emulsifier that redefines emulsification processes. This innovative emulsifier excels at forming low-viscosity emulsions in cold-process environments, making it ideal for \"one-pot\" formulations and low-energy processes that don't require heat or homogenization. Whether incorporated in the water or oil phase, PolyAquol™-LW offers unmatched versatility. With Cosmos certification and palm-free origin, it’s the perfect choice for green formulations. Thanks to its advanced molecular design, it surpasses emulsifiers with similar chemical compositions in performance and stability.</p>",
+    "company_name": "Innovacos Corp.",
+    "company_slug": "innovacos",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1633040600/production/Brand/15516/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,c_crop,x_0,y_0,w_1500,h_469/v1727778239/production/Product/240079/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Color Cosmetics",
+            "Hair Care",
+            "Baby Care",
+            "Skin Care",
+            "Sun Care",
+            "Wipes, Tissue & Towel",
+            "Beauty & Care",
+            "Personal Hygiene"
+        ],
+        "Product Families": [
+            "Emulsifiers, Solubilizers & Dispersants",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Polyglyceryl-6 Laurate",
+            "Polyglyceryl-4 Laurate"
+        ],
+        "End Uses": [
+            "Wet Wipes",
+            "Skin Cleanser",
+            "Sunscreen Lotion",
+            "Body Lotion",
+            "Facial Mask",
+            "Baby Wipes",
+            "Make Up Remover"
+        ],
+        "Labeling Claims": [
+            "Organic",
+            "Patented",
+            "Palm free",
+            "PEG-free",
+            "Cold Processable",
+            "Naturally Derived",
+            "Credo Clean Standard",
+            "Ulta Beauty's Conscious Beauty",
+            "Clean at Sephora",
+            "Preservative-free",
+            "Palm Oil-free",
+            "Natural"
+        ],
+        "Benefit Claims": [
+            "Broad pH Stability",
+            "Low Viscosity",
+            "Cold Processable"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Polyglyceryl-4 Laurate",
+            "Polyglyceryl-6 Laurate"
+        ],
+        "Functions": [
+            "Emulsifier (O/W)",
+            "Emulsifier"
+        ],
+        "Labeling Claims": [
+            "Patented",
+            "PEG-free",
+            "Clean at Sephora",
+            "Credo Clean Standard",
+            "Cold Processable",
+            "Organic",
+            "Ulta Beauty's Conscious Beauty",
+            "Naturally Derived",
+            "Palm free",
+            "Palm Oil-free",
+            "Preservative-free",
+            "Natural"
+        ],
+        "Certifications & Compliance": [
+            "RSPO Certified Sustainable Palm Oil",
+            "REACH (Europe)",
+            "COSMOS",
+            "IECIC (China)",
+            "Organic Certified",
+            "ECOCERT"
+        ]
+    }
+}

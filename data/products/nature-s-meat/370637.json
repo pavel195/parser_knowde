@@ -1,0 +1,64 @@
+{
+    "id": 370637,
+    "brand": "nature-s-meat",
+    "name": "Nature's PRIME® Mini Pieces",
+    "slug": "improved-nature-nature-s-prime-mini-pieces",
+    "description": "Nature's PRIME® Mini Pieces is a versatile textured soy protein concentrate that has a meat-like texture with a neutral flavor that allows you to chose your preferred flavor profile. The Nature’s PRIME product line is available in a variety of sizes and colors.\r\n",
+    "company_name": "Improved Nature",
+    "company_slug": "improved-nature",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704796104/production/Company/43267/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1704796104/production/Product/370637/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Meat Substitutes",
+            "Food"
+        ],
+        "Product Families": [
+            "Alternates & Replacements",
+            "Whole Foods, Extracts & Premixes"
+        ],
+        "End Uses": [
+            "Meat Substitutes"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Textured Soy Protein"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Plant Origin"
+        ],
+        "Labeling Claims": [
+            "Vegan",
+            "Non-GMO",
+            "Dairy-free",
+            "Plant-Based",
+            "Naturally Derived",
+            "Vegetarian",
+            "Gluten-free",
+            "Kosher",
+            "Cholesterol-free",
+            "Natural",
+            "Preservative-free",
+            "Lactose-free",
+            "Halal"
+        ],
+        "Certifications & Compliance": [
+            "Halal",
+            "Vegan",
+            "Gluten-free",
+            "Kosher",
+            "SQF Certified",
+            "Non-GMO Project Verified"
+        ],
+        "Features": [
+            "Fiber Enrichment",
+            "Neutral Taste",
+            "High Protein Content",
+            "Low Glycemic Index",
+            "Eggless",
+            "Low Sodium"
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "id": 358575,
+    "brand": "aptek",
+    "name": "Aptek® 6500-Pmf",
+    "slug": "aptek-6500-pmf",
+    "description": "Aptek® 6500-Pmf is a one component, pre-mixed frozen, 100% solids, silver-filled epoxy adhesive specifically designed for microelectronic die attach applications.APTEK 6500-PMF High purity, low outgassing, electrically conductive adhesive.",
+    "company_name": "Aptek Laboratories",
+    "company_slug": "aptek-laboratories",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697223282/production/Brand/26744/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607422/production/CategoryImage/517/category_image/ElectricalElectronics_02.jpg",
+    "properties": {
+        "Applications": [
+            "Appliances & Electronics",
+            "Adhesives & Sealants",
+            "Printed Circuit Boards (PCBs)",
+            "Other Electrical & Electronics Applications",
+            "Other Adhesives & Sealants Applications",
+            "Packaging & Assembly",
+            "Parts & Components"
+        ],
+        "Product Families": [
+            "Conductive Adhesives",
+            "Adhesives & Sealants"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    },
+    "summary": {}
+}

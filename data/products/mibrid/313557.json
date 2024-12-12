@@ -1,0 +1,80 @@
+{
+    "id": 313557,
+    "brand": "mibrid",
+    "name": "MiyoSHADE T Standard",
+    "slug": "miyoshade-t-standard",
+    "description": "The MiyoSHADE line of inorganic Titanium Dioxide powder sunscreens provide some of the most effective and safest protection while providing long lasting and water resistant properties. These sunscreens are registered with the Food and Drug Administration (FDA) in the United States and also comply with the Annex VI of Cosmetic Regulation 1223/2009 opinion in the European Union.",
+    "company_name": "Miyoshi America, Inc.",
+    "company_slug": "miyoshi-kasei-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709127438/production/Product/313557/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1709127438/production/Product/313557/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Color Cosmetics",
+            "Sun Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Sunscreen Agents",
+            "Cosmetic Actives"
+        ],
+        "Chemical Family": [
+            "Titanium Compounds"
+        ],
+        "INCI Name": [
+            "Hydrogen Dimethicone",
+            "Aluminum Hydroxide"
+        ],
+        "End Uses": [
+            "Sunscreen Lotion",
+            "Sunscreen Moisturizer",
+            "Sunscreen Makeup",
+            "Foundation",
+            "CC Cream",
+            "BB Creams"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Hydrogen Dimethicone",
+            "Aluminum Hydroxide"
+        ],
+        "Functions": [
+            "UV Filter",
+            "UV Absorber"
+        ],
+        "Labeling Claims": [
+            "Credo Clean Standard",
+            "Clean at Sephora",
+            "Ulta Beauty's Conscious Beauty",
+            "Surfactant-free"
+        ],
+        "Benefit Claims": [
+            "Easy To Use",
+            "Natural Look",
+            "Translucency",
+            "Long Lasting",
+            "Long Wear",
+            "Irritation Reduction",
+            "Water Repellency",
+            "Healthy-Looking Skin",
+            "Pressability",
+            "Low Viscosity",
+            "Easy Dispersability",
+            "Improves Hydrophobic Properties",
+            "Smooth Texture",
+            "Good Transparency",
+            "Mattifying Effect",
+            "Improved Stability",
+            "Age & Dark Spot Reduction",
+            "Improves Whitening",
+            "Gloss Enhancement",
+            "SPF Enhancement",
+            "UV Protection"
+        ],
+        "Certifications & Compliance": [
+            "FDA Compliant",
+            "EU Compliant"
+        ]
+    }
+}

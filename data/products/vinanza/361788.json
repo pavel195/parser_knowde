@@ -1,0 +1,42 @@
+{
+    "id": 361788,
+    "brand": "vinanza",
+    "name": "Digeston® Kiwifruit Skin Extract",
+    "slug": "digeston-kiwifruit-skin-extract",
+    "description": "Digeston® Kiwifruit Skin Extract is Prebiotic Components The proprietary combination of soluble fiber and phenolic compounds acts as a powerful prebiotic, significantly increasing the level of beneficial gut bacteria 100% water soluble and 50% fiber.",
+    "company_name": "New Zealand Extracts",
+    "company_slug": "new-zealand-extracts",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708690932/production/Brand/27096/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606984/production/CategoryImage/507/category_image/FoodNutrition_08.jpg",
+    "properties": {
+        "Applications": [
+            "Nutraceuticals & Supplements",
+            "Functional Foods",
+            "Powdered Beverages",
+            "Beverage",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Prebiotics, Probiotics & Postbiotics",
+            "Fruit Products & Extracts",
+            "Nutrition & Fortification",
+            "Whole Foods, Extracts & Premixes",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Dietary Supplements",
+            "Nutritional Bars",
+            "Powdered Beverages"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Kiwifruit Extract"
+        ],
+        "Functions": [
+            "Prebiotic",
+            "Supplement",
+            "Dietary Supplement"
+        ]
+    }
+}

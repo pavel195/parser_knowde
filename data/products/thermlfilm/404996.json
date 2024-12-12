@@ -1,0 +1,36 @@
+{
+    "id": 404996,
+    "brand": "thermlfilm",
+    "name": "THERMLfilm® THT™ PI1W50G",
+    "slug": "thermlfilm-tht-pi1w50g",
+    "description": "THERMLfilm® THT™ PI1W50G has the advantages of a 1 mil polyimide film that can withstand intermittent heat up to 750°F (398°C) and is suitable for printed circuit board cleaning environments.",
+    "company_name": "FLEXcon",
+    "company_slug": "flexcon",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520158/production/Brand/31001/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608744/production/CategoryImage/575/category_image/AutomotiveTransportation_03.jpg",
+    "properties": {
+        "Applications": [
+            "Tapes & Labels",
+            "Parts & Components",
+            "Tapes, Labels & Adhesives",
+            "Rail & Mass Transit",
+            "Consumer Electronics",
+            "Other Automotive & Transportation Applications",
+            "Aerospace & Aviation",
+            "Devices & Assemblies",
+            "Chemical & Industrial Manufacturing",
+            "Transportation",
+            "Equipment & Parts",
+            "Printed Circuit Boards (PCBs)"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Pressure Sensitive Adhesives & Tapes"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Tape"
+        ]
+    }
+}

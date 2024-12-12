@@ -1,0 +1,51 @@
+{
+    "id": 221556,
+    "brand": "andisil",
+    "name": "Andisil® VQM 2050",
+    "slug": "andisil-vqm-2050",
+    "description": "Andisil® VQM Products are additives for the improvement of mechanical properties of addition cured silicone elastomers. The curing mechanism of vinyl-functional silicone polymers (Andisil® VS) is a platinum catalyzed addition reaction with silicone crosslinkers containing silicon-hydride groups. The mechanical properties of the unfilled RTV are rather poor. Therefore the properties are improved with the addition of appropriate fillers i. e. Carbon black, fumed or precipitated silica and other fillers well known to formulators with expertise in compounding silicones. Andisil® VQM Products are comprised of vinyl-functional silicone polymers and vinyl-functional QM-resins. The product group is beneficial in formulating filler free, transparent systems which require good mechanical properties. The products will also enhance improvement of mechanical properties of filled formulations.",
+    "company_name": "AB Specialty Silicones",
+    "company_slug": "ab-specialty-silicones",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708684124/production/Product/221556/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708684124/production/Product/221556/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Dental Adhesives & Sealants",
+            "Dental",
+            "Medical Adhesives",
+            "Medical"
+        ],
+        "Product Families": [
+            "Fillers & Extenders",
+            "Polymer Additives",
+            "Elastomer Additives"
+        ],
+        "Chemical Family": [
+            "Siloxanes",
+            "Vinyls, Vinylics & Vinyl Derivatives",
+            "Silicones"
+        ],
+        "End Uses": [
+            "Dental Applications"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Reinforcement"
+        ],
+        "Chemical Family": [
+            "Silicones",
+            "Vinyls, Vinylics & Vinyl Derivatives",
+            "Siloxanes"
+        ],
+        "Features": [
+            "Good Tear Strength",
+            "Good Mechanical Properties",
+            "Excellent Dimensional Accuracy",
+            "Fast Curing"
+        ],
+        "End Uses": [
+            "Dental Applications"
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "id": 256078,
+    "brand": "baktem",
+    "name": "Baktem Red Soft Roll 10% Concentrate",
+    "slug": "baktem-red-soft-roll-10-concentrate",
+    "description": "Baktem Red Soft Roll 10% Concentrate is a complete concentrate in paste form. It is also used for the production of delicious soft rolls, hamburger rolls and baps etc.",
+    "company_name": "Bakels",
+    "company_slug": "bakels",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686634709/production/Company/19673/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1686634709/production/Company/19673/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Food",
+            "Bakery"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Food Premixes"
+        ],
+        "Ingredient Name": [
+            "Roll Concentrate"
+        ],
+        "End Uses": [
+            "Rolls",
+            "Buns"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Roll Concentrate"
+        ],
+        "Physical Form": [
+            "Paste"
+        ],
+        "Labeling Claims": [
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Features": [
+            "Excellent Softness",
+            "Soft Texture"
+        ]
+    }
+}

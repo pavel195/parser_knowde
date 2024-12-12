@@ -1,0 +1,43 @@
+{
+    "id": 336104,
+    "brand": "progestive",
+    "name": "Maca OSS™",
+    "slug": "maca-oss",
+    "description": "Maca OSS™ is a homogenous fine powder. It is used as an ingredient and finds application in flour, bread, pancakes, and beer.",
+    "company_name": "Nutraceuticals International Group",
+    "company_slug": "nutraceuticals-international-group",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708686799/production/Brand/24849/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606945/production/CategoryImage/505/category_image/FoodNutrition_06.jpg",
+    "properties": {
+        "Applications": [
+            "Convenience Foods",
+            "Bakery",
+            "Beer Brewing",
+            "Liquor & Spirits",
+            "Beverage",
+            "Food"
+        ],
+        "Product Families": [
+            "Plant & Herb Products & Extracts",
+            "Whole Foods, Extracts & Premixes"
+        ],
+        "End Uses": [
+            "Pancakes",
+            "Dough",
+            "Bread",
+            "Beer"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Maca Roots Extract Powder"
+        ],
+        "Physical Form": [
+            "Solid",
+            "Powder"
+        ],
+        "Functions": [
+            "Whole Food Ingredient"
+        ]
+    }
+}

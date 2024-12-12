@@ -1,0 +1,38 @@
+{
+    "id": 400192,
+    "brand": "instabond",
+    "name": "INSTAbond® 146 Grade K",
+    "slug": "instabond-146-grade-k",
+    "description": "INSTAbond® 146 Grade K is a high-strength, low-viscosity threadlocking compound designed for metal fasteners up to 1” in diameter. Other features include fast-cure and good chemical resistance.",
+    "company_name": "Accrabond",
+    "company_slug": "accrabond",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1682593014/production/Brand/30444/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical & Industrial Manufacturing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Anaerobic Adhesives"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Anaerobic Adhesive"
+        ],
+        "Application Area": [
+            "Thread Sealing"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal"
+        ],
+        "Features": [
+            "High Strength",
+            "Fast Cure",
+            "Chemical Resistant",
+            "Low Viscosity"
+        ]
+    }
+}

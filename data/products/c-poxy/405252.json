@@ -1,0 +1,47 @@
+{
+    "id": 405252,
+    "brand": "c-poxy",
+    "name": "C-POXY 15",
+    "slug": "c-poxy-15",
+    "description": "C-POXY 15 is a general-purpose, unfilled, fast-setting epoxy adhesive. Recommended for bonding metal, ceramics, stone, glass, concrete, wood, fiberglass and many plastics such as polyester, ABS and rigid PVC (not suitable for PTFE-PP-PE and rubbers).",
+    "company_name": "CEC Corp",
+    "company_slug": "cec-corp",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1682593325/production/Brand/31042/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608972/production/CategoryImage/588/category_image/AdhesivesSealants_05.jpg",
+    "properties": {
+        "Applications": [
+            "DIY & Consumer",
+            "Bonding & Assembly",
+            "Body Shop & Repair",
+            "Repair Adhesives"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Structural Adhesives"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Epoxy Adhesive"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Polyesters",
+            "Polyvinyl Chloride (PVC)",
+            "Metal",
+            "Stone",
+            "Ceramic",
+            "Fiberglass",
+            "Wood",
+            "Acrylonitrile Butadiene Styrene (ABS)",
+            "Concrete",
+            "Glass",
+            "Plastics"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    }
+}

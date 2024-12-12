@@ -1,0 +1,51 @@
+{
+    "id": 323932,
+    "brand": "volactose",
+    "name": "Volactive® Pro2O",
+    "slug": "volactive-pro2o",
+    "description": "Volactive® Pro2O® is specifically engineered to produce protein waters with the ultimate clarity. Containing only trace levels of fat and ash whilst delivering our highest protein content, Volactive® Pro2O® has a neutral pH, offering a clean flavor with no astringency.",
+    "company_name": "Volac",
+    "company_slug": "volac",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708517510/production/Company/29445/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607247/production/CategoryImage/513/category_image/FoodNutrition_13.jpg",
+    "properties": {
+        "Applications": [
+            "Nutraceuticals & Supplements",
+            "Functional Foods",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Proteins & Amino Acids",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Nutraceuticals",
+            "Protein Shakes"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Whey Protein Isolate"
+        ],
+        "Labeling Claims": [
+            "Vegetarian",
+            "Clean Label",
+            "Kosher",
+            "rBGH-free",
+            "GMO-free",
+            "Halal"
+        ],
+        "Features": [
+            "High Protein Content",
+            "Low Fat",
+            "Improved Hydration",
+            "Hydrating",
+            "pH Neutral"
+        ],
+        "End Uses": [
+            "Nutraceuticals",
+            "Protein Shakes"
+        ]
+    }
+}

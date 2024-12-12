@@ -1,0 +1,32 @@
+{
+    "id": 301519,
+    "brand": "smartir",
+    "name": "SMARTIR™",
+    "slug": "smartir",
+    "description": "Smartir™ uniquely combines the functionalities of titanium dioxide (TiO2) and zinc oxide (ZnO) to provide a low cost alternative to these pigments. By utilizing SmartIR in existing roof paint formulations, up to 50% of the TiO2 and all of the ZnO can be removed and replaced with much smaller quantities of SmartIR, all the while maintaining product performance.",
+    "company_name": "ShayoNano USA",
+    "company_slug": "shayonano-usa",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708523899/production/Company/24326/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608465/production/CategoryImage/561/category_image/BuildingConstruction_05.jpg",
+    "properties": {
+        "Applications": [
+            "Roof Coatings",
+            "Roofing",
+            "Building & Construction"
+        ],
+        "Product Families": [
+            "Color Dispersions",
+            "Color Pigments",
+            "Pigments & Colorants",
+            "Dispersions & Masterbatches"
+        ]
+    },
+    "summary": {
+        "Color": [
+            "White"
+        ],
+        "Compatible Polymers & Resins": [
+            "Polyvinyl Chloride (PVC)"
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": 403261,
+    "brand": "black-swan",
+    "name": "Black Swan® Clear Primer",
+    "slug": "black-swan-clear-primer",
+    "description": "Black Swan® Clear Primer is a clear, non-bodied, fast acting solvent used to soften, clean and prepare plastic pipe and fittings prior to assembly. Clear Primer can be used with all types, schedules and classes of PVC and CPVC pipe and fittings. A low VOC formulation.",
+    "company_name": "Black Swan",
+    "company_slug": "black-swan",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292345/production/Brand/30830/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608422/production/CategoryImage/558/category_image/BuildingConstruction_02.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Pipes & Plumbing"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Primer"
+        ],
+        "Application Areas": [
+            "Pipes"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Plastics"
+        ],
+        "Features": [
+            "Low VOC"
+        ]
+    }
+}

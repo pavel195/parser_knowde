@@ -1,0 +1,54 @@
+{
+    "id": 97358,
+    "brand": "setacin",
+    "name": "SYNTRAN® 5900",
+    "slug": "syntran-5900",
+    "description": "SYNTRAN® 5900 is a water-based emulsion that modifies the visual appearance of personal care products from clear to opaque without affecting the other desired properties of the formula.\n\nSYNTRAN® opacifiers give whiteness and density at significant low levels (from 0.1 to 1.0 percent as supplied) with excellent formulation stability.\n\nSYNTRAN® 5900 is slowly added to the base product under agitation at the end of the manufacturing cycle (i.e., after final adjustment). A stability control is recommended.",
+    "company_name": "Zschimmer & Schwarz: Personal Care",
+    "company_slug": "zschimmer-schwarz-personal-care",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708700020/production/Product/97358/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708700020/production/Company/45373/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Skin Care",
+            "Bath & Shower",
+            "Hair Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Visual Modifiers",
+            "Functionals"
+        ],
+        "Chemical Family": [
+            "Styrenics",
+            "Styrene Copolymers"
+        ],
+        "INCI Name": [
+            "Polystyrene"
+        ],
+        "End Uses": [
+            "Body Lotion",
+            "Shampoos & Rinses",
+            "Liquid Soap"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Polystyrene"
+        ],
+        "Functions": [
+            "Opacifier"
+        ],
+        "Benefit Claims": [
+            "Compatibility",
+            "Brightening",
+            "Acidic pH Stable",
+            "Rich Feel",
+            "Opacifying",
+            "Densifying Effect",
+            "Improved Whiteness",
+            "Formula Stability",
+            "Creamy Texture"
+        ]
+    }
+}

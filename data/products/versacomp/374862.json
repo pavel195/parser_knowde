@@ -1,0 +1,33 @@
+{
+    "id": 374862,
+    "brand": "versacomp",
+    "name": "VersaComp™ UDG",
+    "slug": "versacomp-udg",
+    "description": "VersaComp™ UDG is a uni-directional, 0/90 fiber reinforced, hybrid that offers optimal impact resistance, tensile strength, and superior stiffness.\r\n",
+    "company_name": "Propex Furnishing Solutions",
+    "company_slug": "propex-furnishing-solutions",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691742051/production/Company/44576/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608744/production/CategoryImage/575/category_image/AutomotiveTransportation_03.jpg",
+    "properties": {
+        "Applications": [
+            "Advanced Materials",
+            "Body Armor",
+            "Interior",
+            "Exterior & Body",
+            "Sports & Recreation",
+            "Luggage & Leather Goods",
+            "Military & Defense",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Parts & Shapes"
+        ],
+        "Polymer Name": [
+            "Thermoplastic (unspecified)"
+        ],
+        "End Uses": [
+            "Skate Board"
+        ]
+    },
+    "summary": {}
+}

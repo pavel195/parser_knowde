@@ -1,0 +1,75 @@
+{
+    "id": 296438,
+    "brand": "profilm",
+    "name": "Santicizer® 278",
+    "slug": "santicizer-278",
+    "description": "Santicizer® 278 is a fast fusing, benzyl phthalate plasticizer designed for use in multiple polymer systems and applications. This plasticizer is a high molecular weight alkyl benzyl phthalate that has compatibility in many polymer types, particularly in PVC. Santicizer® 278 is extremely permanent. It resists exudation and extraction and has very low volatility. Additionally, Santicizer® 278 has shown sound dampening benefits, and has benefits in wet applications of paint.",
+    "company_name": "Valtris Specialty Chemicals Company",
+    "company_slug": "valtris-specialty-chemicals-company",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708695840/production/Product/296438/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1626797820/production/CategoryImage/994/category_image/PigmentsColorants_01.jpg",
+    "properties": {
+        "Applications": [
+            "Textile Manufacturing",
+            "Technical Fabrics",
+            "Carpet",
+            "Floor Coatings",
+            "Performance Flooring",
+            "Siding & Trim",
+            "Pipes & Plumbing",
+            "Seating",
+            "Other Printing & Packaging Applications",
+            "Other Paints & Coatings Applications",
+            "Other Building & Construction Applications",
+            "Automotive Fluids & Lubricants",
+            "Other Adhesives & Sealants Applications",
+            "Automotive",
+            "Lubricants & Functional Fluids",
+            "Building Materials",
+            "Flooring & Surfaces",
+            "Textiles & Nonwovens",
+            "Building & Construction",
+            "Decorative Materials & Finishes",
+            "Leather & Textiles"
+        ],
+        "Product Families": [
+            "Performance Additives",
+            "Functional Additives",
+            "Additives",
+            "Polymer Additives",
+            "Elastomer Additives"
+        ],
+        "Chemical Family": [
+            "Phthalates",
+            "Pthalates"
+        ],
+        "End Uses": [
+            "Siding Applications",
+            "Pipes",
+            "Coated Fabrics",
+            "Carpet Backing",
+            "Plastisol Ink",
+            "2K (2 component) Coating",
+            "1K (1 component) Coating"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Pthalates",
+            "Phthalates"
+        ],
+        "Functions": [
+            "Seal Swell Agent",
+            "Plasticizer",
+            "Compatibilizer"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Textiles"
+        ],
+        "Compatible Polymers & Resins": [
+            "Polyurethanes (PU)",
+            "Polyvinyl Chloride (PVC)",
+            "Modified Silanes"
+        ]
+    }
+}

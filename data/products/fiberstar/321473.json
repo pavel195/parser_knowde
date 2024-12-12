@@ -1,0 +1,41 @@
+{
+    "id": 321473,
+    "brand": "fiberstar",
+    "name": "FiberStar® P+",
+    "slug": "chemstar-fiberstar-p",
+    "description": "FiberStar® P+ is a cold-water soluble, low viscosity, non-ionic polymer for use in industrial applications. FiberStar P+ is a natural polysaccharide designed to impart enhanced functional properties including: adhesion/binding, water retention, improved rheology and viscosity. FiberStar P+ is an excellent product for binding and adhesive applications where economics is important. FiberStar P+ is a cost-effective corn-based product with excellent binding and adhesion properties.",
+    "company_name": "Chemstar",
+    "company_slug": "chemstar",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112290/production/Company/21262/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608939/production/CategoryImage/585/category_image/AdhesivesSealants_02.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial & Assembly Adhesives",
+            "Other Industrial & Assembly Applications",
+            "Other Adhesives & Sealants Applications",
+            "Industrial Adhesives & Sealants",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Other Resins & Binders",
+            "Resins & Binders"
+        ],
+        "End Uses": [
+            "Waterborne Adhesive"
+        ]
+    },
+    "summary": {
+        "End Uses": [
+            "Waterborne Adhesive"
+        ],
+        "Features": [
+            "Improved Rheology",
+            "Improved Water Retention",
+            "Low Viscosity",
+            "Good Film Former",
+            "Cost Effective",
+            "Excellent Adhesion",
+            "Good Lubricating Properties"
+        ]
+    }
+}

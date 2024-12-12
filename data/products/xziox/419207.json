@@ -1,0 +1,36 @@
+{
+    "id": 419207,
+    "brand": "xziox",
+    "name": "International Water Solutions Avpro",
+    "slug": "international-water-solutions-avpro",
+    "description": "Avpro is a unique formula designed as an alternative to formaldehyde and other carcinogenic and harmful chemicals for animal house disinfection by fogging. Avpro is more effective than its rivals and has far more benefits which sets it apart from traditional disinfections.",
+    "company_name": "International Water Solutions",
+    "company_slug": "international-water-solutions",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292534/production/Company/57052/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607098/production/CategoryImage/501/category_image/FoodNutrition_02.jpg",
+    "properties": {
+        "Applications": [
+            "Processing & Packaging",
+            "Food & Beverage Manufacturing",
+            "Institutional & Industrial Care",
+            "Institutional & Catering"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Other Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner",
+            "Disinfectant Products"
+        ],
+        "Application Areas": [
+            "Water System",
+            "Potable Water Applications"
+        ],
+        "Features": [
+            "Bacteria Resistant"
+        ]
+    }
+}

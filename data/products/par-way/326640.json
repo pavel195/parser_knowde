@@ -1,0 +1,45 @@
+{
+    "id": 326640,
+    "brand": "par-way",
+    "name": "Par-Way® Processing Agent",
+    "slug": "par-way-processing-agent",
+    "description": "Par-Way® Processing Agent is Excellent release oil for dehydrators and other band applications where mineral oil is not acceptable and also use on solid and perforated bands, conveyors and screens for dehydration, eggs, confectionary, pretzels, waffles and pancakes, pet foods and prepared foods, High smoke point, also available in a Lecithin-Free formula.",
+    "company_name": "Par-Way Tryson",
+    "company_slug": "par-way-tryson",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708688587/production/Company/31045/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606996/production/CategoryImage/508/category_image/FoodNutrition_09.jpg",
+    "properties": {
+        "Applications": [
+            "Confectionery",
+            "Cereals & Snacks",
+            "Bakery",
+            "Food"
+        ],
+        "Product Families": [
+            "Processing Aids",
+            "Functional Additives"
+        ],
+        "End Uses": [
+            "Waffles",
+            "Pretzels",
+            "Pancakes",
+            "Confectionery Products"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Release Agent",
+            "Anti-Sticking Agent"
+        ],
+        "End Uses": [
+            "Waffles",
+            "Confectionery Products",
+            "Pancakes",
+            "Pretzels"
+        ],
+        "Labeling Claims": [
+            "Allergen-free",
+            "Non-GMO"
+        ]
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "id": 459773,
+    "brand": "weanex",
+    "name": "Cardiose",
+    "slug": "cardiose",
+    "description": "Cardiose is a patented ingredient derived from citrus, offering benefits for heart health and sports performance.\n\n\nIt maintains arterial flexibility and minimizes cardiovascular risk factors while also improving physical performance and extending endurance.\nCardiose is GRAS-approved for use in supplements and food, making it a safe and reliable option.\nIts target markets include Food and Nutrition, where it serves as a valuable addition to promote heart health and enhance athletic performance.\n\n",
+    "company_name": "HTBA (HealthTech BioActives, S.L.U.)",
+    "company_slug": "healthtech-bioactives-s-l-u",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1677765190/production/Company/35907/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1680302676/production/Product/459773/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Sports Nutrition",
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Sports Nutrition",
+            "Dietary Supplements"
+        ],
+        "Labeling Claims": [
+            "Halal",
+            "Kosher",
+            "Non-GMO",
+            "Allergen-free",
+            "Gluten-free",
+            "Natural"
+        ]
+    },
+    "summary": {
+        "Labeling Claims": [
+            "Gluten-free",
+            "Kosher",
+            "Natural",
+            "Allergen-free",
+            "Non-GMO",
+            "Halal"
+        ],
+        "Certifications & Compliance": [
+            "GMP",
+            "FAMI-QS",
+            "Kosher",
+            "ISO 14001",
+            "Halal",
+            "ISO 9001",
+            "FSSC 22000",
+            "Hazard Analysis Critical Control Point (HACCP)",
+            "Generally Recognized As Safe (GRAS)",
+            "ECOVADIS"
+        ],
+        "Benefit Claims (Health)": [
+            "Cardioprotective",
+            "Supports Cardiovascular health",
+            "Improves FMD(Flow-Mediated Dilation)",
+            "Decreases LDL Cholesterol",
+            "Controls Diastolic Blood Pressure",
+            "Improves Blood Circulation",
+            "Improves Endurance",
+            "Increases HDL Cholesterol"
+        ],
+        "Features": [
+            "Reduction in Cholesterol",
+            "Superior Performance"
+        ]
+    }
+}

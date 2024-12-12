@@ -1,0 +1,75 @@
+{
+    "id": 323444,
+    "brand": "gehr-pmma-xt",
+    "name": "GEHR PPS®",
+    "slug": "gehr-pps",
+    "description": "GEHR PPS® is continuous operating temperature of this high-performance plastic is approximately +230 °C. It has very high mechanical performance combined with excellent thermal and chemical resistance as well as high dimensional stability and creep resistance. The LOI of this material is among the highest among polymers. The excellent hardness and stiffness are further characteristics of PPS. It closes the gap between semi-crystalline, engineering plastics and PEEK through its strength and economic efficiency.",
+    "company_name": "GEHR",
+    "company_slug": "gehr",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686149839/production/Brand/23066/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Parts & Components",
+            "Exterior & Body",
+            "Fuel Systems",
+            "Interior",
+            "Other Automotive Applications",
+            "Chemical & Industrial Manufacturing",
+            "Automotive",
+            "Other Parts & Components",
+            "Pipes & Plumbing",
+            "Pumps, Turbines & Compressors",
+            "Other Industrial Applications",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Polyphenylene Sulfide (PPS)"
+        ],
+        "Polymer Name": [
+            "Polyphenylene Sulfide (PPS)"
+        ],
+        "End Uses": [
+            "Automotive Interior Parts",
+            "Automotive Components",
+            "Pump Parts",
+            "Fuel Injectors",
+            "Fuel Flange",
+            "Fuel Lines",
+            "Ball Valves",
+            "Fuel Injector Rails"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyphenylene Sulfide (PPS)"
+        ],
+        "Physical Form": [
+            "Custom",
+            "Rods",
+            "Sheets"
+        ],
+        "Features": [
+            "High Hydrolysis Resistance",
+            "Good Weather Stability",
+            "High Rigidity",
+            "Good Thermal Stability",
+            "Dimensional Stability",
+            "High Hardness",
+            "High Temperature Insulation Properties",
+            "Chemical Resistant",
+            "High Strength",
+            "Excellent Performance"
+        ],
+        "Density": [
+            "1340.0 - 1650.0 kg/m³"
+        ],
+        "Color": [
+            "Black"
+        ]
+    }
+}

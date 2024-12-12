@@ -1,0 +1,33 @@
+{
+    "id": 303616,
+    "brand": "brasmide",
+    "name": "BRASPOXY DX",
+    "slug": "braspoxy-dx",
+    "description": "BRASPOXY DX is a modified vegetable fatty ester",
+    "company_name": "SGS",
+    "company_slug": "sgs",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708689785/production/Company/17927/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608611/production/CategoryImage/569/category_image/PaintingsCoatings_05.jpg",
+    "properties": {
+        "Applications": [
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Diluents",
+            "Rheology Modifiers & Stabilizers",
+            "Additives",
+            "Solvents & Carriers"
+        ],
+        "Chemical Family": [
+            "Vegetable Oils"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Reactive Diluent"
+        ],
+        "Chemical Family": [
+            "Vegetable Oils"
+        ]
+    }
+}

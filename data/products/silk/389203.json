@@ -1,0 +1,54 @@
+{
+    "id": 389203,
+    "brand": "silk",
+    "name": "Bluevisc™ BTMC-85",
+    "slug": "bluevisc-btmc-85",
+    "description": "Bluevisc™ BTMC-85 is a Version with higher concentration of active ingredients. It is a quaternary ammonium mainly used as an antistatic or hair conditioner",
+    "company_name": "Blue Sun International",
+    "company_slug": "blue-sun-international",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708688679/production/Company/1165/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708688679/production/Company/1165/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Skin Care",
+            "Hair Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Hair Actives",
+            "Rheology Modifiers",
+            "Cosmetic Actives",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Behentrimonium Chloride"
+        ],
+        "End Uses": [
+            "Hair Conditioner"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Behentrimonium Chloride"
+        ],
+        "Functions": [
+            "Anti-Static Agent",
+            "Thickener",
+            "Viscosity Modifier"
+        ],
+        "Labeling Claims": [
+            "Credo Clean Standard",
+            "Clean at Sephora"
+        ],
+        "Benefit Claims": [
+            "Detangling",
+            "Emulsifying",
+            "Conditioning",
+            "Softening",
+            "Static Reduction"
+        ],
+        "Synonyms": [
+            "1-Docosanaminium,N,N,N-trimethyl-chloride, Behenyltrimethylammonium Chloride, C22-Alkyltrimethylammonium Chloride, Genamin KDMP, Incroquat Behenyl TMC 85, N,N,N-Trimethyl-1-Docosanaminium Chloride, Quartamin AB, Varisoft BT 85"
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "id": 417002,
+    "brand": "corodur",
+    "name": "Hodacryl® ZR 00",
+    "slug": "hodacryl-zr-00",
+    "description": "Hodacryl® ZR 00 is basic acrylic paint designed for application on steel, cast iron or. galvanized surfaces. Thanks to the content of anti-corrosion inhibitors based on zinc phosphate, it actively suppresses the formation or course of corrosion. The paint is characterized by very fast drying. Combines with top colors (emails). The coating system as a whole is designed for common outdoor environments or for indoor applications",
+    "company_name": "Color Spectrum",
+    "company_slug": "color-spectrum",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520361/production/Brand/32598/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608640/production/CategoryImage/572/category_image/PaintingsCoatings_08.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial Coatings",
+            "Agricultural & Construction Equipment",
+            "Chemical & Industrial Manufacturing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Other Paints & Coatings"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "2K (2 component) Coating"
+        ],
+        "Application Area": [
+            "Containers"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Iron",
+            "Metal",
+            "Steel"
+        ],
+        "Features": [
+            "Corrosion Resistant"
+        ],
+        "Application Method": [
+            "Spray",
+            "Brush"
+        ]
+    }
+}

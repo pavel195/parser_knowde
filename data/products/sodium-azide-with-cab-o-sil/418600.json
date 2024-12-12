@@ -1,0 +1,43 @@
+{
+    "id": 418600,
+    "brand": "sodium-azide-with-cab-o-sil",
+    "name": "Fine Chemicals Potassium Salt of 5 Amino 1H Tetrazole (K5-AT)",
+    "slug": "fine-chemicals-potassium-salt-of-5-amino-1h-tetrazole-k5-at",
+    "description": null,
+    "company_name": "Fine Chemicals",
+    "company_slug": "fine-chemicals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704106953/production/Company/48686/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608769/production/CategoryImage/577/category_image/AutomotiveTransportation_05.jpg",
+    "properties": {
+        "Applications": [
+            "Fuel Systems",
+            "Chemical Manufacturing",
+            "Automotive",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Heterocycles",
+            "Intermediates"
+        ],
+        "Chemical Family": [
+            "Potassium Salts",
+            "Tetrazoles"
+        ],
+        "End Uses": [
+            "Airbag Fuel",
+            "Automotive Applications"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Potassium Salt of 5 Amino 1H Tetrazole (K5-AT)"
+        ],
+        "CAS Number": [
+            "136369-04-5"
+        ],
+        "Chemical Family": [
+            "Tetrazoles",
+            "Potassium Salts"
+        ]
+    }
+}

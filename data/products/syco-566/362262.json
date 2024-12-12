@@ -1,0 +1,39 @@
+{
+    "id": 362262,
+    "brand": "syco-566",
+    "name": "SYCO 200®",
+    "slug": "syco-200",
+    "description": "SYCO 200® is a high performance surfactant with dispersing and wetting action. It is indicated for alkyd, epoxy and bicomponent PU systems, in addition to being applied in tintomeric systems to increase the compatibility with colorants, consequently improving the covering and dyeing power.",
+    "company_name": "SYCO",
+    "company_slug": "syco",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708687979/production/Brand/27174/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608410/production/CategoryImage/557/category_image/BuildingConstruction_01.jpg",
+    "properties": {
+        "Applications": [
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Dispersing & Wetting Additives",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Phosphates"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Phosphates"
+        ],
+        "Functions": [
+            "Surfactant"
+        ],
+        "Compatible Polymers & Resins": [
+            "Epoxies (EP)",
+            "Alkyds",
+            "Polyurethanes (PU)"
+        ],
+        "Labeling Claims": [
+            "APEO-free"
+        ]
+    }
+}

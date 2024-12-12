@@ -1,0 +1,37 @@
+{
+    "id": 411695,
+    "brand": "solspray",
+    "name": "SOLSPRAY LC",
+    "slug": "solspray-lc",
+    "description": "SOLSPRAY LC arecationic legume starches available from DS 0.02. The Solspray products are used as spray starches in paper production. Solam spray starches improve the strength characteristics, especially the Z-strength and the Scott bond value, of the ready paper.",
+    "company_name": "Solam",
+    "company_slug": "solam",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292574/production/Brand/32095/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Paper & Pulp",
+            "Pulping & Processing"
+        ],
+        "Product Families": [
+            "Paper & Pulp Chemicals",
+            "Finishing Additives & Treatments"
+        ],
+        "Chemical Family": [
+            "Cationics",
+            "Starches"
+        ],
+        "End Uses": [
+            "Paper & Pulp"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Cationics",
+            "Starches"
+        ],
+        "End Uses": [
+            "Paper & Pulp"
+        ]
+    }
+}

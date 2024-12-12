@@ -1,0 +1,36 @@
+{
+    "id": 401626,
+    "brand": "dingo",
+    "name": "AZOMAT® SUPER N20",
+    "slug": "azomat-super-n20",
+    "description": "\r\n\r\nAZOMAT® SUPER N20 is a cylindrical shaped homogeneous pellet with 3-4 mm average diameter and average length of 4-5 mm.\r\n",
+    "company_name": "FOMET SpA",
+    "company_slug": "fomet-spa",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708686140/production/Brand/30602/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608215/production/CategoryImage/550/category_image/AgricultureFeed_06.jpg",
+    "properties": {
+        "Applications": [
+            "Vegetables",
+            "Sugar & Starch Crops",
+            "Fodder & Forage",
+            "Ornamentals",
+            "Agricultural Crops",
+            "Turf, Ornamentals & Landscape"
+        ],
+        "Product Families": [
+            "Fertilizers & Nutrients",
+            "Plant Health, Nutrients & Soil Management"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Fertilizer"
+        ],
+        "Application Technique": [
+            "Spreaders"
+        ],
+        "Labeling Claims": [
+            "Organic"
+        ]
+    }
+}

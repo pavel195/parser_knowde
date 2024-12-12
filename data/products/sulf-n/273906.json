@@ -1,0 +1,73 @@
+{
+    "id": 273906,
+    "brand": "sulf-n",
+    "name": "EZ-Blox®",
+    "slug": "ez-blox",
+    "description": "EZ-Blox® optimizes the performance of alkyd-based paint and coating formulations by preventing surface skin formation due to contact with atmospheric oxygen when, between uses, such formulations sit in containers. EZ-Blox® is a breakthrough product that offers a safe, cost-effective replacement for MEKO, typically with equal efficacy and compatibility with other components in such formulations. With EU-REACH certification and low-toxicity, EZ-Blox® is ideal for paints and coatings producers looking to reformulate high-performance alkyd-based systems post ECHA’s reclassification of MEKO as a Carcinogen 1B substance on March 1, 2022.",
+    "company_name": "AdvanSix",
+    "company_slug": "advansix",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697438354/production/Company/4618/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1611138024/production/Product/273906/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Decorative Paints, Coatings & Stains",
+            "Wood Coatings & Finishes",
+            "Sealants & Caulks",
+            "Chemical Manufacturing",
+            "Architectural Coatings",
+            "Other Paints & Coatings Applications",
+            "Exploration & Upstream",
+            "Building & Construction",
+            "Building Envelope",
+            "Building Materials",
+            "Construction Chemicals",
+            "Roofing",
+            "Chemical & Industrial Manufacturing",
+            "Oil, Gas & Mining",
+            "Building Envelope & Roofing",
+            "Decorative Materials & Finishes"
+        ],
+        "Product Families": [
+            "Lubricant Protective Additives",
+            "Surface Modifiers",
+            "Oximes",
+            "Additives",
+            "Intermediates"
+        ],
+        "End Uses": [
+            "Paints",
+            "1K (1 component) Coating",
+            "Drilling Fluids",
+            "Solventless & High Solids Coating"
+        ],
+        "Labeling Claims": [
+            "Water-free",
+            "Low Toxicity",
+            "High Purity"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "2-Pentanone Oxime"
+        ],
+        "CAS Number": [
+            "623-40-5"
+        ],
+        "Functions": [
+            "Antioxidant",
+            "Blocking Agent",
+            "Oxygen Scavenger",
+            "Intermediate",
+            "Corrosion Inhibitor",
+            "Anti-Skinning Agent"
+        ],
+        "Labeling Claims": [
+            "Low Toxicity",
+            "Water-free",
+            "High Purity"
+        ],
+        "Synonyms": [
+            "Methyl n-propyl ketoxime, Methyl propyl ketone oxime, Methyl propyl ketoxime, NSC 73149"
+        ]
+    }
+}

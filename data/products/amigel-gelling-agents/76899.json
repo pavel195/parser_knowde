@@ -1,0 +1,78 @@
+{
+    "id": 76899,
+    "brand": "amigel-gelling-agents",
+    "name": "Amiperfect™ ER Cellular Regenerator",
+    "slug": "amiperfect-er-cellular-regenerator",
+    "description": "Amiperfect ER is a powerful cellular regenerator, which makes it an ideal cosmetic ingredient for a bright complexion. It is the cosmetic ally of mature, dull or acne-prone skin. This Alban Muller's 100% natural high-tech ingredient yields a perfect, radiant complexion as well as purified, smoothed skin.",
+    "company_name": "Alban Muller",
+    "company_slug": "alban-muller",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708699264/production/Company/1137/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708699264/production/Company/1137/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Bath & Shower",
+            "Hair Care",
+            "Skin Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Skin Actives",
+            "Antioxidants & Preservatives",
+            "Sensory Modifiers",
+            "Cosmetic Actives",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Gaultheria Procumbens (Wintergreen) Leaf Extract"
+        ],
+        "End Uses": [
+            "Body Wash",
+            "Body Oil",
+            "Facial Cleanser",
+            "Facial Moisturizer",
+            "Foot Moisturizer",
+            "Shampoos & Rinses",
+            "Anti-Aging Products",
+            "Make Up Remover"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Gaultheria Procumbens (Wintergreen) Leaf Extract"
+        ],
+        "Ingredient Origin": [
+            "Plant Origin",
+            "Natural Origin"
+        ],
+        "Functions": [
+            "Anti-Inflammatory",
+            "Smoothing Agent",
+            "Revitalizing Agent",
+            "Anti-Aging Agent",
+            "Anti-Microbial Agent"
+        ],
+        "Labeling Claims": [
+            "Organic",
+            "Ulta Beauty's Conscious Beauty",
+            "Credo Clean Standard",
+            "Clean at Sephora",
+            "Plant-Based",
+            "Naturally Derived"
+        ],
+        "Certifications & Compliance": [
+            "ECOCERT",
+            "Organic Certified",
+            "COSMOS"
+        ],
+        "Benefit Claims": [
+            "Conditioning",
+            "Smoothing",
+            "Regenerating",
+            "Texturizing",
+            "Antimicrobial",
+            "Anti-Inflammatory",
+            "Wrinkle Prevention",
+            "Anti-Aging"
+        ]
+    }
+}

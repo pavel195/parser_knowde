@@ -1,0 +1,54 @@
+{
+    "id": 245866,
+    "brand": "nacure",
+    "name": "NA-SUL® BSN",
+    "slug": "na-sul-bsn",
+    "description": "NA-SUL® BSN is a premium non-staining rust inhibitor for petroleum and synthetic lubricants, greases, rust preventive fluids and metalworking specialties. It provides excellent demulsibility and resistance to the negative effects of water and is compatible with a wide range of additives and base oils.",
+    "company_name": "King Industries",
+    "company_slug": "king-industries",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672041/production/Company/7448/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708672041/production/Company/7448/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Cold-Chain & Insulation",
+            "Appliances & Electronics",
+            "Fluids & Lubricants",
+            "Automotive Fluids & Lubricants",
+            "Lubricants & Functional Fluids",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Surface Protective Additives",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Organometallics"
+        ],
+        "End Uses": [
+            "Gear Oils",
+            "Compressor Oils",
+            "Circulating Oils",
+            "Hydraulic Fluids"
+        ]
+    },
+    "summary": {
+        "End Uses": [
+            "Gear Oils",
+            "Hydraulic Fluids",
+            "Compressor Oils",
+            "Circulating Oils"
+        ],
+        "Functions": [
+            "Anti-Wear Agent",
+            "Corrosion Inhibitor"
+        ],
+        "Chemical Family": [
+            "Organometallics"
+        ],
+        "Features": [
+            "Corrosion Resistant",
+            "Non-Staining",
+            "Good Thermal Stability"
+        ]
+    }
+}

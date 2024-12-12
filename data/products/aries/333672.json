@@ -1,0 +1,45 @@
+{
+    "id": 333672,
+    "brand": "aries",
+    "name": "Aries® Rubine Red",
+    "slug": "aries-rubine-red",
+    "description": "Aries® Rubine Red is designed for use in the manufacture of low VOC sheetfed inks, this series isformulated to impart excellent gloss and to achieve set speeds equivalent toconventional solids sheetfed ink.The unique vehicle system of Aries allows ink makers to formulate highviscosity, low yield value inks commonly associated with high quality ink systems.It also offers the flexibility to formulate high solids systems, work and turn,dry offset and inks for various substrates.",
+    "company_name": "Apollo Colors",
+    "company_slug": "apollo-colors",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708520066/production/Brand/24575/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609103/production/CategoryImage/595/category_image/PrintingPackaging_06.jpg",
+    "properties": {
+        "Applications": [
+            "Offset & Lithographic Printing",
+            "Flexography",
+            "Printing & Inks"
+        ],
+        "Product Families": [
+            "Organic Pigments",
+            "Color Pigments",
+            "Pigments & Colorants"
+        ],
+        "Chemical Family": [
+            "Azo Compounds"
+        ],
+        "End Uses": [
+            "Offset Ink",
+            "Flexography Ink"
+        ]
+    },
+    "summary": {
+        "Color": [
+            "Red"
+        ],
+        "Pigment Type": [
+            "Organic Pigments"
+        ],
+        "Chemical Family": [
+            "Azo Compounds"
+        ],
+        "End Uses": [
+            "Flexography Ink",
+            "Offset Ink"
+        ]
+    }
+}

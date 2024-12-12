@@ -1,0 +1,43 @@
+{
+    "id": 405226,
+    "brand": "ronjohn",
+    "name": "RonJohn® Graffiti Remover",
+    "slug": "ronjohn-graffiti-remover",
+    "description": "RonJohn® Graffiti Remover is a medium viscosity solvent blend uniquely formulated to safely remove spray paint and marker inks. With no toxic ingredients, no chlorinated solvents, and a flash point over 140°F (not flammable), RonJohn® Graffiti Remover is not RCRA or DOT hazardous. It contains no SARA 313 chemicals, no California proposition 65 materials, no Hazardous Air Pollutants, no known carcinogens, is biodegradable, and has only a moderate exposure rating. Because approximately 85% of the blend is low vapor pressure materials, it evaporates slowly reducing emissions by staying on the job where you need it. It is the safest, most effective graffiti remover we have found.",
+    "company_name": "TEKNIKEM",
+    "company_slug": "teknikem",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1682593079/production/Brand/31031/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515671/production/CategoryImage/1057/category_image/HII_09.jpg",
+    "properties": {
+        "Applications": [
+            "Institutional & Industrial Care",
+            "Industrial Cleaning",
+            "Vehicle & Machinery"
+        ],
+        "Product Families": [
+            "Commercial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Graffiti Remover"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Wood",
+            "Concrete",
+            "Plastics"
+        ],
+        "Certifications & Compliance": [
+            "California Proposition 65",
+            "SARA 313"
+        ],
+        "Features": [
+            "Cost Effective",
+            "Biodegradable",
+            "Medium Viscosity",
+            "Non-Toxic"
+        ]
+    }
+}

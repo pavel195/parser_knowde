@@ -1,0 +1,78 @@
+{
+    "id": 420001,
+    "brand": "rainforest-blue",
+    "name": "NATIVE EXTRACTS Salt Bush Cellular Extract",
+    "slug": "native-extracts-salt-bush-cellular-extract",
+    "description": "Salt Bush Cellular Extract is extracted rapidly under high pressure, we maintain the molecules’ natural integrity. Committed to conscious manufacturing, Cellular Extracts are created using purified, deionised, rain-harvested water and less plant material than past processes to produce a natural extract, that is eco-sustainable, traceable to source, transparent in composition delivering the brilliance of nature.",
+    "company_name": "NATIVE EXTRACTS",
+    "company_slug": "native-extracts",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704103670/production/Company/54384/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1704103670/production/Company/54384/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Hair Care",
+            "Sun Care",
+            "Bath & Shower",
+            "Treatment Products",
+            "Skin Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Botanical Ingredients & Extracts",
+            "Vitamins, Extracts & Oils"
+        ],
+        "INCI Name": [
+            "Atriplex Nummularia Extract"
+        ],
+        "End Uses": [
+            "Facial Mask",
+            "Rosacea (Redness) Treatment",
+            "Wound Treatment",
+            "After Sun Products",
+            "Skin Serums",
+            "Night Creams",
+            "Day Creams",
+            "Cleansing Milk",
+            "Moisturizers",
+            "Skin Cleanser",
+            "Hair Treatment & Repair"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Atriplex Nummularia Extract"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Plant Origin"
+        ],
+        "Benefit Claims": [
+            "Healing",
+            "Luminosity",
+            "Blemish Control",
+            "Reduces Hyperpigmentation",
+            "Anti-Acne",
+            "Hair Protection",
+            "Suitable for Sensitive Skin",
+            "Anti-Inflammatory",
+            "Collagen Boosting",
+            "Hydrating",
+            "Anti-Wrinkle",
+            "Shine & Radiance",
+            "Pigmentation Reduction",
+            "Fine Lines Reduction",
+            "Anti-Aging",
+            "Antioxidant Properties",
+            "Skin Conditioning",
+            "Exfoliating"
+        ],
+        "Labeling Claims": [
+            "Environmentally Friendly",
+            "Sustainable",
+            "Natural"
+        ],
+        "Certifications & Compliance": [
+            "ISO 9001"
+        ]
+    }
+}

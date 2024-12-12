@@ -1,0 +1,44 @@
+{
+    "id": 334634,
+    "brand": "akest",
+    "name": "AKEST ADP3I",
+    "slug": "akest-adp3i",
+    "description": "AKEST ADP3I is a clear liquid that is highly miscible with a wide range of hydrophobic emmolients and solubilizers. It is ideal for use in a wide range of applications, including make up products, eye contour creams, and sun care.",
+    "company_name": "Akott",
+    "company_slug": "akott",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708688404/production/Brand/24679/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608071/production/CategoryImage/544/category_image/HomePersonalCare_10.jpg",
+    "properties": {
+        "Applications": [
+            "Skin Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Skin Actives",
+            "Cosmetic Actives"
+        ],
+        "INCI Name": [
+            "Caprylic/Capric Triglyceride"
+        ],
+        "End Uses": [
+            "Around Eye Cream",
+            "After Sun Products"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Caprylic/Capric Triglyceride"
+        ],
+        "Functions": [
+            "Brightening Agent"
+        ],
+        "Labeling Claims": [
+            "Credo Clean Standard",
+            "Clean at Sephora",
+            "Ulta Beauty's Conscious Beauty"
+        ],
+        "Benefit Claims": [
+            "Gloss"
+        ]
+    }
+}

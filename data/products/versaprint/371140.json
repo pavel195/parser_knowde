@@ -1,0 +1,35 @@
+{
+    "id": 371140,
+    "brand": "versaprint",
+    "name": "AllWrite™ A5000",
+    "slug": "allwrite-a5000",
+    "description": "AllWrite™ A5000 is a solvent based ink which enables printing onto non-porous substrates such as coated cartons and shrink wrap.",
+    "company_name": "Trident an ITW Company",
+    "company_slug": "trident-an-itw-company",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664291272/production/Brand/27685/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609091/production/CategoryImage/594/category_image/PrintingPackaging_05.jpg",
+    "properties": {
+        "Applications": [
+            "Printing & Inks",
+            "Inkjet Printing"
+        ],
+        "Product Families": [
+            "Inks & Pastes",
+            "Inkjet Inks"
+        ]
+    },
+    "summary": {
+        "Application Areas": [
+            "Bar Code"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Paper"
+        ],
+        "Features": [
+            "Fast Drying"
+        ],
+        "Color": [
+            "Black"
+        ]
+    }
+}

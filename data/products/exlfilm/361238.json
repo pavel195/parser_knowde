@@ -1,0 +1,60 @@
+{
+    "id": 361238,
+    "brand": "exlfilm",
+    "name": "StretchFLEX® ExpressWrap",
+    "slug": "stretchflex-expresswrap",
+    "description": "StretchFlex® ExpressWrap cast film available with either plastic dispensers (included) or extended cores to provide convenient grip.",
+    "company_name": "Intertape Polymer Group",
+    "company_slug": "intertape-polymer-group",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686150112/production/Brand/27020/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609067/production/CategoryImage/592/category_image/PrintingPackaging_03.jpg",
+    "properties": {
+        "Applications": [
+            "Packaging",
+            "Food & Beverage Packaging",
+            "Industrial & Transport Packaging",
+            "Non-Food Consumer Packaging",
+            "Other Packaging Materials",
+            "Flexible Packaging",
+            "Food Films & Packaging"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Polyolefins"
+        ],
+        "Polymer Name": [
+            "Polyolefin (unspecified)"
+        ],
+        "End Uses": [
+            "Flexible Packaging",
+            "Film",
+            "Food Packaging",
+            "Cosmetic Packaging",
+            "Shrink Wrap",
+            "Stretch Films",
+            "Cast Films"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyolefin (unspecified)"
+        ],
+        "Physical Form": [
+            "Solid",
+            "Film"
+        ],
+        "Features": [
+            "High Performance",
+            "Puncture Resistant",
+            "Good Stretchability",
+            "Good Elastic Recovery",
+            "High Loading Absorption Capability",
+            "Superior Clarity",
+            "Tear Resistance",
+            "Cost Effective",
+            "Consistent High Quality"
+        ]
+    }
+}

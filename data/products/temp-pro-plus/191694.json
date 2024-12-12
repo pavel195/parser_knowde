@@ -1,0 +1,41 @@
+{
+    "id": 191694,
+    "brand": "temp-pro-plus",
+    "name": "TEMP PRO PLUS™",
+    "slug": "temp-pro-plus",
+    "description": "Temp Pro Plus™ is a whey protein hydrolysate modified to obtain unique functional properties. Leprino Food's patent pending technology makes Temp Pro + unique for protein fortification and stability.",
+    "company_name": "Leprino Foods",
+    "company_slug": "leprino-foods",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697223437/production/Company/11149/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1697223437/production/Company/11149/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Other Nutrition Applications",
+            "Clinical Nutrition",
+            "Other Food Applications",
+            "Other Non-Alcoholic Beverages",
+            "Sports Nutrition",
+            "Nutraceuticals & Supplements",
+            "Functional Foods",
+            "Sports Drinks",
+            "Energy Drinks",
+            "Beverage",
+            "Food",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Proteins & Amino Acids",
+            "Dairy Products",
+            "Nutrition & Fortification",
+            "Whole Foods, Extracts & Premixes"
+        ],
+        "End Uses": [
+            "Dietary Supplements",
+            "Dietetic Foods",
+            "Sports Drinks",
+            "Energy Drinks",
+            "Functional Beverages"
+        ]
+    },
+    "summary": {}
+}

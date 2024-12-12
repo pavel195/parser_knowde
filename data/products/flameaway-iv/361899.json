@@ -1,0 +1,41 @@
+{
+    "id": 361899,
+    "brand": "flameaway-iv",
+    "name": "FlameAway IV™ 171",
+    "slug": "flameaway-iv-171",
+    "description": "FlameAway IV™ 171 is a topical film forming flame retardant coating.",
+    "company_name": "Zeller International",
+    "company_slug": "zeller-international",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520378/production/Brand/27101/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608640/production/CategoryImage/572/category_image/PaintingsCoatings_08.jpg",
+    "properties": {
+        "Applications": [
+            "Packaging & Assembly",
+            "Building & Construction",
+            "Electronics Coatings",
+            "Wood Coatings & Finishes"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Coating"
+        ],
+        "Features": [
+            "Flame Retardant",
+            "Fast Drying"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Plastics",
+            "Wood"
+        ],
+        "Application Method": [
+            "Dip Coating",
+            "Roll Coater",
+            "Spray"
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": 299254,
+    "brand": "firebinder",
+    "name": "CARBOGASKET",
+    "slug": "carbogasket",
+    "description": "CarboGasket is a powdered thermoplastic natural resin with high bonding capabilities for solvent-based gasket sealant formulations. Our product is soluable in acetone, ethyl alcohol and ethyl acetate, while being insoluable in petroleum ether and water. Also, CarboGasket has a high resistance to solvents, such as ethyl alcohol and gasoline, once solubilized and mixed into formulations.",
+    "company_name": "Polytrade",
+    "company_slug": "polytrade",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697223127/production/Company/22818/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608600/production/CategoryImage/568/category_image/PaintingsCoatings_04.jpg",
+    "properties": {
+        "Applications": [
+            "Sealants & Caulks",
+            "Construction Adhesives",
+            "Transportation Assembly",
+            "Adhesives",
+            "Other Automotive Applications",
+            "Building & Construction",
+            "Industrial & Assembly Adhesives",
+            "Automotive",
+            "Bonding & Assembly",
+            "Building Materials",
+            "Construction Chemicals",
+            "Roofing"
+        ],
+        "Product Families": [
+            "Other Resins & Binders",
+            "Resins & Binders"
+        ],
+        "End Uses": [
+            "Solventborne Adhesive"
+        ]
+    },
+    "summary": {}
+}

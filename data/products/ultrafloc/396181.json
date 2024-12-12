@@ -1,0 +1,49 @@
+{
+    "id": 396181,
+    "brand": "ultrafloc",
+    "name": "ULTRAFLOC 3000",
+    "slug": "ultrafloc-3000",
+    "description": "ULTRAFLOC 3000 is a liquid, cationic aluminum based coagulant designed to provide superior coagulation for clarification of raw water and effluent water.",
+    "company_name": "NCP Chlorchem",
+    "company_slug": "ncp-chlorchem",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708689613/production/Company/50309/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Pulping & Processing",
+            "Water Treatment",
+            "Paper & Pulp",
+            "Power, Water & Utilities"
+        ],
+        "Product Families": [
+            "Water Treatment Additives",
+            "Pulping Chemicals",
+            "Paper & Pulp Chemicals",
+            "Water Treatment Chemicals"
+        ],
+        "Chemical Family": [
+            "Aluminum Compounds",
+            "Aluminum Salts",
+            "Cationics"
+        ],
+        "End Uses": [
+            "Paper & Pulp"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Coagulant"
+        ],
+        "Chemical Family": [
+            "Aluminum Salts",
+            "Aluminum Compounds",
+            "Cationics"
+        ],
+        "End Uses": [
+            "Paper & Pulp"
+        ],
+        "Applicable Processes": [
+            "Water Clarification"
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "id": 424742,
+    "brand": "circa-1850-dex",
+    "name": "Gaudreault Antiques Brush-On Remover",
+    "slug": "gaudreault-antiques-brush-on-remover",
+    "description": "Gaudreault Antiques Brush-On Remover is a non-flammable paint and varnish remover that needs no neutralizing. Recommended for furniture and flat surfaces. Fast-acting with minimal odor. Effective on epoxy, urethane, and new and old finishes.",
+    "company_name": "Swing Paints",
+    "company_slug": "swing-paints",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1673943820/production/Company/50864/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608939/production/CategoryImage/585/category_image/AdhesivesSealants_02.jpg",
+    "properties": {
+        "Applications": [
+            "Institutional & Industrial Care",
+            "Industrial Cleaning"
+        ],
+        "Product Families": [
+            "Industrial Cleaners",
+            "Cleaners"
+        ],
+        "End Uses": [
+            "Varnish Cleaner",
+            "Brush"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Paint Remover"
+        ],
+        "Application Areas": [
+            "Brush",
+            "Varnish Cleaner"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Epoxies",
+            "Polyurethane",
+            "Wood"
+        ],
+        "Features": [
+            "Fast Acting",
+            "Needs no Neutralization"
+        ]
+    }
+}

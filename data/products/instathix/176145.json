@@ -1,0 +1,71 @@
+{
+    "id": 176145,
+    "brand": "instathix",
+    "name": "Sucragel® XL",
+    "slug": "sucragel-xl",
+    "description": "Sucragel® XL is a liquid which acts as natural oil thickening agent and cold process emulsifier. The product is manufactured from raw materials of strictly vegetable origin.",
+    "company_name": "Alchemy Ingredients",
+    "company_slug": "alchemy-ingredients",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708692064/production/Product/176145/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708692064/production/Product/176145/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Hair Care",
+            "Skin Care",
+            "Baby Care",
+            "Sun Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Rheology Modifiers",
+            "Emulsifiers, Solubilizers & Dispersants",
+            "Functionals"
+        ],
+        "Chemical Family": [
+            "Glycerides"
+        ],
+        "INCI Name": [
+            "Caprylic/Capric Triglyceride",
+            "Sucrose Laurate",
+            "Sucrose Stearate"
+        ],
+        "End Uses": [
+            "Facial Mask",
+            "Body Lotion",
+            "Body Cream",
+            "Spa Treatments",
+            "Make Up Remover",
+            "Hair Masks",
+            "Skin Cleanser"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Caprylic/Capric Triglyceride",
+            "Sucrose Stearate",
+            "Sucrose Laurate"
+        ],
+        "Ingredient Origin": [
+            "Vegetable Origin"
+        ],
+        "Functions": [
+            "Thickener",
+            "Emulsifier (O/W)",
+            "Viscosity Modifier",
+            "Emulsifier"
+        ],
+        "Labeling Claims": [
+            "Credo Clean Standard",
+            "COSMOS Approved",
+            "Clean at Sephora",
+            "Biodegradable",
+            "Natural",
+            "Preservative-free",
+            "Ulta Beauty's Conscious Beauty"
+        ],
+        "Certifications & Compliance": [
+            "RSPO MassBalance Certified",
+            "ECOCERT"
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "id": 510466,
+    "brand": "glycomega",
+    "name": "Pharm-Rx Marshmallow Extract",
+    "slug": "pharm-rx-chemical-corp-marshmallow-extract",
+    "description": null,
+    "company_name": "Pharm-Rx Chemical Corp.",
+    "company_slug": "pharm-rx",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto/v1724133327/production/Company/102900/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1724133327/production/Company/102900/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Phytochemicals & Plant Extracts",
+            "Nutraceuticals & Supplements"
+        ],
+        "Ingredient Name": [
+            "Marshmallow Extract"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Marshmallow Extract"
+        ]
+    }
+}

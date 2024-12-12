@@ -1,0 +1,50 @@
+{
+    "id": 408005,
+    "brand": "accu-gel",
+    "name": "Uptake 80™ Pea Cell Wall Fiber",
+    "slug": "nutripea-uptake-80-pea-cell-wall-fiber",
+    "description": "Uptake 80™ Pea Cell Wall Fiber is derived from the inner cell walls of yellow peas grown in Canada, Uptake 80™ is a high-quality source of fiber and can be used in a variety of food applications.",
+    "company_name": "NutriPea",
+    "company_slug": "nutripea",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708691671/production/Brand/31558/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606984/production/CategoryImage/507/category_image/FoodNutrition_08.jpg",
+    "properties": {
+        "Applications": [
+            "Bakery",
+            "Meat, Poultry & Seafood",
+            "Sports Nutrition",
+            "Food",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Dietary Fiber",
+            "Nutrition & Fortification"
+        ],
+        "End Uses": [
+            "Bread",
+            "Processed Meat Products",
+            "Sports Nutrition"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Pea Fiber"
+        ],
+        "Functions": [
+            "Fiber Source"
+        ],
+        "Labeling Claims": [
+            "Plant-Based",
+            "Naturally Derived"
+        ],
+        "Features": [
+            "Improved Texture",
+            "High Quality",
+            "Improved Water Holding Capacity",
+            "Easy To Use",
+            "Improved Mouthfeel",
+            "Fiber Enrichment",
+            "Improved Freeze/Thaw Stability"
+        ]
+    }
+}

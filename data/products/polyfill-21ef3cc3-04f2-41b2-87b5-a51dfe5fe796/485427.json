@@ -1,0 +1,58 @@
+{
+    "id": 485427,
+    "brand": "polyfill-21ef3cc3-04f2-41b2-87b5-a51dfe5fe796",
+    "name": "PhosGard® MPP-Poly",
+    "slug": "phosgard-mpp-poly",
+    "description": "PhosGard® MPP-Poly takes the form of a high-purity melamine polyphosphate with excellent thermal stability, showcased by its fine white powder appearance. This product proves to be an effective non-halogenated flame retardant, finding utility in water-based coatings, polyurethanes, thermosets, and polyolefins.",
+    "company_name": "St. Louis Group",
+    "company_slug": "st-louis-group",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708699866/production/Brand/31881/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708699866/production/Brand/31881/card_banner/image",
+    "properties": {
+        "Product Families": [
+            "Functional Additives",
+            "Flame Retardants",
+            "Additives",
+            "Polymer Additives"
+        ],
+        "Chemical Family": [
+            "Melamines",
+            "Polyphosphates",
+            "Phosphorous-based Compounds"
+        ],
+        "End Uses": [
+            "Waterborne Coating",
+            "Intumescent Coating"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "1,3,5-Triazine-2,4,6-Triamine Monophosphate"
+        ],
+        "Chemical Family": [
+            "Melamines",
+            "Polyphosphates",
+            "Phosphorous-based Compounds"
+        ],
+        "Functions": [
+            "Flame Retardant"
+        ],
+        "Labeling Claims": [
+            "Halogen-free",
+            "High Purity"
+        ],
+        "Compatible Polymers & Resins": [
+            "Polybutylene Terephthalate (PBT)",
+            "Polyolefins",
+            "Polyethylenes (PE)",
+            "Polyamides",
+            "Polypropylenes (PP)",
+            "Polyurethanes (PU)"
+        ],
+        "Features": [
+            "Good Thermal Stability",
+            "High Purity",
+            "Flame Retardant"
+        ]
+    }
+}

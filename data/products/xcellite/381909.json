@@ -1,0 +1,54 @@
+{
+    "id": 381909,
+    "brand": "xcellite",
+    "name": "Xcellite™ XCR3",
+    "slug": "xcellite-xcr3",
+    "description": "Xcellite™ XCR3 is a Medium cellular rubber, belonging to CR/PVC/NBR (Chloroprene/Polyvinyl Chloride/Acrylonitrile Butadiene) Polymer Category.",
+    "company_name": "Fostek Corporation",
+    "company_slug": "fostek-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1702444501/production/Brand/28648/logo/image",
+    "banner_url": "https://static.knowde.com/card-banners/knowde-card-for-raw-materials-8.jpg",
+    "properties": {
+        "Applications": [
+            "Other Industrial Applications",
+            "Other Automotive & Transportation Applications"
+        ],
+        "Product Families": [
+            "Foams"
+        ],
+        "Chemical Family": [
+            "Polyvinyl Chloride/Acrylonitrile Butadiene/Chloroprene",
+            "Blends & Combinations"
+        ],
+        "End Uses": [
+            "Athletic Padding",
+            "Weatherstripping",
+            "Noise Barriers",
+            "Floor Coverings",
+            "Seals",
+            "Gaskets",
+            "Electrical Components"
+        ]
+    },
+    "summary": {
+        "Density": [
+            "191.778816 - 287.668224 kg/m³"
+        ],
+        "Chemical Family": [
+            "Blends & Combinations",
+            "Polyvinyl Chloride/Acrylonitrile Butadiene/Chloroprene"
+        ],
+        "End Uses": [
+            "Seals",
+            "Floor Coverings",
+            "Weatherstripping",
+            "Athletic Padding",
+            "Gaskets",
+            "Electrical Components",
+            "Noise Barriers"
+        ],
+        "Physical Form": [
+            "Foam"
+        ]
+    }
+}

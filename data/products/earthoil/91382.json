@@ -1,0 +1,56 @@
+{
+    "id": 91382,
+    "brand": "earthoil",
+    "name": "Earthoil Plantations Organic Macadamia Oil",
+    "slug": "earthoil-plantations-organic-macadamia-oil",
+    "description": "Earthoil Plantations Organic Macadamia Oil is comprised of Macadamia Integrifolia Seed Oil. It is commonly used It is a Organic and Natural Origin Key benefits in use include: Emolliency, Moisturizing, Non-greasy feel, Penetrating, Rapid absorption and Soft feel. Earthoil Plantations Organic Macadamia Oil is certified as USDA BioPreferred and USDA NOP Certified.",
+    "company_name": "Earthoil Plantations",
+    "company_slug": "earthoil-plantations",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708686279/production/Company/1205/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708686279/production/Company/1205/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Skin Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Conditioners & Emollients",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Macadamia Integrifolia Seed Oil"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Macadamia Integrifolia Seed Oil"
+        ],
+        "Functions": [
+            "Emollient"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin"
+        ],
+        "Labeling Claims": [
+            "Credo Clean Standard",
+            "Clean at Sephora",
+            "Naturally Derived",
+            "Natural",
+            "Organic",
+            "Ulta Beauty's Conscious Beauty"
+        ],
+        "Certifications & Compliance": [
+            "Organic Certified",
+            "USDA NOP Certified",
+            "USDA BioPreferred"
+        ],
+        "Benefit Claims": [
+            "Moisturizing",
+            "Rapid Absorption",
+            "Non-Greasy Feel",
+            "Penetrating",
+            "Emolliency",
+            "Soft Feel"
+        ]
+    }
+}

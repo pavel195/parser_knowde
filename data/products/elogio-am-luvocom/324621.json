@@ -1,0 +1,54 @@
+{
+    "id": 324621,
+    "brand": "elogio-am-luvocom",
+    "name": "Elogio AM PETG Filament",
+    "slug": "elogio-am-petg-filament",
+    "description": "PETG Filament (Polyethylene Terepthalate Glycol-modified) is the common thermoplastics of the polyester family and is used in fibers for clothing, bottles for liquids and foods. PETG is a modified PET, PETG is a clear amorphous thermoplastics with a lower melting point than PET.",
+    "company_name": "Elogio AM",
+    "company_slug": "elogio-am",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686113045/production/Company/31252/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608779/production/CategoryImage/578/category_image/AutomotiveTransportation_06.jpg",
+    "properties": {
+        "Applications": [
+            "Packaging",
+            "Food & Beverage Packaging",
+            "Non-Food Consumer Packaging"
+        ],
+        "Product Families": [
+            "3D Printing Polymers",
+            "Thermoplastic Filament"
+        ],
+        "Chemical Family": [
+            "Glycols"
+        ],
+        "Polymer Name": [
+            "Polyethylene Terephthalate Glycol (PETG)"
+        ],
+        "End Uses": [
+            "Fruit Juice Bottles",
+            "Wine Bottles",
+            "Cosmetic Packaging",
+            "Bottles"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyethylene Terephthalate Glycol (PETG)"
+        ],
+        "Processing Methods": [
+            "Fused Filament Fabrication"
+        ],
+        "End Uses": [
+            "Cosmetic Packaging",
+            "Wine Bottles",
+            "Fruit Juice Bottles",
+            "Bottles"
+        ],
+        "Density": [
+            "1290.0 - 1290.0 kg/m³"
+        ],
+        "Flexural Modulus": [
+            "2040.0 - 2040.0 MPa"
+        ]
+    }
+}

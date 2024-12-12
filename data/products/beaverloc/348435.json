@@ -1,0 +1,33 @@
+{
+    "id": 348435,
+    "brand": "beaverloc",
+    "name": "Beaverloc® 140",
+    "slug": "beaverloc-140",
+    "description": "Beaverloc® 140 is a treated fibers for adhesion to various rubber types, e.g. NBR, CR, ACM/AEM.",
+    "company_name": "Beaver Manufacturing Company",
+    "company_slug": "beaver-manufacturing-company",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697223261/production/Brand/26013/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608730/production/CategoryImage/574/category_image/AutomotiveTransportation_02.jpg",
+    "properties": {
+        "Applications": [
+            "Textile Manufacturing",
+            "Other Oil, Gas & Mining Applications",
+            "Aerospace & Aviation",
+            "Marine",
+            "Other Textile Applications",
+            "Transportation",
+            "Oil, Gas & Mining",
+            "Textiles & Nonwovens",
+            "Leather & Textiles"
+        ],
+        "Product Families": [
+            "Fillers & Extenders",
+            "Elastomer Additives"
+        ],
+        "End Uses": [
+            "Marine Applications",
+            "Aerospace Applications"
+        ]
+    },
+    "summary": {}
+}

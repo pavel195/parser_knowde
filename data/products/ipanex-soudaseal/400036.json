@@ -1,0 +1,34 @@
+{
+    "id": 400036,
+    "brand": "ipanex-soudaseal",
+    "name": "SoudaSeal AP",
+    "slug": "soudaseal-ap",
+    "description": "Soudaseal AP (All Purpose) is a one part, high quality, gun grade, moisture curing, elastomeric waterproofing and sealing SMX® sealant designed for general construction. It has excellent bond strength to nearly all porous and non-porous substrates without the use of a primer.",
+    "company_name": "Ipanex",
+    "company_slug": "ipanex",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1670414873/production/Company/51023/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608502/production/CategoryImage/564/category_image/BuildingConstruction_08.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Flooring & Surfaces",
+            "Fillers, Levellers & Joints",
+            "Building Envelope & Roofing",
+            "Waterproofing & Weatherproofing",
+            "Sealants & Caulks",
+            "Glazing & Window Elements"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Caulks & Sealants"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "1K (1 component) Sealant"
+        ],
+        "Cure Method": [
+            "Moisture Cure"
+        ]
+    }
+}

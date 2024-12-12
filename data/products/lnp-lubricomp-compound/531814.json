@@ -1,0 +1,52 @@
+{
+    "id": 531814,
+    "brand": "lnp-lubricomp-compound",
+    "name": "LNP™ VERTON™ Compound MV00ASXP",
+    "slug": "lnp-verton-compound-mv00asxp",
+    "description": "LNP™ VERTON™ Compound MV00ASXP utilizes polypropylene (PP) resin reinforced with 50% long glass fibers, ensuring exceptional structural integrity and stiffness. This compound is chemically coupled to enhance performance, heat stabilized for reliable operation in varying temperatures, and designed with a focus on structural applications. Ideal for automotive exteriors, water management systems, sport and leisure equipment, home appliances, and commercial appliances, LNP™ VERTON™ Compound MV00ASXP offers high stiffness and strength without the use of intentionally added PFAS. It excels in injection molding processes, providing robust solutions for industrial applications requiring durability and dimensional stability.",
+    "company_name": "SABIC's Specialties Business",
+    "company_slug": "sabic-specialties",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1718784214/production/Company/44208/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1626797855/production/CategoryImage/997/category_image/PigmentsColorants_04.jpg",
+    "properties": {
+        "Applications": [
+            "Equipment & Parts",
+            "Consumer Electronics",
+            "Sports & Recreation",
+            "Appliances & Electronics",
+            "Exterior & Body",
+            "Automotive",
+            "Devices & Assemblies",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Polyolefins",
+            "Basic Thermoplastics"
+        ],
+        "Chemical Family": [
+            "Polyolefins",
+            "Polypropylenes (PP)"
+        ],
+        "Polymer Name": [
+            "Polypropylene (unspecified)"
+        ],
+        "End Uses": [
+            "Water Management",
+            "Home Appliances",
+            "Construction Applications",
+            "Commercial Appliance",
+            "Automotive Applications"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polypropylene (unspecified)"
+        ],
+        "Processing Methods": [
+            "Injection Molding"
+        ],
+        "Fillers Included": [
+            "Glass Fiber"
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": 416514,
+    "brand": "iso-flex",
+    "name": "Iso-Flex® 200 Overlay System",
+    "slug": "iso-flex-200-overlay-system",
+    "description": "Iso-Flex® 200 Overlay System is a flexible two-component epoxy resin system developed for use on concrete surfaces requiring a traffic bearing surface that is a slip-resistant overlay.",
+    "company_name": "Lymtal",
+    "company_slug": "lymtal",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1694073662/production/Brand/32531/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608477/production/CategoryImage/562/category_image/BuildingConstruction_06.jpg",
+    "properties": {
+        "Applications": [
+            "Pavement, Highways, Roads & Bridges",
+            "Fence, Decks & Rails",
+            "Building Materials",
+            "Infrastructure, Roads & Paving"
+        ],
+        "Product Families": [
+            "Mortar & Grouts",
+            "Construction Materials"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    },
+    "summary": {}
+}

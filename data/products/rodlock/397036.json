@@ -1,0 +1,43 @@
+{
+    "id": 397036,
+    "brand": "rodlock",
+    "name": "Big Dog Adhesives BD320FX Structural Methacrylate Adhesive",
+    "slug": "big-dog-adhesives-bd320fx-structural-methacrylate-adhesive",
+    "description": "BD320FX is a two-part methacrylate, flexibilized, structural bonding adhesive designed for the structural bonding of various substrates, including fiberglass, steel, aluminum, and various plastics (not low energy surfaces). Combined at a ratio of 10:1, BD320FX has a working time of 8 to 12 minutes and achieves nearly 90 percent of its ultimate strength in 18 to 25 minutes at room temperature curing. BD320FX provides high strength and very flexible bonds to the above reference surfaces with generally no preparation effort. BD320FX bonds very strongly to steel, stainless steel, and aluminum metals and will allow a great deal of movement of the substrates due to coefficient of thermal expansion differences. BD320FX adhesives are not UV stable, and will yellow over time and must not be used to create imperceptible seams in countertops or for seaming countertops. This yellowing will not affect bond performance, but will affect bond appearance.",
+    "company_name": "Big Dog Adhesives",
+    "company_slug": "big-dog-adhesives",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292006/production/Company/45973/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608953/production/CategoryImage/586/category_image/AdhesivesSealants_03.jpg",
+    "properties": {
+        "Applications": [
+            "Structural Components",
+            "Building Materials"
+        ],
+        "Product Families": [
+            "Structural Adhesives",
+            "Adhesives & Sealants"
+        ],
+        "Chemical Family": [
+            "Methacrylates"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "2K (2 component) Adhesive"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Aluminum",
+            "Metal",
+            "Steel",
+            "Fiberglass",
+            "Stainless Steel",
+            "Plastics"
+        ],
+        "Cure Method": [
+            "Air Dry"
+        ],
+        "Chemical Family": [
+            "Methacrylates"
+        ]
+    }
+}

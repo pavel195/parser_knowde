@@ -1,0 +1,32 @@
+{
+    "id": 297632,
+    "brand": "pensel",
+    "name": "Tamanol E-102A",
+    "slug": "tamanol-e-102a",
+    "description": "TAMANOL E-102A is a terpene phenolic resin emulsion consisting of microscopic particles, especially prepared for use in water based adhesives, such as acrylic emulsions, natural rubber and synthetic rubber latex based adhesives.",
+    "company_name": "Arakawa Chemical",
+    "company_slug": "arakawa-chemical",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1694095679/production/Company/20955/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609057/production/CategoryImage/591/category_image/PrintingPackaging_02.jpg",
+    "properties": {
+        "Applications": [
+            "Bookbinding",
+            "Tape & Label Adhesives",
+            "Bookbinding Adhesives",
+            "Tapes & Labels",
+            "Packaging & Paper",
+            "Tapes, Labels & Adhesives"
+        ],
+        "Product Families": [
+            "Surface Modifiers",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Rosins"
+        ],
+        "End Uses": [
+            "Waterborne Adhesive"
+        ]
+    },
+    "summary": {}
+}

@@ -1,0 +1,44 @@
+{
+    "id": 503388,
+    "brand": "affroneye",
+    "name": "Pharmactive Biotech Guarana P.E - 20% Caffeine",
+    "slug": "pharmactive-biotech-guarana-p-e-20-caffeine",
+    "description": "Pharmactive Biotech Guarana P.E - 20% Caffeine is a powdered supplement known for its energy-boosting and weight-management properties. Its ingredients include dextrin. Pharmactive Biotech Guarana P.E.'s 20% caffeine is aligned with labeling claims of being non-GMO, BSE-free, TSE-free, and irradiation-free.",
+    "company_name": "Pharmactive Biotech Products",
+    "company_slug": "pharmactive-biotech-products",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1710156384/production/Company/38223/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1710156384/production/Product/503388/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Functional Ingredients",
+            "Supplements & Functional Ingredients",
+            "Phytochemicals & Plant Extracts",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "Ingredient Name": [
+            "Guarana Seed Extract"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Guarana Seed Extract"
+        ],
+        "Active Component": [
+            "Caffeine"
+        ],
+        "Labeling Claims": [
+            "Non-GMO",
+            "Irradiation-free",
+            "TSE-free",
+            "BSE-free"
+        ],
+        "Certifications & Compliance": [
+            "Regulation (EU) No. 1272/2008"
+        ]
+    }
+}

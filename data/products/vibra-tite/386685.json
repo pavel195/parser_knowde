@@ -1,0 +1,44 @@
+{
+    "id": 386685,
+    "brand": "vibra-tite",
+    "name": "Vibra-Tite® PB320 Structural Adhesive",
+    "slug": "vibra-tite-pb320-structural-adhesive",
+    "description": "Vibra-Tite® PB320 Structural Adhesive is a high performance two part methacrylate adhesive engineered to bond a wide range of plastics, metals, and composite assemblies. It offers outstanding bond strength, is extremely durable, with excellent impact and weathering properties. Vibra-Tite® PB320 greatly increases the reliability of finished assemblies with exceptional flexibility, its ability to with stand extreme temperature fluctuation and thermal cycling, and resistance to a wide range of chemicals and environmental conditions.",
+    "company_name": "Vibra-Tite",
+    "company_slug": "vibra-tite",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664291601/production/Brand/29009/logo/image.png",
+    "banner_url": "https://static.knowde.com/card-banners/knowde-card-for-raw-materials-8.jpg",
+    "properties": {
+        "Applications": [
+            "Other Adhesives & Sealants Applications"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Structural Adhesives"
+        ],
+        "Chemical Family": [
+            "Methacrylates"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Structural Adhesive",
+            "2K (2 component) Adhesive"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Aluminum",
+            "Metal",
+            "Coated Surfaces",
+            "Steel",
+            "Stainless Steel",
+            "Plastics",
+            "Composites"
+        ],
+        "Cure Method": [
+            "Air Dry"
+        ],
+        "Chemical Family": [
+            "Methacrylates"
+        ]
+    }
+}

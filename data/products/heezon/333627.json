@@ -1,0 +1,52 @@
+{
+    "id": 333627,
+    "brand": "heezon",
+    "name": "Oxyjun®",
+    "slug": "oxyjun",
+    "description": "Oxyjun® is the only arjunolic acid-free and DNA-authenticated extract of Arjuna clinically proven to improve heart health and cardio endurance for active adults.",
+    "company_name": "ENovate Biolife",
+    "company_slug": "enovate-biolife",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708518727/production/Brand/24572/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607026/production/CategoryImage/510/category_image/FoodNutrition_11.jpg",
+    "properties": {
+        "Applications": [
+            "Powdered Beverages",
+            "Nutraceuticals & Supplements",
+            "Functional Foods",
+            "Beverage",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "Chemical Family": [
+            "Botanical Extracts"
+        ],
+        "End Uses": [
+            "Energy Bars",
+            "Tablets",
+            "Powdered Beverages"
+        ]
+    },
+    "summary": {
+        "Labeling Claims": [
+            "Solvent-free",
+            "Non-GMO",
+            "Pesticide-free"
+        ],
+        "Certifications & Compliance": [
+            "Prop 65 Compliant"
+        ],
+        "Benefit Claims (Health)": [
+            "Cardioprotective"
+        ],
+        "Features": [
+            "Anti-Fatigue",
+            "Superior Performance",
+            "Improved Blood Circulation"
+        ]
+    }
+}

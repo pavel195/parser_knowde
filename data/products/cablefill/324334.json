@@ -1,0 +1,57 @@
+{
+    "id": 324334,
+    "brand": "cablefill",
+    "name": "AquaGraft® 7020",
+    "slug": "aquagraft-7020",
+    "description": "AquaGraft® 7020 is Polyethylene moisture curable system that allows customers to crosslink polymer systems without investing in expensive curing processes.The EPR based systems provide improved flexibility while maintaining high performance properties",
+    "company_name": "Electric Cable Compounds",
+    "company_slug": "electric-cable-compounds",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686113022/production/Brand/23148/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1686113022/production/Product/324334/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Wire & Cable",
+            "Jacketing & Insulation",
+            "Building Wires & Power Cables",
+            "Data Communication Cables",
+            "Optical Fiber & Telecom",
+            "Power Transmission & Distribution"
+        ],
+        "Product Families": [
+            "Thermoset Elastomers",
+            "EP Rubbers (EPDM)"
+        ],
+        "Chemical Family": [
+            "Ethylene-Propylene Copolymers (EPR)"
+        ],
+        "Polymer Name": [
+            "Ethylene Propylene Copolymer"
+        ],
+        "End Uses": [
+            "Building Wire Insulation",
+            "Cables",
+            "Communication Cable Jacketing",
+            "Low Voltage Insulation",
+            "Wires",
+            "Building Wire Jacketing",
+            "Automotive Components",
+            "Shipboard Cable Jacketing",
+            "Communication Wire Insulation",
+            "Power Cable Jacketing"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Ethylene Propylene Copolymer"
+        ],
+        "Processing Methods": [
+            "Extrusion"
+        ],
+        "Additives Included": [
+            "Flame Retardant"
+        ],
+        "Density": [
+            "1450.0 - 1450.0 kg/m³"
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "id": 451968,
+    "brand": "baker-s-patent",
+    "name": "Genuine Stone Ground Rye Flour",
+    "slug": "genuine-stone-ground-rye-flour",
+    "description": "Genuine Stone Ground Rye Flour is 100% whole grain and stone-ground rye flour adding a rich, deep flavor to your favorite baked goods.",
+    "company_name": "Farmer Direct Foods",
+    "company_slug": "farmer-direct-foods",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1693581090/production/Brand/34157/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606996/production/CategoryImage/508/category_image/FoodNutrition_09.jpg",
+    "properties": {
+        "Applications": [
+            "Bakery",
+            "Food"
+        ],
+        "Product Families": [
+            "Flours & Grains Products",
+            "Whole Foods, Extracts & Premixes"
+        ],
+        "End Uses": [
+            "Ginger Bread",
+            "Sourdough",
+            "Crackers",
+            "Cookies",
+            "Bread Products",
+            "Bread"
+        ]
+    },
+    "summary": {}
+}

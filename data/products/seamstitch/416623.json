@@ -1,0 +1,49 @@
+{
+    "id": 416623,
+    "brand": "seamstitch",
+    "name": "EnergyGuard Butyl Roof Coating",
+    "slug": "energyguard-butyl-roof-coating",
+    "description": "EnergyGuard Butyl Roof Coating is a solvent-based, vapor barrier roof coating. Useful for coating spray foam roofs on cold storage applications.",
+    "company_name": "Lexis Coatings",
+    "company_slug": "lexis-coatings",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520351/production/Brand/32539/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608490/production/CategoryImage/563/category_image/BuildingConstruction_07.jpg",
+    "properties": {
+        "Applications": [
+            "Roofing",
+            "Roof Coatings"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Top Coats"
+        ],
+        "Chemical Family": [
+            "Butyl Rubber"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "1K (1 component) Coating",
+            "Coating",
+            "Solventborne Coating"
+        ],
+        "Features": [
+            "Cost Effective",
+            "Reflective",
+            "Mildew Resistant",
+            "UV Resistant",
+            "High Elasticity",
+            "Excellent Substrate Adhesion",
+            "Fungus Resistant",
+            "Durable"
+        ],
+        "Application Method": [
+            "Spray",
+            "Roller",
+            "Brush"
+        ],
+        "Chemical Family": [
+            "Butyl Rubber"
+        ]
+    }
+}

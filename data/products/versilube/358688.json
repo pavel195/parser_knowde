@@ -1,0 +1,46 @@
+{
+    "id": 358688,
+    "brand": "versilube",
+    "name": "Versilube® G351",
+    "slug": "versilube-g351",
+    "description": "Versilube® G351 is a soap-thickened, dimethyl-diphenyl polysiloxane based grease. Versilube® G351 resists oxidation and degradation even under extreme conditions.",
+    "company_name": "Novagard",
+    "company_slug": "novagard",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680109064/production/Brand/26762/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Power, Water & Utilities",
+            "Other Power, Water & Utilities Applications",
+            "Other Electrical & Electronics Applications",
+            "Chemical & Industrial Manufacturing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Greases",
+            "Fluids & Lubricants"
+        ],
+        "Chemical Family": [
+            "Silicones"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Grease"
+        ],
+        "Application Area": [
+            "Electrical Components"
+        ],
+        "Features": [
+            "Radiation (Gamma) Resistant",
+            "Oxidation Resistant",
+            "Good Aging Behavior"
+        ],
+        "Chemical Family": [
+            "Silicones"
+        ],
+        "Thickener Type": [
+            "Lithium Complex"
+        ]
+    }
+}

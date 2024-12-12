@@ -1,0 +1,44 @@
+{
+    "id": 85077,
+    "brand": "evacote",
+    "name": "Acculin® 400",
+    "slug": "the-international-group-inc-acculin-400",
+    "description": "ACCULIN® 400 is a low melting point polyethylene.\r\n",
+    "company_name": "The International Group Inc",
+    "company_slug": "the-international-group-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708687890/production/Product/85077/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708687890/production/Product/85077/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Other Beauty & Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Fats, Butters & Waxes",
+            "Texturizers & Fillers",
+            "Functionals"
+        ],
+        "Chemical Family": [
+            "Waxes",
+            "Polyolefins",
+            "Polyethylenes",
+            "Polyethylene Waxes"
+        ],
+        "INCI Name": [
+            "Polyethylene"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Polyethylene"
+        ],
+        "Functions": [
+            "Texturizing Agent"
+        ],
+        "Labeling Claims": [
+            "Credo Clean Standard",
+            "Clean at Sephora",
+            "Ulta Beauty's Conscious Beauty"
+        ]
+    }
+}

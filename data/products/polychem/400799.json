@@ -1,0 +1,53 @@
+{
+    "id": 400799,
+    "brand": "polychem",
+    "name": "POLYCHEM® 7774-EB-85",
+    "slug": "polychem-7774-eb-85",
+    "description": "Polychem 7774-EB-85 is a HAP’s free high solid, chain-stopped water reducible alkyd. It has excellent flow and leveling properties and has designed for low VOC baking enamels (below 150 g/l). It can provide excellent hardness, adhesion and gloss along with good corrosion protection.",
+    "company_name": "OPC Polymers",
+    "company_slug": "opc-polymers",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1715253318/production/Brand/14039/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608238/production/CategoryImage/552/category_image/AgricultureFeed_08.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial Coatings",
+            "Coil Coatings"
+        ],
+        "Product Families": [
+            "Alkyds",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Alkyds"
+        ],
+        "End Uses": [
+            "Top Coat",
+            "Primer",
+            "Solventless & High Solids Coating",
+            "Enamel",
+            "Coil Coating"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Alkyds"
+        ],
+        "End Uses": [
+            "Solventless & High Solids Coating",
+            "Coil Coating",
+            "Enamel",
+            "Primer",
+            "Top Coat"
+        ],
+        "Features": [
+            "Chain Stopped Resin",
+            "Excellent Flow",
+            "Corrosion Resistance",
+            "Excellent Adhesion",
+            "Improved Hardness",
+            "Low VOC",
+            "Good Leveling",
+            "High Gloss"
+        ]
+    }
+}

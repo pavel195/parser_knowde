@@ -1,0 +1,38 @@
+{
+    "id": 297854,
+    "brand": "hepacret-olv",
+    "name": "EPABIND 01/4",
+    "slug": "epabind-01-4",
+    "description": "Epabind 01/4 is a two-component, solvent-free polyurethane system, particularly suitable for consolidating ballast.",
+    "company_name": "Epaflex",
+    "company_slug": "epaflex",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112188/production/Company/23690/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608490/production/CategoryImage/563/category_image/BuildingConstruction_07.jpg",
+    "properties": {
+        "Applications": [
+            "Other Adhesives & Sealants Applications",
+            "Other Building & Construction Applications"
+        ],
+        "Product Families": [
+            "Resins & Binders",
+            "Polyurethanes (PU)"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ],
+        "End Uses": [
+            "2K (2 Component) Adhesive"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ],
+        "End Uses": [
+            "2K (2 Component) Adhesive"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Elastomers & Rubbers"
+        ]
+    }
+}

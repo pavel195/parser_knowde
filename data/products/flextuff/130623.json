@@ -1,0 +1,61 @@
+{
+    "id": 130623,
+    "brand": "flextuff",
+    "name": "Flextuff® S2300-00-E",
+    "slug": "flextuff-s2300-00-e",
+    "description": "30 Shore A TPENoble Polymers Flextuff series of Thermoplastic Elastomer Compounds (TPE) offer rubber-like feel with the ease of processing and recyclability of a thermoplastic. This unique family of products are developed using the highest quality raw materials and additives to create soft feel materials in a wide range of hardness levels for both injection molding as well as extrusion processing methods.Flextuff TPE compounds are used in applications such as grips, seals, over-molded handles and many other applications in the commercial, automotive, sports and leisure and building and construction industries.Features Include:Durometer (hardness) range from 25 - 90 Shore AAvailable in natural, black or custom colorsAdditive packages include: UV stabilization, scratch and mar resistanceFormulations for injection molding as well as profile extrusionCustomized formulations available to meet your specific needAll Flextuff products are 100% recyclable",
+    "company_name": "Noble Polymers",
+    "company_slug": "noble-polymers",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1703115547/production/Company/2818/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1703115547/production/Company/2818/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Appliances & Electronics",
+            "Medical Devices & Assemblies",
+            "Consumer Electronics",
+            "Other Devices & Assemblies",
+            "Sports & Recreation",
+            "Exterior & Body",
+            "Interior",
+            "Other Building Materials",
+            "Other Automotive Applications",
+            "Automotive",
+            "Building Materials",
+            "Devices & Assemblies",
+            "Medical"
+        ],
+        "Product Families": [
+            "Other Thermoplastic Elastomers",
+            "Thermoplastic Elastomers"
+        ],
+        "Polymer Name": [
+            "Thermoplastic Elastomer (unspecified)"
+        ],
+        "End Uses": [
+            "Automotive Interior Parts",
+            "Automotive Exterior Parts",
+            "Sporting Goods",
+            "Handles",
+            "Flexible Grips",
+            "Construction Applications",
+            "Automotive Applications"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Thermoplastic Elastomer (unspecified)"
+        ],
+        "Processing Methods": [
+            "Profile Extrusion"
+        ],
+        "End Uses": [
+            "Automotive Exterior Parts",
+            "Handles",
+            "Flexible Grips",
+            "Construction Applications",
+            "Sporting Goods",
+            "Automotive Interior Parts",
+            "Automotive Applications"
+        ]
+    }
+}

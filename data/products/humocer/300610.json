@@ -1,0 +1,26 @@
+{
+    "id": 300610,
+    "brand": "humocer",
+    "name": "Isogama Industria Quimica ISOSEAL",
+    "slug": "isogama-industria-quimica-isoseal",
+    "description": "Isogama Industria Quimica ISOSEAL is used as a water repellent, forming a sealing layer in the final product.",
+    "company_name": "Isogama Industria Quimica",
+    "company_slug": "isogama-industria-quimica",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1669788786/production/Company/24227/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608585/production/CategoryImage/567/category_image/PaintingsCoatings_03.jpg",
+    "properties": {
+        "Applications": [
+            "Other Adhesives & Sealants Applications",
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Additives",
+            "Surface Modifiers"
+        ]
+    },
+    "summary": {
+        "Features": [
+            "Low Temperature-Drying"
+        ]
+    }
+}

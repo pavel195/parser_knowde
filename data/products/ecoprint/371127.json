@@ -1,0 +1,45 @@
+{
+    "id": 371127,
+    "brand": "ecoprint",
+    "name": "EcoPrint® 5101",
+    "slug": "ecoprint-5101",
+    "description": " EcoPrint® 5101 is a standard grinding/free flow varnish.",
+    "company_name": "PINO PINE",
+    "company_slug": "pino-pine",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520356/production/Brand/27680/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609067/production/CategoryImage/592/category_image/PrintingPackaging_03.jpg",
+    "properties": {
+        "Applications": [
+            "Packaging Coatings",
+            "Printing & Inks",
+            "Overprint Varnishes",
+            "Offset & Lithographic Printing"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Stains & Varnishes"
+        ],
+        "Chemical Family": [
+            "Mineral Oils",
+            "Vegetable Oils",
+            "Alkanes"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Varnishes"
+        ],
+        "Features": [
+            "High Gloss",
+            "Excellent Wetting Behaviour"
+        ],
+        "Application Method": [
+            "Screen Coating"
+        ],
+        "Chemical Family": [
+            "Alkanes",
+            "Vegetable Oils",
+            "Mineral Oils"
+        ]
+    }
+}

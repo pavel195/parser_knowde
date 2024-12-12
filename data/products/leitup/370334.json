@@ -1,0 +1,68 @@
+{
+    "id": 370334,
+    "brand": "leitup",
+    "name": "InLeit® MP85",
+    "slug": "inleit-mp85",
+    "description": "InLeit® MP85 is a spray-dried milk protein isolate powder obtained by membrane filtration of skim milk. It contains a minimum of 85% protein on dry matter.",
+    "company_name": "Inleit Ingredients",
+    "company_slug": "inleit-ingredients",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686109460/production/Brand/27585/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1686109460/production/Product/370334/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Food",
+            "Nutrition & Well Being",
+            "Bakery",
+            "Confectionery",
+            "Dairy",
+            "Desserts & Fruit Preparations",
+            "Infant & Baby Food",
+            "Functional Foods",
+            "Nutraceuticals & Supplements",
+            "Sports Nutrition",
+            "Clinical Nutrition"
+        ],
+        "Product Families": [
+            "Nutrition & Fortification",
+            "Whole Foods, Extracts & Premixes",
+            "Dairy Products",
+            "Nutraceuticals & Supplements",
+            "Proteins & Amino Acids"
+        ],
+        "End Uses": [
+            "Sports Nutrition",
+            "RTD Nutrition Formulas",
+            "Nutritional Bars",
+            "Dairy Products",
+            "Protein Rtd Formulas",
+            "Cheese",
+            "Dessert Bar"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Milk Protein"
+        ],
+        "Ingredient Origin": [
+            "Dairy Origin"
+        ],
+        "Labeling Claims": [
+            "Halal",
+            "Kosher"
+        ],
+        "Protein Content": [
+            "81.2 - 81.2 %"
+        ],
+        "Certifications & Compliance": [
+            "FSSC 22000",
+            "Halal",
+            "Kosher",
+            "ISO 22000",
+            "ISO 9001"
+        ],
+        "Physical Form": [
+            "Powder",
+            "Solid"
+        ]
+    }
+}

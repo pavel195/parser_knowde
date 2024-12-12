@@ -1,0 +1,48 @@
+{
+    "id": 429416,
+    "brand": "zeolyst",
+    "name": "Zeolyst CP814C",
+    "slug": "zeolyst-cp814c",
+    "description": null,
+    "company_name": "Ecovyst",
+    "company_slug": "ecovyst",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708684928/production/Company/36479/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708684928/production/Brand/34146/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Refining & Gas Processing",
+            "Chemical Manufacturing",
+            "Fuel Systems",
+            "Automotive",
+            "Chemical & Industrial Manufacturing",
+            "Oil, Gas & Mining"
+        ],
+        "Product Families": [
+            "RTU Catalysts",
+            "Catalyst Ingredients"
+        ],
+        "Chemical Family": [
+            "Zeolites"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Catalyst"
+        ],
+        "Catalyst Type": [
+            "Heterogeneous Catalyst"
+        ],
+        "Chemical Family": [
+            "Zeolites"
+        ],
+        "Applicable Processes": [
+            "Chemicals Production",
+            "Petroleum Refining",
+            "Petrochemical Intermediates Production",
+            "Environmental Emission Control",
+            "NOx Removal",
+            "Automotive Emission Control",
+            "VOC Removal"
+        ]
+    }
+}

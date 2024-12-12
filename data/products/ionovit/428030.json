@@ -1,0 +1,23 @@
+{
+    "id": 428030,
+    "brand": "ionovit",
+    "name": "IonoFil 100",
+    "slug": "ionofil-100",
+    "description": "IonoFil 100 is used to overcome wire eroding issues in  dielectrics. Cobalt leaching is a problem that is difficult to get under control, especially when machining carbide. This iswhy oelheld, together with leading companies in the erosion industry and the University of Leuven (Belgium), has decided on a research project to develop a hydrocarbon-based dielectric that is directly adapted to wire cutting technology. Particularly the service life of carbide punches can be enormously extended by eliminating cobalt leaching. This development makes costly and time-consuming deionization of the water with resins, corrosion protection (before, during and after processing) as well as frequent changes of the medium a thing of the past. As a dielectric, IonoFil enables smaller spark gaps, which allow for smaller inner radii with the same wire diameter. The quality of the surfaces also increases to the same extent, which can be achieved with a coarseness of up to RA 0,01 much faster and more easily than with water.",
+    "company_name": "Oelheld",
+    "company_slug": "oelheld",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1693579759/production/Brand/33948/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Equipment & Parts",
+            "Metal Manufacturing & Finishing",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Metalworking Fluids",
+            "Fluids & Lubricants"
+        ]
+    },
+    "summary": {}
+}

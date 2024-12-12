@@ -1,0 +1,38 @@
+{
+    "id": 323741,
+    "brand": "foster-proflex",
+    "name": "ProFlex™ SEBS 35A 050-119 (Tear Resistant)",
+    "slug": "proflex-sebs-35a-050-119-tear-resistant",
+    "description": "ProFlex™ SEBS 35A 050-119 (Tear Resistant) is a comprehensive range of medical grade Styrene Ethylene Butylene Styrene (SEBS) Thermoplastic Elastomers (TPEs). These unique polymers offer excellent elastomeric properties, with superior design flexibility and ease of processing via injection molding and extrusion.",
+    "company_name": "Foster",
+    "company_slug": "foster",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686113215/production/Brand/23097/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608831/production/CategoryImage/580/category_image/HealthcarePharma_02.jpg",
+    "properties": {
+        "Applications": [
+            "Medical",
+            "Medical Devices & Assemblies",
+            "Surgical Instruments & Trays",
+            "Other Medical Applications"
+        ],
+        "Product Families": [
+            "Thermoplastic Elastomers",
+            "Styrenic Thermoplastic Elastomers (TPE-S)"
+        ],
+        "Polymer Name": [
+            "Styrene Ethylene Butylene Styrene (SEBS)"
+        ],
+        "End Uses": [
+            "Surgical Instruments"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Styrene Ethylene Butylene Styrene (SEBS)"
+        ],
+        "Processing Methods": [
+            "Injection Molding",
+            "Extrusion"
+        ]
+    }
+}

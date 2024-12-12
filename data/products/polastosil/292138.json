@@ -1,0 +1,68 @@
+{
+    "id": 292138,
+    "brand": "polastosil",
+    "name": "POLSIL® GUM 210/65",
+    "slug": "polsil-gum-210-65",
+    "description": "Polsil® GUM 210/65 is a special grade heat cured elastomer with higher thermal resistance.",
+    "company_name": "Silikony Polskie",
+    "company_slug": "silikony-polskie",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112813/production/Company/21376/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607436/production/CategoryImage/518/category_image/ElectricalElectronics_03.jpg",
+    "properties": {
+        "Applications": [
+            "Agricultural Films",
+            "Building Materials",
+            "Wire & Cable",
+            "Pipes & Hoses",
+            "Jacketing & Insulation",
+            "Building Envelope & Roofing",
+            "Building Wires & Power Cables",
+            "Insulation",
+            "Other Wire & Cable Applications",
+            "Other Building Materials",
+            "EIFS & Insulation",
+            "Building Envelope"
+        ],
+        "Product Families": [
+            "Specialty Elastomers",
+            "Silicone Elastomers"
+        ],
+        "Chemical Family": [
+            "Silicones"
+        ],
+        "Polymer Name": [
+            "Silicone Elastomer"
+        ],
+        "End Uses": [
+            "Gaskets",
+            "Profiles",
+            "Hoses",
+            "Electrical Insulation"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Silicone Elastomer"
+        ],
+        "Processing Methods": [
+            "Compression Molding",
+            "Extrusion"
+        ],
+        "End Uses": [
+            "Profiles",
+            "Gaskets",
+            "Electrical Insulation",
+            "Hoses"
+        ],
+        "Features": [
+            "Flexible",
+            "Thermal Shock Resistant",
+            "High Gas Permeability",
+            "Good UV Resistance",
+            "Ozone Resistant",
+            "Heat Resistance",
+            "Durable",
+            "Chemical Resistant"
+        ]
+    }
+}

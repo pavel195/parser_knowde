@@ -1,0 +1,80 @@
+{
+    "id": 273157,
+    "brand": "tapidex",
+    "name": "TapiDex™ 28",
+    "slug": "tapidex-28",
+    "description": "A nutritive saccharide that is manufactured from the enzymatic conversion of tapioca starch yielding a low DE, moderately sweet, odorless white powder. TapiDex™ 28’s functional properties include good solubility, binding, low hygroscopicity, crystal growth inhibition, low browning tendency, viscosity/bodying agent, freezing point control, bulking agent and improves sheen and appearance. Manufactured in the USA.\r\n",
+    "company_name": "Sweet Additions",
+    "company_slug": "sweet-additions",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708696500/production/Company/21332/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708696500/production/Product/273157/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Oral",
+            "Nutraceuticals & Supplements",
+            "Savory & Culinary",
+            "Meat, Poultry & Seafood",
+            "Infant & Baby Food",
+            "Desserts & Fruit Preparations",
+            "Dairy",
+            "Confectionery",
+            "Bakery",
+            "Food",
+            "Nutrition & Well Being",
+            "Drug Delivery & Care Solutions"
+        ],
+        "Product Families": [
+            "Pharmaceutical Coatings",
+            "Carriers & Bulking Agents",
+            "Sweeteners & Syrups",
+            "Carriers & Bulking Aids",
+            "Taste & Flavor",
+            "Functional Additives",
+            "Excipients"
+        ],
+        "End Uses": [
+            "Yogurt",
+            "Puddings",
+            "Processed Meat Products",
+            "Infant Formula",
+            "Ice Cream",
+            "Food Coatings",
+            "Dietary Supplements",
+            "Confectionery Products",
+            "Tabletop Condiments"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Tapioca Syrup Solids"
+        ],
+        "Functions": [
+            "Carrier",
+            "Bulking Agent",
+            "Nutritive Sweetener",
+            "Humectant",
+            "Coating System"
+        ],
+        "Labeling Claims": [
+            "Hypoallergenic",
+            "Natural",
+            "Naturally Derived",
+            "Plant-Based",
+            "Gluten-free",
+            "Organic",
+            "Non-GMO",
+            "Kosher"
+        ],
+        "Physical Form": [
+            "Powder",
+            "Solid"
+        ],
+        "Packaging Type": [
+            "Bags"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Plant Origin"
+        ]
+    }
+}

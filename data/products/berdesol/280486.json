@@ -1,0 +1,40 @@
+{
+    "id": 280486,
+    "brand": "berdesol",
+    "name": "BerdeSol™",
+    "slug": "berdesol",
+    "description": "BerdeSol™ is a VOC-compliant, safe, low toxicity solvent that is an efficient, cost effective alternative to Heptane for use as a cleaner or co-solvent.",
+    "company_name": "TBF Environmental Technology Inc.",
+    "company_slug": "tbf-environmental-technology-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1693579746/production/Company/20750/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608611/production/CategoryImage/569/category_image/PaintingsCoatings_05.jpg",
+    "properties": {
+        "Applications": [
+            "Waterproofing & Weatherproofing",
+            "Other Paints & Coatings Applications",
+            "Other Adhesives & Sealants Applications",
+            "Automotive OEM Coatings",
+            "Coatings & Finishes",
+            "Automotive & Transportation",
+            "Building Envelope & Roofing"
+        ],
+        "Product Families": [
+            "Other Solvents",
+            "Other Solvents & Specialties",
+            "Solvents & Carriers",
+            "Solvents"
+        ],
+        "End Uses": [
+            "Adhesives",
+            "Coatings",
+            "Paints",
+            "Solventborne Adhesive",
+            "Solventborne Coating"
+        ]
+    },
+    "summary": {
+        "Purity (Assay)": [
+            "99.5 - 99.5 %"
+        ]
+    }
+}

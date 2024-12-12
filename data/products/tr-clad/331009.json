@@ -1,0 +1,58 @@
+{
+    "id": 331009,
+    "brand": "tr-clad",
+    "name": "Conductive Black CP1™ Polyimide",
+    "slug": "conductive-black-cp1-polyimide",
+    "description": "Conductive Black CP1™ Polyimide Lower RF loss than other black and conductive black polyimides \nNeXolve’s Conductive Black CP1™ Polyimide is filled with carbon nanoparticles to produce a conductive black polyimide material with lower RF loss than other black and conductive black polyimides. Conductive Black CP1™ Polyimide exhibits very high optical density (&gt;4) and light blocking. It is useful in applications requiring static dissipation, as it exhibits ESD-level surface resistivity. Conductive Black CP1™ Polyimide also exhibits high emissivity, surpassing 0.80 at 1 mil thickness. This material can be sprayed and cast into a variety of shapes using low-temperature curing (&lt; 100 °C) for solvent removal. Conductive Black CP1™ Polyimide is available as a liquid casting resin or film product.",
+    "company_name": "NeXolve",
+    "company_slug": "nexolve",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686149892/production/Brand/24097/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607422/production/CategoryImage/517/category_image/ElectricalElectronics_02.jpg",
+    "properties": {
+        "Applications": [
+            "Tapes & Labels",
+            "Packaging & Paper",
+            "Tapes, Labels & Adhesives",
+            "Other Devices & Assemblies",
+            "Aerospace & Aviation",
+            "Devices & Assemblies",
+            "Transportation",
+            "Tape & Label Adhesives"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Polyimides (PI)"
+        ],
+        "Polymer Name": [
+            "Polyimide (PI)"
+        ],
+        "End Uses": [
+            "Film",
+            "Aerospace Applications",
+            "Tape"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyimide (PI)"
+        ],
+        "Physical Form": [
+            "Liquid",
+            "Film"
+        ],
+        "Features": [
+            "Conductive",
+            "Heat Stabilized",
+            "Low Moisture Absorption",
+            "Low Temperature Curing"
+        ],
+        "Density": [
+            "1520.0 - 1520.0 kg/m³"
+        ],
+        "Tensile Modulus": [
+            "6300.0 - 6300.0 MPa"
+        ]
+    }
+}

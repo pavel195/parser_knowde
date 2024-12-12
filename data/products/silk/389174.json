@@ -1,0 +1,47 @@
+{
+    "id": 389174,
+    "brand": "silk",
+    "name": "Silk RiO-MTC",
+    "slug": "silk-rio-mtc",
+    "description": "Silk RiO-MTC is a Red powder. Pigment of mineral origin coated with triethoxycaprylylsilane. Provides a red color to products. It incorporates into formulations easily and provides a soft sensory.",
+    "company_name": "Blue Sun International",
+    "company_slug": "blue-sun-international",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704105681/production/Company/1165/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1704105681/production/Company/1165/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Color Cosmetics",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Color Pigments",
+            "Pigments & Colorants"
+        ],
+        "INCI Name": [
+            "Mica",
+            "Triethoxycaprylylsilane",
+            "Iron Oxides",
+            "CI 77491"
+        ],
+        "End Uses": [
+            "Face Powder",
+            "Foundation",
+            "Compact Powder"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "CI 77491",
+            "Mica",
+            "Iron Oxides",
+            "Triethoxycaprylylsilane"
+        ],
+        "Color": [
+            "Red"
+        ],
+        "Labeling Claims": [
+            "Ulta Beauty's Conscious Beauty",
+            "Clean at Sephora"
+        ]
+    }
+}

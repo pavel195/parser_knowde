@@ -1,0 +1,34 @@
+{
+    "id": 406800,
+    "brand": "rugged",
+    "name": "RUGGED™ 400 Engine Oil",
+    "slug": "rugged-400-engine-oil",
+    "description": "RUGGED™ 400 Engine Oil is completely backwards compatible and allows fleets to use one product for newer engines as well as older units. This high-grade oil is designed to meet the needs of engines using Selective Catalyst Reduction (SCR), Exhaust Gas Recirculation (EGR) systems, Diesel Particulate Filters (DPF’s), and Diesel Oxidation Catalyst (DOC’s). Rugged 400 Engine Oil is formulated to be used with Ultra Low Sulfur Diesel (ULSD) as well as normal / low sulfur diesel fuels.",
+    "company_name": "Colorado Petroleum Products",
+    "company_slug": "colorado-petroleum-products",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680109029/production/Brand/31358/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Lubricants & Functional Fluids",
+            "Automotive Fluids & Lubricants",
+            "Chemical & Industrial Manufacturing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Lubricants & Oils",
+            "Fluids & Lubricants"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Oil"
+        ],
+        "Application Area": [
+            "Engine"
+        ],
+        "SAE Viscosity Grade": [
+            "SAE 10W"
+        ]
+    }
+}

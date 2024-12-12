@@ -1,0 +1,38 @@
+{
+    "id": 301207,
+    "brand": "nancar",
+    "name": "Nancar® NBR 1032",
+    "slug": "nancar-nbr-1032",
+    "description": "Nancar® NBR 1032 is a medium high acrylonitrile butadiene copolymer with good oil resistance. It is polymerized at low temperature and contains sufficient antioxidant for normal aging conditions. It is highly water resistant, and non-corrosive to metal.",
+    "company_name": "Nantex Industry",
+    "company_slug": "nantex-industry",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112569/production/Company/24268/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Other Industrial Applications",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Specialty Elastomers",
+            "Nitrile Rubbers"
+        ],
+        "Chemical Family": [
+            "Nitrile Rubbers"
+        ],
+        "Polymer Name": [
+            "Acrylonitrile Butadiene Rubber (NBR)"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Acrylonitrile Butadiene Rubber (NBR)"
+        ],
+        "Features": [
+            "Water Resistant",
+            "Non Corrosive",
+            "Cold Polymerized",
+            "Oil Resistant"
+        ]
+    }
+}

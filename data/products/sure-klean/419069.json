@@ -1,0 +1,43 @@
+{
+    "id": 419069,
+    "brand": "sure-klean",
+    "name": "Sure Klean® Asphalt & Tar Remover",
+    "slug": "sure-klean-asphalt-tar-remover",
+    "description": "Sure Klean® Asphalt &amp; Tar Remover is a highly efficient heavy duty solvent cleaner for masonry and concrete. It is easy to apply and water rinseable. It is ideal for cleaning and surface preparation, Sure Klean® Asphalt &amp; Tar Remover will not damage most masonry or concrete.",
+    "company_name": "Prosoco",
+    "company_slug": "prosoco",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1682593229/production/Brand/32861/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515589/production/CategoryImage/1050/category_image/HII_02.jpg",
+    "properties": {
+        "Applications": [
+            "Institutional & Industrial Care",
+            "Auto Care",
+            "Surface Care",
+            "Industrial Cleaning",
+            "Vehicle & Machinery",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Industrial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Multipurpose Cleaners",
+            "Cleaner",
+            "Tar Cleaner"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Concrete",
+            "Asphalt"
+        ],
+        "Features": [
+            "Excellent Rinsability",
+            "Heavy Duty",
+            "Good Surface Care",
+            "Degreasing",
+            "Stain Removing"
+        ]
+    }
+}

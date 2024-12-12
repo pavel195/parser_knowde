@@ -1,0 +1,32 @@
+{
+    "id": 393173,
+    "brand": "blackon",
+    "name": "MAR COPPER PRO ELITE 78",
+    "slug": "mar-copper-pro-elite-78",
+    "description": "MAR COPPER PRO ELITE 78 is an alkaline non cyanide or pyro copper system designed to plate on a variety of base metals. This system is non-toxic, mildly alkaline copper plating solution designed to deposit a fine grained, smooth and ductile copper layer. It can also be used on zinc-based die-castings and aluminum but may require a strike solution.",
+    "company_name": "MAR-Tech Holdings",
+    "company_slug": "mar-tech-holdings",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680109297/production/Brand/29633/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608566/production/CategoryImage/566/category_image/PaintingsCoatings_02.jpg",
+    "properties": {
+        "Applications": [
+            "Metal Manufacturing & Finishing",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Processing Additives",
+            "Metal Processing Additives"
+        ],
+        "Chemical Family": [
+            "Copper-based Compounds"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Copper-based Compounds"
+        ],
+        "Applicable Processes": [
+            "Metal Plating"
+        ]
+    }
+}

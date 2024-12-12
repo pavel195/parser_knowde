@@ -1,0 +1,47 @@
+{
+    "id": 299713,
+    "brand": "granolite",
+    "name": "Granolite SG",
+    "slug": "granolite-sg",
+    "description": "Granolite SG, a stabilized, glycerin-esterified rosin, is a tackifier resin recommended for adhesive and depilatory wax formulations.",
+    "company_name": "DRT",
+    "company_slug": "drt",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1703849763/production/Company/22776/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609091/production/CategoryImage/594/category_image/PrintingPackaging_05.jpg",
+    "properties": {
+        "Applications": [
+            "Other Adhesives & Sealants Applications"
+        ],
+        "Product Families": [
+            "Other Resins & Binders",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Modified Rosins",
+            "Rosins"
+        ],
+        "End Uses": [
+            "Solventborne Adhesive",
+            "Hot Melt Adhesive"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Rosins",
+            "Modified Rosins"
+        ],
+        "End Uses": [
+            "Solventborne Adhesive",
+            "Hot Melt Adhesive"
+        ],
+        "Molecular Weight": [
+            "700.0 - 700.0 g/mol"
+        ],
+        "Glass Transition Temperature (Tg)": [
+            "45.0 - 45.0 °C"
+        ],
+        "Synonyms": [
+            "Glycerol ester of partially hydrogenated wood rosin, Hydrogenated rosin glycerides"
+        ]
+    }
+}

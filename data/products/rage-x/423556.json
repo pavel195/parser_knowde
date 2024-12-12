@@ -1,0 +1,34 @@
+{
+    "id": 423556,
+    "brand": "rage-x",
+    "name": "RAGE X™",
+    "slug": "rage-x",
+    "description": "RAGE X™ is an environmentally friendly, user safe and non-hazardous concrete remover designed specifically for Precast &amp; Forms. Same strength as our flagship concrete remover RAGE. Product quantity sold in 5 Gallons, 15 Gallons, 30 Gallons, 55 Gallons, 275 Gallons.",
+    "company_name": "Ankem of Texas, inc.",
+    "company_slug": "ankem-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292663/production/Product/423556/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1664292663/production/Product/423556/card_banner/image.png",
+    "properties": {
+        "Applications": [
+            "Institutional & Industrial Care",
+            "Industrial Cleaning"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Industrial Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner",
+            "Rust Removers"
+        ],
+        "Application Areas": [
+            "Masonry",
+            "Equipment"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Concrete"
+        ]
+    }
+}

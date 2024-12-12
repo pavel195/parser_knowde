@@ -1,0 +1,74 @@
+{
+    "id": 390805,
+    "brand": "suncaps",
+    "name": "WS SA50™",
+    "slug": "ws-sa50",
+    "description": "WS SA50™ is a water-soluble dry powder form of salicylic acid that offers a higher solubility level, leading to a significant increase in aqueous solubility without requiring high energy investment, making it highly efficient. It is a pertinent solution for many industries, including skincare, sun care, hair care (shampoos and conditioners), aerosol products (such as sun spray and deodorants), cleansers, and more.",
+    "company_name": "Tagra Biotechnologies Ltd",
+    "company_slug": "tagra-biotechnologies-ltd",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1625664830/production/Company/6208/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1680607732/production/Product/390805/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Feminine Hygiene",
+            "Bath & Shower",
+            "AP/Deo",
+            "Sun Care",
+            "Other Personal Hygiene Applications",
+            "Wipes, Tissue & Towel",
+            "Treatment Products",
+            "Hair Care",
+            "Skin Care",
+            "Beauty & Care",
+            "Personal Hygiene"
+        ],
+        "Product Families": [
+            "Skin Actives",
+            "Cosmetic Actives"
+        ],
+        "INCI Name": [
+            "Sodium Polyacrylate",
+            "Salicylic Acid"
+        ],
+        "End Uses": [
+            "Sunscreen Spray",
+            "Wet Wipes",
+            "Deodorants",
+            "Acne Treatments",
+            "Rosacea (Redness) Treatment",
+            "Ointments",
+            "Sanitary Pads",
+            "Shampoos & Rinses"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Salicylic Acid",
+            "Sodium Polyacrylate"
+        ],
+        "Functions": [
+            "Anti-Acne Agent",
+            "Exfoliant (Chemical)",
+            "Keratolytic Agent"
+        ],
+        "Labeling Claims": [
+            "Ulta Beauty's Conscious Beauty",
+            "Animal Products-free",
+            "Clean at Sephora",
+            "Non-GMO",
+            "Alcohol-free",
+            "Credo Clean Standard"
+        ],
+        "Benefit Claims": [
+            "Suitable for Sensitive Skin",
+            "Anti-Acne",
+            "Redness Reduction",
+            "Soothing",
+            "Anti-Bacterial",
+            "Anti-Inflammatory",
+            "Encapsulated Actives",
+            "Acidic pH Stable",
+            "Exfoliating"
+        ]
+    }
+}

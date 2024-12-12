@@ -1,0 +1,37 @@
+{
+    "id": 331972,
+    "brand": "jambolean",
+    "name": "Tegricel®",
+    "slug": "tegricel",
+    "description": "Tegricel® is a blend of the immunoglobulins that support passive immunity and the elimination of potentially harmful bacteria and antigens before they have an opportunity to enter into blood, tissue, and organs, and immune supportive compounds allowing multi-facetted mechanisms of actions to support mucosal immune protection and healthy gut integrity.",
+    "company_name": "Roxlor",
+    "company_slug": "roxlor",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708519322/production/Brand/24301/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606924/production/CategoryImage/503/category_image/FoodNutrition_04.jpg",
+    "properties": {
+        "Applications": [
+            "Sports Nutrition",
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Sports Nutrition",
+            "Dietary Supplements"
+        ]
+    },
+    "summary": {
+        "Benefit Claims (Health)": [
+            "Stimulates Immune System"
+        ],
+        "Features": [
+            "Anti-Inflammatory",
+            "Promotes Digestive Health"
+        ]
+    }
+}

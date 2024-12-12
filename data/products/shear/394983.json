@@ -1,0 +1,28 @@
+{
+    "id": 394983,
+    "brand": "shear",
+    "name": "HYDRO CLEAN 750",
+    "slug": "hydro-clean-750",
+    "description": "HYDRO CLEAN 750 is a liquid, alkaline C.I.P. detergent formulated for circulation, soak, and spray cleaning of dairy and food processing equipment.",
+    "company_name": "Shepard Bros, Inc.",
+    "company_slug": "shepard-bros-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664291849/production/Brand/29909/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515602/production/CategoryImage/1051/category_image/HII_03.jpg",
+    "properties": {
+        "Applications": [
+            "Home Care",
+            "Institutional & Industrial Care",
+            "Surface Care",
+            "Industrial Cleaning"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Food Grade Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Alkaline Cleaners"
+        ]
+    }
+}

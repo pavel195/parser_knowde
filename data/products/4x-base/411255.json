@@ -1,0 +1,43 @@
+{
+    "id": 411255,
+    "brand": "4x-base",
+    "name": "Hydro Balance Corporation HYDRO-FOAM",
+    "slug": "hydro-balance-corporation-hydro-foam",
+    "description": "HYDRO-FOAM is an acid type, foaming, air-cooled, condenser cleaner and brighter. It contains hazardous components like hydrofluoric acid and phosphoric acid.",
+    "company_name": "Hydro Balance Corporation",
+    "company_slug": "hydro-balance-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292408/production/Company/36132/logo/image.png",
+    "banner_url": "https://static.knowde.com/card-banners/knowde-card-for-raw-materials-8.jpg",
+    "properties": {
+        "Applications": [
+            "Home Care",
+            "Institutional & Industrial Care",
+            "Surface Care",
+            "Industrial Cleaning"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Industrial Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner",
+            "Degreasers"
+        ],
+        "Application Areas": [
+            "Coils",
+            "Machine Parts",
+            "Equipment"
+        ],
+        "Certifications & Compliance": [
+            "SARA 311/312",
+            "Comprehensive Environmental Response, Compensations & Liability Act (CERCLA)"
+        ],
+        "Features": [
+            "Degreasing",
+            "Foamable",
+            "Good Brightness"
+        ]
+    }
+}

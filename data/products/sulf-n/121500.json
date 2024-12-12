@@ -1,0 +1,79 @@
+{
+    "id": 121500,
+    "brand": "sulf-n",
+    "name": "Aegis® H100NP",
+    "slug": "advansix-aegis-h100np",
+    "description": "Aegis® H100NP resin is a medium-viscosity nylon 6 extrusion grade homopolymer for cast or blown film. It offers a combination of strength, toughness and thermoforming properties as well as excellent heat, chemical and abrasion resistance. ",
+    "company_name": "AdvanSix",
+    "company_slug": "advansix",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697438354/production/Company/4618/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1612956888/production/Product/121500/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Food & Beverage Packaging",
+            "Technical Fabrics",
+            "Industrial & Transport Packaging",
+            "Tires",
+            "Safety Systems",
+            "Other Consumer Goods Applications",
+            "Sports & Recreation",
+            "Automotive",
+            "Processing & Packaging",
+            "Textiles & Nonwovens",
+            "Packaging",
+            "Leather & Textiles"
+        ],
+        "Product Families": [
+            "Polyamides",
+            "Engineering & Specialty Polymers"
+        ],
+        "Chemical Family": [
+            "Polyamides"
+        ],
+        "Polymer Name": [
+            "Polyamide 6 (PA 6)"
+        ],
+        "End Uses": [
+            "Seat Webbing",
+            "Seat Belts",
+            "Cooling Hoses",
+            "Radiator",
+            "Stretch Films",
+            "Shrink Wrap",
+            "Food Packaging",
+            "Tire Cord",
+            "Paper Machine Clothing",
+            "Industrial Film Applications",
+            "Industrial Fiber Applications",
+            "High Strength Fiber",
+            "Airbags",
+            "Oriented Film",
+            "Form Fill Seal Packaging",
+            "Film",
+            "Textile Applications",
+            "Netting",
+            "Profiles",
+            "Tubing",
+            "Balloons",
+            "Book Covers",
+            "Biaxially Oriented Film",
+            "Retort Pouches",
+            "Pouches Flexible Packaging",
+            "Monofilaments",
+            "Flexible Packaging",
+            "Cast Films"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyamide 6 (PA 6)"
+        ],
+        "Processing Methods": [
+            "Cast Film Extrusion",
+            "Extrusion",
+            "Film Extrusion",
+            "Thermoforming",
+            "Blown Film Extrusion"
+        ]
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "id": 163759,
+    "brand": "nacconol",
+    "name": "STEPANTEX® VT-90",
+    "slug": "stepantex-vt-90",
+    "description": "STEPANTEX® VT-90 is a diester fabric softener quaternary, providing excellent softening, cold water dispersibility, and good rewetting properties. This cationic surfactant paste can be used to produce up to 25% solid dispersions in household and industrial fabric softeners. The product is biobased.",
+    "company_name": "Stepan Company",
+    "company_slug": "stepan-company",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1715667823/production/Brand/11008/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1715667823/production/Product/163759/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Textile Manufacturing",
+            "Laundry & Fabric Care",
+            "Surface Care",
+            "Institutional & Catering",
+            "Industrial Cleaning",
+            "Textiles & Nonwovens",
+            "Home Care",
+            "Institutional & Industrial Care",
+            "Leather & Textiles"
+        ],
+        "Product Families": [
+            "Industrial Cleaners",
+            "Finishing Additives & Treatments",
+            "Cationic Surfactants",
+            "Performance Additives",
+            "Soaps & Surfactants",
+            "Functional Additives",
+            "Cleaners",
+            "Textile & Leather Chemicals"
+        ],
+        "End Uses": [
+            "Textiles",
+            "Institutional Cleaners",
+            "Industrial Cleaners",
+            "Kitchen Cleaners",
+            "Hard Surface Cleaners",
+            "Fabric Softeners",
+            "Textile Softeners"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Anti-Static Agent",
+            "Surfactant",
+            "Fabric Softener",
+            "Surfactant (Cationic)"
+        ],
+        "Product Type": [
+            "Cleaner"
+        ],
+        "Application Area": [
+            "Hard Surfaces"
+        ]
+    }
+}

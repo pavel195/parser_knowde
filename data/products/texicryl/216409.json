@@ -1,0 +1,51 @@
+{
+    "id": 216409,
+    "brand": "texicryl",
+    "name": "Texicryl® 13-503",
+    "slug": "texicryl-13-503",
+    "description": "Texicryl® 13-503 is a styrene acrylic copolymer emulsion designed for the formulation of printing inks for application to non absorbent, low surface energy substrates. It is used in the formulation of printing inks for substrates such as polyethylene, polypropylene and various foils.",
+    "company_name": "Scott Bader",
+    "company_slug": "scott-bader",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1625046123/production/Product/216409/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1625746187/production/Product/216409/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Film & Foil Coatings",
+            "Packaging Coatings"
+        ],
+        "Product Families": [
+            "Acrylics",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates",
+            "Styrene-Acrylic Copolymer"
+        ],
+        "End Uses": [
+            "Waterborne Coating"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Styrene-Acrylic Copolymer",
+            "Acrylics & Acrylates"
+        ],
+        "End Uses": [
+            "Waterborne Coating"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Polyethylene (PE)",
+            "Plastics",
+            "Polypropylene (PP)"
+        ],
+        "Glass Transition Temperature (Tg):": [
+            "-50.0 - -50.0 °C"
+        ],
+        "Features": [
+            "Water Resistance",
+            "Abrasion Resistance",
+            "High Gloss",
+            "Reduces Rub-out"
+        ]
+    }
+}

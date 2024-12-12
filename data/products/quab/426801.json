@@ -1,0 +1,44 @@
+{
+    "id": 426801,
+    "brand": "quab",
+    "name": "QUAB® 188 Grade 1",
+    "slug": "quab-188-grade-1",
+    "description": "QUAB® 188 Grade 1 is the trade name for the aqueous solution of the active substance 3-chloro-2-hydroxypropyltrimethylammonium chloride (commonly referred to as chlorohydrin).",
+    "company_name": "SKW Quab Chemicals",
+    "company_slug": "skw-quab-chemicals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708687756/production/Brand/33797/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical Manufacturing",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Other Intermediates",
+            "Intermediates"
+        ],
+        "Chemical Family": [
+            "Chlorides",
+            "Ammonium Compounds"
+        ],
+        "End Uses": [
+            "Cellulose"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "(3-Chloro-2-hydroxypropyl)trimethylammonium chloride"
+        ],
+        "CAS Number": [
+            "3327-22-8"
+        ],
+        "Chemical Family": [
+            "Chlorides",
+            "Ammonium Compounds"
+        ],
+        "Functions": [
+            "Intermediate",
+            "Reagent"
+        ]
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "id": 413097,
+    "brand": "leitup",
+    "name": "InLeit® SMP LH",
+    "slug": "inleit-smp-lh",
+    "description": "InLeit® SMP LH is a low spore spray-dried milk powder obtained by removing water from pasteurized skim milk. It contains a minimum milk protein of 34% on total solids nonfat.",
+    "company_name": "Inleit Ingredients",
+    "company_slug": "inleit-ingredients",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708690664/production/Brand/27585/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708690664/production/Product/413097/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Infant & Baby Food",
+            "Bakery",
+            "Dairy",
+            "Food"
+        ],
+        "Product Families": [
+            "Whole Foods & Extracts",
+            "Formulated Feeds, Whole Foods and Extracts"
+        ],
+        "End Uses": [
+            "Biscuits",
+            "Pastries",
+            "Egg Substitute",
+            "Yogurt",
+            "Cheese"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Skimmed Milk Powder"
+        ],
+        "Functions": [
+            "Whole Food Ingredient"
+        ],
+        "Features": [
+            "Glazing"
+        ],
+        "Labeling Claims": [
+            "Kosher",
+            "Halal"
+        ],
+        "Certifications & Compliance": [
+            "ISO 9001",
+            "Halal",
+            "ISO 22000",
+            "FSSC 22000",
+            "Kosher"
+        ]
+    }
+}

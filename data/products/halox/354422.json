@@ -1,0 +1,66 @@
+{
+    "id": 354422,
+    "brand": "halox",
+    "name": "HALOX® SZP-391",
+    "slug": "halox-szp-391",
+    "description": "HALOX® SZP-391 is a white, nonrefractive, corrosion-inhibiting pigment that is highly efficient and versatile. It is recommended for use in a wide variety of resin systems, such as alkyds (both traditional and high solids), epoxies, latexes, water-reducible alkyds, high acid value resins, catalyzed baking systems, and vinylidene chloride latexes. Its fine particle size and low oil absorption make HALOX® SZP-391 the preferred pigment for thin-film applications (&lt;1 mil or 25 microns).",
+    "company_name": "ICL Phosphate Specialty - HALOX®",
+    "company_slug": "icl-halox",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1710309146/production/Company/36458/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1710309146/production/Brand/26401/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Rail & Mass Transit",
+            "Resin Manufacturing",
+            "Rail & Mass Transit Coatings",
+            "Industrial Maintenance",
+            "Vehicle Refinish",
+            "Aerospace & Aviation",
+            "Automotive OEM Coatings",
+            "Aerospace Coatings",
+            "Agricultural & Construction Equipment",
+            "Industrial Coatings",
+            "Metal Coatings",
+            "Coatings & Finishes",
+            "Transportation",
+            "Chemical & Industrial Manufacturing",
+            "Automotive & Transportation"
+        ],
+        "Product Families": [
+            "Corrosion Inhibiting Pigments",
+            "Functional Pigments",
+            "Functional Additives",
+            "Additives",
+            "Pigments & Colorants"
+        ],
+        "Chemical Family": [
+            "Strontium & Strontium Compounds",
+            "Zinc & Zinc Compounds",
+            "Phosphosilicates"
+        ],
+        "End Uses": [
+            "Powder Coating",
+            "Waterborne Coating",
+            "Solventborne Coating",
+            "Solventless & High Solids Coating",
+            "Latex"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Phosphosilicates",
+            "Strontium & Strontium Compounds",
+            "Zinc & Zinc Compounds"
+        ],
+        "Functions": [
+            "Pigment",
+            "Corrosion Inhibitor"
+        ],
+        "Compatible Polymers & Resins": [
+            "Alkyds",
+            "Polyvinylidene Chloride (PVDC)",
+            "Epoxies (EP)",
+            "Polyesters"
+        ]
+    }
+}

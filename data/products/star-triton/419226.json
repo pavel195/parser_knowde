@@ -1,0 +1,45 @@
+{
+    "id": 419226,
+    "brand": "star-triton",
+    "name": "STAR-TRITON®",
+    "slug": "star-triton",
+    "description": "STAR-TRITON®  is part of a new generation of pavement sealcoatings that are high performance, effective alternatives, to both refined tar and asphalt emulsion sealers. STAR-TRITON® will perform to the standards you have come to expect from the entire family of STAR sealcoatings. STAR’s formulations use only the highest quality raw materials and STAR-TRITON® is based on carefully selected grades of petroleum resins, minerals, specialty additives and performance boosters, STAR-TRITON® has an extraordinary degree of toughness and water repellency, unmatched by any competitive sealer. STAR-TRITON® forms a tough, durable and flexible coating that protects asphalt pavements from the damaging elements of weather, water penetration, de-icing salts, traffic damage, surface raveling/checking, gasoline and other petrochemical contaminations.",
+    "company_name": "Star Seal Of Ohio",
+    "company_slug": "star-seal-of-ohio",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520316/production/Brand/32876/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608566/production/CategoryImage/566/category_image/PaintingsCoatings_02.jpg",
+    "properties": {
+        "Applications": [
+            "Infrastructure, Roads & Paving",
+            "Coatings & Markings",
+            "Pavement, Highways, Roads & Bridges"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Sealer",
+            "Waterborne Coating"
+        ],
+        "Features": [
+            "Flexible",
+            "Odorless",
+            "Water Soluble",
+            "Water-based",
+            "Salt Resistance",
+            "Excellent Toughness",
+            "Fuel Resistant",
+            "Excellent Water Repellency ",
+            "Durable",
+            "Good Weather Stability",
+            "High Performance"
+        ],
+        "Application Method": [
+            "Brush",
+            "Spray"
+        ]
+    }
+}

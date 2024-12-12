@@ -1,0 +1,50 @@
+{
+    "id": 380833,
+    "brand": "inventec-performances-chemicals-3m",
+    "name": "3M™ Novec 2704",
+    "slug": "3m-novec-2704",
+    "description": "3M™ Novec 2704 is a single component fluorinated polymer that has been diluted in 3M™ Novec™ 7200 Engineered Fluid, a segregated hydrofluoroether solvent, to produce a low viscosity, low surface tension coating solution. It dries to an ultrathin, transparent coating with excellent hydrophobic and oleophobic properties, making it ideal for moisture and corrosion protection of printed circuit boards and electronic components. It does not require curing and is simple to apply. The Novec 2704 coating is nonflammable, non-ozone depleting, low in toxicity, low in GWP, RoHS compliant, and low in VOC. The coating contains a yelloworange dye that is built into the polymer and designed to fluoresce under UV light to aid in coating inspection and quality control.",
+    "company_name": "Inventec Performances Chemicals",
+    "company_slug": "inventec-performances-chemicals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520481/production/Brand/28542/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607618/production/CategoryImage/522/category_image/ElectricalElectronics_07.jpg",
+    "properties": {
+        "Applications": [
+            "Packaging & Assembly",
+            "Electronics Coatings"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ],
+        "Chemical Family": [
+            "Fluoropolymers"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "1K (1 component) Coating"
+        ],
+        "Features": [
+            "Corrosion Resistant",
+            "Ozone Resistant",
+            "Hydrophobic",
+            "Excellent Moisture Resistance",
+            "Good Electrical Properties",
+            "Fast Drying",
+            "Good Thermal Stability",
+            "Low Toxicity"
+        ],
+        "Application Area": [
+            "Printed Electronics"
+        ],
+        "Application Method": [
+            "Spray",
+            "Brush",
+            "Dip Coating"
+        ],
+        "Chemical Family": [
+            "Fluoropolymers"
+        ]
+    }
+}

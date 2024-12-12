@@ -1,0 +1,57 @@
+{
+    "id": 323929,
+    "brand": "volactose",
+    "name": "Volactive® UltraWhey 80",
+    "slug": "volactive-ultrawhey-80",
+    "description": "Volactive® UltraWhey 80 is a premium quality whey containing on average 82% protein. Manufactured in the UK, the Volactive® UltraWhey 80 proteins guarantee unrivaled quality.",
+    "company_name": "Volac",
+    "company_slug": "volac",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708522384/production/Company/29445/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607247/production/CategoryImage/513/category_image/FoodNutrition_13.jpg",
+    "properties": {
+        "Applications": [
+            "Convenience Foods",
+            "Functional Foods",
+            "Nutraceuticals & Supplements",
+            "Food",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Proteins & Amino Acids",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Protein Bars",
+            "Protein Shakes",
+            "Nutraceuticals"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Whey Protein"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin"
+        ],
+        "Labeling Claims": [
+            "Natural",
+            "Naturally Derived",
+            "GMO-free",
+            "Vegetarian",
+            "Kosher",
+            "rBGH-free",
+            "Halal"
+        ],
+        "Features": [
+            "Neutral Taste",
+            "High Protein Content",
+            "High Quality"
+        ],
+        "End Uses": [
+            "Protein Bars",
+            "Nutraceuticals",
+            "Protein Shakes"
+        ]
+    }
+}

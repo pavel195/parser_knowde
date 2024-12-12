@@ -1,0 +1,28 @@
+{
+    "id": 388481,
+    "brand": "ngac",
+    "name": "NGAC P907-30",
+    "slug": "ngac-p907-30",
+    "description": "NGAC P907-30 is a controlled flow encapsulant with a high viscosity designed for microelectronics applications requiring low shrinkage and high reliability performance.",
+    "company_name": "NextGen Adhesives",
+    "company_slug": "nextgen-adhesives",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691738056/production/Brand/29176/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607403/production/CategoryImage/516/category_image/ElectricalElectronics_01.jpg",
+    "properties": {
+        "Applications": [
+            "Printed Circuit Boards (PCBs)",
+            "Adhesives & Sealants",
+            "Appliances & Electronics",
+            "Other Adhesives & Sealants Applications",
+            "Jacketing & Insulation",
+            "Packaging & Assembly",
+            "Parts & Components",
+            "Wire & Cable"
+        ],
+        "Product Families": [
+            "Encapsulants",
+            "Adhesives & Sealants"
+        ]
+    },
+    "summary": {}
+}

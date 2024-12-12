@@ -1,0 +1,57 @@
+{
+    "id": 211726,
+    "brand": "carbamac",
+    "name": "NORSODYNE® C 55377 AL",
+    "slug": "norsodyne-c-55377-al",
+    "description": "NORSODYNE® C 55377 AL - Unsaturated polyester resin in styrene,Isophthalic-Neopentylic. It is used to produce agglomerated and engineered stones through casting method.",
+    "company_name": "Polynt Group",
+    "company_slug": "polynt-group",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708523092/production/Brand/13739/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708523092/production/Company/6009/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Shingles & Tiles",
+            "Glazing & Window Elements",
+            "Parking Structures & Stadiums",
+            "Roof Shingles & Tiles",
+            "Pavement, Highways, Roads & Bridges",
+            "Wall Panels",
+            "Structural Components",
+            "Siding & Trim",
+            "Pipes & Plumbing",
+            "Interior Fixtures",
+            "Fence, Decks & Rails",
+            "Building Envelope",
+            "Building Materials",
+            "Infrastructure, Roads & Paving",
+            "Roofing",
+            "Building Envelope & Roofing"
+        ],
+        "Product Families": [
+            "Thermoset Resins",
+            "Polymers & Resins"
+        ],
+        "Chemical Family": [
+            "Polyesters",
+            "Unsaturated Polyester (UPE)"
+        ],
+        "Polymer Name": [
+            "Polyester (unspecified)"
+        ],
+        "End Uses": [
+            "Structural Components"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyester (unspecified)"
+        ],
+        "Chemical Family": [
+            "Polyesters",
+            "Unsaturated Polyester (UPE)"
+        ],
+        "End Uses": [
+            "Structural Components"
+        ]
+    }
+}

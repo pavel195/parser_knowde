@@ -1,0 +1,37 @@
+{
+    "id": 285405,
+    "brand": "xfolipearl",
+    "name": "Fortium® A",
+    "slug": "fortium-a",
+    "description": "Fortium® A an acerola extract based antioxidant is a rich source of ascorbic acid that is designed for maximum effectiveness against color degradation. Acerola extract helps delay color loss by effectively delaying the oxidation of the iron ion in the myoglobin molecule.",
+    "company_name": "Kemin Industries, Inc.",
+    "company_slug": "kemin-industries-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708687866/production/Company/1286/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708687866/production/Company/1286/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Meat, Poultry & Seafood",
+            "Food"
+        ],
+        "Product Families": [
+            "Plant & Herb Products & Extracts",
+            "Color Additives & Decoratives",
+            "Antioxidants & Preservatives",
+            "Functional Additives",
+            "Whole Foods, Extracts & Premixes"
+        ],
+        "End Uses": [
+            "Processed Meat Products",
+            "Cured Meats"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Acerola Extract"
+        ],
+        "Functions": [
+            "Color Retention Aid",
+            "Antioxidant"
+        ]
+    }
+}

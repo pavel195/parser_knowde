@@ -1,0 +1,39 @@
+{
+    "id": 379548,
+    "brand": "mma",
+    "name": "EA 515",
+    "slug": "ea-515",
+    "description": "EA 515 used in Bond wide variety of substrates like, metals, woods, ceramic,, fiberglass concrete. Excellent resistance to water and other solvents.",
+    "company_name": "DAI Products",
+    "company_slug": "dai-products",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664291653/production/Brand/28389/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608939/production/CategoryImage/585/category_image/AdhesivesSealants_02.jpg",
+    "properties": {
+        "Applications": [
+            "Other Adhesives & Sealants Applications"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Structural Adhesives"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Epoxy Adhesive",
+            "2K (2 component) Adhesive"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Ceramic",
+            "Fiberglass",
+            "Wood",
+            "Concrete"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "id": 94835,
+    "brand": "oleosense",
+    "name": "Oléoactif® BIO Propolis TL",
+    "slug": "oleoactif-bio-propolis-tl",
+    "description": "Oléoactif® BIO Propolis TL is a Scavenges free radicals. Fights against photo-induced oxidative stress .Helps to keep the skin healthy. Improves collagen I synthesis. Fills and smoothes wrinkles. 100% oily extract of Propolis obtained by the patented oléoéco-extraction process. Propolis, resin produced by bees, has been used for millennia for its healing, antiseptic, antioxidant and sanitizing properties. All these active molecules have been concentrated in Oléoactif ® Propolis in a unique, fully bioavailable form, with a high anti-wrinkle power and a protective and repairing effect on the epidermis of mature skin.",
+    "company_name": "Oleos",
+    "company_slug": "oleos",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708699684/production/Company/1349/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708699684/production/Company/1349/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Skin Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Skin Actives",
+            "Stabilizers",
+            "Cosmetic Actives",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Propolis Extract",
+            "Helianthus Annuus (Sunflower) Seed Oil"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Propolis Extract",
+            "Helianthus Annuus (Sunflower) Seed Oil"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin"
+        ],
+        "Functions": [
+            "Stabilizer",
+            "Healing Agent",
+            "Anti-Aging Agent",
+            "Antioxidant",
+            "Protective Agent",
+            "Cleansing Agent"
+        ],
+        "Labeling Claims": [
+            "Credo Clean Standard",
+            "Clean at Sephora",
+            "Naturally Derived",
+            "Natural",
+            "Organic",
+            "Ulta Beauty's Conscious Beauty"
+        ],
+        "Certifications & Compliance": [
+            "Organic Certified",
+            "Kosher",
+            "EFISC",
+            "ECOCERT",
+            "Halal"
+        ],
+        "Benefit Claims": [
+            "Cleansing",
+            "Wrinkle Prevention",
+            "Antioxidant Properties",
+            "Anti-Aging",
+            "Healing"
+        ]
+    }
+}

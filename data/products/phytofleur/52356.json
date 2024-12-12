@@ -1,0 +1,75 @@
+{
+    "id": 52356,
+    "brand": "phytofleur",
+    "name": "Coltide™ Radiance",
+    "slug": "coltide-radiance",
+    "description": "Coltide™ Radiance is an innovative biopolymer with a modified backbone that provides increased substantivity to fabric and fibres. The product is designed to protect garments and fabrics from damage, color loss, and greying in both concentrated and diluted fabric conditioners. Halal-certified grades are available.",
+    "company_name": "Croda",
+    "company_slug": "croda",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709822003/production/Product/52356/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1709822003/production/Company/94/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Surface Care",
+            "Dish Care",
+            "Commercial Laundry",
+            "Institutional & Catering",
+            "Industrial Cleaning",
+            "Laundry & Fabric Care",
+            "Home Care",
+            "Institutional & Industrial Care"
+        ],
+        "Product Families": [
+            "Performance Additives",
+            "Functional Additives"
+        ],
+        "Chemical Family": [
+            "Proteins, Peptides & Amino Acid Derivatives",
+            "Proteins"
+        ],
+        "End Uses": [
+            "Fabric Care",
+            "Detergents",
+            "Institutional Cleaners",
+            "Industrial Cleaners",
+            "Fabric Cleaners",
+            "Fabric Conditioners",
+            "Laundry Detergents"
+        ],
+        "Labeling Claims": [
+            "Naturally Derived",
+            "Environmentally Friendly",
+            "Sustainable",
+            "Halal",
+            "Bio-based"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Color Retention Aid",
+            "Fabric Softener",
+            "Surface Protectant",
+            "Fabric Conditioning Agent"
+        ],
+        "Certifications & Compliance": [
+            "Halal",
+            "RSPO MassBalance Certified"
+        ],
+        "Labeling Claims": [
+            "Naturally Derived",
+            "Halal",
+            "Environmentally Friendly",
+            "Sustainable",
+            "Bio-based"
+        ],
+        "End Uses": [
+            "Fabric Cleaners",
+            "Detergents",
+            "Laundry Detergents",
+            "Fabric Conditioners",
+            "Fabric Care",
+            "Institutional Cleaners",
+            "Industrial Cleaners"
+        ]
+    }
+}

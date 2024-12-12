@@ -1,0 +1,39 @@
+{
+    "id": 359148,
+    "brand": "glyptal",
+    "name": "Glyptal® 8001",
+    "slug": "glyptal-8001",
+    "description": "Glyptal® 8001 is a red, insulating enamel that can be air-dried or baked. Films of this paint have excellent humidity and salt water resistance as well as dielectric strength. Glyptal® 8001 Red offers good heat aging properties and oil resistance. This paint is not suitable for the inside coating of dielectric oil containers.",
+    "company_name": "Glyptal",
+    "company_slug": "glyptal",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664290817/production/Company/30765/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608557/production/CategoryImage/565/category_image/PaintingsCoatings_01.jpg",
+    "properties": {
+        "Applications": [
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Enamels",
+            "Primers & Sealers"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Primer",
+            "Solventborne Coating",
+            "Enamel"
+        ],
+        "Application Method": [
+            "Spray",
+            "Dip Coating"
+        ],
+        "Features": [
+            "High Dielectric Strength",
+            "Excellent Water Resistance",
+            "Humidity Resistant",
+            "Oil Resistant",
+            "Good Aging Behavior"
+        ]
+    }
+}

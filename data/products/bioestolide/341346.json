@@ -1,0 +1,47 @@
+{
+    "id": 341346,
+    "brand": "bioestolide",
+    "name": "Castor Derivatives BT PRA100",
+    "slug": "castor-derivatives-bt-pra100",
+    "description": "BT PRA100 is applied in metalworking fluids, Lubricity improver, Emulsifier, Coupling agent and it have High thermal and oxidative stability.",
+    "company_name": "Biosynthetic Technologies",
+    "company_slug": "biosynthetic-technologies",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672317/production/Company/4678/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708672317/production/Company/4678/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Fluids & Lubricants",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Performance Additives",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Castor Oil Derivatives"
+        ],
+        "End Uses": [
+            "Metalworking Fluids",
+            "Hydraulic Fluids",
+            "Heavy Duty Hydraulic Oils"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Emulsifier",
+            "Coupling Agent"
+        ],
+        "End Uses": [
+            "Heavy Duty Hydraulic Oils",
+            "Metalworking Fluids",
+            "Hydraulic Fluids"
+        ],
+        "Chemical Family": [
+            "Castor Oil Derivatives"
+        ],
+        "Features": [
+            "Good Thermal Stability",
+            "Oxidation Resistant"
+        ]
+    }
+}

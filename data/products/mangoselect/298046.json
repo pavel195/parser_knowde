@@ -1,0 +1,47 @@
+{
+    "id": 298046,
+    "brand": "mangoselect",
+    "name": "Fiit-ns®",
+    "slug": "fiit-ns",
+    "description": "Fiit-ns® is clinically proven to improve metabolic markers of the aging process and to provide an increased feeling of energy while reducing tiredness linked to active lifestyles. ",
+    "company_name": "Fytexia",
+    "company_slug": "fytexia",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708696454/production/Product/298046/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708696454/production/Product/298046/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Oral",
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being",
+            "Drug Delivery & Care Solutions"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Phytochemicals",
+            "Functional Ingredients",
+            "Phytochemicals & Plant Extracts",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "Chemical Family": [
+            "Phenols & Phenolics",
+            "Polyphenols"
+        ]
+    },
+    "summary": {
+        "Active Component": [
+            "Flavanols",
+            "Flavanone",
+            "Procyanidins",
+            "Anthocyanins"
+        ],
+        "Functions": [
+            "Supplement",
+            "Dietary Supplement"
+        ],
+        "Labeling Claims": [
+            "Organic",
+            "Plant-Based"
+        ]
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "id": 229712,
+    "brand": "tiona",
+    "name": "TiONA® 122",
+    "slug": "tiona-122",
+    "description": "TiONA® 122 is a high performance, blue tint tone, chloride-process rutile titanium dioxide pigment, designed for use in both coatings and plastics where a high level of durability is required. It provides a combination of good optical properties, exceptional durability and ease of dispersion.",
+    "company_name": "Tronox",
+    "company_slug": "tronox",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708520854/production/Company/14973/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608454/production/CategoryImage/560/category_image/BuildingConstruction_04.jpg",
+    "properties": {
+        "Applications": [
+            "Marine",
+            "EIFS & Insulation",
+            "Architectural Coatings",
+            "Infrastructure, Roads & Paving",
+            "Coatings & Markings",
+            "Coil Coatings",
+            "Roof Coatings",
+            "Exterior Insulation & Finishing Systems (EIFS)",
+            "Interior Fixtures",
+            "Industrial Maintenance",
+            "Industrial Coatings",
+            "Marine Coatings",
+            "Coatings & Finishes",
+            "Transportation",
+            "Building Envelope",
+            "Building Materials",
+            "Roofing",
+            "Automotive & Transportation",
+            "Building & Construction",
+            "Building Envelope & Roofing"
+        ],
+        "Product Families": [
+            "Inorganic Pigments",
+            "Color Pigments",
+            "Pigments & Colorants"
+        ],
+        "Chemical Family": [
+            "Titanium Compounds"
+        ],
+        "End Uses": [
+            "Coil Coating",
+            "Waterborne Coating",
+            "Solventborne Coating",
+            "Powder Coating"
+        ]
+    },
+    "summary": {
+        "Color": [
+            "Blue",
+            "White"
+        ],
+        "Pigment Type": [
+            "Inorganic Pigments"
+        ],
+        "Chemical Family": [
+            "Titanium Compounds"
+        ],
+        "End Uses": [
+            "Waterborne Coating",
+            "Coil Coating",
+            "Solventborne Coating",
+            "Powder Coating"
+        ],
+        "Compatible Polymers & Resins": [
+            "Polyvinyl Chloride (PVC)"
+        ],
+        "Particle Size": [
+            "0.29 - 0.29 microns"
+        ],
+        "Synonyms": [
+            "TiO2, Titania, Titanium Peroxide"
+        ]
+    }
+}

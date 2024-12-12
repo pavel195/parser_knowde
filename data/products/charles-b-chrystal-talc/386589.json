@@ -1,0 +1,45 @@
+{
+    "id": 386589,
+    "brand": "charles-b-chrystal-talc",
+    "name": "Talc MP 10-52",
+    "slug": "talc-mp-10-52",
+    "description": "Talc MP 10-52 is designed for use in interior and exterior architectural coatings as well as industrial primers and topcoats. Talc’s chemically inert nature improves the weatherability of coatings containing talc. The hydrophobic nature of talc contributes to the rheological properties (anti-sag, leveling, and brushability) and gloss of the coating as well as providing sheen control. In addition, the softness of talc reduces wear on processing equipment.",
+    "company_name": "Charles B. Chrystal",
+    "company_slug": "charles-b-chrystal",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708696156/production/Brand/28943/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608502/production/CategoryImage/564/category_image/BuildingConstruction_08.jpg",
+    "properties": {
+        "Applications": [
+            "Architectural Coatings",
+            "Primers & Lacquers",
+            "Interior Fixtures",
+            "Building Envelope",
+            "Building Materials",
+            "Building & Construction",
+            "Packaging Coatings",
+            "Building Envelope & Roofing"
+        ],
+        "Product Families": [
+            "Fillers & Extenders",
+            "Additives"
+        ],
+        "End Uses": [
+            "Powder Coating",
+            "Top Coat",
+            "Primer"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Filler"
+        ],
+        "End Uses": [
+            "Top Coat",
+            "Powder Coating",
+            "Primer"
+        ],
+        "Oil Absorption": [
+            "55.0 - 55.0 g/100 g"
+        ]
+    }
+}

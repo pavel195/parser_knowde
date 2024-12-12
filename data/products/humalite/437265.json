@@ -1,0 +1,46 @@
+{
+    "id": 437265,
+    "brand": "humalite",
+    "name": "humizen Keal",
+    "slug": "humizen-keal",
+    "description": "Humizen Keal is an organic liquid fulvic acid derived from humalite, containing 1.5% fulvic acid (HPTA method). Keal is a powerful chelating agent for enhancement of both soil and foliar nutrient applications. It is compatible with virtually any liquid crop input and aids in uptake and penetration through root and leaf membranes. The high Cation Exchange Capacity (CEC), low molecular weight fulvic acid helps to build root systems, grow biomass, and enhance nutrient uptake and availability, contributing to a higher crop yield and overall quality.",
+    "company_name": "Black Earth",
+    "company_slug": "black-earth-humic",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708686504/production/Company/37351/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608150/production/CategoryImage/545/category_image/AgricultureFeed_01.jpg",
+    "properties": {
+        "Applications": [
+            "Fruits",
+            "Vegetables",
+            "Trees & Woodlands",
+            "Turf Management",
+            "Agricultural Crops",
+            "Turf, Ornamentals & Landscape"
+        ],
+        "Product Families": [
+            "Water Conditioners & Softeners",
+            "Soil Amendments & Conditioners",
+            "Adjuvants & Formulation Ingredients",
+            "Plant Health, Nutrients & Soil Management"
+        ],
+        "Chemical Family": [
+            "Humic Acids"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Chelating Agent",
+            "Soil Conditioner"
+        ],
+        "Chemical Family": [
+            "Humic Acids"
+        ],
+        "Labeling Claims": [
+            "Organic",
+            "Natural"
+        ],
+        "Application Technique": [
+            "Foliage Applied"
+        ]
+    }
+}

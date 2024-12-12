@@ -1,0 +1,42 @@
+{
+    "id": 411647,
+    "brand": "alumazite",
+    "name": "Tiolube® 29",
+    "slug": "tiolube-29",
+    "description": "Tiolube 29 is an extreme environment high temperature solid film lubricant. It can be used in hard vacuum, radiation, liquid oxygen, liquid hydrogen. Tiolube 29 is recommended for use on fasteners, sleeve bearings, rocket engine hot gas valves, jet engine shafts, bushings, etc. Tiolube 29 is also resistant to most organic solvents, skydrol, oils and degreasers. This lubricant may be applied on all metals by spraying, dipping, or brushing. Tiolube 29 meets the requirements of Mil-L-81329, NATO Code S-1737.",
+    "company_name": "Tiodize",
+    "company_slug": "tiodize",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680108903/production/Brand/32080/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Aerospace & Aviation",
+            "Chemical & Industrial Manufacturing",
+            "Transportation",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Lubricants & Oils",
+            "Fluids & Lubricants"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Lubricant"
+        ],
+        "Application Area": [
+            "Bushings",
+            "Aerospace Engines",
+            "Fasteners",
+            "Bearings"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal"
+        ],
+        "Features": [
+            "High Temperature Performance",
+            "Oil Resistant",
+            "Solvent Resistant"
+        ]
+    }
+}

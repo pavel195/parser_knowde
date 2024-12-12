@@ -1,0 +1,42 @@
+{
+    "id": 401522,
+    "brand": "44-blue",
+    "name": "42 Blue™",
+    "slug": "42-blue",
+    "description": "42 BLUE™ is a medium strength anaerobic threadlocker for all types of metal fasteners. Use 42 BLUE™ on those jobs requiring a reliable fast setting anaerobic thread locker that allows for future disassembly of parts using hand tools and moderate effort. It works by unitizing the fastener assembly, effectively sealing the thread path against fluid leaks and corrosion. The result is disassembly at a known unchanging torque, anytime in the future, regardless of the environment.",
+    "company_name": "Adhesive R&D",
+    "company_slug": "adhesive-r-d",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520035/production/Brand/30708/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608939/production/CategoryImage/585/category_image/AdhesivesSealants_02.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Other Building & Construction Applications",
+            "Pipes & Plumbing"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Anaerobic Adhesives"
+        ],
+        "Chemical Family": [
+            "Methacrylates"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Anaerobic Adhesive"
+        ],
+        "Application Area": [
+            "Thread Sealing"
+        ],
+        "Chemical Family": [
+            "Methacrylates"
+        ],
+        "Features": [
+            "Oil Resistant",
+            "Medium Viscosity",
+            "Medium Strength",
+            "Thixotropic"
+        ]
+    }
+}

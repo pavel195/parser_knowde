@@ -1,0 +1,45 @@
+{
+    "id": 381085,
+    "brand": "jowapur",
+    "name": "Jowapur® 687.6",
+    "slug": "jowapur-687-6",
+    "description": "Jowapur® 687.60 is a stable and fiber-reinforced, thixotropic one-component adhesive, curing with wood moisture or ambient humidity. Adhesive for bonding soft wood species, windows, doors, construction elements, water-resistant particleboard, foam and insulation materials made of concrete, cork and coated cork, tiles, stone and many other substrates.",
+    "company_name": "Jowat Corporation",
+    "company_slug": "jowat-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520033/production/Brand/28506/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608929/production/CategoryImage/584/category_image/AdhesivesSealants_01.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Construction Chemicals",
+            "Adhesives",
+            "Other Adhesives & Sealants Applications",
+            "Construction Adhesives"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Structural Adhesives"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Solvent free (100% Solids) Adhesive",
+            "1K (1 component) Adhesive"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Painted Surfaces",
+            "Stone",
+            "Wood",
+            "Concrete"
+        ],
+        "Cure Method": [
+            "Moisture Cure"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ]
+    }
+}

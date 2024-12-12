@@ -1,0 +1,74 @@
+{
+    "id": 370332,
+    "brand": "leitup",
+    "name": "LeitUp M85B",
+    "slug": "leitup-m85b",
+    "description": "LeitUp M85B is a functional native micellar casein concentrate powder obtained by microfiltration of skim milk.",
+    "company_name": "Inleit Ingredients",
+    "company_slug": "inleit-ingredients",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686109387/production/Brand/27584/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1686109387/production/Product/370332/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Beverage",
+            "Food",
+            "Nutrition & Well Being",
+            "Bakery",
+            "Confectionery",
+            "Dairy",
+            "Desserts & Fruit Preparations",
+            "Infant & Baby Food",
+            "Functional Foods",
+            "Nutraceuticals & Supplements",
+            "Sports Nutrition",
+            "Tea, Cocoa & Coffee",
+            "Clinical Nutrition"
+        ],
+        "Product Families": [
+            "Nutrition & Fortification",
+            "Whole Foods, Extracts & Premixes",
+            "Dairy Products",
+            "Nutraceuticals & Supplements",
+            "Proteins & Amino Acids"
+        ],
+        "End Uses": [
+            "Sports Nutrition",
+            "RTD Nutrition Formulas",
+            "Yogurt",
+            "Nutritional Bars",
+            "Dairy Products",
+            "Coffee Whiteners",
+            "Protein Rtd Formulas",
+            "Cheese",
+            "Milk",
+            "Dessert Bar"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Micellar Casein Concentrate"
+        ],
+        "Ingredient Origin": [
+            "Dairy Origin"
+        ],
+        "Labeling Claims": [
+            "Clean Label",
+            "Halal",
+            "Kosher"
+        ],
+        "Protein Content": [
+            "82.0 - 82.0 %"
+        ],
+        "Certifications & Compliance": [
+            "ISO 9001",
+            "FSSC 22000",
+            "Halal",
+            "Kosher",
+            "ISO 22000"
+        ],
+        "Physical Form": [
+            "Powder",
+            "Solid"
+        ]
+    }
+}

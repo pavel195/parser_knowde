@@ -1,0 +1,46 @@
+{
+    "id": 312402,
+    "brand": "tytan",
+    "name": "TYTAN™ AQZ30",
+    "slug": "tytan-aqz30",
+    "description": "TYTAN™ AQZ30 is Improved adhesion and cross-linking.",
+    "company_name": "Borica",
+    "company_slug": "borica",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1710313224/production/Product/312402/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609057/production/CategoryImage/591/category_image/PrintingPackaging_02.jpg",
+    "properties": {
+        "Product Families": [
+            "Oilfield & Transport Chemicals",
+            "Functional Additives",
+            "Chain Extenders & Crosslinkers",
+            "Additives",
+            "Monomers & Intermediates",
+            "Oil, Gas & Mining Chemicals"
+        ],
+        "Chemical Family": [
+            "Alkanolamines",
+            "Zirconium Compounds"
+        ],
+        "End Uses": [
+            "Solventborne Ink",
+            "Waterborne Ink",
+            "Waterborne Coating",
+            "Solventborne Coating"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Zirconium Compounds",
+            "Alkanolamines"
+        ],
+        "Labeling Claims": [
+            "Environmentally Friendly"
+        ],
+        "Applicable Processes": [
+            "Oil Recovery"
+        ],
+        "Synonyms": [
+            "Tetrakis(Triethanolaminato)Zirconium(Iv)"
+        ]
+    }
+}

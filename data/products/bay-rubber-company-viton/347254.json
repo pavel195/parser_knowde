@@ -1,0 +1,46 @@
+{
+    "id": 347254,
+    "brand": "bay-rubber-company-viton",
+    "name": "Bay Rubber Company EPDM O-Ring Cord",
+    "slug": "bay-rubber-company-epdm-o-ring-cord",
+    "description": "Bay Rubber Company EPDM O-Ring Cord is excellent for general applications requiring resistance to ozone, weathering, high temperatures, and some chemicals. Offered in a variety of of shapes and sizes. EPDM O-Ring Cord has good elongation properties as well as adequate resilience, tensile and compression set.",
+    "company_name": "Bay Rubber Company",
+    "company_slug": "bay-rubber-company",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686149781/production/Company/37308/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608769/production/CategoryImage/577/category_image/AutomotiveTransportation_05.jpg",
+    "properties": {
+        "Applications": [
+            "Medical",
+            "Other Automotive Applications",
+            "Other Medical Applications",
+            "Chemical & Industrial Manufacturing",
+            "Automotive",
+            "Other Industrial Applications"
+        ],
+        "Product Families": [
+            "Parts & Shapes"
+        ],
+        "Chemical Family": [
+            "Polyolefins",
+            "Ethylene-Propylene Copolymers (EPR)"
+        ],
+        "Polymer Name": [
+            "Ethylene Propylene Diene Terpolymer (EPDM)"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Ethylene Propylene Diene Terpolymer (EPDM)"
+        ],
+        "Physical Form": [
+            "O-rings"
+        ],
+        "Features": [
+            "General Purpose",
+            "Ozone Resistant",
+            "Good Weather Stability",
+            "Chemical Resistant",
+            "High Temperature Resistance"
+        ]
+    }
+}

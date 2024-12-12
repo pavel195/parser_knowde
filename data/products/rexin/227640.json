@@ -1,0 +1,46 @@
+{
+    "id": 227640,
+    "brand": "rexin",
+    "name": "POLURENE MT 90",
+    "slug": "polurene-mt-90",
+    "description": "POLURENE MT 90 is recommended for the formulation of non yellowing high solid content and low viscosity coatings with for metal,wood and plastics.\nBeing an aliphatic isocyanate, POLURENE MT 90 can be used in combination withacrylic or saturated polyester resins for the formulation of non yellowing coatings, showing UV light stability and excellent mechanical and chemical resistance.",
+    "company_name": "Sapici Spa",
+    "company_slug": "sapici-spa",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686148353/production/Company/8918/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1686148353/production/Company/8918/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Building & Construction",
+            "Industrial Coatings",
+            "Metal Coatings",
+            "Wood Coatings & Finishes",
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Intermediates",
+            "Monomers & Intermediates"
+        ],
+        "Chemical Family": [
+            "Polyisocyanates",
+            "Aliphatics"
+        ],
+        "End Uses": [
+            "Solventless & High Solids Coating",
+            "Enamel"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Aliphatics",
+            "Polyisocyanates"
+        ],
+        "End Uses": [
+            "Solventless & High Solids Coating",
+            "Enamel"
+        ],
+        "Compatible Polymers & Resins": [
+            "Acrylics",
+            "Polyesters"
+        ]
+    }
+}

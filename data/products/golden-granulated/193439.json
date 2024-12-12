@@ -1,0 +1,52 @@
+{
+    "id": 193439,
+    "brand": "golden-granulated",
+    "name": "FreshVert® (creamy or syrup)",
+    "slug": "freshvert-creamy-or-syrup",
+    "description": "Standardized inverts made from pure cane sugar by a process that converts sucrose into a combination of fructose and dextrose sugars, resulting in a characteristically unique sweetener system. These sugars have significantly different characteristics than sucrose, corn syrup combinations, or other sugars, and offer a lighter flavor, increased moisture retention in fresh baked goods, improved crust color, solubility, and enhanced shelf life. FreshVert® Liquid and Nulomoline® #7 are liquid forms, FreshVert® Creamy and Nulomoline® Congealed are high-solids forms, and Nulomoline® #11 is a partial-invert liquid form.",
+    "company_name": "Domino Specialty Ingredients",
+    "company_slug": "domino-specialty-ingredients",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708689492/production/Company/11170/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708689492/production/Company/11170/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Other Food Applications",
+            "Confectionery",
+            "Liquor & Spirits",
+            "Bakery",
+            "Convenience Foods",
+            "Cereals & Snacks",
+            "Savory & Culinary",
+            "Beverage",
+            "Food"
+        ],
+        "Product Families": [
+            "Sweeteners & Syrups",
+            "Taste & Flavor"
+        ],
+        "End Uses": [
+            "Breakfast Cereals",
+            "Ready Meals",
+            "Snacks",
+            "Sauces"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Invert Sugar"
+        ],
+        "Functions": [
+            "Nutritive Sweetener"
+        ],
+        "Labeling Claims": [
+            "Non-GMO",
+            "Clean Label"
+        ],
+        "End Uses": [
+            "Breakfast Cereals",
+            "Ready Meals",
+            "Snacks",
+            "Sauces"
+        ]
+    }
+}

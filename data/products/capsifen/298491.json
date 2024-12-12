@@ -1,0 +1,30 @@
+{
+    "id": 298491,
+    "brand": "capsifen",
+    "name": "NutriSPICE®",
+    "slug": "nutrispice",
+    "description": "NutriSPICE® is used to add spice nutrition to beverages.",
+    "company_name": "Akay Group",
+    "company_slug": "akay-group",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708690713/production/Company/23615/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606996/production/CategoryImage/508/category_image/FoodNutrition_09.jpg",
+    "properties": {
+        "Applications": [
+            "Energy Drinks",
+            "Beverage"
+        ],
+        "Product Families": [
+            "Antioxidants",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Functional Beverages"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Antioxidant"
+        ]
+    }
+}

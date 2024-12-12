@@ -1,0 +1,43 @@
+{
+    "id": 289074,
+    "brand": "mercure",
+    "name": "Mercure AHB",
+    "slug": "mercure-ahb",
+    "description": "Mercure AHB is special purpose amines accelerators which is used mainly in rubber industry.",
+    "company_name": "Merchem",
+    "company_slug": "merchem",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708673304/production/Company/22803/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608769/production/CategoryImage/577/category_image/AutomotiveTransportation_05.jpg",
+    "properties": {
+        "Applications": [
+            "Tires",
+            "Other Industrial Applications",
+            "Maintenance, Repair & Overhaul",
+            "Other Automotive & Transportation Applications",
+            "Automotive",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Catalysts, Initiators & Crosslinkers",
+            "Polymer Additives",
+            "Elastomer Additives"
+        ],
+        "Chemical Family": [
+            "Amines"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Aniline-heptaldehyde Copolymer"
+        ],
+        "Functions": [
+            "Accelerator"
+        ],
+        "CAS Number": [
+            "9003-50-3"
+        ],
+        "Chemical Family": [
+            "Amines"
+        ]
+    }
+}

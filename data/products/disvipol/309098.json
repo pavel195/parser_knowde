@@ -1,0 +1,35 @@
+{
+    "id": 309098,
+    "brand": "disvipol",
+    "name": "Disvimol 106",
+    "slug": "disvimol-106",
+    "description": "Disvimol 106 is used in picture varnishes &amp; ball point pen inks, french polish and liquid inks.",
+    "company_name": "D.S.V. Chemicals",
+    "company_slug": "d-s-v-chemicals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691742750/production/Product/309098/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609103/production/CategoryImage/595/category_image/PrintingPackaging_06.jpg",
+    "properties": {
+        "Applications": [
+            "Furniture",
+            "Stationery, Art & Office Supplies",
+            "Furniture Coatings",
+            "Wood Coatings & Finishes",
+            "Other Printing & Packaging Applications",
+            "Overprint Varnishes",
+            "Building & Construction",
+            "Industrial Coatings",
+            "Packaging Coatings"
+        ],
+        "Product Families": [
+            "Other Resins & Binders",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Rosins"
+        ],
+        "End Uses": [
+            "Varnishes"
+        ]
+    },
+    "summary": {}
+}

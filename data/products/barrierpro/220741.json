@@ -1,0 +1,54 @@
+{
+    "id": 220741,
+    "brand": "barrierpro",
+    "name": "Rovene® 4220",
+    "slug": "rovene-4220",
+    "description": "Rovene 4220 is a non-carboxylated styrene-butadiene emulsion recommended for use in formulations directed at contact or cold seal applications. Rovene 4220 can also be used in architectural adhesives including many types of flooring adhesives and special contact adhesives.\nRovene 4220 can be used as a polychloroprene and natural latex extender if properly formulated. When working with Rovene 4220, it is important to remember that it may be tackified, thickened and blended with other non- carboxylated and carboxylated emulsions. This flexibility allows for the formulation of a wide variety of adhesives with custom performance properties.",
+    "company_name": "Mallard Creek Polymers",
+    "company_slug": "mallard-creek-polymers",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708687636/production/Company/15660/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708687636/production/Company/15660/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Construction Adhesives",
+            "Pavement, Highways, Roads & Bridges",
+            "Adhesives",
+            "Building & Construction",
+            "Building Materials",
+            "Flooring & Surfaces",
+            "Infrastructure, Roads & Paving"
+        ],
+        "Product Families": [
+            "Asphalt Additives",
+            "Other Resins & Binders",
+            "Resins & Binders",
+            "Construction Chemicals"
+        ],
+        "Chemical Family": [
+            "Styrene-Butadiene Copolymer"
+        ],
+        "End Uses": [
+            "Waterborne Adhesive",
+            "Asphalt",
+            "Contact Adhesive"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Binder & Resin"
+        ],
+        "Chemical Family": [
+            "Styrene-Butadiene Copolymer"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Asphalt"
+        ],
+        "Physical Form": [
+            "Emulsion",
+            "Liquid"
+        ],
+        "Features": [
+            "Improved Flexibility"
+        ]
+    }
+}

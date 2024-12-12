@@ -1,0 +1,22 @@
+{
+    "id": 245972,
+    "brand": "ultra",
+    "name": "aramcoDURA 600",
+    "slug": "aramcodura-600",
+    "description": "aramcoDURA 600 is used in marine oil.",
+    "company_name": "S-oil",
+    "company_slug": "s-oil",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1693580021/production/Company/18056/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1693580021/production/Company/18056/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Marine Fluids & Lubricants",
+            "Lubricants & Functional Fluids"
+        ],
+        "Product Families": [
+            "API Group I",
+            "Base Stocks & Oils"
+        ]
+    },
+    "summary": {}
+}

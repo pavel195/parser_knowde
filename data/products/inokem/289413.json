@@ -1,0 +1,52 @@
+{
+    "id": 289413,
+    "brand": "inokem",
+    "name": "Inokem® UR 3308",
+    "slug": "ecoat-inokem-ur-3308",
+    "description": "Inokem® UR 3308 is a surfactant-free self-emulsified urethane modified alkyd dispersion of long oil length for air- drying water-borne industrial coatings.",
+    "company_name": "ECOAT ",
+    "company_slug": "ecoat-sas",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112172/production/Company/22780/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608630/production/CategoryImage/571/category_image/PaintingsCoatings_07.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial Coatings"
+        ],
+        "Product Families": [
+            "Resins & Binders",
+            "Alkyds"
+        ],
+        "Chemical Family": [
+            "Alkyds",
+            "Alkyds (Modified)",
+            "Alkyds (Medium Oil)"
+        ],
+        "End Uses": [
+            "Waterborne Coating",
+            "Primer"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Alkyds",
+            "Alkyds (Medium Oil)",
+            "Alkyds (Modified)"
+        ],
+        "End Uses": [
+            "Primer",
+            "Waterborne Coating"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Wood"
+        ],
+        "Features": [
+            "High Gloss",
+            "Chemical Resistance",
+            "Good Compatibility",
+            "Air Drying",
+            "High Reactivity",
+            "Water Resistance",
+            "Abrasion Resistance"
+        ]
+    }
+}

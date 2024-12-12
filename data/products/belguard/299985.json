@@ -1,0 +1,51 @@
+{
+    "id": 299985,
+    "brand": "belguard",
+    "name": "Belchem Industries SODIUM PERCARBONATE",
+    "slug": "belchem-industries-sodium-percarbonate",
+    "description": "We are the Supplier of Belchem Industries SODIUM PERCARBONATE and it is a solid, environmentally friendly and highly stable bleaching agent, which combines the properties of hydrogen peroxide and sodium carbonate and provides an excellent bleaching and oxidizing performance as well as alkalinity.",
+    "company_name": "Belchem Industries",
+    "company_slug": "belchem-industries",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708685214/production/Company/23643/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607972/production/CategoryImage/536/category_image/HomePersonalCare_02.jpg",
+    "properties": {
+        "Applications": [
+            "Surface Care",
+            "Dish Care",
+            "Commercial Laundry",
+            "Laundry & Fabric Care",
+            "Home Care",
+            "Institutional & Industrial Care"
+        ],
+        "Product Families": [
+            "Foam Control Agents",
+            "Other Functional Additives",
+            "Performance Additives",
+            "Functional Additives"
+        ],
+        "End Uses": [
+            "Bleach Cleaners",
+            "Commercial Laundry Detergents",
+            "Dishwash Detergents",
+            "Laundry Detergents",
+            "Laundry Bleach"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Bleaching Agent",
+            "Foaming Agent",
+            "Oxidizing Agent"
+        ],
+        "CAS Number": [
+            "15630-89-4"
+        ],
+        "End Uses": [
+            "Bleach Cleaners",
+            "Commercial Laundry Detergents",
+            "Laundry Bleach",
+            "Laundry Detergents",
+            "Dishwash Detergents"
+        ]
+    }
+}

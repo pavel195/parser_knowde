@@ -1,0 +1,37 @@
+{
+    "id": 375041,
+    "brand": "oleobiotec",
+    "name": "Phytozen OP®",
+    "slug": "phytozen-op",
+    "description": "Phytozen OP® is a plant extract mixture used to control an animal's appetite during times of stress.",
+    "company_name": "Probiotech International",
+    "company_slug": "probiotech-international",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708518002/production/Brand/28081/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608224/production/CategoryImage/551/category_image/AgricultureFeed_07.jpg",
+    "properties": {
+        "Applications": [
+            "Swine",
+            "Pets",
+            "Ruminants",
+            "Birds & Poultry",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Feed Supplements",
+            "Nutritional Ingredients"
+        ],
+        "Chemical Family": [
+            "Plant Extracts"
+        ]
+    },
+    "summary": {
+        "Animal Species": [
+            "Swine",
+            "Sows",
+            "Piglets"
+        ],
+        "Labeling Claims": [
+            "Organic"
+        ]
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "id": 409770,
+    "brand": "ecobond",
+    "name": "ECOBOND® LeadDefender® Pro",
+    "slug": "ecobond-leaddefender-pro",
+    "description": "ECOBOND® LeadDefender® Pro is specially formulated for professional use with patented lead treatment reagents, paint penetrators, softeners, and the best professional grade quality latex paint to penetrate, bond, seal, and treat existing lead paint applications and control airborne lead spread. Advanced human bio-accessibility reduction, acid rain and water leaching resistance, low odor, low VOC quick dry resin, excellent adhesion and paint application compatibility Use on both interior and exterior surfaces.",
+    "company_name": "ECOBOND LBP",
+    "company_slug": "ecobond-lbp",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520275/production/Brand/31754/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608477/production/CategoryImage/562/category_image/BuildingConstruction_06.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Architectural Coatings",
+            "Decorative Paints, Coatings & Stains",
+            "Building Envelope"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Latex",
+            "Other Paints & Coatings",
+            "Primers & Sealers"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Primer",
+            "Latex"
+        ],
+        "Application Method": [
+            "Roller",
+            "Brush",
+            "Spray"
+        ],
+        "Features": [
+            "High Capacity of Penetration",
+            "Acid Resistant",
+            "Good Bonding Strength",
+            "Good Adhesion",
+            "Microbe Resistant",
+            "Low Odor",
+            "Excellent Seal Properties",
+            "Outdoor Durability",
+            "Low VOC",
+            "Flame Retardant",
+            "Good Smoothness",
+            "Fast Drying",
+            "Mildew Resistant"
+        ]
+    }
+}

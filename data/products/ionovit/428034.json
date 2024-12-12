@@ -1,0 +1,23 @@
+{
+    "id": 428034,
+    "brand": "ionovit",
+    "name": "IonoVit S",
+    "slug": "ionovit-s",
+    "description": "IonoVit S is a high-performance dielectric designed for economic and fast working from an electrode diameter of 0,5 mm. It is also suitable for the processing of aluminum. Work pieces made of ferrous metals are temporarily protected from corrosion. IonoVit S is a ready-to-use product. The concentration is regulated using a hand refractometer. It is used for fast start hole drilling.",
+    "company_name": "Oelheld",
+    "company_slug": "oelheld",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1693579366/production/Brand/33950/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Equipment & Parts",
+            "Metal Manufacturing & Finishing",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Metalworking Fluids",
+            "Fluids & Lubricants"
+        ]
+    },
+    "summary": {}
+}

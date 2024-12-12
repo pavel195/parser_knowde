@@ -1,0 +1,30 @@
+{
+    "id": 249423,
+    "brand": "capsantal",
+    "name": "ORFFA VITAMIN K₃ MSB 51%",
+    "slug": "orffa-vitamin-k-msb-51",
+    "description": "Vitamin K₃ MSB 51% (menadione) this vitamin is soluble in fat and is not found in nature, K3 contributes to blood clotting and coagulation but also has a positive effect on performance and wellbeing, and the most used varieties are the MSB and MNB varieties.",
+    "company_name": "ORFFA",
+    "company_slug": "orffa",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708684373/production/Company/19236/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608224/production/CategoryImage/551/category_image/AgricultureFeed_07.jpg",
+    "properties": {
+        "Applications": [
+            "Swine",
+            "Birds & Poultry",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Vitamins",
+            "Nutritional Ingredients"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Vitamin K3"
+        ],
+        "Functions": [
+            "Vitamin Source"
+        ]
+    }
+}

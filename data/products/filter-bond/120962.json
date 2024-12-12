@@ -1,0 +1,53 @@
+{
+    "id": 120962,
+    "brand": "filter-bond",
+    "name": "Di-Pak™ E-4568",
+    "slug": "di-pak-e-4568",
+    "description": "DI-PAK E-4568A tough, REPAIRABLE, shock resistant potting compound for short and long run productions. DI-PAK E-4568 has excellent insulating properties, a very low moisture vapor transmission rate, can be operated from -60°C to +100°C, and performs in both wet and dry environments. It can be easily trimmed with a knife, making repairs quick and easy.",
+    "company_name": "Hapco Inc.",
+    "company_slug": "hapco-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708525867/production/Company/2788/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708525867/production/Company/2788/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Batteries",
+            "Battery Packaging",
+            "Switches & Relays",
+            "Jacketing & Insulation",
+            "Other Devices & Assemblies",
+            "Electrical & Electronic Systems",
+            "Automotive",
+            "Battery Materials",
+            "Devices & Assemblies",
+            "Parts & Components",
+            "Wire & Cable"
+        ],
+        "Product Families": [
+            "Polyurethanes",
+            "Thermoset Resins"
+        ],
+        "Polymer Name": [
+            "Polyurethane (unspecified)"
+        ],
+        "End Uses": [
+            "Switches",
+            "Power Cable Shields",
+            "Electrical/Electronic Applications",
+            "Battery Cases"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyurethane (unspecified)"
+        ],
+        "Processing Methods": [
+            "Potting"
+        ],
+        "End Uses": [
+            "Power Cable Shields",
+            "Switches",
+            "Electrical/Electronic Applications",
+            "Battery Cases"
+        ]
+    }
+}

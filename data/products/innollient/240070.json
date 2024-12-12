@@ -1,0 +1,102 @@
+{
+    "id": 240070,
+    "brand": "innollient",
+    "name": "Bioptimized™ Guava",
+    "slug": "bioptimized-guava",
+    "description": "<p>Bioptimized™ Guava is an exclusive anti-aging active ingredient derived from the bio-fermentation of Guava leaves, sustainably cultivated on farms on Jeju Island, South Korea, and biologically optimized with Saccharomyces lysate to enhance its biological properties. This unique biotechnology ingredient outperforms traditional Guava leaf extracts by acting on multiple pathways involved in skin cell senescence. </p><p><br></p><p>It works by blocking the activation of NFkB, the main regulator of inflammation, and, as a result, blocking the main inflammatory pathways. Bioptimized™ Guava inhibits the production of pro-inflammatory SASP factors, protecting the skin from inflammation and providing comprehensive protection against premature aging. It can be used as the main ingredient for a powerful anti-aging action or as a booster in combination with traditional anti-aging actives to enhance their efficacy. </p><p><br></p><p>Thanks to its powerful action, Bioptimized™ Guava targets cellular senescence and is a key ingredient for skincare products designed to prevent the appearance of aging signs and protect against inflamm-aging.</p>",
+    "company_name": "Innovacos Corp.",
+    "company_slug": "innovacos",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1633040604/production/Brand/15511/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,c_crop,x_0,y_10,w_480,h_150/v1722951311/production/Product/240070/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Sun Care",
+            "Color Cosmetics",
+            "Skin Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Skin Actives",
+            "Cosmetic Actives"
+        ],
+        "INCI Name": [
+            "Saccharomyces Lysate Extract",
+            "Psidium Guajava Leaf Extract"
+        ],
+        "End Uses": [
+            "Sunscreen Lotion",
+            "Facial Mask",
+            "Night Creams",
+            "Day Creams",
+            "Anti-Aging Products",
+            "Foundation",
+            "CC Cream",
+            "BB Creams",
+            "After Sun Products"
+        ],
+        "Labeling Claims": [
+            "Organic",
+            "Naturally Derived",
+            "Ulta Beauty's Conscious Beauty",
+            "Clean at Sephora",
+            "Preservative-free",
+            "Non-GMO"
+        ],
+        "Benefit Claims": [
+            "Detoxifying",
+            "After-Sun Repair",
+            "Anti-Pollution",
+            "Anti-Inflammatory",
+            "Anti-Aging",
+            "Firming",
+            "Senescence Prevention",
+            "Antioxidant Properties",
+            "Anti-Inflammaging",
+            "Improves Skin Elasticity",
+            "Reduces Skin Damage",
+            "Protection From Environmental Damage"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Saccharomyces Lysate Extract",
+            "Psidium Guajava Leaf Extract"
+        ],
+        "Functions": [
+            "Antioxidant",
+            "Anti-Aging Agent",
+            "Anti-Wrinkle Agent",
+            "Anti-Inflammatory"
+        ],
+        "Labeling Claims": [
+            "Non-GMO",
+            "Naturally Derived",
+            "Preservative-free",
+            "Clean at Sephora",
+            "Organic",
+            "Ulta Beauty's Conscious Beauty"
+        ],
+        "Benefit Claims": [
+            "Senescence Prevention",
+            "Firming",
+            "Anti-Inflammaging",
+            "Protection From Environmental Damage",
+            "Improves Skin Elasticity",
+            "Reduces Skin Damage",
+            "After-Sun Repair",
+            "Anti-Aging",
+            "Detoxifying",
+            "Anti-Pollution",
+            "Antioxidant Properties",
+            "Anti-Inflammatory"
+        ],
+        "Certifications & Compliance": [
+            "REACH (Europe)",
+            "IECIC (China)",
+            "Organic Certified",
+            "ECOCERT",
+            "RSPO Certified Sustainable Palm Oil",
+            "COSMOS"
+        ]
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "id": 398829,
+    "brand": "terratek",
+    "name": "Terratek® NF2010",
+    "slug": "terratek-nf2010",
+    "description": "Terratek® NF2010 is a proprietary blend of sisal fiber and reprocessed polypropylene for injection molding applications. NF2010 contains 30% sisal fiber by weight.",
+    "company_name": "Green Dot Bioplastics Inc",
+    "company_slug": "green-dot",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708532475/production/Company/20762/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708532475/production/Product/398829/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Interior",
+            "Sports & Recreation",
+            "Furniture",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Biodegradable Polymers",
+            "Recycled Polymers",
+            "Polyolefins",
+            "Thermoplastic Resins",
+            "Polymers & Resins",
+            "Basic Thermoplastics",
+            "Engineering & Specialty Polymers"
+        ],
+        "Chemical Family": [
+            "Polypropylenes (PP)",
+            "Polyolefins"
+        ],
+        "Polymer Name": [
+            "Polypropylene (unspecified)"
+        ],
+        "End Uses": [
+            "Hockey Stick",
+            "Surfboards",
+            "Sporting Goods",
+            "Furniture",
+            "Acoustic Barrier",
+            "Skis"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polypropylene (unspecified)"
+        ],
+        "Labeling Claims": [
+            "Bio-based",
+            "Contains PCR Resin",
+            "Sustainable",
+            "Recycled",
+            "Biodegradable"
+        ],
+        "Processing Methods": [
+            "Injection Molding"
+        ],
+        "Reinforcement Material": [
+            "Sisal Fiber"
+        ],
+        "Chemical Family": [
+            "Polypropylenes (PP)",
+            "Polyolefins"
+        ]
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "id": 94248,
+    "brand": "mibrid",
+    "name": "ALT",
+    "slug": "miyoshi-kasei-inc-alt",
+    "description": "Triethoxycaprylylsilane treated pigments offer benefits of both silicone and hydrocarbon treatments with the presence of hydrocarbon chain on silicone backbone. Alkyl Silane treated pigments have excellent dispersibility in various oils including; esters, mineral oils, plant oils and silicone fluids. The lipophilic caprylyl group offers excellent hydrophobicity and unique creamy/adhesive feel in powders and liquid formulations. It allows for good coverage onto the skin due to its affinity with sebum.",
+    "company_name": "Miyoshi America, Inc.",
+    "company_slug": "miyoshi-kasei-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704105382/production/Product/94248/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1704105382/production/Product/94248/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Color Cosmetics",
+            "Sun Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Hydrophobic Treatments",
+            "Treated Pigments & Powders",
+            "Pigments & Colorants"
+        ],
+        "Chemical Family": [
+            "Silicones",
+            "Silanes"
+        ],
+        "INCI Name": [
+            "Triethoxycaprylylsilane"
+        ],
+        "End Uses": [
+            "Lipstick",
+            "Foundation",
+            "Face Powder",
+            "Eye Shadow",
+            "CC Cream",
+            "BB Creams"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Triethoxycaprylylsilane"
+        ],
+        "Pigment Treatment Type": [
+            "Triethoxycaprylylsilane Treatment (TC) ",
+            "Silicone & Silane Treatment"
+        ],
+        "Pigment Treatment Family": [
+            "Hydrophilic Treatments",
+            "Hydrophobic Treatments"
+        ]
+    }
+}

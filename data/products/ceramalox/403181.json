@@ -1,0 +1,24 @@
+{
+    "id": 403181,
+    "brand": "ceramalox",
+    "name": "Duct-O-Seal",
+    "slug": "duct-o-seal",
+    "description": "Duct-O-Seal is a non-flammable one component sealer is a non-toxic formulation designed to adhere most substrates. Tested for all electrical cable sheathing and will not affect the conduits.",
+    "company_name": "Arjunox",
+    "company_slug": "arjunox",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1693583173/production/Brand/30809/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608422/production/CategoryImage/558/category_image/BuildingConstruction_02.jpg",
+    "properties": {
+        "Applications": [
+            "Jacketing & Insulation",
+            "Electronics Coatings",
+            "Packaging & Assembly",
+            "Wire & Cable"
+        ],
+        "Product Families": [
+            "Primers & Sealers",
+            "Paints & Coatings"
+        ]
+    },
+    "summary": {}
+}

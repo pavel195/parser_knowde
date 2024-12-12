@@ -1,0 +1,52 @@
+{
+    "id": 251349,
+    "brand": "foliaractiv",
+    "name": "L-Actipol EDTA Zn-6",
+    "slug": "l-actipol-edta-zn-6",
+    "description": "The L-Actipol EDTA Zn-6 chelate quickly and effectively responds to the plants’ actual needs. It is also very effec-tive in the period when uptake of zinc by the plant’s root system is limited (drought, inappropriate pH, low tem-peratures). Zinc chelate is designed for extra-root nutrition of plants and fertigation. It covers increased demand for zinc, especially by corn, spring and winter cereals, root plants and fruit trees and bushes.",
+    "company_name": "Arkop",
+    "company_slug": "arkop",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672844/production/Company/19265/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708672844/production/Company/19265/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Residential Pest Control",
+            "Commercial Pest Control",
+            "Agricultural Pest Control",
+            "Trees & Woodlands",
+            "Ornamentals",
+            "Vegetables",
+            "Sugar & Starch Crops",
+            "Other Agricultural Crops",
+            "Oilseeds",
+            "Nuts",
+            "Legumes",
+            "Herbs & Spice Crops",
+            "Fruits",
+            "Fodder & Forage",
+            "Fiber Crops",
+            "Cereals",
+            "Agricultural Crops",
+            "Pest Control",
+            "Turf, Ornamentals & Landscape"
+        ],
+        "Product Families": [
+            "Fertilizers & Nutrients",
+            "Plant Health, Nutrients & Soil Management"
+        ],
+        "Chemical Family": [
+            "Zinc & Zinc Compounds"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Fertilizer"
+        ],
+        "Chemical Family": [
+            "Zinc & Zinc Compounds"
+        ],
+        "Application Technique": [
+            "Sprayers"
+        ]
+    }
+}

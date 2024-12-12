@@ -1,0 +1,42 @@
+{
+    "id": 356956,
+    "brand": "marcoa",
+    "name": "Marcoa™ C7621",
+    "slug": "marcoa-c7621",
+    "description": "Marcoa™ C7621 has high OH value and compatibility. It is used in can white coating.",
+    "company_name": "Macroocean",
+    "company_slug": "macroocean",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704102069/production/Brand/26769/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608566/production/CategoryImage/566/category_image/PaintingsCoatings_02.jpg",
+    "properties": {
+        "Applications": [
+            "Can Coatings",
+            "Packaging Coatings"
+        ],
+        "Product Families": [
+            "Polyesters",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Polyesters"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Polyesters"
+        ],
+        "Glass Transition Temperature (Tg)": [
+            "23.0 - 23.0 °C"
+        ],
+        "Features": [
+            "Excellent Adhesion",
+            "Yellowing Resistance",
+            "Deep Drawing",
+            "Improved Stability",
+            "Improved Chemical Resistance",
+            "Weather Resistance",
+            "Improved Flexibility",
+            "Bacteria Resistance"
+        ]
+    }
+}

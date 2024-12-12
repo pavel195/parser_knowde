@@ -1,0 +1,52 @@
+{
+    "id": 405356,
+    "brand": "nugentec-fluosolv",
+    "name": "NuGenTec C1000 Industrial Sanitizer for Hard Surfaces",
+    "slug": "nugentec-c1000-industrial-sanitizer-for-hard-surfaces",
+    "description": "NuGenTec C1000 Industrial Sanitizer for Hard Surfaces is a disinfectant - sanitizer designed for use in food service establishments, hospitals, nursing homes, hotels, schools, athletic / recreational facilities, tanning spas, dairies and restaurants. When used as directed, C-1000 is formulated to disinfectant hard nonporous, inanimate environmental surfaces such as floors, walls, metal surfaces, stainless steel surfaces, plastic surfaces, bathrooms, shower stalls, bathtubs, tanning beds, chairs and telephones.",
+    "company_name": "NuGenTec",
+    "company_slug": "nugentec",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1682593342/production/Company/9259/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515684/production/CategoryImage/1058/category_image/HII_10.jpg",
+    "properties": {
+        "Applications": [
+            "Institutional & Industrial Care",
+            "Air Care",
+            "Surface Care",
+            "Institutional & Catering",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Commercial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Deodorizers",
+            "Cleaner",
+            "Institutional Cleaners",
+            "Sanitizers"
+        ],
+        "Application Area": [
+            "Floor",
+            "Hard Surfaces",
+            "Bathrooms",
+            "Wall",
+            "Tub"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Stainless Steel",
+            "Plastics"
+        ],
+        "Certifications & Compliance": [
+            "California Proposition 65",
+            "ISO 14001",
+            "ISO 9001"
+        ],
+        "Features": [
+            "Neutralizes Odor"
+        ]
+    }
+}

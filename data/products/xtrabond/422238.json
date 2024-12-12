@@ -1,0 +1,51 @@
+{
+    "id": 422238,
+    "brand": "xtrabond",
+    "name": "XtraFoam™ CC - Climate Control Winter Grade Foam",
+    "slug": "xtrafoam-cc-climate-control-winter-grade-foam",
+    "description": null,
+    "company_name": "Premier Building Solutions",
+    "company_slug": "premier-building-solutions",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1710999778/production/Product/422238/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608929/production/CategoryImage/584/category_image/AdhesivesSealants_01.jpg",
+    "properties": {
+        "Applications": [
+            "EIFS & Insulation",
+            "Pipes & Plumbing",
+            "Glazing & Window Elements",
+            "Building Materials",
+            "Building Envelope & Roofing"
+        ],
+        "Product Families": [
+            "Foams"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ],
+        "End Uses": [
+            "Pipes",
+            "Electrical Components",
+            "Air Conditioner Filters",
+            "Window Frames",
+            "Door Frames"
+        ]
+    },
+    "summary": {
+        "Foam Type": [
+            "Open Cell Foam"
+        ],
+        "Density": [
+            "20.031 - 27.242 kg/m³"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ],
+        "End Uses": [
+            "Door Frames",
+            "Pipes",
+            "Air Conditioner Filters",
+            "Electrical Components",
+            "Window Frames"
+        ]
+    }
+}

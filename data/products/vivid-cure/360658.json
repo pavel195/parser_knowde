@@ -1,0 +1,47 @@
+{
+    "id": 360658,
+    "brand": "vivid-cure",
+    "name": "HumiSeal® 1B31 LTX",
+    "slug": "humiseal-1b31-ltx",
+    "description": "HumiSeal® 1B31 LTX is a fast drying, single component acrylic conformal coating, specifically designed to protect against the effects of moisture, corrosive environments and dirt. It is specially formulated with reduced xylene and toluene concentration to be fully compliant with GB30981-2020*. Humiseal 1B31 LTX is available in a range of preblends, which are formulated for use with no further dilution.",
+    "company_name": "Chase Corporation",
+    "company_slug": "chase-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520471/production/Brand/26943/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608630/production/CategoryImage/571/category_image/PaintingsCoatings_07.jpg",
+    "properties": {
+        "Applications": [
+            "Packaging & Assembly",
+            "Electronics Coatings"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ],
+        "End Uses": [
+            "Conformal Coating"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "1K (1 component) Coating",
+            "Conformal Coating"
+        ],
+        "Features": [
+            "Conformable",
+            "Corrosion Resistant",
+            "Excellent Moisture Resistance",
+            "Fast Cure",
+            "Fast Drying",
+            "Low Permeability"
+        ],
+        "Application Area": [
+            "Printed Electronics"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    }
+}

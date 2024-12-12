@@ -1,0 +1,37 @@
+{
+    "id": 332072,
+    "brand": "entero-chronic",
+    "name": "Nucleoforce Dogs™",
+    "slug": "nucleoforce-dogs",
+    "description": "Nucleoforce Dogs™ is a balanced concentrate of free nucleotides and active precursors, obtained from yeasts. The exclusive composition of Nucleoforce Dogs™ has been designed to precisely and specifically meet the needs of dogs (puppies and adults).",
+    "company_name": "Bioiberica",
+    "company_slug": "bioiberica",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708686809/production/Brand/24354/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608173/production/CategoryImage/547/category_image/AgricultureFeed_03.jpg",
+    "properties": {
+        "Applications": [
+            "Pets",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Immunomodulators",
+            "Health & Well-Being"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Yeast Extract"
+        ],
+        "Functions": [
+            "Immunomodulator"
+        ],
+        "Animal Species": [
+            "Pets",
+            "Dogs"
+        ],
+        "Features": [
+            "Improves Immunity",
+            "Improves Digestability & Intestinal Health"
+        ]
+    }
+}

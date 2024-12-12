@@ -1,0 +1,63 @@
+{
+    "id": 413587,
+    "brand": "hdk",
+    "name": "ELASTOSIL® LR 3005/50 A/B",
+    "slug": "elastosil-lr-3005-50-a-b",
+    "description": "ELASTOSIL® LR 3005/50 A/B is a liquid silicone rubber of the ELASTOSIL® LR 3005 series. It is a paste-like, easily pigmentable, two-component compound with short curing times. The vulcanizates of this product are renowned for their high transparency as well as their exceptional mechanical and electrical properties. Due to the excellent compression set, there is no need to post-cure technical parts.",
+    "company_name": "Wacker Chemie AG",
+    "company_slug": "wacker-chemie-ag",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1713789661/production/Company/55284/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1713789661/production/Company/55284/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Batteries",
+            "Equipment & Parts",
+            "Interior",
+            "Automotive",
+            "Parts & Components",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Silicone Elastomers",
+            "Specialty Elastomers"
+        ],
+        "Chemical Family": [
+            "Silicones"
+        ],
+        "Polymer Name": [
+            "Liquid Silicone Rubber (LSR)"
+        ],
+        "End Uses": [
+            "Vibration Dampers",
+            "Automobile Door Seals",
+            "Batteries"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Liquid Silicone Rubber (LSR)"
+        ],
+        "Processing Methods": [
+            "Injection Molding"
+        ],
+        "End Uses": [
+            "Automobile Door Seals",
+            "Vibration Dampers",
+            "Batteries"
+        ],
+        "Features": [
+            "Pigmentable",
+            "Low VOC",
+            "Cost Effective",
+            "Good Electrical Properties",
+            "Good Mechanical Properties",
+            "Low Compression Set",
+            "Heat Stabilized",
+            "Low Volatility",
+            "Fast Curing"
+        ],
+        "Tear Strength": [
+            "24.0 - 24.0 kN/m"
+        ]
+    }
+}

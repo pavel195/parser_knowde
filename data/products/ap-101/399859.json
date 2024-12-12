@@ -1,0 +1,44 @@
+{
+    "id": 399859,
+    "brand": "ap-101",
+    "name": "Shurtape Technologies DP 380",
+    "slug": "shurtape-technologies-dp-380",
+    "description": "Shurtape Technologies DP 380 is used for mounting banners, light signs, window blinds, emblems and nameplates.",
+    "company_name": "Shurtape Technologies",
+    "company_slug": "shurtape-technologies",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520178/production/Company/50464/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608982/production/CategoryImage/589/category_image/AdhesivesSealants_06.jpg",
+    "properties": {
+        "Applications": [
+            "Tapes & Labels",
+            "Infrastructure, Roads & Paving",
+            "Tapes, Labels & Adhesives",
+            "Other Infrastructure Applications"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Pressure Sensitive Adhesives & Tapes"
+        ],
+        "Chemical Family": [
+            "Polyesters"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Double Coated Foam Tape"
+        ],
+        "Application Area": [
+            "Signage"
+        ],
+        "Chemical Family": [
+            "Polyesters"
+        ],
+        "Features": [
+            "Conformable",
+            "Moisture Resistant",
+            "Improved Shear Stability",
+            "General Purpose",
+            "Good Adhesion"
+        ]
+    }
+}

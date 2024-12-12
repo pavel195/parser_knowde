@@ -1,0 +1,45 @@
+{
+    "id": 409409,
+    "brand": "thurmalox",
+    "name": "Apexior® Number 3C",
+    "slug": "apexior-number-3c",
+    "description": "Apexior® Number 3C is a VOC compliant, single component, easy to apply air cure coating specifically formulated for the waterside corrosion prevention of metal surfaces. It has outstanding wetting properties and adheres well to power-tooled cleaned areas. Apexior Number 3C is resistant to continuous immersion in fresh or salt water as well as frequently wet or high humidity environments. Apexior Number 3C prevents pitting corrosion and stops corrosion which has already begun - except for badly pitted areas. It aids in the reduction and prevention of tight bonding of hard scale and allows for easy cleaning and removal of scale buildup. Apexior Number 3C performs ideally with water treatment.",
+    "company_name": "Dampney Company, Inc.",
+    "company_slug": "dampney-company-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680108903/production/Brand/31723/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608585/production/CategoryImage/567/category_image/PaintingsCoatings_03.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial Coatings",
+            "Chemical & Industrial Manufacturing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "1K (1 component) Coating"
+        ],
+        "Features": [
+            "Water Resistant",
+            "Excellent Wetting Behaviour",
+            "Low VOC",
+            "Salt Water/Spray Resistant"
+        ],
+        "Application Area": [
+            "Tanks"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Steel",
+            "Carbon Steel"
+        ],
+        "Application Method": [
+            "Spray",
+            "Brush"
+        ]
+    }
+}

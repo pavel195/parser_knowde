@@ -1,0 +1,51 @@
+{
+    "id": 324679,
+    "brand": "quickstar",
+    "name": "PacaPol™ F250",
+    "slug": "pacapol-f250",
+    "description": "Pacapol™ F250 is slightly branched polyol to improve flexibility and adhesion. Excellent for urethane primers, base coats or primerless topcoats.",
+    "company_name": "Instrumental Polymer Technologies",
+    "company_slug": "instrumental-polymer-technologies",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686148452/production/Brand/23182/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608630/production/CategoryImage/571/category_image/PaintingsCoatings_07.jpg",
+    "properties": {
+        "Applications": [
+            "Packaging Coatings",
+            "Primers & Lacquers",
+            "Other Adhesives & Sealants Applications",
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Monomers & Intermediates",
+            "Prepolymers & Polyols"
+        ],
+        "Chemical Family": [
+            "Polyols"
+        ],
+        "End Uses": [
+            "Solventborne Coating",
+            "Top Coat",
+            "Base Coat"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Polyols"
+        ],
+        "End Uses": [
+            "Solventborne Coating",
+            "Base Coat",
+            "Top Coat"
+        ],
+        "Viscosity": [
+            "5000.0 - 5000.0 cps"
+        ],
+        "Features": [
+            "Improves Adhesion",
+            "Improved Flexibility",
+            "Primerless",
+            "Water Resistance",
+            "Excellent Adhesion"
+        ]
+    }
+}

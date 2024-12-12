@@ -1,0 +1,57 @@
+{
+    "id": 406911,
+    "brand": "chem-tex",
+    "name": "CHEM-THANE DCP RR",
+    "slug": "chem-thane-dcp-rr",
+    "description": "CHEM-THANE DCP RR is a fast curing, two component aliphatic polyaspartic polyurea topcoat. It has superior color and gloss retention and meets or exceeds SSPC Paint Specifications 36, 38 and 39 Level 3 weathering performance requirements.",
+    "company_name": "Indmar Coatings",
+    "company_slug": "indmar-coatings",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520249/production/Brand/31366/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608600/production/CategoryImage/568/category_image/PaintingsCoatings_04.jpg",
+    "properties": {
+        "Applications": [
+            "Coatings & Finishes",
+            "Rail & Mass Transit",
+            "Rail & Mass Transit Coatings",
+            "Transportation"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Top Coats"
+        ],
+        "Chemical Family": [
+            "Polyureas",
+            "Aliphatics"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "2K (2 component) Coating",
+            "Top Coat"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal"
+        ],
+        "Features": [
+            "Matte Gloss Capable",
+            "High Gloss",
+            "Abrasion Resistant",
+            "Long Potlife",
+            "Impact Resistance",
+            "Fast Curing",
+            "Non Corrosive",
+            "Excellent Gloss Retention",
+            "Low Temperature Curing",
+            "Chemical Resistant"
+        ],
+        "Application Method": [
+            "Roller",
+            "Brush",
+            "Spray"
+        ],
+        "Chemical Family": [
+            "Aliphatics",
+            "Polyureas"
+        ]
+    }
+}

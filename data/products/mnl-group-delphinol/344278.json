@@ -1,0 +1,42 @@
+{
+    "id": 344278,
+    "brand": "mnl-group-delphinol",
+    "name": "Maqui NECTAR",
+    "slug": "maqui-nectar",
+    "description": "Maqui NECTAR is a new ingredient to be added to drinks and juices. 100g of MaquiNECTAR contains 1,000 mg of high-value purple anthocyanins, a water-soluble pigment called delphinidins. MaquiNECTAR is not a juice concentrate. It is a nectar with low sugar content and a high content of fiber.",
+    "company_name": "MNL group",
+    "company_slug": "mnl-group",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686104919/production/Brand/25611/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606846/production/CategoryImage/500/category_image/FoodNutrition_01.jpg",
+    "properties": {
+        "Applications": [
+            "Beverage",
+            "Nutrition & Well Being",
+            "Nutraceuticals & Supplements",
+            "Juice & Juice Drinks"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Fruit Products & Extracts"
+        ],
+        "End Uses": [
+            "Juices",
+            "Nectars"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Maqui Berry"
+        ],
+        "Physical Form": [
+            "Liquid"
+        ],
+        "Labeling Claims": [
+            "Plant-Based",
+            "Naturally Derived"
+        ],
+        "Features": [
+            "Low in Sugars"
+        ]
+    }
+}

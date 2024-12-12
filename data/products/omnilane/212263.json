@@ -1,0 +1,42 @@
+{
+    "id": 212263,
+    "brand": "omnilane",
+    "name": "Omnistab IN 520",
+    "slug": "omnistab-in-520",
+    "description": "Omnistab IN 520 is an effective liquid polymerization inhibitor or storage stabilizer for photosensitive resins and monomers. It retards the self-polymerization of UV-coating and ink formulations during storage.",
+    "company_name": "IGM Resins",
+    "company_slug": "igm-resins",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708684154/production/Company/7406/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608939/production/CategoryImage/585/category_image/AdhesivesSealants_02.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial Manufacturing",
+            "Furniture Adhesives",
+            "Industrial Adhesives & Sealants",
+            "Furniture",
+            "Stationery, Art & Office Supplies",
+            "Appliances & Electronics",
+            "Metal Coatings",
+            "Wood Coatings & Finishes",
+            "Industrial Coatings",
+            "Industrial & Assembly Adhesives",
+            "Chemical & Industrial Manufacturing",
+            "Building & Construction"
+        ],
+        "Product Families": [
+            "Functional Additives",
+            "Additives"
+        ],
+        "End Uses": [
+            "Waterborne Coating"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Polymerization Inhibitor"
+        ],
+        "End Uses": [
+            "Waterborne Coating"
+        ]
+    }
+}

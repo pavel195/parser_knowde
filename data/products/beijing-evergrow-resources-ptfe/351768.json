@@ -1,0 +1,58 @@
+{
+    "id": 351768,
+    "brand": "beijing-evergrow-resources-ptfe",
+    "name": "Beijing Evergrow Resources PVDF SHEET",
+    "slug": "beijing-evergrow-resources-pvdf-sheet",
+    "description": "Beijing Evergrow Resources PVDF SHEET sheet has the good corrosion resistance ; good mechanical properties; good thermal and electrical properties and good aging resistance ,it's widely used in petrochemical , metallurgy,food,paper ,textiles,semi-conductor,mechical engineering,medcine,nuclear insdustries. and PVDF sheet back with glass fiber can as the good lining materials used in Cheimal popes and tanks.",
+    "company_name": "Beijing Evergrow Resources",
+    "company_slug": "beijing-evergrow-resources",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691740744/production/Company/38231/logo/image",
+    "banner_url": "https://static.knowde.com/card-banners/knowde-card-for-raw-materials-8.jpg",
+    "properties": {
+        "Applications": [
+            "Healthcare Packaging",
+            "Textile Manufacturing",
+            "Wallcoverings & Decorative Laminates",
+            "Food & Beverage Packaging",
+            "Industrial & Transport Packaging",
+            "Other Packaging & Assembly Applications",
+            "Semiconductor Manufacturing",
+            "Other Medical Applications",
+            "Power & Utilities",
+            "Other Textile Applications",
+            "Housewares",
+            "Wallcovering & Decorative Laminates",
+            "Equipment & Parts",
+            "Pipes & Plumbing",
+            "Building Materials",
+            "Flooring & Surfaces",
+            "Packaging & Assembly",
+            "Parts & Components",
+            "Medical",
+            "Power, Water & Utilities",
+            "Textiles & Nonwovens",
+            "Packaging",
+            "Decorative Materials & Finishes",
+            "Leather & Textiles",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Vinyls, Vinylics & Vinyl Derivatives"
+        ],
+        "Polymer Name": [
+            "Polyvinylidene Fluoride (PVDF)"
+        ],
+        "End Uses": [
+            "Semiconductor Applications",
+            "Tanks",
+            "Piping",
+            "Nuclear Power Applications",
+            "Medical/Healthcare Applications",
+            "Containers"
+        ]
+    },
+    "summary": {}
+}

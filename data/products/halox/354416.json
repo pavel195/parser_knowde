@@ -1,0 +1,70 @@
+{
+    "id": 354416,
+    "brand": "halox",
+    "name": "HALOX® CW-314",
+    "slug": "halox-cw-314",
+    "description": "HALOX® CW-314 is a heavy metal-free, non-toxic, anti-corrosive pigment designed for use in waterborne and solvent-borne protective coating systems. It is particularly suitable for systems where 21 CFR 175.300 approval or compliance with ANSI or NSF standards is required. HALOX® CW-314 is highly effective in improving the infrared (IR) reflectance and thermal emissivity of elastomeric roof coatings. It enhances the total solar reflectance (TSR) while maintaining dirt pick-up resistance (DPUR) and preventing mildew growth. It can be used alone or in combination with other non-toxic corrosion inhibitors and mineral pigments in the formulation of environmentally friendly specialty paints.",
+    "company_name": "ICL Phosphate Specialty - HALOX®",
+    "company_slug": "icl-halox",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1710309170/production/Company/36458/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1710309170/production/Brand/26401/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Vehicle Refinish",
+            "Architectural Coatings",
+            "Automotive OEM Coatings",
+            "Industrial Maintenance",
+            "Agricultural & Construction Equipment",
+            "Industrial Coatings",
+            "Metal Coatings",
+            "Coil Coatings",
+            "Coatings & Finishes",
+            "Building Envelope",
+            "Automotive & Transportation",
+            "Building & Construction",
+            "Building Envelope & Roofing"
+        ],
+        "Product Families": [
+            "Inorganic Pigments",
+            "Corrosion Inhibiting Pigments",
+            "Functional Pigments",
+            "Functional Additives",
+            "Additives",
+            "Pigments & Colorants",
+            "Color Pigments"
+        ],
+        "Chemical Family": [
+            "Calcium & Calcium Compounds",
+            "Phosphates"
+        ],
+        "End Uses": [
+            "Coil Coating",
+            "Powder Coating",
+            "Primer",
+            "Solventborne Coating",
+            "2K (2 component) Coating",
+            "Waterborne Coating"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Pigment",
+            "Corrosion Inhibitor"
+        ],
+        "Chemical Family": [
+            "Calcium & Calcium Compounds",
+            "Phosphates"
+        ],
+        "Pigment Type": [
+            "Inorganic Pigments"
+        ],
+        "Labeling Claims": [
+            "Heavy Metal-free",
+            "Non-Toxic"
+        ],
+        "Compatible Polymers & Resins": [
+            "Epoxies (EP)",
+            "Alkyds"
+        ]
+    }
+}

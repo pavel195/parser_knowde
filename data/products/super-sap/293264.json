@@ -1,0 +1,57 @@
+{
+    "id": 293264,
+    "brand": "super-sap",
+    "name": "SUPER SAP® CLR/CLS",
+    "slug": "super-sap-clr-cls",
+    "description": "Super SAP® CLR/CLS is our flagship, high-performance, clear-coating epoxy system. A Super Sap® Formulation, the CLR system is a water-clear, UV-stabilized epoxy system for laminations and coatings that require a low-color, low-yellowing epoxy such as high-colorwork applications. This system features a quick air-release and world-class UV resistance package. CLR works with multiple hardeners to match your working parameters. It has an ideal viscosity for a wide range of applications that use hand layup techniques with fast, room-temperature cures.",
+    "company_name": "Entropy Resins",
+    "company_slug": "entropy-resins",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708518454/production/Company/23198/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608422/production/CategoryImage/558/category_image/BuildingConstruction_02.jpg",
+    "properties": {
+        "Applications": [
+            "Sealants & Caulks",
+            "Other Paints & Coatings Applications",
+            "Other Adhesives & Sealants Applications",
+            "Marine Coatings",
+            "Marine",
+            "Building & Construction",
+            "Coatings & Finishes",
+            "Transportation",
+            "Building Materials",
+            "Construction Chemicals",
+            "Roofing",
+            "Automotive & Transportation"
+        ],
+        "Product Families": [
+            "Epoxies",
+            "Thermoset Resins",
+            "Resins & Binders",
+            "Polymers & Resins"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives",
+            "Aliphatic Epoxy Resins"
+        ],
+        "Polymer Name": [
+            "Epoxy Resins & Compounds"
+        ],
+        "End Uses": [
+            "Epoxy Sealant",
+            "Epoxy Adhesive",
+            "2K (2 Component) Adhesive",
+            "2K (2 component) Coating",
+            "Clearcoat",
+            "Epoxy Coating"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Epoxy Resins & Compounds"
+        ],
+        "Chemical Family": [
+            "Aliphatic Epoxy Resins",
+            "Epoxy & Epoxy Derivatives"
+        ]
+    }
+}

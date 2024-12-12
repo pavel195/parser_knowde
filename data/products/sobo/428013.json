@@ -1,0 +1,38 @@
+{
+    "id": 428013,
+    "brand": "sobo",
+    "name": "Sobo QF",
+    "slug": "sobo-qf",
+    "description": "Sobo QF is a degreaser that both removes malodours caused by spilt cutting oils and a degreaser that quickly removes machine coolant, lube oil stains and spills from factory floors.",
+    "company_name": "Oil Technics",
+    "company_slug": "oil-technics",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292938/production/Brand/33946/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515684/production/CategoryImage/1058/category_image/HII_10.jpg",
+    "properties": {
+        "Applications": [
+            "Home Care",
+            "Institutional & Industrial Care",
+            "Surface Care",
+            "Industrial Cleaning"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Industrial Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Degreasers",
+            "Cleaner",
+            "Deodorizers"
+        ],
+        "Application Areas": [
+            "Floor"
+        ],
+        "Features": [
+            "Neutralizes Odor",
+            "Degreasing",
+            "Stain Removing"
+        ]
+    }
+}

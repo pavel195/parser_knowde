@@ -1,0 +1,42 @@
+{
+    "id": 321590,
+    "brand": "spersestab",
+    "name": "SperseStab™ 5153",
+    "slug": "spersestab-5153",
+    "description": "SperseStab™ 5153 is a mid-weight hindered amine light stabilizer with excellent permanence and compatibility with various filled systems, including carbon black, talc, CaCO3, Mg(OH)2, and others. This cost-effective product is ideal for roofing membranes, exterior packaging, and machine parts. The use of filled systems is becoming increasingly popular due to their structural, economic, and processing advantages. SperseStab™ 5153 can be used alone or in combination with other additives, including antioxidants, hindered amine light stabilizers, and UV absorbers. Other potential applications include filled nylon systems with SperseStab™ 5153 alone or in conjunction with other antioxidants.",
+    "company_name": "Interspersal, Inc",
+    "company_slug": "interspersal",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708684136/production/Brand/22915/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708684136/production/Company/30781/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Fence, Decks & Rails",
+            "Pipes & Plumbing",
+            "Equipment & Parts",
+            "Other Packaging Materials",
+            "Building Materials",
+            "Chemical & Industrial Manufacturing",
+            "Packaging"
+        ],
+        "Product Families": [
+            "Antioxidants & Stabilizers",
+            "Polymer Additives"
+        ],
+        "End Uses": [
+            "Containers",
+            "Pipes",
+            "Machine/Mechanical Parts"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Stabilizer",
+            "Light Stabilizer"
+        ],
+        "End Uses": [
+            "Containers",
+            "Pipes",
+            "Machine/Mechanical Parts"
+        ]
+    }
+}

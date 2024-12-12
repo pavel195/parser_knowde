@@ -1,0 +1,62 @@
+{
+    "id": 191330,
+    "brand": "alphawave",
+    "name": "SFB®",
+    "slug": "ethical-naturals-inc-sfb",
+    "description": "SFB® (Standardized Fruit Blend) antioxidant fruit powder is derived from concentrated extracts of fruits and berries that are naturally high in polyphenol and antioxidant compounds: Grape, Cranberry, Blueberry, Pomegranate, Apple, Blackberry, Raspberry and Strawberry.",
+    "company_name": "Ethical Naturals, Inc.",
+    "company_slug": "ethical-naturals-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708691712/production/Brand/22264/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708691712/production/Product/191330/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Other Non-Alcoholic Beverages",
+            "Tea, Cocoa & Coffee",
+            "Functional Foods",
+            "Dairy",
+            "Sports Nutrition",
+            "Sports Drinks",
+            "Juice & Juice Drinks",
+            "Carbonated Drinks",
+            "Nutraceuticals & Supplements",
+            "Beverage",
+            "Food",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Antioxidants",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Sports Nutrition",
+            "Sports Drinks",
+            "RTD Nutrition Formulas",
+            "Smoothies",
+            "Carbonated Drinks",
+            "Tea",
+            "Juices",
+            "Dietary Supplements"
+        ]
+    },
+    "summary": {
+        "Labeling Claims": [
+            "No Added Sugar"
+        ],
+        "Functions": [
+            "Antioxidant"
+        ],
+        "Physical Form": [
+            "Powder"
+        ],
+        "Benefit Claims (Health)": [
+            "Cardioprotective",
+            "Antioxidant Properties"
+        ],
+        "Features": [
+            "Solubilizing",
+            "Cardiovascular Protection",
+            "Antioxidant Properties"
+        ]
+    }
+}

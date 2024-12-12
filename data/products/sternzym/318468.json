@@ -1,0 +1,41 @@
+{
+    "id": 318468,
+    "brand": "sternzym",
+    "name": "Sweetase L",
+    "slug": "sweetase-l",
+    "description": "Sweetase L is a Liquid enzyme preparation with invertase activity",
+    "company_name": "SternEnzym GmbH & Co. KG",
+    "company_slug": "sternenzym-gmbh-co-kg",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708691255/production/Product/318468/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708691255/production/Product/318468/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Confectionery",
+            "Food"
+        ],
+        "Product Families": [
+            "Processing Aids",
+            "Enzymes & Starter Cultures",
+            "Functional Additives"
+        ],
+        "Chemical Family": [
+            "Enzymes"
+        ],
+        "End Uses": [
+            "Confectionery Products",
+            "Chocolates"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Invertase"
+        ],
+        "Functions": [
+            "Enzyme"
+        ],
+        "End Uses": [
+            "Confectionery Products",
+            "Chocolates"
+        ]
+    }
+}

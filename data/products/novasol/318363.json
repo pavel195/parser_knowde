@@ -1,0 +1,71 @@
+{
+    "id": 318363,
+    "brand": "novasol",
+    "name": "NovaSOL® Q10, 5%",
+    "slug": "novasol-q10-5",
+    "description": "NovaSOL® Q10, 5% is a coenzyme Q10 (Ubiquinone) used in food, cosmetics and supplements",
+    "company_name": "AQUANOVA AG",
+    "company_slug": "aquanova-ag",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708698856/production/Product/318363/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708698856/production/Product/318363/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Oral",
+            "Other Non-Alcoholic Beverages",
+            "Nutraceuticals & Supplements",
+            "Powdered Beverages",
+            "Beverage",
+            "Nutrition & Well Being",
+            "Drug Delivery & Care Solutions"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Antioxidants",
+            "Antioxidants & Preservatives",
+            "Functionals",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "INCI Name": [
+            "Ubiquinone"
+        ],
+        "End Uses": [
+            "Powdered Beverages",
+            "Dietary Supplements"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Ubiquinone"
+        ],
+        "Ingredient Name": [
+            "Coenzyme Q10"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin"
+        ],
+        "Functions": [
+            "Dietary Supplement",
+            "Antioxidant",
+            "Supplement"
+        ],
+        "Labeling Claims": [
+            "Halal",
+            "Natural",
+            "Clean at Sephora",
+            "Credo Clean Standard",
+            "Kosher",
+            "Naturally Derived",
+            "Ulta Beauty's Conscious Beauty"
+        ],
+        "Certifications & Compliance": [
+            "Halal",
+            "ISO 22000",
+            "FSSC 22000",
+            "GMP",
+            "Kosher",
+            "Generally Recognized As Safe (GRAS)"
+        ]
+    }
+}

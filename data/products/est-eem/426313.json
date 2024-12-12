@@ -1,0 +1,47 @@
+{
+    "id": 426313,
+    "brand": "est-eem",
+    "name": "E.M.C.™ Plus",
+    "slug": "e-m-c-plus",
+    "description": "Evans Vanodine International E.M.C.™ Plus is an all-purpose cleaner and degreaser. It is a heavy-duty alkaline cleaner and degreaser. It rapidly removes grease, dirt and heavy soiling.",
+    "company_name": "Evans Vanodine International Plc",
+    "company_slug": "evans-vanodine-international-plc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664293015/production/Brand/33747/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515602/production/CategoryImage/1051/category_image/HII_03.jpg",
+    "properties": {
+        "Applications": [
+            "Surface Care",
+            "Industrial Cleaning",
+            "Institutional & Catering",
+            "Food & Beverage Manufacturing",
+            "Food Facility Cleaning & Sanitization",
+            "Processing & Packaging",
+            "Institutional & Industrial Care",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Commercial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Degreasers",
+            "Multipurpose Cleaners",
+            "Alkaline Cleaners"
+        ],
+        "Application Areas": [
+            "Floor",
+            "Kitchen"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Elastomers & Rubbers",
+            "Concrete"
+        ],
+        "Features": [
+            "Effective Soil Removal",
+            "Degreasing",
+            "Biodegradable"
+        ]
+    }
+}

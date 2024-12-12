@@ -1,0 +1,39 @@
+{
+    "id": 370211,
+    "brand": "vocafil",
+    "name": "Vocaflex",
+    "slug": "vocaflex",
+    "description": "Vocaflex contains 1,2-propanediol, which means it contains VOCs. APEO additive-free, binder-free, non-ionic and/or anionic additives",
+    "company_name": "ARICHEMIE",
+    "company_slug": "arichemie",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708525492/production/Brand/27567/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608621/production/CategoryImage/570/category_image/PaintingsCoatings_06.jpg",
+    "properties": {
+        "Applications": [
+            "Leather Manufacturing",
+            "Textile Manufacturing",
+            "Film & Foil Coatings",
+            "Other Printing Applications",
+            "Other Paints & Coatings Applications",
+            "Other Leather Applications",
+            "Leather",
+            "Packaging Coatings",
+            "Printing & Inks",
+            "Leather & Textiles"
+        ],
+        "Product Families": [
+            "Dispersions & Masterbatches",
+            "Pigments & Colorants"
+        ],
+        "End Uses": [
+            "Lacquers",
+            "Waterborne Coating"
+        ]
+    },
+    "summary": {
+        "End Uses": [
+            "Waterborne Coating",
+            "Lacquers"
+        ]
+    }
+}

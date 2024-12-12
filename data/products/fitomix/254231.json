@@ -1,0 +1,39 @@
+{
+    "id": 254231,
+    "brand": "fitomix",
+    "name": "Kolirex™ CP",
+    "slug": "kolirex-cp",
+    "description": "Kolirex™ CP is For the treatment of white must during the alcoholic fermentation, Kolirex CP is used for the elimination of oxidative polyphenols and to increase protein stability.",
+    "company_name": "Dal Cin Gildo Spa",
+    "company_slug": "dal-cin-gildo-spa",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708688187/production/Company/19798/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708688187/production/Company/19798/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Oenology",
+            "Beverage"
+        ],
+        "Product Families": [
+            "Processing Aids",
+            "Functional Additives"
+        ],
+        "End Uses": [
+            "Wine"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Clarifier"
+        ],
+        "Physical Form": [
+            "Solid",
+            "Pellets"
+        ],
+        "End Uses": [
+            "Wine"
+        ],
+        "Labeling Claims": [
+            "Non-GMO"
+        ]
+    }
+}

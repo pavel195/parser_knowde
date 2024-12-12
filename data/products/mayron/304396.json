@@ -1,0 +1,35 @@
+{
+    "id": 304396,
+    "brand": "mayron",
+    "name": "MAYRON® MW333 U",
+    "slug": "mayron-mw333-u",
+    "description": "MAYRON® MW333 U is Polycarbonate (PC) grade product.",
+    "company_name": "Metro Wealth Polymer",
+    "company_slug": "metro-wealth-polymer",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691744382/production/Company/13674/logo/image",
+    "banner_url": "https://static.knowde.com/card-banners/knowde-card-for-raw-materials-8.jpg",
+    "properties": {
+        "Applications": [
+            "Other Printing & Packaging Applications",
+            "Other Electrical & Electronics Applications",
+            "Other Consumer Goods Applications",
+            "Other Building & Construction Applications",
+            "Other Automotive & Transportation Applications"
+        ],
+        "Product Families": [
+            "Polycarbonates",
+            "Engineering & Specialty Polymers"
+        ],
+        "Chemical Family": [
+            "Polycarbonate (PC)"
+        ],
+        "Polymer Name": [
+            "Polycarbonate (PC)"
+        ]
+    },
+    "summary": {
+        "Flexural Modulus": [
+            "2138.85 - 2597.0 MPa"
+        ]
+    }
+}

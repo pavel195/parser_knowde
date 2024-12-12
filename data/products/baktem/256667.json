@@ -1,0 +1,48 @@
+{
+    "id": 256667,
+    "brand": "baktem",
+    "name": "Bakels Ovalett",
+    "slug": "bakels-ovalett",
+    "description": "Bakels Ovalett is a high performance, vegetable based gel form sponge emulsifier and stabilizer. Suitable for the “all-in method” of sponge batter production.Ovalett has been a chosen ingredient for bakers for many years.",
+    "company_name": "Bakels",
+    "company_slug": "bakels",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1720783197/production/Company/19673/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1720783197/production/Company/19673/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Convenience Foods",
+            "Bakery",
+            "Food"
+        ],
+        "Product Families": [
+            "Stabilizers",
+            "Emulsifiers",
+            "Texture & Consistency"
+        ],
+        "End Uses": [
+            "Food Batters",
+            "Rolls",
+            "Cakes"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Stabilizer",
+            "Emulsifier"
+        ],
+        "Labeling Claims": [
+            "Vegetarian",
+            "Vegan",
+            "Halal"
+        ],
+        "Physical Form": [
+            "Paste"
+        ],
+        "Features": [
+            "Batter Aeration",
+            "Batter Strength",
+            "Batter Stability",
+            "High Quality"
+        ]
+    }
+}

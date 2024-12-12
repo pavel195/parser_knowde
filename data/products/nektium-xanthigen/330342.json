@@ -1,0 +1,45 @@
+{
+    "id": 330342,
+    "brand": "nektium-xanthigen",
+    "name": "Nektium Ajuga",
+    "slug": "nektium-ajuga",
+    "description": "Nektium Ajuga has been used as a generic, specifically to treat heart diseases, muscle and stomach aches. It is taken as a diuretic, and for inflammatory diseases and infections. Our Ajuga extract is made from Ajuga turkestanica standardized to 2% total ecdysteroids. Publications indicate anabolic properties, protection of bone and joint degeneration, neuronal signaling as well as anti-microbial effects.",
+    "company_name": "Nektium",
+    "company_slug": "nektium",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686109214/production/Company/32644/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606914/production/CategoryImage/502/category_image/FoodNutrition_03.jpg",
+    "properties": {
+        "Applications": [
+            "Nutrition & Well Being",
+            "Sports Nutrition"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Plant & Herb Products & Extracts"
+        ],
+        "End Uses": [
+            "Sports Nutrition"
+        ]
+    },
+    "summary": {
+        "Physical Form": [
+            "Solid",
+            "Powder"
+        ],
+        "Labeling Claims": [
+            "Kosher",
+            "Plant-Based",
+            "Allergen-free",
+            "GMO-free",
+            "Naturally Derived",
+            "BSE-free",
+            "TSE-free"
+        ],
+        "Certifications & Compliance": [
+            "Kosher"
+        ],
+        "Features": [
+            "Antimicrobial"
+        ]
+    }
+}

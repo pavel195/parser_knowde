@@ -1,0 +1,55 @@
+{
+    "id": 402408,
+    "brand": "tripoxy",
+    "name": "Triangle Coatings Epoxy Acrylic DTM",
+    "slug": "triangle-coatings-epoxy-acrylic-dtm",
+    "description": "Triangle Coatings Epoxy Acrylic DTM is a two-component water-based epoxy acrylic primer/finish that is intended for direct-to-metal applications over properly prepared surfaces. It dries to a tough finish that is extremely durable and performs well. Epoxy Acrylic DTM is a rust-inhibiting coating with a high build.",
+    "company_name": "Triangle Coatings",
+    "company_slug": "triangle-coatings",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680108855/production/Company/31103/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608621/production/CategoryImage/570/category_image/PaintingsCoatings_06.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial Coatings",
+            "Marine",
+            "Decorative Materials & Finishes",
+            "Decorative Paints, Coatings & Stains",
+            "Chemical & Industrial Manufacturing",
+            "Transportation",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Waterborne Coating",
+            "2K (2 component) Coating"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Steel"
+        ],
+        "Features": [
+            "Good Toughness",
+            "High Durability",
+            "Corrosion Resistant",
+            "Low Odor",
+            "Water-based",
+            "Low VOC"
+        ],
+        "Application Method": [
+            "Roll Coater",
+            "Spray",
+            "Brush"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    }
+}

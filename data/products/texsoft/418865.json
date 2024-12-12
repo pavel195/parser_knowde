@@ -1,0 +1,32 @@
+{
+    "id": 418865,
+    "brand": "texsoft",
+    "name": "Texfin TA",
+    "slug": "texfin-ta",
+    "description": "Texfin TA is a foaming additive. It is a versatile, amphoteric foaming agent for various finishing applications and compatible with a large variety of finishing products. Texfin TA has an exceptional stability with fluorocarbons for foam finishing.",
+    "company_name": "Texchem UK",
+    "company_slug": "texchem-uk",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708673441/production/Brand/32828/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Other Industrial Applications",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Other Processing Additives",
+            "Processing Aids"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Foaming Agent"
+        ],
+        "Applicable Processes": [
+            "Foam Finishing"
+        ],
+        "Features": [
+            "Superior Finishing"
+        ]
+    }
+}

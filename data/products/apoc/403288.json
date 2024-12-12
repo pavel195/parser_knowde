@@ -1,0 +1,57 @@
+{
+    "id": 403288,
+    "brand": "apoc",
+    "name": "APOC® 291 RUST PREP™ RUST INHIBITING PRIMER",
+    "slug": "apoc-291-rust-prep-rust-inhibiting-primer",
+    "description": "APOC® 291 RUST PREP™ Rust Inhibiting Primer is a high performance, acrylic primer designed to stop corrosion damage of ferrous metals. APOC Rust Inhibiting Primer stops rust, adheres to difficult substrates and gives a corrosion resistant seal to protect against future damage. APOC® 291 dries to a red finish and is an ideal base coat for any APOC paint or coating. APOC® 291 is great for use over metal roofing, window frames, sidewalls, rail cars, pipes and equipment, tanks exteriors and structural steel. Existing rust is permanently sealed to prevent moisture infiltration and weathering from sun, water, salt and additional oxidation. Apply topcoat directly to primed surface.",
+    "company_name": "Asphalt Products Oil Corp.",
+    "company_slug": "asphalt-products-oil-corp",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520388/production/Brand/30834/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608566/production/CategoryImage/566/category_image/PaintingsCoatings_02.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Packaging Coatings",
+            "Primers & Lacquers",
+            "Building Envelope & Roofing",
+            "Waterproofing & Weatherproofing",
+            "Chemical & Industrial Manufacturing",
+            "Pipes & Plumbing",
+            "Glazing & Window Elements",
+            "Other Building Envelope & Roofing Applications",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Primer",
+            "Base Coat"
+        ],
+        "Application Area": [
+            "Pipes",
+            "Tanks"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Steel"
+        ],
+        "Features": [
+            "Improved Adhesion",
+            "Long Term Protection",
+            "High Performance",
+            "Corrosion Resistant",
+            "Salt Resistance",
+            "Water Resistant"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "id": 341881,
+    "brand": "detar",
+    "name": "DETAROX",
+    "slug": "detarox",
+    "description": "DETAROX is Acid sanitizer with an oxidizing action, made from stabilized peracetic acid and hydrogen peroxide.",
+    "company_name": "Perdomini IOC",
+    "company_slug": "perdomini-ioc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664290450/production/Brand/25255/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608045/production/CategoryImage/542/category_image/HomePersonalCare_08.jpg",
+    "properties": {
+        "Applications": [
+            "Surface Care",
+            "Industrial Cleaning",
+            "Food & Beverage Manufacturing",
+            "Food Facility Cleaning & Sanitization",
+            "Processing & Packaging",
+            "Institutional & Industrial Care",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Food Grade Cleaners",
+            "Industrial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner"
+        ],
+        "Application Areas": [
+            "Bowls",
+            "Bottles",
+            "Dairy"
+        ],
+        "Features": [
+            "Low Foaming",
+            "Corrosion Resistant",
+            "Excellent Compatibility"
+        ]
+    }
+}

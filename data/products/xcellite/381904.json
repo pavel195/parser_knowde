@@ -1,0 +1,54 @@
+{
+    "id": 381904,
+    "brand": "xcellite",
+    "name": "Xcellite™ XTGR",
+    "slug": "xcellite-xtgr",
+    "description": "Xcellite™ XTGR is a Medium cellular rubber, belonging to PVC/NBR/Post- Consumer Recycled Tires (Polyvinyl Chloride/Acrylonitrile Butadiene/Post- Consumer Recycled Tires) Polymer Category.",
+    "company_name": "Fostek Corporation",
+    "company_slug": "fostek-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1702444504/production/Brand/28648/logo/image",
+    "banner_url": "https://static.knowde.com/card-banners/knowde-card-for-raw-materials-8.jpg",
+    "properties": {
+        "Applications": [
+            "Other Industrial Applications",
+            "Other Automotive & Transportation Applications"
+        ],
+        "Product Families": [
+            "Foams"
+        ],
+        "Chemical Family": [
+            "Polyvinyl Chloride/Acrylonitrile Butadiene",
+            "Blends & Combinations"
+        ],
+        "End Uses": [
+            "Athletic Padding",
+            "Weatherstripping",
+            "Noise Barriers",
+            "Floor Coverings",
+            "Seals",
+            "Gaskets",
+            "Electrical Components"
+        ]
+    },
+    "summary": {
+        "Density": [
+            "79.90784 - 111.870976 kg/m³"
+        ],
+        "Chemical Family": [
+            "Polyvinyl Chloride/Acrylonitrile Butadiene",
+            "Blends & Combinations"
+        ],
+        "End Uses": [
+            "Noise Barriers",
+            "Seals",
+            "Floor Coverings",
+            "Weatherstripping",
+            "Athletic Padding",
+            "Gaskets",
+            "Electrical Components"
+        ],
+        "Physical Form": [
+            "Foam"
+        ]
+    }
+}

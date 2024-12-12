@@ -1,0 +1,82 @@
+{
+    "id": 78810,
+    "brand": "descarb",
+    "name": "Seridefrizz Intense Salon",
+    "slug": "seridefrizz-intense-salon",
+    "description": "Protein and quaternary system that restores hair fiber through protein crystallization. Provides bright and healthy hair. Nourishes and fills the porosity of damaged hair. When thermo-activated, it reduces volume and frizz and improves combability.",
+    "company_name": "Chemyunion",
+    "company_slug": "chemyunion",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708685403/production/Company/1183/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708685403/production/Company/1183/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Hair Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Hair Actives",
+            "Cosmetic Actives"
+        ],
+        "INCI Name": [
+            "Trideceth-6",
+            "Sericin",
+            "Propylene Glycol Dicaprylate/Dicaprate",
+            "Polyquaternium-7",
+            "Polyquaternium-37",
+            "Lactic Acid",
+            "Hexyl Salicylate",
+            "Hexyl Cinnamal",
+            "Guar Hydroxypropyltrimonium Chloride",
+            "Glycolic Acid",
+            "Cocos Nucifera (Coconut) Oil",
+            "Citronellol",
+            "Cinnamal",
+            "Butylphenyl Methylpropional",
+            "Benzyl Salicylate",
+            "Behentrimonium Chloride",
+            "Amyl Cinnamal"
+        ],
+        "End Uses": [
+            "Hair Masks",
+            "Hair Conditioner"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Butylphenyl Methylpropional",
+            "Guar Hydroxypropyltrimonium Chloride",
+            "Hexyl Salicylate",
+            "Cocos Nucifera (Coconut) Oil",
+            "Citronellol",
+            "Benzyl Salicylate",
+            "Cinnamal",
+            "Behentrimonium Chloride",
+            "Lactic Acid",
+            "Trideceth-6",
+            "Propylene Glycol Dicaprylate/Dicaprate",
+            "Polyquaternium-7",
+            "Polyquaternium-37",
+            "Sericin",
+            "Hexyl Cinnamal",
+            "Amyl Cinnamal",
+            "Glycolic Acid"
+        ],
+        "Functions": [
+            "Nourishing Agent"
+        ],
+        "Labeling Claims": [
+            "Clean at Sephora"
+        ],
+        "Benefit Claims": [
+            "Restoring",
+            "Hair Repair",
+            "Brightening",
+            "Good Dry Combing",
+            "Frizz Control",
+            "Healthy-Looking Hair",
+            "Good Wet Combing",
+            "Compatibility",
+            "Nourishing"
+        ]
+    }
+}

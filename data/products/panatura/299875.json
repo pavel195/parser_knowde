@@ -1,0 +1,38 @@
+{
+    "id": 299875,
+    "brand": "panatura",
+    "name": "Hefe Schweiz AG Baker's yeast",
+    "slug": "hefe-schweiz-ag-baker-s-yeast",
+    "description": "Hefe Schweiz AG Baker's yeast has a long tradition. It is cultivated with molasses and concentrated beet juice, regional raw materials from the nearby sugar factory in Frauenfeld.",
+    "company_name": "Hefe Schweiz AG",
+    "company_slug": "hefe-schweiz-ag",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708696026/production/Company/23720/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607305/production/CategoryImage/515/category_image/FoodNutrition_15.jpg",
+    "properties": {
+        "Applications": [
+            "Bakery",
+            "Food"
+        ],
+        "Product Families": [
+            "Enzymes & Starter Cultures",
+            "Functional Additives"
+        ],
+        "End Uses": [
+            "Bread"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Bakers Yeast"
+        ],
+        "Ingredient Origin": [
+            "Fermentation"
+        ],
+        "Functions": [
+            "Yeast"
+        ],
+        "End Uses": [
+            "Bread"
+        ]
+    }
+}

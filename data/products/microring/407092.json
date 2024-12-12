@@ -1,0 +1,48 @@
+{
+    "id": 407092,
+    "brand": "microring",
+    "name": "ExpresSeal® Polyurethane (Red) (FDA Compliant)",
+    "slug": "expresseal-polyurethane-red-fda-compliant",
+    "description": "ExpresSeal® Polyurethane (Red) (FDA Compliant) is used in Hydraulic applications where water based fluids are being used.",
+    "company_name": "Apple Rubber Products",
+    "company_slug": "apple-rubber-products",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709127780/production/Brand/31402/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608769/production/CategoryImage/577/category_image/AutomotiveTransportation_05.jpg",
+    "properties": {
+        "Applications": [
+            "Equipment & Parts",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Parts & Shapes"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ],
+        "Polymer Name": [
+            "Polyurethane Thermoset Elastomer (unspecified)"
+        ],
+        "End Uses": [
+            "Hydraulic Applications"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyurethane Thermoset Elastomer (unspecified)"
+        ],
+        "Physical Form": [
+            "Seals"
+        ],
+        "Features": [
+            "Extrusion Resistance",
+            "Excellent Hydrolysis Resistance",
+            "Wear Resistant"
+        ],
+        "End Uses": [
+            "Hydraulic Applications"
+        ],
+        "Color": [
+            "Red"
+        ]
+    }
+}

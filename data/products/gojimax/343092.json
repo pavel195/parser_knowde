@@ -1,0 +1,34 @@
+{
+    "id": 343092,
+    "brand": "gojimax",
+    "name": "AvestaDHA™",
+    "slug": "avestadha",
+    "description": "AvestaDHA™ is 100 % vegetarian source of omega three fatty acid derived from a microalgae isolated from the marine milieu. It has the goodness of fish oil but free from pollutants, metals and other impurities. It is beneficial for the heart, developing brain and good and long lasting vision.",
+    "company_name": "Avesthagen",
+    "company_slug": "avesthagen",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708689928/production/Brand/25378/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607009/production/CategoryImage/509/category_image/FoodNutrition_10.jpg",
+    "properties": {
+        "Applications": [
+            "Other Nutrition Applications",
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Fatty Acids & Specialty Lipids",
+            "Nutraceuticals & Supplements"
+        ],
+        "Chemical Family": [
+            "Fatty Acids"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Dietary Supplement",
+            "Anti-Inflammatory"
+        ],
+        "Labeling Claims": [
+            "Vegetarian"
+        ]
+    }
+}

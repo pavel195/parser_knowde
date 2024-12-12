@@ -1,0 +1,48 @@
+{
+    "id": 299237,
+    "brand": "suretac",
+    "name": "SureTac 1770",
+    "slug": "suretac-1770",
+    "description": "SureTac 1770 is a family of tackifiers that include Rosin Ester, C5 Aliphatic, C9 Aromatic, and C5/C9 Aliphatic/Aromatic, and Specialty Resin Dispersions. The product line offers a variety of softening points and may be modified to meet a specific application.",
+    "company_name": "Dyna-Tech",
+    "company_slug": "dyna-tech",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1685601155/production/Company/22779/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608982/production/CategoryImage/589/category_image/AdhesivesSealants_06.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial & Assembly Adhesives",
+            "Building Materials",
+            "Flooring & Surfaces",
+            "Industrial Manufacturing",
+            "Other Industrial & Assembly Applications",
+            "Adhesives",
+            "Other Adhesives & Sealants Applications",
+            "Construction Adhesives",
+            "Industrial Adhesives & Sealants",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Additives",
+            "Surface Modifiers"
+        ],
+        "Chemical Family": [
+            "Hydrocarbons"
+        ],
+        "End Uses": [
+            "Pressure Sensitive Adhesive",
+            "Contact Adhesive"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Hydrocarbons"
+        ],
+        "End Uses": [
+            "Contact Adhesive",
+            "Pressure Sensitive Adhesive"
+        ],
+        "Compatible Polymers & Resins": [
+            "Natural Rubbers (NR)"
+        ]
+    }
+}

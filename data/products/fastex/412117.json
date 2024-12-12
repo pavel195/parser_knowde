@@ -1,0 +1,41 @@
+{
+    "id": 412117,
+    "brand": "fastex",
+    "name": "FASTEX® FGHT2",
+    "slug": "fastex-fght2",
+    "description": "FASTEX® FGHT2 is a high-quality Bentone-based high-temperature grease, containing EP, anti-wear, oxidation, corrosion inhibitors and proprietary additives (including, in particular, a Fastex® Surface Modifier). It is a general lubrication grease covering a wide range of industrial requirements, especially in high-temperature operating conditions.",
+    "company_name": "Glenveigh Distribution",
+    "company_slug": "glenveigh-distribution",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680108959/production/Brand/32160/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical & Industrial Manufacturing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Greases",
+            "Fluids & Lubricants"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Grease"
+        ],
+        "Application Area": [
+            "Industrial Conveyors",
+            "Chains",
+            "Bearings"
+        ],
+        "Features": [
+            "Oxidation Resistant",
+            "High Temperature Performance",
+            "Corrosion Resistant",
+            "Friction Resistant",
+            "Anti-Wear Properties"
+        ],
+        "Thickener Type": [
+            "Bentone"
+        ]
+    }
+}

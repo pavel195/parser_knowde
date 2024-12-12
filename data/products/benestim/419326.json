@@ -1,0 +1,35 @@
+{
+    "id": 419326,
+    "brand": "benestim",
+    "name": "BeneSTIM ROOTS",
+    "slug": "benestim-roots",
+    "description": "BeneSTIM ROOTS is an organic fertilizer with the micronutrients Mn and Zn. However, the unique formulation of these ingredients embedded in compounds of natural origin makes this product also strong bio-stimulating properties, on top of the fertilizer effect.",
+    "company_name": "BENEFERT",
+    "company_slug": "benefert",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708691604/production/Brand/32896/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608238/production/CategoryImage/552/category_image/AgricultureFeed_08.jpg",
+    "properties": {
+        "Applications": [
+            "Fruits",
+            "Ornamentals",
+            "Agricultural Crops",
+            "Turf, Ornamentals & Landscape"
+        ],
+        "Product Families": [
+            "Fertilizers & Nutrients",
+            "Plant Health, Nutrients & Soil Management"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Fertilizer"
+        ],
+        "Application Technique": [
+            "Sprinklers",
+            "Chemigation"
+        ],
+        "Labeling Claims": [
+            "Organic"
+        ]
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "id": 358487,
+    "brand": "mighty-lube-wearmaster",
+    "name": "Mighty Lube® Type 38",
+    "slug": "mighty-lube-type-38",
+    "description": "Mighty Lube® Type 38 is a unique synthetic lubricant designed to lubricate bearings, chains, slides, and gears in industrial applications where air temperatures often exceed 500°F. They are ashless fluids and do not contain residue forming solids. In addition, Mighty Lube® Type T38 contains proprietary ashless esters to make it suitable in applications like chains and bearings that run at high temperatures. Type T38 will not leave particles behind at high temperatures.",
+    "company_name": "Mighty Lube",
+    "company_slug": "mighty-lube",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680108950/production/Brand/26728/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Lubricants & Functional Fluids",
+            "Automotive Fluids & Lubricants",
+            "Chemical & Industrial Manufacturing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Lubricants & Oils",
+            "Fluids & Lubricants"
+        ],
+        "Chemical Family": [
+            "Polyol Esters (POE)"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Lubricant",
+            "Industrial Lubricants"
+        ],
+        "Application Area": [
+            "Gears",
+            "Bearings",
+            "Slideways"
+        ],
+        "Features": [
+            "Oxidation Resistant",
+            "Corrosion Resistant",
+            "Cost Effective",
+            "Medium Viscosity",
+            "Anti-Wear Properties",
+            "Low Ash Content",
+            "Low Volatility",
+            "Bearing Grade",
+            "Good Sliding Properties",
+            "High Efficiency",
+            "High Temperature Resistance"
+        ],
+        "Chemical Family": [
+            "Polyol Esters (POE)"
+        ]
+    }
+}

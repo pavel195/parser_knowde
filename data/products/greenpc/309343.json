@@ -1,0 +1,50 @@
+{
+    "id": 309343,
+    "brand": "greenpc",
+    "name": "BIOPS® SOYA PS",
+    "slug": "biops-soya-ps",
+    "description": "Biops® Soya PS is a phospholipid component, and is the single most important building block nutrient for healthy, alive, and functional brain cells. Dietary supplementation with PS can improve symptoms of decline in memory, learning, concentration, coordination and mood.",
+    "company_name": "ECA Healthcare",
+    "company_slug": "eca-healthcare",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708522671/production/Product/309343/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607305/production/CategoryImage/515/category_image/FoodNutrition_15.jpg",
+    "properties": {
+        "Applications": [
+            "Functional Foods",
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Functional Foods",
+            "Dietary Supplements"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Soybeans"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin"
+        ],
+        "Labeling Claims": [
+            "Solvent-free",
+            "Allergen-free"
+        ],
+        "Certifications & Compliance": [
+            "cGMP"
+        ],
+        "Benefit Claims (Health)": [
+            "Improves Brain Health"
+        ],
+        "Features": [
+            "High Quality",
+            "Enhance Memory And Mental Clarity"
+        ]
+    }
+}

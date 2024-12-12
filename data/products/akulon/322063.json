@@ -1,0 +1,48 @@
+{
+    "id": 322063,
+    "brand": "akulon",
+    "name": "Arnitel® ECO L700",
+    "slug": "arnitel-eco-l700",
+    "description": "Arnitel® ECO L700 is a high-performance thermoplastic copolyester (TPC) known for its distinctive blend of flexibility, high-temperature resistance, strength, and excellent processing properties. Across industries including automotive and E&amp;E, it serves as a lighter, more intelligent, and eco-friendly substitute for traditional rubbers, effectively reducing environmental impact and system costs. This material can be efficiently processed via injection molding and is notable for containing 22% renewable content. Additionally, it is suitable for food-contact applications.",
+    "company_name": "Envalior",
+    "company_slug": "envalior",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708531679/production/Company/30097/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708531679/production/Company/30097/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Footwear"
+        ],
+        "Product Families": [
+            "Thermoplastic Polyester Elastomers (TPE-E)",
+            "Thermoplastic Elastomers"
+        ],
+        "Chemical Family": [
+            "Polyesters"
+        ],
+        "Polymer Name": [
+            "Thermoplastic Copolyester Elastomer (TPC-ET)"
+        ],
+        "End Uses": [
+            "Footwear",
+            "Smokable Sausage Casings"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Thermoplastic Copolyester Elastomer (TPC-ET)"
+        ],
+        "Processing Methods": [
+            "Injection Molding"
+        ],
+        "End Uses": [
+            "Smokable Sausage Casings",
+            "Footwear"
+        ],
+        "Density": [
+            "1210.0 - 1210.0 kg/m³"
+        ],
+        "Strain at Break": [
+            "420.0 - 420.0 %"
+        ]
+    }
+}

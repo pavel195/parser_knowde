@@ -1,0 +1,31 @@
+{
+    "id": 250929,
+    "brand": "ez-mill",
+    "name": "Molastik® Molasses Binding Agent",
+    "slug": "molastik-molasses-binding-agent",
+    "description": "Molastik® Molasses Binding Agent is a binding agent designed for use with molasses in pellets, cubes and pressed blocks. When added to feeds containing molasses, Molastik bonds the molasses and feed particles together resulting in significantly improved binding.",
+    "company_name": "Uniscope",
+    "company_slug": "uniscope",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708684575/production/Company/19216/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708684575/production/Company/19216/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Feed Production & Processing",
+            "Other Animal Health & Nutrition",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Adsorbents & Binders",
+            "Production Aids and Processing Additives"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Binder",
+            "Pellet Binder"
+        ],
+        "Features": [
+            "Shelf Stable"
+        ]
+    }
+}

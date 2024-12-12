@@ -1,0 +1,62 @@
+{
+    "id": 401074,
+    "brand": "clearcoat-fp",
+    "name": "POLAROOF NW­­™",
+    "slug": "polaroof-nw",
+    "description": "POLAROOF NW­­™ is a high-quality single-component waterproofing coating for metal roofs, concrete decks, and ponded-water roofs. Because it is solventbased, it can be used in a wide temperature range. POLAROOF NW­­™ can be used as a vapor barrier in cold storage applications. It is intended for long-term flexibility and toughness, as well as the ability to bridge and move with hairline cracks and resist impingement attack.",
+    "company_name": "Andek Corporation",
+    "company_slug": "andek-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520324/production/Brand/30538/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608502/production/CategoryImage/564/category_image/BuildingConstruction_08.jpg",
+    "properties": {
+        "Applications": [
+            "Infrastructure, Roads & Paving",
+            "Roofing",
+            "Building & Construction",
+            "Specialty Coatings",
+            "Roof Coatings",
+            "Glass Coatings",
+            "Building Envelope & Roofing",
+            "Waterproofing & Weatherproofing",
+            "Wood Coatings & Finishes",
+            "Concrete Coatings & Stains",
+            "Pavement, Highways, Roads & Bridges"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Solventborne Coating",
+            "Elastomeric Coating",
+            "1K (1 component) Coating",
+            "Waterborne Coating"
+        ],
+        "Features": [
+            "Excellent Elasticity",
+            "Excellent Flexibility",
+            "Wide Temperature Operating Range",
+            "Excellent Toughness",
+            "Microbe Resistant",
+            "Excellent UV Stability"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Aluminum",
+            "Masonry",
+            "Metal",
+            "Concrete",
+            "Steel",
+            "Wood",
+            "Glass",
+            "Copper",
+            "Elastomers & Rubbers"
+        ],
+        "Application Method": [
+            "Spray",
+            "Roller",
+            "Brush"
+        ]
+    }
+}

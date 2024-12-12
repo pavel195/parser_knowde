@@ -1,0 +1,60 @@
+{
+    "id": 412936,
+    "brand": "saris",
+    "name": "SARIS Lavender Essential Oil (Lavandula angustifolia)",
+    "slug": "saris-lavender-essential-oil-lavandula-angustifolia",
+    "description": "Lavender essential oil from Lavandula angustifolia - one of the most popular and versatile essential oils, used in various industries as a raw material for perfumery, cosmetics, aromatherapy, food industry, medicine and pharmacy.Applications:soothes and relaxes the body and mindclears up a headache or migraineimproves stress, anxiety and moodused in massage therapyhelps treat acne and soothes irritated skinimproves sleep and insomnianatural insect repellent and treatment for head lice, relieves itchy bug bitesused in the food industry for flavoring foods and beverageshelps combat fungal and viral infectionsrelieves respiratory symptoms such as cough and sore throathelps speed up the healing of small burns, cuts, scrapes and woundslessens menopausal and PMS symptomshas been shown to improve memory loss and dementia symptoms due to its potent antioxidant propertiescan improve hair healthcan help reduce blood pressure and heart rate",
+    "company_name": "SARIS Ltd.",
+    "company_slug": "saris",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704103686/production/Company/53434/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1704103686/production/Product/412936/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Treatment Products",
+            "Skin Care",
+            "Fragrances & Perfumes",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Essential Oils",
+            "Vitamins, Extracts & Oils"
+        ],
+        "Chemical Family": [
+            "Essential Oils"
+        ],
+        "INCI Name": [
+            "Lavandula Angustifolia (Lavender) Oil"
+        ],
+        "End Uses": [
+            "Anti-Fungal Treatments",
+            "Anti-Lice Products",
+            "Acne Treatments",
+            "Massage Products",
+            "Aromatherapy",
+            "Fragrances & Perfumes"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Lavandula Angustifolia (Lavender) Oil"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Plant Origin"
+        ],
+        "Benefit Claims": [
+            "Anti-Acne",
+            "Soothing",
+            "Relaxing"
+        ],
+        "Labeling Claims": [
+            "Clean at Sephora",
+            "Credo Clean Standard",
+            "Naturally Derived",
+            "Ulta Beauty's Conscious Beauty",
+            "Natural",
+            "Organic",
+            "Plant-Based"
+        ]
+    }
+}

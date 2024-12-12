@@ -1,0 +1,32 @@
+{
+    "id": 299421,
+    "brand": "isothane",
+    "name": "ISOTHANE 1685A-E2",
+    "slug": "isothane-1685a-e2",
+    "description": "ISOTHANE 1685A-E2 are polyether based thermoplastic polyurethane with good balanced qualities. They exhibit excellent high moisture vapor transmission. ISOTHANE® 1600 series can be processed by blown film extrusion.",
+    "company_name": "Great Eastern Chemical",
+    "company_slug": "great-eastern-resins-industrial-co-ltd",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691736452/production/Company/21843/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608693/production/CategoryImage/573/category_image/AutomotiveTransportation_01.jpg",
+    "properties": {
+        "Applications": [
+            "Apparel"
+        ],
+        "Product Families": [
+            "Thermoplastic Urethanes (TPU)",
+            "Thermoplastic Elastomers"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)",
+            "Thermoplastic Polyurethanes (TPU)"
+        ],
+        "Polymer Name": [
+            "Thermoplastic Polyurethane (Polyether based)"
+        ]
+    },
+    "summary": {
+        "Strain at Break": [
+            "850.0 - 850.0 %"
+        ]
+    }
+}

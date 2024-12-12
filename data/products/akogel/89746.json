@@ -1,0 +1,80 @@
+{
+    "id": 89746,
+    "brand": "akogel",
+    "name": "LIPEX® Cellect™",
+    "slug": "aak-personal-care-lipex-cellect",
+    "description": "Lipex Cellect™ is a solid bioactive ingredient with caring and soothing properties based on pure vegetable lipids. Lipex Cellect™ is well characterized and documented for safe use in all type of cosmetic formulations. Lipex Cellect™ has documented anti-inflammatory, non-irritant and nonphototoxic properties. Lipex Cellect™ has a neutral odor and is yellowish in color.",
+    "company_name": "AAK Personal Care",
+    "company_slug": "aak-personal-care",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1716387913/production/Product/89746/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1716387913/production/Product/89746/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Skin Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Skin Actives",
+            "Sensory Modifiers",
+            "Conditioners & Emollients",
+            "Cosmetic Actives",
+            "Functionals"
+        ],
+        "Chemical Family": [
+            "Glycerides"
+        ],
+        "INCI Name": [
+            "Phytosteryl Canola Glycerides"
+        ],
+        "End Uses": [
+            "Anti-Aging Products"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Phytosteryl Canola Glycerides"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin"
+        ],
+        "Functions": [
+            "Anti-Aging Agent",
+            "Soothing Agent",
+            "Anti-Inflammatory",
+            "Protective Agent",
+            "Moisturizing Agent"
+        ],
+        "Labeling Claims": [
+            "Natural",
+            "Vegan",
+            "Kosher",
+            "Clean at Sephora",
+            "Sustainable",
+            "Halal",
+            "Non-Irritant",
+            "Ulta Beauty's Conscious Beauty",
+            "Environmentally Friendly",
+            "Naturally Derived"
+        ],
+        "Certifications & Compliance": [
+            "IECIC (China)",
+            "REACH (Europe)",
+            "Kosher",
+            "Halal"
+        ],
+        "Benefit Claims": [
+            "Suitable for Sensitive Skin",
+            "Excellent Stability",
+            "Anti-Irritant",
+            "Conditioning",
+            "Soothing",
+            "Moisturizing",
+            "Excellent Tolerance",
+            "Emolliency",
+            "Anti-Aging",
+            "Anti-Inflammatory",
+            "Anti-Pollution",
+            "Strengthening"
+        ]
+    }
+}

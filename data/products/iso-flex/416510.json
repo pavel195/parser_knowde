@@ -1,0 +1,45 @@
+{
+    "id": 416510,
+    "brand": "iso-flex",
+    "name": "Iso-Flex® 100 Epoxy Resin",
+    "slug": "iso-flex-100-epoxy-resin",
+    "description": "Iso-Flex® 100 Epoxy Resin is a two-component epoxy resin, containing no solvents or coal tar. Iso-Flex 100 Epoxy Resin is designed for use in both interior and exterior (if topcoated) applications.",
+    "company_name": "Lymtal",
+    "company_slug": "lymtal",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520337/production/Brand/32531/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608477/production/CategoryImage/562/category_image/BuildingConstruction_06.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Flooring & Surfaces",
+            "Architectural Coatings",
+            "Decorative Paints, Coatings & Stains",
+            "Floor Coatings",
+            "Building Envelope"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Other Paints & Coatings"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Solventless & High Solids Coating",
+            "Epoxy Coating",
+            "2K (2 component) Coating"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Concrete"
+        ],
+        "Features": [
+            "Wear Resistant",
+            "Excellent Traction"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    }
+}

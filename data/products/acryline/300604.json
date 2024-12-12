@@ -1,0 +1,47 @@
+{
+    "id": 300604,
+    "brand": "acryline",
+    "name": "HUMOCER 100 A45 TM",
+    "slug": "humocer-100-a45-tm",
+    "description": "Humocer 100 A45 TM is a paraffinic emulsion of great stability and excellent dispersion in aqueous medium. Product used as a water repellent additive, release agent and lubricant in paints and in water-based internal and external coatings, in addition to greases based on acrylic resins and PVA.",
+    "company_name": "Isogama Industria Quimica",
+    "company_slug": "isogama-industria-quimica",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1669788788/production/Company/24227/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608585/production/CategoryImage/567/category_image/PaintingsCoatings_03.jpg",
+    "properties": {
+        "Applications": [
+            "Building & Construction",
+            "Other Paints & Coatings Applications",
+            "Other Building & Construction Applications"
+        ],
+        "Product Families": [
+            "Additives",
+            "Surface Modifiers",
+            "Functional Additives"
+        ],
+        "Chemical Family": [
+            "Mineral Oils",
+            "Alkanes"
+        ],
+        "End Uses": [
+            "Waterborne Coating"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Alkanes",
+            "Mineral Oils"
+        ],
+        "Compatible Polymers & Resins": [
+            "Ethylene Vinyl Acetate (EVA)",
+            "Acrylics"
+        ],
+        "Features": [
+            "Excellent Dispersibility",
+            "Excellent Stability"
+        ],
+        "End Uses": [
+            "Waterborne Coating"
+        ]
+    }
+}

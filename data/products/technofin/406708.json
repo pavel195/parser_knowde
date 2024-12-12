@@ -1,0 +1,44 @@
+{
+    "id": 406708,
+    "brand": "technofin",
+    "name": "TECHNOFIN® CPG 009",
+    "slug": "technofin-cpg-009",
+    "description": "TECHNOFIN® CPG 009 is a white 65% concentrate, produced based on titanium dioxide, evenly dissolved in a thermoplastic polymer matrix. It is noted for high variance pigment and good hiding power. It is recommended for use in the production of films with a thickness of 30 - 200 microns. The consumption rate depends on the intensity of staining and the thickness of the product.",
+    "company_name": "technocom",
+    "company_slug": "technocom",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704101834/production/Brand/31344/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609128/production/CategoryImage/597/category_image/PrintingPackaging_08.jpg",
+    "properties": {
+        "Applications": [
+            "Non-Food Consumer Packaging",
+            "Industrial & Transport Packaging",
+            "Packaging"
+        ],
+        "Product Families": [
+            "Color Masterbatches",
+            "Masterbatches",
+            "Dispersions & Masterbatches"
+        ],
+        "Chemical Family": [
+            "Titanium Compounds"
+        ],
+        "End Uses": [
+            "Film"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Titanium dioxide"
+        ],
+        "Color": [
+            "White"
+        ],
+        "Carrier": [
+            "Resin-based",
+            "Linear Low Density Polyethylene (LLDPE)"
+        ],
+        "Synonyms": [
+            "TiO2, Titania, Titanium Peroxide"
+        ]
+    }
+}

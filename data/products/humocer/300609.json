@@ -1,0 +1,37 @@
+{
+    "id": 300609,
+    "brand": "humocer",
+    "name": "ACRYLINE DP",
+    "slug": "acryline-dp",
+    "description": "Acryline DP is a high performance acrylic dispersant for mineral fillers such as calcium carbonate, pigments, kaolin, among other products for civil construction, exterior and interior line paints and in the paper industry for surface applications.",
+    "company_name": "Isogama Industria Quimica",
+    "company_slug": "isogama-industria-quimica",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708690301/production/Company/24227/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608585/production/CategoryImage/567/category_image/PaintingsCoatings_03.jpg",
+    "properties": {
+        "Applications": [
+            "Other Building Envelope & Roofing Applications",
+            "Other Paper & Pulp Applications",
+            "Other Paints & Coatings Applications",
+            "Other Building & Construction Applications",
+            "Paper & Pulp",
+            "Building & Construction",
+            "Building Envelope & Roofing"
+        ],
+        "Product Families": [
+            "Dispersing & Wetting Additives",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Acrylics, Acrylates & Methacrylates"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Dispersant"
+        ],
+        "Chemical Family": [
+            "Acrylics, Acrylates & Methacrylates"
+        ]
+    }
+}

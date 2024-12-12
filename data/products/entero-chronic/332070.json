@@ -1,0 +1,40 @@
+{
+    "id": 332070,
+    "brand": "entero-chronic",
+    "name": "Impromune® Pasta",
+    "slug": "impromune-pasta",
+    "description": "Impromune® Pasta is a food supplement recommended for cats and dogs to strengthen their immune systems and to boost any innate or adaptive response.",
+    "company_name": "Bioiberica",
+    "company_slug": "bioiberica",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708687520/production/Brand/24352/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608173/production/CategoryImage/547/category_image/AgricultureFeed_03.jpg",
+    "properties": {
+        "Applications": [
+            "Pets",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Feed Supplements",
+            "Immunomodulators",
+            "Health & Well-Being",
+            "Nutritional Ingredients"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Yeast Extract"
+        ],
+        "Functions": [
+            "Immunomodulator",
+            "Supplement"
+        ],
+        "Animal Species": [
+            "Cats",
+            "Pets",
+            "Dogs"
+        ],
+        "Features": [
+            "Improves Immunity"
+        ]
+    }
+}

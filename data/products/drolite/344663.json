@@ -1,0 +1,31 @@
+{
+    "id": 344663,
+    "brand": "drolite",
+    "name": "Dromide® 933",
+    "slug": "dromide-933",
+    "description": "Dromide® 933 is a co-solvent soluble polyamide resin suitable for flexographic and gravure printing inks and over printing lacquers, this resin provides good glossy sharp prints.",
+    "company_name": "D.R. Coats Ink & Resins Pvt.",
+    "company_slug": "d-r-coats-ink-resins-pvt",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697221633/production/Brand/25645/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609057/production/CategoryImage/591/category_image/PrintingPackaging_02.jpg",
+    "properties": {
+        "Applications": [
+            "Gravure Printing",
+            "Flexography",
+            "Printing & Inks"
+        ],
+        "Product Families": [
+            "Other Resins & Binders",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Polyamides"
+        ],
+        "End Uses": [
+            "Lacquers",
+            "Gravure Ink",
+            "Flexography Ink"
+        ]
+    },
+    "summary": {}
+}

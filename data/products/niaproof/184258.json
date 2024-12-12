@@ -1,0 +1,36 @@
+{
+    "id": 184258,
+    "brand": "niaproof",
+    "name": "Niacet Sodium Acetate Trihydrate Crystal Pharma",
+    "slug": "niacet-sodium-acetate-trihydrate-crystal-pharma",
+    "description": "Sodium Acetate pharmaceutical grade is used in the preparation of haemodialysis and peritoneal dialysis solutions, in the production of insulin and in infusion liquids.",
+    "company_name": "Niacet",
+    "company_slug": "niacet",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1703849643/production/Product/184258/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1703849643/production/Product/184258/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Dialysis",
+            "Drug Delivery & Care Solutions"
+        ],
+        "Product Families": [
+            "Formulation & Processing Aids",
+            "Excipients"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Sodium Acetate Trihydrate"
+        ],
+        "CAS Number": [
+            "6131-90-4"
+        ],
+        "Certifications & Compliance": [
+            "European Pharmacopeia (Ph. Eur.)",
+            "United States Pharmacopeia (USP)"
+        ],
+        "Synonyms": [
+            "Hot Ice, Hydrated Sodium Acetate"
+        ]
+    }
+}

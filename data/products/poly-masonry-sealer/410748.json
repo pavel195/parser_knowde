@@ -1,0 +1,38 @@
+{
+    "id": 410748,
+    "brand": "poly-masonry-sealer",
+    "name": "HydroBlok®",
+    "slug": "hydroblok",
+    "description": "HydroBlok® sealer is a waterborne, non-flammable, silicate penetrating solution it is specifically designed as a concrete sealer/densifier for stopping moisture migration or major seepage of blocks, concrete decks slabs, walls, driveways, foundations or old porous concrete. HydroBlok® is produced specifically for sealing heavyweight CMU (concrete masonry units). This is a user friendly product that will seal CMU structures under the most difficult conditions and leave the concrete blocks paint-able if desired. This spray on product is designed for new or old heavyweight CMU structures and will seal your blocks easily and effectively.",
+    "company_name": "Endur-o-seal",
+    "company_slug": "endur-o-seal",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1672225431/production/Brand/31929/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608454/production/CategoryImage/560/category_image/BuildingConstruction_04.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Building & Construction",
+            "Wall Panels",
+            "Concrete Coatings & Stains"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Waterborne Coating",
+            "Sealer"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Concrete"
+        ],
+        "Features": [
+            "UV Resistant",
+            "Freeze Resistant",
+            "High Density",
+            "High Performance"
+        ]
+    }
+}

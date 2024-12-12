@@ -1,0 +1,47 @@
+{
+    "id": 396221,
+    "brand": "p51",
+    "name": "E6™",
+    "slug": "e6",
+    "description": "E6™ is a titanium carbo nitride based proprietary coating.",
+    "company_name": "United Protective",
+    "company_slug": "united-protective",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680108983/production/Company/50320/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial Coatings",
+            "Decorative Materials & Finishes",
+            "Decorative Paints, Coatings & Stains",
+            "Chemical & Industrial Manufacturing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Other Paints & Coatings"
+        ],
+        "Chemical Family": [
+            "Titanium Compounds"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Coating"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Aluminum",
+            "Metal"
+        ],
+        "Features": [
+            "Ductile",
+            "Good Abrasion Resistance",
+            "High Hardness"
+        ],
+        "Application Method": [
+            "PVD (Physical Vapour Deposition)"
+        ],
+        "Chemical Family": [
+            "Titanium Compounds"
+        ]
+    }
+}

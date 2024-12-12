@@ -1,0 +1,30 @@
+{
+    "id": 360875,
+    "brand": "nowo",
+    "name": "Nowo® Uni Primer",
+    "slug": "nowo-uni-primer",
+    "description": "Nowo® Uni Primer is a primer. Eternit Primer is a colored primer that can be used to prime fiber cement boards and brick roofs.",
+    "company_name": "Coating Source",
+    "company_slug": "coating-source",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520351/production/Brand/26978/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608410/production/CategoryImage/557/category_image/BuildingConstruction_01.jpg",
+    "properties": {
+        "Applications": [
+            "Roofing",
+            "Roof Coatings",
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Primer"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Concrete"
+        ]
+    }
+}

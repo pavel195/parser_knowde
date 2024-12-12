@@ -1,0 +1,30 @@
+{
+    "id": 372800,
+    "brand": "xpro",
+    "name": "INXFlex™ Contour UV Flexographic Dual Cure Shrink Sleeve Inks",
+    "slug": "inxflex-contour-uv-flexographic-dual-cure-shrink-sleeve-inks",
+    "description": "INXFlex™ Contour UV Flexographic Dual Cure Shrink Sleeve Inks are specifically engineered for tried-and-true adhesion to shrink sleeves with heavy ink coverage and can be cured with either traditional UV or LED technology. These high-performance UV flexographic inks address the key needs determined by shrink sleeve converters maximizing shrink contouring while eliminating post-shrink adhesion loss and ink flaking. This ink system has excellent transfer capabilities and printability at high press speeds and is fast drying. The Dual Cure (DC) version allows you to switch from either UV or LED unit by unit, curing two ways with one ink system for increased efficiencies and lower applied costs.",
+    "company_name": "INX Digital Czech",
+    "company_slug": "inx-digital-czech",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664291356/production/Brand/27822/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609117/production/CategoryImage/596/category_image/PrintingPackaging_07.jpg",
+    "properties": {
+        "Applications": [
+            "Printing & Inks",
+            "Flexography"
+        ],
+        "Product Families": [
+            "Inks & Pastes",
+            "Flexography Inks"
+        ]
+    },
+    "summary": {
+        "Features": [
+            "High Speed Printing",
+            "Fast Drying",
+            "Cost Effective",
+            "High Performance",
+            "UV Curable"
+        ]
+    }
+}

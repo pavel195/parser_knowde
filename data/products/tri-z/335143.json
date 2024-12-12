@@ -1,0 +1,47 @@
+{
+    "id": 335143,
+    "brand": "tri-z",
+    "name": "Eezy® Cal 10% 8-0-0 + 10.0 Ca",
+    "slug": "eezy-cal-10-8-0-0-10-0-ca",
+    "description": null,
+    "company_name": "Andersons Inc",
+    "company_slug": "andersons-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708671909/production/Brand/24762/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608215/production/CategoryImage/550/category_image/AgricultureFeed_06.jpg",
+    "properties": {
+        "Applications": [
+            "Other Agricultural Crops",
+            "Trees & Woodlands",
+            "Nuts",
+            "Fruits",
+            "Vegetables",
+            "Turf Management",
+            "Agricultural Crops",
+            "Turf, Ornamentals & Landscape"
+        ],
+        "Product Families": [
+            "Fertilizers & Nutrients",
+            "Plant Health, Nutrients & Soil Management"
+        ],
+        "Chemical Family": [
+            "Calcium Salts",
+            "Nitrogen"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Nitrogen",
+            "Calcium Salts"
+        ],
+        "Functions": [
+            "Fertilizer"
+        ],
+        "Application Technique": [
+            "Ground Soil Applied",
+            "Foliage Applied"
+        ],
+        "Labeling Claims": [
+            "Organic"
+        ]
+    }
+}

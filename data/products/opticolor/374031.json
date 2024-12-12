@@ -1,0 +1,33 @@
+{
+    "id": 374031,
+    "brand": "opticolor",
+    "name": "Opticolor® Process Blue",
+    "slug": "opticolor-process-blue",
+    "description": "Opticolor® Process Blue is a standard solvent based inks are produced for use in all areas of color imaging (transfers and direct proofs) and are specially formulated not to crack, chip, or peel and have the flexibility for packaging comps, i.e. folds and curves. Colors are matched to the popular mixing series.",
+    "company_name": "Central Chemical & Service",
+    "company_slug": "central-chemical-service",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664291352/production/Brand/27948/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609091/production/CategoryImage/594/category_image/PrintingPackaging_05.jpg",
+    "properties": {
+        "Applications": [
+            "Printing & Inks",
+            "Other Printing Applications"
+        ],
+        "Product Families": [
+            "Inks & Pastes",
+            "Other Inks"
+        ]
+    },
+    "summary": {
+        "Features": [
+            "Good Color Stability",
+            "Peel Resistance",
+            "Crack Resistant",
+            "Chipping Resistance",
+            "Good Flexibility"
+        ],
+        "Color": [
+            "Blue"
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "id": 349601,
+    "brand": "eterac",
+    "name": "Eternal Materials 2968PT-689 SERIES",
+    "slug": "eternal-materials-2968pt-689-series",
+    "description": "Eternal Materials 2968PT-689 Series is vinyl ester based structural adhesive.",
+    "company_name": "Eternal Materials Co Ltd",
+    "company_slug": "eternal-materials",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1685601157/production/Company/23225/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608621/production/CategoryImage/570/category_image/PaintingsCoatings_06.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial & Assembly Adhesives",
+            "Other Industrial & Assembly Applications",
+            "Other Automotive Applications",
+            "Marine",
+            "Industrial Adhesives & Sealants",
+            "Chemical & Industrial Manufacturing",
+            "Transportation",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Structural Adhesives"
+        ],
+        "Chemical Family": [
+            "Vinyls, Vinylics & Vinyl Derivatives",
+            "Vinyl Esters"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Structural Adhesive"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Composites",
+            "Metal"
+        ],
+        "Chemical Family": [
+            "Vinyls, Vinylics & Vinyl Derivatives",
+            "Vinyl Esters"
+        ]
+    }
+}

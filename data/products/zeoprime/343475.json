@@ -1,0 +1,26 @@
+{
+    "id": 343475,
+    "brand": "zeoprime",
+    "name": "VITASCOR",
+    "slug": "vitascor",
+    "description": "Vitascor is a great source of stable and bioavailable vitamin C. Registered with Coastal Aquaculture Authority (CAA), India.",
+    "company_name": "Avitech Nutrition",
+    "company_slug": "avitech-nutrition",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708686298/production/Brand/25436/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608215/production/CategoryImage/550/category_image/AgricultureFeed_06.jpg",
+    "properties": {
+        "Applications": [
+            "Aquaculture",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Vitamins",
+            "Nutritional Ingredients"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Vitamin Source"
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "id": 418958,
+    "brand": "fertelite",
+    "name": "Algafluid®",
+    "slug": "algafluid",
+    "description": "ALGAFLUID is a biostimulating action product of vegetable origin allowed in organic farming. It promotes the absorption of nutrients and favors the vegetative development of crops especially if subjected to climatic stress. ALGAFLUID is rapidly assimilated and translocated from the leaf surface to the cells, increasing the metabolic activity of the plant. ALGAFLUID can be used both foliar and root.",
+    "company_name": "PAVONI & C SPA",
+    "company_slug": "pavoni-c-spa",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708687879/production/Brand/32842/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608173/production/CategoryImage/547/category_image/AgricultureFeed_03.jpg",
+    "properties": {
+        "Applications": [
+            "Other Agricultural Crops",
+            "Agricultural Crops"
+        ],
+        "Product Families": [
+            "Bioenhancers",
+            "Adjuvants & Formulation Ingredients"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Bioenhancer"
+        ],
+        "Application Technique": [
+            "Foliage Applied",
+            "Chemigation"
+        ],
+        "Features": [
+            "Approved For Organic Farming"
+        ]
+    }
+}

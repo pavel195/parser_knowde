@@ -1,0 +1,45 @@
+{
+    "id": 353380,
+    "brand": "alphalam",
+    "name": "Alpha Associates, Inc EPX 4460",
+    "slug": "alpha-associates-inc-epx-4460",
+    "description": "EPX 4460 is a Peroxide Cured Ethyl Propylene diene monomer.",
+    "company_name": "Alpha Associates, Inc",
+    "company_slug": "alpha-associates-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691737758/production/Company/14938/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Appliances & Electronics",
+            "Equipment & Parts",
+            "Other Building Materials",
+            "Aerospace & Aviation",
+            "Advanced Materials",
+            "Building Materials",
+            "Military & Defense",
+            "Chemical & Industrial Manufacturing",
+            "Transportation"
+        ],
+        "Product Families": [
+            "Parts & Shapes"
+        ],
+        "Chemical Family": [
+            "Polyolefins"
+        ],
+        "Polymer Name": [
+            "Ethylene Propylene Diene Terpolymer (EPDM)"
+        ],
+        "End Uses": [
+            "Expansion Joint",
+            "Pipeline Bearing Pads",
+            "Washer",
+            "Pipe Seals",
+            "O Rings",
+            "Construction Applications",
+            "Aerospace Applications",
+            "Military Applications",
+            "Gaskets"
+        ]
+    },
+    "summary": {}
+}

@@ -1,0 +1,63 @@
+{
+    "id": 326418,
+    "brand": "mythocondro",
+    "name": "Red Star®",
+    "slug": "red-star",
+    "description": "Red Star® has been renowned for its complete nutritional profile, which includes proteins, ß-glucans, vitamins, and minerals. Nutritional yeast is seeing a major resurgence of interest from today’s health conscious consumers, who are using Red Star products to enhance the nutrition and taste of a variety of foods, including salads, soups, sauces, and popcorn. All Red Star products are guaranteed to perform with consistency and are available in supermarkets and enjoyed in kitchens throughout the United States and Canada.",
+    "company_name": "Gnosis",
+    "company_slug": "gnosis",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708690510/production/Company/31049/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606996/production/CategoryImage/508/category_image/FoodNutrition_09.jpg",
+    "properties": {
+        "Applications": [
+            "Cereals & Snacks",
+            "Other Non-Alcoholic Beverages",
+            "Bakery",
+            "Savory & Culinary",
+            "Functional Foods",
+            "Other Nutrition Applications",
+            "Beverage",
+            "Food",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Food Premixes",
+            "Vitamins",
+            "Proteins & Amino Acids",
+            "Minerals",
+            "Premixes & Blends",
+            "Nutrient Premixes",
+            "Nutrition & Fortification",
+            "Whole Foods, Extracts & Premixes",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Snacks",
+            "Packaged Salads",
+            "Popcorn",
+            "Sauces",
+            "Soups"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Nutritional Yeast"
+        ],
+        "Functions": [
+            "Premix",
+            "Supplement",
+            "Dietary Supplement"
+        ],
+        "Labeling Claims": [
+            "Vegan",
+            "Non-GMO",
+            "Vegetarian",
+            "Gluten-free",
+            "Kosher",
+            "Allergen-free",
+            "Preservative-free",
+            "Lactose-free",
+            "Halal"
+        ]
+    }
+}

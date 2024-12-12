@@ -1,0 +1,69 @@
+{
+    "id": 259037,
+    "brand": "duradene",
+    "name": "Lion Elastomers SBR 1009",
+    "slug": "lion-elastomers-sbr-1009",
+    "description": "Hot polymerized SBR 1009 is recommended for use in calendared products such as slab soling for footwear, and in extruded mechanical goods where smoothness and controlled shrinkage are critical requirements. It is also widely used in sealants and adhesives.",
+    "company_name": "Lion Elastomers",
+    "company_slug": "lion-elastomers",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708691100/production/Company/2806/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708691100/production/Company/2806/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Sealants & Caulks",
+            "Construction Adhesives",
+            "Textile Manufacturing",
+            "Wallcoverings & Decorative Laminates",
+            "Equipment & Parts",
+            "Adhesives",
+            "Belts & Conveyers",
+            "Footwear",
+            "Wallcovering & Decorative Laminates",
+            "Textile & Footwear Adhesives",
+            "Building & Construction",
+            "Industrial & Assembly Adhesives",
+            "Building Materials",
+            "Construction Chemicals",
+            "Flooring & Surfaces",
+            "Roofing",
+            "Chemical & Industrial Manufacturing",
+            "Textiles & Nonwovens",
+            "Decorative Materials & Finishes",
+            "Leather & Textiles"
+        ],
+        "Product Families": [
+            "Styrene Butadiene Rubbers (SBR)",
+            "Processing Aids",
+            "Other Resins & Binders",
+            "Resins & Binders",
+            "Polymer Additives",
+            "Thermoset Elastomers",
+            "Elastomer Additives"
+        ],
+        "Chemical Family": [
+            "Styrenics",
+            "Styrene Copolymers"
+        ],
+        "Polymer Name": [
+            "Styrene Butadiene Random Copolymer"
+        ],
+        "End Uses": [
+            "Belts/Belt Repair",
+            "Conveyor Parts",
+            "Pressure Sensitive Adhesive"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Styrene Butadiene Random Copolymer"
+        ],
+        "Functions": [
+            "Processing Aid",
+            "Binder & Resin"
+        ],
+        "Chemical Family": [
+            "Styrenics",
+            "Styrene Copolymers"
+        ]
+    }
+}

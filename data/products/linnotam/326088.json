@@ -1,0 +1,59 @@
+{
+    "id": 326088,
+    "brand": "linnotam",
+    "name": "Licharz PSU",
+    "slug": "licharz-psu",
+    "description": "Amorphous high-performance plastic with high mechanical strength and rigidity as well as good Creep resistance over a wide temperature range. In addition, PSU has a high long-term use temperature, good dimensional stability and is Resistant to hydrolysis",
+    "company_name": "Licharz",
+    "company_slug": "licharz",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686150085/production/Company/31279/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608422/production/CategoryImage/558/category_image/BuildingConstruction_02.jpg",
+    "properties": {
+        "Applications": [
+            "Parts & Components",
+            "Textiles & Nonwovens",
+            "Leather & Textiles",
+            "Housings & Enclosures",
+            "Other Textile Applications",
+            "Textile Manufacturing"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Polysulfones"
+        ],
+        "Polymer Name": [
+            "Polysulfone (PSU)"
+        ],
+        "End Uses": [
+            "Housings",
+            "Bobbins"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polysulfone (PSU)"
+        ],
+        "Physical Form": [
+            "Plates",
+            "Tube",
+            "Bars"
+        ],
+        "Features": [
+            "Dimensional Stability",
+            "Excellent Hydrolysis Resistance",
+            "Creep Resistant",
+            "Excellent Rigidity",
+            "Excellent Mechanical Strength",
+            "Amorphous",
+            "Excellent Performance"
+        ],
+        "Density": [
+            "1240.0 - 1240.0 kg/m³"
+        ],
+        "Color": [
+            "Natural"
+        ]
+    }
+}

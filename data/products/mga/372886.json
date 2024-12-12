@@ -1,0 +1,37 @@
+{
+    "id": 372886,
+    "brand": "mga",
+    "name": "MAXXIMA® COFREE Black1",
+    "slug": "maxxima-cofree-black1",
+    "description": "MAXXIMA® COFREE Black1 uses !NKREDIBLE technology printing ink for maximum reliability in the printing process, all-purpose without weaknesses in performance profile.",
+    "company_name": "Huber Inks",
+    "company_slug": "huber-inks",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664291369/production/Brand/27842/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609091/production/CategoryImage/594/category_image/PrintingPackaging_05.jpg",
+    "properties": {
+        "Applications": [
+            "Offset & Lithographic Printing",
+            "Printing & Inks"
+        ],
+        "Product Families": [
+            "Offset & Lithographic Inks",
+            "Inks & Pastes"
+        ]
+    },
+    "summary": {
+        "Features": [
+            "Fast Setting",
+            "High Gloss",
+            "Alkali Resistant",
+            "High Clarity",
+            "Good Scratch Resistance",
+            "Alcohol Resistant",
+            "Highly Versatile",
+            "Good Light Fastness",
+            "Good Stability"
+        ],
+        "Color": [
+            "Black"
+        ]
+    }
+}

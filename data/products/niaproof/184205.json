@@ -1,0 +1,42 @@
+{
+    "id": 184205,
+    "brand": "niaproof",
+    "name": "Probake® Calcium Propionate",
+    "slug": "probake-calcium-propionate",
+    "description": "Probake® CP calcium propionate is supplied in three grades: 1. A low dust and easy soluble granular grade",
+    "company_name": "Niacet",
+    "company_slug": "niacet",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709126375/production/Product/184205/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1709126375/production/Product/184205/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Cereals & Snacks",
+            "Other Food Applications",
+            "Bakery",
+            "Food"
+        ],
+        "Product Families": [
+            "Antioxidants & Preservatives",
+            "Functional Additives"
+        ],
+        "End Uses": [
+            "Bread"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Calcium Propionate"
+        ],
+        "Functions": [
+            "Shelf Life Enhancer",
+            "Mold Inhibitor",
+            "Preservative"
+        ],
+        "Physical Form": [
+            "Granules",
+            "Powder",
+            "Solid",
+            "Crystals"
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "id": 427075,
+    "brand": "masteremaco",
+    "name": "MasterProtect® 170CR",
+    "slug": "masterprotect-170cr",
+    "description": "MasterProtect® 170CR is a high-build, 100% solids epoxy coating. It provides resistance to harsh chemicals, including 98% sulfuric acid, and can be used as a topcoat over epoxy and polyurethane coatings.",
+    "company_name": "Master Builders Solutions",
+    "company_slug": "master-builders-solutions",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520318/production/Brand/33828/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608454/production/CategoryImage/560/category_image/BuildingConstruction_04.jpg",
+    "properties": {
+        "Applications": [
+            "Flooring & Surfaces",
+            "Industrial Coatings",
+            "Floor Coatings"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Top Coats",
+            "Protective Coatings"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ],
+        "Ready-to-Use Product Type": [
+            "Epoxy Coating",
+            "Top Coat",
+            "Solventless & High Solids Coating"
+        ],
+        "Application Area": [
+            "Floor",
+            "Manholes",
+            "Food Processing",
+            "Pulp And Paper Mills"
+        ],
+        "Features": [
+            "High Solids Content",
+            "Durable",
+            "Chemical Resistant",
+            "Anti-Slip",
+            "Solventless"
+        ]
+    }
+}

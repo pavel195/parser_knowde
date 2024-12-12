@@ -1,0 +1,35 @@
+{
+    "id": 411673,
+    "brand": "enviroclean",
+    "name": "ENVIROTEK™",
+    "slug": "envirotek",
+    "description": "ENVIROTEK™ is intended for the decontamination of mission-critical equipment as well as all high-touch contact surfaces. There are no corrosive or residual components. It produces a fast-drying, virgin surface.",
+    "company_name": "Formula Science",
+    "company_slug": "formula-science",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292579/production/Brand/32090/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515589/production/CategoryImage/1050/category_image/HII_02.jpg",
+    "properties": {
+        "Applications": [
+            "Home Care",
+            "Institutional & Industrial Care",
+            "Surface Care",
+            "Technical Cleaning"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Commercial Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner"
+        ],
+        "Application Areas": [
+            "Electronic Components",
+            "Equipment"
+        ],
+        "Features": [
+            "Fast Drying"
+        ]
+    }
+}

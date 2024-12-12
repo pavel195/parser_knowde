@@ -1,0 +1,64 @@
+{
+    "id": 326085,
+    "brand": "linnotam",
+    "name": "Licharz PET-GL",
+    "slug": "licharz-pet-gl",
+    "description": "Semi-crystalline thermoplastic with high Hardness, rigidity and mechanical strength as well good creep resistance. By adding a it has a special, homogeneously distributed solid lubricant, compared to pure PET, improved sliding properties and higher abrasion resistance.",
+    "company_name": "Licharz",
+    "company_slug": "licharz",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686150331/production/Company/31279/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608422/production/CategoryImage/558/category_image/BuildingConstruction_02.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Parts & Components",
+            "Powertrain & UTH",
+            "Other Automotive Applications",
+            "Chemical & Industrial Manufacturing",
+            "Automotive",
+            "Other Parts & Components",
+            "Structural Components",
+            "Other Industrial Applications"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Polyethylene Terephthalate (PET)"
+        ],
+        "Polymer Name": [
+            "Polyethylene Terephthalate (PET)"
+        ],
+        "End Uses": [
+            "Bearings",
+            "Cams"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyethylene Terephthalate (PET)"
+        ],
+        "Physical Form": [
+            "Plates",
+            "Tube",
+            "Bars"
+        ],
+        "Features": [
+            "High Rigidity",
+            "Good Sliding Properties",
+            "Dimensional Stability",
+            "High Hardness",
+            "Creep Resistant",
+            "Semi Crystalline",
+            "Abrasion Resistant",
+            "High Strength",
+            "Low Moisture Absorption"
+        ],
+        "Density": [
+            "1380.0 - 1380.0 kg/m³"
+        ],
+        "Color": [
+            "Grey"
+        ]
+    }
+}

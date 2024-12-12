@@ -1,0 +1,30 @@
+{
+    "id": 415127,
+    "brand": "vintre",
+    "name": "PREV-B2™",
+    "slug": "prev-b2",
+    "description": "PREV-B2™ is a boron fertilizer, which acts as an essential micro-nutrient for plant growth and development.",
+    "company_name": "Oro Agri",
+    "company_slug": "oro-agri",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708684063/production/Brand/32330/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608150/production/CategoryImage/545/category_image/AgricultureFeed_01.jpg",
+    "properties": {
+        "Applications": [
+            "Other Agricultural Crops",
+            "Agricultural Crops"
+        ],
+        "Product Families": [
+            "Fertilizers & Nutrients",
+            "Plant Health, Nutrients & Soil Management"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Micronutrient",
+            "Fertilizer"
+        ],
+        "Application Technique": [
+            "Foliage Applied"
+        ]
+    }
+}

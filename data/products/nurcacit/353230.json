@@ -1,0 +1,42 @@
+{
+    "id": 353230,
+    "brand": "nurcacit",
+    "name": "Nurcacit MBS GRS",
+    "slug": "nurcacit-mbs-grs",
+    "description": "Nurcacit MBS GRS provides extended scorch safety and good green stock storage stability compared to CBS or TBBS. It is recommended for applications where extended scorch safety is required such as thick extrusions. Stock with high loading of furnace blacks such as ISAF and SAF. Its long scorch delay is also advantageous in injection or transfer molding operations.",
+    "company_name": "Nanjing Union Rubber Chemicals",
+    "company_slug": "nanjing-union-rubber-chemicals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708691516/production/Brand/26324/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608779/production/CategoryImage/578/category_image/AutomotiveTransportation_06.jpg",
+    "properties": {
+        "Applications": [
+            "Tires",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Catalysts, Initiators & Crosslinkers",
+            "Elastomer Additives"
+        ],
+        "Chemical Family": [
+            "Amides"
+        ],
+        "End Uses": [
+            "Tires"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "N-Oxydiethyl-2-benzthiazolsulfenamid"
+        ],
+        "Functions": [
+            "Accelerator"
+        ],
+        "Processing Methods": [
+            "Injection Molding",
+            "Transfer Molding"
+        ],
+        "Features": [
+            "Scorch Resistant"
+        ]
+    }
+}

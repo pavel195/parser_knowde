@@ -1,0 +1,39 @@
+{
+    "id": 299879,
+    "brand": "panatura",
+    "name": "Panatura Forte",
+    "slug": "panatura-forte",
+    "description": "Panatura forte is a ready-to-use natural wheat preliminary dough that is made with the best raw materials and naturally fermented over several days using a worldwide patented process. The added, non-genetically modified enzymes run through the entire fermentation process with the help of a special technique. Thanks to this special process, the otherwise delicate enzymes are retained for several weeks and ensure the volume of the dough without the need for additional baking agents. Applicable for all working methods, whether with or without stick cooking, over systems or long guides, over cold or deep-freeze storage.",
+    "company_name": "Hefe Schweiz AG",
+    "company_slug": "hefe-schweiz-ag",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686634761/production/Company/23720/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607305/production/CategoryImage/515/category_image/FoodNutrition_15.jpg",
+    "properties": {
+        "Applications": [
+            "Food",
+            "Bakery"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Food Premixes"
+        ],
+        "End Uses": [
+            "Bread",
+            "Rolls"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Dough"
+        ],
+        "Physical Form": [
+            "Solid",
+            "Powder"
+        ],
+        "Labeling Claims": [
+            "Plant-Based",
+            "Naturally Derived",
+            "Natural"
+        ]
+    }
+}

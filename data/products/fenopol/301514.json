@@ -1,0 +1,41 @@
+{
+    "id": 301514,
+    "brand": "fenopol",
+    "name": "POLIURET 778 75 AE",
+    "slug": "poliuret-778-75-ae",
+    "description": "POLIURET 778 75 AE is a non-reactive aromatic polyurethane.",
+    "company_name": "Polidur San Luis",
+    "company_slug": "polidur-san-luis",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112342/production/Company/24298/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609091/production/CategoryImage/594/category_image/PrintingPackaging_05.jpg",
+    "properties": {
+        "Applications": [
+            "Printing & Inks",
+            "Other Adhesives & Sealants Applications",
+            "Flexography"
+        ],
+        "Product Families": [
+            "Resins & Binders",
+            "Polyurethanes (PU)"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ],
+        "End Uses": [
+            "Flexography Ink"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ],
+        "End Uses": [
+            "Flexography Ink"
+        ],
+        "Features": [
+            "Heat Resistance",
+            "Good Mechanical Properties",
+            "Improved Flexibility"
+        ]
+    }
+}

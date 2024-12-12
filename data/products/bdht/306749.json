@@ -1,0 +1,57 @@
+{
+    "id": 306749,
+    "brand": "bdht",
+    "name": "BDT LG3701",
+    "slug": "bdt-lg3701",
+    "description": "BDT LG3701 has an excellent mold flow, mold release, good resistance to the fuel containing alcohols.",
+    "company_name": "Chenguang Fluoro & Silicone Elastomers",
+    "company_slug": "chenguang-fluoro-silicone-elastomers",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697222733/production/Product/306749/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608744/production/CategoryImage/575/category_image/AutomotiveTransportation_03.jpg",
+    "properties": {
+        "Applications": [
+            "Equipment & Parts",
+            "Interior",
+            "Exterior & Body",
+            "Other Industrial Applications",
+            "Other Parts & Components",
+            "Structural Components",
+            "Aerospace & Aviation",
+            "Other Automotive Applications",
+            "Tooling & Moldmaking",
+            "Pharmaceutical Processing",
+            "Medical Devices & Assemblies",
+            "Other Devices & Assemblies",
+            "Powertrain & UTH",
+            "Automotive",
+            "Transportation",
+            "Building Materials",
+            "Devices & Assemblies",
+            "Parts & Components",
+            "Medical",
+            "Pharmaceutical Manufacturing",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Fluoroelastomers",
+            "Specialty Elastomers"
+        ],
+        "Chemical Family": [
+            "Fluoropolymers"
+        ],
+        "Polymer Name": [
+            "Fluoroelastomer (FKM)"
+        ],
+        "End Uses": [
+            "Automotive Interior Parts",
+            "Automotive Exterior Parts",
+            "Machine/Mechanical Parts",
+            "Automotive Applications",
+            "Aerospace Applications",
+            "O Rings",
+            "Mold Making",
+            "Gaskets"
+        ]
+    },
+    "summary": {}
+}

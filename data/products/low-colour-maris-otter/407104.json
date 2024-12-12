@@ -1,0 +1,33 @@
+{
+    "id": 407104,
+    "brand": "low-colour-maris-otter",
+    "name": "Simpsons Malt Best Pale Ale Malt ASBC",
+    "slug": "simpsons-malt-best-pale-ale-malt-asbc",
+    "description": "Simpsons Malt Best Pale Ale Malt ASBC is Traditional British base malt. The versatility of this base malt lends itself to balance hoppy beers and provides a robust malty note to a Traditional Bitter or Belgian-style beer.",
+    "company_name": "Simpsons Malt",
+    "company_slug": "simpsons-malt",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686109796/production/Company/53140/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606945/production/CategoryImage/505/category_image/FoodNutrition_06.jpg",
+    "properties": {
+        "Applications": [
+            "Beverage",
+            "Liquor & Spirits",
+            "Beer Brewing"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Flours & Grains Products"
+        ],
+        "Flavor Family": [
+            "Beverage Inspired Flavors"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Base Malt"
+        ],
+        "Certifications & Compliance": [
+            "B-Corp Certified"
+        ]
+    }
+}

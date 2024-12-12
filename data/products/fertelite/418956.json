@@ -1,0 +1,38 @@
+{
+    "id": 418956,
+    "brand": "fertelite",
+    "name": "PAVONI & C SPA Kaliplus 30",
+    "slug": "pavoni-c-spa-kaliplus-30",
+    "description": "Kaliplus 30 is a fertilizer used for fertigation with potassic basis only.",
+    "company_name": "PAVONI & C SPA",
+    "company_slug": "pavoni-c-spa",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708689137/production/Company/56997/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608173/production/CategoryImage/547/category_image/AgricultureFeed_03.jpg",
+    "properties": {
+        "Applications": [
+            "Ornamentals",
+            "Fruits",
+            "Vegetables",
+            "Agricultural Crops",
+            "Turf, Ornamentals & Landscape"
+        ],
+        "Product Families": [
+            "Fertilizers & Nutrients",
+            "Plant Health, Nutrients & Soil Management"
+        ],
+        "Chemical Family": [
+            "Potassium Salts"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Potassium Salts"
+        ],
+        "Functions": [
+            "Fertilizer"
+        ],
+        "Application Technique": [
+            "Chemigation"
+        ]
+    }
+}

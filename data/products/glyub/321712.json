@@ -1,0 +1,55 @@
+{
+    "id": 321712,
+    "brand": "glyub",
+    "name": "Glylub 53",
+    "slug": "glylub-53",
+    "description": "Glylub 53 is to design particularly for high temperature performance. They improve thermal resistance and volatility offering high viscosity, flash point and extremely low vapor pressure. It is also obtained fr om trimellitic anhydride and linear or branched alcohol. They retain the principal characteristics of phthalate additives but improving thermal properties.",
+    "company_name": "Condensia",
+    "company_slug": "condensia",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704100173/production/Brand/22926/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Cold-Chain & Insulation",
+            "Appliances & Electronics",
+            "Fluids & Lubricants",
+            "Automotive Fluids & Lubricants",
+            "Lubricants & Functional Fluids",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Performance Additives",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Trimellitates"
+        ],
+        "End Uses": [
+            "Metalworking Fluids",
+            "Metalworking Equipment Oils",
+            "Chain Oils",
+            "Compressor Oils"
+        ]
+    },
+    "summary": {
+        "End Uses": [
+            "Metalworking Fluids",
+            "Metalworking Equipment Oils",
+            "Chain Oils",
+            "Compressor Oils"
+        ],
+        "Chemical Family": [
+            "Trimellitates"
+        ],
+        "Features": [
+            "High Flash Point",
+            "Heat Resistant",
+            "Low Vapor Pressure",
+            "High Viscosity",
+            "High Temperature Performance"
+        ],
+        "Synonyms": [
+            "TOTM, Tris(2-Ethylhexyl)Trimellitate"
+        ]
+    }
+}

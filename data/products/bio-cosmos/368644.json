@@ -1,0 +1,43 @@
+{
+    "id": 368644,
+    "brand": "bio-cosmos",
+    "name": "ARDA NATURA SALICARIA WATER 009226",
+    "slug": "arda-natura-salicaria-water-009226",
+    "description": "Salicaria Water is a distilled water extracted from common sarcerella used in hair and skin applications.",
+    "company_name": "ARDA NATURA",
+    "company_slug": "arda-natura",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704116577/production/Company/42621/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515751/production/CategoryImage/1063/category_image/PersonalCare_05.jpg",
+    "properties": {
+        "Applications": [
+            "Hair Care",
+            "Skin Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Hydrosols & Waters",
+            "Vitamins, Extracts & Oils"
+        ],
+        "Chemical Family": [
+            "Botanical Derivatives"
+        ],
+        "INCI Name": [
+            "Lythrum Salicaria Extract"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Lythrum Salicaria Extract"
+        ],
+        "Ingredient Origin": [
+            "Non-Animal Origin",
+            "Plant Origin",
+            "Natural Origin"
+        ],
+        "Labeling Claims": [
+            "Naturally Derived",
+            "Ulta Beauty's Conscious Beauty",
+            "Plant-Based"
+        ]
+    }
+}

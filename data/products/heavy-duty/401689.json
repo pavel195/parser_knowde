@@ -1,0 +1,48 @@
+{
+    "id": 401689,
+    "brand": "heavy-duty",
+    "name": "CONVOY™ TRUCK WASH",
+    "slug": "convoy-truck-wash",
+    "description": "Convoy™ Truck Wash is a breakthrough product for Commercial Vehicle cleaning. It contains a balanced blend of biodegradable surfactants and detergent builders that electrochemically penetrate and remove road film from Vehicles. It has been specially designed for use in pressure washers. Convoy™ has excellent rinse ability and does not leave a soapy film behind.",
+    "company_name": "Anti-Seize Technology",
+    "company_slug": "anti-seize-technology",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1670414024/production/Brand/30614/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515636/production/CategoryImage/1054/category_image/HII_06.jpg",
+    "properties": {
+        "Applications": [
+            "Institutional & Industrial Care",
+            "Industrial Cleaning",
+            "Vehicle & Machinery"
+        ],
+        "Product Families": [
+            "Commercial Cleaners",
+            "Cleaners"
+        ],
+        "End Uses": [
+            "Equipment",
+            "Truck"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner",
+            "Automotive Cleaners"
+        ],
+        "Application Areas": [
+            "Truck",
+            "Equipment"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Aluminum",
+            "Metal"
+        ],
+        "Certifications & Compliance": [
+            "SARA 313",
+            "Comprehensive Environmental Response, Compensations & Liability Act (CERCLA)"
+        ],
+        "Features": [
+            "Good Hard Water Stability",
+            "Good Abrasion Resistance"
+        ]
+    }
+}

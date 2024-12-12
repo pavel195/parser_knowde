@@ -1,0 +1,37 @@
+{
+    "id": 437767,
+    "brand": "as-performance-turbo",
+    "name": "AS Performance Gear VS 75W-140 GL5 LSP",
+    "slug": "as-performance-gear-vs-75w-140-gl5-lsp",
+    "description": "AS Performance Gear VS 75W-140 GL5 LSP is fully synthetic LS hypoid gear oil (Limited Slip). It is primarily used in very heavily loaded drive axles and multi-disk locking differentials in commercial vehicles, passenger cars, tractors and construction machinery.",
+    "company_name": "AS Automotive",
+    "company_slug": "as-automotive",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680108911/production/Company/63010/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608730/production/CategoryImage/574/category_image/AutomotiveTransportation_02.jpg",
+    "properties": {
+        "Applications": [
+            "Powertrain & UTH",
+            "Chemical & Industrial Manufacturing",
+            "Automotive ",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Lubricants & Oils",
+            "Fluids & Lubricants"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Oil"
+        ],
+        "Application Area": [
+            "Axle",
+            "Machine Parts",
+            "Tractor",
+            "Gears"
+        ],
+        "SAE Viscosity Grade": [
+            "SAE 75W-140"
+        ]
+    }
+}

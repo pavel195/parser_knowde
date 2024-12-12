@@ -1,0 +1,40 @@
+{
+    "id": 300799,
+    "brand": "akrysolv",
+    "name": "Akryvil® WSA 4612",
+    "slug": "akryvil-wsa-4612",
+    "description": "Akryvil® WSA 4612 is a Styrene-acrylic dispersion used for Decorative, Primer Interior and Exterior paints. It has dispersions of acrylic, styrene acrylic and vinyl acrylic copolymers are high-quality products. Their production process is based on various parameters such as dry matter content, viscosity, average particle size, vitrification temperature or minimum film formation temperature. This allows us to supply raw materials perfectly adapted to the needs and expectations.",
+    "company_name": "D&R Dispersions and Resins",
+    "company_slug": "d-r-dispersions-and-resins",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1693581031/production/Company/24184/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608630/production/CategoryImage/571/category_image/PaintingsCoatings_07.jpg",
+    "properties": {
+        "Applications": [
+            "Plasters & Renders",
+            "Decorative Paints, Coatings & Stains",
+            "Other Industrial Coatings",
+            "Other Paints & Coatings Applications",
+            "Decorative Paints",
+            "Building Materials",
+            "Building & Construction",
+            "Industrial Coatings",
+            "Decorative Materials & Finishes"
+        ],
+        "Product Families": [
+            "Acrylics",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Styrene-Acrylic Copolymer"
+        ],
+        "End Uses": [
+            "Building Materials",
+            "Primer"
+        ]
+    },
+    "summary": {
+        "Glass Transition Temperature (Tg)": [
+            "2.0 - 4.0 °C"
+        ]
+    }
+}

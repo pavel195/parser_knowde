@@ -1,0 +1,62 @@
+{
+    "id": 416360,
+    "brand": "js",
+    "name": "JS Cocoa Expeller Cake 10-14% Fat",
+    "slug": "js-cocoa-expeller-cake-10-14-fat",
+    "description": "JS Cocoa Expeller Cake 10-14% Fat is obtained from Theobroma cocoa.",
+    "company_name": "JS Cocoa",
+    "company_slug": "js-cocoa",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709127813/production/Company/55267/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1709127813/production/Product/416360/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Ruminants",
+            "Tea, Cocoa & Coffee",
+            "Animal Health & Nutrition",
+            "Beverage"
+        ],
+        "Product Families": [
+            "Nutrient Premixes",
+            "Whole Foods & Extracts",
+            "Cocoa & Chocolate",
+            "Whole Foods, Extracts & Premixes",
+            "Nutritional Ingredients",
+            "Formulated Feeds, Whole Foods and Extracts"
+        ],
+        "End Uses": [
+            "Cocoa Powder"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Cocoa Expeller Cake"
+        ],
+        "Functions": [
+            "Whole Food Ingredient"
+        ],
+        "Animal Species": [
+            "Cattle"
+        ],
+        "Labeling Claims": [
+            "Biodegradable",
+            "Not Tested on Animals",
+            "Kosher",
+            "Natural",
+            "Halal",
+            "Non-GMO"
+        ],
+        "Certifications & Compliance": [
+            "SEDEX Approved",
+            "FSSC 22000",
+            "Kosher",
+            "JECFA (FAO/WHO)",
+            "GMP",
+            "FDA Compliant",
+            "Halal"
+        ],
+        "Physical Form": [
+            "Solid",
+            "Powder"
+        ]
+    }
+}

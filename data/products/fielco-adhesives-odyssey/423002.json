@@ -1,0 +1,30 @@
+{
+    "id": 423002,
+    "brand": "fielco-adhesives-odyssey",
+    "name": "Fielco Adhesives FCO 9509",
+    "slug": "fielco-adhesives-fco-9509",
+    "description": "Fielco Adhesives FCO 9509 is a multipurpose, high cohesive strength, two-part structural epoxy adhesive which provides superior adhesion to metals and plastics.",
+    "company_name": "Fielco Adhesives",
+    "company_slug": "fielco-adhesives",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691739835/production/Company/59402/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608953/production/CategoryImage/586/category_image/AdhesivesSealants_03.jpg",
+    "properties": {
+        "Applications": [
+            "Construction Adhesives",
+            "Furniture",
+            "Adhesives",
+            "Repair Adhesives",
+            "DIY & Consumer",
+            "Building Materials",
+            "Construction Chemicals"
+        ],
+        "Product Families": [
+            "Structural Adhesives",
+            "Adhesives & Sealants"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    },
+    "summary": {}
+}

@@ -1,0 +1,45 @@
+{
+    "id": 424753,
+    "brand": "circa-1850-dex",
+    "name": "Klenk's Odourless Thinner",
+    "slug": "klenk-s-odourless-thinner",
+    "description": "Klenk's Odorless Thinner thins oil-based paints and varnishes. It dissolves oil and grease, and cleans tools and brushes.",
+    "company_name": "Swing Paints",
+    "company_slug": "swing-paints",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1673943833/production/Company/50864/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608939/production/CategoryImage/585/category_image/AdhesivesSealants_02.jpg",
+    "properties": {
+        "Applications": [
+            "Institutional & Industrial Care",
+            "Industrial Cleaning"
+        ],
+        "Product Families": [
+            "Industrial Cleaners",
+            "Cleaners"
+        ],
+        "End Uses": [
+            "Brush",
+            "Spray Guns",
+            "Tools",
+            "Engine",
+            "Rollers"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Tar Cleaner",
+            "Degreasers"
+        ],
+        "Application Areas": [
+            "Rollers",
+            "Brush",
+            "Engine",
+            "Spray Guns",
+            "Tools"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Fibers & Fabrics",
+            "Plastics"
+        ]
+    }
+}

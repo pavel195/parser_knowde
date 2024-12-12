@@ -1,0 +1,51 @@
+{
+    "id": 396136,
+    "brand": "thermoflow",
+    "name": "Muehlmeier E-CR glass - direct roving E-CR300",
+    "slug": "muehlmeier-e-cr-glass-direct-roving-e-cr300",
+    "description": "Muehlmeier E-CR glass - direct roving E-CR300 is drawn directly from the glass melting and wound to a roving bobbin without turn. It is characterized by a soft silane size that is especially recommended for winding and pultrusion. The silane size was optimized for the working with polyester, epoxy, phenol and vinyl ester resins. Compared to E-glass, E-CR glass has excellent chemical and thermal resistance and higher dielectric strength. Therefore the preferred uses are installations and containers for the chemical industry.",
+    "company_name": "Muehlmeier",
+    "company_slug": "muehlmeier",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686149573/production/Company/50305/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608769/production/CategoryImage/577/category_image/AutomotiveTransportation_05.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical & Industrial Manufacturing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Reinforcements",
+            "Glass Fiber"
+        ],
+        "Chemical Family": [
+            "Glass Beads & Fibers"
+        ],
+        "End Uses": [
+            "Industrial Containers"
+        ]
+    },
+    "summary": {
+        "Reinforcement Material": [
+            "Glass Fibers"
+        ],
+        "Reinforcement Form": [
+            "Roving"
+        ],
+        "Compatible Polymers & Resins": [
+            "Epoxies (EP)",
+            "Unsaturated Polyester (UPE)",
+            "Vinyl Esters"
+        ],
+        "Processing Methods": [
+            "Pultrusion"
+        ],
+        "Features": [
+            "Wear Resistant",
+            "High Dielectric Strength",
+            "Good Thermal Stability",
+            "Corrosion Resistant",
+            "Excellent Wetting Behaviour",
+            "Chemical Resistant"
+        ]
+    }
+}

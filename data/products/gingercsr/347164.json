@@ -1,0 +1,42 @@
+{
+    "id": 347164,
+    "brand": "gingercsr",
+    "name": "WillowCSR™",
+    "slug": "willowcsr",
+    "description": "WillowCSR™ micro-encapsulates a standardized extract of the Salix Purpurea plant with 50% of Salicin. Based on the natural Salicin molecule, Aspirin is the first synthetic pain and fever relief drug. With significant dosing levels, WillowCSR™ completely isolates the notoriously bitter impact of Salicin, providing a material competitive advantage to Salicin incorporated food and beverage products The ingredient is optimal for incorporation into bars, shakes, meal replacement products and mix-n-drink beverages.",
+    "company_name": "Vital Technologies",
+    "company_slug": "vital-technologies",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672591/production/Brand/25859/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606914/production/CategoryImage/502/category_image/FoodNutrition_03.jpg",
+    "properties": {
+        "Applications": [
+            "Functional Foods",
+            "Other Non-Alcoholic Beverages",
+            "Nutraceuticals & Supplements",
+            "Beverage",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Phytochemicals & Plant Extracts",
+            "Phytochemicals",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Powder Shakes",
+            "Nutritional Bars",
+            "Dietary Supplements"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Supplement",
+            "Dietary Supplement"
+        ],
+        "Features": [
+            "No Bitterness",
+            "Improved Blood Circulation",
+            "Anti-Inflammatory"
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "id": 399124,
+    "brand": "aldoseal",
+    "name": "ALDOSEAL 385",
+    "slug": "aldoseal-385",
+    "description": "ALDOSEAL 385 is a technologically advanced, high solids, single component moisture cure polyurethane elastomeric sealant. In addition, it is a brush grade sealant and an excellent all-purpose sealer to address roof leaks on most roofing substrates. It is produced in an aluminum gray color that allows for faster cure times than white sealants. ALDOSEAL 385 provides greater protection against leaks and water penetration than most sealants due to its tenacious adhesive properties, higher tensile strength and low vapor permeability values and offers a wider window of application than water based acrylic sealants.",
+    "company_name": "Aldo Products Company",
+    "company_slug": "aldo-products-company",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520334/production/Brand/30293/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1687520334/production/Product/399124/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Construction Chemicals",
+            "Roofing",
+            "Sealants & Caulks",
+            "Roof Coatings",
+            "Building Envelope & Roofing",
+            "Waterproofing & Weatherproofing"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Caulks & Sealants"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "1K (1 component) Sealant"
+        ],
+        "Application Area": [
+            "Roofing Membranes"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal"
+        ],
+        "Cure Method": [
+            "Moisture Cure"
+        ],
+        "Application Method": [
+            "Brush"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ]
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "id": 390265,
+    "brand": "vegalan",
+    "name": "Henry Lamotte Oils GmbH Rose Hip Oil",
+    "slug": "henry-lamotte-oils-gmbh-rose-hip-oil",
+    "description": "Rose Hip Oil is obtained from the seeds of rose hips, which grow exclusively on wild rose bushes (Rosa canina L., Rosa rubiginosa and Rosa moschata) as so-called ovaries. Rose hips are harvested during dry weather when the fruit begin to ripen and take on their typical red color. The plant is native to Europe, but is cultivated in the temperate zones of America, Asia and Africa.",
+    "company_name": "Henry Lamotte Oils GmbH",
+    "company_slug": "henry-lamotte-oils-gmbh",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708686656/production/Company/1251/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708686656/production/Product/390265/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Bath & Shower",
+            "Treatment Products",
+            "Color Cosmetics",
+            "Hair Care",
+            "Skin Care",
+            "Oral",
+            "Topical",
+            "Drug Delivery & Care Solutions",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Fixed & Carrier Oils",
+            "Other Excipients",
+            "Vitamins, Extracts & Oils",
+            "Excipients"
+        ],
+        "INCI Name": [
+            "Rosa Rubiginosa Seed Oil"
+        ],
+        "End Uses": [
+            "Wound Treatment",
+            "Eczema Treatment",
+            "Massage Products",
+            "Hair Tonic",
+            "Hair Conditioner",
+            "Shampoos & Rinses",
+            "Lipstick"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Rosa Rubiginosa Seed Oil"
+        ],
+        "Chemical Name": [
+            "Rosehip Oil"
+        ],
+        "Functions": [
+            "Skin Protectant"
+        ]
+    }
+}

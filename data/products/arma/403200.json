@@ -1,0 +1,51 @@
+{
+    "id": 403200,
+    "brand": "arma",
+    "name": "Arma 901-90AS (800% Elongation)",
+    "slug": "arma-901-90as-800-elongation",
+    "description": "Arma 901-90AS (800% Elongation) is a two-component, polyurea elastomer spray system that can be applied under harsh environmental conditions. These products are non-hydrophobic with excellent chemical and abrasion resistance, providing excellent elongation.",
+    "company_name": "Arma Coatings",
+    "company_slug": "arma-coatings",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292102/production/Brand/30811/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608465/production/CategoryImage/561/category_image/BuildingConstruction_05.jpg",
+    "properties": {
+        "Applications": [
+            "Other Military & Defense Applications",
+            "Pavement, Highways, Roads & Bridges",
+            "Waterproofing & Weatherproofing",
+            "Building Envelope & Roofing",
+            "Infrastructure, Roads & Paving",
+            "Military & Defense"
+        ],
+        "Product Families": [
+            "Other Paints & Coatings",
+            "Paints & Coatings"
+        ],
+        "Chemical Family": [
+            "Polyureas"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Elastomeric Coating",
+            "2K (2 component) Coating"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Wood",
+            "Concrete"
+        ],
+        "Features": [
+            "Chemical Resistant",
+            "Abrasion Resistant",
+            "Good Impact Strength",
+            "Hydrophilic",
+            "High Elongation"
+        ],
+        "Application Method": [
+            "Spray"
+        ],
+        "Chemical Family": [
+            "Polyureas"
+        ]
+    }
+}

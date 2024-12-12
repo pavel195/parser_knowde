@@ -1,0 +1,43 @@
+{
+    "id": 296192,
+    "brand": "acris",
+    "name": "ACRIS 453",
+    "slug": "acris-453",
+    "description": "ACRIS 453 is a Self-crosslinking, vinylacrylic pressure sensitive adhesive with good adhesion properties. Adhesion varies with coating weight. Approved for medical use for skin contact. Suitable for plasters.",
+    "company_name": "ICAP-SIRA Chemicals and Polymers SpA",
+    "company_slug": "icap-sira-chemicals-and-polymers-spa",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112218/production/Company/23363/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Medical Adhesives",
+            "Medical",
+            "Medical Tapes & Adhesives",
+            "Medical Tapes"
+        ],
+        "Product Families": [
+            "Resins & Binders",
+            "Acrylics"
+        ],
+        "Chemical Family": [
+            "Vinyl Acrylic"
+        ],
+        "End Uses": [
+            "Pressure Sensitive Adhesive"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Vinyl Acrylic"
+        ],
+        "End Uses": [
+            "Pressure Sensitive Adhesive"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Textiles"
+        ],
+        "Features": [
+            "Excellent Adhesion"
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "id": 308555,
+    "brand": "nj",
+    "name": "Jurong Ningwu New Material Development NJ-3030",
+    "slug": "jurong-ningwu-new-material-development-nj-3030",
+    "description": "Jurong Ningwu New Material Development NJ-3030 can be used to produce coatings, adhesives, sealants, elastomers, etc.",
+    "company_name": "Jurong Ningwu New Material Development",
+    "company_slug": "jurong-ningwu-new-material-development",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686148591/production/Product/308555/logo/image",
+    "banner_url": "https://static.knowde.com/card-banners/knowde-card-for-raw-materials-8.jpg",
+    "properties": {
+        "Applications": [
+            "Other Adhesives & Sealants Applications",
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Monomers & Intermediates",
+            "Prepolymers & Polyols"
+        ],
+        "Chemical Family": [
+            "Polyols",
+            "Polyols (Polyether)"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Polyols (Polyether)",
+            "Polyols"
+        ],
+        "Hydroxyl Value": [
+            "290.0 - 320.0 mg KOH/g"
+        ],
+        "Viscosity": [
+            "200.0 - 400.0 cps"
+        ]
+    }
+}

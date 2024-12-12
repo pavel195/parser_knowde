@@ -1,0 +1,46 @@
+{
+    "id": 300382,
+    "brand": "ethylene-propylene-rubber-epr-epdm",
+    "name": "HIGH DENSITY POLYETHYLENE (HDPE) F0554",
+    "slug": "high-density-polyethylene-hdpe-f0554",
+    "description": "HIGH DENSITY POLYETHYLENE (HDPE) F0554 is a high molecular weight high density polyethylene resin designed for blown film applications. This resin has broad molecular weight distribution that makes it easier to process. Films made from this resin exhibit high stiffness, excellent impact and toughness characteristics.",
+    "company_name": "Petro Rabigh",
+    "company_slug": "petro-rabigh",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708529299/production/Company/24290/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608477/production/CategoryImage/562/category_image/BuildingConstruction_06.jpg",
+    "properties": {
+        "Applications": [
+            "Non-Food Consumer Packaging",
+            "Other Industrial Applications",
+            "Other Consumer Goods Applications",
+            "Packaging"
+        ],
+        "Product Families": [
+            "Polyolefins",
+            "Basic Thermoplastics"
+        ],
+        "Chemical Family": [
+            "Polyethylenes",
+            "Polyolefins"
+        ],
+        "Polymer Name": [
+            "High Density Polyethylene (HDPE)",
+            "Bimodal Polyethylene (Bimodal PE)"
+        ],
+        "End Uses": [
+            "Film",
+            "Heavy Duty Bags"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "High Density Polyethylene (HDPE)",
+            "Bimodal Polyethylene (Bimodal PE)"
+        ],
+        "Processing Methods": [
+            "Blown Film Extrusion",
+            "Film Extrusion",
+            "Extrusion"
+        ]
+    }
+}

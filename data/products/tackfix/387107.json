@@ -1,0 +1,39 @@
+{
+    "id": 387107,
+    "brand": "tackfix",
+    "name": "tackfix 48",
+    "slug": "tackfix-48",
+    "description": "Tackfix 48 is an acrylic based hot melt adhesive for instantly bonding tack strip to concrete and ceramic floors. It bonds to metal, ceramic, stone, wood, brick, concrete, tiles, plastics, fiber cement board and many other surfaces",
+    "company_name": "Power Adhesives",
+    "company_slug": "power-adhesives",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1684496699/production/Brand/29035/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608410/production/CategoryImage/557/category_image/BuildingConstruction_01.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Flooring & Surfaces",
+            "Decorative Materials & Finishes",
+            "Construction Adhesives",
+            "Carpet",
+            "Other Flooring & Surface Applications"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Hot Melt Adhesives"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Hot Melt Adhesive"
+        ],
+        "Application Method": [
+            "Gun"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "id": 325332,
+    "brand": "provesol",
+    "name": "Provesol ESL",
+    "slug": "provesol-esl",
+    "description": "PROVESOL ESL  is a protein extract obtained from the aqueous emulsion of decorticated soy beans (genetically unmodified) subjected to suitable heat treatment to inactivate the antinutritional factors, separation of the soluble fraction added maltodextrin with drying process  spray- drying. It comes in the form of a fine powder, with high solubility and dispersibility. Naturally free of lactose, sucrose, casein and gluten. No chemical additives.",
+    "company_name": "Olvebra Industrial",
+    "company_slug": "olvebra-industrial",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686109301/production/Company/29333/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606914/production/CategoryImage/502/category_image/FoodNutrition_03.jpg",
+    "properties": {
+        "Applications": [
+            "Food",
+            "Dairy",
+            "Desserts & Fruit Preparations"
+        ],
+        "Product Families": [
+            "Nutrition & Fortification",
+            "Whole Foods, Extracts & Premixes",
+            "Plant Proteins",
+            "Nutraceuticals & Supplements",
+            "Proteins & Amino Acids",
+            "Alternates & Replacements"
+        ],
+        "End Uses": [
+            "Ice Cream"
+        ]
+    },
+    "summary": {
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Plant Origin"
+        ],
+        "Labeling Claims": [
+            "Non-GMO",
+            "Vegan",
+            "Plant-Based",
+            "Lactose-free",
+            "Naturally Derived",
+            "Natural",
+            "Additive-free",
+            "Sugar-free"
+        ]
+    }
+}

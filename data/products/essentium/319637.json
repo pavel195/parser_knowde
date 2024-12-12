@@ -1,0 +1,45 @@
+{
+    "id": 319637,
+    "brand": "essentium",
+    "name": "ESSENTIUM PCTG-Z",
+    "slug": "essentium-pctg-z",
+    "description": "Introducing Essentium’s new line of industrial grade filaments that are ESD safe. Essentium’s ESD materials are proven to succeed in an industrial setting. With non-marring surface properties, you don’t have to worry about latent failures in electronics. These materials are the only industrially proven, safe material for ESD sensitive applications where you need a material that you must trust. PCTG is an easy to print material with significantly increased impact strength when compared to PETG.",
+    "company_name": "Essentium",
+    "company_slug": "essentium",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686113292/production/Product/319637/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical & Industrial Manufacturing",
+            "Tooling & Moldmaking"
+        ],
+        "Product Families": [
+            "3D Printing Polymers",
+            "Thermoplastic Filament"
+        ],
+        "Chemical Family": [
+            "Polyesters"
+        ],
+        "Polymer Name": [
+            "Thermoplastic Polyester"
+        ],
+        "End Uses": [
+            "Molds/Dies/Tools",
+            "Electrical/Electronic Applications",
+            "Industrial Parts"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Thermoplastic Polyester"
+        ],
+        "End Uses": [
+            "Electrical/Electronic Applications",
+            "Industrial Parts",
+            "Molds/Dies/Tools"
+        ],
+        "Density": [
+            "1230.0 - 1230.0 kg/m³"
+        ]
+    }
+}

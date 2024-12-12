@@ -1,0 +1,39 @@
+{
+    "id": 300817,
+    "brand": "visicryl",
+    "name": "VISICRYL 7796 E",
+    "slug": "visicryl-7796-e",
+    "description": "Visicryl 7796 E is used in interior /exterior paints and textured finishes with good sheen.",
+    "company_name": "Visen Industries Ltd",
+    "company_slug": "visen-industries-ltd",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112202/production/Company/23562/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608422/production/CategoryImage/558/category_image/BuildingConstruction_02.jpg",
+    "properties": {
+        "Applications": [
+            "Building & Construction",
+            "Exterior Insulation & Finishing Systems (EIFS)",
+            "Architectural Coatings",
+            "Building Envelope & Roofing",
+            "Other Paints & Coatings Applications",
+            "Insulation",
+            "EIFS & Insulation",
+            "Building Envelope"
+        ],
+        "Product Families": [
+            "Resins & Binders",
+            "Acrylics"
+        ],
+        "Chemical Family": [
+            "Styrene-Acrylic Copolymer"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Styrene-Acrylic Copolymer"
+        ],
+        "Features": [
+            "Provides Good Texture",
+            "High Gloss"
+        ]
+    }
+}

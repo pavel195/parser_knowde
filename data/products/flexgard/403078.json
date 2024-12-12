@@ -1,0 +1,44 @@
+{
+    "id": 403078,
+    "brand": "flexgard",
+    "name": "DecoTop Clear (748)",
+    "slug": "decotop-clear-748",
+    "description": "DecoTop Clear (748) is a two (2) component, 100% solids, low viscosity, water-clear epoxy that is specifically formulated to be a high-performance, intermediate, or topcoat for DecoFlake and DecoQuartz flooring systems. This proprietary formulation produces superior clarity, excellent resistance to ultraviolet (UV) light exposure, and higher gloss retention when compared to general-use epoxy products. DecoTop #748 is recommended for interior applications.",
+    "company_name": "Thermal-Chem Corporation",
+    "company_slug": "thermal-chem-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520300/production/Brand/30796/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608422/production/CategoryImage/558/category_image/BuildingConstruction_02.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Flooring & Surfaces",
+            "Decorative Paints, Coatings & Stains",
+            "Decorative Materials & Finishes",
+            "Floor Coatings"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Top Coats"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Waterborne Coating",
+            "Solventless & High Solids Coating",
+            "Epoxy Coating",
+            "2K (2 component) Coating",
+            "Top Coat"
+        ],
+        "Features": [
+            "UV Resistant",
+            "Low Viscosity",
+            "Good Gloss Retention",
+            "Superior Clarity",
+            "High Gloss",
+            "Odorless",
+            "Chipping Resistance",
+            "Wear Resistant",
+            "High Performance"
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": 415270,
+    "brand": "bug-eliminator",
+    "name": "Kaady Chemical Lo Soap",
+    "slug": "kaady-chemical-lo-soap",
+    "description": "Lo Soap is a low pH pre-soak designed specifically for touchless applications, used in a two step wash process. With moderate foam level and powerful acid-and-detergent blend, this product safely and effectively cleans glass and vehicle surfaces.",
+    "company_name": "Kaady Chemical",
+    "company_slug": "kaady-chemical",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292530/production/Company/55394/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515684/production/CategoryImage/1058/category_image/HII_10.jpg",
+    "properties": {
+        "Applications": [
+            "Home Care",
+            "Institutional & Industrial Care",
+            "Surface Care",
+            "Vehicle & Machinery"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Industrial Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner",
+            "Automotive Cleaners"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Glass"
+        ],
+        "Features": [
+            "Foamable"
+        ]
+    }
+}

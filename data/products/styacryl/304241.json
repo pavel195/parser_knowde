@@ -1,0 +1,47 @@
+{
+    "id": 304241,
+    "brand": "styacryl",
+    "name": "STYACRYL A200",
+    "slug": "rozachim-a200",
+    "description": "Styacryl A200 is APEO free, aqueous copolymer emulsion based on Acrylics and Methaacrylic acid esters.",
+    "company_name": "Rozachim",
+    "company_slug": "rozachim",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112548/production/Company/24774/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608557/production/CategoryImage/565/category_image/PaintingsCoatings_01.jpg",
+    "properties": {
+        "Applications": [
+            "Building & Construction",
+            "Industrial Coatings",
+            "Metal Coatings",
+            "Wood Coatings & Finishes",
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Resins & Binders",
+            "Acrylics"
+        ],
+        "Chemical Family": [
+            "Esters",
+            "Acrylics, Acrylates & Methacrylates"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Esters",
+            "Acrylics, Acrylates & Methacrylates"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Wood"
+        ],
+        "Glass Transition Temperature (Tg)": [
+            "18.0 - 18.0 °C"
+        ],
+        "Features": [
+            "Outdoor Durability",
+            "Improves Adhesion",
+            "Blocking Resistance",
+            "Water Resistance",
+            "Excellent Scratch Resistance"
+        ]
+    }
+}

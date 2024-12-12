@@ -1,0 +1,30 @@
+{
+    "id": 218409,
+    "brand": "amberlac",
+    "name": "SYNTHEMUL® PX-702",
+    "slug": "synthemul-px-702",
+    "description": "SYNTHEMUL® PX-702 is a acrylic hard thermoplastic resin in MMA",
+    "company_name": "Reichhold",
+    "company_slug": "reichhold",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697222576/production/Company/8897/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608640/production/CategoryImage/572/category_image/PaintingsCoatings_08.jpg",
+    "properties": {
+        "Applications": [
+            "Sealants & Caulks",
+            "Primers & Lacquers",
+            "Wood Coatings & Finishes",
+            "Building & Construction",
+            "Building Materials",
+            "Construction Chemicals",
+            "Packaging Coatings"
+        ],
+        "Product Families": [
+            "Acrylics",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    },
+    "summary": {}
+}

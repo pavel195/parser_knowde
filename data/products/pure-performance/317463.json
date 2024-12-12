@@ -1,0 +1,34 @@
+{
+    "id": 317463,
+    "brand": "pure-performance",
+    "name": "Pure Performance® 110N",
+    "slug": "pure-performance-110n",
+    "description": "Pure Performance®110N is a high purity, low viscosity paraffinic oil produced from a high-pressure hydrocracking and hydro-dewaxing process that removes virtually all metals, sulfur, and nitrogen from the feedstock. Pure Performance® 110N features lower NOACK volatility than other Group II 4 cSt base oils, which is an advantage for engine oil formulations.",
+    "company_name": "Pure Performance Base Oils",
+    "company_slug": "pure-performance-base-oils",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704100135/production/Product/317463/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608744/production/CategoryImage/575/category_image/AutomotiveTransportation_03.jpg",
+    "properties": {
+        "Applications": [
+            "Automotive Fluids & Lubricants",
+            "Lubricants & Functional Fluids"
+        ],
+        "Product Families": [
+            "API Group II",
+            "Base Stocks & Oils"
+        ],
+        "Chemical Family": [
+            "Alkanes",
+            "Mineral Oils"
+        ]
+    },
+    "summary": {
+        "Fluids & Lubricants Type": [
+            "Engine Oils & Fluids"
+        ],
+        "Chemical Family": [
+            "Mineral Oils",
+            "Alkanes"
+        ]
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "id": 402731,
+    "brand": "hyperox",
+    "name": "Fenuflakes™",
+    "slug": "fenuflakes",
+    "description": "Fenuflakes is a food ingredient with High protein-High fiber and Low fat-Ultra Low Carb Nutritional profile. Fenuflakes is defatted flakes derived from Fenugreek seeds.",
+    "company_name": "Natrusolate",
+    "company_slug": "natrusolate",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686109620/production/Company/50411/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606129/production/CategoryImage/472/category_image/PharmaceuticalsNutraceuticals_03.jpg",
+    "properties": {
+        "Applications": [
+            "Food",
+            "Nutrition & Well Being",
+            "Bakery",
+            "Cereals & Snacks",
+            "Functional Foods"
+        ],
+        "Product Families": [
+            "Taste & Flavor",
+            "Nutrition & Fortification",
+            "Whole Foods, Extracts & Premixes",
+            "Dietary Fiber",
+            "Nut & Seed Products",
+            "Spices, Herbs & Seasonings"
+        ],
+        "End Uses": [
+            "Cookies",
+            "Breakfast Cereals",
+            "Energy Bars"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Fenugreek Seeds"
+        ],
+        "Labeling Claims": [
+            "Vegan",
+            "Halal",
+            "Allergen-free",
+            "Kosher",
+            "Keto",
+            "Gluten-free",
+            "Natural",
+            "Naturally Derived"
+        ],
+        "Fiber Content": [
+            "25.0 - 25.0 %",
+            "50.0 - 50.0 %"
+        ],
+        "Certifications & Compliance": [
+            "Kosher",
+            "ISO 22000",
+            "NSF Approved",
+            "National Formulary (NF)",
+            "GMP",
+            "Halal",
+            "ISO 9001",
+            "United States Pharmacopeia (USP)"
+        ],
+        "Physical Form": [
+            "Solid",
+            "Flakes"
+        ]
+    }
+}

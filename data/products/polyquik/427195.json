@@ -1,0 +1,58 @@
+{
+    "id": 427195,
+    "brand": "polyquik",
+    "name": "POLYQuik® P-540",
+    "slug": "polyquik-p-540",
+    "description": "POLYQuik® P-540 is a two-component aliphatic coating specifically designed as a floor coating and topcoat for spray elastomer coatings. It has excellent outdoor weathering characteristics and outstanding impact and abrasion resistance. It cures quickly for rapid return-to-service and for same day application of multiple coats. POLYQuik® P-540 can be applied by roller, brush or spray.",
+    "company_name": "PolyQuick (WVCO)",
+    "company_slug": "polyquick-wvco",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520483/production/Brand/33841/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608557/production/CategoryImage/565/category_image/PaintingsCoatings_01.jpg",
+    "properties": {
+        "Applications": [
+            "Building & Construction",
+            "Wood Coatings & Finishes",
+            "Concrete Coatings & Stains"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Top Coats",
+            "Protective Coatings"
+        ],
+        "Chemical Family": [
+            "Polyureas"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Polyureas"
+        ],
+        "Ready-to-Use Product Type": [
+            "Top Coat",
+            "2K (2 component) Coating"
+        ],
+        "Application Method": [
+            "Roller",
+            "Brush",
+            "Spray"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Wood",
+            "Metal",
+            "Concrete"
+        ],
+        "Features": [
+            "Good Weather Stability",
+            "Abrasion Resistant",
+            "Good Color Stability",
+            "Good Toughness",
+            "Good Scratch Resistance",
+            "Outdoor Durability",
+            "Good Smoothness",
+            "Flexible",
+            "Anti-Slip",
+            "High Impact Resistance",
+            "Fast Curing"
+        ]
+    }
+}

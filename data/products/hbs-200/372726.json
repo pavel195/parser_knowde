@@ -1,0 +1,49 @@
+{
+    "id": 372726,
+    "brand": "hbs-200",
+    "name": "HBS-200 Tape",
+    "slug": "hbs-200-tape",
+    "description": "HBS-200 Tape is Universal, elastic, instantly water- and airtight tape for (emergency) repairs. Also fo use in combination with HBS-200® Liquid Rubber. .",
+    "company_name": "Griffon",
+    "company_slug": "griffon",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520153/production/Brand/27816/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608972/production/CategoryImage/588/category_image/AdhesivesSealants_05.jpg",
+    "properties": {
+        "Applications": [
+            "Tapes & Labels",
+            "DIY & Consumer",
+            "Tapes, Labels & Adhesives",
+            "Chemical & Industrial Manufacturing",
+            "Repair Adhesives",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Pressure Sensitive Adhesives & Tapes"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Pressure Sensitive Adhesive"
+        ],
+        "Application Area": [
+            "Universal Joints"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Wood",
+            "Zinc",
+            "Concrete",
+            "Masonry",
+            "Metal",
+            "Stone"
+        ],
+        "Features": [
+            "Water Resistant",
+            "Excellent Substrate Adhesion",
+            "Durable",
+            "Excellent Elasticity",
+            "Excellent Crack Bridging Ability",
+            "Fast Cure"
+        ]
+    }
+}

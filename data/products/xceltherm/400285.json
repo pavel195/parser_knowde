@@ -1,0 +1,32 @@
+{
+    "id": 400285,
+    "brand": "xceltherm",
+    "name": "XCELTHERM® LV1",
+    "slug": "xceltherm-lv1",
+    "description": "XCELTHERM® LV1 is a biphenyl-free, non-hazardous alternative for high temp fluids with liquid or vapor phase to 700ºF (370ºC). Chemically similar to DOWTHERM™ A when used under 700ºF (370ºC). Recommended n for Concentrated Solar Power Systems, PET production, Synthetic Fiber plants, Chemical Processing and many other applications that require a high temperature heat transfer fluid.",
+    "company_name": "Radco Industries, Inc.",
+    "company_slug": "radco-industries-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680110513/production/Company/7630/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Power, Water & Utilities",
+            "Renewable Energy",
+            "Chemical & Industrial Manufacturing",
+            "Other Industrial Applications",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Heat Transfer Fluids",
+            "Fluids & Lubricants"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Heat Transfer Fluid"
+        ],
+        "Features": [
+            "High Temperature Performance"
+        ]
+    }
+}

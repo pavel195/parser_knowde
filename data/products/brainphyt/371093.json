@@ -1,0 +1,32 @@
+{
+    "id": 371093,
+    "brand": "brainphyt",
+    "name": "BrainPhyt™",
+    "slug": "microphyt-brainphyt",
+    "description": "BrainPhyt™ is a powerful, patented natural ingredient derived from microalgae. Designed to prevent the decline of cognitive function, BrainPhyt™ works by reducing and reversing oxidative injury, reducing inflammation and regulating serotonergic activity.\r\n",
+    "company_name": "Microphyt",
+    "company_slug": "microphyt",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708521258/production/Company/35161/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608058/production/CategoryImage/543/category_image/HomePersonalCare_09.jpg",
+    "properties": {
+        "Applications": [
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ]
+    },
+    "summary": {
+        "Benefit Claims (Health)": [
+            "Improves Cognitive Health"
+        ],
+        "Features": [
+            "Improved Cognitive Function",
+            "Enhance Memory And Mental Clarity"
+        ]
+    }
+}

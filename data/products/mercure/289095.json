@@ -1,0 +1,37 @@
+{
+    "id": 289095,
+    "brand": "mercure",
+    "name": "Mercure TMT",
+    "slug": "mercure-tmt",
+    "description": "Mercure TMT is thiurams accelerators which is used mainly in rubber industry.",
+    "company_name": "Merchem",
+    "company_slug": "merchem",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708673141/production/Company/22803/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608769/production/CategoryImage/577/category_image/AutomotiveTransportation_05.jpg",
+    "properties": {
+        "Applications": [
+            "Tires",
+            "Other Industrial Applications",
+            "Maintenance, Repair & Overhaul",
+            "Other Automotive & Transportation Applications",
+            "Automotive",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Catalysts, Initiators & Crosslinkers",
+            "Polymer Additives",
+            "Elastomer Additives"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Tetramethylthiuram disulfide"
+        ],
+        "Functions": [
+            "Accelerator"
+        ],
+        "CAS Number": [
+            "137-26-8"
+        ]
+    }
+}

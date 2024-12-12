@@ -1,0 +1,35 @@
+{
+    "id": 399272,
+    "brand": "safe-o",
+    "name": "FreshpHix™",
+    "slug": "freshphix",
+    "description": "FreshpHix™ is a fruit and vegetable processing/cleaning water acidulant. It is for use in all wash phases where chlorinated water is utilized.",
+    "company_name": "Mionix",
+    "company_slug": "mionix",
+    "logo_url": null,
+    "banner_url": "https://media.knowde.com/image/upload/v1625607305/production/CategoryImage/515/category_image/FoodNutrition_15.jpg",
+    "properties": {
+        "Applications": [
+            "Food & Beverage Manufacturing",
+            "Processing & Packaging"
+        ],
+        "Product Families": [
+            "Acidulants & Acidity Regulators",
+            "Functional Additives"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Calcium Sulfate"
+        ],
+        "Functions": [
+            "Acidulant"
+        ],
+        "Physical Form": [
+            "Liquid"
+        ],
+        "Features": [
+            "Odorless"
+        ]
+    }
+}

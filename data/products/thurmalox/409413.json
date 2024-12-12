@@ -1,0 +1,58 @@
+{
+    "id": 409413,
+    "brand": "thurmalox",
+    "name": "Endcor® 460",
+    "slug": "endcor-460",
+    "description": "Endcor® 460 is a water-borne copolymer that is designed for application to rusted ferrous metal surfaces. When properly applied the coating converts the rusted surface to a dark, stable organic iron compound. This product has a low permeability factor and is impermeable to oxygen and moisture while providing a rust-free surface ready for priming or finish painting It converts and primes rusted surfaces in one operation; dries to a hard, gloss finish combines excellent flexibility, toughness and impact resistance.",
+    "company_name": "Dampney Company, Inc.",
+    "company_slug": "dampney-company-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520234/production/Brand/31725/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608585/production/CategoryImage/567/category_image/PaintingsCoatings_03.jpg",
+    "properties": {
+        "Applications": [
+            "Coatings & Finishes",
+            "Building Materials",
+            "Marine",
+            "Marine Coatings",
+            "Oil, Gas & Mining",
+            "Transportation",
+            "Pipes & Plumbing",
+            "Refining & Gas Processing"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "1K (1 component) Coating",
+            "Waterborne Coating",
+            "Primer"
+        ],
+        "Application Area": [
+            "Pipes",
+            "Marine Applications"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Iron",
+            "Metal"
+        ],
+        "Features": [
+            "High Impact Performance",
+            "High Flexibility",
+            "Low Permeability",
+            "Low VOC",
+            "Excellent Substrate Adhesion",
+            "High Impact Resistance",
+            "High Hardness",
+            "Good Toughness",
+            "Glossy Surface Aspects"
+        ],
+        "Application Method": [
+            "Spray",
+            "Roller",
+            "Brush"
+        ]
+    }
+}

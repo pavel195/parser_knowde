@@ -1,0 +1,46 @@
+{
+    "id": 422109,
+    "brand": "primaloft",
+    "name": "PrimaLoft® Bio™ Solid Micro",
+    "slug": "primaloft-bio-solid-micro",
+    "description": "PrimaLoft® Bio™ Solid Micro is suitable for needle-punched nonwovens, spun-laced nonwovens, and fiberfill for pillows, duvets, and comforters.",
+    "company_name": "Fiber Partner",
+    "company_slug": "fiber-partner",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686149944/production/Brand/33177/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Leather & Textiles",
+            "Technical Fabrics"
+        ],
+        "Product Families": [
+            "Technical Fibers & Fabrics",
+            "Textile & Leather Chemicals"
+        ],
+        "Chemical Family": [
+            "Polyesters"
+        ],
+        "End Uses": [
+            "Spunlace Nonwovens",
+            "Fiberfill",
+            "Duvets",
+            "Comforters",
+            "Nonwovens"
+        ]
+    },
+    "summary": {
+        "Fiber Type": [
+            "Polyester"
+        ],
+        "Chemical Family": [
+            "Polyesters"
+        ],
+        "End Uses": [
+            "Duvets",
+            "Comforters",
+            "Fiberfill",
+            "Nonwovens",
+            "Spunlace Nonwovens"
+        ]
+    }
+}

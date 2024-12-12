@@ -1,0 +1,42 @@
+{
+    "id": 517977,
+    "brand": "triest",
+    "name": "TRIEST NGDO-0211",
+    "slug": "triest-ngdo-0211",
+    "description": "TRIEST NGDO-0211, is a bio-based unsaturated polyol ester formed by the reaction of neopentyl glycol with oleic acid, used to improve lubricity, thermal stability and film durability. It has applications in many fields like hydraulic fluids, metal working fluids, steel rolling oils and aluminium processing chemicals.",
+    "company_name": "3-S Muhendislik Musavirlik San. ve Tic. A. S.",
+    "company_slug": "3-s-muhendislik-musavirlik-san-ve-tic-a-s",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1715257138/production/Company/113256/logo/image",
+    "banner_url": "https://static.knowde.com/card-banners/knowde-card-for-raw-materials-8.jpg",
+    "properties": {
+        "Applications": [
+            "Metal Manufacturing & Finishing",
+            "Fluids & Lubricants",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Metal Processing Additives",
+            "API Group V",
+            "Base Stocks & Oils",
+            "Processing Aids"
+        ],
+        "Chemical Family": [
+            "Polyol Esters (POE)"
+        ],
+        "End Uses": [
+            "Aluminum Processing Chemicals",
+            "Rolling Oils",
+            "Hydraulic Fluids",
+            "Metalworking Fluids"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Polyol Esters (POE)"
+        ],
+        "Fluids & Lubricants Type": [
+            "Hydraulic Oils & Fluids",
+            "Metalworking Fluids"
+        ]
+    }
+}

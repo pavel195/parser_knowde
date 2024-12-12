@@ -1,0 +1,48 @@
+{
+    "id": 407388,
+    "brand": "ethocure",
+    "name": "Ethocure UM 101",
+    "slug": "ethocure-um-101",
+    "description": "Ethocure series are UV/EB curable monomers that provide superior appearance, durability and near-zero VOC emissions to increase productivity and reduce overall cost. They are also cost-effective diluents compatible with a wide range of acrylated resins.\r\n",
+    "company_name": "Ethomer",
+    "company_slug": "ethomer",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704101904/production/Company/52615/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609103/production/CategoryImage/595/category_image/PrintingPackaging_06.jpg",
+    "properties": {
+        "Applications": [
+            "Additive Manufacturing",
+            "Optical Fiber & Telecom",
+            "Wire & Cable",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Monomers",
+            "Monomers & Intermediates"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ],
+        "End Uses": [
+            "Radiation Curable Ink",
+            "Radiation Curable Coating"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Trimethylolpropane triacrylate"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ],
+        "End Uses": [
+            "Radiation Curable Ink",
+            "Radiation Curable Coating"
+        ],
+        "Molecular Weight": [
+            "296.0 - 296.0 g/mol"
+        ],
+        "Synonyms": [
+            "2-Ethyl-2-(hydroxymethyl)-1,3-propanediol triacrylate, TMPTA"
+        ]
+    }
+}

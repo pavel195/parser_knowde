@@ -1,0 +1,34 @@
+{
+    "id": 394989,
+    "brand": "shear",
+    "name": "DYNA FOAM 700 NK",
+    "slug": "dyna-foam-700-nk",
+    "description": "DYNA FOAM 700 NK is a concentrated, self-foaming, highly alkaline blend of caustic, detergents, surface active agents, and water conditioners. It is designed to remove carbonized grease residues, smoke deposits, food soils, oil, and other tenacious soils from smokehouses and fryers. It is also recommended for use on conveyor belts and frameworks, ductwork, potato and meat processing equipment, mixers, kettles, fryer hoods, and other general food processing equipment.",
+    "company_name": "Shepard Bros, Inc.",
+    "company_slug": "shepard-bros-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292100/production/Brand/29913/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515602/production/CategoryImage/1051/category_image/HII_03.jpg",
+    "properties": {
+        "Applications": [
+            "Home Care",
+            "Institutional & Industrial Care",
+            "Surface Care",
+            "Industrial Cleaning"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Food Grade Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Alkaline Cleaners"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Concrete"
+        ],
+        "Features": [
+            "Low Foaming"
+        ]
+    }
+}

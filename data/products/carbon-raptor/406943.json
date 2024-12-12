@@ -1,0 +1,55 @@
+{
+    "id": 406943,
+    "brand": "carbon-raptor",
+    "name": "Carbon Raptor® DLC Coating",
+    "slug": "carbon-raptor-dlc-coating",
+    "description": "Carbon Raptor® DLC Coating is thin and flexible, but also tough as nails. It’s the perfect combination for high-performance engines as well as Industrial, and medical applications. By reducing friction, we can help extend the lifespan of your product.",
+    "company_name": "Industrial Hard Carbon",
+    "company_slug": "industrial-hard-carbon",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520247/production/Brand/31372/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608744/production/CategoryImage/575/category_image/AutomotiveTransportation_03.jpg",
+    "properties": {
+        "Applications": [
+            "Coatings & Finishes",
+            "Medical",
+            "Industrial Coatings",
+            "Fuel Systems",
+            "Marine",
+            "Laboratory & Diagnostics",
+            "Medical Devices & Assemblies",
+            "Military & Defense",
+            "Other Military & Defense Applications",
+            "Marine Coatings",
+            "Chemical & Industrial Manufacturing",
+            "Transportation",
+            "Automotive",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Coating"
+        ],
+        "Features": [
+            "High Strength",
+            "High Stiffness",
+            "Low Friction",
+            "Thin Wall Thickness",
+            "High Resilience",
+            "Flexible",
+            "Wear Resistant",
+            "Abrasion Resistant",
+            "Service Life Extension",
+            "High Durability"
+        ],
+        "Application Area": [
+            "Automotive Engine",
+            "Tubes",
+            "Valves"
+        ]
+    }
+}

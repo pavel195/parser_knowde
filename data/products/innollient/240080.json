@@ -1,0 +1,102 @@
+{
+    "id": 240080,
+    "brand": "innollient",
+    "name": "PolyAquol™ VO4",
+    "slug": "polyaquol-vo4",
+    "description": "<p>PolyAquol™-VO4 is an innovative, patented technology that redefines emulsions by creating a true Water-and-Oil Fusion (W+O). This 100% natural, Cosmos-certified, palm-free emulsifier, derived from polyglyceryl and oleic acid derivatives, performs exceptionally well even with 100% vegetable oils. PolyAquol™-VO4 enables the creation of cold-process emulsions with up to 80% internal water phase, providing unmatched control over viscosity. At low concentrations, it ensures stable, high-performance emulsions with luxurious sensory properties, surpassing competitors in both robustness and sensory experience, making it the perfect choice for innovative and sustainable cosmetic formulations. </p>",
+    "company_name": "Innovacos Corp.",
+    "company_slug": "innovacos",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1633040600/production/Brand/15516/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,c_crop,x_0,y_0,w_1500,h_469/v1727778262/production/Product/240080/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Color Cosmetics",
+            "Skin Care",
+            "Sun Care",
+            "Baby Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Emulsifiers, Solubilizers & Dispersants",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Polyhydroxystearic Acid",
+            "Polyglyceryl-6 Oleate",
+            "Polyglyceryl-4 Oleate"
+        ],
+        "End Uses": [
+            "Sunscreen Cream",
+            "Body Lotion",
+            "Facial Mask",
+            "Baby Lotion",
+            "CC Cream",
+            "BB Creams"
+        ],
+        "Labeling Claims": [
+            "Organic",
+            "Patented",
+            "Vegetarian",
+            "GMO-free",
+            "Environmentally Friendly",
+            "Palm free",
+            "PEG-free",
+            "Naturally Derived",
+            "Cold Processable",
+            "Credo Clean Standard",
+            "Ulta Beauty's Conscious Beauty",
+            "Clean at Sephora",
+            "Preservative-free",
+            "Palm Oil-free",
+            "Natural"
+        ],
+        "Benefit Claims": [
+            "Specific Sensory Performance",
+            "Compatibility",
+            "Dispersing",
+            "Low Viscosity",
+            "Cold Processable"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Polyhydroxystearic Acid",
+            "Polyglyceryl-6 Oleate",
+            "Polyglyceryl-4 Oleate"
+        ],
+        "Functions": [
+            "Emulsifier (W/O)",
+            "Emulsifier"
+        ],
+        "Ingredient Origin": [
+            "Plant Origin",
+            "Natural Origin",
+            "Vegetable Origin"
+        ],
+        "Labeling Claims": [
+            "GMO-free",
+            "Environmentally Friendly",
+            "Naturally Derived",
+            "Vegetarian",
+            "Preservative-free",
+            "PEG-free",
+            "Clean at Sephora",
+            "Credo Clean Standard",
+            "Cold Processable",
+            "Organic",
+            "Ulta Beauty's Conscious Beauty",
+            "Palm free",
+            "Palm Oil-free",
+            "Natural",
+            "Patented"
+        ],
+        "Certifications & Compliance": [
+            "REACH (Europe)",
+            "IECIC (China)",
+            "Organic Certified",
+            "ECOCERT",
+            "RSPO Certified Sustainable Palm Oil",
+            "COSMOS"
+        ]
+    }
+}

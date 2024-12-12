@@ -1,0 +1,44 @@
+{
+    "id": 405730,
+    "brand": "cor-ban",
+    "name": "Cor-Ban® 35",
+    "slug": "cor-ban-35",
+    "description": "Cor-Ban® 35 is a long lasting, high solids, low volatile, high penetration, and water displacing corrosion inhibiting compound.",
+    "company_name": "Zip-Chem",
+    "company_slug": "zip-chem",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1682593065/production/Brand/31145/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608611/production/CategoryImage/569/category_image/PaintingsCoatings_05.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Fence, Decks & Rails",
+            "Building Envelope & Roofing",
+            "Architectural Coatings"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Solventless & High Solids Coating"
+        ],
+        "Features": [
+            "Corrosion Resistant",
+            "Fast Drying",
+            "Low VOC",
+            "Low Toxicity",
+            "Service Life Extension",
+            "Thixotropic",
+            "Crack Resistant",
+            "High Capacity of Penetration",
+            "High Solids Content",
+            "Good Sagging Resistance",
+            "Detectable"
+        ],
+        "Application Method": [
+            "Spray"
+        ]
+    }
+}

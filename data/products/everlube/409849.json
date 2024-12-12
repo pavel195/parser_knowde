@@ -1,0 +1,33 @@
+{
+    "id": 409849,
+    "brand": "everlube",
+    "name": "EVERLUBE® 9502",
+    "slug": "everlube-9502",
+    "description": "Everlube® 9502 is a PTFE/MoS2 based solid film lubricant with an epoxy binder system. Everlube® 9502 is used for Fastener applications.",
+    "company_name": "Everlube Products",
+    "company_slug": "everlube-products",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680108901/production/Brand/31767/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical & Industrial Manufacturing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Lubricants & Oils",
+            "Fluids & Lubricants"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Industrial Lubricants",
+            "Dry Lubricants"
+        ],
+        "Features": [
+            "Corrosion Resistant",
+            "Low Friction",
+            "Good Release Properties",
+            "Low VOC"
+        ]
+    }
+}

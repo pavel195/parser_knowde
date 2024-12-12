@@ -1,0 +1,53 @@
+{
+    "id": 261804,
+    "brand": "cliqsperse",
+    "name": "CLiQFLOW® 675",
+    "slug": "cliqflow-675",
+    "description": "CLiQFLOW® 675 is a tin-free polyurethane based rheological additive for aqueous clear and pigmented systems. The associative thickener increases mid and high shear viscosity and provides a slightly shear thinning flow behavior to aqueous systems.",
+    "company_name": "CLiQ SwissTech",
+    "company_slug": "cliq-swisstech",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672316/production/Company/20571/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608557/production/CategoryImage/565/category_image/PaintingsCoatings_01.jpg",
+    "properties": {
+        "Applications": [
+            "Decorative Paints, Coatings & Stains",
+            "Architectural Coatings",
+            "Industrial Maintenance",
+            "Industrial Coatings",
+            "Decorative Paints",
+            "Building Envelope",
+            "Building Materials",
+            "Building & Construction",
+            "Building Envelope & Roofing",
+            "Decorative Materials & Finishes"
+        ],
+        "Product Families": [
+            "Rheology Modifiers & Stabilizers",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ],
+        "End Uses": [
+            "Waterborne Coating"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Thickener",
+            "Rheology Modifier"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ],
+        "End Uses": [
+            "Waterborne Coating"
+        ],
+        "Labeling Claims": [
+            "Tin-free"
+        ],
+        "Physical Form": [
+            "Liquid"
+        ]
+    }
+}

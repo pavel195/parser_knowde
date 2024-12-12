@@ -1,0 +1,37 @@
+{
+    "id": 308543,
+    "brand": "nj",
+    "name": "Jurong Ningwu New Material Development NJ-204",
+    "slug": "jurong-ningwu-new-material-development-nj-204",
+    "description": "Jurong Ningwu New Material Development NJ-204 can be used to produce coatings, adhesives, sealants, elastomers, etc.",
+    "company_name": "Jurong Ningwu New Material Development",
+    "company_slug": "jurong-ningwu-new-material-development",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686148498/production/Product/308543/logo/image",
+    "banner_url": "https://static.knowde.com/card-banners/knowde-card-for-raw-materials-8.jpg",
+    "properties": {
+        "Applications": [
+            "Other Adhesives & Sealants Applications",
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Monomers & Intermediates",
+            "Prepolymers & Polyols"
+        ],
+        "Chemical Family": [
+            "Polyols",
+            "Polyols (Polyether)"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Polyols (Polyether)",
+            "Polyols"
+        ],
+        "Hydroxyl Value": [
+            "270.0 - 290.0 mg KOH/g"
+        ],
+        "Viscosity": [
+            "55.0 - 75.0 cps"
+        ]
+    }
+}

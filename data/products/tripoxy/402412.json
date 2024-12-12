@@ -1,0 +1,58 @@
+{
+    "id": 402412,
+    "brand": "tripoxy",
+    "name": "TriBond W™",
+    "slug": "tribond-w",
+    "description": "TriBond W™ is a water-based, two-part epoxy primer that dries quickly. This primer can be quickly overcoated to meet the demands of high-speed production. TriBond W™ adheres extremely well to iron phosphate and blasted surfaces that have been properly prepared. TriBond W™ adheres well to most non-ferrous metal surfaces and can be applied over zinc galvanizing, inorganic zinc, and most other non-ferrous metal surfaces. Corrosion, water resistance, adhesion, and overall durability are all excellent.",
+    "company_name": "Triangle Coatings",
+    "company_slug": "triangle-coatings",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520262/production/Brand/30700/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608621/production/CategoryImage/570/category_image/PaintingsCoatings_06.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial Coatings",
+            "Architectural Coatings",
+            "Building Envelope & Roofing",
+            "Agricultural & Construction Equipment",
+            "Transportation",
+            "Off Road & Recreational Vehicle (RV)",
+            "Building Envelope"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Waterborne Coating",
+            "Primer",
+            "2K (2 component) Coating"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Galvanized Steel",
+            "Brass",
+            "Aluminum",
+            "Metal",
+            "Steel"
+        ],
+        "Features": [
+            "Bondability",
+            "Water Resistant",
+            "Alkali Resistant",
+            "High Durability",
+            "Low Toxicity",
+            "High Performance",
+            "Chemical Resistant",
+            "Corrosion Resistant",
+            "Good Adhesion",
+            "Fast Drying",
+            "Acid Resistant"
+        ],
+        "Application Method": [
+            "Brush",
+            "Roll Coater",
+            "Spray"
+        ]
+    }
+}

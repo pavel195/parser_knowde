@@ -1,0 +1,49 @@
+{
+    "id": 395236,
+    "brand": "roller-brush-rubber",
+    "name": "Roller/Brush Rubber®",
+    "slug": "roller-brush-rubber",
+    "description": "Roller/Brush Rubber® is a uniquely engineered single component asphalt material that has been modified using the highest quality materials known to us. This Safe To Use, Water-Based, Non-Toxic, Free Of Noxious Odors and Free Of V.O.C.s product is available as a hand-applied or as a spray-applied product that meets and or exceeds all parameters set forth by the EPA.",
+    "company_name": "Cantex Coatings Ltd.",
+    "company_slug": "cantex-coatings-ltd",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664291953/production/Brand/29965/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608410/production/CategoryImage/557/category_image/BuildingConstruction_01.jpg",
+    "properties": {
+        "Applications": [
+            "Water Treatment",
+            "Other Military & Defense Applications",
+            "Agricultural & Construction Equipment",
+            "Marine",
+            "Mining",
+            "Oil, Gas & Mining",
+            "Transportation",
+            "Industrial Coatings",
+            "Waterproofing & Weatherproofing",
+            "Other Automotive & Transportation Applications",
+            "Building Envelope & Roofing",
+            "Military & Defense",
+            "Power, Water & Utilities"
+        ],
+        "Product Families": [
+            "Protective Coatings",
+            "Paints & Coatings"
+        ],
+        "Chemical Family": [
+            "Hydrocarbon Derivatives"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Waterborne Coating",
+            "1K (1 component) Coating"
+        ],
+        "Application Method": [
+            "Roller",
+            "Brush",
+            "Spray"
+        ],
+        "Chemical Family": [
+            "Hydrocarbon Derivatives"
+        ]
+    }
+}

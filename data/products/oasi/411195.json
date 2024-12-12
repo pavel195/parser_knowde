@@ -1,0 +1,37 @@
+{
+    "id": 411195,
+    "brand": "oasi",
+    "name": "Atriva 250",
+    "slug": "atriva-250",
+    "description": "Atriva 250 is a soluble powder, ideal for fertigation. It provides carefully sequenced biostimulant actions that work together to strengthen fertigation. The Plant Stimulating Peptides immediately activate natural processes to vitalize plant growth and help overcome such things as transplant stress. This fortifies the plant as the mycorrhizae colonize to further develop the root system for a dramatic increase in nutrient absorption capability. This combination of technologies results in plants that are primed for maximum nutrient uptake and use efficiency, resistance to stress, and robust growth.",
+    "company_name": "HELLO NATURE",
+    "company_slug": "hello-nature",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708673165/production/Brand/31989/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608200/production/CategoryImage/549/category_image/AgricultureFeed_05.jpg",
+    "properties": {
+        "Applications": [
+            "Turf Management",
+            "Vegetables",
+            "Agricultural Crops",
+            "Turf, Ornamentals & Landscape"
+        ],
+        "Product Families": [
+            "Other Plant Health, Nutrients & Soil Management Products",
+            "Plant Health, Nutrients & Soil Management"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Growth Stimulant"
+        ],
+        "Application Technique": [
+            "Ground Soil Applied",
+            "Chemigation"
+        ],
+        "Labeling Claims": [
+            "Pathogen-free",
+            "Organic",
+            "Non-GMO"
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "id": 467432,
+    "brand": "seasonnings-spices",
+    "name": "Brown Notes & Nuts Flavours Almond Flavouring (23-0001-NA)",
+    "slug": "nactarome-almond-flavouring-23-0001-na",
+    "description": "Nactarome Almond Flavouring (23-0001-NA) is a high-quality natural flavoring ingredient that is oil soluble and perfect for enhancing the almond flavor in your food products. It is allergen-free, halal, kosher and sustainably produced making it an ideal choice for a wide range of food applications, including pastry and cake.",
+    "company_name": "Nactarome",
+    "company_slug": "nactarome",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1707730368/production/Company/61385/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1707730368/production/Brand/38481/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Bakery",
+            "Food"
+        ],
+        "Product Families": [
+            "Flavor Ingredients",
+            "Taste & Flavor"
+        ],
+        "Flavor Family": [
+            "Nutty Flavors"
+        ],
+        "End Uses": [
+            "Cakes",
+            "Pastries"
+        ]
+    },
+    "summary": {
+        "Physical Form": [
+            "Liquid"
+        ],
+        "Solubility": [
+            "Oil Soluble"
+        ],
+        "Flavor": [
+            "Almond"
+        ],
+        "Certifications & Compliance": [
+            "Kosher",
+            "TTB Approved"
+        ],
+        "Labeling Claims": [
+            "Halal",
+            "Vegan",
+            "Allergen-free",
+            "Kosher",
+            "Natural"
+        ],
+        "End Uses": [
+            "Pastries",
+            "Cakes"
+        ]
+    }
+}

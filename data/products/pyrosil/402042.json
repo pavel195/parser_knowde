@@ -1,0 +1,42 @@
+{
+    "id": 402042,
+    "brand": "pyrosil",
+    "name": "Pyrotape®",
+    "slug": "pyrotape",
+    "description": "Pyrotape® is white knitted fiberglass yarn woven to produce a flat strip that is coated on one side with thick covering of iron oxide red silicone rubber.",
+    "company_name": "ADL Insulflex",
+    "company_slug": "adl-insulflex",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520133/production/Brand/30658/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608953/production/CategoryImage/586/category_image/AdhesivesSealants_03.jpg",
+    "properties": {
+        "Applications": [
+            "Tapes & Labels",
+            "Tapes, Labels & Adhesives"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Pressure Sensitive Adhesives & Tapes"
+        ],
+        "Chemical Family": [
+            "Glass Beads & Fibers"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Tape"
+        ],
+        "Chemical Family": [
+            "Glass Beads & Fibers"
+        ],
+        "Features": [
+            "Abrasion Resistant",
+            "Corrosion Resistant",
+            "Chemical Resistant",
+            "High Temperature Strength",
+            "Moisture Resistant",
+            "Vibration Damping",
+            "Heat Resistance",
+            "Excellent Electrical Resistance"
+        ]
+    }
+}

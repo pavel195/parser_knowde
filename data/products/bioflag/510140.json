@@ -1,0 +1,29 @@
+{
+    "id": 510140,
+    "brand": "bioflag",
+    "name": "Pharm-Rx Grapefruit Flavor Intensifer",
+    "slug": "pharm-rx-chemical-corp-grapefruit-flavor-intensifer",
+    "description": "Pharm-Rx Grapefruit Flavor Intensifier enhances fruit flavors with its grapefruit essence. Made in the USA, it serves as a versatile flavoring agent in food ingredients.",
+    "company_name": "Pharm-Rx Chemical Corp.",
+    "company_slug": "pharm-rx",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto/v1724134317/production/Company/102900/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1724134317/production/Company/102900/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Other Food Applications",
+            "Food"
+        ],
+        "Product Families": [
+            "Flavor Ingredients",
+            "Taste & Flavor"
+        ],
+        "Flavor Family": [
+            "Fruit Flavors"
+        ]
+    },
+    "summary": {
+        "Flavor": [
+            "Grapefruit"
+        ]
+    }
+}

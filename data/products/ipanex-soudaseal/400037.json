@@ -1,0 +1,34 @@
+{
+    "id": 400037,
+    "brand": "ipanex-soudaseal",
+    "name": "SoudaSeal FC",
+    "slug": "ipanex-soudaseal-fc",
+    "description": "SoudaSeal FC is an SMX® adhesive/sealant with high initial tack.",
+    "company_name": "Ipanex",
+    "company_slug": "ipanex",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1670414873/production/Company/51023/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608502/production/CategoryImage/564/category_image/BuildingConstruction_08.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Sealants & Caulks"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Caulks & Sealants"
+        ],
+        "End Uses": [
+            "Kitchenware",
+            "Sanitary Seal"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Sealant"
+        ],
+        "Application Areas": [
+            "Kitchenware",
+            "Sanitary Seal"
+        ]
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "id": 396124,
+    "brand": "thermoflow",
+    "name": "Muehlmeier E-glass mat E-CSM - powder bonded E-CSM 225",
+    "slug": "muehlmeier-e-glass-mat-e-csm-powder-bonded-e-csm-225",
+    "description": "Muehlmeier E-glass mat E-CSM - powder bonded E-CSM 225 consists of cut and non-orientated E-glass strands which have silane size. The binding of the strands amongst each other happens by a powder mat binder on polyester base which is easily soluble in styrene. Working happens in the well-known contact – or continuous processes. The mat is suitable for UP, EP and vinyl ester resins.",
+    "company_name": "Muehlmeier",
+    "company_slug": "muehlmeier",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686149332/production/Company/50305/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608769/production/CategoryImage/577/category_image/AutomotiveTransportation_05.jpg",
+    "properties": {
+        "Applications": [
+            "Interior",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Reinforcements",
+            "Glass Fiber"
+        ],
+        "Chemical Family": [
+            "Glass Beads & Fibers"
+        ]
+    },
+    "summary": {
+        "Reinforcement Material": [
+            "Glass Fibers"
+        ],
+        "Reinforcement Form": [
+            "Mat",
+            "Chopped Strand Mat"
+        ],
+        "Compatible Polymers & Resins": [
+            "Epoxies (EP)",
+            "Unsaturated Polyester (UPE)",
+            "Vinyl Esters"
+        ],
+        "Processing Methods": [
+            "Injection Molding",
+            "Hand Lay-up",
+            "Resin Transfer Molding (RTM)",
+            "Pultrusion",
+            "Compression Molding"
+        ],
+        "Features": [
+            "High Tensile Strength",
+            "Excellent Compatibility",
+            "Translucent",
+            "Excellent Flexibility"
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": 411502,
+    "brand": "klinosept",
+    "name": "DAVERA® HOTELS – RTU disinfectant",
+    "slug": "davera-hotels-rtu-disinfectant",
+    "description": "Davera® Hotels - ready-to-use solution is a high-level multi-surface deodorant disinfectant with proven fungicidal, bactericidal and virucidal performance. It does not contain aldehydes, phenols.",
+    "company_name": "Klintensiv SRL",
+    "company_slug": "klintensiv-srl",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292405/production/Brand/32046/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515647/production/CategoryImage/1055/category_image/HII_07.jpg",
+    "properties": {
+        "Applications": [
+            "Surface Care",
+            "Industrial Cleaning",
+            "Institutional & Catering",
+            "Institutional & Industrial Care",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Industrial Cleaners",
+            "Commercial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner",
+            "Disinfectant Products"
+        ],
+        "Application Areas": [
+            "Bathrooms",
+            "Hard Surfaces"
+        ],
+        "Features": [
+            "Bacteria Resistant",
+            "Fungus Resistant",
+            "Neutralizes Odor"
+        ]
+    }
+}

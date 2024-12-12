@@ -1,0 +1,39 @@
+{
+    "id": 399324,
+    "brand": "aldac",
+    "name": "ALDAC 623",
+    "slug": "aldac-623",
+    "description": "ALDAC 623 is a formulated mildly alkaline, non-silicated cleaner non-etch type, for cleaning aluminum, steel, and brass. The surfactant system in the Aldac 623 is of the biodegradable type.",
+    "company_name": "Aldoa Company",
+    "company_slug": "aldoa-company",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292220/production/Company/50866/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515589/production/CategoryImage/1050/category_image/HII_02.jpg",
+    "properties": {
+        "Applications": [
+            "Home Care",
+            "Institutional & Industrial Care",
+            "Surface Care",
+            "Industrial Cleaning"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Industrial Cleaners",
+            "Commercial Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner",
+            "Alkaline Cleaners"
+        ],
+        "Certifications & Compliance": [
+            "ISO 9001"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Steel",
+            "Metal",
+            "Aluminum",
+            "Brass"
+        ]
+    }
+}

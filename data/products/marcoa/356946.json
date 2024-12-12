@@ -1,0 +1,71 @@
+{
+    "id": 356946,
+    "brand": "marcoa",
+    "name": "Marcoa™ CL250",
+    "slug": "marcoa-cl250",
+    "description": "Marcoa™ CL250 has hardness and stain resistance. It is used in appliance primer, appliance finishing, aluminum coil coating, interior architecture, can white coating and deep drawing can white coating.",
+    "company_name": "Macroocean",
+    "company_slug": "macroocean",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704101757/production/Brand/26769/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608566/production/CategoryImage/566/category_image/PaintingsCoatings_02.jpg",
+    "properties": {
+        "Applications": [
+            "Architectural Coatings",
+            "Non-Food Consumer Packaging",
+            "Industrial Coatings",
+            "Can Coatings",
+            "Coil Coatings",
+            "Appliances & Electronics",
+            "Building Envelope",
+            "Building & Construction",
+            "Packaging Coatings",
+            "Packaging",
+            "Building Envelope & Roofing"
+        ],
+        "Product Families": [
+            "Polyesters",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Polyesters"
+        ],
+        "End Uses": [
+            "Closures",
+            "Caps",
+            "Coil Coating",
+            "Top Coat"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Polyesters"
+        ],
+        "End Uses": [
+            "Closures",
+            "Top Coat",
+            "Caps",
+            "Coil Coating"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Aluminum"
+        ],
+        "Glass Transition Temperature (Tg)": [
+            "58.0 - 58.0 °C"
+        ],
+        "Features": [
+            "Excellent Adhesion",
+            "Deep Drawing",
+            "Improved Stability",
+            "Stain Resistance",
+            "High Gloss",
+            "Improved Hardness",
+            "Improved Flexibility",
+            "Yellowing Resistance",
+            "Improved Chemical Resistance",
+            "Excellent Scratch Resistance",
+            "Weather Resistance",
+            "Bacteria Resistance"
+        ]
+    }
+}

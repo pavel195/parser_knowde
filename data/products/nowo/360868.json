@@ -1,0 +1,43 @@
+{
+    "id": 360868,
+    "brand": "nowo",
+    "name": "Nowo® Dry WB",
+    "slug": "nowo-dry-wb",
+    "description": "Nowo® Dry WB is a water-based surface treatment agent suitable for professional stone and mineral surfaces. Nowo® Dry WB forms a water- and dirtrepellent surface that protects the substrate from crop growth, frostbite and soiling.",
+    "company_name": "Coating Source",
+    "company_slug": "coating-source",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664290975/production/Brand/26978/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608410/production/CategoryImage/557/category_image/BuildingConstruction_01.jpg",
+    "properties": {
+        "Applications": [
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Waterborne Coating"
+        ],
+        "Features": [
+            "Water Resistant",
+            "Frost Resistant",
+            "Excellent Moisture Resistance",
+            "Low Viscosity",
+            "Good Color Stability",
+            "Service Life Extension",
+            "Microbe Resistant"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Brick",
+            "Concrete"
+        ],
+        "Application Method": [
+            "Spray",
+            "Roller",
+            "Brush"
+        ]
+    }
+}

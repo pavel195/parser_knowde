@@ -1,0 +1,42 @@
+{
+    "id": 437918,
+    "brand": "aqua-shield-temp-alert",
+    "name": "Aqua-Shield WAC2040006",
+    "slug": "aqua-shield-wac2040006",
+    "description": "Watson Coatings Aqua-Shield WAC2040006 is a sacrificial water-based acrylic anti-graffiti coating for use on concrete, steel, building exteriors or anywhere that vandals may strike.",
+    "company_name": "Watson Coatings",
+    "company_slug": "watson-coatings",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664569027/production/Company/39806/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608502/production/CategoryImage/564/category_image/BuildingConstruction_08.jpg",
+    "properties": {
+        "Applications": [
+            "Building Envelope & Roofing",
+            "Architectural Coatings"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Waterborne Coating",
+            "Coating"
+        ],
+        "Features": [
+            "Anti-graffiti",
+            "Water-based"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Concrete",
+            "Steel"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    }
+}

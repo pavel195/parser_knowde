@@ -1,0 +1,32 @@
+{
+    "id": 361042,
+    "brand": "corkote",
+    "name": "CORKOTE™ 1250",
+    "slug": "corkote-1250",
+    "description": "CORKOTE™ 1250 is an aqueous print primer formulated for single side use over wet litho inks.",
+    "company_name": "Cork Industries",
+    "company_slug": "cork-industries",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520447/production/Brand/26997/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608585/production/CategoryImage/567/category_image/PaintingsCoatings_03.jpg",
+    "properties": {
+        "Applications": [
+            "Packaging Coatings",
+            "Printing & Inks",
+            "Primers & Lacquers",
+            "Offset & Lithographic Printing"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Primer",
+            "Waterborne Coating"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Paper"
+        ]
+    }
+}

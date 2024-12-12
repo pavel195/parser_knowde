@@ -1,0 +1,48 @@
+{
+    "id": 399184,
+    "brand": "pma-2000",
+    "name": "Imper-Sol™ EB All-In-One Roof Coatings",
+    "slug": "imper-sol-eb-all-in-one-roof-coatings",
+    "description": "Imper-Sol™ EB All-In-One Roof Coatings is a unique rubber coating that provides extremely effective protection, reducing costly reapplications. It is a one component product that has excellent adhesion to properly prepared surfaces. It controls corrosion and rust bleed through, even after years of service. It is thermally stable and resists cracking and peeling due to weather extremes and ultraviolet exposure.",
+    "company_name": "BITEC",
+    "company_slug": "bitec",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520215/production/Company/50839/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608422/production/CategoryImage/558/category_image/BuildingConstruction_02.jpg",
+    "properties": {
+        "Applications": [
+            "Building & Construction",
+            "Building Envelope & Roofing",
+            "Waterproofing & Weatherproofing",
+            "Wood Coatings & Finishes"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Coating"
+        ],
+        "Features": [
+            "Low Corrosion",
+            "Good Thermal Stability",
+            "Long Term Protection",
+            "Cost Effective",
+            "Peel Resistance",
+            "Crack Resistant"
+        ],
+        "Application Area": [
+            "Roofing Membranes"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Wood",
+            "Metal"
+        ],
+        "Application Method": [
+            "Roller",
+            "Brush",
+            "Spray"
+        ]
+    }
+}

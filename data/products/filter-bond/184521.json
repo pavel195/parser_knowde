@@ -1,0 +1,31 @@
+{
+    "id": 184521,
+    "brand": "filter-bond",
+    "name": "Sympoxy™ 1960G",
+    "slug": "sympoxy-1960g",
+    "description": "A single component, heat-cured epoxy powder that is lightweight, flame retardant and easy to use. SYMPOXY™ 1960G is typically used for potting electrical components. It is ideal in\r\napplications where exothermic or curing temperatures above 85°C cannot be tolerated and where thermal expansion/contraction should not harm delicate components. ",
+    "company_name": "Hapco Inc.",
+    "company_slug": "hapco-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708518144/production/Company/2788/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708518144/production/Company/2788/card_banner/image",
+    "properties": {
+        "Product Families": [
+            "Epoxies",
+            "Thermoset Resins"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ],
+        "Polymer Name": [
+            "Epoxy Resins & Compounds"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Epoxy Resins & Compounds"
+        ],
+        "Processing Methods": [
+            "Potting"
+        ]
+    }
+}

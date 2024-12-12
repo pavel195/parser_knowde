@@ -1,0 +1,64 @@
+{
+    "id": 272852,
+    "brand": "technirez",
+    "name": "Technicure® PDU-250M",
+    "slug": "technicure-pdu-250m",
+    "description": "Technicure® PDU-250M, N,N-dimethyl-N-phenyl urea, is a substituted urea. It is used as a dicyandiamide (DICY) accelerator in one-component epoxy resin based formulations. Typically the product is used with epoxy resin and dicyandiamide between 1-3 phr. The loading level of an accelerator will provide balance of low temperature reactivity and formulation shelf stability.",
+    "company_name": "A&C Catalysts",
+    "company_slug": "a-c-catalysts",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708696090/production/Company/20521/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608760/production/CategoryImage/576/category_image/AutomotiveTransportation_04.jpg",
+    "properties": {
+        "Applications": [
+            "Commercial",
+            "Rail & Mass Transit",
+            "Other Paints & Coatings Applications",
+            "Metal Coatings",
+            "Industrial Coatings",
+            "Appliances & Consumer Goods",
+            "Agricultural & Construction Equipment",
+            "Rail & Mass Transit Coatings",
+            "Off Road & Commercial Vehicle Coatings",
+            "Automotive OEM Coatings",
+            "Aerospace Coatings",
+            "Other Industrial Applications",
+            "Sports & Recreation",
+            "Appliances & Electronics",
+            "Aerospace & Aviation",
+            "Other Automotive & Transportation Applications",
+            "Coatings & Finishes",
+            "Transportation",
+            "Chemical & Industrial Manufacturing",
+            "Automotive & Transportation"
+        ],
+        "Product Families": [
+            "Functional Additives",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Urea & Urea Derivatives"
+        ],
+        "End Uses": [
+            "1K (1 Component) Adhesive",
+            "Powder Coating"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Urea & Urea Derivatives"
+        ],
+        "Functions": [
+            "Curing Agent"
+        ],
+        "End Uses": [
+            "1K (1 Component) Adhesive",
+            "Powder Coating"
+        ],
+        "Compatible Polymers & Resins": [
+            "Epoxies (EP)"
+        ],
+        "Synonyms": [
+            "1-Phenyl-3,3-dimethylurea, 1,1-Dimethyl-3-phenylurea, 3-Phenyl-1,1-dimethylurea, 3,3-Dimethyl-1-phenylurea, Falisilvan, N-Phenyl-N′,N′-dimethylurea, N,N-Dimethyl-N′-phenylurea"
+        ]
+    }
+}

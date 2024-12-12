@@ -1,0 +1,43 @@
+{
+    "id": 400134,
+    "brand": "metal-treatment-mt-10",
+    "name": "Muscle Hybrid Engine Treatment™",
+    "slug": "muscle-hybrid-engine-treatment",
+    "description": "Muscle Hybrid Engine Treatment™ is designed specifically for today’s hybrid engines engineered to treat the metal not the oil for reduced friction and wear and enhanced engine performance.",
+    "company_name": "Muscle Products",
+    "company_slug": "muscle-products",
+    "logo_url": null,
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Automotive Fluids & Lubricants",
+            "Lubricants & Functional Fluids"
+        ],
+        "Product Families": [
+            "Surface Protective Additives",
+            "Additives"
+        ],
+        "End Uses": [
+            "Motor Oils",
+            "Engine Oils"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Friction Modifier"
+        ],
+        "End Uses": [
+            "Motor Oils",
+            "Engine Oils"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal"
+        ],
+        "Features": [
+            "Low Maintenance Cost",
+            "Improved Wear Protection",
+            "Fuel Efficient",
+            "Heat Resistant"
+        ]
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "id": 276515,
+    "brand": "juraperle",
+    "name": "Ulmer Weiss 0,5-1,0",
+    "slug": "ulmer-weiss-0-5-1-0",
+    "description": "Ulmer Weiss 0,5-1,0 is a fine calcium carbonate granulate designed for use as a filler, pigment, mixing agent, or raw material in manufacturing processes. Common applications of this product include paints, varnishes, coatings, printing inks, mastics, soaps, paperboard, paper, detergents, rubber, cleaning mixtures, dyes, pigments, and polishing mixtures. Ulmer Weiss 0.5-1.0 is similar to sand or gravel in appearance with a characteristic odor and grain size of 0.5-1.0. This product does not flash and is non flammable.",
+    "company_name": "Eduard Merkle",
+    "company_slug": "eduard-merkle",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708696224/production/Company/20594/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608600/production/CategoryImage/568/category_image/PaintingsCoatings_04.jpg",
+    "properties": {
+        "Applications": [
+            "Architectural Coatings",
+            "Other Printing Applications",
+            "Overprint Varnishes",
+            "Other Printing & Packaging Applications",
+            "Other Paints & Coatings Applications",
+            "Building Envelope",
+            "Building & Construction",
+            "Packaging Coatings",
+            "Printing & Inks",
+            "Building Envelope & Roofing"
+        ],
+        "Product Families": [
+            "Filler & Extender Pigments",
+            "Inorganic Pigments",
+            "Functional Pigments",
+            "Fillers & Extenders",
+            "Additives",
+            "Pigments & Colorants",
+            "Color Pigments"
+        ],
+        "Chemical Family": [
+            "Magnesium & Magnesium Compounds",
+            "Silica",
+            "Magnesium Salts",
+            "Carbonates",
+            "Calcium Salts"
+        ],
+        "End Uses": [
+            "Enamel",
+            "Varnishes"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Colorant",
+            "Filler"
+        ],
+        "Chemical Family": [
+            "Silica",
+            "Magnesium Salts",
+            "Carbonates",
+            "Magnesium & Magnesium Compounds",
+            "Calcium Salts"
+        ],
+        "Pigment Type": [
+            "Inorganic Pigments"
+        ],
+        "Color": [
+            "White"
+        ]
+    }
+}

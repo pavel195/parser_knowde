@@ -1,0 +1,33 @@
+{
+    "id": 501781,
+    "brand": "flavanoid",
+    "name": "Flavonoid Micronized Hesperidin",
+    "slug": "bordas-micronized-hesperidin",
+    "description": "Flavonoid Micronized Hesperidin is a natural plant-derived polyphenol with powerful antioxidant, controls Diastolic Blood Pressure and presents immune-supportive properties among many other benefits. Micronisation increases bioavailability and facilitates various applications among many other benefits.",
+    "company_name": "Bordas",
+    "company_slug": "bordas-chinchurreta",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1717067677/production/Company/37964/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1717067677/production/Product/501781/card_banner/image",
+    "properties": {
+        "Product Families": [
+            "Phytochemicals & Plant Extracts",
+            "Active Pharmaceutical Ingredients (APIs)",
+            "Pharmaceutical Actives & Precursors",
+            "Nutraceuticals & Supplements"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Hesperidin"
+        ],
+        "CAS Number": [
+            "520-26-3"
+        ],
+        "Active Component": [
+            "Hesperidin"
+        ],
+        "Synonyms": [
+            "(S)-(-)-Hesperidin, Cirantin, Hesperidoside"
+        ]
+    }
+}

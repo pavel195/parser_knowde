@@ -1,0 +1,31 @@
+{
+    "id": 415252,
+    "brand": "advanced",
+    "name": "ADVANCED DRAW 52",
+    "slug": "advanced-draw-52",
+    "description": "Advanced Draw 52 is heavy-duty, chlorine-free, petroleum-based, water-soluble drawing and stamping fluid. It contains extreme pressure additives to provide excellent anti-weld and die protection properties in the hardest applications. Advanced Draw 52 provides an enhanced corrosion protection package to protect parts and machine surfaces. It has an enhanced bio package to protect against smell and bacterial growth.",
+    "company_name": "Advanced Fluid Technologies",
+    "company_slug": "advanced-fluid-technologies",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680108867/production/Brand/32341/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical & Industrial Manufacturing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Metalworking Fluids",
+            "Fluids & Lubricants"
+        ]
+    },
+    "summary": {
+        "Features": [
+            "Water Soluble",
+            "Cost Effective",
+            "Corrosion Resistant",
+            "Service Life Extension",
+            "Extreme Pressure Performance",
+            "Microbe Resistant"
+        ]
+    }
+}

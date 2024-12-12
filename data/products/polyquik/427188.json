@@ -1,0 +1,51 @@
+{
+    "id": 427188,
+    "brand": "polyquik",
+    "name": "POLYQuik® PolyPrime LV",
+    "slug": "polyquik-polyprime-lv",
+    "description": "POLYQuik® PolyPrime LV is a 2-component, low-viscosity urethane primer for concrete repairs. PolyPrime LV is designed for easy application at a wide range of temperatures and fast recoat times with Fast Patch repair products. PolyPrime LV can be brush/roller applied and will ensure your repair area has an excellent bond.",
+    "company_name": "PolyQuick (WVCO)",
+    "company_slug": "polyquick-wvco",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520508/production/Brand/33841/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608557/production/CategoryImage/565/category_image/PaintingsCoatings_01.jpg",
+    "properties": {
+        "Applications": [
+            "Building & Construction",
+            "Concrete Coatings & Stains"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers"
+        ],
+        "Chemical Family": [
+            "Urethanes"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "2K (2 component) Coating",
+            "Primer"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Steel",
+            "Concrete"
+        ],
+        "Features": [
+            "Recoatability",
+            "Good Wettability",
+            "Wide Temperature Operating Range",
+            "Low Viscosity",
+            "Low VOC",
+            "Excellent Substrate Adhesion",
+            "Fast Curing"
+        ],
+        "Application Method": [
+            "Roller",
+            "Brush"
+        ],
+        "Chemical Family": [
+            "Urethanes"
+        ]
+    }
+}

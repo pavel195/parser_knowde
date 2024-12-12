@@ -1,0 +1,54 @@
+{
+    "id": 94827,
+    "brand": "oleosense",
+    "name": "AntiOx™ GT",
+    "slug": "antiox-gt",
+    "description": "AntiOx™ GT Protects anhydrous formulations from oxidation, more efficiently than tocopherols or rosemary extracts . It is the best solution to stop the rancidity of make-up.",
+    "company_name": "Oleos",
+    "company_slug": "oleos",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708688434/production/Company/1349/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708688434/production/Company/1349/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Skin Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Skin Actives",
+            "Cosmetic Actives"
+        ],
+        "INCI Name": [
+            "Helianthus Annuus (Sunflower) Seed Oil",
+            "Glyceryl Stearate",
+            "Gallic Acid",
+            "Copernicia Cerifera Cera",
+            "Camellia Sinensis Leaf Extract"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Copernicia Cerifera Cera",
+            "Camellia Sinensis Leaf Extract",
+            "Gallic Acid",
+            "Glyceryl Stearate",
+            "Helianthus Annuus (Sunflower) Seed Oil"
+        ],
+        "Functions": [
+            "Antioxidant"
+        ],
+        "Labeling Claims": [
+            "Credo Clean Standard",
+            "Organic"
+        ],
+        "Benefit Claims": [
+            "Antioxidant Properties"
+        ],
+        "Certifications & Compliance": [
+            "Halal",
+            "Organic Certified",
+            "Kosher",
+            "EFISC",
+            "ECOCERT"
+        ]
+    }
+}

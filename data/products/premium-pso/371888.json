@@ -1,0 +1,39 @@
+{
+    "id": 371888,
+    "brand": "premium-pso",
+    "name": "UV AlIStar S Magenta 60-1506",
+    "slug": "uv-alistar-s-magenta-60-1506",
+    "description": "UV AlIStar S Magenta 60-1506 stands out for its excellent printing properties and shows outstanding adhesion on a big range of non-absorbing printing substrates such as foil, plastic and metallized papers.",
+    "company_name": "Epple Druckfarben",
+    "company_slug": "epple-druckfarben",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520150/production/Brand/27758/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609128/production/CategoryImage/597/category_image/PrintingPackaging_08.jpg",
+    "properties": {
+        "Applications": [
+            "Tapes & Labels",
+            "Printing & Inks",
+            "Tapes, Labels & Adhesives",
+            "Offset & Lithographic Printing",
+            "Letterpress"
+        ],
+        "Product Families": [
+            "Letterpress Inks",
+            "Inks & Pastes"
+        ]
+    },
+    "summary": {
+        "Compatible Substrates & Surfaces": [
+            "Paper",
+            "Coated Surfaces"
+        ],
+        "Features": [
+            "Excellent Printability",
+            "Fast Curing",
+            "Good Adhesion",
+            "Good Flexibility"
+        ],
+        "Color": [
+            "Magenta"
+        ]
+    }
+}

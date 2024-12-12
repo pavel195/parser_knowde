@@ -1,0 +1,34 @@
+{
+    "id": 499160,
+    "brand": "libratex",
+    "name": "Libradet 55",
+    "slug": "libradet-55",
+    "description": "Libradet 55 is a concentrated liquid laundry product. This blend consists of anionic and nonionic surfactants, giving it the properties needed for effective laundry applications. It is recognized for its light yellow viscous liquid or gel-like appearance, making it an ideal choice for concentrated laundry solutions.",
+    "company_name": "Libra Speciality Chemicals",
+    "company_slug": "libra-speciality-chemicals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1696607086/production/Company/19248/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1696607072/production/Company/19248/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Laundry & Fabric Care",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Blends & Other Surfactants",
+            "Soaps & Surfactants"
+        ],
+        "End Uses": [
+            "Liquid Laundry Detergents"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Surfactant"
+        ],
+        "Certifications & Compliance": [
+            "ISO 14001",
+            "ISO 9001",
+            "ISO 45001"
+        ]
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "id": 390138,
+    "brand": "exolon",
+    "name": "Exolon® UV ClimateControl",
+    "slug": "exolon-uv-climatecontrol",
+    "description": "Exolon® UV ClimateControl is a transparent polycarbonate sheet with a protective UV coating on both sides. The sheets substantially reduce high temperatures caused by sunlight as they block out the majority of infrared light. It is extremely resistant to permanent environmental impacts and has a long service life. The maximum permissible temperature for long-term use in the absence of loads is in the region of 120°C. An additional benefit, is that the sheets come with a 10-year warranty on weather resistance, transparency and breaking strength.",
+    "company_name": "Exolon Group NV",
+    "company_slug": "exolon-group-nv",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686150424/production/Brand/29354/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608477/production/CategoryImage/562/category_image/BuildingConstruction_06.jpg",
+    "properties": {
+        "Applications": [
+            "Building Envelope & Roofing",
+            "Waterproofing & Weatherproofing",
+            "Glazing & Window Elements",
+            "Other Building Envelope & Roofing Applications"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Polycarbonate (PC)"
+        ],
+        "Polymer Name": [
+            "Polycarbonate (PC)"
+        ],
+        "End Uses": [
+            "Roofing Elements",
+            "Glazing"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polycarbonate (PC)"
+        ],
+        "Physical Form": [
+            "Sheets"
+        ],
+        "Features": [
+            "Good UV Protection",
+            "Good Environmental Stress Crack Resistance (ESCR)",
+            "Excellent Transparency Properties",
+            "Long Shelf Life",
+            "Good Weather Stability",
+            "Sunlight Resistant",
+            "Good Impact Strength"
+        ],
+        "Density": [
+            "1200.0 - 1200.0 kg/m³"
+        ],
+        "Tensile Modulus": [
+            "2350.0 - 2350.0 MPa"
+        ],
+        "Color": [
+            "Transparent",
+            "Green"
+        ]
+    }
+}

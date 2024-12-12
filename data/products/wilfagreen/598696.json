@@ -1,0 +1,44 @@
+{
+    "id": 598696,
+    "brand": "wilfagreen",
+    "name": "Wilfarester Anti-static",
+    "slug": "wilfarester-anti-static",
+    "description": "<p>Wilfarester Anti-static is a 100% plant-based polymer additive that helps balance internal lubrication and anti-static properties, ensuring smoother handling and improved product durability.</p><p></p>",
+    "company_name": "wilmar",
+    "company_slug": "wilmar",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1722416674/production/Company/33927/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,c_crop,x_0,y_10,w_480,h_150/v1733469604/production/Product/598696/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Other Packaging Materials",
+            "Tooling & Moldmaking",
+            "Chemical & Industrial Manufacturing",
+            "Packaging"
+        ],
+        "Product Families": [
+            "Surface Modifiers",
+            "Processing Aids",
+            "Polymer Additives"
+        ],
+        "End Uses": [
+            "Molds/Dies/Tools",
+            "Film",
+            "Polyolefin Films"
+        ]
+    },
+    "summary": {
+        "Labeling Claims": [
+            "Kosher",
+            "Halal",
+            "Plant-Based"
+        ],
+        "Compatible Polymers & Resins": [
+            "Polyvinyl Chloride (PVC)"
+        ],
+        "End Uses": [
+            "Polyolefin Films",
+            "Molds/Dies/Tools",
+            "Film"
+        ]
+    }
+}

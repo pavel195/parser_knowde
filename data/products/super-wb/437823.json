@@ -1,0 +1,44 @@
+{
+    "id": 437823,
+    "brand": "super-wb",
+    "name": "ColorTec 500™ Pigmented 100% Solids Epoxy",
+    "slug": "colortec-500-pigmented-100-solids-epoxy",
+    "description": "ColorTec 500™ Pigmented 100% Solids Epoxy is a 2-component 100% solids, zero VOC colored floor coating system that is used in a wide variety of applications such as high build pigmented coat for a host of decorative concrete systems, primer coat and binder coat for DK Flakes and DK Metallics.\r\n",
+    "company_name": "SureCrete",
+    "company_slug": "surecrete",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520354/production/Company/64844/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608454/production/CategoryImage/560/category_image/BuildingConstruction_04.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Flooring & Surfaces",
+            "Architectural Coatings",
+            "Decorative Paints, Coatings & Stains",
+            "Building Envelope & Roofing",
+            "Decorative Materials & Finishes",
+            "Floor Coatings",
+            "Building Envelope"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Other Paints & Coatings"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Solventless & High Solids Coating",
+            "2K (2 component) Coating",
+            "Epoxy Coating"
+        ],
+        "Application Area": [
+            "Floor"
+        ],
+        "Features": [
+            "Good Strength",
+            "Excellent Flexibility",
+            "Self-Leveling",
+            "Durable",
+            "Chemical Resistant"
+        ]
+    }
+}

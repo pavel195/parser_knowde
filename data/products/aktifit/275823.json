@@ -1,0 +1,38 @@
+{
+    "id": 275823,
+    "brand": "aktifit",
+    "name": "AKTISIL PF 216",
+    "slug": "aktisil-pf-216",
+    "description": "AKTISIL PF 216 is a SILLITIN Z 86 coated with tetrasulfane silane.",
+    "company_name": "Hoffmann Mineral",
+    "company_slug": "hoffmann-mineral",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708695904/production/Company/20722/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608566/production/CategoryImage/566/category_image/PaintingsCoatings_02.jpg",
+    "properties": {
+        "Applications": [
+            "Tape & Label Adhesives",
+            "Tapes & Labels",
+            "Packaging & Paper",
+            "Tapes, Labels & Adhesives"
+        ],
+        "Product Families": [
+            "Fillers & Extenders",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Carbonates",
+            "Silica",
+            "Silicon-based Compounds"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Filler"
+        ],
+        "Chemical Family": [
+            "Silicon-based Compounds",
+            "Silica",
+            "Carbonates"
+        ]
+    }
+}

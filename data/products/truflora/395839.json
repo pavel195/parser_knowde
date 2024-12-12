@@ -1,0 +1,35 @@
+{
+    "id": 395839,
+    "brand": "truflora",
+    "name": "MesoCopper®",
+    "slug": "mesocopper",
+    "description": "Colloidal Copper - MesoCopper® is a true copper colloid consisting of nanoparticles of copper. Copper is an essential trace element for humans and animals. Colloidal copper has been reported to improve the elastic fiber in the skin, increase skin flexibility and act as an anti-wrinkle agent to promote healthy and youthful looking skin. Concentration: 10 ppm copper particles.",
+    "company_name": "Purest Colloids",
+    "company_slug": "purest-colloids",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709127738/production/Company/50032/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607215/production/CategoryImage/511/category_image/FoodNutrition_12.jpg",
+    "properties": {
+        "Applications": [
+            "Other Nutrition Applications",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Minerals",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Mineral Source",
+            "Mineral Source"
+        ],
+        "Labeling Claims": [
+            "Non-Toxic",
+            "Natural"
+        ],
+        "Benefit Claims (Health)": [
+            "Cardioprotective"
+        ]
+    }
+}

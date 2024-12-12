@@ -1,0 +1,46 @@
+{
+    "id": 408399,
+    "brand": "vi-hemp-pro",
+    "name": "Vi-Hemp PRO™",
+    "slug": "vi-hemp-pro",
+    "description": "Vi-Hemp PRO™ is produced from organic hemp seeds, grown in France. It contains between 40 and 50% protein (including essential amino acids). Vi-Hemp PRO is also rich in fiber, omega-3 and 6 (ratio w6/w3 = 4) and vitamin E. Vi-Hemp PRO™ is also naturally rich in trace elements such as magnesium, phosphorus, manganese, potassium, calcium, zinc, copper, selenium and iron.",
+    "company_name": "VIDYA EUROPE",
+    "company_slug": "vidya-europe",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686109451/production/Brand/31590/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606961/production/CategoryImage/506/category_image/FoodNutrition_07.jpg",
+    "properties": {
+        "Applications": [
+            "Food",
+            "Other Food Applications"
+        ],
+        "Product Families": [
+            "Nutrition & Fortification",
+            "Plant Proteins",
+            "Nutraceuticals & Supplements",
+            "Proteins & Amino Acids"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Hemp Protein"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Plant Origin"
+        ],
+        "Labeling Claims": [
+            "Halal",
+            "Plant-Based",
+            "Natural",
+            "Naturally Derived",
+            "Organic"
+        ],
+        "Features": [
+            "Protein Enrichment",
+            "Rich in Amino Acids",
+            "Omega-3 Rich",
+            "Rich in Minerals",
+            "Vitamin E Enriched"
+        ]
+    }
+}

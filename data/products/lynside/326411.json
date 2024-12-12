@@ -1,0 +1,63 @@
+{
+    "id": 326411,
+    "brand": "lynside",
+    "name": "VitaMK7®",
+    "slug": "vitamk7",
+    "description": "VitaMK7® is the optimal vitamin K2 product, with more than 99% all-trans menaquinone (MK7). MK7 is the only active form of vitamin K2. The bacteria in our gut cannot produce enough vitamin K2 alone – which is why nutraceuticals and functional foods and beverages are produced with VitaMK7®. VitaMK7® is known for regulating calcium in the body, keeping it from the cardiovascular system and driving it to the bones. From childhood to old age, VitaMK7® supports stronger bones throughout our entire lives. The result of a patented biotransformation process of Bacillus subtilis, VitaMK7®‘s production does not rely on other chemical compounds.",
+    "company_name": "Gnosis",
+    "company_slug": "gnosis",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708690608/production/Company/31049/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606996/production/CategoryImage/508/category_image/FoodNutrition_09.jpg",
+    "properties": {
+        "Applications": [
+            "Oral",
+            "Nutraceuticals & Supplements",
+            "Functional Foods",
+            "Sports Nutrition",
+            "Nutrition & Well Being",
+            "Drug Delivery & Care Solutions"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Vitamins",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Menaquinone-7"
+        ],
+        "Functions": [
+            "Vitamin Source",
+            "Vitamin Source"
+        ],
+        "Labeling Claims": [
+            "Pesticide-free",
+            "Clean Label",
+            "Gluten-free",
+            "Kosher",
+            "Natural",
+            "Preservative-free",
+            "Soy-free",
+            "Lactose-free",
+            "Halal",
+            "Additive-free",
+            "Organic",
+            "Metal-free",
+            "Non-GMO",
+            "Animal Products-free"
+        ],
+        "Certifications & Compliance": [
+            "Kosher",
+            "Hazard Analysis Critical Control Point (HACCP)",
+            "Halal",
+            "cGMP"
+        ],
+        "Benefit Claims (Health)": [
+            "Cardioprotective",
+            "Stimulates Immune System"
+        ]
+    }
+}

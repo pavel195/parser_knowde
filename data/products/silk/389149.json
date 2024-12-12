@@ -1,0 +1,50 @@
+{
+    "id": 389149,
+    "brand": "silk",
+    "name": "Butterpowder™ KSB",
+    "slug": "butterpowder-ksb",
+    "description": "Butterpowder™ KSB is a Kaolin powder coated with shea butter. Clean'Kaolin technology. Ideal for oil absorption. Provides a soft focus &amp; mattifying effect. Great talc substitute",
+    "company_name": "Blue Sun International",
+    "company_slug": "blue-sun-international",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708671957/production/Company/1165/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708671957/production/Company/1165/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Sun Care",
+            "Hair Care",
+            "Skin Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Fats, Butters & Waxes",
+            "Visual Modifiers",
+            "Texturizers & Fillers",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Kaolin",
+            "Butyrospermum Parkii (Shea) Butter"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Kaolin",
+            "Butyrospermum Parkii (Shea) Butter"
+        ],
+        "Functions": [
+            "Filler",
+            "Matting Agent",
+            "Absorbent"
+        ],
+        "Labeling Claims": [
+            "Ulta Beauty's Conscious Beauty",
+            "Credo Clean Standard",
+            "Clean at Sephora"
+        ],
+        "Benefit Claims": [
+            "Soft-Focus Effect",
+            "Effective Oil Absorbent",
+            "Mattifying Effect"
+        ]
+    }
+}

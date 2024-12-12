@@ -1,0 +1,44 @@
+{
+    "id": 354829,
+    "brand": "bsr",
+    "name": "BNF CE512",
+    "slug": "bnf-ce512",
+    "description": "Completely non-formaldehyde fluorescent pigment for masterbatch",
+    "company_name": "Brilliant Group, Inc.",
+    "company_slug": "brilliant-group",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708683215/production/Brand/26444/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708683215/production/Product/354829/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Non-Food Consumer Packaging",
+            "Packaging"
+        ],
+        "Product Families": [
+            "Photoluminescent Pigments",
+            "Pigments & Colorants",
+            "Polymer Additives",
+            "Color Pigments"
+        ],
+        "End Uses": [
+            "Closures",
+            "Caps",
+            "Liquid Colorants",
+            "Color Concentrates"
+        ]
+    },
+    "summary": {
+        "Color": [
+            "Pink (Fluorescent)"
+        ],
+        "Functions": [
+            "Effect Pigment"
+        ],
+        "Pigment Type": [
+            "Fluorescent"
+        ],
+        "Compatible Polymers & Resins": [
+            "Polypropylenes (PP)",
+            "Polyethylenes (PE)"
+        ]
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "id": 416633,
+    "brand": "seamstitch",
+    "name": "SeamStitch Butyl Caulk",
+    "slug": "seamstitch-butyl-caulk",
+    "description": "SeamStitch Butyl Caulk is a white, solvent-based brush grade butyl rubber caulk. Seals sheet metal fasteners, seams, laps and flashings prior to the application of elastomeric roof coatings.",
+    "company_name": "Lexis Coatings",
+    "company_slug": "lexis-coatings",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520052/production/Brand/32542/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608490/production/CategoryImage/563/category_image/BuildingConstruction_07.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Construction Chemicals",
+            "Roofing",
+            "Sealants & Caulks",
+            "Building Envelope & Roofing",
+            "Interior Fixtures",
+            "Siding & Trim",
+            "Glazing & Window Elements"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Caulks & Sealants"
+        ],
+        "Chemical Family": [
+            "Butyl Rubber"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Solventborne Sealant",
+            "Elastomeric Sealant"
+        ],
+        "Application Area": [
+            "Door Frames",
+            "Window Frames"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Brick",
+            "Concrete"
+        ],
+        "Application Method": [
+            "Brush"
+        ],
+        "Chemical Family": [
+            "Butyl Rubber"
+        ]
+    }
+}

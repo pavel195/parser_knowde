@@ -1,0 +1,44 @@
+{
+    "id": 410461,
+    "brand": "gacodeck",
+    "name": "GacoFlex® LM60AR",
+    "slug": "gacoflex-lm60ar",
+    "description": "GacoFlex® LM-60AR is a 100% solids liquid applied two-component coating that cures into a water-resistant polyurethane elastomeric membrane. LM-60HAR is designed for application on horizontal and low slope surfaces, at the rate of at least four gallons per 100 ft², to yield a 1/16\" thick membrane. LM-60VAR is designed for the same application rate and the yield on vertical surfaces.",
+    "company_name": "Gaco Western",
+    "company_slug": "gaco-western",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1672225426/production/Brand/31891/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608490/production/CategoryImage/563/category_image/BuildingConstruction_07.jpg",
+    "properties": {
+        "Applications": [
+            "Building Envelope & Roofing",
+            "Waterproofing & Weatherproofing"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Other Paints & Coatings"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Solventless & High Solids Coating",
+            "Elastomeric Coating"
+        ],
+        "Features": [
+            "Acid Resistant",
+            "Water Resistant",
+            "Service Life Extension"
+        ],
+        "Application Method": [
+            "Spray",
+            "Brush",
+            "Wipe",
+            "Trowel"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ]
+    }
+}

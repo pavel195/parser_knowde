@@ -1,0 +1,62 @@
+{
+    "id": 356943,
+    "brand": "marcoa",
+    "name": "Marcoa™ CL270",
+    "slug": "marcoa-cl270",
+    "description": "Marcoa™ CL270 has flexibility and hardness. It is used in appliance finishing, aluminum coil coating and can varnish.",
+    "company_name": "Macroocean",
+    "company_slug": "macroocean",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704101791/production/Brand/26769/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608566/production/CategoryImage/566/category_image/PaintingsCoatings_02.jpg",
+    "properties": {
+        "Applications": [
+            "Overprint Varnishes",
+            "Industrial Coatings",
+            "Coil Coatings",
+            "Appliances & Consumer Goods",
+            "Appliances & Electronics",
+            "Packaging Coatings"
+        ],
+        "Product Families": [
+            "Polyesters",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Polyesters"
+        ],
+        "End Uses": [
+            "Top Coat",
+            "Varnishes"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Polyesters"
+        ],
+        "End Uses": [
+            "Varnishes",
+            "Top Coat"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Aluminum",
+            "Metal"
+        ],
+        "Glass Transition Temperature (Tg)": [
+            "78.0 - 78.0 °C"
+        ],
+        "Features": [
+            "Improved Chemical Resistance",
+            "Excellent Scratch Resistance",
+            "Weather Resistance",
+            "Bacteria Resistance",
+            "Excellent Adhesion",
+            "Deep Drawing",
+            "Improved Stability",
+            "Stain Resistance",
+            "High Gloss",
+            "Improved Hardness",
+            "Improved Flexibility",
+            "Yellowing Resistance"
+        ]
+    }
+}

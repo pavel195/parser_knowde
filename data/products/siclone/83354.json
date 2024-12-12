@@ -1,0 +1,51 @@
+{
+    "id": 83354,
+    "brand": "siclone",
+    "name": "Ganzpearl® GMP-0820",
+    "slug": "ganzpearl-gmp-0820",
+    "description": "Ganzpearl® GMP-0820 is a “macroporous” spherical powder characterized by a smooth creamy feel that provides high oil absorbency, soft focus/optical blurring, and SPF boosting capability. It also has good heat & solvent resistance. Average particle size: 8µm",
+    "company_name": "Presperse",
+    "company_slug": "presperse-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672230/production/Company/1370/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708672230/production/Brand/7005/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Color Cosmetics",
+            "Skin Care",
+            "Sun Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Texturizers & Fillers",
+            "Sensory Modifiers",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Acrylates Crosspolymer"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Acrylates Crosspolymer"
+        ],
+        "Functions": [
+            "Sebum Absorber",
+            "Sensory Additive",
+            "Absorbent"
+        ],
+        "Labeling Claims": [
+            "Ulta Beauty's Conscious Beauty",
+            "Credo Clean Standard"
+        ],
+        "Benefit Claims": [
+            "Soft-Focus Effect",
+            "Effective Oil Absorbent",
+            "High Temperature Resistance",
+            "Spreadability",
+            "Imparts Lubricity",
+            "SPF Enhancement",
+            "Smooth Feel",
+            "Creamy Texture"
+        ]
+    }
+}

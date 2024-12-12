@@ -1,0 +1,57 @@
+{
+    "id": 318460,
+    "brand": "sternzym",
+    "name": "Sternzym PT 100 CAS",
+    "slug": "sternzym-pt-100-cas",
+    "description": "Sternzym PT 100 CAS creates new covalent links within proteins and also between different proteins. The enzyme connects residues of the amino acid L-glutamine to the amino acid L-lysine. The enzyme’s formulation acts as general binder and texture improver for meat products as processing",
+    "company_name": "SternEnzym GmbH & Co. KG",
+    "company_slug": "sternenzym-gmbh-co-kg",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708691703/production/Product/318460/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708691703/production/Product/318460/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Meat, Poultry & Seafood",
+            "Dairy",
+            "Bakery",
+            "Food"
+        ],
+        "Product Families": [
+            "Processing Aids",
+            "Texturizers",
+            "Binders & Disintegrants",
+            "Functional Additives",
+            "Texture & Consistency"
+        ],
+        "Chemical Family": [
+            "Enzymes"
+        ],
+        "End Uses": [
+            "Yogurt",
+            "Rolls",
+            "Processed Meat Products",
+            "Dairy Products",
+            "Cheese",
+            "Bread"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Lactose"
+        ],
+        "Functions": [
+            "Binder",
+            "Texturizing Agent"
+        ],
+        "Labeling Claims": [
+            "Non-GMO",
+            "Vegetarian",
+            "BSE-free",
+            "Non-Irritant",
+            "Nanomaterials-free",
+            "TSE-free"
+        ],
+        "Certifications & Compliance": [
+            "Generally Recognized As Safe (GRAS)"
+        ]
+    }
+}

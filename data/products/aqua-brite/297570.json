@@ -1,0 +1,44 @@
+{
+    "id": 297570,
+    "brand": "aqua-brite",
+    "name": "Aqua-Brite SD2700",
+    "slug": "aqua-brite-sd2700",
+    "description": "Aqua-Brite SD2700 is a medium particle size, bright, VOC free, silver dollar pigment paste developed for water based Coatings applications. Aqua-Brite SD 2700 is chemically stabilized to prevent gassing reactions in water. Metaflake’s unique water milling process guarantees excellent wetting and dispersion.",
+    "company_name": "METAFLAKE",
+    "company_slug": "metaflake",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1683730977/production/Company/23753/logo/image",
+    "banner_url": "https://static.knowde.com/card-banners/knowde-card-for-raw-materials-8.jpg",
+    "properties": {
+        "Applications": [
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Pigments & Colorants",
+            "Effects Pigments",
+            "Metallic Effect"
+        ],
+        "Chemical Family": [
+            "Aluminum Compounds"
+        ],
+        "End Uses": [
+            "Waterborne Coating"
+        ]
+    },
+    "summary": {
+        "Color": [
+            "Silver"
+        ],
+        "Pigment Type": [
+            "Metallic Effect"
+        ],
+        "Chemical Family": [
+            "Aluminum Compounds"
+        ],
+        "End Uses": [
+            "Waterborne Coating"
+        ],
+        "Particle Size": [
+            "27.0 - 27.0 microns"
+        ]
+    }
+}

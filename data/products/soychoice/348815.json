@@ -1,0 +1,40 @@
+{
+    "id": 348815,
+    "brand": "soychoice",
+    "name": "SoyChoice®",
+    "slug": "soychoice",
+    "description": "SoyChoice® is a premium expelled soybean meal, is manufactured using heat and pressure to remove the oil and ensure the best digestibility. No chemicals or solvents are used in the production process of this all-natural meal.",
+    "company_name": "Wenger Feeds",
+    "company_slug": "wenger-feeds",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686126251/production/Brand/26030/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608215/production/CategoryImage/550/category_image/AgricultureFeed_06.jpg",
+    "properties": {
+        "Applications": [
+            "Animal Health & Nutrition",
+            "Ruminants",
+            "Swine",
+            "Birds & Poultry"
+        ],
+        "Product Families": [
+            "Formulated Feeds & Premixes",
+            "Formulated Feeds, Whole Foods and Extracts"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Soybean Meal"
+        ],
+        "Animal Species": [
+            "Swine"
+        ],
+        "Labeling Claims": [
+            "Sustainable",
+            "Natural"
+        ],
+        "Features": [
+            "Improved Milk Yield",
+            "Improves Performance",
+            "Reduces Feed Cost"
+        ]
+    }
+}

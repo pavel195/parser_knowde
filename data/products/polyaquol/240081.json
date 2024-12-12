@@ -1,0 +1,103 @@
+{
+    "id": 240081,
+    "brand": "polyaquol",
+    "name": "innollient™ LO",
+    "slug": "innollient-lo",
+    "description": "<p>Innollient™ LO, a liquid estolide primarily composed of saturated and unsaturated fatty acids, designed to enhance cosmetic formulations. Its unique structure, enriched with a Guerbet derivative, has a high affinity for water molecules and offers superior fluidity and spreadability with a low-friction feel on the skin. It also provides excellent dispersing capabilities for pigments and inorganic UV filters. Innollient™ LO is an ideal natural alternative to silicone, combining exceptional sensory properties with long-lasting hydration, perfect for innovative skincare products.</p>",
+    "company_name": "Innovacos Corp.",
+    "company_slug": "innovacos",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1633040605/production/Brand/15517/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,c_crop,x_0,y_0,w_1500,h_469/v1727778291/production/Product/240081/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Hair Care",
+            "Skin Care",
+            "Sun Care",
+            "Color Cosmetics",
+            "Baby Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Emulsifiers, Solubilizers & Dispersants",
+            "Conditioners & Emollients",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Polyhydroxystearic Acid",
+            "Octyldodecyl Stearoyl Stearate",
+            "Octyldodecyl Oleate",
+            "Octyldodecanol"
+        ],
+        "End Uses": [
+            "Body Cream",
+            "Facial Treatments",
+            "After Sun Products",
+            "Sunscreen Cream",
+            "Skin Serums",
+            "Make Up Remover",
+            "Night Creams",
+            "Day Creams",
+            "Hair Oil",
+            "Mascara",
+            "Lipstick",
+            "Foundation",
+            "CC Cream",
+            "BB Creams",
+            "Sunscreen Moisturizer",
+            "Moisturizers",
+            "Hair Conditioner"
+        ],
+        "Labeling Claims": [
+            "Naturally Derived",
+            "Credo Clean Standard",
+            "Ulta Beauty's Conscious Beauty",
+            "Clean at Sephora",
+            "Organic",
+            "Preservative-free",
+            "Palm Oil-free"
+        ],
+        "Benefit Claims": [
+            "Improves Skin Elasticity",
+            "Sensory Enhancement",
+            "Barrier Function Improvement",
+            "Spreadability",
+            "High Spreadability Index",
+            "Dispersing",
+            "Hydrating",
+            "Skin Barrier",
+            "Prevention Of Surfactant-Induced Damages To The Skin Barrier Function",
+            "Long Lasting",
+            "Improves Skin Resiliency",
+            "Emolliency"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Octyldodecyl Stearoyl Stearate",
+            "Octyldodecyl Oleate",
+            "Polyhydroxystearic Acid",
+            "Octyldodecanol"
+        ],
+        "Functions": [
+            "Emollient",
+            "Dispersant"
+        ],
+        "Labeling Claims": [
+            "Clean at Sephora",
+            "Credo Clean Standard",
+            "Organic",
+            "Ulta Beauty's Conscious Beauty",
+            "Naturally Derived",
+            "Palm Oil-free",
+            "Preservative-free"
+        ],
+        "Certifications & Compliance": [
+            "COSMOS",
+            "IECIC (China)",
+            "ECOCERT",
+            "REACH (Europe)",
+            "Organic Certified",
+            "RSPO Certified Sustainable Palm Oil"
+        ]
+    }
+}

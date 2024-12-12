@@ -1,0 +1,36 @@
+{
+    "id": 368703,
+    "brand": "creative-compounds-cornerstone",
+    "name": "Isolyn™ R-Alpha Lipoic Acid",
+    "slug": "isolyn-r-alpha-lipoic-acid",
+    "description": null,
+    "company_name": "Creative Compounds",
+    "company_slug": "creative-compounds",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708686008/production/Brand/27388/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607247/production/CategoryImage/513/category_image/FoodNutrition_13.jpg",
+    "properties": {
+        "Applications": [
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Fatty Acids, Specialty Lipids & Oils",
+            "Nutrition & Fortification"
+        ],
+        "End Uses": [
+            "Dietary Supplements"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "R-Alpha Lipoic Acid"
+        ],
+        "Functions": [
+            "Supplement",
+            "Dietary Supplement"
+        ],
+        "Features": [
+            "Antioxidant Properties"
+        ]
+    }
+}

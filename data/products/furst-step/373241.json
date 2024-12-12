@@ -1,0 +1,31 @@
+{
+    "id": 373241,
+    "brand": "furst-step",
+    "name": "Furst Step™ 20/20 CMR400",
+    "slug": "furst-step-20-20-cmr400",
+    "description": "Furst Step™ 20/20 CMR400 offers formulations focused on delivering the right balance of lean growth, calf health and cost of gain that meet your goals.",
+    "company_name": "Furst-McNess Company",
+    "company_slug": "furst-mcness-company",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686126176/production/Brand/27876/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608173/production/CategoryImage/547/category_image/AgricultureFeed_03.jpg",
+    "properties": {
+        "Applications": [
+            "Animal Health & Nutrition",
+            "Ruminants"
+        ],
+        "Product Families": [
+            "Formulated Feeds & Premixes",
+            "Formulated Feeds, Whole Foods and Extracts"
+        ]
+    },
+    "summary": {
+        "Features": [
+            "Improves Immunity",
+            "Optimizing Gut Health",
+            "Milk Replacers",
+            "Balanced Amino Acids Profile",
+            "Improves Stability",
+            "Decreases Pathogen Load"
+        ]
+    }
+}

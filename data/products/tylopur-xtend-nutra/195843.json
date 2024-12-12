@@ -1,0 +1,56 @@
+{
+    "id": 195843,
+    "brand": "tylopur-xtend-nutra",
+    "name": "Shin-Etsu AQOAT® AS-LG",
+    "slug": "shin-etsu-aqoat-as-lg",
+    "description": "Shin-Etsu AQOAT® AS-LG -Hypromellose acetate succinate (HPMCAS, NF, JP) is an enteric coating material that can be used in aqueous or organic media.It is also used as solubility enhancement of poorly soluble APIs.",
+    "company_name": "Shin-Etsu Pharma, Nutra and Food",
+    "company_slug": "se-tylose",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708689562/production/Company/1401/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708689562/production/Product/195843/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Oral",
+            "Excipients & Coatings",
+            "Drug Delivery & Care Solutions",
+            "Pharmaceutical Manufacturing"
+        ],
+        "Product Families": [
+            "Modified & Controlled Release",
+            "Flavors & Taste Maskers",
+            "Pharmaceutical Coatings",
+            "Excipients"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Hypromellose Acetate Succinate"
+        ],
+        "Functions": [
+            "Coating System",
+            "Extended Release Agent",
+            "Taste Masker",
+            "Controlled Release Agent"
+        ],
+        "Dosage Form": [
+            "Tablets",
+            "Capsules",
+            "Pellets"
+        ],
+        "Labeling Claims": [
+            "Non-GMO",
+            "TSE-free",
+            "Allergen-free",
+            "Kosher",
+            "Solvent-free",
+            "BSE-free"
+        ],
+        "Certifications & Compliance": [
+            "National Formulary (NF)",
+            "DMF Type IV",
+            "The Food Allergen Labeling & Consumer Protection Act of 2004 (FALCPA)",
+            "GMP",
+            "Japan Pharmacopeia (JP)"
+        ]
+    }
+}

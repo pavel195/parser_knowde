@@ -1,0 +1,39 @@
+{
+    "id": 244263,
+    "brand": "sanprene",
+    "name": "SANHIBITOR No.50",
+    "slug": "sanhibitor-no-50",
+    "description": "SANHIBITOR No.50 is a water-soluble rust inhibitor. It produces less foam and is easily rinsed. It has excellent rust preventive properties and is resistant to heat and alkaline solutions. It is substitutable for alkanol amine. The recommended concentration: 0.2–0.5 wt %.",
+    "company_name": "Sanyo Chemical America Incorporated",
+    "company_slug": "sanam-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708673189/production/Product/244263/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708673189/production/Product/244263/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Other Industrial Applications",
+            "Fluids & Lubricants",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Surface Protective Additives",
+            "Additives"
+        ],
+        "End Uses": [
+            "Rolling Fluids",
+            "Metalworking Fluids"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Corrosion Inhibitor"
+        ],
+        "End Uses": [
+            "Rolling Fluids",
+            "Metalworking Fluids"
+        ],
+        "Features": [
+            "Corrosion Resistant",
+            "Low Foaming"
+        ]
+    }
+}

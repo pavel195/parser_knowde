@@ -1,0 +1,62 @@
+{
+    "id": 332310,
+    "brand": "cran-d-or",
+    "name": "ElderCraft® 3.2% Liquid",
+    "slug": "eldercraft-3-2-liquid",
+    "description": "ElderCraft® 3.2% Liquid is a Pure European black elderberry (Sambucus nigra) liquid; concentrated without organic solvents via physical membrane separation; standardized to a minimum anthocyanin content of 3.2%.",
+    "company_name": "Artemis International",
+    "company_slug": "artemis-international",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686104168/production/Brand/24410/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606846/production/CategoryImage/500/category_image/FoodNutrition_01.jpg",
+    "properties": {
+        "Applications": [
+            "Beverage",
+            "Nutrition & Well Being",
+            "Functional Foods",
+            "Nutraceuticals & Supplements",
+            "Other Non-Alcoholic Beverages",
+            "Powdered Beverages"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Fruit Products & Extracts"
+        ],
+        "End Uses": [
+            "Beverage Mixes",
+            "Dietary Supplements",
+            "Tablets"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Elderberry Extract"
+        ],
+        "Physical Form": [
+            "Liquid"
+        ],
+        "Labeling Claims": [
+            "BSE-free",
+            "TSE-free",
+            "Vegan",
+            "Plant-Based",
+            "Allergen-free",
+            "Non-GMO",
+            "Kosher",
+            "Gluten-free",
+            "Naturally Derived"
+        ],
+        "Certifications & Compliance": [
+            "Kosher"
+        ],
+        "Features": [
+            "Healthy Ageing",
+            "Anti-Inflammatory",
+            "Stimulates Immune System",
+            "Imparts color",
+            "Antioxidant Properties"
+        ],
+        "Sugar Content": [
+            "6.8 - 6.8 %"
+        ]
+    }
+}

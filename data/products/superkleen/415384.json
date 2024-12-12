@@ -1,0 +1,41 @@
+{
+    "id": 415384,
+    "brand": "superkleen",
+    "name": "AlbaChem® SUPERKLEEN S.P.I.F. Cleaning Fluid",
+    "slug": "albachem-superkleen-s-p-i-f-cleaning-fluid",
+    "description": "AlbaChem® Superkleen S.P.I.F. Cleaning Fluid completely removes cured plastisol inks, most water-based inks, flock lettering and adhesives from all textiles. Its unique oxygenated formula leaves fabric free of any trade of ink smudge. S.P.I.F. contains only first quality virgin solvents and is crystal clear in color.",
+    "company_name": "Albatross USA",
+    "company_slug": "albatross-usa",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292540/production/Brand/32373/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515647/production/CategoryImage/1055/category_image/HII_07.jpg",
+    "properties": {
+        "Applications": [
+            "Laundry & Fabric Care",
+            "Commercial Laundry",
+            "Institutional & Industrial Care",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Commercial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner",
+            "Ink Cleaner"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Fibers & Fabrics"
+        ],
+        "Certifications & Compliance": [
+            "California Proposition 65",
+            "SARA 311/312",
+            "Occupational Safety & Health Administration (OSHA)"
+        ],
+        "Features": [
+            "Fast Drying",
+            "High Flash Point"
+        ]
+    }
+}

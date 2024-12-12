@@ -1,0 +1,48 @@
+{
+    "id": 325596,
+    "brand": "elevatp",
+    "name": "ELEVATP®",
+    "slug": "elevatp",
+    "description": "ElevATP® is a natural combination of ancient peat and apple polyphenols clinically shown to increase levels of endogenous ATP and support improved strength, power, and performance in resistance-trained athletes.*",
+    "company_name": "VDF/FutureCeuticals",
+    "company_slug": "vdf-futureceuticals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704796048/production/Company/29429/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606961/production/CategoryImage/506/category_image/FoodNutrition_07.jpg",
+    "properties": {
+        "Applications": [
+            "Sports Nutrition",
+            "Functional Foods",
+            "Nutraceuticals & Supplements",
+            "Other Non-Alcoholic Beverages",
+            "Beverage",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Fruit Products & Extracts",
+            "Whole Foods, Extracts & Premixes"
+        ],
+        "End Uses": [
+            "Energy Bars",
+            "Dietary Supplements",
+            "Tablets"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Apple Extract"
+        ],
+        "Labeling Claims": [
+            "Natural",
+            "Non-GMO",
+            "Naturally Derived",
+            "Plant-Based"
+        ],
+        "Certifications & Compliance": [
+            "Non-GMO Project Verified",
+            "Generally Recognized As Safe (GRAS)"
+        ],
+        "Features": [
+            "Ready-To-Use"
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "id": 297259,
+    "brand": "brufablend",
+    "name": "Brufablend® L 27727",
+    "slug": "bruchsaler-farbenfabrik-brufablend-l-27727",
+    "description": "Brufablend® L 27727 is an organic or inorganic mixed dry pigment blend for indoor applications.",
+    "company_name": "Bruchsaler Farbenfabrik",
+    "company_slug": "bruchsaler-farbenfabrik",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708516337/production/Company/23652/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608438/production/CategoryImage/559/category_image/BuildingConstruction_03.jpg",
+    "properties": {
+        "Applications": [
+            "Decorative Paints, Coatings & Stains",
+            "Other Paints & Coatings Applications",
+            "Industrial Coatings",
+            "Decorative Paints",
+            "Building Materials",
+            "Building & Construction",
+            "Decorative Materials & Finishes"
+        ],
+        "Product Families": [
+            "Color Pigments",
+            "Pigments & Colorants"
+        ],
+        "Chemical Family": [
+            "Blends & Combinations"
+        ]
+    },
+    "summary": {
+        "Color": [
+            "Yellow"
+        ],
+        "Chemical Family": [
+            "Blends & Combinations"
+        ]
+    }
+}

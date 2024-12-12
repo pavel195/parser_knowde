@@ -1,0 +1,38 @@
+{
+    "id": 374295,
+    "brand": "ecorr",
+    "name": "Ecorr® RNR20B52",
+    "slug": "ecorr-rnr20b52",
+    "description": "Ecorr® RNR20B52 has the following benefits: Shorter mixing cycles result in lower power consumption. Reduce the temperature of calendering, mixing, and extrusion. The main benefit is cost savings in tire applications.",
+    "company_name": "Rubber Resources",
+    "company_slug": "rubber-resources",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691738817/production/Brand/27976/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608693/production/CategoryImage/573/category_image/AutomotiveTransportation_01.jpg",
+    "properties": {
+        "Applications": [
+            "Powertrain & UTH",
+            "Footwear",
+            "Equipment & Parts",
+            "Other Automotive Applications",
+            "Tires",
+            "Chemical & Industrial Manufacturing",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Parts & Shapes"
+        ],
+        "Chemical Family": [
+            "Natural Rubbers"
+        ],
+        "Polymer Name": [
+            "Natural Rubber Latex"
+        ],
+        "End Uses": [
+            "Footwear",
+            "Conveyors",
+            "Automotive Applications",
+            "Tires"
+        ]
+    },
+    "summary": {}
+}

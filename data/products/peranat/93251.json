@@ -1,0 +1,69 @@
+{
+    "id": 93251,
+    "brand": "peranat",
+    "name": "AMIDET® N",
+    "slug": "amidet-n",
+    "description": "AMIDET® N is a high concentrated liquid surfactant - PEG-4 Rapeseedamide - which shows very good solubilizing and emulsifying properties. It presents better performance in terms of thickening and foaming than Cocamide DEA.",
+    "company_name": "Kao Chemicals",
+    "company_slug": "kao-chemicals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708699651/production/Company/1283/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708699651/production/Company/1283/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Bath & Shower",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Emulsifiers & Demulsifiers",
+            "Nonionic Surfactants",
+            "Other Functional Additives",
+            "Foam Control Agents",
+            "Rheology Modifiers",
+            "Emulsifiers, Solubilizers & Dispersants",
+            "Functionals",
+            "Surfactants & Cleansers",
+            "Soaps & Surfactants",
+            "Functional Additives",
+            "Cleaning Aids"
+        ],
+        "Chemical Family": [
+            "Amides"
+        ],
+        "INCI Name": [
+            "PEG-4 Rapeseedamide"
+        ],
+        "End Uses": [
+            "Body Wash",
+            "Bubble Bath"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "PEG-4 Rapeseedamide"
+        ],
+        "CAS Number": [
+            "827613-35-4"
+        ],
+        "Functions": [
+            "Foaming Agent",
+            "Surfactant",
+            "Solubilizer",
+            "Foam Booster",
+            "Surfactant (Nonionic)",
+            "Thickener",
+            "Thixotrope",
+            "Viscosity Modifier",
+            "Emulsifier"
+        ],
+        "Ingredient Origin": [
+            "Synthetic",
+            "Oleochemical"
+        ],
+        "Certifications & Compliance": [
+            "CosIng Listed"
+        ],
+        "Synonyms": [
+            "Amides, Rape-Oil, N-(Hydroxyethyl), Ethoxylated"
+        ]
+    }
+}

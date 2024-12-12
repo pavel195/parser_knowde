@@ -1,0 +1,41 @@
+{
+    "id": 439207,
+    "brand": "silikal",
+    "name": "Silikal® RH 65 resin",
+    "slug": "silikal-rh-65-resin",
+    "description": "SILIKAL® RH 65 resin s a solvent free, fast curing MMA resin of very low viscosity. It is used for indoor screeds of 5-20 mm on concrete to equalize an uneven concrete surface. Screeds must be overlaid with a Silikal® coating system according to System A – E. The fast curing time of 1 hour, flexibility and filler rich formulation of 1 : 8 makes the mortar economical and can be applied at temperatures between 0°C and 35°C (refer to table of hardener). Hot water loadings must be limited to 60 °C. Excess temperature up to 80 °C will be accepted for a short moment as long as the temperature of the complete layer does not adopt the higher degree.",
+    "company_name": "Silikal America",
+    "company_slug": "silikal-america",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112340/production/Company/63642/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608410/production/CategoryImage/557/category_image/BuildingConstruction_01.jpg",
+    "properties": {
+        "Applications": [
+            "Flooring & Surfaces",
+            "Infrastructure, Roads & Paving",
+            "Building & Construction",
+            "Floor Coatings",
+            "Coatings & Markings"
+        ],
+        "Product Families": [
+            "Resins & Binders",
+            "Acrylics"
+        ],
+        "Chemical Family": [
+            "Methacrylates",
+            "Poly(methyl methacrylate) (PMMA)"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Poly(methyl methacrylate) (PMMA)",
+            "Methacrylates"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Concrete"
+        ],
+        "Features": [
+            "Fast Cure",
+            "Low Viscosity"
+        ]
+    }
+}

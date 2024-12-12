@@ -1,0 +1,70 @@
+{
+    "id": 404866,
+    "brand": "alnochromix",
+    "name": "Alconox® Powdered Precision Cleaner",
+    "slug": "alconox-powdered-precision-cleaner",
+    "description": "Alconox® Powdered Precision Cleaner is a concentrated, anionic detergent for manual and ultrasonic cleaning. Free rinsing to give you reliable results without interfering residues. Ideal for cleaning contaminants from glassware, metals, plastics, ceramic, porcelain, rubber and fiberglass. Excellent replacement for corrosive acids and hazardous solvents. USDA authorized. Dilute 1:100. pH 9.5\n\n\nConcentrated to save you money\nBiodegradable and readily disposable\nPenetrating wetting power to save you time\nFree rinsing to give you reliable results and no interfering residues\nUse to pass your cleaning validation tests for lab accreditation and plant inspection approval\n",
+    "company_name": "Alconox Inc.",
+    "company_slug": "alconox",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709127798/production/Company/20119/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1709127798/production/Product/404866/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Industrial Cleaning",
+            "Surface Care",
+            "Institutional & Catering",
+            "Fluids & Lubricants",
+            "Chemical & Industrial Manufacturing",
+            "Home Care",
+            "Institutional & Industrial Care"
+        ],
+        "Product Families": [
+            "Commercial Cleaners",
+            "Industrial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Product Type": [
+            "Detergents",
+            "Cleaner"
+        ],
+        "Certifications & Compliance": [
+            "FDA Compliant",
+            "USDA Certified"
+        ],
+        "Application Area": [
+            "Ultrasonic Cleaner",
+            "Machine Parts",
+            "Electronic Components",
+            "Tanks",
+            "Medical Devices",
+            "Equipment",
+            "Pipes"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Ceramic",
+            "Steel",
+            "Plastics",
+            "Elastomers & Rubbers",
+            "Fiberglass",
+            "Glass",
+            "Zinc",
+            "Copper",
+            "Magnesium",
+            "Metal",
+            "Aluminum"
+        ],
+        "Features": [
+            "Low Residuals",
+            "Effective Particle Removal",
+            "Degreasing",
+            "Good Hard Water Stability",
+            "Free Rinsing",
+            "Effective Soil Removal",
+            "Excellent Wetting Behaviour",
+            "Enzymes-Free",
+            "Disposable"
+        ]
+    }
+}

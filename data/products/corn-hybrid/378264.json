@@ -1,0 +1,39 @@
+{
+    "id": 378264,
+    "brand": "corn-hybrid",
+    "name": "CORN HYBRID #4313",
+    "slug": "corn-hybrid-4313",
+    "description": "CORN HYBRID #4313 is a medium tall plant with medium height ear placement and medium fungicide response.",
+    "company_name": "Cappel Certified Seeds",
+    "company_slug": "cappel-certified-seeds",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1703115809/production/Brand/28243/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608224/production/CategoryImage/551/category_image/AgricultureFeed_07.jpg",
+    "properties": {
+        "Applications": [
+            "Vegetables",
+            "Sugar & Starch Crops",
+            "Oilseeds",
+            "Cereals",
+            "Fodder & Forage",
+            "Agricultural Crops"
+        ],
+        "Product Families": [
+            "Hybrid Seeds",
+            "Seeds & Traits"
+        ]
+    },
+    "summary": {
+        "Crop & Plant Type": [
+            "Corn"
+        ],
+        "Labeling Claims": [
+            "Non-GMO"
+        ],
+        "Features": [
+            "Good Stalks Growth",
+            "Good Roots Growth",
+            "Quick Drydown",
+            "Good Staygreen"
+        ]
+    }
+}

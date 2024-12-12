@@ -1,0 +1,34 @@
+{
+    "id": 403262,
+    "brand": "black-swan",
+    "name": "Black Swan® Clear Cleaner",
+    "slug": "black-swan-clear-cleaner",
+    "description": "Black Swan® Clear Cleaner is a clear, non-bodied, fast acting solvent used to clean plastic pipe and fittings prior to assembly. Clear Cleaner can be used with all types, schedules and classes of PVC, CPVC, ABS and Styrene pipe and fittings. A low VOC formulation.",
+    "company_name": "Black Swan",
+    "company_slug": "black-swan",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292104/production/Brand/30830/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608422/production/CategoryImage/558/category_image/BuildingConstruction_02.jpg",
+    "properties": {
+        "Applications": [
+            "Home Care",
+            "Institutional & Industrial Care",
+            "Surface Care",
+            "Industrial Cleaning"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Industrial Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner"
+        ],
+        "Application Areas": [
+            "Pipes"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Plastics"
+        ]
+    }
+}

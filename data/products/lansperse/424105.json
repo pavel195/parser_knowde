@@ -1,0 +1,32 @@
+{
+    "id": 424105,
+    "brand": "lansperse",
+    "name": "Agrosurf BPE211-EH",
+    "slug": "agrosurf-bpe211-eh",
+    "description": "Agrosurf BPE211-EH is a powerful balanced pair emulsifier used in conjunction with Agrosurf BPE148-EH. Once the correct ratios are established these two emulsifiers can be used for a wide range of emulsifiable concentrates across many different pesticide types.",
+    "company_name": "Lankem",
+    "company_slug": "lankem",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672112/production/Company/18990/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625605156/production/CategoryImage/441/category_image/CleaningIngredients_06.jpg",
+    "properties": {
+        "Applications": [
+            "Agricultural Pest Control",
+            "Pest Control"
+        ],
+        "Product Families": [
+            "Dispersants & Emulsifiers",
+            "Adjuvants & Formulation Ingredients"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Emulsifier"
+        ],
+        "Features": [
+            "Improved Formulation Stability"
+        ],
+        "Physical Form": [
+            "Liquid"
+        ]
+    }
+}

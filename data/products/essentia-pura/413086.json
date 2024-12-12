@@ -1,0 +1,51 @@
+{
+    "id": 413086,
+    "brand": "essentia-pura",
+    "name": "Essentia Pura™ Broad Spectrum CBD Oil",
+    "slug": "essentia-pura-essentia-pura-broad-spectrum-cbd-oil",
+    "description": "Essentia Pura™ Broad-Spectrum CBD Oil is available in wholesale and has zero % THC concentration. But it still contains a broad range of phytocannabinoids, including CBD, CBG, and CBN. Other bio-active compounds that are found in industrial hemp, such as terpenes, are further ingredients.",
+    "company_name": "Essentia Pura",
+    "company_slug": "essentia-pura",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686109487/production/Company/47047/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1686109487/production/Product/413086/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Nutrition & Well Being",
+            "Nutraceuticals & Supplements"
+        ],
+        "Product Families": [
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements",
+            "Fatty Acids & Specialty Lipids",
+            "Phytochemicals",
+            "Fatty Acids, Specialty Lipids & Oils",
+            "Phytochemicals & Plant Extracts"
+        ],
+        "End Uses": [
+            "Dietary Supplements",
+            "Nutraceuticals"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "CBD Oil"
+        ],
+        "Active Component": [
+            "Cannabinoids"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Plant Origin"
+        ],
+        "Labeling Claims": [
+            "Plant-Based",
+            "Natural",
+            "Preservative-free",
+            "THC-free",
+            "Naturally Derived"
+        ],
+        "Physical Form": [
+            "Liquid"
+        ]
+    }
+}

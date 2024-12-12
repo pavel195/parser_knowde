@@ -1,0 +1,27 @@
+{
+    "id": 346535,
+    "brand": "egmont",
+    "name": "NZMP (USA) / Fonterra North America Coloured Cheddar Cheese",
+    "slug": "nzmp-usa-fonterra-north-america-coloured-cheddar-cheese",
+    "description": "NZMP (USA) / Fonterra North America Colored Cheddar Cheese is a semi-hard, rindless cheese. Sometimes referred to as Red Cheddar, this has a mild flavor, smooth texture and a firm body. A natural beta-carotene coloring is added to the cheese in order to achieve a uniform and distinctive orange color.",
+    "company_name": "NZMP (USA) / Fonterra North America",
+    "company_slug": "nzmp-usa-fonterra-north-america",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1693576244/production/Company/37327/logo/image",
+    "banner_url": "https://static.knowde.com/card-banners/knowde-card-for-raw-materials-8.jpg",
+    "properties": {
+        "Applications": [
+            "Desserts & Fruit Preparations",
+            "Dairy",
+            "Bakery",
+            "Food"
+        ],
+        "Product Families": [
+            "Dairy Products",
+            "Whole Foods, Extracts & Premixes"
+        ],
+        "End Uses": [
+            "Ice Cream"
+        ]
+    },
+    "summary": {}
+}

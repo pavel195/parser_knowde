@@ -1,0 +1,40 @@
+{
+    "id": 454568,
+    "brand": "nicsalt",
+    "name": "NicSalt B",
+    "slug": "nicsalt-b",
+    "description": "NicSalt B is a premium quality nicotine salts dedicated to e-liquid and nicotine pouches manufacturing. NicSalt-B (Nicotine Salt Benzoate) - nicotine powder manufactured by mixing nicotine base with benzoic acid. Benzoic acid is widely used in the food industry.\r\n",
+    "company_name": "Chemnovatic",
+    "company_slug": "chemnovatic",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704107047/production/Company/63320/logo/image",
+    "banner_url": "https://static.knowde.com/card-banners/knowde-card-for-raw-materials-8.jpg",
+    "properties": {
+        "Applications": [
+            "Other Consumer Goods Applications"
+        ],
+        "Product Families": [
+            "Organic Salts",
+            "Technical Salts & Inorganics"
+        ],
+        "Chemical Family": [
+            "Benzoates"
+        ],
+        "End Uses": [
+            "Vape"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Nicotine Benzoate"
+        ],
+        "CAS Number": [
+            "88660-53-1"
+        ],
+        "Purity (Assay)": [
+            "99.9 - 99.9 %"
+        ],
+        "Labeling Claims": [
+            "Biocompatible"
+        ]
+    }
+}

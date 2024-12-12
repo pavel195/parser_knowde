@@ -1,0 +1,49 @@
+{
+    "id": 261457,
+    "brand": "sulfenax",
+    "name": "Dusantox® ODPA",
+    "slug": "dusantox-odpa",
+    "description": "Dusantox® ODPA is Simple non-staining antidegradant with antioxidant properties suitable for rubber and other polymers.",
+    "company_name": "Duslo",
+    "company_slug": "duslo",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708691271/production/Company/20592/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608769/production/CategoryImage/577/category_image/AutomotiveTransportation_05.jpg",
+    "properties": {
+        "Applications": [
+            "Tires",
+            "Other Industrial Applications",
+            "Maintenance, Repair & Overhaul",
+            "Other Automotive & Transportation Applications",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Performance Additives",
+            "Antioxidants & Stabilizers",
+            "Elastomer Additives"
+        ],
+        "Chemical Family": [
+            "Amines"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Primary Antioxidant",
+            "Anti-Degradant",
+            "Antioxidant"
+        ],
+        "Chemical Family": [
+            "Amines"
+        ],
+        "Compatible Polymers & Resins": [
+            "Natural Rubbers (NR)",
+            "Chloroprene Rubber (CR)",
+            "Nitrile Butadiene Rubber (NBR)"
+        ],
+        "Features": [
+            "UV Stabilized",
+            "Excellent Dispersibility",
+            "High Efficiency",
+            "Prevents Thermo-Oxidative Degradation"
+        ]
+    }
+}

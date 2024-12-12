@@ -1,0 +1,44 @@
+{
+    "id": 358668,
+    "brand": "resicote",
+    "name": "Eurogrip Marine",
+    "slug": "eurogrip-marine",
+    "description": "Eurogrip Marine is for use in marine and maritime applications. It comprises a heavy duty polyurethane adhesive slurry onto which high friction aggregate is scattered. This highly effective heavy duty surface is suitable for use on all types of vessel. It is used with 1-3mm size high friction aggregate.",
+    "company_name": "Optus",
+    "company_slug": "optus",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520247/production/Brand/26757/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608566/production/CategoryImage/566/category_image/PaintingsCoatings_02.jpg",
+    "properties": {
+        "Applications": [
+            "Coatings & Finishes",
+            "Building Materials",
+            "Marine",
+            "Fence, Decks & Rails",
+            "Marine Coatings",
+            "Transportation"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Coating"
+        ],
+        "Features": [
+            "Oil Resistant",
+            "Wear Resistant",
+            "Provides Solvent Resistance",
+            "Abrasion Resistant",
+            "Skid Resistant",
+            "Anti-Slip",
+            "Long Shelf Life"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Steel",
+            "Wood",
+            "Metal"
+        ]
+    }
+}

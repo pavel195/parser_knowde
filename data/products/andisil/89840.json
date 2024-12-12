@@ -1,0 +1,66 @@
+{
+    "id": 89840,
+    "brand": "andisil",
+    "name": "Andisil® SP 1818",
+    "slug": "andisil-sp-1818",
+    "description": "Silicone polyethers, also known as silicone surfactants, are used in many industries as emulsifiers, foaming agents, solubilizers and softeners. They are also known to add leveling, slip and mar resistance properties to coatings formulations.",
+    "company_name": "AB Specialty Silicones",
+    "company_slug": "ab-specialty-silicones",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708699230/production/Product/89840/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708699230/production/Product/89840/card_banner/image",
+    "properties": {
+        "Applications": [
+            "AP/Deo",
+            "Leather Manufacturing",
+            "Skin Care",
+            "Sun Care",
+            "Finishing",
+            "Leather",
+            "Beauty & Care",
+            "Leather & Textiles"
+        ],
+        "Product Families": [
+            "Emulsifiers, Solubilizers & Dispersants",
+            "Nonionic Surfactants",
+            "Surface Modifiers",
+            "Functional Additives",
+            "Additives",
+            "Functionals",
+            "Surfactants & Cleansers"
+        ],
+        "Chemical Family": [
+            "Silicones",
+            "Polyethers"
+        ],
+        "INCI Name": [
+            "PEG/PPG-18/18 Dimethicone"
+        ],
+        "End Uses": [
+            "Body Lotion",
+            "Body Cream",
+            "Shaving Cream",
+            "Antiperspirants",
+            "Deodorants"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "PEG/PPG-18/18 Dimethicone"
+        ],
+        "Chemical Family": [
+            "Silicones",
+            "Polyethers"
+        ],
+        "Functions": [
+            "Wetting Agent",
+            "Surfactant (Nonionic)",
+            "Slip Control Agent",
+            "Surfactant",
+            "Leveling Agent",
+            "Anti-Marring Agent"
+        ],
+        "Labeling Claims": [
+            "Ulta Beauty's Conscious Beauty"
+        ]
+    }
+}

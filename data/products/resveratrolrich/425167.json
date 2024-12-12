@@ -1,0 +1,67 @@
+{
+    "id": 425167,
+    "brand": "resveratrolrich",
+    "name": "RichBerry™ 6000 ORAC",
+    "slug": "richberry-6000-orac",
+    "description": "RichBerry™ 6000 ORAC is a multi-berry powdered extract blends with SEVEN superior berries and fruits into one of the most potent antioxidant-rich concentrates available. RichBerry’s combined antioxidant potential gives it an ORAC value of 6000 per gram with even greater antioxidant power.  Each ingredient is specifically chosen both for potent ORAC value, and sound scientific research that substantiates that berry’s health benefits.",
+    "company_name": "InovoBiologic Inc.",
+    "company_slug": "inovobiologic-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686109679/production/Company/23734/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607026/production/CategoryImage/510/category_image/FoodNutrition_11.jpg",
+    "properties": {
+        "Applications": [
+            "Beverage",
+            "Food",
+            "Nutrition & Well Being",
+            "Energy Drinks",
+            "Dairy",
+            "Other Food Applications",
+            "Functional Foods",
+            "Other Non-Alcoholic Beverages"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Fruit Products & Extracts"
+        ],
+        "End Uses": [
+            "Smoothies",
+            "Functional Foods",
+            "Dietary Supplements",
+            "Functional Beverages",
+            "Encapsulated Flavors",
+            "Energy Bars",
+            "Energy Drinks"
+        ]
+    },
+    "summary": {
+        "Physical Form": [
+            "Powder",
+            "Solid"
+        ],
+        "Labeling Claims": [
+            "Plant-Based",
+            "Non-GMO",
+            "Metal-free",
+            "Natural",
+            "Naturally Derived"
+        ],
+        "Certifications & Compliance": [
+            "GMP"
+        ],
+        "Features": [
+            "Healthy Ageing",
+            "Blood Glucose Management",
+            "Anti-Bacterial",
+            "Anti-Inflammatory",
+            "Cardiovascular Protection",
+            "Improved Cognitive Function",
+            "Manages Oxidative Stress",
+            "Anti-Hypertensive",
+            "Improved Stability",
+            "Non-Irradiated",
+            "Antioxidant Properties",
+            "Anti-Cancer Properties",
+            "Cost Effective"
+        ]
+    }
+}

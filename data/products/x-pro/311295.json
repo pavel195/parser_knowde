@@ -1,0 +1,51 @@
+{
+    "id": 311295,
+    "brand": "x-pro",
+    "name": "X-Pro® SP200 P 31608",
+    "slug": "x-pro-sp200-p-31608",
+    "description": "X-Pro® SP200 P 31608 is a black, automotive-certified, general-purpose polypropylene copolymer with 98% recycled content and medium flow, which is suitable for injection molding. It offers a low-cost alternative to virgin resin while maintaining comparable quality and processability. This product can be used in various application areas, such as general-purpose automotive and automotive wheel housings.",
+    "company_name": "CTC Plastics",
+    "company_slug": "ctc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1723197540/production/Company/15217/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1723197540/production/Product/311295/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Exterior & Body",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Recycled Polymers",
+            "Polyolefins",
+            "Basic Thermoplastics"
+        ],
+        "Chemical Family": [
+            "Polypropylenes (PP)",
+            "Polyolefins"
+        ],
+        "Polymer Name": [
+            "Polypropylene Copolymer"
+        ],
+        "End Uses": [
+            "Wheel Housing Parts",
+            "General Purpose"
+        ],
+        "Labeling Claims": [
+            "Recycled",
+            "Contains PIR Resin",
+            "Contains PCR Resin"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polypropylene Copolymer"
+        ],
+        "Labeling Claims": [
+            "Contains PIR Resin",
+            "Recycled",
+            "Contains PCR Resin"
+        ],
+        "Processing Methods": [
+            "Injection Molding"
+        ]
+    }
+}

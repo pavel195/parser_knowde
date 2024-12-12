@@ -1,0 +1,47 @@
+{
+    "id": 301019,
+    "brand": "optim",
+    "name": "OPTIM® E-131",
+    "slug": "optim-e-131",
+    "description": "OPTIM® E-131 is a maleic anhydride modified very low density polyethylene. It is used for toughening of Polyamides such as Nylon-6 & Nylon 6, 6. It gives excellent mechanical properties at sub-zero conditions.",
+    "company_name": "Pluss Advanced Technologies Pvt Ltd",
+    "company_slug": "pluss-advanced-technologies",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708686597/production/Company/24297/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708686597/production/Product/301019/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Jacketing & Insulation",
+            "Wire & Cable"
+        ],
+        "Product Families": [
+            "Surface Modifiers",
+            "Performance Additives",
+            "Additive Masterbatches",
+            "Masterbatches",
+            "Polymer Additives"
+        ],
+        "End Uses": [
+            "Cables"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Impact Modifier",
+            "Adhesion Promoter"
+        ],
+        "Compatible Polymers & Resins": [
+            "Polyamide 6 (PA 6)",
+            "Polyolefins",
+            "Polyamides",
+            "Polyamide 66 (PA 66)"
+        ],
+        "Carrier": [
+            "Low-Density Polyethylene (LDPE)",
+            "Resin-based"
+        ],
+        "Features": [
+            "Good Mechanical Properties",
+            "Non-Hygroscopic"
+        ]
+    }
+}

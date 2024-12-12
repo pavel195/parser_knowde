@@ -1,0 +1,124 @@
+{
+    "id": 309968,
+    "brand": "eucalyptus",
+    "name": "CYPRESS BLUE OIL",
+    "slug": "cypress-blue-oil",
+    "description": "Cypress Blue Oil is used in wood and bark.",
+    "company_name": "Down Under Enterprises International",
+    "company_slug": "down-under-enterprises-international",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1720053844/production/Product/309968/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,c_crop,x_0,y_201,w_1558,h_487/v1720053844/production/Product/309968/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Skin Care",
+            "Wipes, Tissue & Towel",
+            "Other Beauty & Care",
+            "Fragrances & Perfumes",
+            "Treatment Products",
+            "Color Cosmetics",
+            "Beauty & Care",
+            "Personal Hygiene"
+        ],
+        "Product Families": [
+            "Skin Actives",
+            "Antioxidants & Preservatives",
+            "Essential Oils",
+            "Cosmetic Actives",
+            "Vitamins, Extracts & Oils",
+            "Functionals"
+        ],
+        "Chemical Family": [
+            "Essential Oils"
+        ],
+        "INCI Name": [
+            "Callitris Intratropica Wood Oil"
+        ],
+        "End Uses": [
+            "Foot Spray",
+            "Shaving Cream",
+            "Shaving Foam",
+            "Insect Repellent Cream",
+            "Insect Repellent Spray",
+            "Lip Balm",
+            "Massage Products",
+            "Fragrances & Perfumes",
+            "Wound Treatment"
+        ],
+        "Labeling Claims": [
+            "Credo Clean Standard",
+            "Ulta Beauty's Conscious Beauty",
+            "Organic",
+            "Plant-Based",
+            "Kosher",
+            "Naturally Derived",
+            "Gluten-free",
+            "Nanomaterials-free",
+            "Vegan",
+            "Non-GMO",
+            "CMR Substances-free",
+            "TSE-free",
+            "BSE-free",
+            "Not Tested on Animals",
+            "Allergen-free",
+            "Non-Irritant"
+        ],
+        "Benefit Claims": [
+            "High Purity",
+            "Non-Irradiated",
+            "Healing",
+            "Anti-Viral",
+            "Soothing",
+            "Calming"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Callitris Intratropica Wood Oil"
+        ],
+        "Functions": [
+            "Anti-Inflammatory",
+            "Anti-Septic"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Non-Animal Origin",
+            "Plant Origin"
+        ],
+        "Labeling Claims": [
+            "Organic",
+            "CMR Substances-free",
+            "Vegan",
+            "Not Tested on Animals",
+            "Kosher",
+            "TSE-free",
+            "Credo Clean Standard",
+            "Nanomaterials-free",
+            "Plant-Based",
+            "Non-Irritant",
+            "Ulta Beauty's Conscious Beauty",
+            "Gluten-free",
+            "Allergen-free",
+            "Non-GMO",
+            "Naturally Derived",
+            "BSE-free"
+        ],
+        "Certifications & Compliance": [
+            "Organic Certified",
+            "Kosher",
+            "ECOCERT",
+            "Prop 65 Compliant",
+            "ISO 9001",
+            "ISO 14001",
+            "COSMOS",
+            "ISO 45001"
+        ],
+        "Benefit Claims": [
+            "Calming",
+            "Non-Irradiated",
+            "High Purity",
+            "Anti-Viral",
+            "Soothing",
+            "Healing"
+        ]
+    }
+}

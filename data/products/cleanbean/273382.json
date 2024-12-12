@@ -1,0 +1,33 @@
+{
+    "id": 273382,
+    "brand": "cleanbean",
+    "name": "Select Ingredients Freeze Dried Acerola Organic Powder 17-20%",
+    "slug": "select-ingredients-freeze-dried-acerola-organic-powder-17-20",
+    "description": "Organic Acerola Puree that has been freeze dried and milled. This product is produced in accordance with Good Manufacturing Practices and conforms in all respects to the provisions of the Federal Food, Drug, and Cosmetic Act.",
+    "company_name": "Select Ingredients",
+    "company_slug": "select-ingredients",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697220513/production/Company/21330/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606984/production/CategoryImage/507/category_image/FoodNutrition_08.jpg",
+    "properties": {
+        "Applications": [
+            "Confectionery",
+            "Cereals & Snacks",
+            "Meat, Poultry & Seafood",
+            "Bakery",
+            "Nutraceuticals & Supplements",
+            "Food",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Fruit Products & Extracts",
+            "Whole Foods, Extracts & Premixes"
+        ],
+        "End Uses": [
+            "Breakfast Cereals",
+            "Confectionery Products",
+            "Processed Meat Products",
+            "Dietary Supplements"
+        ]
+    },
+    "summary": {}
+}

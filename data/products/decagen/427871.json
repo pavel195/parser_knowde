@@ -1,0 +1,31 @@
+{
+    "id": 427871,
+    "brand": "decagen",
+    "name": "Determad®",
+    "slug": "determad",
+    "description": "Determad® is cleaning and stripping detergent for heavily soiled surfaces. Determad® can be used in organic farming in accordance with regulations (EU) 2018/848 and 2021/1165. DETERMAD ® is certified by FR-BIO-01.",
+    "company_name": "Synthese Elevage",
+    "company_slug": "synthese-elevage",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292767/production/Brand/33930/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515684/production/CategoryImage/1058/category_image/HII_10.jpg",
+    "properties": {
+        "Applications": [
+            "Home Care",
+            "Surface Care"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Commercial Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Detergents"
+        ],
+        "Features": [
+            "Self Cleaning",
+            "Strippable",
+            "Effective Soil Removal"
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "id": 176365,
+    "brand": "resiprene",
+    "name": "CET® 123",
+    "slug": "cet-123",
+    "description": "CET® 123 by Resirene is comprised of Styrene Acrylic Copolymer. It is commonly used",
+    "company_name": "Resirene",
+    "company_slug": "resirene",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708531487/production/Company/4435/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607988/production/CategoryImage/537/category_image/HomePersonalCare_03.jpg",
+    "properties": {
+        "Applications": [
+            "Non-Food Consumer Packaging",
+            "Housewares",
+            "Medical Devices & Assemblies",
+            "Other Medical Applications",
+            "Medical",
+            "Packaging"
+        ],
+        "Product Families": [
+            "Styrenics",
+            "Basic Thermoplastics"
+        ],
+        "Chemical Family": [
+            "Styrenics"
+        ],
+        "Polymer Name": [
+            "Styrene Acrylic Copolymer"
+        ],
+        "End Uses": [
+            "Cosmetic Packaging",
+            "Household Goods",
+            "Medical Devices",
+            "Medical/Healthcare Applications"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Styrene Acrylic Copolymer"
+        ],
+        "Processing Methods": [
+            "Injection Molding"
+        ],
+        "Melt Flow Index": [
+            "3.0 - 3.0 g/10 min"
+        ]
+    }
+}

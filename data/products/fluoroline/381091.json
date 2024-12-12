@@ -1,0 +1,34 @@
+{
+    "id": 381091,
+    "brand": "fluoroline",
+    "name": "FluoroLine® Electrostatic Dissipative (ESD) Tubing",
+    "slug": "fluoroline-electrostatic-dissipative-esd-tubing",
+    "description": "FluoroLine® Electrostatic Dissipative (ESD) Tubing is an ideal solution for minimizing potential issues related to electrostatic discharge in the fab, maintaining chemical purity, ensuring safety and improving process yields.",
+    "company_name": "Entegris Specialty Chemicals",
+    "company_slug": "entegris-specialty-chemicals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697223575/production/Brand/28592/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607471/production/CategoryImage/520/category_image/ElectricalElectronics_05.jpg",
+    "properties": {
+        "Applications": [
+            "Semiconductor Manufacturing",
+            "Other Devices & Assemblies",
+            "Displays",
+            "Devices & Assemblies",
+            "Parts & Components"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Fluoropolymers"
+        ],
+        "Polymer Name": [
+            "Perfluoroalkoxy Polymer (PFA)"
+        ],
+        "End Uses": [
+            "Semiconductor Applications",
+            "LEDs"
+        ]
+    },
+    "summary": {}
+}

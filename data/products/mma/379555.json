@@ -1,0 +1,35 @@
+{
+    "id": 379555,
+    "brand": "mma",
+    "name": "MMA 3530",
+    "slug": "mma-3530",
+    "description": "MMA 3530 is used in small to large structures of metals and composite bonding, where medium work time is required. Offers excellent bond strength, toughness and good impact resistance. Recommended for bonding wind turbine blades and other FRP bonding applications.",
+    "company_name": "DAI Products",
+    "company_slug": "dai-products",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664291480/production/Brand/28390/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608939/production/CategoryImage/585/category_image/AdhesivesSealants_02.jpg",
+    "properties": {
+        "Applications": [
+            "Other Adhesives & Sealants Applications"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Structural Adhesives"
+        ],
+        "Chemical Family": [
+            "Methacrylates"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "2K (2 component) Adhesive"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Composites"
+        ],
+        "Chemical Family": [
+            "Methacrylates"
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "id": 404474,
+    "brand": "florabella",
+    "name": "AHCC®",
+    "slug": "maypro-ahcc",
+    "description": "AHCC® is unique low-molecular-weight, alpha-glucan-rich, mushroom mycelia extract.",
+    "company_name": "Maypro",
+    "company_slug": "maypro",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1693580273/production/Company/22007/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1693580273/production/Product/404474/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Phytochemicals & Plant Extracts",
+            "Vegetable Products & Extracts",
+            "Nutrition & Fortification",
+            "Whole Foods, Extracts & Premixes",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Dietary Supplements"
+        ]
+    },
+    "summary": {}
+}

@@ -1,0 +1,50 @@
+{
+    "id": 277531,
+    "brand": "nycast",
+    "name": "NYCAST® 6 MPB (blue)",
+    "slug": "nycast-6-mpb-blue",
+    "description": "Nycast® 6 MPB (Blue) formulations provide performance advantages in applications that require improved impact properties over standard grades. NYCAST 6MP cushion pads protect the hammer from metal-to-metal damage in pile drivers and provide many performance advantages in certain gear, die block, valve seat and other applications. This formulation also provides superior performance in extreme cold temperature applications, where standard grades are prone to impact failure.",
+    "company_name": "Cast Nylons",
+    "company_slug": "cast-nylons",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708530902/production/Company/20788/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608779/production/CategoryImage/578/category_image/AutomotiveTransportation_06.jpg",
+    "properties": {
+        "Applications": [
+            "Equipment & Parts",
+            "Other Industrial Applications",
+            "Other Parts & Components",
+            "Tooling & Moldmaking",
+            "Other Automotive Applications",
+            "Automotive Electronics",
+            "Other Devices & Assemblies",
+            "Automotive",
+            "Devices & Assemblies",
+            "Parts & Components",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Polyamides",
+            "Engineering & Specialty Polymers"
+        ],
+        "Chemical Family": [
+            "Polyamides"
+        ],
+        "Polymer Name": [
+            "Polyamide 6 (PA 6)"
+        ],
+        "End Uses": [
+            "Power/Other Tools",
+            "Valve Parts",
+            "Molds/Dies/Tools",
+            "Gears"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyamide 6 (PA 6)"
+        ],
+        "Flexural Modulus": [
+            "2068.0 - 2482.1 MPa"
+        ]
+    }
+}

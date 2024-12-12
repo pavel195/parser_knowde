@@ -1,0 +1,40 @@
+{
+    "id": 401414,
+    "brand": "crackbond",
+    "name": "CRACKBOND® V65 HI-MOD Class B",
+    "slug": "crackbond-v65-hi-mod-class-b",
+    "description": "CRACKBOND® V65 HI-MOD Class B is a two-component, deep penetrating, fast cure, high strength epoxy coating that will reduce intrusion of moisture and water soluble materials into concrete. The ultra-low viscosity allows superior substrate wetting that allows better penetration into static cracks of concrete surfaces. It may be successfully applied and cured at temperatures between 40°F and 105°F (4°C and 41°C).",
+    "company_name": "Adhesives Technology",
+    "company_slug": "adhesives-technology",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292123/production/Brand/30579/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608465/production/CategoryImage/561/category_image/BuildingConstruction_05.jpg",
+    "properties": {
+        "Applications": [
+            "Infrastructure, Roads & Paving",
+            "Pavement, Highways, Roads & Bridges"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers"
+        ],
+        "End Uses": [
+            "2K (2 component) Coating"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Epoxy Coating",
+            "Sealer"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Concrete"
+        ],
+        "Features": [
+            "Low Volatility",
+            "Low Viscosity",
+            "Fast Cure",
+            "High Strength",
+            "Good Substrate Wetting"
+        ]
+    }
+}

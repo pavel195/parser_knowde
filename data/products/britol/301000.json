@@ -1,0 +1,38 @@
+{
+    "id": 301000,
+    "brand": "britol",
+    "name": "BRITOL 777 (Alcohol Soluble)",
+    "slug": "britol-777-alcohol-soluble",
+    "description": "BRITOL 777 (Alcohol Soluble) is used in Flexo &amp; Gravure Inks for Treated Polyethylene BOPP, PE, HDPE (Woven Sacks) N.C., Compatible. Alcohol Soluble.",
+    "company_name": "Bright Associates (Bright Resin)",
+    "company_slug": "bright-associates-bright-resin",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112181/production/Company/24162/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609057/production/CategoryImage/591/category_image/PrintingPackaging_02.jpg",
+    "properties": {
+        "Applications": [
+            "Printing & Inks",
+            "Flexography",
+            "Gravure Printing"
+        ],
+        "Product Families": [
+            "Other Resins & Binders",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Polyamides"
+        ],
+        "End Uses": [
+            "Gravure Ink",
+            "Flexography Ink"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Polyamides"
+        ],
+        "End Uses": [
+            "Flexography Ink",
+            "Gravure Ink"
+        ]
+    }
+}

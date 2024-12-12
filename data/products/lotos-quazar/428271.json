@@ -1,0 +1,31 @@
+{
+    "id": 428271,
+    "brand": "lotos-quazar",
+    "name": "Lotos Quazar A3/B3 SAE 20W-50",
+    "slug": "lotos-quazar-a3-b3-sae-20w-50",
+    "description": "Lotos Quazar A3/B3 SAE 20W-50 is a high-quality mineral engine oil for spark ignition and compression ignition engines used in passenger and light commercial vehicles. It is recommended by LOTOS Oil for use in cars from before 2018 when ACEA A3/B3 quality oils were required. It has conventional SAPS level.",
+    "company_name": "Lotos Oil",
+    "company_slug": "lotos-oil",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664293077/production/Brand/33981/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608779/production/CategoryImage/578/category_image/AutomotiveTransportation_06.jpg",
+    "properties": {
+        "Applications": [
+            "Lubricants & Functional Fluids",
+            "Transportation",
+            "Automotive Fluids & Lubricants",
+            "Commercial"
+        ],
+        "Product Families": [
+            "Fluids & Lubricants",
+            "Lubricants & Oils"
+        ]
+    },
+    "summary": {
+        "Application Areas": [
+            "Automotive Engine"
+        ],
+        "SAE Viscosity Grade": [
+            "SAE 20W-50"
+        ]
+    }
+}

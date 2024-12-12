@@ -1,0 +1,73 @@
+{
+    "id": 388139,
+    "brand": "selvol-polyvinyl-alcohol",
+    "name": "Selvol™ Polyvinyl Alcohol 24-203",
+    "slug": "selvol-polyvinyl-alcohol-24-203",
+    "description": null,
+    "company_name": "Sekisui Specialty Chemicals",
+    "company_slug": "sekisui-specialty-chemicals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709127698/production/Company/1404/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625605610/production/CategoryImage/454/category_image/Plastics_10.jpg",
+    "properties": {
+        "Applications": [
+            "Ceramics & Refractory",
+            "Inkjet Printing",
+            "Non-Food Consumer Packaging",
+            "Other Specialty Coatings",
+            "Pulping & Processing",
+            "Exploration & Upstream",
+            "Chemical & Industrial Manufacturing",
+            "Oil, Gas & Mining",
+            "Paper & Pulp",
+            "Specialty Coatings",
+            "Printing & Inks",
+            "Packaging"
+        ],
+        "Product Families": [
+            "Other Resins & Binders",
+            "Finishing Additives & Treatments",
+            "Oilfield & Transport Chemicals",
+            "Glass & Ceramic Additives",
+            "Alcohols",
+            "Functional Additives",
+            "Additives",
+            "Resins & Binders",
+            "Intermediates",
+            "Oil, Gas & Mining Chemicals",
+            "Paper & Pulp Chemicals",
+            "Processing Aids"
+        ],
+        "Chemical Family": [
+            "Alcohols",
+            "Polyvinyl Alcohols & Esters"
+        ],
+        "Polymer Name": [
+            "Polyvinyl Alcohol (PVOH)"
+        ],
+        "End Uses": [
+            "Adhesives",
+            "Oil & Gas Applications",
+            "Inkjet Ink",
+            "Seed Coating",
+            "Ceramics",
+            "Paper Making Chemicals",
+            "Paper & Pulp"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Polyvinyl Alcohol(PVOH)"
+        ],
+        "Functions": [
+            "Coupling Agent",
+            "Binder & Resin",
+            "Film Former",
+            "Intermediate",
+            "Adhesion Promoter"
+        ],
+        "Chemical Family": [
+            "Polyvinyl Alcohols & Esters",
+            "Alcohols"
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "id": 452690,
+    "brand": "astareal-japan",
+    "name": "NOVASTA® V2011",
+    "slug": "novasta-v2011",
+    "description": "NOVASTA® V2011 is an astaxanthin-rich natural microalgal product intended for mixing into feed. The product consists of crushed and spray-dried aplanospores of the green microalga Haematococcus pluvialis. It is suitable for all animals, including pets, livestock, animals in competitive sports, and aquaculture. The product contains no more than 4.5% astaxanthin. \nThis product is also available in other European countries, China, and Africa.",
+    "company_name": "AstaReal",
+    "company_slug": "astareal-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708699052/production/Company/22748/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708699052/production/Company/22748/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Ruminants",
+            "Aquaculture",
+            "Pets",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Feed Supplements",
+            "Antioxidants",
+            "Health & Well-Being",
+            "Nutritional Ingredients"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Supplement",
+            "Antioxidant"
+        ],
+        "Labeling Claims": [
+            "Natural",
+            "Plant-Based",
+            "Naturally Derived"
+        ],
+        "Certifications & Compliance": [
+            "FSSC 22000",
+            "Swedish Board of Agriculture Certified",
+            "ISO 9001",
+            "Hazard Analysis Critical Control Point (HACCP)"
+        ],
+        "Features": [
+            "Improves Performance",
+            "Spray Dried"
+        ]
+    }
+}

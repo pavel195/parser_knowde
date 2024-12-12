@@ -1,0 +1,32 @@
+{
+    "id": 404478,
+    "brand": "florabella",
+    "name": "Champex®",
+    "slug": "maypro-champex",
+    "description": "Champex for Pets is champignon mushroom extract designed to help neutralize bad breath and fecal/urinary odors, improve gut health, and detoxify the digestion process in common household pets.",
+    "company_name": "Maypro",
+    "company_slug": "maypro",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1693580704/production/Company/22007/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1693580704/production/Product/404478/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Pets",
+            "Nutraceuticals & Supplements",
+            "Animal Health & Nutrition",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Phytochemicals & Plant Extracts",
+            "Vegetable Products & Extracts",
+            "Nutrition & Fortification",
+            "Whole Foods, Extracts & Premixes",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Dietary Supplements"
+        ]
+    },
+    "summary": {}
+}

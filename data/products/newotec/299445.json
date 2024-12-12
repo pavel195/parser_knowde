@@ -1,0 +1,44 @@
+{
+    "id": 299445,
+    "brand": "newotec",
+    "name": "NEWOTEC® 312",
+    "slug": "newotec-312",
+    "description": "NEWOTEC® 312 is a Dispersing agent for PVC pastes",
+    "company_name": "NEWOS",
+    "company_slug": "newos",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708673146/production/Product/299445/logo/image",
+    "banner_url": "https://static.knowde.com/card-banners/knowde-card-for-raw-materials-8.jpg",
+    "properties": {
+        "Applications": [
+            "Other Adhesives & Sealants Applications",
+            "Other Printing & Packaging Applications",
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Dispersing & Wetting Additives",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Fatty Acid Esters"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Dispersant"
+        ],
+        "Chemical Family": [
+            "Fatty Acid Esters"
+        ],
+        "Compatible Polymers & Resins": [
+            "Polyvinyl Chloride (PVC)"
+        ],
+        "Labeling Claims": [
+            "APEO-free",
+            "Phthalates-free",
+            "Low VOC"
+        ],
+        "Solid Content": [
+            "100.0 - 100.0 %"
+        ]
+    }
+}

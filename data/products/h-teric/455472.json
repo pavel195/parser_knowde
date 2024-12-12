@@ -1,0 +1,48 @@
+{
+    "id": 455472,
+    "brand": "h-teric",
+    "name": "H-PAC® 8023F",
+    "slug": "h-pac-8023f",
+    "description": "H-PAC® 8023F is a highly effective cationic coagulant for use in industrial and municipal water and wastewater applications for the removal of turbidity, color, suspended solids, phosphorus and metals. It should be stored and handled in suitable non-corrosive materials such as fiberglass, reinforced plastic, PTFE, PVC/CPVC, rubber lined steel or polyethylene.",
+    "company_name": "Harcros Chemicals Inc.",
+    "company_slug": "harcros-chemicals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1720679482/production/Brand/35974/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Water Treatment",
+            "Power, Water & Utilities"
+        ],
+        "Product Families": [
+            "Water Treatment Additives",
+            "Water Treatment Chemicals"
+        ],
+        "Chemical Family": [
+            "Aluminum Compounds",
+            "Chlorides"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Coagulant"
+        ],
+        "Chemical Family": [
+            "Chlorides",
+            "Aluminum Compounds"
+        ],
+        "Applicable Processes": [
+            "Suspended Solids Removal",
+            "Industrial Water Treatment",
+            "Waste Treatment",
+            "Color Removal",
+            "Turbidity Removal",
+            "Metal Removal",
+            "Phosphorus Removal"
+        ],
+        "Features": [
+            "Reduced Turbidity",
+            "Reduced Suspended Solids",
+            "Fast Settling"
+        ]
+    }
+}

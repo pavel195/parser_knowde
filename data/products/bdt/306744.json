@@ -1,0 +1,47 @@
+{
+    "id": 306744,
+    "brand": "bdt",
+    "name": "BDT H3752",
+    "slug": "bdt-h3752",
+    "description": "BDT H3752 has an excellent mold flow, hot tear resistance, bonding adhesion, good resistance to the fuel containing alcohols.",
+    "company_name": "Chenguang Fluoro & Silicone Elastomers",
+    "company_slug": "chenguang-fluoro-silicone-elastomers",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697222918/production/Product/306744/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608744/production/CategoryImage/575/category_image/AutomotiveTransportation_03.jpg",
+    "properties": {
+        "Applications": [
+            "Equipment & Parts",
+            "Interior",
+            "Exterior & Body",
+            "Other Industrial Applications",
+            "Other Parts & Components",
+            "Structural Components",
+            "Aerospace & Aviation",
+            "Other Automotive Applications",
+            "Automotive",
+            "Transportation",
+            "Building Materials",
+            "Parts & Components",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Fluoroelastomers",
+            "Specialty Elastomers"
+        ],
+        "Chemical Family": [
+            "Fluoropolymers"
+        ],
+        "Polymer Name": [
+            "Fluoroelastomer (FKM)"
+        ],
+        "End Uses": [
+            "Automotive Interior Parts",
+            "Automotive Exterior Parts",
+            "Machine/Mechanical Parts",
+            "Industrial Applications",
+            "Automotive Applications",
+            "Aerospace Applications"
+        ]
+    },
+    "summary": {}
+}

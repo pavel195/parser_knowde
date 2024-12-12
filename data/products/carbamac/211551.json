@@ -1,0 +1,55 @@
+{
+    "id": 211551,
+    "brand": "carbamac",
+    "name": "EPOVIA RF-9000(P)",
+    "slug": "epovia-rf-9000-p",
+    "description": "EPOVIA RF-9000(P) is Bisphenol-A epoxy based vinyl ester resin for primer and it is generally used in Chemical Industry,Industrial sector applicatons",
+    "company_name": "Polynt Group",
+    "company_slug": "polynt-group",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708522284/production/Brand/13731/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708522284/production/Company/6009/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Equipment & Parts",
+            "Renewable Energy",
+            "Power & Utilities",
+            "Refining & Gas Processing",
+            "Pipes & Tanks",
+            "Chemical & Industrial Manufacturing",
+            "Oil, Gas & Mining",
+            "Power, Water & Utilities"
+        ],
+        "Product Families": [
+            "Thermoset Resins",
+            "Polymers & Resins"
+        ],
+        "Chemical Family": [
+            "Vinyls, Vinylics & Vinyl Derivatives",
+            "Vinyl Esters"
+        ],
+        "Polymer Name": [
+            "Vinyl Ester Resin"
+        ],
+        "End Uses": [
+            "Pipes",
+            "Tanks"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Vinyl Ester Resin"
+        ],
+        "Chemical Family": [
+            "Vinyls, Vinylics & Vinyl Derivatives",
+            "Vinyl Esters"
+        ],
+        "Processing Methods": [
+            "Spray Lay-up",
+            "Hand Lay-up"
+        ],
+        "End Uses": [
+            "Pipes",
+            "Tanks"
+        ]
+    }
+}

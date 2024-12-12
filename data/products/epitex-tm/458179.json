@@ -1,0 +1,89 @@
+{
+    "id": 458179,
+    "brand": "epitex-tm",
+    "name": "ACULYN(TM) 38 Polymer",
+    "slug": "aculyn-tm-38-polymer",
+    "description": "ACULYN(TM) 38 Polymer is an alkali-swellable anionic acrylic polymer emulsion (ASE) that is lightly crosslinked to impart a short pseudoplastic flow. It is a liquid, cold-processable product that instantaneously thickens upon neutralization, providing ease of handling and increased manufacturing efficiency. This thickener is offered at 28% solids and has been developed for use as a rheology modifier and suspending agent for personal care surfactant formulations. It is effective in a range of personal care surfactants and is useful at a pH range of 3 - 11, depending on the formulation. It is stable in the presence of sodium chloride and two common conditioning agents, polyquaternium-7 and polyquaternium-10, as well as polar solvents and zinc pyrithione. The polymer has a well-established toxicological profile and is safe in normal use.",
+    "company_name": "Dow North America",
+    "company_slug": "dow-north-america",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709824445/production/Company/1/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515700/production/CategoryImage/1059/category_image/PersonalCare_01.jpg",
+    "properties": {
+        "Applications": [
+            "Skin Care",
+            "Sun Care",
+            "Bath & Shower",
+            "Hair Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Texturizers & Fillers",
+            "Rheology Modifiers",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Acrylates/Vinyl Neodecanoate Crosspolymer"
+        ],
+        "End Uses": [
+            "Anti-Dandruff Products",
+            "Hair Conditioner",
+            "Shampoos & Rinses",
+            "Shower Gels",
+            "Sunscreen Lotion",
+            "Body Wash"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Acrylates/Vinyl Neodecanoate Crosspolymer"
+        ],
+        "Ingredient Origin": [
+            "Non-Animal Origin"
+        ],
+        "Functions": [
+            "Suspending Agent",
+            "Thickener",
+            "Viscosity Modifier"
+        ],
+        "Labeling Claims": [
+            "Not Listed In California Proposition 65",
+            "BSE-free",
+            "Nanomaterials-free",
+            "Endocrine Disruptor-free",
+            "TSE-free",
+            "Palm Oil-free",
+            "Kosher",
+            "Allergen-free",
+            "GMO-free",
+            "Preservative-free",
+            "Odor-free",
+            "Halal",
+            "CMR Substances-free"
+        ],
+        "Certifications & Compliance": [
+            "EU Cosmetic Regulation 1223/2009 Compliant",
+            "Kosher",
+            "REACH (Europe)",
+            "SVHC Compliant",
+            "Halal"
+        ],
+        "Benefit Claims": [
+            "Improved Texture",
+            "Exfoliating",
+            "Non-Irradiated",
+            "Viscosity Boosting",
+            "Basic pH Stable",
+            "Hard Water Tolerance",
+            "Improved Thickness",
+            "Easy To Handle",
+            "Mild",
+            "Flow Enhancement",
+            "Cold Processable",
+            "Low Hygroscopicity",
+            "Non-Sticky",
+            "Non-Greasy Feel",
+            "High Shear Resistance",
+            "Soft Feel"
+        ]
+    }
+}

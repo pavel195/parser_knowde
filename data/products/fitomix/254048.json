@@ -1,0 +1,42 @@
+{
+    "id": 254048,
+    "brand": "fitomix",
+    "name": "Super-40™ Special",
+    "slug": "super-40-special",
+    "description": "Super-40™ Special is Pure MTA with high esterification index, created to avoid every kind of colloidal hazing at low temperatures in the treated wines, which is a real possible event in particular seasons.",
+    "company_name": "Dal Cin Gildo Spa",
+    "company_slug": "dal-cin-gildo-spa",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708686699/production/Company/19798/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708686699/production/Company/19798/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Oenology",
+            "Beverage"
+        ],
+        "Product Families": [
+            "Stabilizers",
+            "Texture & Consistency"
+        ],
+        "End Uses": [
+            "Wine"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Metatartaric Acid"
+        ],
+        "Functions": [
+            "Stabilizer"
+        ],
+        "Labeling Claims": [
+            "Non-GMO"
+        ],
+        "Physical Form": [
+            "Powder",
+            "Solid"
+        ],
+        "End Uses": [
+            "Wine"
+        ]
+    }
+}

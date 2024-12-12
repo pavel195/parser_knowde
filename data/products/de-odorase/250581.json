@@ -1,0 +1,26 @@
+{
+    "id": 250581,
+    "brand": "de-odorase",
+    "name": "DE-ODORASE®",
+    "slug": "de-odorase",
+    "description": "De-Odorase® is a unique, natural product that helps control ammonia levels, manure odors and other harmful gasses associated with animal waste decomposition. Formulated from proprietary extracts of the Yucca schidigera plant, it creates a healthier environment for animals, farmers and communities. De-Odorase® aids in reducing ammonia emissions for beef cattle, dairy cows, poultry, pigs, horses and sheep.",
+    "company_name": "Alltech",
+    "company_slug": "alltech",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697223193/production/Company/19217/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608161/production/CategoryImage/546/category_image/AgricultureFeed_02.jpg",
+    "properties": {
+        "Applications": [
+            "Other Animal Health & Nutrition",
+            "Swine",
+            "Ruminants",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Other Health & Well-Being Products",
+            "Other Production & Processing Aids",
+            "Health & Well-Being",
+            "Production Aids and Processing Additives"
+        ]
+    },
+    "summary": {}
+}

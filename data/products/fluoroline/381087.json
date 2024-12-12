@@ -1,0 +1,34 @@
+{
+    "id": 381087,
+    "brand": "fluoroline",
+    "name": "FluoroLine® Industrial Grade PFA Tubing",
+    "slug": "fluoroline-industrial-grade-pfa-tubing",
+    "description": "FluoroLine® industrial grade PFA tubing is made from a special blend of high purity PFA. This material is excellent in harsh chemical applications where ultra high purity is not required.",
+    "company_name": "Entegris Specialty Chemicals",
+    "company_slug": "entegris-specialty-chemicals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697223616/production/Brand/28592/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607471/production/CategoryImage/520/category_image/ElectricalElectronics_05.jpg",
+    "properties": {
+        "Applications": [
+            "Semiconductor Manufacturing",
+            "Other Devices & Assemblies",
+            "Displays",
+            "Devices & Assemblies",
+            "Parts & Components"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Fluoropolymers"
+        ],
+        "Polymer Name": [
+            "Perfluoroalkoxy Polymer (PFA)"
+        ],
+        "End Uses": [
+            "Semiconductor Applications",
+            "LEDs"
+        ]
+    },
+    "summary": {}
+}

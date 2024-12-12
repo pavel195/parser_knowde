@@ -1,0 +1,42 @@
+{
+    "id": 410294,
+    "brand": "maxstim",
+    "name": "Maxstim™ Agriculture+",
+    "slug": "maxstim-agriculture",
+    "description": "Maxstim™ Agriculture+ is designed to help farmers make more profit. Our specialist, complex biostimulant maximizes the yield and quality of the crop whilst minimizing the inputs and labor required to generate that yield. The complex nature of Maxstim Agriculture+ means we can positively influence a whole range of crops and has enabled us to create a formula which helps plants become robust and healthy with improved root development. Early application of Agriculture+ stimulates a variety of metabolic processes making the plant more efficient and better placed to defend against and recover from the effects of abiotic and biotic stresses.",
+    "company_name": "Maxstim",
+    "company_slug": "maxstim",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672713/production/Brand/31873/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608150/production/CategoryImage/545/category_image/AgricultureFeed_01.jpg",
+    "properties": {
+        "Applications": [
+            "Fruits",
+            "Ornamentals",
+            "Agricultural Crops",
+            "Turf, Ornamentals & Landscape"
+        ],
+        "Product Families": [
+            "Bioenhancers",
+            "Adjuvants & Formulation Ingredients"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Bioenhancer"
+        ],
+        "Application Technique": [
+            "Ground Soil Applied",
+            "Foliage Applied"
+        ],
+        "Features": [
+            "Good Roots Growth",
+            "Enhanced Crop Yield & Quality",
+            "Improves Crop Quality",
+            "Abiotic Resistant",
+            "Stress Tolerant",
+            "Increased Disease Suppression",
+            "Improves Plant Growth",
+            "Resistance against Biotic Stress"
+        ]
+    }
+}

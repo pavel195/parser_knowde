@@ -1,0 +1,84 @@
+{
+    "id": 94758,
+    "brand": "oat-com",
+    "name": "Oat Cosmetics Virgin Poppy Seed Oil",
+    "slug": "oat-cosmetics-virgin-poppy-seed-oil",
+    "description": "Virgin Poppy Seed Oil – a sustainably sourced, natural virgin oil containing sterols and Vitamin E.",
+    "company_name": "Oat Cosmetics",
+    "company_slug": "oat-cosmetics",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708688393/production/Product/94758/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708688393/production/Product/94758/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Hair Care",
+            "Skin Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Sensory Modifiers",
+            "Conditioners & Emollients",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Papaver Somniferum Seed Oil"
+        ],
+        "End Uses": [
+            "Anti-Aging Products",
+            "Hair Oil",
+            "Hair Conditioner"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Papaver Somniferum Seed Oil"
+        ],
+        "Functions": [
+            "Smoothing Agent",
+            "Softener",
+            "Emollient"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Plant Origin"
+        ],
+        "Labeling Claims": [
+            "Clean at Sephora",
+            "Naturally Derived",
+            "Environmentally Friendly",
+            "Not Tested on Animals",
+            "Alcohol-free",
+            "Natural",
+            "Additive-free",
+            "Organic",
+            "Solvent-free",
+            "Paraben-free",
+            "Ulta Beauty's Conscious Beauty",
+            "Sustainable",
+            "Fragrance-free",
+            "GMO-free"
+        ],
+        "Certifications & Compliance": [
+            "Organic Certified",
+            "ECOCERT"
+        ],
+        "Benefit Claims": [
+            "Restoring",
+            "Silky Feel",
+            "Moisturizing",
+            "Broad pH Stability",
+            "Shine & Radiance",
+            "Moisture Retention",
+            "Conditioning",
+            "Nourishing",
+            "Hydrating",
+            "Softening",
+            "Cold Processable",
+            "Skin Barrier",
+            "Hair Conditioning",
+            "Non-Greasy Feel",
+            "Emolliency",
+            "Hair Softening",
+            "Smoothing"
+        ]
+    }
+}

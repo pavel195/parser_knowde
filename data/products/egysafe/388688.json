@@ -1,0 +1,42 @@
+{
+    "id": 388688,
+    "brand": "egysafe",
+    "name": "EGYLINK GF2100",
+    "slug": "egylink-gf2100",
+    "description": "EGYLINK GF2100 is a fast curing silane crosslinkable polyethylene compound curable by moisture and possessing excellent extrusion properties at high output rates, the graft compound GF 2100 is mixed with a crosslinking Catalyst Masterbatch CT0461 generally in the ratio 95:5, the combination have excellent thermo-oxidative stability and can cured in ambient conditions. GF0461 has been specially developed for insulation of low voltage power cables with small diameter.",
+    "company_name": "EGYPLAST",
+    "company_slug": "egyplast",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708531113/production/Brand/29187/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607546/production/CategoryImage/524/category_image/ElectricalElectronics_09.jpg",
+    "properties": {
+        "Applications": [
+            "Other Wire & Cable Applications",
+            "Jacketing & Insulation",
+            "Wire & Cable"
+        ],
+        "Product Families": [
+            "Polyolefins",
+            "Basic Thermoplastics"
+        ],
+        "Chemical Family": [
+            "Polyolefins",
+            "Polyethylenes"
+        ],
+        "Polymer Name": [
+            "Polyethylene (unspecified)"
+        ],
+        "End Uses": [
+            "Power Cable Jacketing",
+            "Low Voltage Insulation",
+            "Cables"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyethylene (unspecified)"
+        ],
+        "Processing Methods": [
+            "Extrusion"
+        ]
+    }
+}

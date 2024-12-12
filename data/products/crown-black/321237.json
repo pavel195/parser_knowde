@@ -1,0 +1,77 @@
+{
+    "id": 321237,
+    "brand": "crown-black",
+    "name": "Crown Black® 325",
+    "slug": "crown-black-325",
+    "description": "Crown Black® 325 is a high purity washed low volatile bituminous coal. It is finely ground and dried during the milling process to a very fine particle size recommended for use as a pigment filler/extender to carbon black in a wide variety of rubber and plastics compounds.",
+    "company_name": "Hiller Carbon",
+    "company_slug": "hiller-carbon",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708692459/production/Product/321237/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608929/production/CategoryImage/584/category_image/AdhesivesSealants_01.jpg",
+    "properties": {
+        "Applications": [
+            "Sealants & Caulks",
+            "Other Building Envelope & Roofing Applications",
+            "Other Roofing Applications",
+            "Equipment & Parts",
+            "Other Printing Applications",
+            "Pipes & Tanks",
+            "Belts & Conveyers",
+            "Other Coatings & Finishes",
+            "Tires",
+            "Pipes & Hoses",
+            "Building & Construction",
+            "Agricultural Films",
+            "Automotive",
+            "Coatings & Finishes",
+            "Building Materials",
+            "Construction Chemicals",
+            "Roofing",
+            "Chemical & Industrial Manufacturing",
+            "Printing & Inks",
+            "Building Envelope & Roofing"
+        ],
+        "Product Families": [
+            "Fillers & Extenders",
+            "Polymer Additives",
+            "Elastomer Additives"
+        ],
+        "Chemical Family": [
+            "Bituminous Coal"
+        ],
+        "End Uses": [
+            "Tires",
+            "Pipes",
+            "Hoses",
+            "Gaskets",
+            "Floor Mats",
+            "Belts/Belt Repair"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Filler",
+            "Extender"
+        ],
+        "Chemical Family": [
+            "Bituminous Coal"
+        ],
+        "Features": [
+            "Corrosion Resistant",
+            "Low Volatility",
+            "Good UV Protection",
+            "Excellent Dispersibility",
+            "Cost Effective",
+            "High Purity",
+            "Electrically Insulating"
+        ],
+        "End Uses": [
+            "Belts/Belt Repair",
+            "Tires",
+            "Gaskets",
+            "Hoses",
+            "Pipes",
+            "Floor Mats"
+        ]
+    }
+}

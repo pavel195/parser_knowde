@@ -1,0 +1,41 @@
+{
+    "id": 253614,
+    "brand": "bovaid",
+    "name": "SYNERGY™ MET 600",
+    "slug": "synergy-met-600",
+    "description": "-Thifensulfuron-methyl 750 g/kg Metsulfuron 600 g/kg 750g/kg tribenuron-methyl in the form of a water dispersible granule Liquid spray equipment cleaner that can remove pesticide residues.",
+    "company_name": "Orion Agroscience",
+    "company_slug": "orion-agroscience",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708683836/production/Company/19294/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708683836/production/Company/19294/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Agricultural Pest Control",
+            "Other Agricultural Crops",
+            "Agricultural Crops",
+            "Pest Control"
+        ],
+        "Product Families": [
+            "Herbicides",
+            "Crop Protection & Pest Control"
+        ],
+        "Chemical Family": [
+            "Sulfonylureas"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Herbicide"
+        ],
+        "HRAC/WSSA Group": [
+            "9"
+        ],
+        "Application Technique": [
+            "Aerial Application",
+            "Other Application Techniques"
+        ],
+        "Formulation Type": [
+            "Water-Dispersible Granules (WDG)"
+        ]
+    }
+}

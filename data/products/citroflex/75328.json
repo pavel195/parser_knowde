@@ -1,0 +1,61 @@
+{
+    "id": 75328,
+    "brand": "citroflex",
+    "name": "Actique™ Pearl",
+    "slug": "actique-pearl",
+    "description": "Actique™ Pearl is a peptide derived from conchiolin protein (“Pearl Protein”) and extracted through enzymolysis.  The peptide is then separated using advanced bio-engineering technology. This peptide has outstanding anti-melanogenesis properties. When skin is irradiated by ultra violet rays (UVB), the keratin cells release endothelin. The signal from the endothelin is then accepted by the membrane receptor of the melanocyte. This triggers the activity of tyrosinase and causes rapid melanin production. Since Actique™ Pearl is a very powerful anti-endothelin antagonist, it can help regulate the signals sent to the melanocyte receptors and inhibit melanin production.",
+    "company_name": "Aurorium",
+    "company_slug": "aurorium",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709833897/production/Company/1461/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1709833897/production/Company/1461/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Skin Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Conditioners & Emollients",
+            "Skin Actives",
+            "Cosmetic Actives",
+            "Functionals"
+        ],
+        "Chemical Family": [
+            "Esters"
+        ],
+        "INCI Name": [
+            "Hydrolyzed Conchiolin Protein"
+        ],
+        "End Uses": [
+            "Skin Serums",
+            "Body Lotion",
+            "Body Cream",
+            "Moisturizers",
+            "Skin Brightening Products"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Hydrolyzed Conchiolin Protein"
+        ],
+        "Ingredient Origin": [
+            "Synthetic"
+        ],
+        "Functions": [
+            "Brightening Agent",
+            "Moisturizing Agent"
+        ],
+        "Labeling Claims": [
+            "Ulta Beauty's Conscious Beauty",
+            "Clean at Sephora",
+            "Organic"
+        ],
+        "Benefit Claims": [
+            "Rapid Absorption",
+            "Reduces Hyperpigmentation",
+            "High Temperature Resistance",
+            "Skin Lightening",
+            "Brightening",
+            "Moisturizing"
+        ]
+    }
+}

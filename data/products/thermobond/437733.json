@@ -1,0 +1,53 @@
+{
+    "id": 437733,
+    "brand": "thermobond",
+    "name": "United Adhesives EP1611",
+    "slug": "united-adhesives-ep1611",
+    "description": "United Adhesives EP1611 is a flexible epoxy adhesive.",
+    "company_name": "United Adhesives",
+    "company_slug": "united-adhesives",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664567792/production/Company/63007/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607422/production/CategoryImage/517/category_image/ElectricalElectronics_02.jpg",
+    "properties": {
+        "Applications": [
+            "Housings & Enclosures",
+            "Electrical & Electronic Systems",
+            "Aerospace & Aviation",
+            "Connectors",
+            "Optical Fiber & Telecom",
+            "Automotive ",
+            "Transportation",
+            "Semiconductor Manufacturing",
+            "Printed Circuit Boards (PCBs)",
+            "Wire & Cable",
+            "Parts & Components"
+        ],
+        "Product Families": [
+            "Encapsulants",
+            "Adhesives & Sealants"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Epoxy Adhesive",
+            "Encapsulant",
+            "2K (2 component) Adhesive"
+        ],
+        "Application Areas": [
+            "Aerospace Applications",
+            "Housing",
+            "Semiconductors",
+            "Electronic Components",
+            "Telecommunications Applications",
+            "Connectors"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Ceramic",
+            "Plastics"
+        ],
+        "Cure Method": [
+            "Heat Cure"
+        ]
+    }
+}

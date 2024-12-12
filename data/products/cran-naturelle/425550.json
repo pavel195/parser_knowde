@@ -1,0 +1,63 @@
+{
+    "id": 425550,
+    "brand": "cran-naturelle",
+    "name": "CurrantCraft® 8% Powder Extract",
+    "slug": "currantcraft-8-powder-extract",
+    "description": "CurrantCraft® 8% Powder Extract is processed without organic solvent via physical membrane separation and spray-dried with maltodextrin as an excipient; standardized to a minimum anthocyanin content of 8%.",
+    "company_name": "Artemis International",
+    "company_slug": "artemis-international",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686109840/production/Brand/24409/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606846/production/CategoryImage/500/category_image/FoodNutrition_01.jpg",
+    "properties": {
+        "Applications": [
+            "Beverage",
+            "Food",
+            "Nutrition & Well Being",
+            "Drug Delivery & Care Solutions",
+            "Confectionery",
+            "Functional Foods",
+            "Nutraceuticals & Supplements",
+            "Oral",
+            "Other Non-Alcoholic Beverages"
+        ],
+        "Product Families": [
+            "Nutrition & Fortification",
+            "Whole Foods, Extracts & Premixes",
+            "Fruit Products & Extracts",
+            "Nutraceuticals & Supplements",
+            "Functional Ingredients",
+            "Supplements & Functional Ingredients",
+            "Phytochemicals & Plant Extracts"
+        ],
+        "End Uses": [
+            "Gummies",
+            "Functional Foods",
+            "Beverage Products",
+            "Dietary Supplements"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Black Currant Powder"
+        ],
+        "Active Component": [
+            "Cyanidin",
+            "Catechins",
+            "Myricetin",
+            "Polyphenols",
+            "Anthocyanins",
+            "Proanthocyanidins"
+        ],
+        "Labeling Claims": [
+            "Kosher",
+            "Gluten-free",
+            "Vegan",
+            "Non-GMO"
+        ],
+        "Certifications & Compliance": [
+            "Gluten-free",
+            "Kosher",
+            "Vegan"
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "id": 411950,
+    "brand": "enviro-kleen",
+    "name": "Quip Laboratories Versa-Terg",
+    "slug": "quip-laboratories-versa-terg",
+    "description": "Versa-Terg is a line of general purpose industrial liquid cleaners that are both effective and friendly to the environment. Derived from citrus oils, they pose no health hazards as they penetrate and remove a wide variety of soils, while imparting a natural citrus scent. In addition to Versa-Terg, we’ve also recently introduced Versa-Terg 2, 3 and 4, creating a full line of these popular, general purpose cleaners. Versa-Terg 2 is a biodegradable version of Versa Terg which has the same alkaline backbone but replaces non green surfactans with linear alcohol green versions. Versa-Terg 3 is a fully green version which replaces the TKPP asn silicates with Monoethanolamine and sodium citrate dihydrate. Same biodegradable surfactants found in Versa Terg 2 except this product has a pH in the 8.0 – 10.0 range. Versa-Terg 4 is a new fragrance free version of our popular cleaner, for those that need all the cleaning power of Versa-Terg without the added scent. Versa-Terg can be used on many metal surfaces without any adverse results.",
+    "company_name": "Quip Laboratories",
+    "company_slug": "quip-laboratories",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292327/production/Company/13965/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515612/production/CategoryImage/1052/category_image/HII_04.jpg",
+    "properties": {
+        "Applications": [
+            "Institutional & Industrial Care",
+            "Industrial Cleaning"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Industrial Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Multipurpose Cleaners"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal"
+        ],
+        "Features": [
+            "Effective Soil Removal",
+            "Biodegradable",
+            "Protects Metal Surfaces"
+        ]
+    }
+}

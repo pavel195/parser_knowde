@@ -1,0 +1,36 @@
+{
+    "id": 425688,
+    "brand": "vista-max",
+    "name": "DeVere Chemical Acid CIP",
+    "slug": "devere-chemical-acid-cip",
+    "description": "DeVere Chemical Acid CIP is a concentrated, low-foam liquid acid rinse. This product is designed for use in the final rinse cycle after an alkaline clean-in-place wash. Acid CIP works best where low-foam characteristics are desirable and soils are primarily mineral. Acid CIP is strong enough to handle the most challenging mineral soils and works well even in very hard water. This product is free-rinsing with normal water pressure.",
+    "company_name": "DeVere Chemical",
+    "company_slug": "devere-chemical",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292981/production/Company/12215/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1664292981/production/Company/12215/card_banner/image.png",
+    "properties": {
+        "Applications": [
+            "Institutional & Industrial Care",
+            "Industrial Cleaning"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Industrial Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Acid Cleaners",
+            "Virucide"
+        ],
+        "Application Areas": [
+            "Industrial Surfaces"
+        ],
+        "Features": [
+            "Free Rinsing",
+            "Effective Soil Removal",
+            "Low Foaming",
+            "Hard Water Resistance"
+        ]
+    }
+}

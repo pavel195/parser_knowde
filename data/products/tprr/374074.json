@@ -1,0 +1,32 @@
+{
+    "id": 374074,
+    "brand": "tprr",
+    "name": "TPRR® 550",
+    "slug": "tprr-550",
+    "description": "TPRR® 550 is a TPRR (Thermoplastic recycled rubber) material consisting mainly of recycled plastics and recycled rubber and contains rigid TPRR material with good flowability, can replace PP and engineering thermoplastics with demanding impact resistance.",
+    "company_name": "EcoRub",
+    "company_slug": "ecorub",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691737912/production/Brand/27959/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608769/production/CategoryImage/577/category_image/AutomotiveTransportation_05.jpg",
+    "properties": {
+        "Applications": [
+            "Appliances & Electronics",
+            "Equipment & Parts",
+            "Interior",
+            "Chemical & Industrial Manufacturing",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Other Thermoplastic Elastomers",
+            "Thermoplastic Elastomers"
+        ],
+        "Polymer Name": [
+            "Thermoplastic Elastomer (unspecified)"
+        ],
+        "End Uses": [
+            "Automobile Door Seals",
+            "Gaskets"
+        ]
+    },
+    "summary": {}
+}

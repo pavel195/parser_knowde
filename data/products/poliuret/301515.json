@@ -1,0 +1,37 @@
+{
+    "id": 301515,
+    "brand": "poliuret",
+    "name": "SANCRYL 825 60 X",
+    "slug": "sancryl-825-60-x",
+    "description": "SANCRYL 825 60 X is a thermoplastic pure acrylic copolymer.",
+    "company_name": "Polidur San Luis",
+    "company_slug": "polidur-san-luis",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112497/production/Company/24298/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609091/production/CategoryImage/594/category_image/PrintingPackaging_05.jpg",
+    "properties": {
+        "Applications": [
+            "Other Printing & Packaging Applications",
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Resins & Binders",
+            "Acrylics"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Plastics"
+        ],
+        "Features": [
+            "Outdoor Durability",
+            "Improved Hardness",
+            "Water Resistance"
+        ]
+    }
+}

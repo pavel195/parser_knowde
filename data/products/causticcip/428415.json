@@ -1,0 +1,36 @@
+{
+    "id": 428415,
+    "brand": "causticcip",
+    "name": "HARDmetal®",
+    "slug": "hardmetal",
+    "description": "HARDmetal® is a high-foaming, alkaline cleaner specially formulated to be used in conjunction with the hydrogen peroxide-based, O2XYadd®. This binary system is patented. HARDmetal® will activate the hydrogen peroxide in the O2XYadd®. This binary system is recommended as a general purpose cleaner in all food processing plants, on all stainless steel surfaces.",
+    "company_name": "Wayne Chemical",
+    "company_slug": "wayne-chemical",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292818/production/Brand/33992/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606914/production/CategoryImage/502/category_image/FoodNutrition_03.jpg",
+    "properties": {
+        "Applications": [
+            "Processing & Packaging",
+            "Food & Beverage Manufacturing",
+            "Institutional & Industrial Care",
+            "Food Facility Cleaning & Sanitization"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Food Grade Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Alkaline Cleaners"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Stainless Steel",
+            "Metal"
+        ],
+        "Features": [
+            "General Purpose",
+            "High Foaming"
+        ]
+    }
+}

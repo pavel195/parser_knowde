@@ -1,0 +1,50 @@
+{
+    "id": 329269,
+    "brand": "ultrafix",
+    "name": "Ultrafix CA 150",
+    "slug": "ultrafix-ca-150",
+    "description": "Ultrafix CA 150 are 1-part frame adhesives.",
+    "company_name": "Saati Americas Corp.",
+    "company_slug": "saati-americas-corp",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680110831/production/Brand/23750/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Textiles & Nonwovens",
+            "Printing & Inks",
+            "Leather & Textiles",
+            "Screen Printing",
+            "Textile Coatings & Inks",
+            "Textile Manufacturing"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Contact Adhesives"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Contact Adhesive",
+            "1K (1 component) Adhesive"
+        ],
+        "Application Area": [
+            "Textiles"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Iron",
+            "Aluminum",
+            "Metal",
+            "Steel",
+            "Wood"
+        ],
+        "Application Method": [
+            "Spray"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    }
+}

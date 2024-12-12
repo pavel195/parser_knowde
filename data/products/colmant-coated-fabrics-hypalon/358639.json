@@ -1,0 +1,52 @@
+{
+    "id": 358639,
+    "brand": "colmant-coated-fabrics-hypalon",
+    "name": "VITON® FKM RUBBER SHEET",
+    "slug": "viton-fkm-rubber-sheet",
+    "description": "Viton® FKM Rubber Sheet is a fluorinated synthetic rubber. It has excellent chemical inertness, excellent resistance to high temperatures, chemicals, lubricants, solvents and aggressive fuels. FKM also detain a good mechanical properties.",
+    "company_name": "Colmant Coated Fabrics",
+    "company_slug": "colmant-coated-fabrics",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686149255/production/Brand/26755/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608693/production/CategoryImage/573/category_image/AutomotiveTransportation_01.jpg",
+    "properties": {
+        "Applications": [
+            "Aerospace & Aviation",
+            "Transportation"
+        ],
+        "Product Families": [
+            "Parts & Shapes"
+        ],
+        "Chemical Family": [
+            "Fluoropolymers"
+        ],
+        "Polymer Name": [
+            "Fluoroelastomer (FKM)"
+        ],
+        "End Uses": [
+            "Aerospace Seals"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Fluoroelastomer (FKM)"
+        ],
+        "Physical Form": [
+            "Sheets"
+        ],
+        "Features": [
+            "Ozone Resistant",
+            "Chemical Resistant",
+            "Excellent Fuel Resistance",
+            "UV Resistant",
+            "Solvent Resistant",
+            "Good Mechanical Properties",
+            "Heat Resistance",
+            "High Temperature Resistance",
+            "Acid Resistant",
+            "Skid Resistant"
+        ],
+        "End Uses": [
+            "Aerospace Seals"
+        ]
+    }
+}

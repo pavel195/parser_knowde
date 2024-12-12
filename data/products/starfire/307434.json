@@ -1,0 +1,49 @@
+{
+    "id": 307434,
+    "brand": "starfire",
+    "name": "DayGlo Blaze Orange (SPL-15J)",
+    "slug": "dayglo-blaze-orange-spl-15j",
+    "description": "The DayGlo SPL-J Series Dispersions contain approximately 58% fluorescent pigment dispersed in water and a small percentage of alkali soluble acrylic resin. The SPL-J Series Dispersions are V.O.C. (Volatile Organic Compounds) free. They are compatible with a wide range of aqueous systems",
+    "company_name": "DayGlo",
+    "company_slug": "dayglo",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664891315/production/Product/307434/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1664891315/production/Product/307434/card_banner/image.png",
+    "properties": {
+        "Applications": [
+            "Other Paints & Coatings Applications",
+            "Flexography",
+            "Gravure Printing",
+            "Printing & Inks"
+        ],
+        "Product Families": [
+            "Color Dispersions",
+            "Color Pigments",
+            "Dispersions & Masterbatches",
+            "Photoluminescent Pigments",
+            "Pigments & Colorants"
+        ],
+        "End Uses": [
+            "Waterborne Coating",
+            "Waterborne Ink",
+            "Flexography Ink",
+            "Gravure Ink"
+        ]
+    },
+    "summary": {
+        "Color": [
+            "Orange (Fluorescent)"
+        ],
+        "Pigment Type": [
+            "Fluorescent"
+        ],
+        "End Uses": [
+            "Waterborne Ink",
+            "Flexography Ink",
+            "Gravure Ink",
+            "Waterborne Coating"
+        ],
+        "Carrier": [
+            "Water"
+        ]
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "id": 112833,
+    "brand": "daifree",
+    "name": "Neoflon EFEP RP-4020",
+    "slug": "neoflon-efep-rp-4020",
+    "description": "Neoflon EFEP RP-4020, offered in pellet and solid forms, boasts features such as chemical resistance, excellent transparency, good adhesion, and a low melting point. Targeting markets like automotive, electrical, electronics, industrial, and printing and packaging, this product is suitable for applications such as automotive fuel systems, oil, gas, mining exploration, and semiconductor manufacturing. With compatibility with various polymers and resins, it excels in automotive fuel lines, blown containers, fuel hoses, and semiconductor applications.",
+    "company_name": "Daikin Industries, Ltd.",
+    "company_slug": "daikin",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708529216/production/Brand/9813/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708529216/production/Product/112833/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Semiconductor Manufacturing",
+            "Industrial & Transport Packaging",
+            "Midstream",
+            "Exploration & Upstream",
+            "Fuel Systems",
+            "Automotive",
+            "Parts & Components",
+            "Oil, Gas & Mining",
+            "Packaging"
+        ],
+        "Product Families": [
+            "High Performance Thermoplastics",
+            "Engineering & Specialty Polymers"
+        ],
+        "Polymer Name": [
+            "Ethylene Tetrafluoroethylene Hexafluoropropylene Fluoroterpolymer (EFEP)"
+        ],
+        "End Uses": [
+            "Fuel Hose",
+            "Tubes",
+            "Semiconductor Applications",
+            "Blown Containers",
+            "Automotive Fuel Lines"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Ethylene Tetrafluoroethylene Hexafluoropropylene Fluoroterpolymer (EFEP)"
+        ],
+        "Processing Methods": [
+            "Extrusion",
+            "Coextrusion",
+            "Hot Melt",
+            "Injection Molding",
+            "Compression Molding"
+        ]
+    }
+}

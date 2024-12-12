@@ -1,0 +1,47 @@
+{
+    "id": 419277,
+    "brand": "confined-space",
+    "name": "Peel Away® 1",
+    "slug": "peel-away-1",
+    "description": "Peel Away® 1 Heavy-Duty Paint Remover is the premier, industry-leading paint removal product formulated to remove up to 30 coats of lead, oil, and alkyd-based paints and coatings in a single application. Peel Away® 1 emulsifies the coating without need for sanding, eliminating the possibility of any dangerous lead airborne dust. Unlike other popular paint removers, Peel Away® 1 does not contain the dangerous chemicals methylene chloride or NMP, making it a much safer alternative for homeowners and professionals. This product is zero VOC, water-based, non-flammable, and biodegradable. Peel Away®1 is easily applied on interior and exterior wood, brick, stone, concrete, stucco, plaster, metal, steel, cast iron, fiberglass, carved and molded surfaces, and many more! All Peel Away® 1 containers contain a complete paint removal kit, including Dumond® Laminated Paper, Citri-Lize™ Neutralizer, a pH test kit, and a plastic applicator under the lid. Peel Away® 1 works best on pre-1980 based coatings",
+    "company_name": "Dumond Chemicals",
+    "company_slug": "dumond-chemicals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292642/production/Brand/32890/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515684/production/CategoryImage/1058/category_image/HII_10.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial Cleaning",
+            "Institutional & Industrial Care"
+        ],
+        "Product Families": [
+            "Industrial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner",
+            "Paint Remover"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Steel",
+            "Copper",
+            "Painted Surfaces",
+            "Stone",
+            "Tinplate",
+            "Wood",
+            "Brick",
+            "Concrete",
+            "Marble",
+            "Iron"
+        ],
+        "Features": [
+            "Water-based",
+            "Biodegradable",
+            "Non-Toxic",
+            "Highly Emulsifying",
+            "Heavy Duty"
+        ]
+    }
+}

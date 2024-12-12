@@ -1,0 +1,50 @@
+{
+    "id": 401966,
+    "brand": "aos",
+    "name": "AOS® ZnO Free Thermal Grease 52056",
+    "slug": "aos-zno-free-thermal-grease-52056",
+    "description": "AOS® ZnO Free Thermal Grease 52056 is a synthetic-based thermal grease used to insure quick, efficient heat transfer and dissipation. The product exhibits very high thixotropy yet spreads easily under low shear. This AOS compound increases slightly in viscosity as it is heated, yet still exhibits excellent heat transfer. 52056 was developed by AOS in response for a product that will exhibit very high flow initially and can therefore be pumped under relatively low shear. The material appears compatible with most electronic materials. Keep the container closed until using as the material should not be left exposed to the atmosphere until used.",
+    "company_name": "AOS Thermal Compounds",
+    "company_slug": "aos-thermal-compounds",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1682593038/production/Brand/30631/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607454/production/CategoryImage/519/category_image/ElectricalElectronics_04.jpg",
+    "properties": {
+        "Applications": [
+            "Parts & Components",
+            "Switches & Relays",
+            "Other Parts & Components"
+        ],
+        "Product Families": [
+            "Greases",
+            "Fluids & Lubricants"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Thermal Grease"
+        ],
+        "Application Area": [
+            "Electrical Components"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Plastics"
+        ],
+        "Features": [
+            "Cost Effective",
+            "Thermally Conductive",
+            "Cleanable",
+            "Biodegradable",
+            "Thixotropic",
+            "Low Creep",
+            "Low Outgassing",
+            "Good Thermal Stability",
+            "Improved Heat Transfer Efficiency",
+            "Excellent Wetting Behaviour",
+            "High Dielectric Strength",
+            "Service Life Extension",
+            "Tacky",
+            "Controlled Rheology"
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "id": 374586,
+    "brand": "fs-talent",
+    "name": "FS Transform Plus™",
+    "slug": "fs-transform-plus",
+    "description": "FS Transform Plus is a convenient, low use rate premix that combines water conditioning agents, drift retardants, ammonium ions and antifoam in a single formulation.",
+    "company_name": "Insight FS",
+    "company_slug": "insight-fs",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708684144/production/Brand/28022/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608161/production/CategoryImage/546/category_image/AgricultureFeed_02.jpg",
+    "properties": {
+        "Applications": [
+            "Other Agricultural Crops",
+            "Agricultural Crops"
+        ],
+        "Product Families": [
+            "Drift Control, Foam Markers & Thickeners",
+            "Adjuvants & Formulation Ingredients"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Drift Control Agent"
+        ],
+        "Application Technique": [
+            "Sprayers"
+        ],
+        "Features": [
+            "Easy To Handle"
+        ]
+    }
+}

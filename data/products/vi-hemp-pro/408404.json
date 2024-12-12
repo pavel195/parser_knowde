@@ -1,0 +1,29 @@
+{
+    "id": 408404,
+    "brand": "vi-hemp-pro",
+    "name": "VI-Active™",
+    "slug": "vi-active",
+    "description": "VI-Active™ is a 100% natural turmeric extract (monitored by HPLC, DNA and 14C) standardized to 95% curcuminoids and formulated with natural biostimulants such as turmeric oil and sunflower oil, making it unique in the market. Clinical studies have been conducted to prove that VI-Active™ Turmeric Extract has better bioavailability than a standard turmeric extract. This extract is available in organic form.",
+    "company_name": "VIDYA EUROPE",
+    "company_slug": "vidya-europe",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686635349/production/Brand/31595/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606961/production/CategoryImage/506/category_image/FoodNutrition_07.jpg",
+    "properties": {
+        "Applications": [
+            "Nutrition & Well Being",
+            "Nutraceuticals & Supplements"
+        ],
+        "Product Families": [
+            "Nutraceuticals & Supplements",
+            "Phytochemicals & Plant Extracts"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Turmeric Rhizome Extract"
+        ],
+        "Active Component": [
+            "Curcuminoids"
+        ]
+    }
+}

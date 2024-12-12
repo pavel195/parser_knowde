@@ -1,0 +1,51 @@
+{
+    "id": 413619,
+    "brand": "silfar",
+    "name": "ELASTOSIL® LR 3070/50 A/B",
+    "slug": "elastosil-lr-3070-50-a-b",
+    "description": "ELASTOSIL® LR 3070/50 A/B is a self-adhesive liquid silicone rubber of the ELASTOSIL® LR 3070 series. This product is a paste-like, easily pigmentable, two-component compound with an extremely short curing time. Its vulcanizates are noted for excellent mechanical and electrical properties.",
+    "company_name": "Wacker Chemie AG",
+    "company_slug": "wacker-chemie-ag",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1713789571/production/Company/55284/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1713789571/production/Company/55284/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Equipment & Parts",
+            "Interior",
+            "Automotive",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Silicone Elastomers",
+            "Specialty Elastomers"
+        ],
+        "Chemical Family": [
+            "Silicones"
+        ],
+        "Polymer Name": [
+            "Liquid Silicone Rubber (LSR)"
+        ],
+        "End Uses": [
+            "Automobile Door Seals"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Liquid Silicone Rubber (LSR)"
+        ],
+        "End Uses": [
+            "Automobile Door Seals"
+        ],
+        "Features": [
+            "Cost Effective",
+            "Good Electrical Properties",
+            "Fast Curing",
+            "Good Mechanical Properties",
+            "Good Adhesion",
+            "Pigmentable"
+        ],
+        "Tear Strength": [
+            "20.0 - 20.0 kN/m"
+        ]
+    }
+}

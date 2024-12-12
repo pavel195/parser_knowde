@@ -1,0 +1,55 @@
+{
+    "id": 212236,
+    "brand": "omnilane",
+    "name": "Omnirad 819",
+    "slug": "omnirad-819",
+    "description": "Omnirad 819 is a versatile photoinitiator for radical polymerization of unsaturated resins upon UV light exposure. It is especially suitable for white pigmented Formulations, the curing of glass-fiber-reinforced polyester/styrene systems and for clear coats for outdoor use in combinations with light stabilizers. Thick section curing is also possible with this photoinitiator.",
+    "company_name": "IGM Resins",
+    "company_slug": "igm-resins",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708696313/production/Company/7406/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608939/production/CategoryImage/585/category_image/AdhesivesSealants_02.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial Manufacturing",
+            "Furniture Adhesives",
+            "Industrial Adhesives & Sealants",
+            "Furniture",
+            "Stationery, Art & Office Supplies",
+            "Appliances & Electronics",
+            "Metal Coatings",
+            "Industrial Coatings",
+            "Wood Coatings & Finishes",
+            "Industrial & Assembly Adhesives",
+            "Chemical & Industrial Manufacturing",
+            "Building & Construction"
+        ],
+        "Product Families": [
+            "Catalysts & Initiators",
+            "Additives"
+        ],
+        "End Uses": [
+            "Waterborne Adhesive",
+            "Waterborne Coating",
+            "Radiation Curable Coating"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Photoinitiator"
+        ],
+        "CAS Number": [
+            "162881-26-7"
+        ],
+        "End Uses": [
+            "Radiation Curable Coating",
+            "Waterborne Adhesive",
+            "Waterborne Coating"
+        ],
+        "Compatible Polymers & Resins": [
+            "Polyesters"
+        ],
+        "Synonyms": [
+            "(Phenylphosphoryl)bis(mesitylmethanone), [Phenyl-(2,4,6-trimethylbenzoyl)phosphoryl]-(2,4,6-trimethylphenyl)methanone, 1,1′-(Phenylphosphinylidene)bis[(2,4,6-trimethylphenyl)methanone], 1,1′-(Phenylphosphinylidene)bis[1-(2,4,6-trimethylphenyl)methanone], Bis(2,4,6-trimethylbenzoyl)phenylphosphine oxide"
+        ]
+    }
+}

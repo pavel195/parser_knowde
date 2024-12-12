@@ -1,0 +1,38 @@
+{
+    "id": 300929,
+    "brand": "resiester",
+    "name": "LUREFOR 110",
+    "slug": "lurefor-110",
+    "description": "LUREFOR 110 is a pentaester ester of stabilized resin acids",
+    "company_name": "Luresa",
+    "company_slug": "luresa",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112230/production/Company/24256/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608640/production/CategoryImage/572/category_image/PaintingsCoatings_08.jpg",
+    "properties": {
+        "Applications": [
+            "Packaging Coatings",
+            "Primers & Lacquers",
+            "Other Adhesives & Sealants Applications"
+        ],
+        "Product Families": [
+            "Polyesters",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Polyesters",
+            "Esters"
+        ],
+        "End Uses": [
+            "Lacquers"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Esters",
+            "Polyesters"
+        ],
+        "End Uses": [
+            "Lacquers"
+        ]
+    }
+}

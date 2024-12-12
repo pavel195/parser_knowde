@@ -1,0 +1,41 @@
+{
+    "id": 347214,
+    "brand": "diamond-k",
+    "name": "Diamond K® Rice Flour",
+    "slug": "diamond-k-rice-flour",
+    "description": "Diamond K® Rice Flour is cold roll milled from our California farmed heirloom Kokuho Rose medium grain rice and is well known amongst Asian Indians for the preparation of crepes (dosas) and other snack foods, and additionally is useful for specialized applications of gluten-free baking/cooking. Gluten-free, no additives of any sort, certified Kosher (KSA), GMO-free (Non-GMO Project Verified. Mild and neutral in flavor. 105 Mesh.",
+    "company_name": "Koda Farms",
+    "company_slug": "koda-farms",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704796082/production/Brand/25874/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606914/production/CategoryImage/502/category_image/FoodNutrition_03.jpg",
+    "properties": {
+        "Applications": [
+            "Other Food Applications",
+            "Cereals & Snacks",
+            "Food"
+        ],
+        "Product Families": [
+            "Flours & Grains Products",
+            "Whole Foods, Extracts & Premixes"
+        ],
+        "End Uses": [
+            "Snacks",
+            "Breakfast Cereals"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Rice Flour"
+        ],
+        "Labeling Claims": [
+            "Non-GMO",
+            "Gluten-free",
+            "Kosher",
+            "Additive-free"
+        ],
+        "Certifications & Compliance": [
+            "Kosher",
+            "Non-GMO Project Verified"
+        ]
+    }
+}

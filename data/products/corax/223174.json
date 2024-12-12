@@ -1,0 +1,102 @@
+{
+    "id": 223174,
+    "brand": "corax",
+    "name": "HIBLACK® 40B2",
+    "slug": "hiblack-40b2-conductive-carbon-black-for-polymers",
+    "description": "HIBLACK® 40B2 is a general purpose conductive carbon black suitable for polyolefins and other thermoplastic materials. It is also suitable in rubber compounds.",
+    "company_name": "Orion Engineered Carbons",
+    "company_slug": "orion-engineered-carbons",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708683684/production/Company/9856/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608477/production/CategoryImage/562/category_image/BuildingConstruction_06.jpg",
+    "properties": {
+        "Applications": [
+            "Technical Fabrics",
+            "Consumer Electronics",
+            "Automotive Electronics",
+            "Furniture",
+            "Appliances & Electronics",
+            "Pipes & Plumbing",
+            "Interior",
+            "Exterior & Body",
+            "Electrical & Electronic Systems",
+            "Pipes & Hoses",
+            "Other Agricultural Films",
+            "Agricultural Films",
+            "Automotive",
+            "Building Materials",
+            "Devices & Assemblies",
+            "Textiles & Nonwovens",
+            "Leather & Textiles"
+        ],
+        "Product Families": [
+            "Inorganic Pigments",
+            "Pigments & Colorants",
+            "Performance Additives",
+            "Polymer Additives",
+            "Color Pigments"
+        ],
+        "End Uses": [
+            "Lawn Equipment",
+            "Garden Equipment",
+            "Textile Applications",
+            "Pipes",
+            "Geo Membranes",
+            "Furniture",
+            "Fenders",
+            "Automotive Interior Parts",
+            "Automotive Exterior Parts",
+            "Automotive Electronics",
+            "Appliances",
+            "Agricultural Applications"
+        ]
+    },
+    "summary": {
+        "Pigment Type": [
+            "Inorganic Pigments"
+        ],
+        "Functions": [
+            "Conductive Agent",
+            "Pigment"
+        ],
+        "Color": [
+            "Black"
+        ],
+        "Compatible Polymers & Resins": [
+            "Polycarbonates (PC)",
+            "Polyamides",
+            "Polypropylenes (PP)",
+            "Polyethylenes (PE)",
+            "Epoxies (EP)",
+            "Polystyrenes (PS)",
+            "Low-Density Polyethylene (LDPE)",
+            "Styrene Acrylonitrile (SAN)",
+            "Poly(Methyl Methacrylate) (PMMA)",
+            "High-Density Polyethylene (HDPE)",
+            "Unsaturated Polyester (UPE)",
+            "Acrylonitrile Styrene Acrylate (ASA)",
+            "Polyvinyl Chloride (PVC)",
+            "Acrylonitrile Butadiene Styrene (ABS)"
+        ],
+        "Processing Methods": [
+            "Extrusion",
+            "Injection Molding"
+        ],
+        "End Uses": [
+            "Geo Membranes",
+            "Automotive Electronics",
+            "Automotive Interior Parts",
+            "Fenders",
+            "Textile Applications",
+            "Lawn Equipment",
+            "Automotive Exterior Parts",
+            "Agricultural Applications",
+            "Appliances",
+            "Garden Equipment",
+            "Furniture",
+            "Pipes"
+        ],
+        "Synonyms": [
+            "Acetylene Black, Furnace Black, Lamp Black, Thermal Black"
+        ]
+    }
+}

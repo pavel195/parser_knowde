@@ -1,0 +1,35 @@
+{
+    "id": 343601,
+    "brand": "biola",
+    "name": "NurtiCryst R70",
+    "slug": "nurticryst-r70",
+    "description": "NurtiCryst R70 is a good crystallization starter that is produced from rape seed. It is a coating fat for encapsulation of spices. NutriCryst is used in spices and marinades.\t",
+    "company_name": "Nutriswiss AG",
+    "company_slug": "nutriswiss-ag",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708687215/production/Brand/25446/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606934/production/CategoryImage/504/category_image/FoodNutrition_05.jpg",
+    "properties": {
+        "Applications": [
+            "Savory & Culinary",
+            "Food"
+        ],
+        "Product Families": [
+            "Processing Aids",
+            "Edible Oils & Fats",
+            "Functional Additives",
+            "Whole Foods, Extracts & Premixes"
+        ],
+        "End Uses": [
+            "Spice Seasoning"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Rapeseed"
+        ],
+        "Functions": [
+            "Fat & Oil",
+            "Crystalizing Agent"
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "id": 442988,
+    "brand": "spl100",
+    "name": "Prolong® Ultra Cut 1",
+    "slug": "prolong-ultra-cut-1",
+    "description": "Prolong® Ultra Cut 1 is a water-soluble cutting fluid that has proven to maximize results in sawing, grinding, boring, turning or milling processes where coolants are required. It is extremely effective in eliminating uneven cuts and increasing tool life beyond the industry’s standard expectations. It is excellent as a flood coolant, and for making emulsions in machine shops where a coolant lubricant is required.",
+    "company_name": "Prolong",
+    "company_slug": "prolong",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680108936/production/Company/64839/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical & Industrial Manufacturing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Metalworking Fluids",
+            "Fluids & Lubricants"
+        ]
+    },
+    "summary": {
+        "Application Area": [
+            "Reaming",
+            "Sawing Operations",
+            "Drilling Applications",
+            "Boring Applications",
+            "Milling Operations",
+            "Grinding Applications",
+            "Tapping Operations",
+            "Turning Operations"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal"
+        ],
+        "Features": [
+            "Service Life Extension",
+            "Corrosion Resistant",
+            "Low Energy Consumption"
+        ],
+        "Metalworking Fluid Type": [
+            "Soluble Oil"
+        ]
+    }
+}

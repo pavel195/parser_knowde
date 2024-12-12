@@ -1,0 +1,48 @@
+{
+    "id": 299992,
+    "brand": "belguard",
+    "name": "BELGUARD KS NB (Sodium Benzoate)",
+    "slug": "belguard-ks-nb-sodium-benzoate",
+    "description": "BELGUARD KS NB (Sodium Benzoate) is a combination of key ingredients Sodium Benzoate, One of the most common food preservative largely used in cosmetics &amp; pharmaceuticals coupled with potassium sorbate, extensively used as fungi static agent in foods, beverages ,pharmaceuticals &amp; cosmetics..",
+    "company_name": "Belchem Industries",
+    "company_slug": "belchem-industries",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708689424/production/Company/23643/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607972/production/CategoryImage/536/category_image/HomePersonalCare_02.jpg",
+    "properties": {
+        "Applications": [
+            "Skin Care",
+            "Wipes, Tissue & Towel",
+            "Other Personal Hygiene Applications",
+            "Beauty & Care",
+            "Personal Hygiene"
+        ],
+        "Product Families": [
+            "Antioxidants & Preservatives",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Potassium Sorbate",
+            "Sodium Benzoate"
+        ],
+        "End Uses": [
+            "Wet Wipes"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Potassium Sorbate",
+            "Sodium Benzoate"
+        ],
+        "Functions": [
+            "Preservative"
+        ],
+        "Benefit Claims": [
+            "Preservation"
+        ],
+        "Labeling Claims": [
+            "Clean at Sephora",
+            "Credo Clean Standard",
+            "Ulta Beauty's Conscious Beauty"
+        ]
+    }
+}

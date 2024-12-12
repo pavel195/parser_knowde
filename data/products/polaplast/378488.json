@@ -1,0 +1,44 @@
+{
+    "id": 378488,
+    "brand": "polaplast",
+    "name": "CORRIDOL 864-Acrylic coating",
+    "slug": "corridol-864-acrylic-coating",
+    "description": "CORRIDOL 864-Acrylic coating is a colored, non-slip coating for surrounding areas in stadiums, traffic education parks, corridors, velodrome etc. applied on asphalt and cement waterproofed surfaces after the application of ELASTOSPORT 853.",
+    "company_name": "Kataskeves Dapedon",
+    "company_slug": "kataskeves-dapedon",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664291625/production/Brand/28266/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608490/production/CategoryImage/563/category_image/BuildingConstruction_07.jpg",
+    "properties": {
+        "Applications": [
+            "Infrastructure, Roads & Paving",
+            "Other Infrastructure Applications",
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Other Paints & Coatings"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Coating"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Concrete",
+            "Asphalt"
+        ],
+        "Features": [
+            "Water Resistant",
+            "Anti-Slip"
+        ],
+        "Application Method": [
+            "Wipe"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    }
+}

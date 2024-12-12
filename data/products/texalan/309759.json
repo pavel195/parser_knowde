@@ -1,0 +1,66 @@
+{
+    "id": 309759,
+    "brand": "texalan",
+    "name": "TEXALAN® W295A",
+    "slug": "texalan-w295a",
+    "description": "Texalan® W295A product has high hydrolysis resistance, solvent resistance, good hand feeling, and high recycling rate. Also has high strength, excellent processing performance.",
+    "company_name": "Austin Novel Materials",
+    "company_slug": "austin-novel-materials",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708528745/production/Product/309759/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608769/production/CategoryImage/577/category_image/AutomotiveTransportation_05.jpg",
+    "properties": {
+        "Applications": [
+            "Other Packaging Materials",
+            "Equipment & Parts",
+            "Other Paints & Coatings Applications",
+            "Footwear",
+            "Furniture",
+            "Building Wires & Power Cables",
+            "Other Industrial Applications",
+            "Pipes & Tanks",
+            "Belts & Conveyers",
+            "Wire & Cable",
+            "Chemical & Industrial Manufacturing",
+            "Packaging"
+        ],
+        "Product Families": [
+            "Polyurethanes",
+            "Thermoset Resins"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ],
+        "Polymer Name": [
+            "Polyurethane (unspecified)"
+        ],
+        "End Uses": [
+            "Film",
+            "Flexible Packaging",
+            "Cables",
+            "Pipes",
+            "Belts/Belt Repair"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyurethane (unspecified)"
+        ],
+        "Processing Methods": [
+            "Extrusion",
+            "Injection Molding"
+        ],
+        "End Uses": [
+            "Cables",
+            "Pipes",
+            "Belts/Belt Repair",
+            "Film",
+            "Flexible Packaging"
+        ],
+        "Density": [
+            "1190.0 - 1230.0 kg/m³"
+        ],
+        "Tensile Strength": [
+            "32.0 - 32.0 MPa"
+        ]
+    }
+}

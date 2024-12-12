@@ -1,0 +1,45 @@
+{
+    "id": 423562,
+    "brand": "rage-x",
+    "name": "REVIVE WHEEL CLEANER™",
+    "slug": "revive-wheel-cleaner",
+    "description": "REVIVE WHEEL CLEANER™ is an environmentally friendly and user safe, non-hazardous, wheel cleaner. Removes concrete, cement, grease, road film, and dust from wheels while shining them to look brand new with a clear shiny coating of protection. Safe to use on polished aluminum. Product quantity sold in 5 Gallons, 15 Gallons, 30 Gallons, 55 Gallons, 275 Gallons.",
+    "company_name": "Ankem of Texas, inc.",
+    "company_slug": "ankem-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292667/production/Product/423562/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1664292667/production/Product/423562/card_banner/image.png",
+    "properties": {
+        "Applications": [
+            "Auto Care",
+            "Surface Care",
+            "Industrial Cleaning",
+            "Institutional & Industrial Care",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Industrial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner",
+            "Degreasers"
+        ],
+        "Application Areas": [
+            "Masonry",
+            "Concrete Cleaner",
+            "Wheel"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Aluminum",
+            "Metal",
+            "Steel",
+            "Magnesium",
+            "Concrete"
+        ],
+        "Features": [
+            "Non Staining"
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": 390942,
+    "brand": "enotprost",
+    "name": "BlueCALM™",
+    "slug": "bluecalm",
+    "description": "BlueCALM™ Scutellaria lateriflora L. (Blue skullcap) is a perennial herb native to North America with a long traditional use to relieve anxiety and improve mood. Recent studies suggest neuroprotective and anxiolytic effects.",
+    "company_name": "EPO Srl",
+    "company_slug": "epo-srl",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708691347/production/Company/20150/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708691347/production/Product/390942/card_banner/image",
+    "properties": {
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Phytochemicals & Plant Extracts",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Blue Skullcap Extract"
+        ],
+        "Active Component": [
+            "Baicalin"
+        ],
+        "Functions": [
+            "Phytochemical"
+        ],
+        "Certifications & Compliance": [
+            "EU Compliant",
+            "European Pharmacopeia (Ph. Eur.)"
+        ]
+    }
+}

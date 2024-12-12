@@ -1,0 +1,66 @@
+{
+    "id": 321087,
+    "brand": "tilicine",
+    "name": "Clerilys®",
+    "slug": "clerilys",
+    "description": null,
+    "company_name": "Greentech",
+    "company_slug": "greentech",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709127458/production/Product/321087/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1709127458/production/Product/321087/card_banner/image",
+    "properties": {
+        "Product Families": [
+            "Skin Actives",
+            "Cosmetic Actives"
+        ],
+        "INCI Name": [
+            "Propylparaben",
+            "Methylparaben",
+            "Wine Extract",
+            "Cucumis Sativus (Cucumber) Seed Extract",
+            "Morus Alba Bark Extract",
+            "Hibiscus Sabdariffa Flower Extract"
+        ],
+        "End Uses": [
+            "Hand Cream",
+            "Anti-Aging Products"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Wine Extract",
+            "Cucumis Sativus (Cucumber) Seed Extract",
+            "Morus Alba Bark Extract",
+            "Propylparaben",
+            "Methylparaben",
+            "Hibiscus Sabdariffa Flower Extract"
+        ],
+        "Functions": [
+            "Anti-Pigmentation Agent"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin"
+        ],
+        "Labeling Claims": [
+            "Non-Mutagenic",
+            "Plant-Based",
+            "Non-Irritant",
+            "Natural"
+        ],
+        "Benefit Claims": [
+            "Complexion",
+            "Even Skin Tone",
+            "Pigmentation Reduction",
+            "Age & Dark Spot Reduction",
+            "Skin Lightening",
+            "Exfoliating"
+        ],
+        "Certifications & Compliance": [
+            "ISO 22716",
+            "ISO 16128",
+            "EU Cosmetic Regulation 1223/2009 Compliant",
+            "FDA Compliant",
+            "GMP"
+        ]
+    }
+}

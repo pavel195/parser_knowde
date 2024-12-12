@@ -1,0 +1,39 @@
+{
+    "id": 402064,
+    "brand": "purol",
+    "name": "Basis® F 31",
+    "slug": "basis-f-31",
+    "description": "Basis® F 31 has Adipic Acid base used as adhesives, PUR hot melts, PU coatings, PU shoe soles, elastomers, PU flexible foam.",
+    "company_name": "Baalbaki Chemical Industries",
+    "company_slug": "baalbaki-chemical-industries",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691738862/production/Brand/30662/logo/image",
+    "banner_url": "https://static.knowde.com/card-banners/knowde-card-for-raw-materials-8.jpg",
+    "properties": {
+        "Applications": [
+            "Footwear",
+            "Other Adhesives & Sealants Applications",
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Oligomers",
+            "Prepolymers & Polyols",
+            "Monomers & Intermediates"
+        ],
+        "Chemical Family": [
+            "Polyols",
+            "Aliphatics",
+            "Polyols (Polyester)"
+        ],
+        "End Uses": [
+            "Hot Melt Adhesive"
+        ]
+    },
+    "summary": {
+        "Hydroxyl Value": [
+            "56.0 - 56.0 mg KOH/g"
+        ],
+        "Molecular Weight": [
+            "2000.0 - 2000.0 g/mol"
+        ]
+    }
+}

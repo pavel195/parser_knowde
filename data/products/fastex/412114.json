@@ -1,0 +1,52 @@
+{
+    "id": 412114,
+    "brand": "fastex",
+    "name": "FASTEX® FBOHD15W40",
+    "slug": "fastex-fbohd15w40",
+    "description": "FASTEX® FBOHD15W40 is a multi-purpose oil blended from selected high viscosity index (VI) base stocks and low–ash additives that are formulated with a Fastex® Surface Modifier, which provides exceptionally advanced anti-wear (AW) and extreme pressure (EP) features. It can be used in all high and medium-speed diesel or gas engines regardless of operating severity and service. Its wide applications include mixed Automotive and Transit Fleets, Construction Operations, stationary Industrial diesel engines and certain engines in the Marine service. It can maintain its multi-grade performance over the entire life of the oil and will show very little loss of viscosity in service at both high and low temperatures.",
+    "company_name": "Glenveigh Distribution",
+    "company_slug": "glenveigh-distribution",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680109035/production/Brand/32160/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Lubricants & Functional Fluids",
+            "Powertrain & UTH",
+            "Other Automotive Applications",
+            "Marine",
+            "Marine Fluids & Lubricants",
+            "Chemical & Industrial Manufacturing",
+            "Automotive ",
+            "Transportation",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Lubricants & Oils",
+            "Fluids & Lubricants"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Oil"
+        ],
+        "Application Area": [
+            "Diesel Engine",
+            "Automotive Engine",
+            "Valves",
+            "Marine Applications"
+        ],
+        "Features": [
+            "Anti-Wear Properties",
+            "Extreme Pressure Performance",
+            "Low Ash Content",
+            "Sludge Build-up Prevention",
+            "Wide Temperature Operating Range",
+            "Excellent Shear Strength",
+            "Varnish Build-up Prevention",
+            "Service Life Extension"
+        ],
+        "SAE Viscosity Grade": [
+            "SAE 15W-40"
+        ]
+    }
+}

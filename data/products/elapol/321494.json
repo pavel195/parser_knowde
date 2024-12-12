@@ -1,0 +1,47 @@
+{
+    "id": 321494,
+    "brand": "elapol",
+    "name": "ELAPOL 10020 A",
+    "slug": "elapol-10020-a",
+    "description": "ELAPOL 10020 A is a linear, saturated polyester polyol by Elachem. It is manufactured with synthetic aromatic, aliphatic acid and 1,6-hexanediol.",
+    "company_name": "Elachem",
+    "company_slug": "elachem",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686149115/production/Brand/22900/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Leather",
+            "Textiles & Nonwovens",
+            "Finishing",
+            "Technical Fabrics",
+            "Resin Manufacturing",
+            "Chemical Manufacturing",
+            "Leather & Textiles",
+            "Chemical & Industrial Manufacturing",
+            "Leather Manufacturing",
+            "Textile Manufacturing"
+        ],
+        "Product Families": [
+            "Diols & Polyols",
+            "Monomers & Intermediates",
+            "Prepolymers & Polyols",
+            "Monomers",
+            "Monomers & Oligomers"
+        ],
+        "Chemical Family": [
+            "Polyols (Polyester)",
+            "Polyols"
+        ],
+        "End Uses": [
+            "Waterborne Coating",
+            "Coatings",
+            "Resins"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Polyols (Polyester)",
+            "Polyols"
+        ]
+    }
+}

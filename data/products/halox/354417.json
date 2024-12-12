@@ -1,0 +1,56 @@
+{
+    "id": 354417,
+    "brand": "halox",
+    "name": "HALOX® CW-491",
+    "slug": "halox-cw-491",
+    "description": "HALOX® CW-491 is a white, non-refractive, heavy metal-free pigment used as a corrosion inhibitor in protective coating systems. It is versatile and can be used with a variety of solvent and waterborne resin systems. The recommended loading levels for HALOX® CW-491 vary depending on the type of system used. For waterborne systems, the recommended loading levels range from 5–8% based on the total formula weight, while for solventborne systems, the recommended loading levels range from 7–12% based on the total formula weight.",
+    "company_name": "ICL Phosphate Specialty - HALOX®",
+    "company_slug": "icl-halox",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1710309316/production/Company/36458/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1710309316/production/Brand/26401/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Industrial Maintenance",
+            "Industrial Coatings",
+            "Metal Coatings"
+        ],
+        "Product Families": [
+            "Corrosion Inhibiting Pigments",
+            "Functional Additives",
+            "Functional Pigments",
+            "Additives",
+            "Pigments & Colorants"
+        ],
+        "Chemical Family": [
+            "Phosphosilicates"
+        ],
+        "End Uses": [
+            "Latex",
+            "Primer",
+            "Solventborne Coating",
+            "Waterborne Coating",
+            "2K (2 component) Coating"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Corrosion Inhibitor",
+            "Pigment"
+        ],
+        "Chemical Family": [
+            "Phosphosilicates"
+        ],
+        "Labeling Claims": [
+            "Zinc-free",
+            "Heavy Metal-free"
+        ],
+        "Compatible Polymers & Resins": [
+            "Alkyds (Medium Oil)",
+            "Alkyds",
+            "Polyvinyl Chloride (PVC)",
+            "Alkyds (Long Oil)",
+            "Epoxies (EP)",
+            "Polyesters"
+        ]
+    }
+}

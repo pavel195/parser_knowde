@@ -1,0 +1,68 @@
+{
+    "id": 408834,
+    "brand": "gosulin",
+    "name": "INUTEC® H25",
+    "slug": "inutec-h25",
+    "description": "INUTEC® H25, produced by BENEO Orafti for CreaChem, consists of oligosaccharides which are composed of fructose units linked together by ß(2-1) linkages. Part of these molecules are terminated by a glucose unit. The total number of fructose or glucose units (Degree of Polymerization or DP) of oligofructose/inulin ranges mainly between 2 and 8.",
+    "company_name": "Gobiotics",
+    "company_slug": "gobiotics",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704103718/production/Brand/22351/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1704103718/production/Product/408834/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Bath & Shower",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Botanical Ingredients & Extracts",
+            "Vitamins, Extracts & Oils"
+        ],
+        "Chemical Family": [
+            "Botanical Derivatives"
+        ],
+        "INCI Name": [
+            "Inulin"
+        ],
+        "End Uses": [
+            "Deo Shower"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Inulin"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Vegetable Origin",
+            "Non-Animal Origin",
+            "Plant Origin"
+        ],
+        "Labeling Claims": [
+            "Microplastics-free",
+            "TSE-free",
+            "VOC-free",
+            "Clean at Sephora",
+            "Credo Clean Standard",
+            "Lactose-free",
+            "Naturally Derived",
+            "Ulta Beauty's Conscious Beauty",
+            "BSE-free",
+            "Preservative-free",
+            "Organic",
+            "Glycol ether-free",
+            "Nanomaterials-free",
+            "Halal",
+            "Sustainable",
+            "Vegan",
+            "Non-GMO",
+            "Palm Oil-free",
+            "Natural"
+        ],
+        "Certifications & Compliance": [
+            "Generally Recognized As Safe (GRAS)",
+            "WADA Certified",
+            "ISO 16128",
+            "Halal"
+        ]
+    }
+}

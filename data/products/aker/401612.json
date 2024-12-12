@@ -1,0 +1,35 @@
+{
+    "id": 401612,
+    "brand": "aker",
+    "name": "VEGAND®",
+    "slug": "vegand",
+    "description": "\r\n\r\nVEGAND® due to the quality of it components permits to release organic nitrogen gradually (100% vegetal origin). Indeed, the presence of vegetal proteins and amino acids improve soil chemistry, optimizing the M.O. activity sustaining plant nutrition.\r\n",
+    "company_name": "FOMET SpA",
+    "company_slug": "fomet-spa",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708686365/production/Brand/30590/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608215/production/CategoryImage/550/category_image/AgricultureFeed_06.jpg",
+    "properties": {
+        "Applications": [
+            "Oilseeds",
+            "Nuts",
+            "Herbs & Spice Crops",
+            "Sugar & Starch Crops",
+            "Fruits",
+            "Vegetables",
+            "Legumes",
+            "Agricultural Crops"
+        ],
+        "Product Families": [
+            "Fertilizers & Nutrients",
+            "Plant Health, Nutrients & Soil Management"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Fertilizer"
+        ],
+        "Labeling Claims": [
+            "Organic"
+        ]
+    }
+}

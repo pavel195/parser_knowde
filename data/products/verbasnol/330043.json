@@ -1,0 +1,48 @@
+{
+    "id": 330043,
+    "brand": "verbasnol",
+    "name": "InnoSlim®",
+    "slug": "innoslim",
+    "description": "InnoSlim® is a stimulant-free, 100% plant-based ingredient composed of two highly fractionated extracts Panax notoginseng and Astragalus membranaceus to support healthy weight and glucose metabolism",
+    "company_name": "NuLiv Science USA",
+    "company_slug": "nuliv-science-usa",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708689240/production/Brand/23873/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607247/production/CategoryImage/513/category_image/FoodNutrition_13.jpg",
+    "properties": {
+        "Applications": [
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Plant & Herb Products & Extracts",
+            "Whole Foods, Extracts & Premixes"
+        ],
+        "End Uses": [
+            "Weight Management Products"
+        ]
+    },
+    "summary": {
+        "Labeling Claims": [
+            "Gluten-free",
+            "Natural",
+            "Naturally Derived",
+            "Kosher",
+            "Vegan",
+            "Halal",
+            "Plant-Based"
+        ],
+        "Certifications & Compliance": [
+            "Kosher",
+            "Generally Recognized As Safe (GRAS)",
+            "Halal"
+        ],
+        "Features": [
+            "Blood Glucose Management",
+            "Slimming"
+        ],
+        "Functions": [
+            "Dietary Supplement",
+            "Supplement"
+        ]
+    }
+}

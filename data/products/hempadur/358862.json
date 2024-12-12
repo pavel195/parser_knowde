@@ -1,0 +1,36 @@
+{
+    "id": 358862,
+    "brand": "hempadur",
+    "name": "Hempatop Repel 800",
+    "slug": "hempatop-repel-800",
+    "description": "Hempatop Repel 800 is a two component advanced water repellent polyurethane coating. The system offers exceptional anti-corrosion protection, robust mechanical properties, and ease of application.",
+    "company_name": "Hempel A/S",
+    "company_slug": "hempel-a-s",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664290787/production/Brand/26767/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Oil, Gas & Mining",
+            "Exploration & Upstream",
+            "Other Oil, Gas & Mining Applications"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Top Coats"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "2K (2 component) Coating",
+            "Top Coat"
+        ],
+        "Features": [
+            "Corrosion Resistant",
+            "Excellent Water Resistance",
+            "Excellent Flexibility",
+            "Ease of Handling",
+            "High Impact Resistance",
+            "Good Mechanical Properties"
+        ]
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "id": 359113,
+    "brand": "hydrophil",
+    "name": "HydroPhil™ -S",
+    "slug": "hydrophil-s",
+    "description": "Hydrophil™ -S is a patent pending nano scale coating with superior super-hydrophilic water sheeting properties, that can be applied to most surfaces and materials. HydroPhil™-S is ideal for HVAC and industrial applications.",
+    "company_name": "Lotus Leaf Coatings",
+    "company_slug": "lotus-leaf-coatings",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664291095/production/Brand/26823/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608621/production/CategoryImage/570/category_image/PaintingsCoatings_06.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial Coatings"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Coating"
+        ],
+        "Features": [
+            "Hydrophilic",
+            "High Optical Transparency",
+            "Abrasion Resistant",
+            "UV Resistant",
+            "Chemical Resistant"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Glass",
+            "Metal"
+        ],
+        "Application Method": [
+            "Roller",
+            "Dip Coating",
+            "Spin Coat",
+            "Spray"
+        ]
+    }
+}

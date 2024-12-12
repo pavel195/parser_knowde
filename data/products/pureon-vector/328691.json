@@ -1,0 +1,44 @@
+{
+    "id": 328691,
+    "brand": "pureon-vector",
+    "name": "Challenge 543-HT",
+    "slug": "challenge-543-ht",
+    "description": "Challenge 543-HT is a medium viscosity lapping / polishing slurry additive which evenly disperses and suspends a variety of non-suspension-treated abrasives, including aluminum oxide, zirconium oxide, along with silicon carbide, boron carbide, synthetic and natural diamond, and garnet. Because of its superior suspension characteristics, Challenge 543-HT reduces the amount of abrasive grain needed by up to 50%, while providing equal, and often greater, stock removal rates. It is particularly effective when using equipment with smaller slurry feed tubes, which constrict flow of high viscosity products. It is a single-pass lapping additive for use on ceramics in the Optic industry.",
+    "company_name": "Pureon",
+    "company_slug": "pureon",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708688448/production/Brand/23677/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Automotive Fluids & Lubricants",
+            "Fluids & Lubricants",
+            "Lubricants & Functional Fluids",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Performance Additives",
+            "Additives"
+        ],
+        "End Uses": [
+            "Suspension Fluids",
+            "Grinding Oils",
+            "Grinding Fluids "
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Lapping Additive"
+        ],
+        "End Uses": [
+            "Grinding Oils",
+            "Suspension Fluids",
+            "Grinding Fluids "
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Ceramic"
+        ],
+        "Features": [
+            "Water-based"
+        ]
+    }
+}

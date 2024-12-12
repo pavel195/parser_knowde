@@ -1,0 +1,30 @@
+{
+    "id": 423103,
+    "brand": "polytec-ec",
+    "name": "Polytec TC 430",
+    "slug": "polytec-tc-430",
+    "description": "Polytec TC 430 is a two component, thermally conductive, electrically insulating epoxy. It is suggested for applications where heat dissipation and insulating properties are required. Polytec TC 430 has an excellent adhesion to ceramic, glass, semiconductor materials, ferrous and non ferrous metals and most plastics. The material can be applied via dispensing, screen printing, or manual application.",
+    "company_name": "Polytec PT",
+    "company_slug": "polytec-pt",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697222662/production/Brand/33283/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608953/production/CategoryImage/586/category_image/AdhesivesSealants_03.jpg",
+    "properties": {
+        "Applications": [
+            "Equipment & Parts",
+            "Semiconductor Manufacturing",
+            "Adhesives & Sealants",
+            "Appliances & Electronics",
+            "Packaging & Assembly",
+            "Parts & Components",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Other Adhesives & Sealants",
+            "Adhesives & Sealants"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    },
+    "summary": {}
+}

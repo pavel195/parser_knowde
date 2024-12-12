@@ -1,0 +1,42 @@
+{
+    "id": 275600,
+    "brand": "syntholux",
+    "name": "LIOCRYL AS 610",
+    "slug": "liocryl-as-610",
+    "description": "Aqueous styrene Acrylic emulsion",
+    "company_name": "Synthopol",
+    "company_slug": "synthopol",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691744612/production/Company/22068/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608630/production/CategoryImage/571/category_image/PaintingsCoatings_07.jpg",
+    "properties": {
+        "Applications": [
+            "Craft & Hobby",
+            "Other Consumer Applications",
+            "Stationery, Art & Office Supplies",
+            "Other Consumer Goods Applications",
+            "Architectural Coatings",
+            "Furniture",
+            "Metal Coatings",
+            "Industrial Coatings",
+            "Wood Coatings & Finishes",
+            "Wood Flooring",
+            "Furniture Coatings",
+            "DIY & Consumer",
+            "Flooring & Surfaces",
+            "Building & Construction",
+            "Building Envelope & Roofing",
+            "Building Envelope"
+        ],
+        "Product Families": [
+            "Acrylics",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Styrene-Acrylic Copolymer"
+        ],
+        "End Uses": [
+            "Varnishes"
+        ]
+    },
+    "summary": {}
+}

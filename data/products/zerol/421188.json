@@ -1,0 +1,39 @@
+{
+    "id": 421188,
+    "brand": "zerol",
+    "name": "Potassium Hydroxide Solution 45%",
+    "slug": "shrieve-chemical-company-potassium-hydroxide-solution-45",
+    "description": null,
+    "company_name": "Shrieve Chemical Company",
+    "company_slug": "shrieve",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704106883/production/Company/3160/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1704106883/production/Company/3160/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Chemical Manufacturing",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Inorganics",
+            "Technical Salts & Inorganics"
+        ],
+        "Chemical Family": [
+            "Hydroxides"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Potassium Hydroxide"
+        ],
+        "CAS Number": [
+            "1310-58-3"
+        ],
+        "Labeling Claims": [
+            "Halal",
+            "Kosher"
+        ],
+        "Synonyms": [
+            "Caustic potash, KOH, Potash"
+        ]
+    }
+}

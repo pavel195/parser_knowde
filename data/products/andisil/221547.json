@@ -1,0 +1,68 @@
+{
+    "id": 221547,
+    "brand": "andisil",
+    "name": "Andisil® TL 28",
+    "slug": "andisil-tl-28",
+    "description": "Andisil® TL 28 products are high activity liquid catalysts used in the condensation cure of silicones, and the synthesis of polyurethanes & esters.",
+    "company_name": "AB Specialty Silicones",
+    "company_slug": "ab-specialty-silicones",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708683819/production/Product/221547/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708683819/production/Product/221547/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Dental Adhesives & Sealants",
+            "Roof Coatings",
+            "Tooling & Moldmaking",
+            "Dental",
+            "Potting Compounds",
+            "Other Paints & Coatings Applications",
+            "Other Adhesives & Sealants Applications",
+            "Medical Adhesives",
+            "Roofing",
+            "Packaging & Assembly",
+            "Medical",
+            "Chemical & Industrial Manufacturing",
+            "Building & Construction"
+        ],
+        "Product Families": [
+            "Processing Aids",
+            "Antioxidants & Stabilizers",
+            "Catalysts, Initiators & Crosslinkers",
+            "Catalysts & Initiators",
+            "Additives",
+            "Polymer Additives",
+            "Elastomer Additives"
+        ],
+        "Chemical Family": [
+            "Laureth Compounds",
+            "Tin Compounds"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Dimethylbis[(1-oxoneodecyl)oxy]stannane"
+        ],
+        "CAS Number": [
+            "68928-76-7"
+        ],
+        "Functions": [
+            "Stabilizer",
+            "Catalyst",
+            "Heat Stabilizer",
+            "Light Stabilizer"
+        ],
+        "Chemical Family": [
+            "Tin Compounds",
+            "Laureth Compounds"
+        ],
+        "Compatible Polymers & Resins": [
+            "Polyurethanes (PU)",
+            "Phenolic Resins",
+            "Polyamides",
+            "Silicones"
+        ],
+        "Synonyms": [
+            "Dimethyldineodecanoatetin, Dimethyltin Dineodecanoate"
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "id": 211290,
+    "brand": "lumicure",
+    "name": "Carbamac® 43-4310",
+    "slug": "carbamac-43-4310",
+    "description": "Carbamac® 43-4310 is an oil-modified polyurethane resin with good hardness and abrasion resistance balanced with fast through-dry. Manufactured in North America. All components of this product are listed on the DSL.",
+    "company_name": "Polynt Group",
+    "company_slug": "polynt-group",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697222697/production/Brand/13724/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1697222697/production/Company/6009/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Decorative Paints, Coatings & Stains",
+            "EIFS & Insulation",
+            "Architectural Coatings",
+            "Appliances & Electronics",
+            "Appliances & Consumer Goods",
+            "Exterior Insulation & Finishing Systems (EIFS)",
+            "Furniture Coatings",
+            "Furniture",
+            "Roof Coatings",
+            "Infrastructure, Roads & Paving",
+            "Coatings & Markings",
+            "Decorative Paints",
+            "Floor Coatings",
+            "Building Envelope",
+            "Building Materials",
+            "Flooring & Surfaces",
+            "Roofing",
+            "Building & Construction",
+            "Industrial Coatings",
+            "Building Envelope & Roofing",
+            "Decorative Materials & Finishes"
+        ],
+        "Product Families": [
+            "Polyurethanes (PU)",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)",
+            "Urethanes"
+        ],
+        "End Uses": [
+            "Solventborne Coating"
+        ]
+    },
+    "summary": {}
+}

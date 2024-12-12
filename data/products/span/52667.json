@@ -1,0 +1,53 @@
+{
+    "id": 52667,
+    "brand": "span",
+    "name": "CrystaSense™ Sapphire",
+    "slug": "crystasense-sapphire",
+    "description": "CrystaSense™ Sapphire enables targeted delivery of thickened surfactant formulations in a sprayable format. The innovative 'Spray &amp; Stick' technology delivers enhanced soil removal due to improved surface contact time with no loss in gloss on treated surfaces. It functions as alkaline stable and rheology modifier.",
+    "company_name": "Croda",
+    "company_slug": "croda",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709821996/production/Product/52667/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1709821996/production/Company/94/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Auto Care",
+            "Surface Care",
+            "Institutional & Catering",
+            "Home Care",
+            "Institutional & Industrial Care"
+        ],
+        "Product Families": [
+            "Rheology Modifiers",
+            "Performance Additives",
+            "Functional Additives"
+        ],
+        "Chemical Family": [
+            "Acrylics, Acrylates & Methacrylates"
+        ],
+        "End Uses": [
+            "Industrial Cleaners",
+            "Kitchen Cleaners",
+            "Tile Cleaners",
+            "Multipurpose Surface Cleaners",
+            "Hard Surface Cleaners",
+            "Glass Cleaners",
+            "Bathroom Cleaners",
+            "Alkaline Cleaners"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Viscosity Modifier"
+        ],
+        "End Uses": [
+            "Industrial Cleaners",
+            "Glass Cleaners",
+            "Kitchen Cleaners",
+            "Alkaline Cleaners",
+            "Tile Cleaners",
+            "Hard Surface Cleaners",
+            "Bathroom Cleaners",
+            "Multipurpose Surface Cleaners"
+        ]
+    }
+}

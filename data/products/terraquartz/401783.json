@@ -1,0 +1,49 @@
+{
+    "id": 401783,
+    "brand": "terraquartz",
+    "name": "Aiflooring TerraPrime",
+    "slug": "aiflooring-terraprime",
+    "description": "Aiflooring TerraPrime is designed to be used as a concrete sealer or as a primer/build coat systems such as TerraSeal, TerraChip®, TerraQuartz® and TerraTono® . It has excellent adhesion to damp concrete and provides a blush free finish. TerraPrime is available in 2 curing speeds - TerraPrime and TerraPrime Redline. It is a two component 100% solids epoxy coatings cured with a polyamide. It is generally supplied clear.",
+    "company_name": "Aiflooring",
+    "company_slug": "aiflooring",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520300/production/Company/51509/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608490/production/CategoryImage/563/category_image/BuildingConstruction_07.jpg",
+    "properties": {
+        "Applications": [
+            "Flooring & Surfaces",
+            "Power, Water & Utilities",
+            "Building & Construction",
+            "Water Treatment",
+            "Concrete Coatings & Stains",
+            "Floor Coatings"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Primer",
+            "Sealer",
+            "Solventless & High Solids Coating",
+            "2K (2 component) Coating",
+            "Epoxy Coating"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Concrete"
+        ],
+        "Features": [
+            "Low Porosity",
+            "Fast Cure",
+            "Blush Resistant",
+            "Good Adhesion",
+            "Low Odor",
+            "Highly Versatile"
+        ],
+        "Application Method": [
+            "Wipe",
+            "Roller"
+        ]
+    }
+}

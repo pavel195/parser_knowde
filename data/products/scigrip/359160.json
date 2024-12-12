@@ -1,0 +1,37 @@
+{
+    "id": 359160,
+    "brand": "scigrip",
+    "name": "SCIGRIP® SG600-05",
+    "slug": "scigrip-sg600-05",
+    "description": "SCIGRIP® SG600-05 Methacrylate Adhesives are two-component, 10:1 mix ratio products for bonding metals, composites and other plastic parts1 . These advanced products are designed to meet specific requirements of the transportation industry, including excellent fatigue and shock load resistance. The combination of minimum surface preparation1, 2, and reduced read through makes the SG600 series ideal for a variety of assembly operations. Packaging options include 490 ml cartridges and 5 and 50 gallon (19 and 189 liters) in bulk containers for use with meter-mix dispense equipment.",
+    "company_name": "SCIGRIP Adhesives",
+    "company_slug": "scigrip-adhesives",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520116/production/Brand/26826/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608730/production/CategoryImage/574/category_image/AutomotiveTransportation_02.jpg",
+    "properties": {
+        "Applications": [
+            "Bonding & Assembly",
+            "Transportation Assembly"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Other Adhesives & Sealants"
+        ],
+        "Chemical Family": [
+            "Methacrylates"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "2K (2 component) Adhesive"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Coated Surfaces",
+            "Composites"
+        ],
+        "Chemical Family": [
+            "Methacrylates"
+        ]
+    }
+}

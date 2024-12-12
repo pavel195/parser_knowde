@@ -1,0 +1,41 @@
+{
+    "id": 387601,
+    "brand": "avenia",
+    "name": "BUEHNEN A2738-300 LT",
+    "slug": "buehnen-a2738-300-lt",
+    "description": "Buehnen A2738-300 LT is the eva product alternative with a low processing temperature. lower energy consumption leads to reduced co 2 emissions. white, low-odor and flexible adhesive stick with a long open time and medium setting time. it exhibits good adhesion to wood, paper, cardboard, textiles, and plastics such as abs, ps, pvc, pmma, pc, cr and foam. the raw materials used comply with the fda guideline 175.105 for the outer packaging of food. slight color variations can occur with adhesives, depending on the raw materials and processes used.",
+    "company_name": "BUEHNEN",
+    "company_slug": "buehnen",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1684497045/production/Company/47191/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608962/production/CategoryImage/587/category_image/AdhesivesSealants_04.jpg",
+    "properties": {
+        "Applications": [
+            "Tapes, Labels & Adhesives",
+            "Other Adhesives & Sealants Applications",
+            "Flexible Packaging Adhesives"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Hot Melt Adhesives"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Hot Melt Adhesive"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Polyvinyl Chloride (PVC)",
+            "Paper",
+            "Poly(Methyl Methacrylate) (PMMA)",
+            "Textiles",
+            "Wood",
+            "Acrylonitrile Butadiene Styrene (ABS)",
+            "Polycarbonate (PC)",
+            "Plastics",
+            "Polystyrene (PS)"
+        ],
+        "Application Method": [
+            "Gun"
+        ]
+    }
+}

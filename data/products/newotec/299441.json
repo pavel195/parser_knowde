@@ -1,0 +1,54 @@
+{
+    "id": 299441,
+    "brand": "newotec",
+    "name": "NEWOTEC® 20",
+    "slug": "newotec-20",
+    "description": "Newotec® 20 is a deaerating agent for PVC plastisols.",
+    "company_name": "NEWOS",
+    "company_slug": "newos",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708698737/production/Product/299441/logo/image",
+    "banner_url": "https://static.knowde.com/card-banners/knowde-card-for-raw-materials-8.jpg",
+    "properties": {
+        "Applications": [
+            "Other Printing & Packaging Applications"
+        ],
+        "Product Families": [
+            "Foam Control",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Diols",
+            "Ethers",
+            "Glycols"
+        ],
+        "End Uses": [
+            "Top Coat",
+            "Plastisol Coating"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Glycols",
+            "Ethers",
+            "Diols"
+        ],
+        "Functions": [
+            "Deaerator"
+        ],
+        "End Uses": [
+            "Plastisol Coating",
+            "Top Coat"
+        ],
+        "Compatible Polymers & Resins": [
+            "Polyvinyl Chloride (PVC)"
+        ],
+        "Labeling Claims": [
+            "Low VOC",
+            "APEO-free",
+            "Phthalates-free"
+        ],
+        "Solid Content": [
+            "100.0 - 100.0 %"
+        ]
+    }
+}

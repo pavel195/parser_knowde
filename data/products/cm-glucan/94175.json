@@ -1,0 +1,61 @@
+{
+    "id": 94175,
+    "brand": "cm-glucan",
+    "name": "CM-Glucan Forte",
+    "slug": "cm-glucan-forte",
+    "description": "CM-Glucan Forte is a special Beta Glucan from baker's yeast (Magnesium Carboxymethyl Beta-Glucan). This single molecule product is designed to rebalance the immune system of the skin, soothe irritations and strengthen the skin barrier.Benefits:\nRebalances the skin’s immune system.\nSoothes irritated skin.\nCalms sensitive and itching skin.\nAlleviates skin discomfort in less than one week.\n",
+    "company_name": "Mibelle Biochemistry",
+    "company_slug": "mibelle-biochemistry",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709331200/production/Brand/8484/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1709331200/production/Product/94175/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Skin Care",
+            "Treatment Products",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Conditioners & Emollients",
+            "Sensory Modifiers",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Magnesium Carboxymethyl Beta-Glucan"
+        ],
+        "End Uses": [
+            "Eczema Treatment"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Magnesium Carboxymethyl Beta-Glucan"
+        ],
+        "Functions": [
+            "Skin Barrier Protectant",
+            "Soothing Agent"
+        ],
+        "Labeling Claims": [
+            "Vegan",
+            "Ulta Beauty's Conscious Beauty",
+            "Credo Clean Standard",
+            "Alcohol-free",
+            "Preservative-free"
+        ],
+        "Benefit Claims": [
+            "Moisture Barrier",
+            "Soothing",
+            "Skin Protection",
+            "Skin Defense Enhancement",
+            "Anti-Inflammatory",
+            "Calming",
+            "Hydrating",
+            "Skin Barrier",
+            "Irritation Reduction",
+            "Redness Reduction",
+            "Suitable for Sensitive Skin",
+            "Stimulates Immune System",
+            "Strengthening",
+            "Anti-Itching"
+        ]
+    }
+}

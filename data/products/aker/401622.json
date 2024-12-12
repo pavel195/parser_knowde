@@ -1,0 +1,29 @@
+{
+    "id": 401622,
+    "brand": "aker",
+    "name": "SOLFOCAL-HUMUS®",
+    "slug": "solfocal-humus",
+    "description": "\r\n\r\nSOLFOCAL-HUMUS® is a manure with complexed calcium Permitted for organic farming.\r\n",
+    "company_name": "FOMET SpA",
+    "company_slug": "fomet-spa",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708689425/production/Brand/30598/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608215/production/CategoryImage/550/category_image/AgricultureFeed_06.jpg",
+    "properties": {
+        "Applications": [
+            "Fruits",
+            "Agricultural Crops"
+        ],
+        "Product Families": [
+            "Fertilizers & Nutrients",
+            "Plant Health, Nutrients & Soil Management"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Fertilizer"
+        ],
+        "Labeling Claims": [
+            "Organic"
+        ]
+    }
+}

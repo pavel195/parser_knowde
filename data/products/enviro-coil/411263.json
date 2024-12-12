@@ -1,0 +1,42 @@
+{
+    "id": 411263,
+    "brand": "enviro-coil",
+    "name": "Hydro Balance Corporation HY-SOL",
+    "slug": "hydro-balance-corporation-hy-sol",
+    "description": "HY-SOL is a highly concentrated solvent designed to lift away dirt, grease, oil and grime from refrigeration and air conditioning condenser coils. Cleaning is quick and effective. It is ideally suited for use on condenser coils where water clean-up is a problem.",
+    "company_name": "Hydro Balance Corporation",
+    "company_slug": "hydro-balance-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292309/production/Company/36132/logo/image.png",
+    "banner_url": "https://static.knowde.com/card-banners/knowde-card-for-raw-materials-8.jpg",
+    "properties": {
+        "Applications": [
+            "Home Care",
+            "Institutional & Industrial Care",
+            "Surface Care",
+            "Industrial Cleaning"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Industrial Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner",
+            "Degreasers"
+        ],
+        "Application Areas": [
+            "Coils"
+        ],
+        "Certifications & Compliance": [
+            "California Proposition 65",
+            "SARA 313",
+            "Comprehensive Environmental Response, Compensations & Liability Act (CERCLA)"
+        ],
+        "Features": [
+            "Degreasing",
+            "Free Rinsing",
+            "Fast Drying"
+        ]
+    }
+}

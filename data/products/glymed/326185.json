@@ -1,0 +1,55 @@
+{
+    "id": 326185,
+    "brand": "glymed",
+    "name": "Medxtract Burdock 1:2",
+    "slug": "medxtract-burdock-1-2",
+    "description": "MEDXTRACT BURDOCK 1:2 is the glycolic extract of roots of Arctium Lappa, produced by ultrasounds at low temperature (25°C). ",
+    "company_name": "Medolla Speciality Chemicals",
+    "company_slug": "medolla-iberia",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672311/production/Company/16680/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708672311/production/Company/16680/card_banner/image",
+    "properties": {
+        "Product Families": [
+            "Skin Actives",
+            "Botanical Ingredients & Extracts",
+            "Antioxidants & Preservatives",
+            "Cosmetic Actives",
+            "Vitamins, Extracts & Oils",
+            "Functionals"
+        ],
+        "Chemical Family": [
+            "Plant Extracts"
+        ],
+        "INCI Name": [
+            "Arctium Lappa Root Extract"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Arctium Lappa Root Extract"
+        ],
+        "Functions": [
+            "Anti-Septic",
+            "Sebum Regulator",
+            "Cleansing Agent"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Non-Animal Origin",
+            "Plant Origin"
+        ],
+        "Labeling Claims": [
+            "Ulta Beauty's Conscious Beauty",
+            "Credo Clean Standard",
+            "Clean at Sephora",
+            "Plant-Based",
+            "GMO-free",
+            "Naturally Derived"
+        ],
+        "Benefit Claims": [
+            "Antiseptic",
+            "Cleansing",
+            "Sebum Control"
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "id": 373574,
+    "brand": "duroacro",
+    "name": "DuroAcro® DP272",
+    "slug": "duroacro-dp272",
+    "description": "DuroAcro® DP272 is a pure acrylate emulsion polymer.",
+    "company_name": "Dukepolytech Corporation",
+    "company_slug": "dukepolytech-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664291232/production/Brand/27885/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608566/production/CategoryImage/566/category_image/PaintingsCoatings_02.jpg",
+    "properties": {
+        "Applications": [
+            "Building & Construction",
+            "Industrial Coatings",
+            "Wood Coatings & Finishes"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers",
+            "Protective Coatings"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ],
+        "Ready to Use Product Type": [
+            "Primer"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Wood"
+        ]
+    }
+}

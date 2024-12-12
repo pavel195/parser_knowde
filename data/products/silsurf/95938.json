@@ -1,0 +1,66 @@
+{
+    "id": 95938,
+    "brand": "silsurf",
+    "name": "Silwax® WS",
+    "slug": "silwax-ws",
+    "description": "Silwax®WS Special is a water-soluble silicone polyether wax. Silwax®WS Special has an INCI name of PEG-33 and PEG-8 Dimethicone and PEG-14. It has a melting point of around 33C.",
+    "company_name": "Siltech",
+    "company_slug": "siltech",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708685819/production/Product/95938/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708685819/production/Product/95938/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Bath & Shower",
+            "Color Cosmetics",
+            "Hair Care",
+            "Skin Care",
+            "Sun Care",
+            "Baby Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Visual Modifiers",
+            "Conditioners & Emollients",
+            "Functionals"
+        ],
+        "Chemical Family": [
+            "Silicones"
+        ],
+        "INCI Name": [
+            "PEG-8 Dimethicone"
+        ],
+        "End Uses": [
+            "Body Wash",
+            "Body Cream",
+            "Baby Sunscreen",
+            "Hair Conditioner",
+            "Facial Cleanser",
+            "Anti-Aging Products",
+            "After Sun Products",
+            "Eye Liner",
+            "Facial Moisturizer",
+            "BB Creams",
+            "Shampoos & Rinses"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "PEG-8 Dimethicone"
+        ],
+        "Ingredient Origin": [
+            "Synthetic"
+        ],
+        "Functions": [
+            "Conditioner",
+            "Gloss Enhancer"
+        ],
+        "Labeling Claims": [
+            "Ulta Beauty's Conscious Beauty"
+        ],
+        "Benefit Claims": [
+            "Imparts Lubricity",
+            "Sensory Enhancement",
+            "Conditioning"
+        ]
+    }
+}

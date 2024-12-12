@@ -1,0 +1,37 @@
+{
+    "id": 410189,
+    "brand": "biobased",
+    "name": "Biobased™ ELM OGL - Open Gear Lubricant",
+    "slug": "biobased-elm-ogl-open-gear-lubricant",
+    "description": "Biobased™ ELM OGL – Open Gear Lubricant is a premium quality biodegradable open gear lubricant formulated with the best optimized Biotechbased™ USA-grown natural seed oil that surpasses the lubricity of most conventional oils. It protects against wear, has a high flash point for safety and is readily biodegradable.\r\n",
+    "company_name": "Environmental Lubricants Manufacturing",
+    "company_slug": "environmental-lubricants-manufacturing",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680108884/production/Brand/31832/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical & Industrial Manufacturing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Lubricants & Oils",
+            "Fluids & Lubricants"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Lubricant"
+        ],
+        "Application Area": [
+            "Gears"
+        ],
+        "Features": [
+            "Sound Damping",
+            "Excellent Lubricity",
+            "Non-Toxic",
+            "Vibration Damping",
+            "Biodegradable",
+            "Wear Resistant"
+        ]
+    }
+}

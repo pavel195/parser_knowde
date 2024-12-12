@@ -1,0 +1,61 @@
+{
+    "id": 248155,
+    "brand": "bioloop",
+    "name": "Kemsurf PWS",
+    "slug": "kemsurf-pws",
+    "description": "Kemsurf PWS is Based on a linear high 2-phenyl based alkylate. Isopropylamine salts have better solubility in hydrocarbon solvents compared to sodium salts.",
+    "company_name": "Lankem",
+    "company_slug": "lankem",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708687762/production/Company/18990/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625605156/production/CategoryImage/441/category_image/CleaningIngredients_06.jpg",
+    "properties": {
+        "Applications": [
+            "Midstream",
+            "Industrial Cleaning",
+            "Surface Care",
+            "Oil, Gas & Mining",
+            "Home Care",
+            "Institutional & Industrial Care"
+        ],
+        "Product Families": [
+            "Oilfield & Transport Chemicals",
+            "Other Functional Additives",
+            "Detergents & Degreasers",
+            "Wetting & Dispersion Aids",
+            "Emulsifiers & Demulsifiers",
+            "Functional Additives",
+            "Cleaning Aids",
+            "Oil, Gas & Mining Chemicals"
+        ],
+        "Chemical Family": [
+            "Linear Alkylbenzene Sulfonic Acid (LABSA)"
+        ],
+        "End Uses": [
+            "Pipeline Degreaser",
+            "Acid Cleaners",
+            "Metal Cleaners",
+            "Paint Brush Cleaner",
+            "Pipe Cleaners",
+            "Aluminum Cleaners"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Emulsifier",
+            "Surfactant (Anionic)",
+            "Detergent",
+            "Coupling Agent",
+            "Wetting Agent",
+            "Surfactant"
+        ],
+        "CAS Number": [
+            "84961-74-0"
+        ],
+        "Chemical Family": [
+            "Linear Alkylbenzene Sulfonic Acid (LABSA)"
+        ],
+        "pH": [
+            "3.0 - 6.0 "
+        ]
+    }
+}

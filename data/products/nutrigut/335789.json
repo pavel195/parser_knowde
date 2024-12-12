@@ -1,0 +1,47 @@
+{
+    "id": 335789,
+    "brand": "nutrigut",
+    "name": "Bluenesse®",
+    "slug": "bluenesse",
+    "description": "Bluenesse® combines the traditional calming and mood enhancing effects with beneficial effects to support cognitive performance, particularly focus, alertness and memory.",
+    "company_name": "Vital Solutions",
+    "company_slug": "vital-solutions",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708690829/production/Brand/24817/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607247/production/CategoryImage/513/category_image/FoodNutrition_13.jpg",
+    "properties": {
+        "Applications": [
+            "Powdered Beverages",
+            "Nutraceuticals & Supplements",
+            "Beverage",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Phytochemicals & Plant Extracts",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Dietary Supplements",
+            "Beverage Mixes"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Lemon Balm Extract"
+        ],
+        "Features": [
+            "Improved Cognitive Function",
+            "Stress Reduction",
+            "High Quality",
+            "Anti-Hypertensive",
+            "Calming"
+        ],
+        "Physical Form": [
+            "Solid",
+            "Powder"
+        ],
+        "Functions": [
+            "Dietary Supplement",
+            "Supplement"
+        ]
+    }
+}

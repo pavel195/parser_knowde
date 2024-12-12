@@ -1,0 +1,63 @@
+{
+    "id": 424199,
+    "brand": "epdm",
+    "name": "EPDM 80 B WRAS G1",
+    "slug": "epdm-80-b-wras-g1",
+    "description": "EPDM 80 B WRAS G1 is a polymer made from ethylene, propylene, and a small number of diene monomers. These diene monomers provide cross-link sites that allow EPDM to be vulcanized. A small number of diene monomers form unsaturated groups pendant from the main saturated chain. These groups facilitate cross-linking reactions that do not affect the integrity of the polymer backbone.EPDM rubber has excellent heat, ozone and chemical resistance propertiesEPDM also has good physical properties and is resistant to polar fluidsLow-temperature properties require the polymer to be amorphous and low on ethylene (speak to the expert)Good electrical properties require high ethylene to facilitate high doses of inert mineral fillers to give good electrical resistanceEPDM rubber can be compounded to provide excellent electrical resistance",
+    "company_name": "Elastomer Engineering",
+    "company_slug": "elastomer-engineering",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686149461/production/Company/35317/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608760/production/CategoryImage/576/category_image/AutomotiveTransportation_04.jpg",
+    "properties": {
+        "Applications": [
+            "Interior",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Parts & Shapes"
+        ],
+        "Chemical Family": [
+            "Polyolefins"
+        ],
+        "Polymer Name": [
+            "Ethylene Propylene Diene Terpolymer (EPDM)"
+        ],
+        "End Uses": [
+            "Gaskets",
+            "Weatherstripping",
+            "Profiles",
+            "Glazing",
+            "Potable Water Applications"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Ethylene Propylene Diene Terpolymer (EPDM)"
+        ],
+        "Physical Form": [
+            "Sheets"
+        ],
+        "Features": [
+            "Heat Resistance",
+            "Drinking Water Contact Acceptable",
+            "Chemical Resistant",
+            "Wide Temperature Operating Range",
+            "Automotive Fluid Resistant",
+            "Ozone Resistant",
+            "Enhanced Physical Properties"
+        ],
+        "End Uses": [
+            "Glazing",
+            "Potable Water Applications",
+            "Profiles",
+            "Weatherstripping",
+            "Gaskets"
+        ],
+        "Color": [
+            "Black"
+        ],
+        "Tensile Strength": [
+            "9.0 - 9.0 MPa"
+        ]
+    }
+}

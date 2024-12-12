@@ -1,0 +1,33 @@
+{
+    "id": 301506,
+    "brand": "unithane",
+    "name": "UNITHANE MP-612 NF",
+    "slug": "unithane-mp-612-nf",
+    "description": "Unithane MP-612 NF is a NMP free, soft, inherently dull, APEO free, waterbased polyurethane dispersion with automotive grade properties. Developed for use in a formulated coatings for graphic arts, textiles, paints and selected plastics.",
+    "company_name": "Union Specialties, Inc.",
+    "company_slug": "union-specialties-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691742842/production/Company/7764/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608611/production/CategoryImage/569/category_image/PaintingsCoatings_05.jpg",
+    "properties": {
+        "Applications": [
+            "Stationery, Art & Office Supplies",
+            "Automotive OEM Coatings",
+            "Overprint Varnishes",
+            "Coatings & Finishes",
+            "Automotive & Transportation",
+            "Packaging Coatings"
+        ],
+        "Product Families": [
+            "Polyurethanes (PU)",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ],
+        "End Uses": [
+            "Varnishes",
+            "Waterborne Coating"
+        ]
+    },
+    "summary": {}
+}

@@ -1,0 +1,52 @@
+{
+    "id": 398798,
+    "brand": "mission-bay",
+    "name": "SHARKSKIN™",
+    "slug": "sharkskin",
+    "description": "SHARKSKIN™ is Sea Hawk’s traditional 45.2% (1013 g/l) copper-based hard-modified epoxy paint. Sharkskin aggressively combats all types of marine fouling including barnacles, sea grass, green weed and other fouling organisms in fresh and saltwater. Sharkskin can be applied over most antifouling coatings.",
+    "company_name": "Sea Hawk Paints",
+    "company_slug": "sea-hawk-paints",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1666072000/production/Company/50361/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608693/production/CategoryImage/573/category_image/AutomotiveTransportation_01.jpg",
+    "properties": {
+        "Applications": [
+            "Coatings & Finishes",
+            "Marine",
+            "Marine Coatings",
+            "Transportation"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Other Paints & Coatings"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "1K (1 component) Coating"
+        ],
+        "Application Areas": [
+            "Marine Applications"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Painted Surfaces"
+        ],
+        "Features": [
+            "Anti-Fouling",
+            "Medium Gloss",
+            "Water Resistant",
+            "High Flowability",
+            "Good Color Stability"
+        ],
+        "Application Method": [
+            "Spray",
+            "Roller",
+            "Brush"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    }
+}

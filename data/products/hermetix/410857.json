@@ -1,0 +1,47 @@
+{
+    "id": 410857,
+    "brand": "hermetix",
+    "name": "Duraamen Engineered Products Dekguard",
+    "slug": "duraamen-engineered-products-dekguard",
+    "description": "Dekguard is a non-yellowing, low gloss, siloxane-modified methyl methacrylate sealer for concrete surfaces. Dekguard's low viscosity allows better penetration over concrete for excellent protection. The unique formulation of Dekguard provides superior resistance to de-icing salts, saltwater pool systems, rain, sleet and snow as compared to other acrylic sealers.",
+    "company_name": "Duraamen Engineered Products",
+    "company_slug": "duraamen-engineered-products",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292396/production/Company/15488/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608566/production/CategoryImage/566/category_image/PaintingsCoatings_02.jpg",
+    "properties": {
+        "Applications": [
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers"
+        ],
+        "Chemical Family": [
+            "Siloxanes",
+            "Methacrylates"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Sealer"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Concrete"
+        ],
+        "Features": [
+            "Low Gloss",
+            "Chemical Resistant",
+            "Good Non-Yellowing Properties",
+            "Low Viscosity",
+            "Salt Water/Spray Resistant",
+            "Low VOC"
+        ],
+        "Application Method": [
+            "Roller"
+        ],
+        "Chemical Family": [
+            "Methacrylates",
+            "Siloxanes"
+        ]
+    }
+}

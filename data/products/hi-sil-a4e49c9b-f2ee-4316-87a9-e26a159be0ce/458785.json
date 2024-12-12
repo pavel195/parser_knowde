@@ -1,0 +1,48 @@
+{
+    "id": 458785,
+    "brand": "hi-sil-a4e49c9b-f2ee-4316-87a9-e26a159be0ce",
+    "name": "Mistron® ZSC",
+    "slug": "mistron-zsc",
+    "description": "Mistron® ZSC is an off-white, high-purity, platy, fine talc that is surface treated for improved dispersion and hydrophobicity, as well as die lubrication in plastics and rubber applications. Additionally, it is used for microcellar foam nucleation in polymeric foams and for improving water resistance and electrical properties in wire and cable applications.",
+    "company_name": "Dar-Tech Inc.",
+    "company_slug": "dar-tech-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1713789991/production/Brand/36169/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1713789991/production/Company/75921/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Jacketing & Insulation",
+            "Wire & Cable"
+        ],
+        "Product Families": [
+            "Processing Aids",
+            "Functional Additives",
+            "Additives",
+            "Polymer Additives",
+            "Elastomer Additives"
+        ],
+        "Chemical Family": [
+            "Silicates"
+        ],
+        "End Uses": [
+            "Wire",
+            "Cables"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Lubricant (Internal)",
+            "Lubricant (External)",
+            "Nucleating Agent"
+        ],
+        "Chemical Family": [
+            "Silicates"
+        ],
+        "End Uses": [
+            "Cables",
+            "Wire"
+        ],
+        "Synonyms": [
+            "Agalite, Talc (Mg3H2(SiO3)4), Talcum"
+        ]
+    }
+}

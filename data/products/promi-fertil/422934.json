@@ -1,0 +1,31 @@
+{
+    "id": 422934,
+    "brand": "promi-fertil",
+    "name": "Cyto Flow® Green",
+    "slug": "cyto-flow-green",
+    "description": "Cyto Flow® Green is a liquid formulation based on free amino acids, obtained by acid hydrolysis of animal proteins, magnesium and trace elements, specially designed to activate the physiological processes of the plant, provide easily assimilable nitrogen, increase resistance to stress situations and help improve the use of fertilizers and fertilizers, which results in increased production and quality of crops.",
+    "company_name": "PROMISOL S.A.",
+    "company_slug": "promisol-s-a",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708687763/production/Brand/33257/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608161/production/CategoryImage/546/category_image/AgricultureFeed_02.jpg",
+    "properties": {
+        "Applications": [
+            "Fruits",
+            "Vegetables",
+            "Agricultural Crops"
+        ],
+        "Product Families": [
+            "Fertilizers & Nutrients",
+            "Plant Health, Nutrients & Soil Management"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Fertilizer"
+        ],
+        "Application Technique": [
+            "Foliage Applied",
+            "Chemigation"
+        ]
+    }
+}

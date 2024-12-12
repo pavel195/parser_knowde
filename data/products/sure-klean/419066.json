@@ -1,0 +1,48 @@
+{
+    "id": 419066,
+    "brand": "sure-klean",
+    "name": "Enviro Klean® 2010 All Surface Cleaner®",
+    "slug": "enviro-klean-2010-all-surface-cleaner",
+    "description": "Enviro Klean® 2010 All Surface Cleaner® is a next generation product for cleaning and degreasing light-to-heavily soiled stone, tile, masonry and much more. Powerful enough for industrial use, flexible enough for jobs around the home, space saving EK 2010 replaces a host of individual cleaning agents. It’s concentrated for the toughest industrial cleaning jobs on concrete, metal and many other plant and warehouse surfaces. It is dilatable for home-use on windows, bathroom tub and tile, counter tops and more. Easy-to-use EK 2010 All Surface Cleaner® is water rinsible and contains no harsh acids, caustics or solvents. EK 2010 also removes Sure Klean® Weather Seal Siloxane PD over spray from windows.",
+    "company_name": "Prosoco",
+    "company_slug": "prosoco",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1682593239/production/Brand/32862/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515589/production/CategoryImage/1050/category_image/HII_02.jpg",
+    "properties": {
+        "Applications": [
+            "Institutional & Industrial Care",
+            "Surface Care",
+            "Industrial Cleaning",
+            "Institutional & Catering",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Industrial Cleaners",
+            "Commercial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner",
+            "Degreasers",
+            "Multipurpose Cleaners"
+        ],
+        "Application Area": [
+            "Tub",
+            "Window Frames"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Concrete",
+            "Tile",
+            "Stone",
+            "Metal"
+        ],
+        "Features": [
+            "Effective Soil Removal",
+            "Degreasing",
+            "Stain Removing",
+            "Excellent Rinsability"
+        ]
+    }
+}

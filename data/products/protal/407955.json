@@ -1,0 +1,38 @@
+{
+    "id": 407955,
+    "brand": "protal",
+    "name": "DENSO PASTE HT™",
+    "slug": "denso-paste-ht",
+    "description": "Denso Paste HT™ is a soft brown petrolatum paste containing moisture displacing corrosion inhibiting compounds for application by stiff brush or gloved hand. It does not dry, harden or crack.",
+    "company_name": "Denso North America",
+    "company_slug": "denso-north-america",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520386/production/Brand/31553/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608422/production/CategoryImage/558/category_image/BuildingConstruction_02.jpg",
+    "properties": {
+        "Applications": [
+            "Packaging Coatings",
+            "Primers & Lacquers"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Primer"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Steel"
+        ],
+        "Features": [
+            "Corrosion Resistant",
+            "High Temperature Performance",
+            "Soft"
+        ],
+        "Application Method": [
+            "Brush"
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": 403285,
+    "brand": "apoc",
+    "name": "APOC® 250 FAST DRY WHITE METAL PRIMER",
+    "slug": "apoc-250-fast-dry-white-metal-primer",
+    "description": "APOC® 250 Fast Dry White Metal Primer is a high penetration fast dry primer that seals and stops rust from spreading. This product contains a concentration of rust inhibitive chemicals to prevent rust from coming back. Also great for stain blocking and priming other problem areas. Use prior to applying elastomeric roof coatings.",
+    "company_name": "Asphalt Products Oil Corp.",
+    "company_slug": "asphalt-products-oil-corp",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520359/production/Brand/30834/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608566/production/CategoryImage/566/category_image/PaintingsCoatings_02.jpg",
+    "properties": {
+        "Applications": [
+            "Packaging Coatings",
+            "Primers & Lacquers"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Primer"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal"
+        ],
+        "Features": [
+            "Corrosion Resistant",
+            "Fast Drying",
+            "Excellent Seal Properties",
+            "Excellent Stain Resistance"
+        ],
+        "Application Method": [
+            "Spray",
+            "Roller",
+            "Brush"
+        ]
+    }
+}

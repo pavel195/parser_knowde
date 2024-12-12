@@ -1,0 +1,51 @@
+{
+    "id": 418081,
+    "brand": "profilm",
+    "name": "Profilm™ 700",
+    "slug": "profilm-700",
+    "description": "Profilm™ 700 is a zero VOC coalescing aid that is suitable for many architectural and industrial coating systems. Profilm™ 700 is water white in color, has no odor, and is safe to use. Profilm™ 700 is a versatile product that formulators can use to meet the stringent needs of their coating systems.\r\n",
+    "company_name": "Valtris Specialty Chemicals Company",
+    "company_slug": "valtris-specialty-chemicals-company",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708686792/production/Company/18985/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608557/production/CategoryImage/565/category_image/PaintingsCoatings_01.jpg",
+    "properties": {
+        "Applications": [
+            "Architectural Coatings",
+            "Industrial Coatings",
+            "Building Envelope",
+            "Building & Construction",
+            "Building Envelope & Roofing"
+        ],
+        "Product Families": [
+            "Functional Additives",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Esters"
+        ],
+        "Labeling Claims": [
+            "Low VOC"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Coalescing Agent"
+        ],
+        "Chemical Family": [
+            "Esters"
+        ],
+        "Labeling Claims": [
+            "Low VOC"
+        ],
+        "Features": [
+            "Water Resistance",
+            "Good Leveling",
+            "Stain Resistance",
+            "Blocking Resistance",
+            "Low VOC",
+            "Low Odor",
+            "High Gloss",
+            "Improved Flexibility"
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": 415253,
+    "brand": "advanced",
+    "name": "ADVANCED DRAW 62",
+    "slug": "advanced-draw-62",
+    "description": "Advanced Draw 62 is a chlorine-free drawing and stamping lubricant designed for medium-duty applications. It has been formulated for use on a wide variety of materials, including hard materials such as stainless steel. Advanced Draw 62 can be used on ferrous and non-ferrous materials.",
+    "company_name": "Advanced Fluid Technologies",
+    "company_slug": "advanced-fluid-technologies",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680108977/production/Brand/32341/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical & Industrial Manufacturing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Metalworking Fluids",
+            "Fluids & Lubricants"
+        ]
+    },
+    "summary": {
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Iron",
+            "Stainless Steel"
+        ],
+        "Features": [
+            "Good Wettability",
+            "Cost Effective",
+            "Corrosion Resistant",
+            "Service Life Extension",
+            "Excellent Lubricity"
+        ]
+    }
+}

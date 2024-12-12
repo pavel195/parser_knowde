@@ -1,0 +1,37 @@
+{
+    "id": 309095,
+    "brand": "disvipol",
+    "name": "Disvimol 101(M)",
+    "slug": "disvimol-101-m",
+    "description": "Disvimol 101(M) is used in high gloss and synthetic enamels.",
+    "company_name": "D.S.V. Chemicals",
+    "company_slug": "d-s-v-chemicals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112277/production/Product/309095/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609103/production/CategoryImage/595/category_image/PrintingPackaging_06.jpg",
+    "properties": {
+        "Applications": [
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Other Resins & Binders",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Rosins"
+        ],
+        "End Uses": [
+            "Enamel"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Rosins"
+        ],
+        "End Uses": [
+            "Enamel"
+        ],
+        "Features": [
+            "High Gloss"
+        ]
+    }
+}

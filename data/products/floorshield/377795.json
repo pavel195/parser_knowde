@@ -1,0 +1,59 @@
+{
+    "id": 377795,
+    "brand": "floorshield",
+    "name": "TBA Protective Solutions ECP 2200 Anti Static Dissipative Colourable Polypropylene",
+    "slug": "tba-protective-solutions-ecp-2200-anti-static-dissipative-colourable-polypropylene",
+    "description": "Permanently anti-static dissipative colourable PP. Suitable for injection molding and extrusion. Compliant with ATEX requirements and BS IEC 61340-5-1:2007. It is an injection molding compound utilizing a special non-migratory additive system to give a permanently anti-static dissipative material. The material is specially designed for applications requiring static control such as electronic safe handling areas and hazardous environments.",
+    "company_name": "TBA Protective Solutions",
+    "company_slug": "tba-protective-solutions",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708531691/production/Company/4632/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625605390/production/CategoryImage/444/category_image/Plastics_03.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial & Transport Packaging",
+            "Housings & Enclosures",
+            "Industrial Automation",
+            "Consumer Electronics",
+            "Appliances & Electronics",
+            "Devices & Assemblies",
+            "Parts & Components",
+            "Packaging"
+        ],
+        "Product Families": [
+            "Polyolefins",
+            "Basic Thermoplastics"
+        ],
+        "Chemical Family": [
+            "Polyolefins",
+            "Polypropylenes (PP)"
+        ],
+        "Polymer Name": [
+            "Polypropylene Compound (PP Compound)"
+        ],
+        "End Uses": [
+            "Appliances",
+            "Lawn Equipment",
+            "Garden Equipment",
+            "Housings",
+            "Containers",
+            "Electrical/Electronic Applications",
+            "Electrical Components",
+            "Safety Equipment"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polypropylene Compound (PP Compound)"
+        ],
+        "Processing Methods": [
+            "Extrusion",
+            "Injection Molding"
+        ],
+        "Additives Included": [
+            "Anti-Static Agent"
+        ],
+        "Melt Flow Index": [
+            "0.5 - 0.5 g/10 min"
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "id": 393409,
+    "brand": "zappa",
+    "name": "CROSBY HOPS GR Hersbrucker",
+    "slug": "crosby-hops-gr-hersbrucker",
+    "description": "GR Hersbrucker is a delicate stunner from the Hallertau region of southern Germany, this noble variety with moderate yields is often grown in place of the famous Hallertauer Mittelfrüh thanks to increased disease resistance. Spicy, floral notes reign, while hay, tobacco, and citrus may also shine through.",
+    "company_name": "CROSBY HOPS",
+    "company_slug": "crosby-hops",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686109312/production/Company/48916/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606846/production/CategoryImage/500/category_image/FoodNutrition_01.jpg",
+    "properties": {
+        "Applications": [
+            "Beverage",
+            "Beer Brewing"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Plant & Herb Products & Extracts"
+        ],
+        "Flavor Family": [
+            "Herb Flavors",
+            "Fruit Flavors"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Hops"
+        ],
+        "Features": [
+            "Imparts Flavor"
+        ]
+    }
+}

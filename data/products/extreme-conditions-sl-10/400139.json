@@ -1,0 +1,40 @@
+{
+    "id": 400139,
+    "brand": "extreme-conditions-sl-10",
+    "name": "Penetrating Oil SL-10™",
+    "slug": "penetrating-oil-sl-10",
+    "description": "Penetrating Oil SL-10™ is a penetrating oil and heavy-duty spray lubricant that contains Muscle Metal Treatment MT-10® technology and Power-Lift Grease PL-10™ lubrication. SL-10™ quickly penetrates into hard-to-reach areas to loosen seized and corroded, nuts, bolts and other metal mechanisms. SL-10™ also provides long-lasting protection from rust and corrosion. It is a heavy-duty penetrating oil and spray lubricant designed to quickly penetrate into hard-to-reach areas to loosen seized and corroded nuts and bolts and provide long-lasting lubrication.",
+    "company_name": "Muscle Products",
+    "company_slug": "muscle-products",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1682593055/production/Company/51029/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Wire & Cable",
+            "Chemical & Industrial Manufacturing",
+            "Other Wire & Cable Applications",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Lubricants & Oils",
+            "Fluids & Lubricants"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Penetrating Oils"
+        ],
+        "Application Area": [
+            "Crane Cables",
+            "Pulleys",
+            "Wire Cables",
+            "Chains",
+            "Hinges"
+        ],
+        "Features": [
+            "Corrosion Resistant",
+            "Low Pressure Application",
+            "Good Penetration"
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "id": 415373,
+    "brand": "isotack",
+    "name": "IsoBite™ Tape",
+    "slug": "isobite-tape",
+    "description": "IsoBite is a premium butyl tape, backed by a high-strength, stitch-bonded, fleece facer.",
+    "company_name": "Isothermal Protective Coatings",
+    "company_slug": "isothermal-protective-coatings",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1682593258/production/Brand/32369/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608477/production/CategoryImage/562/category_image/BuildingConstruction_06.jpg",
+    "properties": {
+        "Applications": [
+            "Building Envelope & Roofing",
+            "Other Building Envelope & Roofing Applications"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Pressure Sensitive Adhesives & Tapes"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Tape"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal"
+        ],
+        "Features": [
+            "High Strength",
+            "Excellent Substrate Adhesion"
+        ]
+    }
+}

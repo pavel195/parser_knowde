@@ -1,0 +1,46 @@
+{
+    "id": 427126,
+    "brand": "technicoll",
+    "name": "Technicoll® 8058",
+    "slug": "technicoll-8058",
+    "description": "Technicoll® 8058 is a contact adhesive with high initial strength.",
+    "company_name": "Technicoll",
+    "company_slug": "technicoll",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1682593279/production/Brand/33835/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Leather & Textiles",
+            "Leather Manufacturing"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Contact Adhesives"
+        ],
+        "Chemical Family": [
+            "Polychloroprenes"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Contact Adhesive"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Elastomers & Rubbers",
+            "Painted Surfaces",
+            "Coated Surfaces",
+            "Metal",
+            "Polyurethane",
+            "Leather",
+            "Fibers & Fabrics",
+            "Wood",
+            "Plastics"
+        ],
+        "Application Method": [
+            "Spray"
+        ],
+        "Chemical Family": [
+            "Polychloroprenes"
+        ]
+    }
+}

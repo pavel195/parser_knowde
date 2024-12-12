@@ -1,0 +1,51 @@
+{
+    "id": 387295,
+    "brand": "tipp-enripro",
+    "name": "Tipperary-Operative Creamery Block IRISH Emmental Cheese",
+    "slug": "tipperary-operative-creamery-block-irish-emmental-cheese",
+    "description": "Block IRISH Emmental Cheese has a smooth rich texture, sweet nutty taste and delicate fragrant aroma and natural eye formation that characterize this iconic cheese.",
+    "company_name": "Tipperary-Operative Creamery",
+    "company_slug": "tipperary-operative-creamery",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686105142/production/Company/47139/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606914/production/CategoryImage/502/category_image/FoodNutrition_03.jpg",
+    "properties": {
+        "Applications": [
+            "Food",
+            "Bakery",
+            "Convenience Foods",
+            "Savory & Culinary"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Dairy Products"
+        ],
+        "End Uses": [
+            "Soups",
+            "Ready Meals",
+            "Salad Dressing",
+            "Sauces",
+            "Rolls",
+            "Pizza"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Processed Emmental"
+        ],
+        "Labeling Claims": [
+            "Halal",
+            "Kosher",
+            "Additive-free",
+            "Vegetarian"
+        ],
+        "Certifications & Compliance": [
+            "Kosher",
+            "ISO 50001",
+            "Halal",
+            "GFSI Certified"
+        ],
+        "Features": [
+            "Smooth Texture"
+        ]
+    }
+}

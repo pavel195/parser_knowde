@@ -1,0 +1,40 @@
+{
+    "id": 387653,
+    "brand": "diamond-tapes",
+    "name": "Diamond Tapes™ Aluglass Hot Melt Tape",
+    "slug": "diamond-tapes-aluglass-hot-melt-tape",
+    "description": "Diamond Tapes™ Aluglass Hot Melt Tape is an aluminum glass cloth back tape with 7u, FR Glue and 12 by 12 mesh glass cloth which is merged with high performance hot melt adhesive and finally given protection by silicone release paper.",
+    "company_name": "Hira Technologies",
+    "company_slug": "hira-technologies",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520154/production/Brand/29104/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608972/production/CategoryImage/588/category_image/AdhesivesSealants_05.jpg",
+    "properties": {
+        "Applications": [
+            "Tapes & Labels",
+            "Tapes, Labels & Adhesives",
+            "Building Envelope & Roofing",
+            "Chemical & Industrial Manufacturing",
+            "Other Building Envelope & Roofing Applications",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Hot Melt Adhesives"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Hot Melt Adhesive"
+        ],
+        "Application Area": [
+            "Universal Joints"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Aluminum",
+            "Glass",
+            "Metal",
+            "Wool",
+            "Textiles"
+        ]
+    }
+}

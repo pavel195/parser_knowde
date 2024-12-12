@@ -1,0 +1,51 @@
+{
+    "id": 372392,
+    "brand": "petro",
+    "name": "Eka HP C (Chemical Grade)",
+    "slug": "eka-hp-c-chemical-grade",
+    "description": "Eka HP C (Chemical Grade) hydrogen peroxide solutions are clear, colorless and water-like in appearance. They are available in a number of different concentrations.",
+    "company_name": "Nouryon",
+    "company_slug": "nouryon",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1624302934/production/Company/4/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1624302766/production/Company/4/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Treatment Products",
+            "Oral Care",
+            "Hair Care",
+            "Chemical Manufacturing",
+            "Chemical & Industrial Manufacturing",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Oral Care Agents",
+            "Hair Actives",
+            "Skin Actives",
+            "Inorganics",
+            "Cosmetic Actives",
+            "Technical Salts & Inorganics"
+        ],
+        "Chemical Family": [
+            "Peroxides"
+        ],
+        "INCI Name": [
+            "Hydrogen Peroxide"
+        ],
+        "End Uses": [
+            "Hair Bleach",
+            "Acne Treatments",
+            "Electrical/Electronic Applications"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Hydrogen Peroxide"
+        ],
+        "Chemical Name": [
+            "Hydrogen Peroxide"
+        ],
+        "CAS Number": [
+            "7722-84-1"
+        ]
+    }
+}

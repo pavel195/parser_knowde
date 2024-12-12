@@ -1,0 +1,44 @@
+{
+    "id": 386929,
+    "brand": "arctic",
+    "name": "AP-1W™",
+    "slug": "ap-1w",
+    "description": "AP-1W™ is a formulated from bentone clay, AP-1W™ is noted for its high temperature insensitivity, is non melting and does not thicken excessively at temperatures as low as -20°F (-29°C). It has mechanical stability, is water resistant, displays high stability on working, has excellent adhesion to metals, prevents wear and has superior storage life.",
+    "company_name": "Jet-Lube",
+    "company_slug": "jet-lube",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680108882/production/Brand/28989/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Lubricants & Functional Fluids",
+            "Automotive Fluids & Lubricants",
+            "Chemical & Industrial Manufacturing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Greases",
+            "Fluids & Lubricants"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Grease"
+        ],
+        "Application Area": [
+            "Universal Joints",
+            "Slides",
+            "Bearings"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal"
+        ],
+        "Features": [
+            "Corrosion Resistant",
+            "Water Resistant",
+            "Excellent Substrate Adhesion",
+            "Anti-Wear Properties",
+            "Good Mechanical Properties",
+            "Oxidation Resistant"
+        ]
+    }
+}

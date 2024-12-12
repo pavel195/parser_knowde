@@ -1,0 +1,59 @@
+{
+    "id": 117332,
+    "brand": "elix",
+    "name": "Elix™ ABS P2MC",
+    "slug": "elix-abs-p2mc",
+    "description": "Electroplating grade. Benefits: High Galvano quality for class A surfaces; High flowability. Applications: Shower heads and other sanitary chromed parts, Cosmetic packaging, chromed kitchen products.",
+    "company_name": "ELIX Polymers, S.L.",
+    "company_slug": "elix-polymers",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708523289/production/Product/117332/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708523289/production/Brand/9953/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Non-Food Consumer Packaging",
+            "Appliances & Electronics",
+            "Medical Devices & Assemblies",
+            "Consumer Electronics",
+            "Other Devices & Assemblies",
+            "Exterior & Body",
+            "Other Consumer Goods Applications",
+            "Interior",
+            "Other Automotive Applications",
+            "Housewares",
+            "Automotive",
+            "Devices & Assemblies",
+            "Medical",
+            "Packaging"
+        ],
+        "Product Families": [
+            "Styrenics",
+            "Basic Thermoplastics"
+        ],
+        "Chemical Family": [
+            "Acrylonitrile Butadiene Styrene (ABS)",
+            "Styrenics"
+        ],
+        "Polymer Name": [
+            "Acrylonitrile Butadiene Styrene (ABS)"
+        ],
+        "End Uses": [
+            "Consumer Applications",
+            "Handles",
+            "Cosmetic Packaging",
+            "Automotive Applications",
+            "Bathroom Accessories",
+            "Kitchenware"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Acrylonitrile Butadiene Styrene (ABS)"
+        ],
+        "Processing Methods": [
+            "Injection Molding"
+        ],
+        "Melt Flow Index": [
+            "6.0 - 6.0 g/10 min"
+        ]
+    }
+}

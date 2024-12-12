@@ -1,0 +1,44 @@
+{
+    "id": 254236,
+    "brand": "fitomix",
+    "name": "Liquirab",
+    "slug": "liquirab",
+    "description": "Liquirab 100 is Liquid Arabic gum with stabilizing power and to improve mouthfeel.",
+    "company_name": "Dal Cin Gildo Spa",
+    "company_slug": "dal-cin-gildo-spa",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708685470/production/Company/19798/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708685470/production/Company/19798/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Oenology",
+            "Beverage"
+        ],
+        "Product Families": [
+            "Starches & Thickeners",
+            "Gums & Hydrocolloids",
+            "Stabilizers",
+            "Texture & Consistency"
+        ],
+        "End Uses": [
+            "Wine"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Acacia Gum"
+        ],
+        "Functions": [
+            "Stabilizer",
+            "Mouthfeel Improvement"
+        ],
+        "Labeling Claims": [
+            "Non-GMO"
+        ],
+        "Physical Form": [
+            "Liquid"
+        ],
+        "End Uses": [
+            "Wine"
+        ]
+    }
+}

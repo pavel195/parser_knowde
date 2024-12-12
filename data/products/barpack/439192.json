@@ -1,0 +1,44 @@
+{
+    "id": 439192,
+    "brand": "barpack",
+    "name": "Recyplast®",
+    "slug": "recyplast",
+    "description": "Barbier Group Recyplast® is the only film to use LDPE granules obtained from the regeneration of post-used plastic waste. in this up to 50% of post-use recycled material is incorporated.",
+    "company_name": "Barbier Group",
+    "company_slug": "barbier-group",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686149975/production/Company/63641/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609091/production/CategoryImage/594/category_image/PrintingPackaging_05.jpg",
+    "properties": {
+        "Applications": [
+            "Packaging",
+            "Industrial & Transport Packaging",
+            "Non-Food Consumer Packaging"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Polyethylenes",
+            "Polyolefins"
+        ],
+        "Polymer Name": [
+            "Low Density Polyethylene (LDPE)"
+        ],
+        "End Uses": [
+            "Film",
+            "Shrink Hood"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Low Density Polyethylene (LDPE)"
+        ],
+        "Physical Form": [
+            "Film"
+        ],
+        "Features": [
+            "Excellent Transparency Properties",
+            "Consistent High Quality"
+        ]
+    }
+}

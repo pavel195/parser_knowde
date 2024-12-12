@@ -1,0 +1,48 @@
+{
+    "id": 415649,
+    "brand": "xl2000",
+    "name": "KECO 400BV",
+    "slug": "keco-400bv",
+    "description": "KECO 400BV Thermal Barrier coating is designed for both metal and non metal substrates. This coating will withstand extreme temperatures up to 1600°F without discoloring. KECO 400BV provides excellent protection against corrosive environments and thermal shock. This coating is meant to last and will maintain excellent adhesion even after several thermal cycles. KECO 400BV is VOC-exempt, and cures at room temperature.",
+    "company_name": "KECO Engineered Coatings",
+    "company_slug": "keco-engineered-coatings",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520224/production/Brand/32418/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608779/production/CategoryImage/578/category_image/AutomotiveTransportation_06.jpg",
+    "properties": {
+        "Applications": [
+            "Coatings & Finishes",
+            "Industrial Coatings",
+            "Automotive OEM Coatings"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ],
+        "Chemical Family": [
+            "Ceramics"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Coating"
+        ],
+        "Features": [
+            "High Temperature Resistance",
+            "Corrosion Resistant",
+            "Thermal Shock Resistant",
+            "Heat Resistance",
+            "Thermally Insulating",
+            "Good Adhesion"
+        ],
+        "Application Area": [
+            "Automotive Engine"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Ceramic"
+        ],
+        "Chemical Family": [
+            "Ceramics"
+        ]
+    }
+}

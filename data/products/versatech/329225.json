@@ -1,0 +1,61 @@
+{
+    "id": 329225,
+    "brand": "versatech",
+    "name": "Ex-Tech Plastics TFF02000",
+    "slug": "ex-tech-plastics-tff02000",
+    "description": "TFF02000 is no fuss, no muss, just a great all-purpose, food-safe sheet made from 99% bio-based materials and some extra herbs and spices for added flexibility.",
+    "company_name": "Ex-Tech Plastics",
+    "company_slug": "ex-tech-plastics",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709127467/production/Company/32013/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609117/production/CategoryImage/596/category_image/PrintingPackaging_07.jpg",
+    "properties": {
+        "Applications": [
+            "Food & Beverage Packaging",
+            "Non-Food Consumer Packaging",
+            "Packaging"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Polylactic Acid (PLA)",
+            "Polyesters"
+        ],
+        "Polymer Name": [
+            "Polylactic Acid (PLA)"
+        ],
+        "End Uses": [
+            "Cosmetic Packaging",
+            "Thermoforming Applications",
+            "Thermoformed Containers",
+            "Food Packaging"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polylactic Acid (PLA)"
+        ],
+        "Physical Form": [
+            "Sheets"
+        ],
+        "Features": [
+            "Oxygen Barrier",
+            "Recyclable",
+            "Compostable",
+            "High Impact Resistance",
+            "Excellent Transparency Properties",
+            "Excellent Flexibility",
+            "Low Emissions",
+            "Low Density",
+            "High Clarity",
+            "Low Energy Consumption",
+            "High Rigidity"
+        ],
+        "Density": [
+            "1240.0 - 1240.0 kg/m³"
+        ],
+        "Tensile Modulus": [
+            "2700.0 - 2700.0 MPa"
+        ]
+    }
+}

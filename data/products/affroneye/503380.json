@@ -1,0 +1,35 @@
+{
+    "id": 503380,
+    "brand": "affroneye",
+    "name": "Pharmactive Biotech Echinacea P.E - 4% Polyphenols",
+    "slug": "pharmactive-biotech-echinacea-p-e-4-polyphenols",
+    "description": "Pharmactive Biotech Echinacea P.E - 4% Polyphenols, is presented as a yellowish-brown powder. Its attributes include being non-GMO, BSE-free, TSE-free, and free from irradiation, ensuring high-quality standards.",
+    "company_name": "Pharmactive Biotech Products",
+    "company_slug": "pharmactive-biotech-products",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1710156382/production/Company/38223/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1710156382/production/Product/503380/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Phytochemicals & Plant Extracts",
+            "Nutraceuticals & Supplements"
+        ],
+        "Ingredient Name": [
+            "Echinacea Extract"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Echinacea Extract"
+        ],
+        "Active Component": [
+            "Polyphenols"
+        ],
+        "Physical Form": [
+            "Powder"
+        ]
+    }
+}

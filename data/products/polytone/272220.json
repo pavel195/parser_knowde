@@ -1,0 +1,44 @@
+{
+    "id": 272220,
+    "brand": "polytone",
+    "name": "POLYTONE® K94",
+    "slug": "polytone-k94",
+    "description": "POLYTONE™ K-94 is practically acidless, unsaponifiable Ketone Formaldehyde Resin which is very light in color, has excellent light resistance and show but very slight tendency to solvent retention. Addition of this resin in general improves gloss, hardness, filling, adhesive strength and durability",
+    "company_name": "Polyols and Polymers",
+    "company_slug": "polyols-and-polymers",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691739677/production/Company/20954/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609128/production/CategoryImage/597/category_image/PrintingPackaging_08.jpg",
+    "properties": {
+        "Applications": [
+            "Furniture",
+            "Wood Coatings & Finishes",
+            "Primers & Lacquers",
+            "Offset & Lithographic Printing",
+            "Other Printing Applications",
+            "Gravure Printing",
+            "Furniture Coatings",
+            "Flexography",
+            "Building & Construction",
+            "Industrial Coatings",
+            "Packaging Coatings",
+            "Printing & Inks"
+        ],
+        "Product Families": [
+            "Other Resins & Binders",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Formaldehyde Based Resins"
+        ],
+        "End Uses": [
+            "Offset Ink",
+            "Gravure Ink",
+            "Flexography Ink",
+            "Varnishes",
+            "Primer",
+            "Lacquers",
+            "Base Coat"
+        ]
+    },
+    "summary": {}
+}

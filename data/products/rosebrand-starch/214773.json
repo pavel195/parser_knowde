@@ -1,0 +1,86 @@
+{
+    "id": 214773,
+    "brand": "rosebrand-starch",
+    "name": "ROSEBRAND CASSBAKE 101",
+    "slug": "rosebrand-cassbake-101",
+    "description": "CASSBAKE™ 101 is a premium quality gluten-free product. It is easy to use in recipes in place of traditional grain-based flour or gluten-free flour blend especially in baking products.",
+    "company_name": "THAI WAH",
+    "company_slug": "thai-wah",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1668027019/production/Product/214773/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1595515827/production/Product/214773/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Feed Production & Processing",
+            "Pulping & Processing",
+            "Textile Manufacturing",
+            "Cereals & Snacks",
+            "Other Food Applications",
+            "Desserts & Fruit Preparations",
+            "Savory & Culinary",
+            "Confectionery",
+            "Bakery",
+            "Animal Health & Nutrition",
+            "Food",
+            "Paper & Pulp",
+            "Leather & Textiles"
+        ],
+        "Product Families": [
+            "Emulsifiers, Stabilizers & Thickeners",
+            "Rheology Modifiers",
+            "Pulping Chemicals",
+            "Finishing Additives & Treatments",
+            "Texturizers",
+            "Stabilizers",
+            "Flours & Grains Products",
+            "Starches & Thickeners",
+            "Functional Additives",
+            "Whole Foods, Extracts & Premixes",
+            "Production Aids and Processing Additives",
+            "Texture & Consistency",
+            "Paper & Pulp Chemicals",
+            "Textile & Leather Chemicals"
+        ],
+        "Ingredient Name": [
+            "Cassava Flour"
+        ],
+        "End Uses": [
+            "Pizza",
+            "Cookies",
+            "Chocolates",
+            "Bread",
+            "Brownies",
+            "Biscuits",
+            "Waffles",
+            "Pancakes"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Cassava Flour"
+        ],
+        "Functions": [
+            "Texturizing Agent",
+            "Stabilizer",
+            "Thickener"
+        ],
+        "Labeling Claims": [
+            "Halal",
+            "Allergen-free",
+            "Natural",
+            "Naturally Derived",
+            "Kosher",
+            "Plant-Based",
+            "Gluten-free",
+            "Clean Label",
+            "Non-GMO"
+        ],
+        "Certifications & Compliance": [
+            "Halal",
+            "Hazard Analysis Critical Control Point (HACCP)",
+            "ISO 9001",
+            "Kosher",
+            "GMP",
+            "FSSC 22000"
+        ]
+    }
+}

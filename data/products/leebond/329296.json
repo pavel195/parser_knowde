@@ -1,0 +1,35 @@
+{
+    "id": 329296,
+    "brand": "leebond",
+    "name": "Leecast 38-191",
+    "slug": "leecast-38-191",
+    "description": "LEECAST 38-191 is a proprietary two-part epoxy adhesive and encapsulating compound. It has been used extensively for potting lead wires in UL-listed commercial gasoline pumps. LEECAST 38-191 has exceptional chemical resistance, especially in respect to gasoline, various gasoline alcohol additives, and other aggressive organic solvents. It also features fast room temperature cure and excellent adhesion to a variety of wire coatings and other substrates. It is formulated with enough thixotropy to inhibit sag on vertical surfaces and self-leveling when applied in a bead on horizontal surfaces.",
+    "company_name": "Leepoxy Plastics",
+    "company_slug": "leepoxy-plastics",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686104211/production/Brand/23756/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608982/production/CategoryImage/589/category_image/AdhesivesSealants_06.jpg",
+    "properties": {
+        "Applications": [
+            "Packaging & Assembly",
+            "Wire & Cable",
+            "Potting Compounds",
+            "Other Wire & Cable Applications"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Other Adhesives & Sealants"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Epoxy Adhesive",
+            "2K (2 component) Adhesive"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "id": 403552,
+    "brand": "chemeon",
+    "name": "Chemeon Cleaner 1100",
+    "slug": "chemeon-surface-technology-chemeon-cleaner-1100",
+    "description": "Chemeon Cleaner 1100 is Heave duty cleaner for Buffing compounds, oils, grease, soils.\r\n",
+    "company_name": "CHEMEON Surface Technology",
+    "company_slug": "chemeon-surface-technology",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292181/production/Brand/30873/logo/image.png",
+    "banner_url": "https://static.knowde.com/card-banners/knowde-card-for-raw-materials-8.jpg",
+    "properties": {
+        "Applications": [
+            "Home Care",
+            "Institutional & Industrial Care",
+            "Surface Care",
+            "Industrial Cleaning"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Industrial Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Alkaline Cleaners"
+        ],
+        "Features": [
+            "Effective Soil Removal",
+            "Low Foaming",
+            "Degreasing"
+        ]
+    }
+}

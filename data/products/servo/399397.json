@@ -1,0 +1,50 @@
+{
+    "id": 399397,
+    "brand": "servo",
+    "name": "LIQUID GARD™ Liquid Antimicrobial",
+    "slug": "liquid-gard-liquid-antimicrobial",
+    "description": "LIQUID GARD™ Liquid Antimicrobial forms a durable and protective barrier on high-touch surfaces. This antimicrobial technology is highly effective against MRSA, Salmonella, Listeria, E. coli, Staphylococcus and dozens of dangerous organisms: including many gram-positive and gram-negative bacteria. This is designed to protect the health and well-being of both people and planet, our performance additives serve to reduce environmental impact while profoundly enhancing the behavior and beneficial properties of plastic.",
+    "company_name": "Smart Plastics",
+    "company_slug": "smart-plastics",
+    "logo_url": null,
+    "banner_url": "https://media.knowde.com/image/upload/v1625609117/production/CategoryImage/596/category_image/PrintingPackaging_07.jpg",
+    "properties": {
+        "Applications": [
+            "Switches & Relays",
+            "Pavement, Highways, Roads & Bridges",
+            "Other Flooring & Surface Applications",
+            "Wall Panels",
+            "Building Materials",
+            "Flooring & Surfaces",
+            "Infrastructure, Roads & Paving",
+            "Parts & Components"
+        ],
+        "Product Families": [
+            "Microbial Control",
+            "Polymer Additives"
+        ],
+        "End Uses": [
+            "Wall Panels",
+            "Switches",
+            "Flooring"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Anti-Microbial Agent"
+        ],
+        "End Uses": [
+            "Switches",
+            "Flooring",
+            "Wall Panels"
+        ],
+        "Features": [
+            "Food Contact Acceptable",
+            "Long Term Protection",
+            "Rapid Drying Properties",
+            "Drinking Water Contact Acceptable",
+            "Recyclable",
+            "Durable"
+        ]
+    }
+}

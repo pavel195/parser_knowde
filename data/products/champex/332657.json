@@ -1,0 +1,33 @@
+{
+    "id": 332657,
+    "brand": "champex",
+    "name": "Bilberon®",
+    "slug": "bilberon",
+    "description": "Bilberon® is 100% wild grown, high quality, and clinically tested anthocyanin-rich bilberry extract for relieving eye-strain.",
+    "company_name": "Maypro",
+    "company_slug": "maypro",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1693580866/production/Product/332657/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1693580866/production/Product/332657/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Nutraceuticals & Supplements",
+            "Functional Foods",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Phytochemicals & Plant Extracts",
+            "Fruit Products & Extracts",
+            "Nutrition & Fortification",
+            "Whole Foods, Extracts & Premixes",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Dietary Supplements",
+            "Nutraceuticals",
+            "Functional Foods"
+        ]
+    },
+    "summary": {}
+}

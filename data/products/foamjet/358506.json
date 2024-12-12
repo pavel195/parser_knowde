@@ -1,0 +1,43 @@
+{
+    "id": 358506,
+    "brand": "foamjet",
+    "name": "Adesilex Pg1",
+    "slug": "adesilex-pg1",
+    "description": "Adesilex PG1 is two-component thixotropic epoxy adhesives for structural bonding.",
+    "company_name": "Mapei Spa",
+    "company_slug": "mapei-spa",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520035/production/Brand/26731/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608939/production/CategoryImage/585/category_image/AdhesivesSealants_02.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Construction Chemicals",
+            "Adhesives",
+            "Other Building & Construction Applications",
+            "Construction Adhesives"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Structural Adhesives"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Structural Adhesive",
+            "Epoxy Adhesive",
+            "2K (2 component) Adhesive"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Concrete"
+        ],
+        "Application Method": [
+            "Trowel"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    }
+}

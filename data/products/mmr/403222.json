@@ -1,0 +1,40 @@
+{
+    "id": 403222,
+    "brand": "mmr",
+    "name": "MMR™ Restoration Cleaner",
+    "slug": "mmr-restoration-cleaner",
+    "description": "MMR™ Restoration Cleaner is a safe and highly efficient alternative to aggressive and/or harsh cleaners traditionally used for cleaning masonry, tile and stone surfaces. MMR Restoration Cleaner is an alkaline, ambient temperature cleaner designed to remove mold, mildew, algae, moss, dirt, grease, black streaks, and many other biological deposits from new and existing surfaces.",
+    "company_name": "Chemical Products Industries, Inc.",
+    "company_slug": "chemical-products-industries",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1682593118/production/Brand/30813/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1626797286/production/CategoryImage/958/category_image/BaseChemicals_06.jpg",
+    "properties": {
+        "Applications": [
+            "Institutional & Industrial Care",
+            "Industrial Cleaning"
+        ],
+        "Product Families": [
+            "Commercial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Tile",
+            "Grout",
+            "Stone",
+            "Wood",
+            "Brick",
+            "Concrete",
+            "Marble"
+        ],
+        "Features": [
+            "Water-based",
+            "Degreasing",
+            "Low Odor"
+        ]
+    }
+}

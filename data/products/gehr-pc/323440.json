@@ -1,0 +1,61 @@
+{
+    "id": 323440,
+    "brand": "gehr-pc",
+    "name": "GEHR PEEK® 20 TF (GLIDE)",
+    "slug": "gehr-peek-20-tf-glide",
+    "description": "GEHR PEEK® 20 TF (GLIDE) is made in response to enquiries for a material with the properties of natural-colored PEEK but with optimized sliding properties. Although PTFE additives in plastics often lead to a fibrous surface, we were able to achieve an almost shiny surface during processing. This material was developed to optimize the performance of PEEK in friction and wear applications by offering improved lubricity and reduced friction compared to standard PEEK. It offers all the standard advantages associated with standard PEEK resins, such as high mechanical strength and rigidity, excellent thermal oxidative stability, fatigue resistance and excellent resistance to tough chemical environments. Here, it offers clear advantages over the materials PEK, PEKK or PEKEKK.",
+    "company_name": "GEHR",
+    "company_slug": "gehr",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686150325/production/Brand/23064/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Parts & Components",
+            "Housings & Enclosures",
+            "Chemical & Industrial Manufacturing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Polyether Ether Ketone (PEEK)"
+        ],
+        "Polymer Name": [
+            "Polyetheretherketone (PEEK)"
+        ],
+        "End Uses": [
+            "Industrial Parts",
+            "Electrical Housing"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyetheretherketone (PEEK)"
+        ],
+        "Physical Form": [
+            "Custom",
+            "Rods"
+        ],
+        "Features": [
+            "Improved Stick-Slip Response",
+            "Excellent Mechanical Strength",
+            "Good Abrasion Resistance",
+            "Odorless",
+            "High Rigidity",
+            "High Thermo-Oxidative Stability",
+            "Good Sliding Properties",
+            "Electrically Insulating",
+            "Chemical Resistant",
+            "Reduced Friction",
+            "Fatigue Resistant",
+            "Excellent Lubricity"
+        ],
+        "Density": [
+            "1300.0 - 1550.0 kg/m³"
+        ],
+        "Color": [
+            "Black"
+        ]
+    }
+}

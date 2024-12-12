@@ -1,0 +1,33 @@
+{
+    "id": 313518,
+    "brand": "lipicorn",
+    "name": "Lipicorn NP",
+    "slug": "lipicorn-np",
+    "description": "Lipicorn NP is a special product for non-palm based microwave popcorn, with high resistance to oxidation that provides good temperature transmission to all corn kernels.\r\n",
+    "company_name": "Lípidos Santiga S.A.",
+    "company_slug": "lipidos-santiga-s-a",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686109180/production/Product/313518/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606934/production/CategoryImage/504/category_image/FoodNutrition_05.jpg",
+    "properties": {
+        "Applications": [
+            "Food",
+            "Cooking Oils & Fat Products"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Edible Oils & Fats"
+        ],
+        "End Uses": [
+            "Frying Oil"
+        ]
+    },
+    "summary": {
+        "Physical Form": [
+            "Liquid"
+        ],
+        "Features": [
+            "High Quality",
+            "High Temperature Resistance"
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "id": 442978,
+    "brand": "primelt",
+    "name": "PriMelt™ 3017",
+    "slug": "primelt-3017",
+    "description": "PriMelt™ 3017 is an aggressive tack, full PSA. It is applicable in extrusion, roll to roll, hand, and slotted dye.",
+    "company_name": "Prime Blend",
+    "company_slug": "prime-blend",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520164/production/Company/46231/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608953/production/CategoryImage/586/category_image/AdhesivesSealants_03.jpg",
+    "properties": {
+        "Applications": [
+            "Tapes & Labels",
+            "Tapes, Labels & Adhesives"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Pressure Sensitive Adhesives & Tapes"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Pressure Sensitive Adhesive"
+        ],
+        "Application Method": [
+            "Roller",
+            "Slot-Die"
+        ],
+        "Features": [
+            "Tacky"
+        ]
+    }
+}

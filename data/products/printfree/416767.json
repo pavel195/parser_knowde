@@ -1,0 +1,45 @@
+{
+    "id": 416767,
+    "brand": "printfree",
+    "name": "HEA® High Efficency Anti-Reflection Coating",
+    "slug": "hea-high-efficency-anti-reflection-coating",
+    "description": "HEA® High Efficency Anti-Reflection Coating forms the building block for higher performing displays by offering crisp images, bright colors, unparalleled viewability, and glare reduction.",
+    "company_name": "MAC Thin Films",
+    "company_slug": "mac-thin-films",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520223/production/Brand/32575/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607546/production/CategoryImage/524/category_image/ElectricalElectronics_09.jpg",
+    "properties": {
+        "Applications": [
+            "Coatings & Finishes",
+            "Medical",
+            "Displays",
+            "Medical Devices & Assemblies",
+            "Aerospace Coatings",
+            "Aerospace & Aviation",
+            "Devices & Assemblies",
+            "Transportation"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Other Paints & Coatings"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Coating"
+        ],
+        "Application Area": [
+            "Signage"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Glass"
+        ],
+        "Features": [
+            "Non-reflective",
+            "High Efficiency",
+            "High Durability",
+            "Durable",
+            "High Performance"
+        ]
+    }
+}

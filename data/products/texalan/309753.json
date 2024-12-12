@@ -1,0 +1,52 @@
+{
+    "id": 309753,
+    "brand": "texalan",
+    "name": "TEXALAN® 271D",
+    "slug": "texalan-271d",
+    "description": "TEXALAN® 271D This product is safe and environmentally friendly, has excellent abrasion resistance, solvent resistance, good hand feeling, repeated benefits, High utilization rate, high strength and excellent processing performance.",
+    "company_name": "Austin Novel Materials",
+    "company_slug": "austin-novel-materials",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708521839/production/Product/309753/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608769/production/CategoryImage/577/category_image/AutomotiveTransportation_05.jpg",
+    "properties": {
+        "Applications": [
+            "Furniture",
+            "Footwear",
+            "Other Automotive Applications",
+            "Sports & Recreation",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Polyurethanes",
+            "Thermoset Resins"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ],
+        "Polymer Name": [
+            "Polyurethane (unspecified)"
+        ],
+        "End Uses": [
+            "Automotive Exterior Parts",
+            "Automotive Applications"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyurethane (unspecified)"
+        ],
+        "Processing Methods": [
+            "Injection Molding"
+        ],
+        "End Uses": [
+            "Automotive Exterior Parts",
+            "Automotive Applications"
+        ],
+        "Density": [
+            "1210.0 - 1250.0 kg/m³"
+        ],
+        "Tensile Strength": [
+            "46.0 - 46.0 MPa"
+        ]
+    }
+}

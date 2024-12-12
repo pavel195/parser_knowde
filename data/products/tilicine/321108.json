@@ -1,0 +1,80 @@
+{
+    "id": 321108,
+    "brand": "tilicine",
+    "name": "Jericine SB",
+    "slug": "jericine-sb",
+    "description": null,
+    "company_name": "Greentech",
+    "company_slug": "greentech",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709127464/production/Product/321108/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1709127464/production/Product/321108/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Other Beauty & Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Skin Actives",
+            "Botanical Ingredients & Extracts",
+            "Conditioners & Emollients",
+            "Cosmetic Actives",
+            "Vitamins, Extracts & Oils",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Potassium Sorbate",
+            "Sodium Benzoate",
+            "Citric Acid",
+            "Selaginella Lepidophylla Extract"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Citric Acid",
+            "Sodium Benzoate",
+            "Selaginella Lepidophylla Extract",
+            "Potassium Sorbate"
+        ],
+        "Functions": [
+            "Anti-Aging Agent",
+            "Moisturizing Agent"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Plant Origin"
+        ],
+        "Labeling Claims": [
+            "Glycol ether-free",
+            "BSE-free",
+            "Nanomaterials-free",
+            "Credo Clean Standard",
+            "Clean at Sephora",
+            "TSE-free",
+            "VOC-free",
+            "Impurities-free",
+            "EDTA-free",
+            "Not Tested on Animals",
+            "Nitrosamines-free",
+            "Non-Irritant",
+            "Allergen-free",
+            "Natural",
+            "Vegan",
+            "Solvent-free",
+            "Ulta Beauty's Conscious Beauty",
+            "Phthalates-free",
+            "Sustainable",
+            "GMO-free",
+            "Gluten-free",
+            "Halal",
+            "CMR Substances-free"
+        ],
+        "Certifications & Compliance": [
+            "FDA Compliant",
+            "Halal",
+            "ISO 22716",
+            "EU Cosmetic Regulation 1223/2009 Compliant",
+            "ISO 16128",
+            "GMP"
+        ]
+    }
+}

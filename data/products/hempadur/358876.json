@@ -1,0 +1,35 @@
+{
+    "id": 358876,
+    "brand": "hempadur",
+    "name": "Hempadur 15570",
+    "slug": "hempadur-15570",
+    "description": "Hempadur 15570 is a two component, polyamide-adduct cured epoxy paint, which cures to a strong and highly corrosion resistant coating, at temperatures down to -10°C/14°F. The Micaceous Iron Oxide pigmented reddish gray 12430 shade is also well suited for application under humid conditions, on damp steel surfaces, and may be applied on moist surfaces. The grayish yellow 21780 and the gray 11320 shades contains zinc phosphate. Complies with EU Directive 2004/42/EC, The Paints Directive on the limitation of volatile organic compounds: subcategory j.",
+    "company_name": "Hempel A/S",
+    "company_slug": "hempel-a-s",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1673942277/production/Brand/26768/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Maintenance, Repair & Overhaul"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers",
+            "Protective Coatings"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "2K (2 component) Coating",
+            "Primer"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Steel",
+            "Metal"
+        ],
+        "Features": [
+            "Low Temperature Curing",
+            "Corrosion Resistant"
+        ]
+    }
+}

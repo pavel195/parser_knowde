@@ -1,0 +1,28 @@
+{
+    "id": 343482,
+    "brand": "zeoprime",
+    "name": "PERFORMINS EQUINE",
+    "slug": "performins-equine",
+    "description": "Performins Equine composed of a wide range of vitamins and minerals. Performins Equine boosts the development of lean muscle mass and strong bones.",
+    "company_name": "Avitech Nutrition",
+    "company_slug": "avitech-nutrition",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708687138/production/Brand/25433/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608215/production/CategoryImage/550/category_image/AgricultureFeed_06.jpg",
+    "properties": {
+        "Applications": [
+            "Other Animal Health & Nutrition",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Vitamins",
+            "Minerals",
+            "Nutritional Ingredients"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Vitamin Source",
+            "Mineral Source"
+        ]
+    }
+}

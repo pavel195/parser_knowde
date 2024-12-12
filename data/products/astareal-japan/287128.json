@@ -1,0 +1,129 @@
+{
+    "id": 287128,
+    "brand": "astareal-japan",
+    "name": "AstaReal® L10",
+    "slug": "astareal-l10",
+    "description": "AstaReal® L10 is a red, viscous oil that contains at least 10% natural astaxanthin. The astaxanthin-rich oil is produced by non-solvent supercritical carbon dioxide extraction of crushed and spray-dried aplanospores of the green microalga Haematococcus pluvialis.\nThis product is available in European countries, China, and Africa.",
+    "company_name": "AstaReal",
+    "company_slug": "astareal-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709127590/production/Company/22748/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1709127590/production/Product/287128/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Skin Care",
+            "Oral",
+            "Pets",
+            "Sports Nutrition",
+            "Nutraceuticals & Supplements",
+            "Functional Foods",
+            "Confectionery",
+            "Animal Health & Nutrition",
+            "Food",
+            "Nutrition & Well Being",
+            "Drug Delivery & Care Solutions",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Feed Supplements",
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Skin Actives",
+            "Marine Extracts",
+            "Antioxidants",
+            "Algae & Extracts",
+            "Cosmetic Actives",
+            "Vitamins, Extracts & Oils",
+            "Nutrition & Fortification",
+            "Whole Foods, Extracts & Premixes",
+            "Nutraceuticals & Supplements",
+            "Health & Well-Being",
+            "Nutritional Ingredients"
+        ],
+        "INCI Name": [
+            "Astaxanthin"
+        ],
+        "Ingredient Name": [
+            "Astaxanthin Oleoresin"
+        ],
+        "End Uses": [
+            "Sports Nutrition",
+            "Chocolates",
+            "Gummies",
+            "Chews",
+            "Nutraceuticals",
+            "Dietary Supplements"
+        ],
+        "Labeling Claims": [
+            "Animal Products-free",
+            "Credo Clean Standard",
+            "Ulta Beauty's Conscious Beauty",
+            "Clean at Sephora",
+            "Informed Ingredient",
+            "Irradiation-free",
+            "GMO-free",
+            "Vegan",
+            "Natural",
+            "Halal",
+            "Kosher",
+            "Non-GMO",
+            "Plant-Based",
+            "Naturally Derived",
+            "Paleo",
+            "Gluten-free",
+            "Grain-free",
+            "Vegetarian",
+            "Solvent-free"
+        ],
+        "Benefit Claims": [
+            "Non-Irradiated",
+            "Antioxidant Properties",
+            "Excellent Stability",
+            "High Quality",
+            "Stimulates Immune System",
+            "Anti-Inflammatory",
+            "Supports Eye Health"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Astaxanthin"
+        ],
+        "Ingredient Name": [
+            "Astaxanthin Oleoresin"
+        ],
+        "Animal Species": [
+            "Pets"
+        ],
+        "Functions": [
+            "Supplement",
+            "Antioxidant"
+        ],
+        "Ingredient Origin": [
+            "Plant Origin",
+            "Marine Origin",
+            "Natural Origin",
+            "Freshwater Origin"
+        ],
+        "Labeling Claims": [
+            "Halal",
+            "Solvent-free",
+            "Informed Ingredient",
+            "Clean at Sephora",
+            "Non-GMO",
+            "Naturally Derived",
+            "Animal Products-free",
+            "Plant-Based",
+            "GMO-free",
+            "Vegan",
+            "Gluten-free",
+            "Credo Clean Standard",
+            "Vegetarian",
+            "Paleo",
+            "Ulta Beauty's Conscious Beauty",
+            "Irradiation-free",
+            "Natural",
+            "Kosher",
+            "Grain-free"
+        ]
+    }
+}

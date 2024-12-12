@@ -1,0 +1,44 @@
+{
+    "id": 406337,
+    "brand": "clr-pro",
+    "name": "CLR PRO® VEHICLE LIME REMOVER",
+    "slug": "clr-pro-vehicle-lime-remover",
+    "description": "Clr Pro® Vehicle Lime Remover is a daily use cleaner to remove scale buildup from industrial and commercial vehicles and equipment.\r\n",
+    "company_name": "CLR Pro",
+    "company_slug": "clr-pro",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292168/production/Brand/31271/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515657/production/CategoryImage/1056/category_image/HII_08.jpg",
+    "properties": {
+        "Applications": [
+            "Home Care",
+            "Institutional & Industrial Care",
+            "Surface Care",
+            "Industrial Cleaning"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Industrial Cleaners",
+            "Commercial Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Acid Cleaners",
+            "Descalers",
+            "Cleaner"
+        ],
+        "Application Areas": [
+            "Equipment",
+            "Hard Surfaces"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Plastics",
+            "Glass",
+            "Aluminum",
+            "Stainless Steel",
+            "Polyvinyl Chloride (PVC)",
+            "Metal",
+            "Elastomers & Rubbers"
+        ]
+    }
+}

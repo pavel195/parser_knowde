@@ -1,0 +1,58 @@
+{
+    "id": 61818,
+    "brand": "ucecoat-waterborne-uv-resin",
+    "name": "BECKOPOX™ EH 694",
+    "slug": "beckopox-eh-694",
+    "description": "BECKOPOX™ EH 694, categorized under CASE Ingredients additives, functions as a hardening agent from the anhydride chemical family. Notably VOC-free, it offers enhanced heat and chemical resistance. Designed for diverse coating applications, including industrial, furniture, metal, and specialty coatings, it's compatible with epoxies and hybrid systems. Available in granules, liquids, and solid forms, it caters to epoxy, hybrid, and powder coating formulations.",
+    "company_name": "allnex",
+    "company_slug": "allnex",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708684375/production/Product/61818/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708684375/production/Product/61818/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Industrial Coatings",
+            "Other Specialty Coatings",
+            "Metal Coatings",
+            "Furniture Coatings",
+            "Specialty Coatings"
+        ],
+        "Product Families": [
+            "Functional Additives",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Anhydrides"
+        ],
+        "End Uses": [
+            "Powder Coating",
+            "Hybrid Coating",
+            "Epoxy Coating"
+        ],
+        "Labeling Claims": [
+            "VOC-free"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Hardener"
+        ],
+        "Chemical Family": [
+            "Anhydrides"
+        ],
+        "End Uses": [
+            "Powder Coating",
+            "Epoxy Coating",
+            "Hybrid Coating"
+        ],
+        "Compatible Polymers & Resins": [
+            "Epoxies (EP)"
+        ],
+        "Labeling Claims": [
+            "VOC-free"
+        ],
+        "Features": [
+            "Heat Resistance",
+            "Improved Chemical Resistance"
+        ]
+    }
+}

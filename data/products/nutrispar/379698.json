@@ -1,0 +1,30 @@
+{
+    "id": 379698,
+    "brand": "nutrispar",
+    "name": "DLG Food Oil Laying Plus",
+    "slug": "dlg-food-oil-laying-plus",
+    "description": "DLG Food Oil Laying Plus is a metabolism activator improves performance of laying hens.",
+    "company_name": "DLG Food Oil",
+    "company_slug": "dlg-food-oil",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686132775/production/Company/45689/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608150/production/CategoryImage/545/category_image/AgricultureFeed_01.jpg",
+    "properties": {
+        "Applications": [
+            "Animal Health & Nutrition",
+            "Birds & Poultry"
+        ],
+        "Product Families": [
+            "Health & Well-Being",
+            "Metabolism Modifiers"
+        ]
+    },
+    "summary": {
+        "Animal Species": [
+            "Laying Hens"
+        ],
+        "Features": [
+            "Improves Performance",
+            "Improve Liver Function"
+        ]
+    }
+}

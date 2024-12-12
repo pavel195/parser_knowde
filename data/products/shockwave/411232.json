@@ -1,0 +1,36 @@
+{
+    "id": 411232,
+    "brand": "shockwave",
+    "name": "Fiberlock Technologies Instant Mold Stain Remover - 8317",
+    "slug": "fiberlock-technologies-instant-mold-stain-remover-8317",
+    "description": null,
+    "company_name": "Fiberlock Technologies",
+    "company_slug": "fiberlock-technologies",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1682593106/production/Company/54799/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515671/production/CategoryImage/1057/category_image/HII_09.jpg",
+    "properties": {
+        "Applications": [
+            "Institutional & Industrial Care",
+            "Surface Care",
+            "Industrial Cleaning",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Commercial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Stain Removers"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Wood",
+            "Concrete"
+        ],
+        "Features": [
+            "Facilitates Mold Removal",
+            "Stain Removing"
+        ]
+    }
+}

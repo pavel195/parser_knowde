@@ -1,0 +1,30 @@
+{
+    "id": 361040,
+    "brand": "sabatack",
+    "name": "Sabatack 760 XXL",
+    "slug": "sabatack-760-xxl",
+    "description": "Sabatack 760 XXL principle application is bonding windows with high green strength (stability) and longer open time.",
+    "company_name": "Chemique Adhesives",
+    "company_slug": "chemique-adhesives",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664290971/production/Brand/26996/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608502/production/CategoryImage/564/category_image/BuildingConstruction_08.jpg",
+    "properties": {
+        "Applications": [
+            "Building Envelope",
+            "Glazing & Window Elements",
+            "Building Envelope & Roofing"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Caulks & Sealants"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Sealant"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Glass"
+        ]
+    }
+}

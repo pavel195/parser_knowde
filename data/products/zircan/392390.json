@@ -1,0 +1,61 @@
+{
+    "id": 392390,
+    "brand": "zircan",
+    "name": "ZirCan™ ZAC22",
+    "slug": "zircan-zac22",
+    "description": "ZirCan™ ZAC22 is a clear acidic aqueous solution with 22% ZrO2 content. It is a reactive crosslinker, catalyst, adhesion promoter, and an agent that imparts water repellency for multiple materials and applications (paper, paperboard, textiles, coatings, paints, inks).",
+    "company_name": "Aqua Bond",
+    "company_slug": "aqua-bond",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708688584/production/Brand/29544/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Textile Manufacturing",
+            "Coated Paper & Paperboard",
+            "Other Printing & Packaging Applications",
+            "Other Paints & Coatings Applications",
+            "Ceramics & Refractory",
+            "Other Adhesives & Sealants Applications",
+            "Chemical & Industrial Manufacturing",
+            "Paper & Pulp",
+            "Textiles & Nonwovens",
+            "Leather & Textiles"
+        ],
+        "Product Families": [
+            "Glass & Ceramic Additives",
+            "Finishing Additives & Treatments",
+            "RTU Catalysts",
+            "Surface Modifiers",
+            "Chain Extenders & Crosslinkers",
+            "Functional Additives",
+            "Catalysts & Initiators",
+            "Additives",
+            "Monomers & Intermediates",
+            "Catalyst Ingredients",
+            "Processing Aids",
+            "Textile & Leather Chemicals"
+        ],
+        "Chemical Family": [
+            "Acetates"
+        ],
+        "End Uses": [
+            "Paper & Pulp",
+            "Textiles",
+            "Waterborne Ink",
+            "Refractory Materials"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Water Repellent",
+            "Adhesion Promoter",
+            "Catalyst",
+            "Binder",
+            "Crosslinking Agent",
+            "Coupling Agent"
+        ],
+        "Chemical Family": [
+            "Acetates"
+        ]
+    }
+}

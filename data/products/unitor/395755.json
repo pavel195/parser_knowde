@@ -1,0 +1,44 @@
+{
+    "id": 395755,
+    "brand": "unitor",
+    "name": "Unitor™ Gamazyme™ FC (4X5LTR)",
+    "slug": "unitor-gamazyme-fc-4x5ltr",
+    "description": "Unitor™ Gamazyme™ FC (4X5LTR) is a cutting-edge floor care product that uses microbial activity to provide deep and effective cleaning.",
+    "company_name": "Wilhelmsen Technical",
+    "company_slug": "wilhelmsen-technical",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1682592990/production/Company/10230/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515647/production/CategoryImage/1055/category_image/HII_07.jpg",
+    "properties": {
+        "Applications": [
+            "Processing & Packaging",
+            "Institutional & Industrial Care",
+            "Surface Care",
+            "Industrial Cleaning",
+            "Institutional & Catering",
+            "Food Facility Cleaning & Sanitization",
+            "Food & Beverage Manufacturing",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Industrial Cleaners",
+            "Commercial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner",
+            "Degreasers"
+        ],
+        "Application Area": [
+            "Floor"
+        ],
+        "Features": [
+            "Good Surface Care",
+            "Highly Efficient",
+            "Low Slip",
+            "Degreasing",
+            "Neutralizes Odor"
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "id": 328354,
+    "brand": "millerplex",
+    "name": "Cytokin®",
+    "slug": "cytokin",
+    "description": "Cytokin® is a plant- based EPA registered plant growth regulator designed to increase crop production efficiency. Cytokin is involved in all facets of plant physiological production periods, from seed germination through ripening, on most crops. Cytokin contains EPA- registered sea plant extracts containing natural purines, which stimulate a natural cytokinin plant effect.",
+    "company_name": "Miller Chemical & Fertilizer Corporation",
+    "company_slug": "miller-chemical-fertilizer-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708684373/production/Brand/23623/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608173/production/CategoryImage/547/category_image/AgricultureFeed_03.jpg",
+    "properties": {
+        "Applications": [
+            "Sugar & Starch Crops",
+            "Fruits",
+            "Agricultural Crops"
+        ],
+        "Product Families": [
+            "Plant Growth Regulators (PGR) & Harvest Aids",
+            "Plant Health, Nutrients & Soil Management"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Plant Growth Regulator (PGR)"
+        ],
+        "Labeling Claims": [
+            "Organic"
+        ],
+        "Application Technique": [
+            "Foliage Applied",
+            "Ground Soil Applied"
+        ]
+    }
+}

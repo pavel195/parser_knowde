@@ -1,0 +1,56 @@
+{
+    "id": 75465,
+    "brand": "crystal",
+    "name": "Sucranov™ 2000UP",
+    "slug": "sucranov-2000up",
+    "description": "Sucranov™ 2000UP (Decyl Glucoside) is a mild non-ionic surfactant offering natural, gentle cleansing for shampoos, body washes and liquid soaps. It is ideal for a wide variety of person care applications. It is a natural sugar derived surfactant.",
+    "company_name": "Aurorium",
+    "company_slug": "aurorium",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709833899/production/Company/1461/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1709833899/production/Brand/6281/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Bath & Shower",
+            "Hair Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Nonionic Surfactants",
+            "Surfactants & Cleansers"
+        ],
+        "INCI Name": [
+            "Decyl Glucoside"
+        ],
+        "End Uses": [
+            "Body Wash",
+            "Shampoos & Rinses",
+            "Bubble Bath",
+            "Shower Gels"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Decyl Glucoside"
+        ],
+        "HLB Value": [
+            "12.8 - 12.8 "
+        ],
+        "Functions": [
+            "Surfactant (Nonionic)",
+            "Foaming Agent",
+            "Cleansing Agent"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Plant Origin"
+        ],
+        "Labeling Claims": [
+            "Clean at Sephora",
+            "Credo Clean Standard",
+            "Naturally Derived",
+            "Ulta Beauty's Conscious Beauty",
+            "Natural",
+            "Organic"
+        ]
+    }
+}

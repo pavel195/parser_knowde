@@ -1,0 +1,75 @@
+{
+    "id": 326912,
+    "brand": "arasol",
+    "name": "ARAGEN - 101 GREEN",
+    "slug": "aragen-101",
+    "description": "ARAGEN-10 series, A New Generation of formaldehyde-free, fluorescent pigments for water-free formulations with significantly improved light fastness (2-10 times vs. Formaldehyde based pigments) and heat resistance compared to conventional, formaldehyde-containing fluorescent pigments. This innovative range of daylight fluorescent pigments offers intense fluorescence and outstanding stability in solvent and waterborne formulations.",
+    "company_name": "Aralon Color GmbH",
+    "company_slug": "aralon-color-gmbh",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672578/production/Brand/21206/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Textile Manufacturing",
+            "Decorative Paints, Coatings & Stains",
+            "Non-Food Consumer Packaging",
+            "Infrastructure, Roads & Paving",
+            "Screen Printing",
+            "Gravure Printing",
+            "Flexography",
+            "Decorative Paints",
+            "Coated Paper & Paperboard",
+            "Coatings & Markings",
+            "Stationery, Art & Office Supplies",
+            "Sports & Recreation",
+            "Housewares",
+            "Footwear",
+            "Building Materials",
+            "Paper & Pulp",
+            "Building & Construction",
+            "Printing & Inks",
+            "Packaging",
+            "Decorative Materials & Finishes",
+            "Leather & Textiles"
+        ],
+        "Product Families": [
+            "Color Pigments",
+            "Pigments & Colorants",
+            "Other Elastomer Additives",
+            "Photoluminescent Pigments",
+            "Polymer Additives",
+            "Elastomer Additives"
+        ],
+        "End Uses": [
+            "Heavy Duty Bags",
+            "Solventborne Ink",
+            "Screen Printing Ink",
+            "Radiation Curable Ink",
+            "Plastisol Ink",
+            "Organosol Ink",
+            "Gravure Ink",
+            "Flexography Ink",
+            "Top Coat",
+            "Solventborne Coating",
+            "Radiation Curable Coating",
+            "Powder Coating",
+            "Plastisol Coating",
+            "Organosol Coating",
+            "Toys",
+            "Footwear",
+            "Consumer Applications"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Pigment",
+            "Colorant"
+        ],
+        "Pigment Type": [
+            "Fluorescent"
+        ],
+        "Color": [
+            "Green (Fluorescent)"
+        ]
+    }
+}

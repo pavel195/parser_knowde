@@ -1,0 +1,38 @@
+{
+    "id": 210473,
+    "brand": "tylopur-xtend-nutra",
+    "name": "SmartEx® QD-50",
+    "slug": "smartex-qd-50",
+    "description": "SmartEx® is a co-processed excipient which consists of L-HPC, D-mannitol and fully hydrolyzed polyvinyl alcohol (PVA) and it specially designed for orally disintegration tablets (ODTs) and also immediate release tablet formulation by direct compression. All the excipients are widely used in pharmaceutical industry. One of the main advantage over other co-processed excipients is that SmartEx® contains L-HPC and therefore gives excellent stability.",
+    "company_name": "Shin-Etsu Pharma, Nutra and Food",
+    "company_slug": "se-tylose",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708689383/production/Company/1401/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708689383/production/Product/210473/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Oral",
+            "Excipients & Coatings",
+            "Drug Delivery & Care Solutions",
+            "Pharmaceutical Manufacturing"
+        ],
+        "Product Families": [
+            "Fillers & Diluents",
+            "Binders & Disintegrants",
+            "Excipients"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Filler",
+            "Disintegrant",
+            "Binder"
+        ],
+        "Dosage Form": [
+            "Orally Disintegrating Tablets (ODTs)"
+        ],
+        "Certifications & Compliance": [
+            "DMF Type IV",
+            "Japan Pharmacopeia (JP)"
+        ]
+    }
+}

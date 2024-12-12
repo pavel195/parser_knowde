@@ -1,0 +1,63 @@
+{
+    "id": 329645,
+    "brand": "fibriotics",
+    "name": "Gabarelax™",
+    "slug": "gabarelax",
+    "description": "Gabarelax™ is a naturally sourced bio-identical GABA, produced by a bio-fermentation technology, using Lactobacillus hilgardii!! The fermentation process of Gabarelax™ uses the same kind of bacteria that is used to ferment vegetables, cheese, and other traditional foods. Gabarelax™ is the 100 % natural form of GABA and managed according to ISO9001, HACCP, ISO22000 and GMP quality management systems ➝ safety, stability and reliability guaranteed!",
+    "company_name": "Fermedics",
+    "company_slug": "fermedics",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708521256/production/Brand/23807/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708521256/production/Product/329645/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Functional Foods",
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Proteins & Amino Acids",
+            "Nut & Seed Products",
+            "Plant Proteins",
+            "Nutrition & Fortification",
+            "Whole Foods, Extracts & Premixes",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Dietary Supplements",
+            "Functional Foods"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "γ-aminobutyric acid"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Plant Origin"
+        ],
+        "Labeling Claims": [
+            "Natural",
+            "Naturally Derived",
+            "Plant-Based",
+            "Non-GMO",
+            "Kosher",
+            "Vegan",
+            "Halal"
+        ],
+        "Certifications & Compliance": [
+            "Vegan",
+            "ISO 9001",
+            "ISO 22000",
+            "Kosher",
+            "GMP",
+            "Hazard Analysis Critical Control Point (HACCP)",
+            "Halal"
+        ],
+        "Physical Form": [
+            "Solid",
+            "Powder"
+        ]
+    }
+}

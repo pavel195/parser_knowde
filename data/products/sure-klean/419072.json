@@ -1,0 +1,36 @@
+{
+    "id": 419072,
+    "brand": "sure-klean",
+    "name": "Sure Klean® Heavy Duty Concrete Cleaner",
+    "slug": "sure-klean-heavy-duty-concrete-cleaner",
+    "description": "Sure Klean® Heavy Duty Concrete Cleaner is formulated for removal of concrete splashes, excess mortar, retarders, heavy efflorescence, embedded stains, rust and surface soiling from textured concrete surfaces. This acidic cleaner improves the color and uniformity of most standard concrete, colored concrete, precast panel and concrete block surfaces. When used in strong solutions, Heavy Duty Concrete Cleaner will etch concrete. It can be used for additional aggregate exposure and is ideal for \"weathering\" architectural concrete.",
+    "company_name": "Prosoco",
+    "company_slug": "prosoco",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1682593235/production/Brand/32861/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515589/production/CategoryImage/1050/category_image/HII_02.jpg",
+    "properties": {
+        "Applications": [
+            "Institutional & Industrial Care",
+            "Surface Care",
+            "Industrial Cleaning",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Industrial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Concrete"
+        ],
+        "Features": [
+            "Effective Soil Removal",
+            "Stain Removing",
+            "Heavy Duty"
+        ]
+    }
+}

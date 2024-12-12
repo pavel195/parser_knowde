@@ -1,0 +1,41 @@
+{
+    "id": 404735,
+    "brand": "blygold",
+    "name": "Blygold® PoluAl WB",
+    "slug": "blygold-polual-wb",
+    "description": "Blygold® PoluAl WB is a water based product with corrosion inhibiting ingredients and high content of aluminum pigmentation for diffusion control and heat conductivity. Improved wetting on hydrophobic surfaces makes the product very surface tolerant (compared to other water-based coatings). High corrosion and UV resistance.",
+    "company_name": "Blygold International BV",
+    "company_slug": "blygold-international-bv",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680108998/production/Brand/30955/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical & Industrial Manufacturing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Coil Coatings"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Waterborne Coating",
+            "Coil Coating"
+        ],
+        "Application Area": [
+            "Heat Exchangers"
+        ],
+        "Features": [
+            "Chemical Resistant",
+            "Corrosion Resistant",
+            "UV Resistant",
+            "Good Flexibility",
+            "Good Thermal Conductivity",
+            "Good Wettability"
+        ],
+        "Application Method": [
+            "Dip Coating"
+        ]
+    }
+}

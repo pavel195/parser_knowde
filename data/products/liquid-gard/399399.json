@@ -1,0 +1,41 @@
+{
+    "id": 399399,
+    "brand": "liquid-gard",
+    "name": "KONSERV™ Oxygen Scavenger",
+    "slug": "konserv-oxygen-scavenger",
+    "description": "KONSERV™ Oxygen Scavenger eliminates the need for costly oxygen-absorbing devices by extending the shelf life of food and non-consumable products. Reduces mold growth, delays non-enzymatic browning and retains flavor by preventing oxidation. This is designed to protect the health and well-being of both people and planet, our performance additives serve to reduce environmental impact while profoundly enhancing the behavior and beneficial properties of plastic.",
+    "company_name": "Smart Plastics",
+    "company_slug": "smart-plastics",
+    "logo_url": null,
+    "banner_url": "https://media.knowde.com/image/upload/v1625609117/production/CategoryImage/596/category_image/PrintingPackaging_07.jpg",
+    "properties": {
+        "Applications": [
+            "Healthcare Packaging",
+            "Food & Beverage Packaging",
+            "Packaging"
+        ],
+        "Product Families": [
+            "Antioxidants & Stabilizers",
+            "Polymer Additives"
+        ],
+        "End Uses": [
+            "Pharmaceutical Packaging",
+            "Food Packaging"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Antioxidant"
+        ],
+        "Compatible Polymers & Resins": [
+            "Polystyrenes (PS)",
+            "Polypropylenes (PP)",
+            "Polyethylene Terephthalate (PET)",
+            "Polyethylenes (PE)"
+        ],
+        "End Uses": [
+            "Food Packaging",
+            "Pharmaceutical Packaging"
+        ]
+    }
+}

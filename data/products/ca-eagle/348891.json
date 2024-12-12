@@ -1,0 +1,55 @@
+{
+    "id": 348891,
+    "brand": "ca-eagle",
+    "name": "AC-EAGLE (TS-10XB50)50%",
+    "slug": "eagle-chemicals-ac-eagle-ts-10xb50-50",
+    "description": "AC-EAGLE(TS-10XB50)50% is a thermosetting acrylic polyol Metallic base coat, clear and topcoats for OEM and car reï¬nishing.",
+    "company_name": "Eagle Chemicals",
+    "company_slug": "eagle-chemicals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686148605/production/Company/20967/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608611/production/CategoryImage/569/category_image/PaintingsCoatings_05.jpg",
+    "properties": {
+        "Applications": [
+            "Coatings & Finishes",
+            "Automotive & Transportation",
+            "Automotive OEM Coatings",
+            "Vehicle Refinish"
+        ],
+        "Product Families": [
+            "Monomers & Intermediates",
+            "Prepolymers & Polyols"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates",
+            "Polyols"
+        ],
+        "End Uses": [
+            "1K (1 component) Coating",
+            "Top Coat",
+            "Clearcoat",
+            "2K (2 component) Coating",
+            "Base Coat"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Acrylics & Acrylates",
+            "Polyols"
+        ],
+        "End Uses": [
+            "Base Coat",
+            "1K (1 component) Coating",
+            "2K (2 component) Coating",
+            "Clearcoat",
+            "Top Coat"
+        ],
+        "Viscosity": [
+            "1000.0 - 1000.0 cps"
+        ],
+        "Features": [
+            "Excellent Weatherability",
+            "Improved Flexibility",
+            "Excellent Scratch Resistance"
+        ]
+    }
+}

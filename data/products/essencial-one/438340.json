@@ -1,0 +1,36 @@
+{
+    "id": 438340,
+    "brand": "essencial-one",
+    "name": "SMASH.9000®",
+    "slug": "smash-9000",
+    "description": "Smash.9000® is a complex blend of more than 60 trace and oligo-elements, fulvic acids, natural polyphenolic compounds, high saponin Yucca shidigera extract and high energetic glycerol.",
+    "company_name": "Mercordi BV",
+    "company_slug": "mercordi-bv",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708691659/production/Company/63165/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608173/production/CategoryImage/547/category_image/AgricultureFeed_03.jpg",
+    "properties": {
+        "Applications": [
+            "Ruminants",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Immunomodulators",
+            "Metabolism Modifiers",
+            "Health & Well-Being"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Immunomodulator"
+        ],
+        "Animal Species": [
+            "Cattle"
+        ],
+        "Features": [
+            "Improves Immunity",
+            "High Energy Content",
+            "Promotes Digestive Health",
+            "Improves Performance"
+        ]
+    }
+}

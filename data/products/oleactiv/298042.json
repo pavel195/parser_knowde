@@ -1,0 +1,42 @@
+{
+    "id": 298042,
+    "brand": "oleactiv",
+    "name": "Oxxynea®",
+    "slug": "oxxynea",
+    "description": "Oxxynea® is a whole food concentrate of fruit and vegetable extracts providing polyphenols as in the daily consumption of 5 servings of fresh fruit and vegetables. It offers a wide spectrum of 100+ different polyphenols from plant-based extracts.",
+    "company_name": "Fytexia",
+    "company_slug": "fytexia",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708691707/production/Product/298042/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708691707/production/Product/298042/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Oral",
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being",
+            "Drug Delivery & Care Solutions"
+        ],
+        "Product Families": [
+            "Phytochemicals & Plant Extracts",
+            "Vegetable Products & Extracts",
+            "Fruit Products & Extracts",
+            "Whole Foods, Extracts & Premixes",
+            "Nutraceuticals & Supplements"
+        ],
+        "Chemical Family": [
+            "Phenols & Phenolics",
+            "Polyphenols"
+        ]
+    },
+    "summary": {
+        "Active Component": [
+            "Polyphenols"
+        ],
+        "Functions": [
+            "Dietary Supplement"
+        ],
+        "Labeling Claims": [
+            "Organic",
+            "Plant-Based"
+        ]
+    }
+}

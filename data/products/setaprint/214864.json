@@ -1,0 +1,31 @@
+{
+    "id": 214864,
+    "brand": "setaprint",
+    "name": "OPTILITH™ AM",
+    "slug": "optilith-am",
+    "description": "Optilith™ AM A is an anti-mist compound. Optilith AM A is a 95% non-volatile, high solids paste. Optilith AM A gives maximum reduction in misting without adversely effecting gloss or ink rheology. Optilith AM A is effective at 0.5 to 3% use levels.",
+    "company_name": "Lawter",
+    "company_slug": "lawter",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664286955/production/Company/14122/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1664286955/production/Company/14122/card_banner/image.png",
+    "properties": {
+        "Applications": [
+            "Packaging Coatings",
+            "Printing & Inks",
+            "Overprint Varnishes",
+            "Offset & Lithographic Printing"
+        ],
+        "Product Families": [
+            "Additives",
+            "Functional Additives"
+        ],
+        "End Uses": [
+            "Solventless & High Solids Coating"
+        ]
+    },
+    "summary": {
+        "End Uses": [
+            "Solventless & High Solids Coating"
+        ]
+    }
+}

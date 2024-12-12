@@ -1,0 +1,53 @@
+{
+    "id": 299564,
+    "brand": "american-lecithin-phospholipon",
+    "name": "LIPOID PS 50 P",
+    "slug": "lipoid-ps-50-p",
+    "description": "LIPOID PS 50 P is Serine-enriched lecithins from soybean that promote healthy cell function.",
+    "company_name": "American Lecithin Company",
+    "company_slug": "american-lecithin-company",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708523029/production/Company/22763/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607274/production/CategoryImage/514/category_image/FoodNutrition_14.jpg",
+    "properties": {
+        "Applications": [
+            "Functional Foods",
+            "Dairy",
+            "Nutraceuticals & Supplements",
+            "Food",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Nut & Seed Products",
+            "Nutrition & Fortification",
+            "Whole Foods, Extracts & Premixes",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Energy Bars",
+            "Dairy Products",
+            "Tablets",
+            "Dietary Supplements"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Soybeans"
+        ],
+        "Ingredient Origin": [
+            "Plant Origin",
+            "Natural Origin"
+        ],
+        "Labeling Claims": [
+            "Non-GMO"
+        ],
+        "Physical Form": [
+            "Solid",
+            "Powder"
+        ],
+        "Benefit Claims (Health)": [
+            "Supports Cellular function"
+        ]
+    }
+}

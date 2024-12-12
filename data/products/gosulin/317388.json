@@ -1,0 +1,81 @@
+{
+    "id": 317388,
+    "brand": "gosulin",
+    "name": "preBIULIN® AGA",
+    "slug": "gobiotics-prebiulin-aga",
+    "description": "Long chain Inulin extracted from chicory roots and agave pinas. Hydration through the skin microbiota. A soluble prebiotic fiber.",
+    "company_name": "Gobiotics",
+    "company_slug": "gobiotics",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708673245/production/Product/317388/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708673245/production/Product/317388/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Skin Care",
+            "Sun Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Conditioners & Emollients",
+            "Skin Actives",
+            "Cosmetic Actives",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Inulin"
+        ],
+        "End Uses": [
+            "After Sun Products",
+            "Anti-Aging Products",
+            "Moisturizers"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Inulin"
+        ],
+        "Functions": [
+            "Conditioner",
+            "Prebiotic",
+            "Moisturizing Agent"
+        ],
+        "Ingredient Origin": [
+            "Non-Animal Origin",
+            "Natural Origin",
+            "Vegetable Origin",
+            "Plant Origin"
+        ],
+        "Labeling Claims": [
+            "BSE-free",
+            "Credo Clean Standard",
+            "Clean at Sephora",
+            "TSE-free",
+            "VOC-free",
+            "Naturally Derived",
+            "Allergen-free",
+            "Natural",
+            "Additive-free",
+            "Ulta Beauty's Conscious Beauty",
+            "Sustainable"
+        ],
+        "Certifications & Compliance": [
+            "Generally Recognized As Safe (GRAS)",
+            "WADA Certified",
+            "COSMOS",
+            "NaTrue"
+        ],
+        "Benefit Claims": [
+            "Protection From Environmental Damage",
+            "Skin Protection",
+            "Skin Defense Enhancement",
+            "Non-Irradiated",
+            "Moisturizing",
+            "Anti-Aging",
+            "Healthy-Looking Skin",
+            "Skin Conditioning",
+            "Skin Microbiome",
+            "Hydrating",
+            "Prebiotic Effects",
+            "Sun Protection"
+        ]
+    }
+}

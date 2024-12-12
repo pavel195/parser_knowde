@@ -1,0 +1,46 @@
+{
+    "id": 393072,
+    "brand": "cattle-booster",
+    "name": "Dinase 50%®",
+    "slug": "dinase-50",
+    "description": "Dinase 50%® is a new high technology feed additive that inhibits urease activity and therefore reduces ammonia gas levels and other odors in the organic waste of the animal, and the environment. 100% natural odor control technology an excellent source for saponin content.",
+    "company_name": "Dinatec",
+    "company_slug": "dinatec",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708687755/production/Brand/29618/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608224/production/CategoryImage/551/category_image/AgricultureFeed_07.jpg",
+    "properties": {
+        "Applications": [
+            "Swine",
+            "Birds & Poultry",
+            "Aquaculture",
+            "Other Animal Health & Nutrition",
+            "Pets",
+            "Ruminants",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Litter & Waste Management",
+            "Health & Well-Being"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Deodorant"
+        ],
+        "Animal Species": [
+            "Rabbit",
+            "Swine",
+            "Cattle",
+            "Cats",
+            "Pets",
+            "Broilers",
+            "Dogs"
+        ],
+        "Features": [
+            "Improves Feed Conversion Ratio",
+            "Improves Body Weight Gain",
+            "Reduces Feed Cost",
+            "Reduces Mortality"
+        ]
+    }
+}

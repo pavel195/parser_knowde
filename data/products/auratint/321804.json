@@ -1,0 +1,70 @@
+{
+    "id": 321804,
+    "brand": "auratint",
+    "name": "AURATINT Bright Yellow",
+    "slug": "auratint-bright-yellow",
+    "description": null,
+    "company_name": "Soujanya Color",
+    "company_slug": "soujanya-color",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672433/production/Product/321804/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708672433/production/Product/321804/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Hand Hygiene",
+            "Industrial Cleaning",
+            "Surface Care",
+            "Dish Care",
+            "Laundry & Fabric Care",
+            "Bath & Shower",
+            "Home Care",
+            "Institutional & Industrial Care",
+            "Beauty & Care",
+            "Personal Hygiene"
+        ],
+        "Product Families": [
+            "Dyes & Colorants",
+            "Acid Dyes",
+            "Dyes",
+            "Functional Additives",
+            "Pigments & Colorants"
+        ],
+        "INCI Name": [
+            "CI 47005",
+            "Acid Yellow 3"
+        ],
+        "End Uses": [
+            "Hand Cleansers",
+            "Shower Gels",
+            "Fabric Softeners",
+            "Laundry Detergents",
+            "Liquid Dishwash",
+            "Floor Cleaners",
+            "Liquid Cleaners"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Acid Yellow 3",
+            "CI 47005"
+        ],
+        "Functions": [
+            "Dye"
+        ],
+        "Dye Type": [
+            "Acid Dyes"
+        ],
+        "Color": [
+            "Yellow"
+        ],
+        "Labeling Claims": [
+            "Environmentally Friendly",
+            "Formaldehyde-free",
+            "VOC-free",
+            "APEO-free",
+            "Non-Toxic",
+            "Paraben-free",
+            "Heavy Metal-free",
+            "Dust-free"
+        ]
+    }
+}

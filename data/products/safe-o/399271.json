@@ -1,0 +1,37 @@
+{
+    "id": 399271,
+    "brand": "safe-o",
+    "name": "pHixr® 100",
+    "slug": "phixr-100",
+    "description": "pHixr® 100 is a processing water acidulant.",
+    "company_name": "Mionix",
+    "company_slug": "mionix",
+    "logo_url": null,
+    "banner_url": "https://media.knowde.com/image/upload/v1625607305/production/CategoryImage/515/category_image/FoodNutrition_15.jpg",
+    "properties": {
+        "Applications": [
+            "Food & Beverage Manufacturing",
+            "Rendering",
+            "Processing & Packaging"
+        ],
+        "Product Families": [
+            "Acidulants & Acidity Regulators",
+            "Functional Additives"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Calcium Sulfate"
+        ],
+        "Functions": [
+            "Acidulant"
+        ],
+        "Physical Form": [
+            "Liquid"
+        ],
+        "Features": [
+            "Odorless",
+            "Ready-To-Use"
+        ]
+    }
+}

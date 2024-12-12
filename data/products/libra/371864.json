@@ -1,0 +1,42 @@
+{
+    "id": 371864,
+    "brand": "libra",
+    "name": "Mara® Tech MGO",
+    "slug": "mara-tech-mgo",
+    "description": "Mara® Tech MGO is a baking ink for glass and metal. High gloss, high opacity, single component ink system, highly chemical-resistant screen and pad printing ink.",
+    "company_name": "Marabu North America",
+    "company_slug": "marabu-north-america",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680110720/production/Brand/27754/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Textiles & Nonwovens",
+            "Printing & Inks",
+            "Leather & Textiles",
+            "Screen Printing",
+            "Textile Coatings & Inks",
+            "Textile Manufacturing"
+        ],
+        "Product Families": [
+            "Screen Printing Inks",
+            "Inks & Pastes"
+        ]
+    },
+    "summary": {
+        "Compatible Substrates & Surfaces": [
+            "Coated Surfaces",
+            "Aluminum",
+            "Ceramic",
+            "Glass",
+            "Metal"
+        ],
+        "Features": [
+            "Detergent Resistant",
+            "Chemical Resistant",
+            "High Gloss",
+            "Good Adhesion",
+            "Excellent Opacity",
+            "Outdoor Durability"
+        ]
+    }
+}

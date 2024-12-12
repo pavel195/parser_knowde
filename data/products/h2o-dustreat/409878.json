@@ -1,0 +1,53 @@
+{
+    "id": 409878,
+    "brand": "h2o-dustreat",
+    "name": "Essential Industries Storm",
+    "slug": "essential-industries-storm",
+    "description": "Storm is Great for cleaning heavily soiled finished floors. It is Free-rinsing, non-dulling and low foam all surface cleaner.",
+    "company_name": "Essential Industries, Inc.",
+    "company_slug": "essential-industries-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708003403/production/Company/6413/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515602/production/CategoryImage/1051/category_image/HII_03.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial Cleaning",
+            "Surface Care",
+            "Home Care",
+            "Institutional & Industrial Care"
+        ],
+        "Product Families": [
+            "Commercial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Product Type": [
+            "Cleaner",
+            "Detergents"
+        ],
+        "Application Area": [
+            "Wall",
+            "Tub",
+            "Floor"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Asphalt",
+            "Wood",
+            "Elastomers & Rubbers",
+            "Concrete",
+            "Plastics",
+            "Tile"
+        ],
+        "Certifications & Compliance": [
+            "SARA 311/312"
+        ],
+        "Features": [
+            "Anti-Slip",
+            "Free Rinsing",
+            "Heavy Duty",
+            "Effective Soil Removal",
+            "UL Listed",
+            "Low Foaming"
+        ]
+    }
+}

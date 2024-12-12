@@ -1,0 +1,76 @@
+{
+    "id": 164710,
+    "brand": "cm-glucan",
+    "name": "KeraGuard™",
+    "slug": "keraguard",
+    "description": "KeraGuard is an effective antioxidant protection complex for damaged hair and weak and brittle nails. The unique combination of extremely stable tannins from the tara tree and sunflower sprout extract makes rough and exhausted hair shiny and beautiful again and strengthens the nails.Benefits:\nProtects hair against heat, urban pollution and UV stress.\nRepairs chemically treated hair.\nPrevents the color fading of hair.\nRestores the resilience of hair.\nProtects and strengthens nails.\nImproves nail thickness.\n",
+    "company_name": "Mibelle Biochemistry",
+    "company_slug": "mibelle-biochemistry",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672542/production/Brand/11138/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708672542/production/Product/164710/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Nail Care",
+            "Hair Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Botanical Ingredients & Extracts",
+            "Antioxidants & Preservatives",
+            "Hair Actives",
+            "Cosmetic Actives",
+            "Vitamins, Extracts & Oils",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Helianthus Annuus (Sunflower) Sprout Extract",
+            "Caesalpinia Spinosa Fruit Extract"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Helianthus Annuus (Sunflower) Sprout Extract",
+            "Caesalpinia Spinosa Fruit Extract"
+        ],
+        "Functions": [
+            "Antioxidant",
+            "Protective Agent"
+        ],
+        "Ingredient Origin": [
+            "Non-Animal Origin",
+            "Natural Origin",
+            "Plant Origin"
+        ],
+        "Labeling Claims": [
+            "Credo Clean Standard",
+            "Clean at Sephora",
+            "Clean Label",
+            "Naturally Derived",
+            "Alcohol-free",
+            "Vegan",
+            "Plant-Based",
+            "Halal"
+        ],
+        "Certifications & Compliance": [
+            "COSMOS",
+            "NaTrue",
+            "Halal"
+        ],
+        "Benefit Claims": [
+            "Good Heat Shock Protection",
+            "Anti-Pollution",
+            "Hair Repair",
+            "Shine Enhancing",
+            "Repairing",
+            "Hair Protection",
+            "UV Protection",
+            "Antioxidant Properties",
+            "Strengthening",
+            "Inhibition of Free Radical Formation",
+            "Color Protection",
+            "Energizing",
+            "Healing",
+            "Healthy-Looking Hair"
+        ]
+    }
+}

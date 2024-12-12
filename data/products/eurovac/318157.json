@@ -1,0 +1,37 @@
+{
+    "id": 318157,
+    "brand": "eurovac",
+    "name": "Eurocryl 4220-10",
+    "slug": "eurocryl-4220-10",
+    "description": "Eurocryl 4220-10 is self-crosslinking, hydrophobic coatings on various substrates, mainly for paper, cardboard and nonwovens",
+    "company_name": "Cebra Chemie",
+    "company_slug": "cebra-chemie",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112399/production/Company/29925/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608611/production/CategoryImage/569/category_image/PaintingsCoatings_05.jpg",
+    "properties": {
+        "Applications": [
+            "Leather & Textiles",
+            "Textile Manufacturing"
+        ],
+        "Product Families": [
+            "Resins & Binders",
+            "Acrylics"
+        ],
+        "Chemical Family": [
+            "Styrene-Acrylic Copolymer"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Styrene-Acrylic Copolymer"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Textiles",
+            "Paper"
+        ],
+        "Features": [
+            "Multi-Substrate Adhesion",
+            "Self Crosslinking"
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": 297230,
+    "brand": "apond",
+    "name": "ACROTEK® APLV-1200",
+    "slug": "acrotek-aplv-1200",
+    "description": "ACROTEK® APLV-1200 has Ultra-low VOC, Good Film Formation, Excellent Workability and Adhesion.",
+    "company_name": "Advanced Polymer Emulsions",
+    "company_slug": "advanced-polymer-emulsions-company",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112041/production/Company/23612/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608929/production/CategoryImage/584/category_image/AdhesivesSealants_01.jpg",
+    "properties": {
+        "Applications": [
+            "Building & Construction",
+            "Industrial Coatings",
+            "Industrial Maintenance",
+            "Architectural Coatings",
+            "Building Envelope & Roofing",
+            "Building Envelope"
+        ],
+        "Product Families": [
+            "Resins & Binders",
+            "Acrylics"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ],
+        "Glass Transition Temperature (Tg)": [
+            "0.0 - 0.0 °C"
+        ],
+        "Features": [
+            "Low VOC",
+            "Excellent Adhesion"
+        ]
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "id": 100222,
+    "brand": "visijet",
+    "name": "VisiJet® M3 Hi-Cast",
+    "slug": "visijet-m3-hi-cast",
+    "description": "VisiJet Hi-Cast Material provides extreme resolution performance for high-end lost-wax casting of fine-detail items such as jewelry and micro-medical and electrical devices. Used exclusively in the ProJet CPX 3500 3D printers, the Hi-Cast material sets the standard for feature definition, accuracy and precision.",
+    "company_name": "3D Systems",
+    "company_slug": "3d-systems",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708523380/production/Brand/9430/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708523380/production/Company/2708/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Other Consumer Goods Applications",
+            "Tooling & Moldmaking",
+            "Medical Devices & Assemblies",
+            "Other Devices & Assemblies",
+            "Devices & Assemblies",
+            "Medical",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Photoactive Resins",
+            "3D Printing Polymers"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ],
+        "Polymer Name": [
+            "Epoxy Resins & Compounds"
+        ],
+        "End Uses": [
+            "Jewelry",
+            "Mold Making",
+            "Modeling Material",
+            "Medical Devices",
+            "Electrical/Electronic Applications"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Epoxy Resins & Compounds"
+        ],
+        "Processing Methods": [
+            "Photopolymer Jetting",
+            "3D Printing"
+        ],
+        "End Uses": [
+            "Modeling Material",
+            "Electrical/Electronic Applications",
+            "Mold Making",
+            "Medical Devices",
+            "Jewelry"
+        ]
+    }
+}

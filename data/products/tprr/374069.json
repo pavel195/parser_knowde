@@ -1,0 +1,39 @@
+{
+    "id": 374069,
+    "brand": "tprr",
+    "name": "TPRR® 090",
+    "slug": "tprr-090",
+    "description": "TPRR® 090 is a TPRR (Thermoplastic recycled rubber) material consisting mainly of recycled plastics and recycled rubber. Mainly used to comprised of recycled EPDM can replace LDPE, TPE and rubber materials.",
+    "company_name": "EcoRub",
+    "company_slug": "ecorub",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691737917/production/Brand/27959/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608769/production/CategoryImage/577/category_image/AutomotiveTransportation_05.jpg",
+    "properties": {
+        "Applications": [
+            "Cooling & Climate",
+            "Appliances & Electronics",
+            "Equipment & Parts",
+            "Interior",
+            "Chemical & Industrial Manufacturing",
+            "Automotive"
+        ],
+        "Product Families": [
+            "EP Rubbers (EPDM)",
+            "Thermoset Elastomers"
+        ],
+        "Chemical Family": [
+            "Ethylene-Propylene Copolymers (EPR)",
+            "Polyolefins"
+        ],
+        "Polymer Name": [
+            "Ethylene Propylene Diene Terpolymer (EPDM)"
+        ],
+        "End Uses": [
+            "Automobile Door Seals",
+            "Gaskets",
+            "Tubing",
+            "Soft Touch Applications"
+        ]
+    },
+    "summary": {}
+}

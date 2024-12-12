@@ -1,0 +1,79 @@
+{
+    "id": 209400,
+    "brand": "puris-pea-crisps",
+    "name": "PURIS™ Pea Protein 870 Organic",
+    "slug": "puris-pea-protein-870-organic",
+    "description": "Organic Non-GMO 80% pea protein manufactured from organic yellow field peas in the USA without the use of any chemical solvents, designed for applications where high solubility, high functionality, excellent dispersibility, and small particle size are required. Our proprietary process is designed to have a bland taste and is perfect for applications such as dry beverage blends, ready-to-drink products, meat alternatives, vegan spreads, and emulsified products.\r\n",
+    "company_name": "PURIS",
+    "company_slug": "puris",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704796087/production/Product/209400/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1704796087/production/Product/209400/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Other Nutrition Applications",
+            "Other Food Applications",
+            "Bakery",
+            "Savory & Culinary",
+            "Other Non-Alcoholic Beverages",
+            "Powdered Beverages",
+            "Convenience Foods",
+            "Cereals & Snacks",
+            "Meat Substitutes",
+            "Functional Foods",
+            "Beverage",
+            "Food",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Proteins & Amino Acids",
+            "Plant Proteins",
+            "Nutrition & Fortification"
+        ],
+        "End Uses": [
+            "Pasta",
+            "Beverage Mixes",
+            "Vegetable Spreads",
+            "Snacks",
+            "Breakfast Cereals",
+            "Meat Substitutes",
+            "Protein Powder"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Pea Protein"
+        ],
+        "Ingredient Origin": [
+            "Plant Origin",
+            "Natural Origin"
+        ],
+        "Labeling Claims": [
+            "Solvent-free",
+            "Soy-free",
+            "Natural",
+            "Naturally Derived",
+            "Plant-Based",
+            "Sustainable",
+            "Gluten-free",
+            "Clean Label",
+            "Organic",
+            "Non-GMO",
+            "Allergen-free",
+            "Vegan"
+        ],
+        "Protein Content": [
+            "80.0 - 80.0 %"
+        ],
+        "Features": [
+            "Neutral Taste",
+            "Solubilizing",
+            "Emulsifying",
+            "High Functionality",
+            "Easily Dispersible",
+            "Creamy Mouthfeel",
+            "Improved Water Holding Capacity",
+            "Good Binding",
+            "Foam Stability"
+        ]
+    }
+}

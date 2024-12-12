@@ -1,0 +1,55 @@
+{
+    "id": 302102,
+    "brand": "balkyd",
+    "name": "Balkyd 630S-70WS",
+    "slug": "balkyd-630s-70ws",
+    "description": "Balkyd 630S-70WS is a long oil oxidative drying alkyd resin, modified with vegetable oil,soyabean or sunflower oil.",
+    "company_name": "Orgachim Resins",
+    "company_slug": "orgachim-resins",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112073/production/Company/24276/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608630/production/CategoryImage/571/category_image/PaintingsCoatings_07.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Building & Construction",
+            "Industrial Coatings",
+            "Packaging Coatings",
+            "Decorative Paints",
+            "Overprint Varnishes",
+            "Primers & Lacquers",
+            "Decorative Paints, Coatings & Stains",
+            "Decorative Materials & Finishes",
+            "Metal Coatings",
+            "Wood Coatings & Finishes"
+        ],
+        "Product Families": [
+            "Resins & Binders",
+            "Alkyds"
+        ],
+        "Chemical Family": [
+            "Alkyds (Long Oil)"
+        ],
+        "End Uses": [
+            "Lacquers",
+            "Varnishes",
+            "Enamel"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Alkyds (Long Oil)"
+        ],
+        "End Uses": [
+            "Varnishes",
+            "Lacquers",
+            "Enamel"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Wood",
+            "Metal"
+        ],
+        "Features": [
+            "Improved Hardness"
+        ]
+    }
+}

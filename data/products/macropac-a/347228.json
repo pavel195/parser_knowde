@@ -1,0 +1,46 @@
+{
+    "id": 347228,
+    "brand": "macropac-a",
+    "name": "MYRLIQ®",
+    "slug": "myrliq",
+    "description": "MYRLIQ® is a Myrrh (Commiphora Myrrha) Resin-Gum Extract with analgesic and anthnflammatory Properties,\ncharacterized by the highest content of bioactive furanodienes present on the market.",
+    "company_name": "Biosfered S.r.l",
+    "company_slug": "biosfered-s-r-l",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708689343/production/Brand/25884/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606934/production/CategoryImage/504/category_image/FoodNutrition_05.jpg",
+    "properties": {
+        "Applications": [
+            "Other Medical Applications",
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being",
+            "Medical"
+        ],
+        "Product Families": [
+            "Microbial Control & Preservation",
+            "Phytochemicals & Plant Extracts",
+            "Gums & Hydrocolloids",
+            "Phytochemicals",
+            "Plant & Herb Products & Extracts",
+            "Nutrition & Fortification",
+            "Whole Foods, Extracts & Premixes",
+            "Excipients",
+            "Nutraceuticals & Supplements",
+            "Texture & Consistency"
+        ],
+        "End Uses": [
+            "Dietary Supplements"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Myrrh Extract"
+        ],
+        "Functions": [
+            "Anti-Inflammatory",
+            "Anti-Microbial Agent"
+        ],
+        "Active Component": [
+            "Furanodiene"
+        ]
+    }
+}

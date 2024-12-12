@@ -1,0 +1,39 @@
+{
+    "id": 439205,
+    "brand": "silikal",
+    "name": "Silikal® R 61 resin",
+    "slug": "silikal-r-61-resin",
+    "description": "SILIKAL® R 61 resin is a reactive, slightly elasticized resin for slip-resistant floorings in wet areas. SILIKAL® R 61 resin is a solvent-free, medium-viscosity 2-component methacrylic resin of a slightly elasticized character. It is employed as a binder in the manufacture of self-leveling coatings sprinkled with quartz sand or for smoothable floorings with colored quartz, predominantly in the food industry (wet areas), in coat thickness of 2 - 3 mm or 4 - 6 mm. Hot water stress is limited to 60 °C. This limit may be briefly exceeded to 80 °C for cleaning purposes, but only if the floor is not completely warmed through.",
+    "company_name": "Silikal America",
+    "company_slug": "silikal-america",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112453/production/Company/63642/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608410/production/CategoryImage/557/category_image/BuildingConstruction_01.jpg",
+    "properties": {
+        "Applications": [
+            "Flooring & Surfaces",
+            "Infrastructure, Roads & Paving",
+            "Building & Construction",
+            "Floor Coatings",
+            "Coatings & Markings"
+        ],
+        "Product Families": [
+            "Resins & Binders",
+            "Acrylics"
+        ],
+        "Chemical Family": [
+            "Methacrylates"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Methacrylates"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Concrete"
+        ],
+        "Features": [
+            "Good Leveling",
+            "Slip Resistance"
+        ]
+    }
+}

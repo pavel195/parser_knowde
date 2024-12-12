@@ -1,0 +1,28 @@
+{
+    "id": 386986,
+    "brand": "e-phos",
+    "name": "E-Tec 527",
+    "slug": "e-tec-527",
+    "description": "E-Tec 527 is a mild water-based formulation designed to provide temporary rust protection for steel surfaces stored indoors. It leaves a dry, invisible film that is unaffected by subsequent operations. Excellent for protecting steel surfaces during the manufacturing process. It has a mild cleaning action and can be used in tumbling or burnishing operations to keep steel surfaces from oxidizing too quickly.",
+    "company_name": "Electrochemical Products, Inc",
+    "company_slug": "electrochemical-products-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520182/production/Brand/29005/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608611/production/CategoryImage/569/category_image/PaintingsCoatings_05.jpg",
+    "properties": {
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Waterborne Coating"
+        ],
+        "Features": [
+            "Corrosion Resistant"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Steel"
+        ]
+    }
+}

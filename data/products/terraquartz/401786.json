@@ -1,0 +1,45 @@
+{
+    "id": 401786,
+    "brand": "terraquartz",
+    "name": "Aiflooring TerraSeal",
+    "slug": "aiflooring-terraseal",
+    "description": "Aiflooring TerraSeal is designed to be used as a stand-alone thin film system, a silica broadcast system, and the topcoat for the TerraRich system. It provides continuous chemical protection while providing a high-gloss, nonblushing finish for an outstanding appearance. It can be applied from 16-65 mils in smooth or anti-skid applications with moderate physical requirements and intermittent chemical exposure. TerraGrip can be added to TerraSeal to provide slip resistance. It is a two component 100% solids epoxy coatings cured with a cycloaliphatic amine.",
+    "company_name": "Aiflooring",
+    "company_slug": "aiflooring",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520318/production/Company/51509/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608490/production/CategoryImage/563/category_image/BuildingConstruction_07.jpg",
+    "properties": {
+        "Applications": [
+            "Flooring & Surfaces",
+            "Building & Construction",
+            "Concrete Coatings & Stains",
+            "Floor Coatings"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Top Coats"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Solventless & High Solids Coating",
+            "2K (2 component) Coating",
+            "Epoxy Coating",
+            "Top Coat"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Concrete"
+        ],
+        "Features": [
+            "Blush Resistant",
+            "Chemical Resistant",
+            "Good Adhesion",
+            "Low Porosity",
+            "High Gloss"
+        ],
+        "Application Method": [
+            "Roller",
+            "Wipe"
+        ]
+    }
+}

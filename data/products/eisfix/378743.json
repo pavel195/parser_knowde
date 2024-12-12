@@ -1,0 +1,38 @@
+{
+    "id": 378743,
+    "brand": "eisfix",
+    "name": "Eisfix CREMA",
+    "slug": "eisfix-crema",
+    "description": "Eisfix Crema is creamy and light. It is ideal for soft ice cream machine with an integrated pump. The Ingredients includes 1 sachet at 1.5 kg + 3.5 liter of drinking water.",
+    "company_name": "Anona GmbH",
+    "company_slug": "anona-gmbh",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686108712/production/Brand/28300/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607098/production/CategoryImage/501/category_image/FoodNutrition_02.jpg",
+    "properties": {
+        "Applications": [
+            "Food",
+            "Dairy",
+            "Desserts & Fruit Preparations"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Food Premixes"
+        ],
+        "End Uses": [
+            "Ice Cream",
+            "Dessert Premixes",
+            "Frozen Soft Serve"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Cream Mix"
+        ],
+        "Features": [
+            "High Quality",
+            "Enhanced Shelf Life",
+            "Ready-To-Use",
+            "Creamy Mouthfeel"
+        ]
+    }
+}

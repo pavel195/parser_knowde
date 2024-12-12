@@ -1,0 +1,48 @@
+{
+    "id": 400054,
+    "brand": "mirapatch",
+    "name": "MiraGard HDWB",
+    "slug": "miragard-hdwb",
+    "description": "MiraGard HDWB is a single component, water-based, self-crosslinking pure acrylic sealer designed for interior or exterior use over Miracote cementitious coatings, overlays, and MiraGard Colorbond XL to enhance stain resistance and cleanability. Exhibiting excellent chemical and abrasion resistance, MiraGard HDWB is also most suitable for use to seal new and existing concrete, masonry, wood and many other surfaces.",
+    "company_name": "Miracote",
+    "company_slug": "miracote",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292021/production/Company/51034/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608566/production/CategoryImage/566/category_image/PaintingsCoatings_02.jpg",
+    "properties": {
+        "Applications": [
+            "Building & Construction",
+            "Concrete Coatings & Stains"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Sealer",
+            "Waterborne Coating"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Wood",
+            "Concrete"
+        ],
+        "Features": [
+            "Crosslinkable",
+            "Good Weather Stability",
+            "Satin Finish",
+            "Good UV Stability",
+            "Chemical Resistant",
+            "Abrasion Resistant",
+            "Cleanable",
+            "High Gloss",
+            "Matte Finish"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    }
+}

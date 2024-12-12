@@ -1,0 +1,56 @@
+{
+    "id": 408574,
+    "brand": "acrylastic",
+    "name": "Davlin Coatings Butylseal 572 Primer",
+    "slug": "davlin-coatings-butylseal-572-primer",
+    "description": "Davlin Coatings Butylseal 572 Primer is a waterborne butyl type emulsion sealer developed in 1983 to provide a firm foundation on masonry or wood surfaces on which to apply a finish coat. It possesses excellent sealing and drying properties over chalky or porous surfaces while maintaining flexibility and a suitable after tack to provide better adhesion for a top coat.",
+    "company_name": "Davlin Coatings",
+    "company_slug": "davlin-coatings",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520359/production/Company/53623/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608502/production/CategoryImage/564/category_image/BuildingConstruction_08.jpg",
+    "properties": {
+        "Applications": [
+            "Building & Construction",
+            "Packaging Coatings",
+            "Primers & Lacquers",
+            "Wood Coatings & Finishes",
+            "Concrete Coatings & Stains"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Sealer",
+            "Waterborne Coating",
+            "Primer"
+        ],
+        "Application Area": [
+            "Stucco"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Masonry",
+            "Wood",
+            "Concrete"
+        ],
+        "Features": [
+            "Good Adhesion",
+            "Low Odor",
+            "Cleanable",
+            "Water-based",
+            "Excellent Dry Film Stability",
+            "Excellent Substrate Adhesion",
+            "Water Resistant",
+            "Excellent Flexibility",
+            "Tacky",
+            "Excellent Seal Properties"
+        ],
+        "Application Method": [
+            "Spray",
+            "Roller",
+            "Brush"
+        ]
+    }
+}

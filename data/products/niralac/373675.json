@@ -1,0 +1,42 @@
+{
+    "id": 373675,
+    "brand": "niralac",
+    "name": "Niralac MHV 4860- 60",
+    "slug": "niralac-mhv-4860-60",
+    "description": "Niralac MHV 4860- 60 is used in the air drying of industrial primers and enamels.",
+    "company_name": "National Industrial Resins",
+    "company_slug": "national-industrial-resins",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112364/production/Brand/27900/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608640/production/CategoryImage/572/category_image/PaintingsCoatings_08.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial Coatings"
+        ],
+        "Product Families": [
+            "Resins & Binders",
+            "Alkyds"
+        ],
+        "Chemical Family": [
+            "Alkyds",
+            "Alkyds (Medium Oil)"
+        ],
+        "End Uses": [
+            "Primer",
+            "Enamel"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Alkyds",
+            "Alkyds (Medium Oil)"
+        ],
+        "End Uses": [
+            "Primer",
+            "Enamel"
+        ],
+        "Features": [
+            "Yellowing Resistance",
+            "Fast Drying"
+        ]
+    }
+}

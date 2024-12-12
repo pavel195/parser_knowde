@@ -1,0 +1,49 @@
+{
+    "id": 214714,
+    "brand": "micral",
+    "name": "MoldX® P18",
+    "slug": "moldx-p18",
+    "description": "MoldX® P18 is for pultrusion, resin infusion, CIPP and vacuum bag molding applications. It's particle size distribution with top size particles of less than 18 microns gives superb processing performance at fiberglass contents greater than 50% by weight.",
+    "company_name": "Huber Engineered Materials",
+    "company_slug": "huber-engineered-materials",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1710409388/production/Company/8382/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1710409388/production/Company/8382/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Sealants & Caulks",
+            "Carpet",
+            "Other Coatings & Finishes",
+            "Other Building Envelope & Roofing Applications",
+            "Other Roofing Applications",
+            "Other Automotive & Transportation Coatings",
+            "Building Wires & Power Cables",
+            "Other Paints & Coatings Applications",
+            "Carpet & Upholstery",
+            "Other Adhesives & Sealants Applications",
+            "Building & Construction",
+            "Coatings & Finishes",
+            "Building Materials",
+            "Flooring & Surfaces",
+            "Roofing",
+            "Wire & Cable",
+            "Automotive & Transportation",
+            "Building Envelope & Roofing",
+            "Decorative Materials & Finishes"
+        ],
+        "Product Families": [
+            "Fire Retardants",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Aluminum Compounds"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Flame Retardant"
+        ],
+        "Chemical Family": [
+            "Aluminum Compounds"
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "id": 411635,
+    "brand": "trymer",
+    "name": "MicroCell®",
+    "slug": "microcell",
+    "description": "MicroCell® is a chemically crosslinked polyolefin closed-cell foam available in 3\" and 4\" bun form with an extremely fine cell structure. It is easily skived to thinner thicknesses. This has taken the place of Voltek’s Minicel since it is no longer available in the U.S. Standard FMVSS-302 and Aviation F.A.R. 25.853 (A) vertical burn test.",
+    "company_name": "Hibco Plastics",
+    "company_slug": "hibco-plastics",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1702444512/production/Brand/32077/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Sports & Recreation"
+        ],
+        "Product Families": [
+            "Foams"
+        ],
+        "Chemical Family": [
+            "Polyolefins"
+        ]
+    },
+    "summary": {
+        "Foam Type": [
+            "Open Cell Foam"
+        ],
+        "Chemical Family": [
+            "Polyolefins"
+        ]
+    }
+}

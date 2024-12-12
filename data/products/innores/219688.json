@@ -1,0 +1,49 @@
+{
+    "id": 219688,
+    "brand": "innores",
+    "name": "Terachroma® 44-2822 Organic Yellow",
+    "slug": "terachroma-44-2822-organic-yellow",
+    "description": "Terachroma® 44-acrylic colorants with wide compatibility in solvent-based industrial resin systems.",
+    "company_name": "Pflaumer Brothers",
+    "company_slug": "pflaumer-brothers",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708516879/production/Company/14251/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608630/production/CategoryImage/571/category_image/PaintingsCoatings_07.jpg",
+    "properties": {
+        "Applications": [
+            "Architectural Coatings",
+            "Flexography",
+            "Industrial Coatings",
+            "Building Envelope",
+            "Building & Construction",
+            "Printing & Inks",
+            "Building Envelope & Roofing"
+        ],
+        "Product Families": [
+            "Organic Pigments",
+            "Color Dispersions",
+            "Dispersions & Masterbatches",
+            "Pigments & Colorants",
+            "Color Pigments"
+        ],
+        "End Uses": [
+            "Solventborne Coating"
+        ]
+    },
+    "summary": {
+        "Color": [
+            "Yellow"
+        ],
+        "Pigment Type": [
+            "Organic Pigments"
+        ],
+        "End Uses": [
+            "Solventborne Coating"
+        ],
+        "Compatible Polymers & Resins": [
+            "Acrylics"
+        ],
+        "Carrier": [
+            "Solvent-based"
+        ]
+    }
+}

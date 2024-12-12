@@ -1,0 +1,41 @@
+{
+    "id": 300448,
+    "brand": "cobecol",
+    "name": "MOBECOL 501/50",
+    "slug": "mobecol-501-50",
+    "description": "MOBECOL 501/50 is water-based Polyvinyl Acetate Homopolymer.",
+    "company_name": "Mobel Polymers",
+    "company_slug": "mobel-polymers",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1703849708/production/Company/24265/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608477/production/CategoryImage/562/category_image/BuildingConstruction_06.jpg",
+    "properties": {
+        "Applications": [
+            "Bookbinding",
+            "Furniture Adhesives",
+            "Bookbinding Adhesives",
+            "Furniture",
+            "Textile Manufacturing",
+            "Construction Adhesives",
+            "Wood Flooring",
+            "Adhesives",
+            "Other Adhesives & Sealants Applications",
+            "Industrial & Assembly Adhesives",
+            "Packaging & Paper",
+            "Building Materials",
+            "Flooring & Surfaces",
+            "Textiles & Nonwovens",
+            "Tapes, Labels & Adhesives",
+            "Leather & Textiles"
+        ],
+        "Product Families": [
+            "Other Resins & Binders",
+            "Resins & Binders"
+        ]
+    },
+    "summary": {
+        "Compatible Substrates & Surfaces": [
+            "Wood",
+            "Paper"
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": 335655,
+    "brand": "primex-golden-flex",
+    "name": "BBS® Flex Palm All-Purpose Shortening",
+    "slug": "bbs-flex-palm-all-purpose-shortening",
+    "description": "BBS Flex Shortening is a zero grams trans-fat all-purpose, unemulsified shortening used in a variety of baking applications such as cookies, pound cakes, pie doughs and donuts. BBS Flex provides consistency and maximum performance in every batch. We all know the issues with palm shortenings - they're hard to work with, not as creamy, not as white, and different in texture. That's why Stratas Foods, leader in innovation, developed a new process called \"Flex Palm\" that produces our zero grams trans-fat shortenings.",
+    "company_name": "STRATAS FOODS - Food Ingredients Division",
+    "company_slug": "stratas-foods-food-ingredients-division",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686104164/production/Brand/24793/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606961/production/CategoryImage/506/category_image/FoodNutrition_07.jpg",
+    "properties": {
+        "Applications": [
+            "Food",
+            "Bakery"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Edible Oils & Fats"
+        ],
+        "End Uses": [
+            "Pies",
+            "Cookies",
+            "Cakes",
+            "Shortening"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Vegetable Fat"
+        ],
+        "Labeling Claims": [
+            "Trans fat-free"
+        ],
+        "Features": [
+            "Good Consistency",
+            "Creamy Mouthfeel",
+            "Smooth Texture"
+        ]
+    }
+}

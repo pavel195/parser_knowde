@@ -1,0 +1,71 @@
+{
+    "id": 243679,
+    "brand": "primetime-flavor-sampling-kits",
+    "name": "PRIMETIME Nat Strawberry Flavor WONF (BD-10643)",
+    "slug": "primetime-nat-strawberry-flavor-wonf-bd-10643",
+    "description": "\nSensory Profile:\nCarbonated Soft Drinks: Strawberry, candied, red berries, strawberry fruity, jammy strawberryFlavoured Alcoholic Beverages: Strawberry, candied, strawberry fruity, green fruity, creamy, jammySpirits: Strawberry, seed, candied, strawberry fruity, green fruity, creamy, jammy strawberry",
+    "company_name": "Givaudan",
+    "company_slug": "givaudan",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1723097195/production/Brand/15807/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1723097195/production/Product/243679/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Other Nutrition Applications",
+            "Other Food Applications",
+            "Functional Foods",
+            "Bakery",
+            "Carbonated Drinks",
+            "Functional & Flavored Water",
+            "Desserts & Fruit Preparations",
+            "Juice & Juice Drinks",
+            "Liquor & Spirits",
+            "Tea, Cocoa & Coffee",
+            "Dairy",
+            "Confectionery",
+            "Cereals & Snacks",
+            "Other Non-Alcoholic Beverages",
+            "Beverage",
+            "Food",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Flavor Ingredients",
+            "Taste & Flavor"
+        ],
+        "Flavor Family": [
+            "Fruit Flavors"
+        ],
+        "End Uses": [
+            "Yogurt",
+            "Flavored Water",
+            "Sorbet",
+            "Snacks",
+            "Juices",
+            "Cheese",
+            "Alcoholic Beverages",
+            "Dairy Drinks",
+            "Dairy Products",
+            "Syrups",
+            "Breakfast Cereals",
+            "Carbonated Drinks"
+        ]
+    },
+    "summary": {
+        "Physical Form": [
+            "Liquid"
+        ],
+        "Soluble In": [
+            "Water Soluble"
+        ],
+        "Certifications & Compliance": [
+            "TTB Approved",
+            "Kosher"
+        ],
+        "Labeling Claims": [
+            "Natural",
+            "Allergen-free",
+            "Gluten-free",
+            "Vegan"
+        ]
+    }
+}

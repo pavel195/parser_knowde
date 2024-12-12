@@ -1,0 +1,30 @@
+{
+    "id": 442728,
+    "brand": "ferraroni-mangimi",
+    "name": "Ferraroni MANGIMI® Dry",
+    "slug": "ferraroni-mangimi-dry",
+    "description": "Ferraroni Mangimi® Dry is a feed for dry cows.",
+    "company_name": "Ferraroni",
+    "company_slug": "ferraroni",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686126470/production/Company/64760/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608238/production/CategoryImage/552/category_image/AgricultureFeed_08.jpg",
+    "properties": {
+        "Applications": [
+            "Animal Health & Nutrition",
+            "Ruminants"
+        ],
+        "Product Families": [
+            "Formulated Feeds & Premixes",
+            "Formulated Feeds, Whole Foods and Extracts"
+        ]
+    },
+    "summary": {
+        "Animal Species": [
+            "Cows",
+            "Cattle"
+        ],
+        "Certifications & Compliance": [
+            "ISO 22000"
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "id": 410511,
+    "brand": "viscofol",
+    "name": "GO-Chelate Mn",
+    "slug": "go-chelate-mn",
+    "description": "GO-Chelate Mn is a phytonutrient which contains manganese chelated by EDTA, in a microgranular form with a high solubility. It is Recommended for preventing and correcting the symptoms caused by manganese deficiencies in all types of crops and soils. Manganese is completely soluble, meaning quick assimilation.",
+    "company_name": "Global Crop Improvement Company",
+    "company_slug": "global-crop-improvement-company",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708683763/production/Brand/31893/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608173/production/CategoryImage/547/category_image/AgricultureFeed_03.jpg",
+    "properties": {
+        "Applications": [
+            "Oilseeds",
+            "Fodder & Forage",
+            "Ornamentals",
+            "Fruits",
+            "Vegetables",
+            "Legumes",
+            "Sugar & Starch Crops",
+            "Cereals",
+            "Agricultural Crops",
+            "Turf, Ornamentals & Landscape"
+        ],
+        "Product Families": [
+            "Water Conditioners & Softeners",
+            "Fertilizers & Nutrients",
+            "Adjuvants & Formulation Ingredients",
+            "Plant Health, Nutrients & Soil Management"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Fertilizer",
+            "Chelating Agent"
+        ]
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "id": 486381,
+    "brand": "rewoquat",
+    "name": "SK-Influx® MB",
+    "slug": "sk-influx-mb",
+    "description": "SK-Influx® is a skin-identical lipid concentrate for enhanced skin moisturization and protection. It is ideal for aging skin, dry skin and sensitive skin. SK-Influx® is a concentrated formulation, consisting of a multi-lamellar (membrane) system resembling the structure of the lipid barrier in the Stratum Corneum. It is a concentrated mix of different types of ceramides, cholesterol, free fatty acids and phytosphingosine makes it an ideal ingredient for personal care products with unique restoring capabilities.",
+    "company_name": "Evonik",
+    "company_slug": "evonik",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1727236826/production/Company/16227/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1727236826/production/Product/486381/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Wipes, Tissue & Towel",
+            "Skin Care",
+            "Beauty & Care",
+            "Personal Hygiene"
+        ],
+        "Product Families": [
+            "Conditioners & Emollients",
+            "Skin Actives",
+            "Cosmetic Actives",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Xanthan Gum",
+            "Sodium Lauroyl Lactylate",
+            "Carbomer",
+            "Cholesterol",
+            "Phytosphingosine",
+            "Ceramide EOP",
+            "Ceramide AP",
+            "Ceramide NP"
+        ],
+        "End Uses": [
+            "Wet Wipes"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Carbomer",
+            "Ceramide EOP",
+            "Ceramide NP",
+            "Phytosphingosine",
+            "Sodium Lauroyl Lactylate",
+            "Xanthan Gum",
+            "Ceramide AP",
+            "Cholesterol"
+        ],
+        "Functions": [
+            "Restoring Agent",
+            "Skin Barrier Protectant"
+        ],
+        "Labeling Claims": [
+            "Paraben-free"
+        ],
+        "Certifications & Compliance": [
+            "IECIC (China)"
+        ],
+        "Benefit Claims": [
+            "Regenerating",
+            "Anti-Aging",
+            "Skin Protection",
+            "Restoring",
+            "Cell Regeneration",
+            "Barrier Function Improvement",
+            "Moisturizing",
+            "Suitable for Sensitive Skin",
+            "Repairing",
+            "Nourishing",
+            "Skin Barrier"
+        ]
+    }
+}

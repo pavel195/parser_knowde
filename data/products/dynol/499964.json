@@ -1,0 +1,36 @@
+{
+    "id": 499964,
+    "brand": "dynol",
+    "name": "ROHACELL® WF",
+    "slug": "rohacell-wf",
+    "description": "ROHACELL® WF is a core material with a coarse cell size that offers exceptional heat resistance and creep compression strength. It is characterized by its high temperature and compressive resistance, making it suitable for various applications, including aircraft, space, automotive, industrial, and radomes.\r\n",
+    "company_name": "Evonik",
+    "company_slug": "evonik",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1727236824/production/Company/16227/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1727236824/production/Brand/38604/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Aerospace & Aviation",
+            "Transportation"
+        ],
+        "Product Families": [
+            "Foam Cores",
+            "Core Materials"
+        ],
+        "End Uses": [
+            "Helicopter Rotor Blades",
+            "Aerospace Applications",
+            "Stringers",
+            "Fuselage",
+            "Bulkheads"
+        ]
+    },
+    "summary": {
+        "Core Type": [
+            "Polymethacrylimide (PMI) Foam"
+        ],
+        "Functions": [
+            "Core Material"
+        ]
+    }
+}

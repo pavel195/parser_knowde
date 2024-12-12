@@ -1,0 +1,37 @@
+{
+    "id": 318246,
+    "brand": "eurovac",
+    "name": "Eurocryl 1255",
+    "slug": "eurocryl-1255",
+    "description": "Eurocryl 1255 is self-crosslinking, highly flexible and excellent adhesion to different substrate.",
+    "company_name": "Cebra Chemie",
+    "company_slug": "cebra-chemie",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112396/production/Company/29925/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608611/production/CategoryImage/569/category_image/PaintingsCoatings_05.jpg",
+    "properties": {
+        "Applications": [
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Resins & Binders",
+            "Acrylics"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Textiles",
+            "Paper"
+        ],
+        "Features": [
+            "Multi-Substrate Adhesion",
+            "Self Crosslinking",
+            "Improved Flexibility"
+        ]
+    }
+}

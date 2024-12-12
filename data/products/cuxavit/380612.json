@@ -1,0 +1,48 @@
+{
+    "id": 380612,
+    "brand": "cuxavit",
+    "name": "Lovit Granules",
+    "slug": "lovit-granules",
+    "description": "Lovit Granules is a water-soluble granules are only added to the drinking water immediately before use and they dissolve on their own. They contain combinations of vitamins, flavorings, amino acids and minerals.",
+    "company_name": "Kaesler Nutrition GmbH",
+    "company_slug": "kaesler-nutrition-gmbh",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708692330/production/Brand/28489/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608161/production/CategoryImage/546/category_image/AgricultureFeed_02.jpg",
+    "properties": {
+        "Applications": [
+            "Swine",
+            "Ruminants",
+            "Other Animal Health & Nutrition",
+            "Birds & Poultry",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Feed Supplements",
+            "Nutrient Premixes",
+            "Vitamins",
+            "Minerals",
+            "Nutritional Ingredients"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Mineral Source",
+            "Vitamin Source",
+            "Supplement",
+            "Nutrient Premix"
+        ],
+        "Animal Species": [
+            "Piglets",
+            "Laying Hens",
+            "Horses",
+            "Swine",
+            "Cows",
+            "Cattle"
+        ],
+        "Features": [
+            "Amino Acid Rich",
+            "Mineral Rich",
+            "Vitamin Rich"
+        ]
+    }
+}

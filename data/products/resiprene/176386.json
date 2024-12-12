@@ -1,0 +1,45 @@
+{
+    "id": 176386,
+    "brand": "resiprene",
+    "name": "Resiprene® 1090",
+    "slug": "resiprene-1090",
+    "description": "RESIPRENE® 1090 is a Thermoplastic Elastomer (TPE) easy to process and great for injection molding process",
+    "company_name": "Resirene",
+    "company_slug": "resirene",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691741984/production/Company/4435/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607988/production/CategoryImage/537/category_image/HomePersonalCare_03.jpg",
+    "properties": {
+        "Applications": [
+            "Applicators & Accessories",
+            "Sports & Recreation",
+            "Appliances & Electronics",
+            "Consumer Electronics",
+            "Medical Devices & Assemblies",
+            "Interior",
+            "Medical",
+            "Packaging & Accessories",
+            "Devices & Assemblies",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Styrenic Thermoplastic Elastomers (TPE-S)",
+            "Thermoplastic Elastomers"
+        ],
+        "Chemical Family": [
+            "Styrenics"
+        ],
+        "Polymer Name": [
+            "Styrenic Thermoplastic Elastomer"
+        ],
+        "End Uses": [
+            "Soft Touch Applications",
+            "Automotive Interior Parts",
+            "Toothbrush Handles"
+        ]
+    },
+    "summary": {
+        "Strain at Break": [
+            "637.0 - 637.0 %"
+        ]
+    }
+}

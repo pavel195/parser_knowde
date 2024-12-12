@@ -1,0 +1,38 @@
+{
+    "id": 381074,
+    "brand": "agsoy",
+    "name": "Ag Processing Lecithin",
+    "slug": "ag-processing-lecithin",
+    "description": "Ag Processing Lecithin is obtained by degumming filtered crude soybean oil. The wet sludge from the degumming process is dried under vacuum in a thin film evaporator. Lecithin is used in foods because of its emulsifying, wetting, colloidal, antioxidant and physiological properties. Lecithin also performs as a release agent for the baking and plastics industries. Lecithin also serves as a dispersing agent in latex paints and printing inks.",
+    "company_name": "Ag Processing",
+    "company_slug": "ag-processing",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708688727/production/Company/46008/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608150/production/CategoryImage/545/category_image/AgricultureFeed_01.jpg",
+    "properties": {
+        "Applications": [
+            "Bakery",
+            "Confectionery",
+            "Food"
+        ],
+        "Product Families": [
+            "Emulsifiers",
+            "Texture & Consistency"
+        ],
+        "End Uses": [
+            "Candies",
+            "Chocolates"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Soy Lecithin"
+        ],
+        "Functions": [
+            "Emulsifier"
+        ],
+        "End Uses": [
+            "Chocolates",
+            "Candies"
+        ]
+    }
+}

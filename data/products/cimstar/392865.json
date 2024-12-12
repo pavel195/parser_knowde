@@ -1,0 +1,44 @@
+{
+    "id": 392865,
+    "brand": "cimstar",
+    "name": "CIMSTAR® 70-HFP",
+    "slug": "cimstar-70-hfp",
+    "description": "CIMSTAR® 70-HFP is a chlorine-free semi-synthetic metalworking fluid of the latest generation.",
+    "company_name": "Cimcool Fluid Technology",
+    "company_slug": "cimcool-fluid-technology",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680108892/production/Brand/29597/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical & Industrial Manufacturing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Metalworking Fluids",
+            "Fluids & Lubricants"
+        ]
+    },
+    "summary": {
+        "Application Area": [
+            "Reaming",
+            "Drilling Applications",
+            "Boring Applications",
+            "Milling Operations",
+            "Tapping Operations",
+            "Turning Operations"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Aluminum",
+            "Steel",
+            "Metal"
+        ],
+        "Features": [
+            "Extreme Pressure Performance",
+            "Corrosion Resistant",
+            "Low Foaming"
+        ],
+        "Metalworking Fluid Type": [
+            "Semi-Synthetic"
+        ]
+    }
+}

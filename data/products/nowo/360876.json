@@ -1,0 +1,47 @@
+{
+    "id": 360876,
+    "brand": "nowo",
+    "name": "Nowo® Rub",
+    "slug": "nowo-rub",
+    "description": "Nowo® Rub is a professional water-borne elastic roof coating for spray painting of roof tiles and fiber cement boards.",
+    "company_name": "Coating Source",
+    "company_slug": "coating-source",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520335/production/Brand/26978/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608410/production/CategoryImage/557/category_image/BuildingConstruction_01.jpg",
+    "properties": {
+        "Applications": [
+            "Roofing",
+            "Roof Coatings"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Top Coats"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Top Coat",
+            "Waterborne Coating"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Concrete"
+        ],
+        "Features": [
+            "Flexible",
+            "Excellent Elasticity",
+            "Microbe Resistant",
+            "UV Resistant",
+            "Highly Flexible",
+            "Low VOC",
+            "Excellent Substrate Adhesion",
+            "Good Weather Fastness",
+            "Breathable",
+            "Durable"
+        ],
+        "Application Method": [
+            "Roller",
+            "Brush",
+            "Spray"
+        ]
+    }
+}

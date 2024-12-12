@@ -1,0 +1,40 @@
+{
+    "id": 416441,
+    "brand": "artisoy",
+    "name": "ARTISALT 909/NE",
+    "slug": "artisalt-909-ne",
+    "description": "ARTISALT 909/NE is a replacer of common salt, developed to be used in any kind of meat and meat products. ARTISALT 909/NE is based on marine salt, with low sodium content and yeast extract.",
+    "company_name": "Chemital",
+    "company_slug": "chemital",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708685583/production/Brand/32514/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606934/production/CategoryImage/504/category_image/FoodNutrition_05.jpg",
+    "properties": {
+        "Applications": [
+            "Meat, Poultry & Seafood",
+            "Food"
+        ],
+        "Product Families": [
+            "Salt & Salt Substitutes",
+            "Alternates & Replacements",
+            "Taste & Flavor",
+            "Whole Foods, Extracts & Premixes"
+        ],
+        "End Uses": [
+            "Processed Seafood",
+            "Processed Meat Products"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Salt Substitute"
+        ],
+        "Labeling Claims": [
+            "Halal"
+        ],
+        "Features": [
+            "Solubilizing",
+            "Low Sodium",
+            "Ready-To-Use"
+        ]
+    }
+}

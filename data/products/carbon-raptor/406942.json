@@ -1,0 +1,55 @@
+{
+    "id": 406942,
+    "brand": "carbon-raptor",
+    "name": "Industrial Hard Carbon",
+    "slug": "industrial-hard-carbon",
+    "description": "Industrial Hard Carbon is an amorphous matrix created from layers of nano-crystalline diamond and nano-crystalline silicon carbide. The unique combination of these elements gives Industrial Hard Carbon its various properties, which sets it apart from other DLC coatings on the market.",
+    "company_name": "Industrial Hard Carbon",
+    "company_slug": "industrial-hard-carbon",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520193/production/Company/53141/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608744/production/CategoryImage/575/category_image/AutomotiveTransportation_03.jpg",
+    "properties": {
+        "Applications": [
+            "Coatings & Finishes",
+            "Medical",
+            "Industrial Coatings",
+            "Printing & Inks",
+            "Fuel Systems",
+            "Laboratory & Diagnostics",
+            "Medical Devices & Assemblies",
+            "Other Oil, Gas & Mining Applications",
+            "Other Printing Applications",
+            "Aerospace Coatings",
+            "Aerospace & Aviation",
+            "Oil, Gas & Mining",
+            "Transportation",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Coating"
+        ],
+        "Features": [
+            "Corrosion Resistant",
+            "High Resilience",
+            "High Impact Resistance",
+            "Wear Resistant",
+            "Abrasion Resistant",
+            "High Hardness",
+            "Excellent Lubricity",
+            "High Durability",
+            "High Strength",
+            "High Stiffness",
+            "Low Friction"
+        ],
+        "Application Area": [
+            "Tubes",
+            "Valves"
+        ]
+    }
+}

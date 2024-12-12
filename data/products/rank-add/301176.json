@@ -1,0 +1,37 @@
+{
+    "id": 301176,
+    "brand": "rank-add",
+    "name": "Rank Add RO1000",
+    "slug": "rank-add-ro1000",
+    "description": "Rank Add RO1000 is an additive is a high efficiency wetting and dispersing agent for pigment paste and universal strainer.",
+    "company_name": "Rank Additives Pvt",
+    "company_slug": "rank-additives",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672462/production/Company/24319/logo/image",
+    "banner_url": "https://static.knowde.com/card-banners/knowde-card-for-raw-materials-8.jpg",
+    "properties": {
+        "Applications": [
+            "Other Printing & Packaging Applications",
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Dispersing & Wetting Additives",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Esters",
+            "Vegetable Oils",
+            "Ethoxylates"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Wetting Agent",
+            "Dispersant"
+        ],
+        "Chemical Family": [
+            "Ethoxylates",
+            "Vegetable Oils",
+            "Esters"
+        ]
+    }
+}

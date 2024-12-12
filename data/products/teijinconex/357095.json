@@ -1,0 +1,55 @@
+{
+    "id": 357095,
+    "brand": "teijinconex",
+    "name": "Endumax® Film TA23",
+    "slug": "endumax-film-ta23",
+    "description": "Endumax® Film TA23 is made from a special type of Ultra High Molecular Weight Polyethylene (UHMWPE) raises performance when performance counts.",
+    "company_name": "Teijin Twaron B.V.",
+    "company_slug": "teijin-twaron-b-v",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686150112/production/Brand/26578/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Chassis & Brake",
+            "Marine",
+            "Other Transportation Applications",
+            "Military & Defense",
+            "Body Armor",
+            "Transportation",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Polyethylenes",
+            "Polyolefins"
+        ],
+        "Polymer Name": [
+            "Ultra High Molecular Weight Polyethylene (UHMWPE)"
+        ],
+        "End Uses": [
+            "Marine Applications",
+            "Automotive Applications"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Ultra High Molecular Weight Polyethylene (UHMWPE)"
+        ],
+        "Physical Form": [
+            "Solid",
+            "Film"
+        ],
+        "Features": [
+            "High Modulus",
+            "High Durability",
+            "Good UV Resistance",
+            "Chemical Resistant",
+            "Excellent Shrink Back Properties",
+            "High Strength to Weight Ratio",
+            "Abrasion Resistant",
+            "High Strength"
+        ]
+    }
+}

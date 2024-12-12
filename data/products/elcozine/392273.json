@@ -1,0 +1,30 @@
+{
+    "id": 392273,
+    "brand": "elcozine",
+    "name": "Elcocid Blue BR",
+    "slug": "elcocid-blue-br",
+    "description": "Elcocid Blue BR belong to ChromaScape's broad range of acid powder dyes for the paper industry. They are intended for use in surface coloring where vivid, bright shades are required. They are highly soluble in water and exhibit excellent fastness to heat and light. Recommended when brightness of shade cannot be obtained with other relevant paper dyes classes.",
+    "company_name": "ChromaScape",
+    "company_slug": "chromascape",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708517407/production/Company/23528/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Pulping & Processing",
+            "Paper & Pulp"
+        ],
+        "Product Families": [
+            "Acid Dyes",
+            "Dyes",
+            "Pigments & Colorants"
+        ]
+    },
+    "summary": {
+        "Color": [
+            "Blue"
+        ],
+        "Dye Type": [
+            "Acid Dyes"
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "id": 393394,
+    "brand": "zappa",
+    "name": "Azacca® (ADHA-483)",
+    "slug": "azacca-adha-483",
+    "description": "Azacca® (ADHA-483) is bred by the American Dwarf Hop Association and named for the Haitian god of agriculture, this hop is descended from the likes of summit and northern brewer. It’s perfect for late additions thanks to intense tropical aromatics like ripe mango.",
+    "company_name": "CROSBY HOPS",
+    "company_slug": "crosby-hops",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686109653/production/Brand/29654/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606846/production/CategoryImage/500/category_image/FoodNutrition_01.jpg",
+    "properties": {
+        "Applications": [
+            "Beverage",
+            "Beer Brewing"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Plant & Herb Products & Extracts"
+        ],
+        "Flavor Family": [
+            "Herb Flavors",
+            "Fruit Flavors"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Hops"
+        ],
+        "Features": [
+            "Imparts Flavor"
+        ]
+    }
+}

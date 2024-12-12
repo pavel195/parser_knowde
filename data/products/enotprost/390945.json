@@ -1,0 +1,48 @@
+{
+    "id": 390945,
+    "brand": "enotprost",
+    "name": "Omeolipid®",
+    "slug": "omeolipid",
+    "description": "Omeolipid® is a blend of artichoke, caihua and fenu greek with anti-cholesterolemic, hypolipidemic and cholagogue properties, standardized to contain &lt;3 % chlorogenic acid.\r\n",
+    "company_name": "EPO Srl",
+    "company_slug": "epo-srl",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686635195/production/Company/20150/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1686635195/production/Product/390945/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Nutrition & Well Being",
+            "Nutraceuticals & Supplements"
+        ],
+        "Product Families": [
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements",
+            "Functional Ingredients",
+            "Supplements & Functional Ingredients",
+            "Phytochemicals & Plant Extracts"
+        ],
+        "End Uses": [
+            "Nutraceuticals"
+        ]
+    },
+    "summary": {
+        "Active Component": [
+            "Chlorogenic Acid"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin"
+        ],
+        "Labeling Claims": [
+            "Natural",
+            "Preservative-free",
+            "GMO-free",
+            "TSE-free",
+            "Gluten-free",
+            "BSE-free",
+            "Naturally Derived",
+            "Allergen-free"
+        ],
+        "Certifications & Compliance": [
+            "European Pharmacopeia (Ph. Eur.)"
+        ]
+    }
+}

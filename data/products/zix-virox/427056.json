@@ -1,0 +1,36 @@
+{
+    "id": 427056,
+    "brand": "zix-virox",
+    "name": "Zix Virox® Total Disinfectant",
+    "slug": "zix-virox-total-disinfectant",
+    "description": "Zix Virox® Total Disinfectant is composed of hydrogen peroxide 25% and Peracetic Acid 5%. It is used for complete disinfection of the food industry, vehicles, environments and also disinfection of all surfaces like materials and machines.",
+    "company_name": "BBZIX",
+    "company_slug": "bbzix",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704106817/production/Brand/33826/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515612/production/CategoryImage/1052/category_image/HII_04.jpg",
+    "properties": {
+        "Applications": [
+            "Institutional & Catering",
+            "Surface Care",
+            "Home Care",
+            "Institutional & Industrial Care"
+        ],
+        "Product Families": [
+            "Commercial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Disinfectant Products"
+        ],
+        "Application Area": [
+            "Tanks",
+            "Pipes"
+        ],
+        "Features": [
+            "Anti-Fungal",
+            "Anti-Bacterial"
+        ]
+    }
+}

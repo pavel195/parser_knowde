@@ -1,0 +1,41 @@
+{
+    "id": 380383,
+    "brand": "formamid",
+    "name": "Formacrom PC PC/ABS",
+    "slug": "formacrom-pc-pc-abs",
+    "description": "Formacrom PC PC/ABS is used for electric, construction and metal replacement applications. It has good transparency, impact resistance, dimensional stability and esthetic olourability. It is a general purpose injection molding grade.",
+    "company_name": "Formac",
+    "company_slug": "formac",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708531377/production/Brand/28661/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608730/production/CategoryImage/574/category_image/AutomotiveTransportation_02.jpg",
+    "properties": {
+        "Applications": [
+            "Other Parts & Components",
+            "Other Building Materials",
+            "Building Materials",
+            "Parts & Components"
+        ],
+        "Product Families": [
+            "Blends & Alloys",
+            "Engineering & Specialty Polymers"
+        ],
+        "Polymer Name": [
+            "PC/ABS Alloy"
+        ],
+        "End Uses": [
+            "Electrical Parts",
+            "Construction Applications"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "PC/ABS Alloy"
+        ],
+        "Processing Methods": [
+            "Injection Molding"
+        ],
+        "Density": [
+            "1130.0 - 1130.0 kg/m³"
+        ]
+    }
+}

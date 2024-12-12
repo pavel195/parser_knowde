@@ -1,0 +1,73 @@
+{
+    "id": 275812,
+    "brand": "aktisil",
+    "name": "SILLITIN Z 86",
+    "slug": "sillitin-z-86",
+    "description": "SILLITIN Z 86 has a fine particle size distribution and good color neutrality.",
+    "company_name": "Hoffmann Mineral",
+    "company_slug": "hoffmann-mineral",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708695514/production/Company/20722/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608566/production/CategoryImage/566/category_image/PaintingsCoatings_02.jpg",
+    "properties": {
+        "Applications": [
+            "Construction Adhesives",
+            "Overprint Varnishes",
+            "Adhesives",
+            "Industrial Coatings",
+            "Other Paints & Coatings Applications",
+            "Building & Construction",
+            "Building Materials",
+            "Construction Chemicals",
+            "Packaging Coatings"
+        ],
+        "Product Families": [
+            "Mortar & Gypsum Additives",
+            "Fillers & Extenders",
+            "Additives",
+            "Construction Chemicals"
+        ],
+        "Chemical Family": [
+            "Silicates",
+            "Barium Salts",
+            "Silica",
+            "Silicon-based Compounds"
+        ],
+        "End Uses": [
+            "Ceramics",
+            "Epoxy Coating",
+            "Solventborne Coating",
+            "E-Coat & Electrodeposition",
+            "Primer",
+            "Powder Coating",
+            "Welding Electrodes",
+            "Building Materials"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Filler"
+        ],
+        "Chemical Family": [
+            "Silica",
+            "Barium Salts",
+            "Silicon-based Compounds",
+            "Silicates"
+        ],
+        "Compatible Polymers & Resins": [
+            "Epoxies (EP)"
+        ],
+        "Particle Size": [
+            "10.5 - 10.5 microns"
+        ],
+        "End Uses": [
+            "Solventborne Coating",
+            "Epoxy Coating",
+            "Welding Electrodes",
+            "Powder Coating",
+            "E-Coat & Electrodeposition",
+            "Ceramics",
+            "Primer",
+            "Building Materials"
+        ]
+    }
+}

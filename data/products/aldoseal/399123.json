@@ -1,0 +1,44 @@
+{
+    "id": 399123,
+    "brand": "aldoseal",
+    "name": "ALDOCOAT 730",
+    "slug": "aldocoat-730",
+    "description": "ALDOCOAT 730 is a specially formulated acrylic latex elastomeric coating to provide a clear waterproof, weather resistant, color stable membrane for the protection and renovation of skylights and other like surfaces. ALDOCOAT 730 will cure as a clear coating and moderately hard to repel extremes in weather and contaminates from pollution.",
+    "company_name": "Aldo Products Company",
+    "company_slug": "aldo-products-company",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1672225224/production/Brand/30292/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1672225224/production/Product/399123/card_banner/image.png",
+    "properties": {
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Elastomeric Coating"
+        ],
+        "Features": [
+            "Excellent Substrate Adhesion",
+            "Good Weather Stability",
+            "Good Color Stability"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Masonry",
+            "Fiberglass",
+            "Concrete",
+            "Wood"
+        ],
+        "Application Method": [
+            "Spray",
+            "Roller",
+            "Brush"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    }
+}

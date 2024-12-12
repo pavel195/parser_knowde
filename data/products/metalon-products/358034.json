@@ -1,0 +1,53 @@
+{
+    "id": 358034,
+    "brand": "metalon-products",
+    "name": "Metalon Products Megasel Diesel Fuel System Treatment",
+    "slug": "metalon-products-megasel-diesel-fuel-system-treatment",
+    "description": "Metalon Products Megasel Diesel Fuel System Treatment is a new and improved hydrocarbon complex that is used to maintain distillate fuel in a sludge-free stabilized condition. MEGASEL arrests many of the problems related to storage, transportation and combustion of fuels used in diesel turbines, fuel-oil burning boilers, steam generators and internal combustion engines. Diesel fuel stability is adversely affected by the widespread practice of blending fuels from different sources. Fuel degradation is accelerated causing sludge and bacteria formation and reduced combustibility. Sticking fuel injectors, contaminated fuel lines, filters and pumps waste costly fuel, reduce operating efficiency and increase maintenance costs. The problems of corrosion, rust, acid formation and water damage are also prevalent in diesel fuel systems.",
+    "company_name": "Metalon Products",
+    "company_slug": "metalon-products",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664290918/production/Company/41236/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Other Lubricants & Fluids",
+            "Automotive ",
+            "Fuel Systems",
+            "Lubricants & Functional Fluids"
+        ],
+        "Product Families": [
+            "Deicing Fluids",
+            "Lubricants & Oils",
+            "Fluids & Lubricants"
+        ],
+        "Chemical Family": [
+            "Hydrocarbon Derivatives",
+            "Alcohols",
+            "Chlorinated Compounds",
+            "Halogenated Compounds"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Halogenated Compounds",
+            "Hydrocarbon Derivatives",
+            "Alcohols",
+            "Chlorinated Compounds"
+        ],
+        "Ready to Use Product Type": [
+            "Deicing Fluid"
+        ],
+        "Application Areas": [
+            "Aircraft"
+        ],
+        "Features": [
+            "Wear Resistant",
+            "Friction Reduction",
+            "Bacteria Resistant",
+            "Corrosion Resistant",
+            "Low Emissions",
+            "No Carbon Build-up",
+            "Sludge Build-up Prevention"
+        ]
+    }
+}

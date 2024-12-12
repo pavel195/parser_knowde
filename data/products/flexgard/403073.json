@@ -1,0 +1,44 @@
+{
+    "id": 403073,
+    "brand": "flexgard",
+    "name": "ArmorBond (730)",
+    "slug": "armorbond-730",
+    "description": "ArmorBond (730) is a two (2) component, 100% solids epoxy polymer Base Coat system for medium and general use applications where a normal cure formulation can be tolerated. Blended with select aggregates, this system can be trowel applied as an overlay system or applied as a slurry system with optional broadcast aggregate. 730 ArmorBond, when coated with one of the appropriate topcoats, provides very good impact, abrasion and chemical resistance characteristics.",
+    "company_name": "Thermal-Chem Corporation",
+    "company_slug": "thermal-chem-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520325/production/Brand/30794/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608422/production/CategoryImage/558/category_image/BuildingConstruction_02.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Flooring & Surfaces",
+            "Decorative Paints, Coatings & Stains",
+            "Decorative Materials & Finishes",
+            "Other Flooring & Surface Applications",
+            "Floor Coatings"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Base Coats & Undercoats"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Base Coat",
+            "Solventless & High Solids Coating",
+            "Epoxy Coating",
+            "2K (2 component) Coating"
+        ],
+        "Features": [
+            "Chemical Resistant",
+            "Self-Priming",
+            "Abrasion Resistant",
+            "High Impact Resistance",
+            "General Purpose",
+            "Durable"
+        ],
+        "Application Method": [
+            "Trowel"
+        ]
+    }
+}

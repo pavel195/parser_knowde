@@ -1,0 +1,51 @@
+{
+    "id": 275922,
+    "brand": "12-cobalt-cem-all",
+    "name": "Borchi® Gen 0650",
+    "slug": "borchi-gen-0650",
+    "description": "Wetting and Dispersing Agent for Stabilizing Pigments and Fillers with Polar SurfacesBorchi® Gen 0650 is an anionic, APEO- and VOC-free wetting and dispersing agent for water- and solvent-based coating systems. This dispersant is highly effective in stabilizing pigments and fillers with very polar surfaces . These include titanium dioxide (TiO 2 ) , iron oxide , and hydrophilic organic pigments.",
+    "company_name": "Borchers: A Milliken Brand",
+    "company_slug": "borchers",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1715135653/production/Brand/18991/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608611/production/CategoryImage/569/category_image/PaintingsCoatings_05.jpg",
+    "properties": {
+        "Applications": [
+            "Decorative Paints, Coatings & Stains",
+            "Decorative Paints",
+            "Marine Coatings",
+            "Marine",
+            "Industrial Coatings",
+            "Coatings & Finishes",
+            "Transportation",
+            "Building Materials",
+            "Automotive & Transportation",
+            "Building & Construction",
+            "Decorative Materials & Finishes"
+        ],
+        "Product Families": [
+            "Dispersing & Wetting Additives",
+            "Additives"
+        ],
+        "End Uses": [
+            "Solventborne Coating",
+            "Waterborne Coating"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Dispersant",
+            "Wetting Agent"
+        ],
+        "End Uses": [
+            "Solventborne Coating",
+            "Waterborne Coating"
+        ],
+        "Compatible Polymers & Resins": [
+            "Alkyds"
+        ],
+        "Labeling Claims": [
+            "VOC-free",
+            "APEO-Free"
+        ]
+    }
+}

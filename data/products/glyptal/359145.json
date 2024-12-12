@@ -1,0 +1,43 @@
+{
+    "id": 359145,
+    "brand": "glyptal",
+    "name": "Glyptal® C1800",
+    "slug": "glyptal-c1800",
+    "description": "Glyptal® C1800 is designed as a quick-dry, high viscosity gasket seal. The C-1800 red enamel is an excellent protective coating suitable for almost all types of equipment where oil, moisture, and acid resistance as well as good weatherability are desired. It has superior thermal resistance. C-1800 is also very useful in a variety of pipe-thread compound, gasket adhesive, vacuum system sealer, etc.",
+    "company_name": "Glyptal",
+    "company_slug": "glyptal",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1685601162/production/Company/30765/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608557/production/CategoryImage/565/category_image/PaintingsCoatings_01.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial & Assembly Adhesives",
+            "Other Industrial & Assembly Applications",
+            "Industrial Adhesives & Sealants",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Enamels",
+            "Protective Coatings"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Coating",
+            "Enamel"
+        ],
+        "Application Method": [
+            "Brush",
+            "Dip Coating"
+        ],
+        "Features": [
+            "Acid Resistant",
+            "High Viscosity",
+            "Good Weather Fastness",
+            "Oil Resistant",
+            "Fast Drying",
+            "Moisture Resistant",
+            "Heat Resistance"
+        ]
+    }
+}

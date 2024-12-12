@@ -1,0 +1,96 @@
+{
+    "id": 317391,
+    "brand": "gosulin",
+    "name": "INUTEC® H25P",
+    "slug": "inutec-h25p",
+    "description": "Natural Inulin wrapping your hair and skin into a smooth and pleasant film. Inutec H25/P is particularly effective when formulated in rinse-off products.",
+    "company_name": "Gobiotics",
+    "company_slug": "gobiotics",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672874/production/Product/317391/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708672874/production/Product/317391/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Skin Care",
+            "Bath & Shower",
+            "Hand Hygiene",
+            "Hair Care",
+            "Beauty & Care",
+            "Personal Hygiene"
+        ],
+        "Product Families": [
+            "Conditioners & Emollients",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Inulin"
+        ],
+        "End Uses": [
+            "Shower Butter ",
+            "Shower Cream",
+            "Hand Wash",
+            "Shampoos & Rinses",
+            "Hair Conditioner",
+            "Shower Gels"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Inulin"
+        ],
+        "Functions": [
+            "Conditioner"
+        ],
+        "Ingredient Origin": [
+            "Non-Animal Origin",
+            "Natural Origin",
+            "Plant Origin"
+        ],
+        "Labeling Claims": [
+            "Not Listed In California Proposition 65",
+            "Nanomaterials-free",
+            "Credo Clean Standard",
+            "Clean at Sephora",
+            "VOC-free",
+            "Naturally Derived",
+            "Not Tested on Animals",
+            "Palm Oil-free",
+            "Allergen-free",
+            "Natural",
+            "Vegan",
+            "Organic",
+            "Non-GMO",
+            "Microplastics-free",
+            "Ulta Beauty's Conscious Beauty",
+            "Plant-Based",
+            "Palm free",
+            "Sustainable",
+            "Gluten-free",
+            "Preservative-free",
+            "Lactose-free",
+            "Halal"
+        ],
+        "Certifications & Compliance": [
+            "ISO 16128",
+            "WADA Certified",
+            "Organic Certified",
+            "COSMOS",
+            "NaTrue",
+            "Nagoya Compliant",
+            "REACH (Europe)",
+            "ECOCERT",
+            "Halal"
+        ],
+        "Benefit Claims": [
+            "Non-Irradiated",
+            "Shine Enhancing",
+            "Skin Conditioning",
+            "Smooth Feel",
+            "Film Forming",
+            "Mild",
+            "Long Lasting",
+            "Soft After-Feel",
+            "Hair Conditioning",
+            "Smoothing"
+        ]
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "id": 413645,
+    "brand": "hdk",
+    "name": "ELASTOSIL® LR 3675/50 A/B",
+    "slug": "elastosil-lr-3675-50-a-b",
+    "description": "ELASTOSIL® LR 3675/50 A/B is a self-adhesive liquid silicone rubber of the ELASTOSIL® LR 3675 series. It is a paste-like, easily pigmentable, two-component compound with a short curing time and a low coefficient of friction. In comparison with ELASTOSIL® LR 3070 grades, the coefficient of friction is reduced by 50-70%. The vulcanizates are noted for their excellent mechanical and electrical properties. Due to the low compression set, there is no need to post-cure finished parts.",
+    "company_name": "Wacker Chemie AG",
+    "company_slug": "wacker-chemie-ag",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1713789656/production/Company/55284/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1713789656/production/Company/55284/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Batteries",
+            "Equipment & Parts",
+            "Interior",
+            "Automotive",
+            "Parts & Components",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Silicone Elastomers",
+            "Specialty Elastomers"
+        ],
+        "Chemical Family": [
+            "Silicones"
+        ],
+        "Polymer Name": [
+            "Liquid Silicone Rubber (LSR)"
+        ],
+        "End Uses": [
+            "Automotive Connector Seals",
+            "Automobile Door Seals",
+            "Batteries"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Liquid Silicone Rubber (LSR)"
+        ],
+        "End Uses": [
+            "Automobile Door Seals",
+            "Automotive Connector Seals",
+            "Batteries"
+        ],
+        "Features": [
+            "Fast Curing",
+            "Low Coefficient of Friction",
+            "Good Mechanical Properties",
+            "Pigmentable",
+            "Low Compression Set",
+            "Good Electrical Properties"
+        ],
+        "Tear Strength": [
+            "33.0 - 33.0 kN/m"
+        ]
+    }
+}

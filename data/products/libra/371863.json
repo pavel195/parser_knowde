@@ -1,0 +1,35 @@
+{
+    "id": 371863,
+    "brand": "libra",
+    "name": "Mara® Glass MGLA",
+    "slug": "mara-glass-mgla",
+    "description": "Mara® Glass MGLA is a solvent-based baking ink that can be used to print on flat glass (Second Surface) Silicone-free, glossy, high opacity, 2-component ink system, chemical resistance, high weather resistance, lamination compatibility.",
+    "company_name": "Marabu North America",
+    "company_slug": "marabu-north-america",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664291452/production/Brand/27754/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Other Printing & Packaging Applications"
+        ],
+        "Product Families": [
+            "Inks & Pastes",
+            "Other Inks"
+        ]
+    },
+    "summary": {
+        "Compatible Substrates & Surfaces": [
+            "Glass"
+        ],
+        "Features": [
+            "Chemical Resistant",
+            "High Gloss",
+            "Humidity Resistant",
+            "Excellent Opacity",
+            "Good Weather Stability",
+            "Good Light Fastness",
+            "High Temperature Resistance",
+            "Outdoor Durability"
+        ]
+    }
+}

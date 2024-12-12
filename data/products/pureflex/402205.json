@@ -1,0 +1,66 @@
+{
+    "id": 402205,
+    "brand": "pureflex",
+    "name": "GlucosaGreen® Non-Shellfish N-Acetyl Glucosamine",
+    "slug": "glucosagreen-non-shellfish-n-acetyl-glucosamine",
+    "description": "GlucosaGreen® N-Acetyl Glucosamine is bio-equivalent to glucosamine that was formerly produced from shellfish or the fungus aspergillus niger. It provides the same efficacy as traditional glucosamine, but is more consistent with demands of today’s consumers who want plant-based, sustainably produced products. Manufactured, processed, and sold exclusively through TSI Group Bio-Active Ingredients Division, it is available as a tablet grade, capsule grade, soft chew grade, or to a custom spec.",
+    "company_name": "TSI Group Ltd Bio-Active Ingredients Division",
+    "company_slug": "tsi-group",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709127714/production/Company/35193/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1709127714/production/Product/402205/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Topical",
+            "Oral",
+            "Nutraceuticals & Supplements",
+            "Pets",
+            "Animal Health & Nutrition",
+            "Nutrition & Well Being",
+            "Drug Delivery & Care Solutions"
+        ],
+        "Product Families": [
+            "Feed Supplements",
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements",
+            "Nutritional Ingredients"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "N-Acetyl-β-D-Glucosamine"
+        ],
+        "Animal Species": [
+            "Pets"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Plant Origin"
+        ],
+        "Labeling Claims": [
+            "Plant-Based",
+            "Sustainable",
+            "Naturally Derived",
+            "Vegetarian",
+            "Kosher",
+            "Allergen-free",
+            "Natural",
+            "Non-GMO"
+        ],
+        "Certifications & Compliance": [
+            "TGA Listed (Australia)",
+            "Generally Recognized As Safe (GRAS)",
+            "EU Novel Foods",
+            "Kosher",
+            "European Pharmacopeia (Ph. Eur.)",
+            "FDA Compliant",
+            "Japan Pharmacopeia (JP)",
+            "United States Pharmacopeia (USP)",
+            "cGMP"
+        ],
+        "Benefit Claims (Health)": [
+            "Joint Support"
+        ]
+    }
+}

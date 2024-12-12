@@ -1,0 +1,30 @@
+{
+    "id": 368323,
+    "brand": "deepflexrub",
+    "name": "DeepFlexRub™",
+    "slug": "deepflexrub",
+    "description": "DeepFlexRub™ is a new and different kind of Transdermal Glucosamine Cream that goes in deep and lasts.  It’s non-greasy and works fast to promote healthy joint movement and flexibility.",
+    "company_name": "NatureGen",
+    "company_slug": "naturegen",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704102035/production/Brand/27302/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608860/production/CategoryImage/583/category_image/HealthcarePharma_05.jpg",
+    "properties": {
+        "Applications": [
+            "Topical",
+            "Transdermal",
+            "Drug Delivery & Care Solutions"
+        ],
+        "Product Families": [
+            "Active Pharmaceutical Ingredients (APIs)",
+            "Pharmaceutical Actives & Precursors"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "D-Glucosamine"
+        ],
+        "Dosage Form": [
+            "Creams"
+        ]
+    }
+}

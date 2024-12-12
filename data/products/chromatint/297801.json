@@ -1,0 +1,39 @@
+{
+    "id": 297801,
+    "brand": "chromatint",
+    "name": "Chromatint® Red 0551 Liquid M93010X",
+    "slug": "chromatint-red-0551-liquid-m93010x",
+    "description": "Chromatech M93010X Chromatint Red 0551 Liquid is a fluorescent red colorant designed for use in household and industrial &amp; multipurpose soaps &amp; cleaners, foaming car wash and waxes, metal working fluids, water soluble fertilizers, and water tracing applications.",
+    "company_name": "Chromatech",
+    "company_slug": "chromatech",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708691445/production/Company/23662/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Other Industrial Applications",
+            "Fluids & Lubricants",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Specialty Dyes",
+            "Dyes",
+            "Other Additives",
+            "Pigments & Colorants",
+            "Additives"
+        ],
+        "End Uses": [
+            "Metalworking Fluids"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Dye"
+        ],
+        "Dye Type": [
+            "Fluorescent Dyes"
+        ],
+        "Color": [
+            "Red"
+        ]
+    }
+}

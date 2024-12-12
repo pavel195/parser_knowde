@@ -1,0 +1,44 @@
+{
+    "id": 422276,
+    "brand": "accepta",
+    "name": "Accepta® BC-RO",
+    "slug": "accepta-bc-ro",
+    "description": "Accepta® BC-RO is a broad spectrum non-oxidizing biocide solution based on DBNPA for use in a range of applications such as cooling water, pulp and paper processing, metal working fluids and the treatment of RO membranes. It is particularly rapid in its action and has an excellent environmental profile because it degrades quickly and naturally.",
+    "company_name": "Accepta Ltd",
+    "company_slug": "accepta-ltd",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672779/production/Brand/32881/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708672779/production/Product/422276/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Pulping & Processing",
+            "Water Treatment",
+            "Paper & Pulp",
+            "Power, Water & Utilities"
+        ],
+        "Product Families": [
+            "Metal Processing Additives",
+            "Biocides & Enzymes",
+            "Pulping Chemicals",
+            "Paper & Pulp Chemicals",
+            "Processing Aids",
+            "Water Treatment Chemicals"
+        ],
+        "Chemical Family": [
+            "Amides"
+        ],
+        "End Uses": [
+            "Paper & Pulp"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Biocide"
+        ],
+        "Chemical Family": [
+            "Amides"
+        ],
+        "End Uses": [
+            "Paper & Pulp"
+        ]
+    }
+}

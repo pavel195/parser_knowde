@@ -1,0 +1,45 @@
+{
+    "id": 426406,
+    "brand": "syn-setral",
+    "name": "CUT-setral -BIO 303",
+    "slug": "cut-setral-bio-303",
+    "description": "Setral Cut-Setral-Bio 303 is a metal working fluid based on vegetable oil. It has H1, Kosher, Halal certificates.",
+    "company_name": "Setral",
+    "company_slug": "setral",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680109395/production/Brand/33751/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Metal Manufacturing & Finishing",
+            "Lubricants & Functional Fluids",
+            "Automotive Fluids & Lubricants",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Metalworking Fluids",
+            "Fluids & Lubricants"
+        ],
+        "Chemical Family": [
+            "Vegetable Oils"
+        ]
+    },
+    "summary": {
+        "Application Area": [
+            "Metalworking Equipment",
+            "Milling Operations",
+            "Cutting Tools",
+            "Drill Cutting",
+            "Sawing Operations"
+        ],
+        "Features": [
+            "Biodegradable",
+            "Anti-Wear Properties",
+            "High Flash Point",
+            "Improved Tear Resistance",
+            "Extreme Pressure Performance"
+        ],
+        "Chemical Family": [
+            "Vegetable Oils"
+        ]
+    }
+}

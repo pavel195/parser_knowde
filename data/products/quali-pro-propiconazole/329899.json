@@ -1,0 +1,32 @@
+{
+    "id": 329899,
+    "brand": "quali-pro-propiconazole",
+    "name": "IMIDACLOPRID 0.5G",
+    "slug": "imidacloprid-0-5g",
+    "description": "Quali-Pro IMIDACLOPRID 0.5G reduces root damage in turf grass with powerful control of root-feeding insect larvae, which can also reduce damage caused by the rodents that forage on them.",
+    "company_name": "Quali-Pro",
+    "company_slug": "quali-pro",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708686913/production/Brand/23840/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608215/production/CategoryImage/550/category_image/AgricultureFeed_06.jpg",
+    "properties": {
+        "Applications": [
+            "Residential Pest Control",
+            "Commercial Pest Control",
+            "Turf Management",
+            "Pest Control",
+            "Turf, Ornamentals & Landscape"
+        ],
+        "Product Families": [
+            "Insecticides",
+            "Crop Protection & Pest Control"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Insecticide"
+        ],
+        "Insecticide Target Species": [
+            "Beetles"
+        ]
+    }
+}

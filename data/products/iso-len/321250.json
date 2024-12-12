@@ -1,0 +1,45 @@
+{
+    "id": 321250,
+    "brand": "iso-len",
+    "name": "ISO TECH Kunststoff GmbH ISO-PEEK",
+    "slug": "iso-tech-kunststoff-gmbh-iso-peek",
+    "description": "ISO TECH Kunststoff GmbH ISO-PEEK is a semi-crystalline, thermoplastic high-performance plastic which, in addition to very good mechanical properties, has high sliding properties. In addition, the material has a high temperature resistance. ISO-PEEK is often used for sliding guides and seals.",
+    "company_name": "ISO TECH Kunststoff GmbH",
+    "company_slug": "iso-tech-kunststoff-gmbh",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697221808/production/Product/321250/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Food & Beverage Packaging",
+            "Medical Devices & Assemblies",
+            "Interior",
+            "Exterior & Body",
+            "Automotive",
+            "Medical",
+            "Packaging"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Polyether Ether Ketone (PEEK)"
+        ],
+        "Polymer Name": [
+            "Polyetheretherketone (PEEK)"
+        ],
+        "End Uses": [
+            "Fenders",
+            "Food Packaging",
+            "Medical Devices",
+            "Automotive Components"
+        ]
+    },
+    "summary": {
+        "Density": [
+            "1310.0 - 1310.0 kg/m³"
+        ],
+        "Tensile Modulus": [
+            "4200.0 - 4200.0 MPa"
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "id": 415795,
+    "brand": "bondcrete",
+    "name": "Quimex 97",
+    "slug": "quimex-97",
+    "description": "Quimex 97 is a product used as an additive in foods that are highly specialized that require high purity and low impurities, is used for making tortillas or flour, it helps regulate pH, inhibition of fungus, moho or yeast in addition to providing better quality final product color. This product is primarily a source of calcium.",
+    "company_name": "Graymont",
+    "company_slug": "graymont",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708525162/production/Brand/32462/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical Manufacturing",
+            "Other Food Applications",
+            "Food",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Inorganics",
+            "Technical Salts & Inorganics"
+        ],
+        "Chemical Family": [
+            "Calcium & Calcium Compounds"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Calcium Hydroxide"
+        ],
+        "CAS Number": [
+            "1305-62-0"
+        ],
+        "Synonyms": [
+            "Ca(OH)2, Calcium Hydrate, Hydralime, Hydrated Lime, Slaked Lime"
+        ]
+    }
+}

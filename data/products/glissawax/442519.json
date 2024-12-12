@@ -1,0 +1,69 @@
+{
+    "id": 442519,
+    "brand": "glissawax",
+    "name": "Parchvale Limited Wax Emulsion 4400",
+    "slug": "parchvale-limited-wax-emulsion-4400",
+    "description": "Parchvale Limited Wax Emulsion 4400 is an an oxidized non-ionic polyethylene wax emulsion.",
+    "company_name": "Parchvale Ltd",
+    "company_slug": "parchvale-limited",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708690852/production/Company/56428/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708690852/production/Company/56428/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Textile Coatings & Inks",
+            "Primers & Lacquers",
+            "Overprint Varnishes",
+            "Textile Manufacturing",
+            "Wood Coatings & Finishes",
+            "Floor Coatings",
+            "Screen Printing",
+            "Flooring & Surfaces",
+            "Textiles & Nonwovens",
+            "Building & Construction",
+            "Packaging Coatings",
+            "Printing & Inks",
+            "Leather & Textiles"
+        ],
+        "Product Families": [
+            "Surface Modifiers",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Waxes",
+            "Polyolefins",
+            "Polyethylenes",
+            "Amides",
+            "Polyethylene Waxes"
+        ],
+        "End Uses": [
+            "Lacquers",
+            "Screen Printing Ink",
+            "Varnishes"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Waxes",
+            "Polyolefins",
+            "Polyethylene Waxes",
+            "Amides",
+            "Polyethylenes"
+        ],
+        "Functions": [
+            "Surface Modifier"
+        ],
+        "End Uses": [
+            "Varnishes",
+            "Lacquers",
+            "Screen Printing Ink"
+        ],
+        "Features": [
+            "Reduced Wear",
+            "High Durability",
+            "Abrasion Resistance",
+            "Good Lubricating Properties",
+            "Blocking Resistance",
+            "Excellent Scratch Resistance"
+        ]
+    }
+}

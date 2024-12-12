@@ -1,0 +1,67 @@
+{
+    "id": 316789,
+    "brand": "reinste",
+    "name": "Reinste 206S",
+    "slug": "reinste-206s",
+    "description": "Reinste 206S is Used as a functional filler for various adhesives and sealants such as silicone sealant, polyurethane sealants.\nAcrlylic sealants used in various construction, sanitary and industrial sectors.",
+    "company_name": "Reinste Nano Ventures",
+    "company_slug": "reinste-nano-ventures",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708695910/production/Product/316789/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608982/production/CategoryImage/589/category_image/AdhesivesSealants_06.jpg",
+    "properties": {
+        "Applications": [
+            "Sealants & Caulks",
+            "Offset & Lithographic Printing",
+            "Gravure Printing",
+            "Sealants",
+            "Building & Construction",
+            "Bonding & Assembly",
+            "Building Materials",
+            "Construction Chemicals",
+            "Roofing",
+            "Printing & Inks"
+        ],
+        "Product Families": [
+            "Fillers & Extenders",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Quartz",
+            "Silica",
+            "Carbonates",
+            "Calcium Salts"
+        ],
+        "End Uses": [
+            "Electrostatic Ink",
+            "Solventborne Ink",
+            "Offset Ink",
+            "Lithographic Ink",
+            "Gravure Ink"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Filler",
+            "Colorant"
+        ],
+        "Chemical Family": [
+            "Silica",
+            "Quartz",
+            "Calcium Salts",
+            "Carbonates"
+        ],
+        "End Uses": [
+            "Offset Ink",
+            "Gravure Ink",
+            "Electrostatic Ink",
+            "Lithographic Ink",
+            "Solventborne Ink"
+        ],
+        "Compatible Polymers & Resins": [
+            "Epoxies (EP)",
+            "Polyesters",
+            "Polyurethanes (PU)",
+            "Silicones"
+        ]
+    }
+}

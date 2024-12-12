@@ -1,0 +1,41 @@
+{
+    "id": 377060,
+    "brand": "lixothan",
+    "name": "LIXOGLYP 03 68 85",
+    "slug": "lixoglyp-03-68-85",
+    "description": "LIXOGLYP 03 68 85 is a resin for interior/exterior painting. It has good hardness and abrasion resistance and can be used for cutting with a PU alkyd resin.",
+    "company_name": "LIXOL",
+    "company_slug": "lixol",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704101765/production/Brand/28198/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608557/production/CategoryImage/565/category_image/PaintingsCoatings_01.jpg",
+    "properties": {
+        "Applications": [
+            "Decorative Paints, Coatings & Stains",
+            "Architectural Coatings",
+            "Decorative Paints",
+            "Building Envelope",
+            "Building Materials",
+            "Building & Construction",
+            "Building Envelope & Roofing",
+            "Decorative Materials & Finishes"
+        ],
+        "Product Families": [
+            "Alkyds",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Alkyds",
+            "Fatty Acids"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Fatty Acids",
+            "Alkyds"
+        ],
+        "Features": [
+            "Abrasion Resistance",
+            "Improved Hardness"
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "id": 389559,
+    "brand": "fluoronoid",
+    "name": "FLUORONOID® FL 117",
+    "slug": "fluoronoid-fl-117",
+    "description": "FLUORONOID® FL 117 is a high Temperature Aromatic Polyester Filled PTFE.",
+    "company_name": "Fluorocarbon Company",
+    "company_slug": "fluorocarbon-company",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708530852/production/Brand/29291/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Other Automotive Applications",
+            "Automotive"
+        ],
+        "Product Families": [
+            "High Performance Thermoplastics",
+            "Engineering & Specialty Polymers"
+        ],
+        "Chemical Family": [
+            "Fluoropolymers"
+        ],
+        "Polymer Name": [
+            "Polytetrafluoroethylene (PTFE)"
+        ],
+        "End Uses": [
+            "Bearings"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polytetrafluoroethylene (PTFE)"
+        ],
+        "Fillers Included": [
+            "Polyester Fiber"
+        ]
+    }
+}

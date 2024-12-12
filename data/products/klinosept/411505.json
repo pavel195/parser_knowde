@@ -1,0 +1,41 @@
+{
+    "id": 411505,
+    "brand": "klinosept",
+    "name": "KLINOSEPT™ P&P – Quick surface disinfectant",
+    "slug": "klinosept-p-p-quick-surface-disinfectant",
+    "description": "Klinosept ™ is a quick surface disinfectant recommended for a quick disinfection and cleaning. The solution is ready to use for efficient disinfection and cleaning of all types of surfaces. It has a gentle effect on materials, surfaces of any kind, but also on work devices.",
+    "company_name": "Klintensiv SRL",
+    "company_slug": "klintensiv-srl",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292458/production/Brand/32048/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515647/production/CategoryImage/1055/category_image/HII_07.jpg",
+    "properties": {
+        "Applications": [
+            "Processing & Packaging",
+            "Food & Beverage Manufacturing",
+            "Home Care",
+            "Institutional & Industrial Care",
+            "Surface Care",
+            "Industrial Cleaning",
+            "Institutional & Catering",
+            "Food Facility Cleaning & Sanitization"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Commercial Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner",
+            "Disinfectant Products"
+        ],
+        "Application Areas": [
+            "Equipment",
+            "Hard Surfaces"
+        ],
+        "Features": [
+            "Bacteria Resistant",
+            "Fungus Resistant"
+        ]
+    }
+}

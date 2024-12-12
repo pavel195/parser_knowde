@@ -1,0 +1,41 @@
+{
+    "id": 419281,
+    "brand": "confined-space",
+    "name": "Confined Space® PRO",
+    "slug": "confined-space-pro",
+    "description": "Confined Space® PRO Paint Strip Gel is specially engineered to remove acrylic, epoxy, urethane, varnish, and latex &amp; oil-based paints from small, tight, confined spaces where proper airflow may be limited. This water-based formula contains NO dangerous methylene chloride or harmful NMP. Confined Space PRO Paint Strip Gel is specifically designed for larger, professional, commercial based projects where space may be limited like offices, bathrooms, closets, stairwells, hallways, crawlspaces, pipes, and more. Confined Space PRO Paint Strip Gel works in as fast as thirty minutes. Effective on virtually all surfaces: wood, brick, concrete, stone, plaster, fiberglass, tile, porcelain, etc. For best results, use on post 1980’s paints and coatings.",
+    "company_name": "Dumond Chemicals",
+    "company_slug": "dumond-chemicals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292674/production/Brand/32892/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515684/production/CategoryImage/1058/category_image/HII_10.jpg",
+    "properties": {
+        "Applications": [
+            "Institutional & Industrial Care",
+            "Industrial Cleaning"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Industrial Cleaners",
+            "Commercial Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Paint Remover"
+        ],
+        "Application Areas": [
+            "Brick"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Fiberglass",
+            "Brick",
+            "Painted Surfaces",
+            "Concrete",
+            "Wood",
+            "Stone"
+        ],
+        "Features": [
+            "Water-based"
+        ]
+    }
+}

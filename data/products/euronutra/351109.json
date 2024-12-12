@@ -1,0 +1,43 @@
+{
+    "id": 351109,
+    "brand": "euronutra",
+    "name": "caromax syrup F+G",
+    "slug": "caromax-syrup-f-g",
+    "description": "caromax syrup F+G is a unique premium quality carob syrup. It is obtained from the best quality carob pods growing in the south of Spain by an innovative natural proprietary manufacturing process. It has a sweet flavor and a light golden color. It has been specially designed for its use in all possible applications, such as bakery or dairy products as a potent edulcorate. Its content in pinitol makes this product a unique natural alternative to control blood glucose and glucose metabolism. Besides, there are clinical and preclinical researches that indicate that syrup F+G may impact numerous neurotransmitters involved in mood, anxiety and alertness.",
+    "company_name": "EURONUTRA, S.L.",
+    "company_slug": "euronutra-s-l",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708687914/production/Company/37972/logo/image",
+    "banner_url": "https://static.knowde.com/card-banners/knowde-card-for-raw-materials-8.jpg",
+    "properties": {
+        "Applications": [
+            "Dairy",
+            "Bakery",
+            "Nutraceuticals & Supplements",
+            "Food",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Sweeteners & Syrups",
+            "Taste & Flavor",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Dietary Supplements"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Carob"
+        ],
+        "Functions": [
+            "Supplement",
+            "Dietary Supplement"
+        ],
+        "Ingredient Origin": [
+            "Plant Origin"
+        ]
+    }
+}

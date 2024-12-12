@@ -1,0 +1,35 @@
+{
+    "id": 346522,
+    "brand": "egmont",
+    "name": "SureProtein™ Milk Protein Concentrate Gold 4887",
+    "slug": "sureprotein-milk-protein-concentrate-gold-4887",
+    "description": "SureProtein™ Milk Protein Concentrate Gold 4887 is designed for high heat beverage processes. Ultra heat stable milk protein concentrate enabling fast, clean processing.",
+    "company_name": "NZMP (USA) / Fonterra North America",
+    "company_slug": "nzmp-usa-fonterra-north-america",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1693582626/production/Brand/25789/logo/image",
+    "banner_url": "https://static.knowde.com/card-banners/knowde-card-for-raw-materials-8.jpg",
+    "properties": {
+        "Applications": [
+            "Nutraceuticals & Supplements",
+            "Dairy",
+            "Powdered Beverages",
+            "Sports Nutrition",
+            "Beverage",
+            "Food",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Proteins & Amino Acids",
+            "Dairy Products",
+            "Nutrition & Fortification",
+            "Whole Foods, Extracts & Premixes",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Sports Nutrition",
+            "Protein Drinks",
+            "Yogurt"
+        ]
+    },
+    "summary": {}
+}

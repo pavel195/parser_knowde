@@ -1,0 +1,38 @@
+{
+    "id": 326109,
+    "brand": "maltofat",
+    "name": "WheyPro 35",
+    "slug": "wheypro-35",
+    "description": "WheyPro 35 is a Whey protein concentrate powder produced from a mixture of pasteurized ewe and goat whey. Whey protein concentrate with 35% protein from a mixture of ewe and goat whey.",
+    "company_name": "Hellenic Protein S.A.",
+    "company_slug": "hellenic-protein-s-a",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1693581141/production/Brand/23350/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607009/production/CategoryImage/509/category_image/FoodNutrition_10.jpg",
+    "properties": {
+        "Applications": [
+            "Savory & Culinary",
+            "Desserts & Fruit Preparations",
+            "Dairy",
+            "Confectionery",
+            "Bakery",
+            "Food"
+        ],
+        "Product Families": [
+            "Proteins & Amino Acids",
+            "Dairy Products",
+            "Nutrition & Fortification",
+            "Whole Foods, Extracts & Premixes",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Packaged Salads",
+            "Desserts",
+            "Confectionery Products"
+        ]
+    },
+    "summary": {
+        "Protein Content": [
+            "35.0 - 35.0 %"
+        ]
+    }
+}

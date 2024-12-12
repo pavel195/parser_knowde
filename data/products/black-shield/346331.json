@@ -1,0 +1,32 @@
+{
+    "id": 346331,
+    "brand": "black-shield",
+    "name": "Black Shield™ Heatset 5C77H709401",
+    "slug": "black-shield-heatset-5c77h709401",
+    "description": "Black Shield™ Heatset 5C77H709401 has 50% carbon content and solvent used is 15% severely hydrotreated M47 or equivalent.",
+    "company_name": "DyStar",
+    "company_slug": "dystar",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708526760/production/Brand/25778/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609103/production/CategoryImage/595/category_image/PrintingPackaging_06.jpg",
+    "properties": {
+        "Applications": [
+            "Offset & Lithographic Printing",
+            "Printing & Inks"
+        ],
+        "Product Families": [
+            "Dispersions & Masterbatches",
+            "Pigments & Colorants"
+        ],
+        "End Uses": [
+            "Offset Ink"
+        ]
+    },
+    "summary": {
+        "End Uses": [
+            "Offset Ink"
+        ],
+        "Carrier": [
+            "Oil-based"
+        ]
+    }
+}

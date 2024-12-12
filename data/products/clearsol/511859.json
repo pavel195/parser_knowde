@@ -1,0 +1,66 @@
+{
+    "id": 511859,
+    "brand": "clearsol",
+    "name": "ClearSol CIP Complete 20+",
+    "slug": "clearsol-cip-complete-20",
+    "description": "ClearSol CIP Complete 20+ is a fully formulated, complete, very low-foaming 50% caustic cleaner with 20 grains of hard water control. ClearSol CIP Complete 20+ provides extremely low foam properties, making it suitable for many industrial cleaning processes. ClearSol CIP Complete 20+ controls hard water up to 20 grains hardness even in high-temperature cleaning applications. ClearSol CIP Complete 20+ can reduce either the NaOH consumption or the cleaning cycle time by as much as 50%.",
+    "company_name": "Clear Solutions USA",
+    "company_slug": "clear-solutions-usa",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1713261624/production/Brand/33236/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1713261624/production/Company/28942/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Surface Care",
+            "Vehicle & Machinery",
+            "Pulping & Processing",
+            "Auto Care",
+            "Paper & Pulp",
+            "Home Care",
+            "Institutional & Industrial Care"
+        ],
+        "Product Families": [
+            "Oilfield & Transport Chemicals",
+            "Industrial Cleaners",
+            "Finishing Additives & Treatments",
+            "Cleaners",
+            "Oil, Gas & Mining Chemicals",
+            "Paper & Pulp Chemicals"
+        ],
+        "Chemical Family": [
+            "Alkalis"
+        ],
+        "End Uses": [
+            "Oil & Gas Applications",
+            "Paper & Pulp"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Alkalis"
+        ],
+        "Product Type": [
+            "Alkaline Cleaners"
+        ],
+        "Certifications & Compliance": [
+            "SARA 313",
+            "Canadian Environmental Protection Act (CEPA)",
+            "SARA 302",
+            "California Proposition 65",
+            "SARA 304"
+        ],
+        "Application Area": [
+            "Industrial Equipments",
+            "Truck",
+            "Poultry",
+            "Clean-in-place Applications",
+            "Car",
+            "Food Processing Machinery",
+            "Equipment"
+        ],
+        "Applicable Processes": [
+            "Oilfield Applications",
+            "Paper Manufacturing",
+            "Pulping"
+        ]
+    }
+}

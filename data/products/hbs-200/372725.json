@@ -1,0 +1,64 @@
+{
+    "id": 372725,
+    "brand": "hbs-200",
+    "name": "HBS-200 Rubber Tix",
+    "slug": "hbs-200-rubber-tix",
+    "description": "HBS-200 Rubber Tix is Universal, thixotropic, durable, waterproof, airtight and protective coating. HBS-200® Rubber Tix has a high viscosity, making it ideal for vertical applications and fast layer build-up. .",
+    "company_name": "Griffon",
+    "company_slug": "griffon",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520046/production/Brand/27816/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608972/production/CategoryImage/588/category_image/AdhesivesSealants_05.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Construction Chemicals",
+            "Flooring & Surfaces",
+            "Roofing",
+            "Sealants & Caulks",
+            "Adhesives",
+            "Construction Adhesives"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Waterborne Coating"
+        ],
+        "Features": [
+            "Corrosion Resistant",
+            "High Viscosity",
+            "Good Bonding Strength",
+            "Thixotropic",
+            "Excellent Elasticity",
+            "Water Resistant",
+            "Good Weather Fastness",
+            "Good Erosion Resistance",
+            "Chemical Resistant",
+            "Paintable",
+            "Non-Toxic",
+            "Salt Resistance",
+            "Good UV Resistance",
+            "Durable"
+        ],
+        "Application Area": [
+            "Universal Joints",
+            "Sanitary Seal"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Zinc",
+            "Masonry",
+            "Metal",
+            "Concrete",
+            "Wood",
+            "Stone"
+        ],
+        "Application Method": [
+            "Roller",
+            "Brush",
+            "Spray"
+        ]
+    }
+}

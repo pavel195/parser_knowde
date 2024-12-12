@@ -1,0 +1,51 @@
+{
+    "id": 424003,
+    "brand": "iriscolor",
+    "name": "Plastic ORANGE (3G)",
+    "slug": "plastic-orange-3g",
+    "description": "Plastic ORANGE (3G) is a soluble organic dye used for coloring a wide range of thermoplastic polymers and fibers (PS, SB, SAN, PMMA, PC, ABS and their blends, PPO, rigid PVC, PET, PBT, PLA, polyamides). They have a very high coloring strength and high heat stability.",
+    "company_name": "Iris Green",
+    "company_slug": "iris-green",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708690753/production/Brand/33364/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708690753/production/Product/424003/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Glass Coatings",
+            "Coil Coatings",
+            "Other Infrastructure Applications",
+            "Architectural Coatings",
+            "Non-Food Consumer Packaging",
+            "Food & Beverage Packaging",
+            "Infrastructure, Roads & Paving",
+            "Industrial Coatings",
+            "Specialty Coatings",
+            "Packaging",
+            "Building Envelope & Roofing"
+        ],
+        "Product Families": [
+            "Solvent Dyes",
+            "Pigments & Colorants",
+            "Polymer Additives",
+            "Dyes"
+        ],
+        "End Uses": [
+            "Toys",
+            "Bottles"
+        ]
+    },
+    "summary": {
+        "Color": [
+            "Orange"
+        ],
+        "Functions": [
+            "Dye"
+        ],
+        "Compatible Polymers & Resins": [
+            "Polycarbonates (PC)",
+            "Acrylonitrile Butadiene Styrene (ABS)",
+            "Poly(Methyl Methacrylate) (PMMA)",
+            "Polystyrenes (PS)",
+            "Polyamide 6 (PA 6)"
+        ]
+    }
+}

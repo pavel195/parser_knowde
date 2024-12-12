@@ -1,0 +1,50 @@
+{
+    "id": 301509,
+    "brand": "sancryl",
+    "name": "ALKIPOL 600 60 X",
+    "slug": "alkipol-600-60-x",
+    "description": "ALKIPOL 600 60 X is a short oil alkyd resin based on synthetic fatty acids.",
+    "company_name": "Polidur San Luis",
+    "company_slug": "polidur-san-luis",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112055/production/Company/24298/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609091/production/CategoryImage/594/category_image/PrintingPackaging_05.jpg",
+    "properties": {
+        "Applications": [
+            "Building & Construction",
+            "Industrial Coatings",
+            "Packaging Coatings",
+            "Primers & Lacquers",
+            "Wood Coatings & Finishes",
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Resins & Binders",
+            "Alkyds"
+        ],
+        "Chemical Family": [
+            "Alkyds (Short Oil)"
+        ],
+        "End Uses": [
+            "Lacquers",
+            "Top Coat",
+            "2K (2 component) Coating"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Alkyds (Short Oil)"
+        ],
+        "End Uses": [
+            "2K (2 component) Coating",
+            "Top Coat",
+            "Lacquers"
+        ],
+        "Hydroxyl Value": [
+            "75.9 - 89.1 mg KOH/g"
+        ],
+        "Features": [
+            "High Gloss",
+            "Excellent Flow"
+        ]
+    }
+}

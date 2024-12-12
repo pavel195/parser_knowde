@@ -1,0 +1,51 @@
+{
+    "id": 240056,
+    "brand": "sugar-spheres-sanaq",
+    "name": "TAP® 300 - 425",
+    "slug": "tap-300-425",
+    "description": "TAP® 300 - 425 is tartaric acid pellet, white or beige in color. These pellets are optimized for coating and layering processes to achieve reproducible product characteristics.",
+    "company_name": "PHARMATRANS SANAQ AG",
+    "company_slug": "pharmatrans",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708684089/production/Company/16760/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708684089/production/Company/16760/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Other Non-Alcoholic Beverages",
+            "Topical",
+            "Parenteral",
+            "Oral",
+            "Nutraceuticals & Supplements",
+            "Confectionery",
+            "Beverage",
+            "Food",
+            "Nutrition & Well Being",
+            "Drug Delivery & Care Solutions"
+        ],
+        "Product Families": [
+            "Antioxidants & Preservatives",
+            "Acidulants & Acidity Regulators",
+            "Solvents & Solubilizers",
+            "Formulation & Processing Aids",
+            "Functional Additives",
+            "Excipients"
+        ],
+        "End Uses": [
+            "Confectionery Products"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Tartaric Acid"
+        ],
+        "Functions": [
+            "Sequestering Agent",
+            "Buffers & pH Stabilizer",
+            "Solubilizer",
+            "Acidulant"
+        ],
+        "Dosage Form": [
+            "Tablets",
+            "Granules"
+        ]
+    }
+}

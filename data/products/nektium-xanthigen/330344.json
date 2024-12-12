@@ -1,0 +1,54 @@
+{
+    "id": 330344,
+    "brand": "nektium-xanthigen",
+    "name": "Nektium Echinacea",
+    "slug": "nektium-echinacea",
+    "description": "Nektium Echinacea is a potent immune-modulator, rich in echinacoside. Traditionally, it has been used by native americans to treat colds, flu and urinary tract infections and is used to this day. Publications have reported echinacea stimulates the specific immune response, strengthens the immune system and reduces pain related inflammatory processes.",
+    "company_name": "Nektium",
+    "company_slug": "nektium",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708690299/production/Company/32644/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606914/production/CategoryImage/502/category_image/FoodNutrition_03.jpg",
+    "properties": {
+        "Applications": [
+            "Sports Nutrition",
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Phytochemicals & Plant Extracts",
+            "Phytochemicals",
+            "Plant & Herb Products & Extracts",
+            "Nutrition & Fortification",
+            "Whole Foods, Extracts & Premixes",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Sports Nutrition"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Echinacea Extract"
+        ],
+        "Active Component": [
+            "Echinacoside"
+        ],
+        "Functions": [
+            "Phytochemical"
+        ],
+        "Labeling Claims": [
+            "GMO-free",
+            "Kosher",
+            "BSE-free",
+            "Allergen-free",
+            "TSE-free"
+        ],
+        "Certifications & Compliance": [
+            "Kosher"
+        ],
+        "Physical Form": [
+            "Solid",
+            "Powder"
+        ]
+    }
+}

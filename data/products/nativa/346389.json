@@ -1,0 +1,34 @@
+{
+    "id": 346389,
+    "brand": "nativa",
+    "name": "Polenta Veloce® Bianca",
+    "slug": "polenta-veloce-bianca",
+    "description": "Polenta Veloce® Bianca is the non-precooked flour that in just 5 minutes offers all the surprising taste of polenta cooked in traditional times.",
+    "company_name": "La Veronese",
+    "company_slug": "la-veronese",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686104546/production/Brand/25786/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625606934/production/CategoryImage/504/category_image/FoodNutrition_05.jpg",
+    "properties": {
+        "Applications": [
+            "Food",
+            "Bakery",
+            "Savory & Culinary"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Flours & Grains Products"
+        ],
+        "End Uses": [
+            "Sauces"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Corn"
+        ],
+        "Labeling Claims": [
+            "Gluten-free",
+            "Hypoallergenic"
+        ]
+    }
+}

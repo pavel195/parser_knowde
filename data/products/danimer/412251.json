@@ -1,0 +1,49 @@
+{
+    "id": 412251,
+    "brand": "danimer",
+    "name": "Danimer 26806",
+    "slug": "danimer-26806",
+    "description": "Danimer 26806 is the world’s first commercial extrusion coating resin that utilizes PLA as the primary material for coating paper, paperboard and fabric. Danimer 26806 resin will perform on existing production equipment at production speeds comparable to traditional polyolefins while offering energy savings due to much lower processing temperatures.",
+    "company_name": "Danimer Scientific",
+    "company_slug": "danimer-scientific",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1709127801/production/Brand/24654/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1709127801/production/Product/412251/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Textile Manufacturing",
+            "Food & Beverage Packaging",
+            "Coated Paper & Paperboard",
+            "Processing & Packaging",
+            "Paper & Pulp",
+            "Leather & Textiles"
+        ],
+        "Product Families": [
+            "Other Resins & Binders",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Polyesters",
+            "Polylactic Acid (PLA)"
+        ],
+        "End Uses": [
+            "Extrusion Coating"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Polylactic Acid (PLA)",
+            "Polyesters"
+        ],
+        "End Uses": [
+            "Extrusion Coating"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Fibers & Fabrics",
+            "Paper"
+        ],
+        "Features": [
+            "Excellent Adhesion",
+            "Good Printability"
+        ]
+    }
+}

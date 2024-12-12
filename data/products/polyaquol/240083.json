@@ -1,0 +1,119 @@
+{
+    "id": 240083,
+    "brand": "polyaquol",
+    "name": "Liceryl™ 12",
+    "slug": "liceryl-12",
+    "description": "<p>Liceryl™-12, a powerful ester derived from linoleic fatty acids, designed to elevate your cosmetic formulations. Acting as a co-surfactant with emollient and solubilizing properties, Liceryl™-12 helps reduce skin erythema and minimizes disruption to the skin barrier, often caused by surfactant penetration. Synthesized with glycerin, an endogenous component of the skin known for its humectant properties, and rich in omega-6 fatty acids from soybean oil, this ingredient enhances transparency in solutions. In cleansing products, Liceryl™-12 increases micelle size, reducing the risk of irritation and dehydration, ensuring gentle yet effective cleansing. Perfect for modern, skin-friendly formulations.</p>",
+    "company_name": "Innovacos Corp.",
+    "company_slug": "innovacos",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1633040602/production/Brand/15518/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,c_crop,x_0,y_0,w_1500,h_469/v1727778389/production/Product/240083/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Fragrances & Perfumes",
+            "Hand Hygiene",
+            "Other Personal Hygiene Applications",
+            "Baby Care",
+            "Bath & Shower",
+            "Hair Care",
+            "Skin Care",
+            "Beauty & Care",
+            "Personal Hygiene"
+        ],
+        "Product Families": [
+            "Conditioners & Emollients",
+            "Nonionic Surfactants",
+            "Skin Actives",
+            "Emulsifiers, Solubilizers & Dispersants",
+            "Cosmetic Actives",
+            "Functionals",
+            "Surfactants & Cleansers"
+        ],
+        "INCI Name": [
+            "PEG-12 Oleate",
+            "Glyceryl Linoleate"
+        ],
+        "End Uses": [
+            "Fragrances & Perfumes",
+            "Body Wash",
+            "Body Lotion",
+            "Facial Treatments",
+            "Hand Cleansers",
+            "Facial Cleanser",
+            "Night Creams",
+            "Day Creams",
+            "Skin Toners",
+            "Make Up Remover",
+            "Shampoos & Rinses",
+            "Hair Conditioner",
+            "Baby Shampoo"
+        ],
+        "Labeling Claims": [
+            "Organic",
+            "Preservative-free"
+        ],
+        "Benefit Claims": [
+            "Irritation Reduction",
+            "Penetrating",
+            "Hydrating",
+            "Mild Surfactant",
+            "Emolliency",
+            "Solubilizing",
+            "Barrier Function Improvement",
+            "Reduces Hyperpigmentation",
+            "Skin Lightening",
+            "Suitable for Sensitive Skin",
+            "Skin Barrier",
+            "Reduction of Surfactant-Induced Skin Erythema",
+            "Prevention Of Surfactant-Induced Damages To The Skin Barrier Function",
+            "Fragrance Solubilizer",
+            "Anti-Irritant"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Glyceryl Linoleate",
+            "PEG-12 Oleate"
+        ],
+        "Functions": [
+            "Cosurfactant",
+            "Emollient",
+            "Skin Barrier Protectant",
+            "Surfactant (Nonionic)",
+            "Cleansing Agent",
+            "Anti-Irritant",
+            "Surfactant",
+            "Co-Emulsifier",
+            "Solubilizer"
+        ],
+        "Labeling Claims": [
+            "Preservative-free",
+            "Organic"
+        ],
+        "Certifications & Compliance": [
+            "COSMOS",
+            "Organic Certified",
+            "IECIC (China)",
+            "ECOCERT",
+            "REACH (Europe)",
+            "RSPO Certified Sustainable Palm Oil"
+        ],
+        "Benefit Claims": [
+            "Irritation Reduction",
+            "Suitable for Sensitive Skin",
+            "Prevention Of Surfactant-Induced Damages To The Skin Barrier Function",
+            "Emolliency",
+            "Mild Surfactant",
+            "Reduction of Surfactant-Induced Skin Erythema",
+            "Reduces Hyperpigmentation",
+            "Anti-Irritant",
+            "Fragrance Solubilizer",
+            "Barrier Function Improvement",
+            "Skin Barrier",
+            "Skin Lightening",
+            "Penetrating",
+            "Hydrating",
+            "Solubilizing"
+        ]
+    }
+}

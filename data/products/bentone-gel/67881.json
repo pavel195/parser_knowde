@@ -1,0 +1,89 @@
+{
+    "id": 67881,
+    "brand": "bentone-gel",
+    "name": "Fancol® CB",
+    "slug": "fancol-cb",
+    "description": "FANCOL CB is Cocoa Butter USP/NF grade. It is a skin conditioning occlusive agent and may be used as a skin protectant in OTC drug products.",
+    "company_name": "Elementis",
+    "company_slug": "elementis",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708698430/production/Product/67881/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708698430/production/Product/67881/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Baby Care",
+            "Bath & Shower",
+            "Color Cosmetics",
+            "Hair Care",
+            "Skin Care",
+            "Sun Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Fats, Butters & Waxes",
+            "Film Formers",
+            "Conditioners & Emollients",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Theobroma Cacao (Cocoa) Seed Butter"
+        ],
+        "End Uses": [
+            "Body Oil",
+            "Body Firming Lotion",
+            "BB Creams",
+            "Lipstick",
+            "After Sun Products",
+            "Eye Liner",
+            "After Shaves",
+            "Anti-Hair Loss Products",
+            "Anti-Aging Products",
+            "Baby Lotion",
+            "Baby Oil",
+            "Baby Soap",
+            "Blush",
+            "CC Cream",
+            "Concealer",
+            "Detanglers",
+            "Diaper Cream",
+            "Eye Shadow",
+            "Eyebrow Enhancers",
+            "Face Powder",
+            "Facial Cleanser",
+            "Facial Moisturizer",
+            "Foot Moisturizer",
+            "Bar Soaps",
+            "Hand Cream",
+            "Moisturizers"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Theobroma Cacao (Cocoa) Seed Butter"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Non-Animal Origin",
+            "Plant Origin"
+        ],
+        "Functions": [
+            "Occlusive",
+            "Conditioner",
+            "Protective Agent"
+        ],
+        "Labeling Claims": [
+            "Credo Clean Standard",
+            "Clean at Sephora",
+            "Plant-Based",
+            "Naturally Derived",
+            "Natural",
+            "Ulta Beauty's Conscious Beauty"
+        ],
+        "Benefit Claims": [
+            "Occlusive",
+            "Moisturizing",
+            "Conditioning",
+            "Skin Conditioning",
+            "Emolliency"
+        ]
+    }
+}

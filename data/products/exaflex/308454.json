@@ -1,0 +1,32 @@
+{
+    "id": 308454,
+    "brand": "exaflex",
+    "name": "Exapol Su 490 B",
+    "slug": "exapol-su-490-b",
+    "description": "EXAPOL SU 490 B is sucrose - glycerin based polyether polyol of moderate functionality and medium viscosity.",
+    "company_name": "Expanded Polymer Systems",
+    "company_slug": "expanded-polymer-systems",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691737660/production/Product/308454/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Other Industrial Applications",
+            "Appliances & Electronics",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Diols & Polyols",
+            "Monomers & Oligomers"
+        ],
+        "Chemical Family": [
+            "Polyols (Polyether)",
+            "Polyols"
+        ],
+        "End Uses": [
+            "Panels",
+            "Refrigerator Applications",
+            "Polyurethane Foams"
+        ]
+    },
+    "summary": {}
+}

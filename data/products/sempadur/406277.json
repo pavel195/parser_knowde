@@ -1,0 +1,27 @@
+{
+    "id": 406277,
+    "brand": "sempadur",
+    "name": "Semparoc I 12 NV",
+    "slug": "semparoc-i-12-nv",
+    "description": "Semparoc I 12 NV is a light-beige 1C PUR adhesive, high resistance and short press time.",
+    "company_name": "Collano",
+    "company_slug": "collano",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691740175/production/Brand/31267/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608929/production/CategoryImage/584/category_image/AdhesivesSealants_01.jpg",
+    "properties": {
+        "Applications": [
+            "Furniture",
+            "Construction Adhesives",
+            "Building Materials"
+        ],
+        "Product Families": [
+            "Contact Adhesives",
+            "Adhesives & Sealants"
+        ],
+        "Chemical Family": [
+            "Urea Formaldehyde (UF)",
+            "Polyurethanes (PU)"
+        ]
+    },
+    "summary": {}
+}

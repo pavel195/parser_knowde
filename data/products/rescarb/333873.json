@@ -1,0 +1,54 @@
+{
+    "id": 333873,
+    "brand": "rescarb",
+    "name": "RESTREN ABS",
+    "slug": "restren-abs",
+    "description": "RESTREN ABS is an acrylonitrile butadiene styrene (ABS) grade by Polimarky. RESTREN ABS complies with ISO 9001:2008, ISO 14001:2004 and ISO/TS 16949:2009.",
+    "company_name": "Polimarky",
+    "company_slug": "polimarky",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708530163/production/Brand/24598/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608224/production/CategoryImage/551/category_image/AgricultureFeed_07.jpg",
+    "properties": {
+        "Applications": [
+            "Equipment & Parts",
+            "Pipes & Tanks",
+            "Other Industrial Applications",
+            "Other Wire & Cable Applications",
+            "Furniture",
+            "Pipes & Plumbing",
+            "Automotive Lighting",
+            "Pipes & Hoses",
+            "Agricultural Films",
+            "Automotive",
+            "Building Materials",
+            "Wire & Cable",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Styrenics",
+            "Basic Thermoplastics"
+        ],
+        "Chemical Family": [
+            "Acrylonitrile Butadiene Styrene (ABS)",
+            "Styrenics"
+        ],
+        "Polymer Name": [
+            "Acrylonitrile Butadiene Styrene (ABS)"
+        ],
+        "End Uses": [
+            "Pipes",
+            "Headlight Cover",
+            "Furniture",
+            "Fittings",
+            "Cables"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Acrylonitrile Butadiene Styrene (ABS)"
+        ],
+        "Melt Flow Index": [
+            "35.0 - 35.0 g/10 min"
+        ]
+    }
+}

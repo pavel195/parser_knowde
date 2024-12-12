@@ -1,0 +1,50 @@
+{
+    "id": 325491,
+    "brand": "phosphinox",
+    "name": "NOVINOX PZ02",
+    "slug": "novinox-pz02",
+    "description": "Novinox®PZ02 is an organically modified basic Zinc phosphate developed to be more reactive than standard Zinc phosphate in PU and alkyd systems. It is a stable and non-hygroscopic white powder with a low tinting strength, it is easily dispersed. The organic activator provides a higher solubility of the pigment in the initial stages of corrosion leading to a higher reactivity and protection.",
+    "company_name": "SNCZ",
+    "company_slug": "sncz",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708685513/production/Company/31010/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608630/production/CategoryImage/571/category_image/PaintingsCoatings_07.jpg",
+    "properties": {
+        "Applications": [
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Inorganic Pigments",
+            "Corrosion Inhibiting Pigments",
+            "Functional Pigments",
+            "Functional Additives",
+            "Additives",
+            "Pigments & Colorants",
+            "Color Pigments"
+        ],
+        "Chemical Family": [
+            "Phosphates"
+        ],
+        "End Uses": [
+            "Waterborne Coating",
+            "Solventborne Coating"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Phosphates"
+        ],
+        "Functions": [
+            "Colorant",
+            "Corrosion Inhibitor"
+        ],
+        "Pigment Type": [
+            "Inorganic Pigments"
+        ],
+        "Color": [
+            "White"
+        ],
+        "Synonyms": [
+            "Zinc(II) Phosphate"
+        ]
+    }
+}

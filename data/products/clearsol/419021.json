@@ -1,0 +1,65 @@
+{
+    "id": 419021,
+    "brand": "clearsol",
+    "name": "AntiPro EP-3M",
+    "slug": "antipro-ep-3m",
+    "description": "AntiPro EP-3M is a very low-foaming surfactant system that is readily soluble in 50% caustic soda solutions without the need for prolonged mixing or heating. AntiPro EP-3M contributes to quick dynamic surface tension lowering resulting in fast wetting and spreading on various hydrophobic substrates. AntiPro EP-3M provides extremely low foam properties making this product suitable for many industrial cleaning processes.",
+    "company_name": "Clear Solutions USA",
+    "company_slug": "clear-solutions-usa",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1713789544/production/Brand/33235/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1713789544/production/Company/28942/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Surface Care",
+            "Pulping & Processing",
+            "Vehicle & Machinery",
+            "Industrial Cleaning",
+            "Paper & Pulp",
+            "Home Care",
+            "Institutional & Industrial Care"
+        ],
+        "Product Families": [
+            "Oilfield & Transport Chemicals",
+            "Blends & Other Surfactants",
+            "Finishing Additives & Treatments",
+            "Soaps & Surfactants",
+            "Oil, Gas & Mining Chemicals",
+            "Paper & Pulp Chemicals"
+        ],
+        "End Uses": [
+            "Car Cleaners",
+            "Truck Wash",
+            "Paint Strippers",
+            "Dairy Cleaners",
+            "Brewery Cleaners",
+            "Alkaline Cleaners",
+            "Acid Cleaners",
+            "Coating Remover",
+            "Oil & Gas Applications",
+            "Paper & Pulp"
+        ]
+    },
+    "summary": {
+        "Labeling Claims": [
+            "Allergen-free",
+            "Kosher",
+            "GMO-free",
+            "Not Listed In California Proposition 65"
+        ],
+        "Certifications & Compliance": [
+            "SARA 313",
+            "FDA 21 CFR 176.170",
+            "SARA 304",
+            "Canadian Environmental Protection Act (CEPA)",
+            "California Proposition 65",
+            "SARA 302",
+            "FDA 21 CFR 176.180",
+            "NSF Approved"
+        ],
+        "Applicable Processes": [
+            "Pulping",
+            "Paper Manufacturing",
+            "Oilfield Applications"
+        ]
+    }
+}

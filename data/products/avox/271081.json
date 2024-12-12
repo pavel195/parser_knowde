@@ -1,0 +1,42 @@
+{
+    "id": 271081,
+    "brand": "avox",
+    "name": "AVOX® ARP-40",
+    "slug": "avox-arp-40",
+    "description": "Avox® ARP-40 is a 100% polyester copolymer hot melt made primarily from recycled polyester terephthalate.",
+    "company_name": "Ulterion International",
+    "company_slug": "ulterion-international",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686148357/production/Company/20752/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608502/production/CategoryImage/564/category_image/BuildingConstruction_08.jpg",
+    "properties": {
+        "Applications": [
+            "Infrastructure, Roads & Paving",
+            "Building & Construction",
+            "Leather & Textiles",
+            "Coatings & Markings",
+            "Textile Manufacturing"
+        ],
+        "Product Families": [
+            "Monomers & Intermediates",
+            "Prepolymers & Polyols"
+        ],
+        "Chemical Family": [
+            "Polyesters"
+        ],
+        "End Uses": [
+            "Hot Melt Adhesive"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Polyesters"
+        ],
+        "End Uses": [
+            "Hot Melt Adhesive"
+        ],
+        "Features": [
+            "High Tensile Strength",
+            "Flame Retardant"
+        ]
+    }
+}

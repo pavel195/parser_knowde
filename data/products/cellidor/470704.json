@@ -1,0 +1,50 @@
+{
+    "id": 470704,
+    "brand": "cellidor",
+    "name": "ALTECH® PP-H A 4920/170 MR20",
+    "slug": "mocom-altech-pp-h-a-4920-170-mr20",
+    "description": "MOCOM Compounds ALTECH® PP-H A 4920/170 MR20 is a Polypropylene Homopolymer with a 20% talcum filler/additive system. It is designed for pre-drying conditions in a dry air (dessiccant) dryer at 80-120°C for 2-3 hours, or in an air circulating dryer at 80-120°C for 2-4 hours. For injection molding, the melt temperature should be 200-250°C and the mold temperature should be 20-70°C. It has easy release (demolding) and processing and heat stabilization features. This material is suitable for automotive, building and construction applications, and can be used for injection molded parts, functional components, housings and fixing elements.",
+    "company_name": "MOCOM Compounds",
+    "company_slug": "mocom",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1713790282/production/Company/50276/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1713790282/production/Company/50276/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Housings & Enclosures",
+            "Parts & Components"
+        ],
+        "Product Families": [
+            "Polyolefins",
+            "Basic Thermoplastics"
+        ],
+        "Chemical Family": [
+            "Polypropylenes (PP)",
+            "Polyolefins"
+        ],
+        "Polymer Name": [
+            "Polypropylene Homopolymer (HPP)"
+        ],
+        "End Uses": [
+            "Fixtures",
+            "Housings",
+            "Construction Applications",
+            "Automotive Applications"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polypropylene Homopolymer (HPP)"
+        ],
+        "Processing Methods": [
+            "Injection Molding"
+        ],
+        "Additives Included": [
+            "Heat Stabilizer",
+            "Processing Stabilizer"
+        ],
+        "Fillers Included": [
+            "Talc",
+            "Mineral"
+        ]
+    }
+}

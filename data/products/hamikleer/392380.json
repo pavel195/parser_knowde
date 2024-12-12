@@ -1,0 +1,30 @@
+{
+    "id": 392380,
+    "brand": "hamikleer",
+    "name": "Hamikleer® 1975-XS",
+    "slug": "hamikleer-1975-xs",
+    "description": "Hamikleer® 1975-XS is a synthetic coolant that provides improved hard water stability.",
+    "company_name": "Harry Miller",
+    "company_slug": "harry-miller",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664291882/production/Company/7386/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608693/production/CategoryImage/573/category_image/AutomotiveTransportation_01.jpg",
+    "properties": {
+        "Applications": [
+            "Lubricants & Functional Fluids",
+            "Coolants & Deicing Fluids"
+        ],
+        "Product Families": [
+            "Fluids & Lubricants",
+            "Heat Transfer Fluids"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Heat Transfer Fluid"
+        ],
+        "Features": [
+            "Low Foaming",
+            "Good Hard Water Stability"
+        ]
+    }
+}

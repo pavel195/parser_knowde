@@ -1,0 +1,53 @@
+{
+    "id": 94571,
+    "brand": "lanostar",
+    "name": "Neosolue® -Aqua",
+    "slug": "neosolue-aqua",
+    "description": "Neosolue® -Aqua by Nippon Fine Chemical is comprised of Glycerin, Polyglyceryl-10 Eicosanedioate/Tetradecanedioate and Glycerol. It is commonly used Key benefits in use include: Softening and Moisturizing.",
+    "company_name": "Nippon Fine Chemical",
+    "company_slug": "nippon-fine-chemical",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708699077/production/Company/1338/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708699077/production/Company/1338/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Hair Care",
+            "Skin Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Conditioners & Emollients",
+            "Functionals"
+        ],
+        "Chemical Family": [
+            "Esters"
+        ],
+        "INCI Name": [
+            "Polyglyceryl-10 Eicosanedioate/Tetradecanedioate"
+        ],
+        "End Uses": [
+            "Moisturizers",
+            "Shampoos & Rinses"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Polyglyceryl-10 Eicosanedioate/Tetradecanedioate"
+        ],
+        "Functions": [
+            "Emollient"
+        ],
+        "Labeling Claims": [
+            "Credo Clean Standard",
+            "Clean at Sephora",
+            "Ulta Beauty's Conscious Beauty"
+        ],
+        "Benefit Claims": [
+            "Softening",
+            "Emolliency",
+            "Moisturizing"
+        ],
+        "Synonyms": [
+            "Eicosanedioic Acid-glycerin-tetradecanedioic Acid Copolymer, Neosolue-Aqua"
+        ]
+    }
+}

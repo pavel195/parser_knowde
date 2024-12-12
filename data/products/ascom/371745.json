@@ -1,0 +1,59 @@
+{
+    "id": 371745,
+    "brand": "ascom",
+    "name": "ASCOM 17",
+    "slug": "ascom-17",
+    "description": "ASCOM 17 limestone powder is the highest whiteness and high purity with low iron, silica and magnesium levels. Limestone is derived from enormous reserves.",
+    "company_name": "ACCM",
+    "company_slug": "accm",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708696015/production/Brand/27741/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608410/production/CategoryImage/557/category_image/BuildingConstruction_01.jpg",
+    "properties": {
+        "Applications": [
+            "Architectural Coatings",
+            "Infrastructure, Roads & Paving",
+            "Metal Coatings",
+            "Industrial Coatings",
+            "Coatings & Markings",
+            "Building Envelope",
+            "Building & Construction",
+            "Building Envelope & Roofing"
+        ],
+        "Product Families": [
+            "Fillers & Extenders",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Calcium Salts",
+            "Carbonates"
+        ],
+        "End Uses": [
+            "Coil Coating",
+            "Enamel",
+            "Waterborne Coating",
+            "Undercoat",
+            "Primer",
+            "Powder Coating"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Filler"
+        ],
+        "Chemical Family": [
+            "Calcium Salts",
+            "Carbonates"
+        ],
+        "End Uses": [
+            "Primer",
+            "Undercoat",
+            "Enamel",
+            "Waterborne Coating",
+            "Powder Coating",
+            "Coil Coating"
+        ],
+        "Particle Size": [
+            "6.0 - 7.0 microns"
+        ]
+    }
+}

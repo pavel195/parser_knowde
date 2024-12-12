@@ -1,0 +1,39 @@
+{
+    "id": 439674,
+    "brand": "micromat",
+    "name": "Microlite®",
+    "slug": "microlite",
+    "description": "Microlite® is a lightweight and highly resilient blanket-type thermal and acoustical insulation made of flame-attenuated glass fibers bonded with a thermosetting resin.",
+    "company_name": "Pacor",
+    "company_slug": "pacor",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691742910/production/Company/63759/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608502/production/CategoryImage/564/category_image/BuildingConstruction_08.jpg",
+    "properties": {
+        "Applications": [
+            "Equipment & Parts",
+            "Consumer Electronics",
+            "Stationery, Art & Office Supplies",
+            "Furniture",
+            "Appliances & Electronics",
+            "Pipes & Plumbing",
+            "EIFS & Insulation",
+            "Building Materials",
+            "Building Envelope & Roofing",
+            "Devices & Assemblies",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films",
+            "Parts & Shapes"
+        ],
+        "Polymer Name": [
+            "Thermoset (unspecified)"
+        ],
+        "End Uses": [
+            "HVAC Components",
+            "Home Appliances",
+            "Furniture"
+        ]
+    },
+    "summary": {}
+}

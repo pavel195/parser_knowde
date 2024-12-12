@@ -1,0 +1,40 @@
+{
+    "id": 386988,
+    "brand": "e-tec",
+    "name": "E-Laq 525",
+    "slug": "e-laq-525",
+    "description": "E-LAQ 525 is an acrylic lacquer that is ideal for coating metal surfaces or metals that have been blackened with EPI's Insta-Blak or Ultra-Blak finishes. The only caveat is that it should not be used on copper or copper alloys. The most notable of these advantages are its depth and clarity, as well as its environmentally friendly and non-flammable chemical composition. Baking improves hardness and durability. E-LAQ 525 provides a water-resistant, hard, and clear finish, but because it appears milky, the user can gage coverage and film depth as the part is coated.",
+    "company_name": "Electrochemical Products, Inc",
+    "company_slug": "electrochemical-products-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520384/production/Brand/29006/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608611/production/CategoryImage/569/category_image/PaintingsCoatings_05.jpg",
+    "properties": {
+        "Applications": [
+            "Packaging Coatings",
+            "Primers & Lacquers"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Lacquers"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Lacquers",
+            "Waterborne Coating"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal"
+        ],
+        "Features": [
+            "High Hardness",
+            "Excellent Water Resistance"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "id": 271104,
+    "brand": "thermaguard",
+    "name": "Thermaguard™ TC 1200",
+    "slug": "thermaguard-tc-1200",
+    "description": "Thermaguard™ TC 1200 is a single component, ambient curing polysiloxane topcoat which is thermally color stable at elevated temperatures. The product can be operated within cryogenic -196 to 650°C temperature range. Completely inorganic chemistry results in ultra-high performance regarding operating temperature &amp; UV degradation. Available in a full range of safety colors, RAL shades &amp; custom colors formulated upon request. The product can be applied over suitably primed steel surfaces such Thermaguard™ SAL 600 anti-corrosion coating. Can be applied in service up to 130oC substrate temperature.",
+    "company_name": "Performance Polymers",
+    "company_slug": "performance-polymers",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520077/production/Company/20796/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Other Paints & Coatings Applications",
+            "Chemical & Industrial Manufacturing",
+            "Other Industrial Applications",
+            "Pipes & Tanks",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Other Paints & Coatings"
+        ],
+        "Chemical Family": [
+            "Siloxanes"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "1K (1 component) Coating"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Steel",
+            "Stainless Steel"
+        ],
+        "Features": [
+            "High Performance",
+            "Good Thermal Stability"
+        ],
+        "Application Method": [
+            "Spray",
+            "Roller",
+            "Brush"
+        ],
+        "Chemical Family": [
+            "Siloxanes"
+        ]
+    }
+}

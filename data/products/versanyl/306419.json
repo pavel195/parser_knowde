@@ -1,0 +1,41 @@
+{
+    "id": 306419,
+    "brand": "versanyl",
+    "name": "Versal® GREEN GM",
+    "slug": "versal-green-gm",
+    "description": "Versal® GREEN GM is Pigment used in flexografic, offset, letter inks and water based paints.",
+    "company_name": "Synthesia",
+    "company_slug": "synthesia",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708521239/production/Product/306419/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608630/production/CategoryImage/571/category_image/PaintingsCoatings_07.jpg",
+    "properties": {
+        "Applications": [
+            "Decorative Paints, Coatings & Stains",
+            "Other Printing & Packaging Applications",
+            "Industrial Coatings",
+            "Decorative Paints",
+            "Building Materials",
+            "Building & Construction",
+            "Decorative Materials & Finishes"
+        ],
+        "Product Families": [
+            "Organic Pigments",
+            "Color Pigments",
+            "Pigments & Colorants"
+        ],
+        "Chemical Family": [
+            "Azo Compounds"
+        ]
+    },
+    "summary": {
+        "Color": [
+            "Green"
+        ],
+        "Pigment Type": [
+            "Organic Pigments"
+        ],
+        "Chemical Family": [
+            "Azo Compounds"
+        ]
+    }
+}

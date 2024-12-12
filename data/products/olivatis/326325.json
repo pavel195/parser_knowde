@@ -1,0 +1,41 @@
+{
+    "id": 326325,
+    "brand": "olivatis",
+    "name": "Medxtract Sage 1:2",
+    "slug": "medxtract-sage-1-2",
+    "description": null,
+    "company_name": "Medolla Speciality Chemicals",
+    "company_slug": "medolla-iberia",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1706196287/production/Company/16680/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1706196287/production/Company/16680/card_banner/image",
+    "properties": {
+        "Product Families": [
+            "Botanical Ingredients & Extracts",
+            "Vitamins, Extracts & Oils"
+        ],
+        "Chemical Family": [
+            "Plant Extracts"
+        ],
+        "INCI Name": [
+            "Salvia Officinalis (Sage) Leaf Extract"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Salvia Officinalis (Sage) Leaf Extract"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Plant Origin",
+            "Non-Animal Origin"
+        ],
+        "Labeling Claims": [
+            "Clean at Sephora",
+            "Credo Clean Standard",
+            "Plant-Based",
+            "Ulta Beauty's Conscious Beauty",
+            "GMO-free",
+            "Naturally Derived"
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "id": 342536,
+    "brand": "lda",
+    "name": "InkRes® 33",
+    "slug": "inkres-33",
+    "description": "InkRes® 33 is a film forming polysaccharide resin used for partial replacement of acrylic emulsion resins in water-based flexographic ink formulations to improve press resolubility and stability.",
+    "company_name": "Lorama Group",
+    "company_slug": "lorama-group",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1693577864/production/Product/342536/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1693577864/production/Product/342536/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Flexography",
+            "Printing & Inks"
+        ],
+        "Product Families": [
+            "Other Resins & Binders",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Polysaccharides"
+        ],
+        "End Uses": [
+            "Flexography Ink",
+            "Waterborne Coating"
+        ]
+    },
+    "summary": {}
+}

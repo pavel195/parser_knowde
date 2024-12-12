@@ -1,0 +1,29 @@
+{
+    "id": 439135,
+    "brand": "green-seal",
+    "name": "SEAL-TITE™ CP-1982",
+    "slug": "seal-tite-cp-1982",
+    "description": "Seal-Tite™ CP-1982 is a versatile fast setting water resistant copolymer adhesive that is used for a specialty spray application.",
+    "company_name": "Coastal Industrial Products",
+    "company_slug": "coastal-industrial-products",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1685601170/production/Company/63638/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608953/production/CategoryImage/586/category_image/AdhesivesSealants_03.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial & Assembly Adhesives",
+            "Industrial Manufacturing",
+            "Industrial Adhesives & Sealants",
+            "Chemical & Industrial Manufacturing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Other Adhesives & Sealants"
+        ]
+    },
+    "summary": {
+        "Application Method": [
+            "Spray"
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "id": 112719,
+    "brand": "cri-line",
+    "name": "Cri-Line™ LC-615-65-THK",
+    "slug": "cri-line-lc-615-65-thk",
+    "description": "66% Fluorine copolymers formulated for low cost. LC-THK compounds are fissure resistant in thick cross sections; these compounds also exhibit enhanced rubber-to-metal bonding.",
+    "company_name": "Cri-Tech, Inc.",
+    "company_slug": "cri-tech-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1703115320/production/Company/2763/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1703115320/production/Company/2763/card_banner/image",
+    "properties": {
+        "Product Families": [
+            "Fluoroelastomers",
+            "Specialty Elastomers"
+        ],
+        "Chemical Family": [
+            "Fluoropolymers"
+        ],
+        "Polymer Name": [
+            "Fluoroelastomer (FKM)"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Fluoroelastomer (FKM)"
+        ],
+        "Processing Methods": [
+            "Injection Molding"
+        ],
+        "Features": [
+            "Bondability"
+        ]
+    }
+}

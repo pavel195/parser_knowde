@@ -1,0 +1,42 @@
+{
+    "id": 423558,
+    "brand": "thunderbolt",
+    "name": "RAMPAGE X™",
+    "slug": "rampage-x",
+    "description": "RAMPAGE X™ is a Environmentally safe Hard-Shell, Water Base Form Release Agent designed specifically for Precast &amp; Forms. Product quantity sold in 5 Gallons, 15 Gallons, 30 Gallons, 55 Gallons, 275 Gallons.",
+    "company_name": "Ankem of Texas, inc.",
+    "company_slug": "ankem-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520441/production/Product/423558/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1687520441/production/Product/423558/card_banner/image",
+    "properties": {
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Solventless & High Solids Coating",
+            "Waterborne Coating"
+        ],
+        "Features": [
+            "Good Stain Resistance",
+            "Wear Resistant",
+            "Non-Toxic",
+            "Low Hazardous Air Pollutants",
+            "Low Odor",
+            "Corrosion Resistant",
+            "Good Color Stability",
+            "Good Brightness",
+            "Biodegradable",
+            "Tear Resistance",
+            "Oxidation Resistant"
+        ],
+        "Application Area": [
+            "Wire Cables"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal"
+        ]
+    }
+}

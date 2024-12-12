@@ -1,0 +1,42 @@
+{
+    "id": 368150,
+    "brand": "ura-zen",
+    "name": "Epox-Zen™ MSP",
+    "slug": "epox-zen-msp",
+    "description": "Epox-Zen™ MSP is an 2K epoxy primer medium solids. The formulations offering the finest in corrosion protection, chemical resistance, adhesion and topcoat hold-out. Providing durable protection over ferrous and non-ferrous metals, certain FPRs and composites, Epox-Zen™ Epoxy Primers are a substantial upgrade from conventional alkyd primers.",
+    "company_name": "Hentzen Coatings",
+    "company_slug": "hentzen-coatings",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664291198/production/Brand/27274/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608621/production/CategoryImage/570/category_image/PaintingsCoatings_06.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial Coatings",
+            "Agricultural & Construction Equipment"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Primer",
+            "2K (2 component) Coating",
+            "Epoxy Coating",
+            "Solventless & High Solids Coating"
+        ],
+        "Features": [
+            "Good Adhesion",
+            "Fast Drying",
+            "Good Flow",
+            "Excellent Substrate Adhesion",
+            "Good Leveling Properties"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ]
+    }
+}

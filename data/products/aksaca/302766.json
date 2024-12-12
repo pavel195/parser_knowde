@@ -1,0 +1,40 @@
+{
+    "id": 302766,
+    "brand": "aksaca",
+    "name": "AKSACA™ 3K A-38",
+    "slug": "aksaca-3k-a-38",
+    "description": "AKSACA™ 3K A-38 is a High Quality Carbon Fiber.\r\n",
+    "company_name": "DowAksa",
+    "company_slug": "dowaksa",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1692188998/production/Company/24675/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608730/production/CategoryImage/574/category_image/AutomotiveTransportation_02.jpg",
+    "properties": {
+        "Applications": [
+            "Structural Components",
+            "Parking Structures & Stadiums",
+            "Renewable Energy",
+            "Pavement, Highways, Roads & Bridges",
+            "Other Infrastructure Applications",
+            "Advanced Materials",
+            "Sports & Recreation",
+            "Marine",
+            "Aerospace & Aviation",
+            "Other Automotive & Transportation Applications",
+            "Other Automotive Applications",
+            "Automotive",
+            "Transportation",
+            "Building Materials",
+            "Infrastructure, Roads & Paving",
+            "Power, Water & Utilities",
+            "Military & Defense"
+        ],
+        "Product Families": [
+            "Carbon Fiber",
+            "Reinforcements"
+        ],
+        "Chemical Family": [
+            "Carbon Fiber"
+        ]
+    },
+    "summary": {}
+}

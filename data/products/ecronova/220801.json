@@ -1,0 +1,33 @@
+{
+    "id": 220801,
+    "brand": "ecronova",
+    "name": "Tykote® 6160",
+    "slug": "tykote-6160",
+    "description": "Tykote 6160 is a flexible acrylic emulsion designed to provide a good balance of Cobb resistance, OGR, and MVTR properties from coatings made with it.\nFilms and coatings made from Tykote 6160 also have good flexibility. Tykote 6160 demonstrates the ability to be applied via all typical methods used to apply barrier coatings, including rod, blade, and flexo or gravure presses.\nRequest the Tykote Products for Excellence in Barrier Coatings bulletin to learn more.",
+    "company_name": "Mallard Creek Polymers",
+    "company_slug": "mallard-creek-polymers",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1693579458/production/Company/15660/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1693579458/production/Company/15660/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Industrial & Transport Packaging",
+            "Food & Beverage Packaging",
+            "Packaging"
+        ],
+        "Product Families": [
+            "Acrylics",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ],
+        "End Uses": [
+            "Barrier Coating"
+        ]
+    },
+    "summary": {
+        "Glass Transition Temperature (Tg)": [
+            "7.0 - 7.0 °C"
+        ]
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "id": 299681,
+    "brand": "pel-sil",
+    "name": "PEL-SIL™ CL290",
+    "slug": "pel-sil-cl290",
+    "description": "PEL-SIL™ CL290 is a organo-modified silicone-based additive consisting of a siloxane backbone and polyethylene-oxide (EO) and polypropylene oxide (PO) side chains. PEL-SIL™ CE 390 has recoatability and low tendency to foam. It is good compatibility with many resin systems. PEL-SIL™ CL290 is an excellent silicone-based additive for improving slip and mar resistance and reducing friction coefficient for solvent-borne, water-borne, and UV/EB cured coating systems. It can be used for coatings in industrial and auto, wood, and overprint vanishes and inks.",
+    "company_name": "Ele Corporation",
+    "company_slug": "ele-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708521935/production/Product/299681/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708521935/production/Product/299681/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Overprint Varnishes",
+            "Other Printing & Packaging Applications",
+            "Industrial Coatings",
+            "Automotive OEM Coatings",
+            "Coatings & Finishes",
+            "Automotive & Transportation",
+            "Packaging Coatings"
+        ],
+        "Product Families": [
+            "Surface Modifiers",
+            "Functional Additives",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Silicones",
+            "Polyethers"
+        ],
+        "End Uses": [
+            "Waterborne Coating",
+            "Solventborne Coating",
+            "Radiation Curable Coating"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Silicones",
+            "Polyethers"
+        ],
+        "Features": [
+            "Mar Resistance"
+        ],
+        "End Uses": [
+            "Solventborne Coating",
+            "Radiation Curable Coating",
+            "Waterborne Coating"
+        ],
+        "Synonyms": [
+            "Polysiloxanes, di-Me, 3-hydroxypropyl Me, ethoxylated propoxylated"
+        ]
+    }
+}

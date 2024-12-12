@@ -1,0 +1,40 @@
+{
+    "id": 313550,
+    "brand": "mibrid",
+    "name": "MiyoHAZE BT",
+    "slug": "miyohaze-bt",
+    "description": "MiyoHAZE BT is an innovative soft-focus composite. Barium sulfate is commonly used in cosmetics as a colorant and an opacifying agent. Miyoshi has taken barium sulfate to the next performance level, creating a barium sulfate/titanium dioxide sandwich-like composite, providing excellent wet and dry haze. MiyoHAZE BT provides higher diffused reflection and higher luminosity without significant attenuation compared to conventional barium sulfate. Its true talent is remaining consistent in delivering a natural look and moderate opacity that blurs imperfections and highlights a flawless complexion",
+    "company_name": "Miyoshi America, Inc.",
+    "company_slug": "miyoshi-kasei-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708683795/production/Product/313550/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708683795/production/Product/313550/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Color Cosmetics",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Treated Pigments & Powders",
+            "Visual Modifiers",
+            "Functionals",
+            "Pigments & Colorants"
+        ],
+        "INCI Name": [
+            "Titanium Dioxide",
+            "Barium Sulfate"
+        ],
+        "End Uses": [
+            "Foundation"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Barium Sulfate",
+            "Titanium Dioxide"
+        ],
+        "Functions": [
+            "Pigment",
+            "Opacifier"
+        ]
+    }
+}

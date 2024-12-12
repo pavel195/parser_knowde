@@ -1,0 +1,45 @@
+{
+    "id": 424679,
+    "brand": "buttermilk-blue",
+    "name": "Emmi Roth Fontina",
+    "slug": "emmi-roth-fontina",
+    "description": "Emmi Roth Fontina is a traditional Swedish-style Fontina. A smooth, creamy body accents the slightly tart flavor and mild finish. An incredibly versatile cheese, ideal for shredding, slicing and melting.",
+    "company_name": "Emmi Roth",
+    "company_slug": "emmi-roth",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1703231454/production/Company/57929/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625604505/production/CategoryImage/418/category_image/AnimalFeed_01.jpg",
+    "properties": {
+        "Applications": [
+            "Bakery",
+            "Savory & Culinary",
+            "Food"
+        ],
+        "Product Families": [
+            "Dairy Products",
+            "Whole Foods, Extracts & Premixes"
+        ],
+        "End Uses": [
+            "Pizza",
+            "Dips",
+            "Bread"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Fontina Cheese"
+        ],
+        "Labeling Claims": [
+            "Vegetarian",
+            "Gluten-free",
+            "BST-Free"
+        ],
+        "Features": [
+            "Smooth Texture",
+            "Creamy Texture",
+            "Suitable for Vegetarian Foods"
+        ],
+        "Sugar Content": [
+            "0.0 - 0.0 %"
+        ]
+    }
+}

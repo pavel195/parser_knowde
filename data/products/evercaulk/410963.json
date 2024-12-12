@@ -1,0 +1,55 @@
+{
+    "id": 410963,
+    "brand": "evercaulk",
+    "name": "Evercaulk FG",
+    "slug": "evercaulk-fg",
+    "description": "Evercaulk FG is a flashing grade acrylic.",
+    "company_name": "Everest Systems",
+    "company_slug": "everest-systems",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520392/production/Brand/31956/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608465/production/CategoryImage/561/category_image/BuildingConstruction_05.jpg",
+    "properties": {
+        "Applications": [
+            "Roofing",
+            "Building & Construction",
+            "Roof Coatings",
+            "Wood Coatings & Finishes",
+            "Concrete Coatings & Stains"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Elastomeric Coating",
+            "Solventless & High Solids Coating",
+            "Waterborne Coating"
+        ],
+        "Features": [
+            "Breathable",
+            "Consistent High Quality",
+            "Excellent Substrate Adhesion",
+            "Durable",
+            "Flexible"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Polyurethane",
+            "Polyvinyl Chloride (PVC)",
+            "Metal",
+            "Concrete",
+            "Wood",
+            "Plastics"
+        ],
+        "Application Method": [
+            "Roller"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    }
+}

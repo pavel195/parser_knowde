@@ -1,0 +1,88 @@
+{
+    "id": 326843,
+    "brand": "aragen",
+    "name": "ARACO - 119 BLUE",
+    "slug": "araco-119",
+    "description": "ARACO-10 fluorescent pigments are state of the art technology for waterborne or solvent-based formulations, low/NON migration in PVC",
+    "company_name": "Aralon Color GmbH",
+    "company_slug": "aralon-color-gmbh",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708519411/production/Brand/21207/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Textile Manufacturing",
+            "Decorative Paints, Coatings & Stains",
+            "Infrastructure, Roads & Paving",
+            "Screen Printing",
+            "Gravure Printing",
+            "Flexography",
+            "Decorative Paints",
+            "Coated Paper & Paperboard",
+            "Stationery, Art & Office Supplies",
+            "Coatings & Markings",
+            "Building Materials",
+            "Paper & Pulp",
+            "Building & Construction",
+            "Printing & Inks",
+            "Decorative Materials & Finishes",
+            "Leather & Textiles"
+        ],
+        "Product Families": [
+            "Color Pigments",
+            "Photoluminescent Pigments",
+            "Pigments & Colorants"
+        ],
+        "Chemical Family": [
+            "Melamine Formaldehydes (MF)"
+        ],
+        "End Uses": [
+            "Radiation Curable Coating",
+            "Waterborne Ink",
+            "Solventborne Ink",
+            "Screen Printing Ink",
+            "Radiation Curable Ink",
+            "Plastisol Ink",
+            "Organosol Ink",
+            "Gravure Ink",
+            "Flexography Ink",
+            "Waterborne Coating",
+            "Solventborne Coating",
+            "Plastisol Coating",
+            "Organosol Coating",
+            "Latex"
+        ]
+    },
+    "summary": {
+        "Color": [
+            "Blue (Fluorescent)"
+        ],
+        "Pigment Type": [
+            "Fluorescent"
+        ],
+        "Chemical Family": [
+            "Melamine Formaldehydes (MF)"
+        ],
+        "End Uses": [
+            "Radiation Curable Ink",
+            "Solventborne Ink",
+            "Waterborne Coating",
+            "Organosol Ink",
+            "Latex",
+            "Screen Printing Ink",
+            "Radiation Curable Coating",
+            "Plastisol Coating",
+            "Organosol Coating",
+            "Gravure Ink",
+            "Waterborne Ink",
+            "Solventborne Coating",
+            "Plastisol Ink",
+            "Flexography Ink"
+        ],
+        "Compatible Polymers & Resins": [
+            "Nitrocellulose",
+            "Latex",
+            "Polyurethanes (PU)",
+            "Hydrocarbon Resins"
+        ]
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "id": 396215,
+    "brand": "ultrafloc",
+    "name": "ULTRAFLOC 3750",
+    "slug": "ultrafloc-3750",
+    "description": "ULTRAFLOC 3750 is a aluminum chlorohydrate coagulant designed to provide superior coagulation for clarification of raw water and effluent water.",
+    "company_name": "NCP Chlorchem",
+    "company_slug": "ncp-chlorchem",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708691072/production/Company/50309/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Pulping & Processing",
+            "Water Treatment",
+            "Paper & Pulp",
+            "Power, Water & Utilities"
+        ],
+        "Product Families": [
+            "Water Treatment Additives",
+            "Pulping Chemicals",
+            "Paper & Pulp Chemicals",
+            "Water Treatment Chemicals"
+        ],
+        "Chemical Family": [
+            "Aluminum Compounds",
+            "Polyamines",
+            "Chlorides",
+            "Aluminum Salts",
+            "Cationics"
+        ],
+        "End Uses": [
+            "Paper & Pulp"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Polyamines",
+            "Aluminum Salts",
+            "Aluminum Compounds",
+            "Cationics",
+            "Chlorides"
+        ],
+        "Functions": [
+            "Coagulant"
+        ],
+        "End Uses": [
+            "Paper & Pulp"
+        ],
+        "Applicable Processes": [
+            "Water Clarification"
+        ]
+    }
+}

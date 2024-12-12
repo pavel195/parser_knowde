@@ -1,0 +1,33 @@
+{
+    "id": 407184,
+    "brand": "super-cal-8",
+    "name": "UAS of America Organic Super Hume Seaweed",
+    "slug": "uas-of-america-organic-super-hume-seaweed",
+    "description": null,
+    "company_name": "UAS of America",
+    "company_slug": "uas-of-america",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708683655/production/Company/48822/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608173/production/CategoryImage/547/category_image/AgricultureFeed_03.jpg",
+    "properties": {
+        "Applications": [
+            "Turf Management",
+            "Turf, Ornamentals & Landscape"
+        ],
+        "Product Families": [
+            "Soil Amendments & Conditioners",
+            "Plant Health, Nutrients & Soil Management"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Soil Conditioner"
+        ],
+        "Application Technique": [
+            "Sprayers",
+            "Foliage Applied"
+        ],
+        "Labeling Claims": [
+            "Organic"
+        ]
+    }
+}

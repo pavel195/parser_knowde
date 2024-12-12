@@ -1,0 +1,32 @@
+{
+    "id": 405250,
+    "brand": "c-poxy",
+    "name": "C-Melt C 53 LO",
+    "slug": "c-melt-c-53-lo",
+    "description": "C-Melt C 53 LO is a hot melt adhesive used in counter bonding (bond one substrate to another) textiles, NW and PU foams. It is also used for bonding decorative paper or wood sheets on MDF (Profile Wrapping).",
+    "company_name": "CEC Corp",
+    "company_slug": "cec-corp",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520140/production/Brand/31041/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608972/production/CategoryImage/588/category_image/AdhesivesSealants_05.jpg",
+    "properties": {
+        "Applications": [
+            "Tapes, Labels & Adhesives",
+            "Case & Carton Sealing"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Hot Melt Adhesives"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Hot Melt Adhesive"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Wood"
+        ],
+        "Application Method": [
+            "Roller"
+        ]
+    }
+}

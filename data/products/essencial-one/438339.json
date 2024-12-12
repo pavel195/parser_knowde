@@ -1,0 +1,27 @@
+{
+    "id": 438339,
+    "brand": "essencial-one",
+    "name": "ESSENCIAL ONE®",
+    "slug": "essencial-one",
+    "description": "Essencial One® is Mercordi's most performing herbal growth promotor for poultry is a complex blend of phytogenic bioactive compounds obtained from plant material through Mercordi's proprietary, in-house developed extraction techniques.",
+    "company_name": "Mercordi BV",
+    "company_slug": "mercordi-bv",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686131710/production/Company/63165/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608173/production/CategoryImage/547/category_image/AgricultureFeed_03.jpg",
+    "properties": {
+        "Applications": [
+            "Animal Health & Nutrition",
+            "Birds & Poultry"
+        ],
+        "Product Families": [
+            "Health & Well-Being",
+            "Other Health & Well-Being Products"
+        ]
+    },
+    "summary": {
+        "Features": [
+            "Improving Stress Tolerance",
+            "Improves Growth Performance"
+        ]
+    }
+}

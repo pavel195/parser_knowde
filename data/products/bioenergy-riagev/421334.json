@@ -1,0 +1,54 @@
+{
+    "id": 421334,
+    "brand": "bioenergy-riagev",
+    "name": "Bioenergy RiboActiv®",
+    "slug": "bioenergy-riboactiv",
+    "description": "Bioenergy RiboActiv® an AMPK booster, is a precision dose of Bioenergy Ribose. Ribose is the backbone of our ATP structure, making it essential for the production of cellular energy. Age and stress increase our cells’ ATP requirements. Having sufficient levels of Ribose in your cells is crucial. But while Ribose is naturally present in every living cell in the body, the process to produce it is very slow. Supplementing with multi-patented Bioenergy Ribose is vital for steady, sustainable cellular energy. Bioenergy Ribose is supported by ongoing research documenting its ability to help you become a healthier you, from the inside out.",
+    "company_name": "Bioenergy Life Science, Inc. (BLS)",
+    "company_slug": "bioenergy-life-science-inc-bls",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704796133/production/Company/56913/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607247/production/CategoryImage/513/category_image/FoodNutrition_13.jpg",
+    "properties": {
+        "Applications": [
+            "Sports Nutrition",
+            "Functional Foods",
+            "Energy Drinks",
+            "Nutraceuticals & Supplements",
+            "Beverage",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Sports Nutrition",
+            "Dietary Supplements",
+            "Functional Foods",
+            "Functional Beverages"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Ribose"
+        ],
+        "Labeling Claims": [
+            "Non-GMO",
+            "Keto"
+        ],
+        "Certifications & Compliance": [
+            "EFSA (European Food Safety Authority) Certified",
+            "Non-GMO Project Verified"
+        ],
+        "Benefit Claims (Health)": [
+            "Regulates Metabolism",
+            "Fat Reduction"
+        ],
+        "Features": [
+            "Solubilizing",
+            "Helps In Weight Management"
+        ]
+    }
+}

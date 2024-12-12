@@ -1,0 +1,55 @@
+{
+    "id": 423717,
+    "brand": "hercules-ep",
+    "name": "Athena 46",
+    "slug": "athena-46",
+    "description": "Athena 46 is a anti-wear hydraulic oils formulated with highly refined paraffinic base oils. It provides excellent anti-wear protection, oxidation and corrosion inhibition as well as foam and aeration suppression. It have excellent demulsibility characteristics.",
+    "company_name": "Coolant Control",
+    "company_slug": "coolant-control",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680108734/production/Company/49455/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Lubricants & Functional Fluids",
+            "Automotive Fluids & Lubricants",
+            "Chemical & Industrial Manufacturing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Lubricants & Oils",
+            "Fluids & Lubricants"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Hydraulic Oils"
+        ],
+        "Application Area": [
+            "Foam Fire Suppression",
+            "Gears",
+            "Bearings",
+            "Seals"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Yellow Metals",
+            "Iron",
+            "Metal",
+            "Silicone",
+            "Elastomers & Rubbers"
+        ],
+        "Features": [
+            "Service Life Extension",
+            "High Thermo-Oxidative Stability",
+            "Wear Resistant",
+            "Oxidation Resistant",
+            "Sludge Build-up Prevention",
+            "Corrosion Resistant",
+            "Cost Effective",
+            "Deposit Prevention",
+            "High Reliability",
+            "High Hydrolytic Stability",
+            "Excellent Lubricity",
+            "Easy Product Filterability"
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "id": 321281,
+    "brand": "tpv-elastoprene",
+    "name": "TPV ELASTOPRENE® T65A-E03",
+    "slug": "tpv-elastoprene-t65a-e03",
+    "description": "T65A-E03 is manufactured with elastic properties similar to vulcanized rubber and superior to traditional plastics. It is recyclable and reusable at the point of transformation, with a significant reduction in the weight of the piece and with an evident improvement in the profitability of the processes. It is suitable for the transformation process such as extrusion ",
+    "company_name": "Elastómeros Riojanos S.A.U",
+    "company_slug": "elastomeros-riojanos",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112958/production/Product/321281/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608502/production/CategoryImage/564/category_image/BuildingConstruction_08.jpg",
+    "properties": {
+        "Applications": [
+            "Exterior & Body",
+            "Glazing & Window Elements",
+            "Building Envelope & Roofing",
+            "Waterproofing & Weatherproofing",
+            "Automotive",
+            "Building Envelope"
+        ],
+        "Product Families": [
+            "Thermoplastic Elastomers",
+            "Thermoplastic Vulcanizates (TPV)",
+            "Elastomer Blends"
+        ],
+        "Chemical Family": [
+            "Polypropylenes (PP)",
+            "Polyolefins"
+        ],
+        "Polymer Name": [
+            "PP/EPDM"
+        ],
+        "End Uses": [
+            "Cup Holders",
+            "Windows",
+            "Automotive Exterior Parts",
+            "Weatherstripping",
+            "Construction Applications",
+            "Doors"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "PP/EPDM"
+        ],
+        "Processing Methods": [
+            "Extrusion"
+        ]
+    }
+}

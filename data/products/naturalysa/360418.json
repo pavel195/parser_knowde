@@ -1,0 +1,52 @@
+{
+    "id": 360418,
+    "brand": "naturalysa",
+    "name": "Stevia Pure Clear",
+    "slug": "stevia-pure-clear",
+    "description": "Stevia Pure Clear is suitable for high sugar substitutions without the presence of any off-flavors, liquorice and bitter after tastes. Available as powder or syrup. All products are available as fine powders or granulated versions.",
+    "company_name": "HS Ingredients dba SWT Stevia",
+    "company_slug": "hs-ingredients-dba-swt-stevia",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708690204/production/Brand/26908/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607274/production/CategoryImage/514/category_image/FoodNutrition_14.jpg",
+    "properties": {
+        "Applications": [
+            "Juice & Juice Drinks",
+            "Functional & Flavored Water",
+            "Dairy",
+            "Carbonated Drinks",
+            "Beverage",
+            "Food"
+        ],
+        "Product Families": [
+            "Alternates & Replacements",
+            "Sweeteners & Syrups",
+            "Taste & Flavor",
+            "Whole Foods, Extracts & Premixes"
+        ],
+        "End Uses": [
+            "Fruit Juice",
+            "Yogurt",
+            "Milk",
+            "Carbonated Drinks"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Nutritive Sweetener",
+            "Sugar Substitute"
+        ],
+        "Labeling Claims": [
+            "Kosher",
+            "No Added Sugar",
+            "Halal",
+            "Organic"
+        ],
+        "Certifications & Compliance": [
+            "Halal",
+            "GFSI Certified",
+            "Kosher",
+            "FSSC 22000",
+            "EU Compliant"
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": 419064,
+    "brand": "sure-klean",
+    "name": "Sure Klean® 101 Lime Solvent®",
+    "slug": "sure-klean-101-lime-solvent",
+    "description": "Sure Klean® 101 Lime Solvent® is an acidic cleaner for dark-colored brick and tile surfaces which are not subject to metallic oxidation. It safely removes excess mortar and construction dirt.",
+    "company_name": "Prosoco",
+    "company_slug": "prosoco",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1682593238/production/Brand/32861/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515589/production/CategoryImage/1050/category_image/HII_02.jpg",
+    "properties": {
+        "Applications": [
+            "Institutional & Industrial Care",
+            "Surface Care",
+            "Industrial Cleaning",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Industrial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Acid Cleaners",
+            "Cleaner"
+        ],
+        "Application Area": [
+            "Brick"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Stone",
+            "Tile",
+            "Brick"
+        ],
+        "Features": [
+            "Effective Soil Removal"
+        ]
+    }
+}

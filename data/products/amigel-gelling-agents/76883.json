@@ -1,0 +1,69 @@
+{
+    "id": 76883,
+    "brand": "amigel-gelling-agents",
+    "name": "Amiderm™ ER Soothing Active",
+    "slug": "amiderm-er-soothing-active",
+    "description": "Amiderm ER is a 100% natural blend of plant-origin amino acids, witch hazel bark and oak gallnut extracts, in glycerin. It aids in synergy and prevents odor and irritations. Amiderm ER can be used in many skin protection applications.",
+    "company_name": "Alban Muller",
+    "company_slug": "alban-muller",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708698264/production/Company/1137/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708698264/production/Company/1137/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Skin Care",
+            "AP/Deo",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Skin Actives",
+            "Sensory Modifiers",
+            "Other Functional Additives",
+            "Conditioners & Emollients",
+            "Cosmetic Actives",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Hamamelis Virginiana (Witch Hazel) Bark/Leaf Extract",
+            "Quercus Infectoria (Oak) Gall Extract",
+            "Arginine",
+            "Leucine"
+        ],
+        "End Uses": [
+            "Deodorants",
+            "Moisturizers"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Hamamelis Virginiana (Witch Hazel) Bark/Leaf Extract",
+            "Leucine",
+            "Arginine",
+            "Quercus Infectoria (Oak) Gall Extract"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Plant Origin"
+        ],
+        "Functions": [
+            "Soothing Agent",
+            "Astringent",
+            "Protective Agent",
+            "Anti-Irritant",
+            "Moisturizing Agent"
+        ],
+        "Labeling Claims": [
+            "Credo Clean Standard",
+            "Plant-Based",
+            "Naturally Derived",
+            "Non-Irritant",
+            "Natural"
+        ],
+        "Benefit Claims": [
+            "Odor Masking",
+            "Anti-Irritant",
+            "Moisturizing",
+            "Conditioning",
+            "Soothing"
+        ]
+    }
+}

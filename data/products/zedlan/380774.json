@@ -1,0 +1,37 @@
+{
+    "id": 380774,
+    "brand": "zedlan",
+    "name": "Crown Foam Technologies AIRTUFF SYNTHETIC SBR FOAM",
+    "slug": "crown-foam-technologies-airtuff-synthetic-sbr-foam",
+    "description": "Crown Foam Technologies Airtuff Synthetic SBR Foam is derived from components that generate excellent rebound and compression resistance while providing superior cushioning and support.",
+    "company_name": "Crown Foam Technologies",
+    "company_slug": "crown-foam-technologies",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1702444502/production/Company/45956/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608730/production/CategoryImage/574/category_image/AutomotiveTransportation_02.jpg",
+    "properties": {
+        "Applications": [
+            "Other Consumer Goods Applications",
+            "Footwear"
+        ],
+        "Product Families": [
+            "Foams"
+        ],
+        "Chemical Family": [
+            "Synthetic Rubbers"
+        ]
+    },
+    "summary": {
+        "Foam Type": [
+            "Syntactic Foam"
+        ],
+        "Density": [
+            "128.0 - 160.0 kg/m³"
+        ],
+        "Chemical Family": [
+            "Synthetic Rubbers"
+        ],
+        "Physical Form": [
+            "Sheets"
+        ]
+    }
+}

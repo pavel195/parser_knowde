@@ -1,0 +1,35 @@
+{
+    "id": 598039,
+    "brand": "clinton",
+    "name": "Pet Gut Health Postbiotic",
+    "slug": "pet-gut-health-postbiotic",
+    "description": "<p>Pet Gut Health Postbiotic is a postbiotic supplement designed to enhance gut health in pets by improving gut microflora, increasing digestibility, and optimizing overall digestive health. It is suitable for animal health and nutrition applications.</p><p></p>",
+    "company_name": "ADM",
+    "company_slug": "adm",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1674525838/production/Company/4182/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1671125277/production/Company/4182/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Pets",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Feed Supplements",
+            "Prebiotics, Probiotics & Postbiotics",
+            "Health & Well-Being",
+            "Nutritional Ingredients"
+        ]
+    },
+    "summary": {
+        "Animal Species": [
+            "Dogs",
+            "Cats",
+            "Pets"
+        ],
+        "Features": [
+            "Increased Digestibility",
+            "Optimizing Gut Health",
+            "Improves Gut Microflora"
+        ]
+    }
+}

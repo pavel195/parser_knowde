@@ -1,0 +1,47 @@
+{
+    "id": 158087,
+    "brand": "pelprene",
+    "name": "PELPRENE™ P95C",
+    "slug": "pelprene-p95c",
+    "description": "PELPRENE™ P95C is a Thermoplastic Polyester Elastomer (TPEE) product. It is available in North America. Characteristics include: Flame Rated Good Flexibility",
+    "company_name": "Toyobo Global",
+    "company_slug": "toyobo-global",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1703115756/production/Product/158087/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1703115756/production/Product/158087/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Non-Food Consumer Packaging",
+            "Other Consumer Goods Applications",
+            "Packaging"
+        ],
+        "Product Families": [
+            "Thermoplastic Polyester Elastomers (TPE-E)",
+            "Thermoplastic Elastomers"
+        ],
+        "Chemical Family": [
+            "Polyesters"
+        ],
+        "Polymer Name": [
+            "Thermoplastic Polyester Elastomer"
+        ],
+        "End Uses": [
+            "Cosmetic Packaging",
+            "General Purpose",
+            "Caps"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Thermoplastic Polyester Elastomer"
+        ],
+        "Processing Methods": [
+            "Casting",
+            "Rotational Molding"
+        ],
+        "End Uses": [
+            "Cosmetic Packaging",
+            "General Purpose",
+            "Caps"
+        ]
+    }
+}

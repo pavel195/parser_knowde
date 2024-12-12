@@ -1,0 +1,35 @@
+{
+    "id": 395929,
+    "brand": "sambatch",
+    "name": "SAMBATCH W 7060",
+    "slug": "sambatch-w-7060",
+    "description": "SAMBATCH W 7060 is a polyolefin based white masterbatch.",
+    "company_name": "Semerkand Plastik",
+    "company_slug": "semerkand-plastik",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691740981/production/Company/50038/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609091/production/CategoryImage/594/category_image/PrintingPackaging_05.jpg",
+    "properties": {
+        "Applications": [
+            "Non-Food Consumer Packaging",
+            "Industrial & Transport Packaging",
+            "Housewares",
+            "Pipes & Plumbing",
+            "Building Materials",
+            "Packaging"
+        ],
+        "Product Families": [
+            "Color Masterbatches",
+            "Masterbatches",
+            "Dispersions & Masterbatches"
+        ],
+        "End Uses": [
+            "Shopping Bags",
+            "Pipes",
+            "Jerrycans",
+            "Household Goods",
+            "Film",
+            "Bottles"
+        ]
+    },
+    "summary": {}
+}

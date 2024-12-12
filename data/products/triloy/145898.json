@@ -1,0 +1,56 @@
+{
+    "id": 145898,
+    "brand": "triloy",
+    "name": "TRIREX® Compound GS3025G20",
+    "slug": "trirex-compound-gs3025g20",
+    "description": "TRIREX® Compound GS3025G20 is a Polycarbonate (PC) product. It is available in Asia Pacific, Europe, or North America.Characteristics include: Flame Rated Flame Retardant",
+    "company_name": "Samyang Corporation",
+    "company_slug": "samyang-corporation",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708523248/production/Company/2840/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708523248/production/Company/2840/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Consumer Electronics",
+            "Automotive Lighting",
+            "Exterior & Body",
+            "Other Devices & Assemblies",
+            "Connectors",
+            "Appliances & Electronics",
+            "Housings & Enclosures",
+            "Other Automotive Applications",
+            "Automotive",
+            "Devices & Assemblies",
+            "Parts & Components"
+        ],
+        "Product Families": [
+            "Polycarbonates",
+            "Engineering & Specialty Polymers"
+        ],
+        "Chemical Family": [
+            "Polycarbonate (PC)"
+        ],
+        "Polymer Name": [
+            "Polycarbonate (PC)"
+        ],
+        "End Uses": [
+            "Bezels",
+            "Headlight Cover",
+            "Electrical/Electronic Applications",
+            "Connectors",
+            "Appliances",
+            "Housings",
+            "Automotive Applications"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polycarbonate (PC)"
+        ],
+        "Processing Methods": [
+            "Injection Molding"
+        ],
+        "Fillers Included": [
+            "Glass Fiber"
+        ]
+    }
+}

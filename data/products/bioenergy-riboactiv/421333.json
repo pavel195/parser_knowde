@@ -1,0 +1,42 @@
+{
+    "id": 421333,
+    "brand": "bioenergy-riboactiv",
+    "name": "Bioenergy RiaGev® FEM",
+    "slug": "bioenergy-riagev-fem",
+    "description": "Bioenergy RiaGev® FEM is a patented, drug-free ingredient formulation of Bioenergy Ribose and Nicotinamide that supports women at every stage of the menopausal spectrum. This breakthrough ingredient is clinically proven to lower cortisol levels naturally in a shorter amount of time than other ingredients, and without side effects. Plus, it supports overall healthy aging and wellness from the inside out. This makes it more effective at alleviating symptoms of women’s hormonal fluctuations, including fatigue.",
+    "company_name": "Bioenergy Life Science, Inc. (BLS)",
+    "company_slug": "bioenergy-life-science-inc-bls",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708517236/production/Company/56913/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607247/production/CategoryImage/513/category_image/FoodNutrition_13.jpg",
+    "properties": {
+        "Applications": [
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ]
+    },
+    "summary": {
+        "Labeling Claims": [
+            "Natural"
+        ],
+        "Benefit Claims (Health)": [
+            "Reduces Hot Flashes",
+            "Reduces Cortisol Levels",
+            "Assists Menopausal Discomforts",
+            "Joint Support"
+        ],
+        "Features": [
+            "Helps In Weight Management",
+            "Improved Bone Health",
+            "Improved Cognitive Function",
+            "Anti-Fatigue",
+            "Excellent Bioavailability",
+            "Relaxing"
+        ]
+    }
+}

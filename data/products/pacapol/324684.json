@@ -1,0 +1,35 @@
+{
+    "id": 324684,
+    "brand": "pacapol",
+    "name": "Quickstar™ 400PHCS",
+    "slug": "quickstar-400phcs",
+    "description": "Quickstar™ 400PHCS is dendrimeric polyol derivatized with cycloaliphatic rings to improve buffability and fast drying capabilities. Viscosity drops quickly in solvent, so is excellent for high solids coatings. ",
+    "company_name": "Instrumental Polymer Technologies",
+    "company_slug": "instrumental-polymer-technologies",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686148603/production/Brand/23183/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608630/production/CategoryImage/571/category_image/PaintingsCoatings_07.jpg",
+    "properties": {
+        "Applications": [
+            "Packaging Coatings",
+            "Primers & Lacquers",
+            "Other Adhesives & Sealants Applications",
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Monomers & Intermediates",
+            "Prepolymers & Polyols"
+        ],
+        "Chemical Family": [
+            "Polyols"
+        ],
+        "End Uses": [
+            "Solventborne Coating",
+            "Solventless & High Solids Coating"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Polyols"
+        ]
+    }
+}

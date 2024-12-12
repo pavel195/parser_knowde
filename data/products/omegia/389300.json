@@ -1,0 +1,85 @@
+{
+    "id": 389300,
+    "brand": "omegia",
+    "name": "Omegia® Powder",
+    "slug": "omegia-powder",
+    "description": "Omegia® Powder is a unique standardized formula containing a balanced ratio of all the unsaturated fatty acids: Omega-3-6-7-9. Moreover, it also consists of many antioxidants, such as beta-carotene and vitamin E, and plant sterols, which are essential for human health.",
+    "company_name": "Puredia",
+    "company_slug": "puredia",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704101852/production/Brand/29166/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515740/production/CategoryImage/1062/category_image/PersonalCare_04.jpg",
+    "properties": {
+        "Applications": [
+            "Oral Care",
+            "Feminine Hygiene",
+            "Skin Care",
+            "Beauty & Care",
+            "Personal Hygiene"
+        ],
+        "Product Families": [
+            "Botanical Ingredients & Extracts",
+            "Vitamins, Extracts & Oils"
+        ],
+        "INCI Name": [
+            "Hippophae Rhamnoides Seed Oil",
+            "Hippophae Rhamnoides Fruit Extract"
+        ],
+        "End Uses": [
+            "Moisturizers"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Hippophae Rhamnoides Fruit Extract",
+            "Hippophae Rhamnoides Seed Oil"
+        ],
+        "Ingredient Origin": [
+            "Non-Animal Origin",
+            "Natural Origin",
+            "Vegetable Origin",
+            "Plant Origin"
+        ],
+        "Benefit Claims": [
+            "Improves Skin Elasticity",
+            "Moisturizing",
+            "Anti-Itching",
+            "Hydrating",
+            "Wrinkle Refinement",
+            "Antioxidant Properties"
+        ],
+        "Labeling Claims": [
+            "Halal",
+            "Pesticide-free",
+            "Non-GMO",
+            "Formaldehyde-free",
+            "Plant-Based",
+            "AOX-free",
+            "VOC-free",
+            "Credo Clean Standard",
+            "BSE-free",
+            "Organic",
+            "Ethanol-free",
+            "Latex-free",
+            "Biodegradable",
+            "TSE-free",
+            "Not Tested on Animals",
+            "Clean at Sephora",
+            "Kosher",
+            "Naturally Derived",
+            "Ulta Beauty's Conscious Beauty"
+        ],
+        "Certifications & Compliance": [
+            "Halal",
+            "ISO 22000",
+            "ISO 14001",
+            "NPA Certified",
+            "Hazard Analysis Critical Control Point (HACCP)",
+            "USDA Certified",
+            "NSF Approved",
+            "ISO 9001",
+            "BRC Certified",
+            "Organic Certified",
+            "Kosher"
+        ]
+    }
+}

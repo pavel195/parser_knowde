@@ -1,0 +1,49 @@
+{
+    "id": 78982,
+    "brand": "dk-pearl",
+    "name": "MAKIGREEN™ VELVET Wax",
+    "slug": "makigreen-velvet-wax",
+    "description": "A rheology modifier comprised of a 100% natural wax compound with a velvet texture.",
+    "company_name": "DAITO KASEI",
+    "company_slug": "daito-kasei-kogyo",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708685532/production/Company/1194/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708685532/production/Company/1194/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Color Cosmetics",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Fats, Butters & Waxes",
+            "Rheology Modifiers",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Oryza Sativa (Rice) Bran Oil",
+            "Helianthus Annuus (Sunflower) Seed Wax",
+            "Rhus Succedanea Fruit Wax",
+            "Oryza Sativa (Rice) Bran Wax"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Oryza Sativa (Rice) Bran Oil",
+            "Helianthus Annuus (Sunflower) Seed Wax",
+            "Oryza Sativa (Rice) Bran Wax",
+            "Rhus Succedanea Fruit Wax"
+        ],
+        "Functions": [
+            "Viscosity Modifier"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin"
+        ],
+        "Labeling Claims": [
+            "Clean at Sephora",
+            "Credo Clean Standard",
+            "Naturally Derived",
+            "Ulta Beauty's Conscious Beauty",
+            "Natural"
+        ]
+    }
+}

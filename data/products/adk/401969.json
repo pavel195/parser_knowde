@@ -1,0 +1,38 @@
+{
+    "id": 401969,
+    "brand": "adk",
+    "name": "ADK 75A ADHESIVE",
+    "slug": "adk-75a-adhesive",
+    "description": "ADK 75A ADHESIVE is a solvent based, liquid, linear polyester polyurethane adhesive used with an isocyanate cross-linking agent in a two-component system which has been specifically designed for splicing abrasive belts.",
+    "company_name": "Adirondack Specialty Adhesives",
+    "company_slug": "adirondack-specialty-adhesives",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1685601161/production/Brand/30632/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608939/production/CategoryImage/585/category_image/AdhesivesSealants_02.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial & Assembly Adhesives",
+            "Other Industrial & Assembly Applications",
+            "Other Industrial Applications",
+            "Industrial Adhesives & Sealants",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Other Adhesives & Sealants"
+        ],
+        "Chemical Family": [
+            "Urethanes"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "2K (2 component) Adhesive"
+        ],
+        "Application Method": [
+            "Roller"
+        ],
+        "Chemical Family": [
+            "Urethanes"
+        ]
+    }
+}

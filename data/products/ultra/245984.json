@@ -1,0 +1,32 @@
+{
+    "id": 245984,
+    "brand": "ultra",
+    "name": "aramcoULTRA 8",
+    "slug": "aramcoultra-8",
+    "description": "aramcoULTRA 8 is used in engine oil, axle oil and automatic transmission fluid.",
+    "company_name": "S-oil",
+    "company_slug": "s-oil",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1693579384/production/Company/18056/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1693579384/production/Company/18056/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Transmission Fluids",
+            "Fluids & Lubricants",
+            "Marine Fluids & Lubricants",
+            "Aerospace Fluids & Lubricants",
+            "Automotive Fluids & Lubricants",
+            "Lubricants & Functional Fluids",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "API Group III",
+            "Base Stocks & Oils"
+        ],
+        "End Uses": [
+            "Axle Oils ",
+            "Manual/Automatic Transmissions Fluids",
+            "Engine Oils"
+        ]
+    },
+    "summary": {}
+}

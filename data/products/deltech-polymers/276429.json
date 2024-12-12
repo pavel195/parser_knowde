@@ -1,0 +1,36 @@
+{
+    "id": 276429,
+    "brand": "deltech-polymers",
+    "name": "StanChem Polymers SC 5186",
+    "slug": "stanchem-polymers-sc-5186",
+    "description": "StanChem Polymers SC 5186 is general-purpose polyvinyl acetate. It deposits a clear, tough film, which exhibits excellent resistance to heat and light. It provides good adhesion to cellulose. Films of SC 5186 exhibit good blocking resistance.\r\n",
+    "company_name": "Deltech",
+    "company_slug": "deltech",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1724223803/production/Brand/39046/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1724223803/production/Product/276429/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Other Paints & Coatings Applications",
+            "Other Building & Construction Applications",
+            "Other Adhesives & Sealants Applications"
+        ],
+        "Product Families": [
+            "Other Resins & Binders",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Polyvinyl Acetates (PVA)"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Polyvinyl Acetates (PVA)"
+        ],
+        "Glass Transition Temperature (Tg)": [
+            "30.0 - 30.0 °C"
+        ],
+        "Features": [
+            "Blocking Resistance"
+        ]
+    }
+}

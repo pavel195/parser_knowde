@@ -1,0 +1,46 @@
+{
+    "id": 321485,
+    "brand": "elapol",
+    "name": "ELAPOL 5420 A",
+    "slug": "elapol-5420-a",
+    "description": "ELAPOL 5420 A is an aliphatic, saturated polyester polyol by Elachem.It contains 1,4-butanediol and mono-ethylene glycol.",
+    "company_name": "Elachem",
+    "company_slug": "elachem",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686148763/production/Brand/22900/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Leather",
+            "Textiles & Nonwovens",
+            "Finishing",
+            "Technical Fabrics",
+            "Resin Manufacturing",
+            "Chemical Manufacturing",
+            "Leather & Textiles",
+            "Chemical & Industrial Manufacturing",
+            "Leather Manufacturing",
+            "Textile Manufacturing"
+        ],
+        "Product Families": [
+            "Diols & Polyols",
+            "Monomers & Intermediates",
+            "Prepolymers & Polyols",
+            "Monomers",
+            "Monomers & Oligomers"
+        ],
+        "Chemical Family": [
+            "Polyols (Polyester)",
+            "Polyols"
+        ],
+        "End Uses": [
+            "Coatings",
+            "Resins"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Polyols (Polyester)",
+            "Polyols"
+        ]
+    }
+}

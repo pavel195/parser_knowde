@@ -1,0 +1,53 @@
+{
+    "id": 218420,
+    "brand": "resafen-phenolics",
+    "name": "UROTUF® F77-M-60",
+    "slug": "urotuf-f77-m-60",
+    "description": "UROTUF® F77-M-60 is a one-package, ASTM Type I oil-modified urethane based on linseed oil, which cures by oxidation at ambient temperatures in the presence of metallic driers.",
+    "company_name": "Reichhold",
+    "company_slug": "reichhold",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1703114437/production/Company/8897/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608640/production/CategoryImage/572/category_image/PaintingsCoatings_08.jpg",
+    "properties": {
+        "Applications": [
+            "EIFS & Insulation",
+            "Architectural Coatings",
+            "Primers & Lacquers",
+            "Metal Coatings",
+            "Industrial Maintenance",
+            "Stationery, Art & Office Supplies",
+            "Sports & Recreation",
+            "Furniture Coatings",
+            "Wood Coatings & Finishes",
+            "Floor Coatings",
+            "Building Envelope",
+            "Flooring & Surfaces",
+            "Building & Construction",
+            "Industrial Coatings",
+            "Packaging Coatings",
+            "Building Envelope & Roofing"
+        ],
+        "Product Families": [
+            "Polyurethanes (PU)",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Wood"
+        ],
+        "Features": [
+            "Solvent Resistance",
+            "Chemical Resistance",
+            "Abrasion Resistance",
+            "Corrosion Resistance"
+        ]
+    }
+}

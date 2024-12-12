@@ -1,0 +1,58 @@
+{
+    "id": 398800,
+    "brand": "islands-99-plus",
+    "name": "TALON™",
+    "slug": "talon",
+    "description": "TALON™ is a copper-based, semi-hard hybrid ablative antifouling paint. Talon can be applied over most antifouling coatings and aggressively combats all types of fresh and salt water marine fouling.",
+    "company_name": "Sea Hawk Paints",
+    "company_slug": "sea-hawk-paints",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1666072002/production/Company/50361/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608693/production/CategoryImage/573/category_image/AutomotiveTransportation_01.jpg",
+    "properties": {
+        "Applications": [
+            "Coatings & Finishes",
+            "Marine",
+            "Marine Coatings",
+            "Transportation"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Other Paints & Coatings"
+        ],
+        "Chemical Family": [
+            "Copper-based Compounds"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Paint"
+        ],
+        "Application Areas": [
+            "Marine Applications"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Aluminum",
+            "Metal",
+            "Steel",
+            "Fiberglass",
+            "Painted Surfaces",
+            "Wood"
+        ],
+        "Features": [
+            "Medium Gloss",
+            "Anti-Fouling",
+            "Medium Hardness",
+            "Water Resistant",
+            "High Flowability",
+            "Durable"
+        ],
+        "Application Method": [
+            "Roller",
+            "Brush",
+            "Spray"
+        ],
+        "Chemical Family": [
+            "Copper-based Compounds"
+        ]
+    }
+}

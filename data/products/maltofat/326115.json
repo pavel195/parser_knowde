@@ -1,0 +1,23 @@
+{
+    "id": 326115,
+    "brand": "maltofat",
+    "name": "Hellenic Protein S.A. Prolac",
+    "slug": "hellenic-protein-s-a-prolac",
+    "description": "Hellenic Protein S.A. Prolac is a Deprotein whey powder, produced from whey delivered after production of whey cheese.",
+    "company_name": "Hellenic Protein S.A.",
+    "company_slug": "hellenic-protein-s-a",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1693575353/production/Company/31290/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607009/production/CategoryImage/509/category_image/FoodNutrition_10.jpg",
+    "properties": {
+        "Applications": [
+            "Dairy",
+            "Bakery",
+            "Food"
+        ],
+        "Product Families": [
+            "Dairy Products",
+            "Whole Foods, Extracts & Premixes"
+        ]
+    },
+    "summary": {}
+}

@@ -1,0 +1,25 @@
+{
+    "id": 422992,
+    "brand": "fielco-adhesives-odyssey",
+    "name": "Odyssey 6800",
+    "slug": "odyssey-6800",
+    "description": "Fielco Adhesives Odyssey 6800 is a heat curing, fast setting, one-part epoxy adhesive designed for bonding applications requiring heat dissipation.",
+    "company_name": "Fielco Adhesives",
+    "company_slug": "fielco-adhesives",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691738001/production/Brand/33275/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608953/production/CategoryImage/586/category_image/AdhesivesSealants_03.jpg",
+    "properties": {
+        "Applications": [
+            "Adhesives & Sealants",
+            "Appliances & Electronics",
+            "Semiconductor Manufacturing",
+            "Packaging & Assembly",
+            "Parts & Components"
+        ],
+        "Product Families": [
+            "Contact Adhesives",
+            "Adhesives & Sealants"
+        ]
+    },
+    "summary": {}
+}

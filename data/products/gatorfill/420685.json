@@ -1,0 +1,45 @@
+{
+    "id": 420685,
+    "brand": "gatorfill",
+    "name": "JENNITE® AE",
+    "slug": "jennite-ae",
+    "description": "Jennite AE is a concentrated, polymer modified asphalt emulsion sealer specifically formulated as a weather protective, water resistant coating over asphalt pavements of airports, parking lots and driveways.",
+    "company_name": "Neyra Industries",
+    "company_slug": "neyra-industries",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520318/production/Brand/33028/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608410/production/CategoryImage/557/category_image/BuildingConstruction_01.jpg",
+    "properties": {
+        "Applications": [
+            "Infrastructure, Roads & Paving",
+            "Coatings & Markings",
+            "Pavement, Highways, Roads & Bridges"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Primers & Sealers"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Sealer"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Asphalt"
+        ],
+        "Features": [
+            "Cost Effective",
+            "Waterproofing",
+            "Thermal Cracking Resistance",
+            "Skid Resistant",
+            "High Solids Content",
+            "Low VOC",
+            "Water Resistant",
+            "Service Life Extension",
+            "Good Sunlight Resistance",
+            "Excellent Seal Properties",
+            "Durable",
+            "Good Weather Stability",
+            "Oxidation Resistant"
+        ]
+    }
+}

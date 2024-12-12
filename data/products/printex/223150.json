@@ -1,0 +1,56 @@
+{
+    "id": 223150,
+    "brand": "printex",
+    "name": "Orion Engineered Carbons SPECIAL BLACK 550",
+    "slug": "orion-engineered-carbons-special-black-550-powder",
+    "description": "SPECIAL BLACK 550 regular color furnace (RCF) carbon black Amorphous carbon. Used for sheet-fed offset printing inks.\n\n",
+    "company_name": "Orion Engineered Carbons",
+    "company_slug": "orion-engineered-carbons",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708527277/production/Company/9856/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608477/production/CategoryImage/562/category_image/BuildingConstruction_06.jpg",
+    "properties": {
+        "Applications": [
+            "Letterpress",
+            "Gravure Printing",
+            "Flexography",
+            "Printing & Inks"
+        ],
+        "Product Families": [
+            "Inorganic Pigments",
+            "Color Pigments",
+            "Pigments & Colorants"
+        ],
+        "Chemical Family": [
+            "Carbon Blacks"
+        ],
+        "End Uses": [
+            "Solventborne Ink",
+            "Gravure Ink",
+            "Flexography Ink",
+            "Radiation Curable Coating"
+        ]
+    },
+    "summary": {
+        "Color": [
+            "Black"
+        ],
+        "Pigment Type": [
+            "Inorganic Pigments"
+        ],
+        "Chemical Family": [
+            "Carbon Blacks"
+        ],
+        "End Uses": [
+            "Solventborne Ink",
+            "Radiation Curable Coating",
+            "Flexography Ink",
+            "Gravure Ink"
+        ],
+        "Particle Size": [
+            "0.025 - 0.025 microns"
+        ],
+        "Synonyms": [
+            "Acetylene Black, Furnace Black, Lamp Black, Thermal Black"
+        ]
+    }
+}

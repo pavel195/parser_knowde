@@ -1,0 +1,42 @@
+{
+    "id": 275728,
+    "brand": "syntholux",
+    "name": "SYNTHOESTER 1018",
+    "slug": "synthoester-1018",
+    "description": "Highly branched, saturated polyester containing hydroxyl groups, modified with a low molecular weight fatty acid.",
+    "company_name": "Synthopol",
+    "company_slug": "synthopol",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112010/production/Company/22068/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608630/production/CategoryImage/571/category_image/PaintingsCoatings_07.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial Coatings",
+            "Metal Coatings"
+        ],
+        "Product Families": [
+            "Polyesters",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Polyesters"
+        ],
+        "End Uses": [
+            "Solventless & High Solids Coating"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Polyesters"
+        ],
+        "End Uses": [
+            "Solventless & High Solids Coating"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Plastics"
+        ],
+        "Features": [
+            "Weather Resistance"
+        ]
+    }
+}

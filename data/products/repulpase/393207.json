@@ -1,0 +1,38 @@
+{
+    "id": 393207,
+    "brand": "repulpase",
+    "name": "MORzyme®",
+    "slug": "morzyme",
+    "description": "MORzyme® is used in the treatment of the processing of recovered fibers to enhance the safe removal of residual mineral oils and other contaminants found in wastepaper that are not desired by end users of the final produced paper.",
+    "company_name": "Enzymatic Deinking Technologies",
+    "company_slug": "enzymatic-deinking-technologies",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664291934/production/Brand/29638/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Paper & Pulp",
+            "Pulping & Processing"
+        ],
+        "Product Families": [
+            "Paper & Pulp Chemicals",
+            "Recycling Aids"
+        ],
+        "Chemical Family": [
+            "Enzymes"
+        ],
+        "End Uses": [
+            "Paper & Pulp"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Enzymes"
+        ],
+        "End Uses": [
+            "Paper & Pulp"
+        ],
+        "Applicable Processes": [
+            "Paper Deinking"
+        ]
+    }
+}

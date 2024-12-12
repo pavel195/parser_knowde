@@ -1,0 +1,51 @@
+{
+    "id": 411602,
+    "brand": "sporicidin",
+    "name": "Sterile PeridoxRTU®",
+    "slug": "sterile-peridoxrtu",
+    "description": "Sterile PeridoxRTU® is an EPA-registered disinfectant and cleaner that was developed to eliminate and prevent the spread of spores as well as more than 40 other pathogens. This broad-spectrum disinfectant works quickly, killing bacterial spores in 3 minutes, bacteria and viruses in 2 minutes, fungus in 1 minute, and tuberculosis in 5 minutes. Peridox Concentrate contains no bleach, alcohol, phenols, or quaternary ammonium compounds and has over 40 EPA registered claims. Peridox Concentrate works quickly and will not corrode stainless steel equipment. All Contec mopping systems and hardware are compatible. Peridox Concentrate works faster and stays wetter on the surface longer due to its shorter contact times and powerful wetting agents.",
+    "company_name": "Contec",
+    "company_slug": "contec",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1682593151/production/Brand/32068/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515684/production/CategoryImage/1058/category_image/HII_10.jpg",
+    "properties": {
+        "Applications": [
+            "Institutional & Industrial Care",
+            "Surface Care",
+            "Industrial Cleaning",
+            "Institutional & Catering",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Commercial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner",
+            "Disinfectant Products"
+        ],
+        "Application Area": [
+            "Floor",
+            "Hard Surfaces",
+            "Equipment"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Aluminum",
+            "Metal",
+            "Stainless Steel"
+        ],
+        "Certifications & Compliance": [
+            "EPA Registered"
+        ],
+        "Features": [
+            "Non Corrosive",
+            "Excellent Wetting Behaviour",
+            "Detergency",
+            "Good Surface Care",
+            "Bacteria Resistant",
+            "Fungus Resistant"
+        ]
+    }
+}

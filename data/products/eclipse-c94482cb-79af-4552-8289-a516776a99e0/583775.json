@@ -1,0 +1,64 @@
+{
+    "id": 583775,
+    "brand": "eclipse-c94482cb-79af-4552-8289-a516776a99e0",
+    "name": "STADEX® 65 Corn Dextrin",
+    "slug": "stadex-65",
+    "description": "STADEX® 65 Dextrin is suitable for use as a direct additive in food products. It is classified as a Food Product by Primient. It may also be used in non-food applications.",
+    "company_name": "Primient",
+    "company_slug": "primient",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1729086403/production/Company/50022/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Nutraceuticals & Supplements",
+            "Bakery",
+            "Food",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Other Resins & Binders",
+            "Binders & Disintegrants",
+            "Starches & Thickeners",
+            "Resins & Binders",
+            "Functional Additives",
+            "Texture & Consistency"
+        ],
+        "Ingredient Name": [
+            "Dextrin"
+        ],
+        "End Uses": [
+            "Remoistenable Adhesives",
+            "Laminating Adhesive",
+            "Tablets",
+            "Rolls",
+            "Bread"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Dextrin"
+        ],
+        "Labeling Claims": [
+            "Irradiation-free",
+            "Ethylene Oxide-free",
+            "Animal Products-free",
+            "Kosher",
+            "Allergen-free",
+            "Halal",
+            "Not Listed In California Proposition 65"
+        ],
+        "Certifications & Compliance": [
+            "REACH (Europe)",
+            "Hazard Analysis Critical Control Point (HACCP)",
+            "The Food Allergen Labeling & Consumer Protection Act of 2004 (FALCPA)",
+            "Generally Recognized As Safe (GRAS)",
+            "Orthodox Union Kosher",
+            "GMP",
+            "FDA Compliant",
+            "cGMP"
+        ],
+        "Physical Form": [
+            "Powder"
+        ]
+    }
+}

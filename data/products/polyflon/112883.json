@@ -1,0 +1,51 @@
+{
+    "id": 112883,
+    "brand": "polyflon",
+    "name": "Polyflon PTFE F-201",
+    "slug": "polyflon-ptfe-f-201",
+    "description": "Polyflon PTFE F-201, in powder or solid form, is a white resin processed through extrusion. Odorless and versatile, it caters to the consumer goods, electrical and electronics, and printing and packaging markets. Applications range from cables and industrial tanks to wires, offering a reliable solution across various end uses.",
+    "company_name": "Daikin Industries, Ltd.",
+    "company_slug": "daikin",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708530725/production/Brand/9814/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708530725/production/Product/112883/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Industrial & Transport Packaging",
+            "Jacketing & Insulation",
+            "Data Communication Cables",
+            "Housings & Enclosures",
+            "Appliances & Electronics",
+            "Parts & Components",
+            "Wire & Cable",
+            "Packaging"
+        ],
+        "Product Families": [
+            "High Performance Thermoplastics",
+            "Engineering & Specialty Polymers"
+        ],
+        "Chemical Family": [
+            "Fluoropolymers"
+        ],
+        "Polymer Name": [
+            "Polytetrafluoroethylene (PTFE)"
+        ],
+        "End Uses": [
+            "Wires",
+            "Cables",
+            "Plenum Cable Insulation",
+            "Tubing",
+            "Shipping Containers",
+            "Industrial Tanks",
+            "Housings",
+            "Coaxial Cable Insulation"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polytetrafluoroethylene (PTFE)"
+        ],
+        "Processing Methods": [
+            "Extrusion"
+        ]
+    }
+}

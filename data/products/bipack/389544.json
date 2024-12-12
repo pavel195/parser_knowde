@@ -1,0 +1,40 @@
+{
+    "id": 389544,
+    "brand": "bipack",
+    "name": "Biplex+®",
+    "slug": "industrial-plastics-belgium-ipb-nv-biplex",
+    "description": "Biplex+® is a Micro-perforated corrugated sheet for under-roof application. It is made of polypropylene copolymer and is completely recyclable (class 5).",
+    "company_name": "Industrial Plastics Belgium (IPB NV)",
+    "company_slug": "industrial-plastics-belgium-ipb-nv",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686150138/production/Brand/29285/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607422/production/CategoryImage/517/category_image/ElectricalElectronics_02.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Building Envelope & Roofing",
+            "Waterproofing & Weatherproofing",
+            "Other Building Materials",
+            "EIFS & Insulation"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Polymer Name": [
+            "Polypropylene Copolymer"
+        ],
+        "End Uses": [
+            "Roofing Membranes",
+            "Acoustic Barrier",
+            "Corrugated Sheet"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polypropylene Copolymer"
+        ],
+        "Features": [
+            "Thermally Insulating",
+            "Breathable"
+        ]
+    }
+}

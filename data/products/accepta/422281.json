@@ -1,0 +1,49 @@
+{
+    "id": 422281,
+    "brand": "accepta",
+    "name": "Accepta® BS100",
+    "slug": "accepta-bs100",
+    "description": "Accepta® BS100 is a solution of a powerful non-ionic surface-active agent and antifoam. The product improves the performance of systems, where fouling by slimes is reducing efficiency, by removing and dispersing the deposits. It is particularly effective in conjunction with chlorine/bromine based biocides and is ideally suited to be dosed in conjunction with hypochlorite for cooling tower disinfections. Accepta® BS100 is effective in both recirculating and once-through cooling systems.",
+    "company_name": "Accepta Ltd",
+    "company_slug": "accepta-ltd",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672249/production/Brand/32881/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708672249/production/Product/422281/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Water Treatment",
+            "Industrial Cleaning",
+            "Surface Care",
+            "Power, Water & Utilities",
+            "Home Care",
+            "Institutional & Industrial Care"
+        ],
+        "Product Families": [
+            "Water Treatment Additives",
+            "Other Functional Additives",
+            "Detergents & Degreasers",
+            "Wetting & Dispersion Aids",
+            "Functional Additives",
+            "Cleaning Aids",
+            "Water Treatment Chemicals"
+        ],
+        "Chemical Family": [
+            "Non-Ionics"
+        ],
+        "End Uses": [
+            "Degreasers",
+            "Descalers"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Anti-Foaming Agent",
+            "Penetration Enhancer",
+            "Dispersant",
+            "Degreaser",
+            "Penetration Agent"
+        ],
+        "Chemical Family": [
+            "Non-Ionics"
+        ]
+    }
+}

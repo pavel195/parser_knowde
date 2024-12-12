@@ -1,0 +1,39 @@
+{
+    "id": 418387,
+    "brand": "type-5ef",
+    "name": "Type HC™",
+    "slug": "type-hc",
+    "description": "Type HC™ card clad is a high density cladding applied as a surface layer of one eighth to one quarter inch thick. The formulation cures to form a tough polymer modified vermiculite and Portland cement of 60 pound per cubic foot density. It’s strength and toughness upgrades the surface properties of standard density, medium density or high density fireproofing.",
+    "company_name": "Southwest Fireproofing Products",
+    "company_slug": "southwest-fireproofing-products",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520278/production/Brand/32773/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608490/production/CategoryImage/563/category_image/BuildingConstruction_07.jpg",
+    "properties": {
+        "Applications": [
+            "Building & Construction",
+            "Architectural Coatings",
+            "Concrete Coatings & Stains",
+            "Building Envelope"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Coating"
+        ],
+        "Features": [
+            "Good Tint Strength",
+            "High Fire Retardancy",
+            "Good Toughness",
+            "Fire Proof",
+            "High Strength",
+            "High Density"
+        ],
+        "Application Method": [
+            "Spray"
+        ]
+    }
+}

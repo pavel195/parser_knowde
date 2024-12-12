@@ -1,0 +1,57 @@
+{
+    "id": 372393,
+    "brand": "arquad",
+    "name": "Eka HP F (Food Grade)",
+    "slug": "eka-hp-f-food-grade",
+    "description": "Eka HP F (Food Grade) hydrogen peroxide solutions are clear, colorless and water-like in appearance. They are available in a number of different concentrations.",
+    "company_name": "Nouryon",
+    "company_slug": "nouryon",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1624302934/production/Company/4/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1624302766/production/Company/4/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Food & Beverage Manufacturing",
+            "Treatment Products",
+            "Oral Care",
+            "Hair Care",
+            "Industrial Cleaning",
+            "Food Facility Cleaning & Sanitization",
+            "Processing & Packaging",
+            "Institutional & Industrial Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Oral Care Agents",
+            "Hair Actives",
+            "Skin Actives",
+            "Microbial Control & Preservatives",
+            "Cosmetic Actives",
+            "Functional Additives"
+        ],
+        "Chemical Family": [
+            "Peroxides"
+        ],
+        "INCI Name": [
+            "Hydrogen Peroxide"
+        ],
+        "End Uses": [
+            "Acne Treatments",
+            "Hair Bleach",
+            "Disinfectant Products"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Hydrogen Peroxide"
+        ],
+        "Chemical Family": [
+            "Peroxides"
+        ],
+        "Benefit Claims": [
+            "Improved Stability",
+            "Oxygenating",
+            "High Purity",
+            "Excellent Oxidation"
+        ]
+    }
+}

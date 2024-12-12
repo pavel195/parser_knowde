@@ -1,0 +1,42 @@
+{
+    "id": 303611,
+    "brand": "brasmide",
+    "name": "BRASMIDE R 40",
+    "slug": "brasmide-r-40",
+    "description": "BRASMIDE R 40 is a reactivc polyamide resin with low viscosity.",
+    "company_name": "SGS",
+    "company_slug": "sgs",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112545/production/Company/17927/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608611/production/CategoryImage/569/category_image/PaintingsCoatings_05.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial Coatings",
+            "Industrial Maintenance",
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Other Resins & Binders",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Polyamides"
+        ],
+        "End Uses": [
+            "Enamel"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Polyamides"
+        ],
+        "End Uses": [
+            "Enamel"
+        ],
+        "Features": [
+            "Excellent Adhesion",
+            "Low Viscosity",
+            "Improved Mechanical Resistance",
+            "Chemical Resistance"
+        ]
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "id": 308244,
+    "brand": "berkemyol",
+    "name": "Berkem Witch hazel water (R0611)",
+    "slug": "berkem-witch-hazel-water-r0611",
+    "description": "Witch hazel water is characterized by its astringent and toning action, which helps tighten pores and revives radiance in the complexion. Its vasoconstricting properties improve microcirculation and reduce redness. This water leaves skin fresh and toned.",
+    "company_name": "Berkem",
+    "company_slug": "berkem",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708688011/production/Product/308244/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708688011/production/Product/308244/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Skin Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Skin Actives",
+            "Hydrosols & Waters",
+            "Cosmetic Actives",
+            "Vitamins, Extracts & Oils"
+        ],
+        "INCI Name": [
+            "Hamamelis Virginiana (Witch Hazel) Leaf Water"
+        ],
+        "End Uses": [
+            "Foot Moisturizer",
+            "Rosacea (Redness) Treatment"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Hamamelis Virginiana (Witch Hazel) Leaf Water"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Non-Animal Origin",
+            "Plant Origin"
+        ],
+        "Functions": [
+            "Astringent",
+            "Toning Agent"
+        ],
+        "Labeling Claims": [
+            "Credo Clean Standard",
+            "Plant-Based",
+            "Sustainable",
+            "Naturally Derived",
+            "Natural",
+            "Organic",
+            "Ulta Beauty's Conscious Beauty"
+        ],
+        "Certifications & Compliance": [
+            "Organic Certified",
+            "IECIC (China)",
+            "COSMOS",
+            "ECOCERT"
+        ],
+        "Benefit Claims": [
+            "Refreshing",
+            "Redness Reduction",
+            "Suitable for Sensitive Skin",
+            "Shine & Radiance",
+            "Suitable for Oily Skin",
+            "Microcirculation Enhancement",
+            "Skin Tightening"
+        ]
+    }
+}

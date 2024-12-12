@@ -1,0 +1,39 @@
+{
+    "id": 411649,
+    "brand": "alumazite",
+    "name": "Tiolube® 75/75®",
+    "slug": "tiolube-75-75",
+    "description": "Tiolube 75/75 is an environmentally safe, low VOC, water base, low friction air cure, solid film lubricant with no metallics and no lead. It is non- flammable.",
+    "company_name": "Tiodize",
+    "company_slug": "tiodize",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680108966/production/Brand/32080/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical & Industrial Manufacturing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Lubricants & Oils",
+            "Fluids & Lubricants"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Lubricant"
+        ],
+        "Application Area": [
+            "Fasteners",
+            "Bearings",
+            "Gears"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal"
+        ],
+        "Features": [
+            "Corrosion Resistant",
+            "Water-based",
+            "Low Friction"
+        ]
+    }
+}

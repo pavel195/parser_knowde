@@ -1,0 +1,77 @@
+{
+    "id": 251922,
+    "brand": "ertalyte-pet",
+    "name": "METABLEN™ S 2001",
+    "slug": "mitsubishi-chemical-group-metablen-s-2001",
+    "description": "METABLEN™ S 2001 is a silicone-acrylic rubber-type impact modifier with high impact strength in all temperatures and excellent weatherability. It can be used with ABS, PC, PLA, and other matrix resins in a variety of automotive, aerospace and electric and electronic applications.\n\nFeatures\n\n\nCan be used with recycled plastics\nGood weather stability\nLow temperature impact resistance\n\n\n*METABLEN™ is provided by Mitsubishi Chemical Corporation, a member of the Mitsubishi Chemical Group.",
+    "company_name": "Mitsubishi Chemical Group Corporation",
+    "company_slug": "mitsubishi-chemical",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1657554838/production/Brand/16955/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1677181483/production/Brand/16955/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Aerospace & Aviation",
+            "Other Packaging & Assembly Applications",
+            "Semiconductor Manufacturing",
+            "Batteries",
+            "Wire & Cable",
+            "Parts & Components",
+            "Packaging & Assembly",
+            "Jacketing & Insulation",
+            "Housings & Enclosures",
+            "Connectors",
+            "Circuit Breakers",
+            "Other Devices & Assemblies",
+            "Consumer Electronics",
+            "Automotive Electronics",
+            "Battery Packaging",
+            "Other Automotive Applications",
+            "Interior",
+            "Electrical & Electronic Systems",
+            "Aftermarket Parts & Components",
+            "Stationery, Art & Office Supplies",
+            "Appliances & Electronics",
+            "Automotive",
+            "Transportation",
+            "Battery Materials",
+            "Devices & Assemblies"
+        ],
+        "Product Families": [
+            "Performance Additives",
+            "Polymer Additives"
+        ],
+        "Chemical Family": [
+            "Silicon-based Compounds",
+            "Acrylics, Acrylates & Methacrylates"
+        ],
+        "End Uses": [
+            "Semiconductor Applications",
+            "Battery Cases",
+            "Appliances"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Impact Modifier"
+        ],
+        "Compatible Polymers & Resins": [
+            "Recycled Plastics",
+            "Polyamides",
+            "Acrylonitrile Butadiene Styrene (ABS)",
+            "Polyvinyl Chloride (PVC)",
+            "Polybutylene Terephthalate (PBT)",
+            "Polylactic Acid (PLA)",
+            "Polycarbonates (PC)",
+            "Poly(Methyl Methacrylate) (PMMA)",
+            "Polyesters"
+        ],
+        "Processing Methods": [
+            "Injection Molding"
+        ],
+        "End Uses": [
+            "Semiconductor Applications",
+            "Battery Cases",
+            "Appliances"
+        ]
+    }
+}

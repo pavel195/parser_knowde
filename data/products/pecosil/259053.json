@@ -1,0 +1,56 @@
+{
+    "id": 259053,
+    "brand": "pecosil",
+    "name": "BIOGEL® Pumpkin Seed Butter",
+    "slug": "biogel-pumpkin-seed-butter",
+    "description": "Pumpkin Seed Oil, known for its skin moisturizing properties is now available as BIOGEL Pumpkin Seed Butter. BIOGEL® Pumpkin Seed Butter results from the controlled hydrogenation of Cucurbita Pepo (Pumpkin Seed Oil). It is 100% active and 100% vegetable derived. BIOGEL® Pumpkin Seed Butter also functions as an emollient skin conditioning product and is useful in hair dressing preparations. BIOGEL® Pumpkin Seed Butter is NOT a blended product.",
+    "company_name": "Phoenix Chemical Inc.",
+    "company_slug": "phoenix-chemical-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708685966/production/Product/259053/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708685966/production/Product/259053/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Skin Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Skin Actives",
+            "Conditioners & Emollients",
+            "Cosmetic Actives",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Hydrogenated Pumpkin Seed Oil"
+        ],
+        "End Uses": [
+            "Body Cream",
+            "Body Lotion",
+            "Hair Styling Products"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Hydrogenated Pumpkin Seed Oil"
+        ],
+        "Functions": [
+            "Emollient",
+            "Moisturizing Agent",
+            "Conditioner"
+        ],
+        "Ingredient Origin": [
+            "Vegetable Origin",
+            "Non-Animal Origin",
+            "Plant Origin"
+        ],
+        "Labeling Claims": [
+            "Sustainable"
+        ],
+        "Benefit Claims": [
+            "Spreadability",
+            "Skin Conditioning",
+            "Non-Greasy Feel",
+            "Hypo-Allergenic",
+            "Moisturizing"
+        ]
+    }
+}

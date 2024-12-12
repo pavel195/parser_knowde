@@ -1,0 +1,53 @@
+{
+    "id": 415769,
+    "brand": "decoplast",
+    "name": "Tique Metallic",
+    "slug": "tique-metallic",
+    "description": "Tique Metallic is a 100% acrylic based exterior and interior coating. Tique Metallic finish may be used over approved substrates, properly prepared vertical concrete, stucco, EIFS, masonry, or previously acrylic coated smooth / textured surfaces.",
+    "company_name": "Greenmaker Industries",
+    "company_slug": "greenmaker-industries",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520310/production/Brand/32455/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608438/production/CategoryImage/559/category_image/BuildingConstruction_03.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Architectural Coatings",
+            "Decorative Paints, Coatings & Stains",
+            "Building Envelope & Roofing",
+            "EIFS & Insulation",
+            "Building Envelope"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Other Paints & Coatings"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Waterborne Coating"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Concrete",
+            "Masonry"
+        ],
+        "Features": [
+            "Good Weather Stability",
+            "Good Adhesion",
+            "Non-Toxic",
+            "Low VOC",
+            "Excellent Flexibility",
+            "Good Color Stability"
+        ],
+        "Application Method": [
+            "Spray",
+            "Roller",
+            "Brush"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    }
+}

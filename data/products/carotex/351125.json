@@ -1,0 +1,46 @@
+{
+    "id": 351125,
+    "brand": "carotex",
+    "name": "Josh Naturals GmbH Papain",
+    "slug": "josh-naturals-gmbh-papain",
+    "description": "Josh Naturals Papain also known as papaya proteinase I, is a cysteine protease (EC 3.4.22.2) enzyme present in the latex of papaya (Carica papaya). Papain belongs to a family of related proteins with a wide variety of activities, including endopeptidases, aminopeptidases, dipeptidyl peptidases and enzymes with both exo- and endo-peptidase activity. Papain exhibits proteolytic activity just like Bromelain.",
+    "company_name": "Josh Naturals GmbH",
+    "company_slug": "josh-naturals-gmbh",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708689160/production/Company/37965/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607009/production/CategoryImage/509/category_image/FoodNutrition_10.jpg",
+    "properties": {
+        "Applications": [
+            "Other Nutrition Applications",
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Phytochemicals",
+            "Plant & Herb Products & Extracts",
+            "Phytochemicals & Plant Extracts",
+            "Nutrition & Fortification",
+            "Whole Foods, Extracts & Premixes",
+            "Nutraceuticals & Supplements"
+        ],
+        "Chemical Family": [
+            "Proteolytic Enzymes"
+        ],
+        "End Uses": [
+            "Dietary Supplements"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Papain"
+        ],
+        "Functions": [
+            "Enzyme ",
+            "Phytochemical",
+            "Anti-Inflammatory",
+            "Dietary Supplement"
+        ],
+        "Active Component": [
+            "Papain"
+        ]
+    }
+}

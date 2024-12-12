@@ -1,0 +1,61 @@
+{
+    "id": 313045,
+    "brand": "flav-r-bites",
+    "name": "Flav-R-Bites®",
+    "slug": "flav-r-bites",
+    "description": "Flav-R-Bites® is a food particulates that add flavor, color and character to food applications like muffins, waffles, cereal, cookies, pretzels, granola bars, frozen foods, dog treats, etc.",
+    "company_name": "CII",
+    "company_slug": "cii",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686134148/production/Product/313045/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608224/production/CategoryImage/551/category_image/AgricultureFeed_07.jpg",
+    "properties": {
+        "Applications": [
+            "Animal Health & Nutrition",
+            "Food",
+            "Bakery",
+            "Cereals & Snacks",
+            "Confectionery",
+            "Convenience Foods",
+            "Pets"
+        ],
+        "Product Families": [
+            "Functional Additives",
+            "Color Additives & Decoratives",
+            "Production Aids and Processing Additives",
+            "Sensory Ingredients"
+        ],
+        "Flavor Family": [
+            "Herb Flavors",
+            "Fruit Flavors",
+            "Sweet Flavors",
+            "Chocolate Flavors",
+            "Beverage Inspired Flavors",
+            "Cheese Flavors",
+            "Meat, Egg & Seafood Flavors",
+            "Spice & Seasoning Inspired Flavors"
+        ],
+        "End Uses": [
+            "Cookies",
+            "Breakfast Cereals",
+            "Frozen Meals",
+            "Granola",
+            "Waffles",
+            "Pretzels",
+            "Muffins"
+        ]
+    },
+    "summary": {
+        "Labeling Claims": [
+            "Non-GMO",
+            "Organic",
+            "Allergen-free",
+            "Dairy-free",
+            "Kosher",
+            "Gluten-free",
+            "Sugar-free"
+        ],
+        "Certifications & Compliance": [
+            "Kosher"
+        ]
+    }
+}

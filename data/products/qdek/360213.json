@@ -1,0 +1,36 @@
+{
+    "id": 360213,
+    "brand": "qdek",
+    "name": "GEKKO® G12",
+    "slug": "gekko-g12",
+    "description": "GEKKO® G12 has zero flam cladding contact adhesive and it has dichloromethane free formulation.",
+    "company_name": "Quin Global UK",
+    "company_slug": "quin-global-uk",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520052/production/Brand/26883/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608502/production/CategoryImage/564/category_image/BuildingConstruction_08.jpg",
+    "properties": {
+        "Applications": [
+            "Building Materials",
+            "Construction Chemicals",
+            "Flooring & Surfaces",
+            "Adhesives",
+            "Construction Adhesives"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Contact Adhesives"
+        ],
+        "Chemical Family": [
+            "Synthetic Rubbers"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Contact Adhesive",
+            "Waterborne Adhesive"
+        ],
+        "Chemical Family": [
+            "Synthetic Rubbers"
+        ]
+    }
+}

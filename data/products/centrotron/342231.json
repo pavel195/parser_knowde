@@ -1,0 +1,63 @@
+{
+    "id": 342231,
+    "brand": "centrotron",
+    "name": "CENTROLEN / PP-H",
+    "slug": "centrolen-pp-h",
+    "description": "CENTROLEN / PP-H is a semi-crystalline thermoplastic, but possesses higher resistance, stiffness and melting temperature with low density. The dynamic stability is equally high. PP-H is applicable within a temperature range of +2 to 130 °C. PP-H is used in apparatus engineering and in the chemical industry. The BfR-/FDA approval assures physiological safety. PP-H is available in the colors natural and gray.",
+    "company_name": "Centroplast",
+    "company_slug": "centroplast",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686150100/production/Brand/25296/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608730/production/CategoryImage/574/category_image/AutomotiveTransportation_02.jpg",
+    "properties": {
+        "Applications": [
+            "Fuel Systems",
+            "Cooling & Climate",
+            "Other Automotive Applications",
+            "Automotive Electronics",
+            "Devices & Assemblies",
+            "Chemical & Industrial Manufacturing",
+            "Automotive",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Polypropylenes (PP)",
+            "Polyolefins"
+        ],
+        "Polymer Name": [
+            "Polypropylene Homopolymer (HPP)"
+        ],
+        "End Uses": [
+            "Engineered Applications",
+            "Pump Parts",
+            "Filters"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polypropylene Homopolymer (HPP)"
+        ],
+        "Physical Form": [
+            "Rods"
+        ],
+        "Features": [
+            "Semi Crystalline",
+            "Food Contact Acceptable",
+            "Stiffness",
+            "Low Density"
+        ],
+        "Density": [
+            "910.0 - 910.0 kg/m³"
+        ],
+        "Tensile Modulus": [
+            "1300.0 - 1300.0 MPa"
+        ],
+        "Color": [
+            "Grey",
+            "Beige",
+            "Natural"
+        ]
+    }
+}

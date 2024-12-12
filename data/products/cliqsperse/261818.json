@@ -1,0 +1,53 @@
+{
+    "id": 261818,
+    "brand": "cliqsperse",
+    "name": "CLiQSMART® 1031",
+    "slug": "cliqsmart-1031",
+    "description": "CLiQSMART 1031 is a100% polyglycol based defoamer for aqueous systems. The silicone and mineral oil free defoamer shows very high efficiency and is typically applied in low-to-mid gloss pigmented aqueous coatings, adhesives and ink systems.",
+    "company_name": "CLiQ SwissTech",
+    "company_slug": "cliq-swisstech",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708687983/production/Company/20571/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608557/production/CategoryImage/565/category_image/PaintingsCoatings_01.jpg",
+    "properties": {
+        "Applications": [
+            "Other Paints & Coatings Applications",
+            "Other Adhesives & Sealants Applications",
+            "Other Printing Applications",
+            "Printing & Inks"
+        ],
+        "Product Families": [
+            "Foam Control",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Diols",
+            "Glycols"
+        ],
+        "End Uses": [
+            "Waterborne Adhesive",
+            "Waterborne Ink",
+            "Waterborne Coating"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Defoamer"
+        ],
+        "Chemical Family": [
+            "Diols",
+            "Glycols"
+        ],
+        "End Uses": [
+            "Waterborne Coating",
+            "Waterborne Adhesive",
+            "Waterborne Ink"
+        ],
+        "Labeling Claims": [
+            "Silicone-free",
+            "Mineral oil-free"
+        ],
+        "Solid Content": [
+            "100.0 - 100.0 %"
+        ]
+    }
+}

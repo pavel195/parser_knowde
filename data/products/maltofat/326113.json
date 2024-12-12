@@ -1,0 +1,31 @@
+{
+    "id": 326113,
+    "brand": "maltofat",
+    "name": "WheyPro 20",
+    "slug": "wheypro-20",
+    "description": "WheyPro 20 is a Sweet whey powder produced from a mixture of pasteurized ewe and goat whey.",
+    "company_name": "Hellenic Protein S.A.",
+    "company_slug": "hellenic-protein-s-a",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1693581327/production/Brand/23350/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607009/production/CategoryImage/509/category_image/FoodNutrition_10.jpg",
+    "properties": {
+        "Applications": [
+            "Savory & Culinary",
+            "Desserts & Fruit Preparations",
+            "Dairy",
+            "Confectionery",
+            "Bakery",
+            "Food"
+        ],
+        "Product Families": [
+            "Dairy Products",
+            "Whole Foods, Extracts & Premixes"
+        ],
+        "End Uses": [
+            "Packaged Salads",
+            "Desserts",
+            "Confectionery Products"
+        ]
+    },
+    "summary": {}
+}

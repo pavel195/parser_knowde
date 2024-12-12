@@ -1,0 +1,37 @@
+{
+    "id": 297229,
+    "brand": "apond",
+    "name": "ACROTEK® APLA-44",
+    "slug": "acrotek-apla-44",
+    "description": "ACROTEK® APLA-44 has Good Wetting, Workability, Clear And Transparent and Good Permanent Adhesion.",
+    "company_name": "Advanced Polymer Emulsions",
+    "company_slug": "advanced-polymer-emulsions-company",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112177/production/Company/23612/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608929/production/CategoryImage/584/category_image/AdhesivesSealants_01.jpg",
+    "properties": {
+        "Applications": [
+            "Packaging & Paper",
+            "Other Adhesives & Sealants Applications",
+            "Other Printing & Packaging Applications",
+            "Other Packaging & Paper Applications"
+        ],
+        "Product Families": [
+            "Resins & Binders",
+            "Acrylics"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ],
+        "Glass Transition Temperature (Tg)": [
+            "-25.0 - -25.0 °C"
+        ],
+        "Features": [
+            "Excellent Adhesion"
+        ]
+    }
+}

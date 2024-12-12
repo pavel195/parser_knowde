@@ -1,0 +1,62 @@
+{
+    "id": 83882,
+    "brand": "sepilife",
+    "name": "SEPICALM™ S WP",
+    "slug": "sepicalm-s-wp",
+    "description": "SEPICALM™ S WP is an Aminovector™ that combines Amino Acids (Glycine, Glutamic Acid, Aspartic Acid, Alanine) with minerals to soothe irritations and relieve stinging caused by mechanical stresses. It calms redness caused by UVA and UVB and provides comfort for skin reactions. It is also ideal for sensitive skin. The anti-stress profile works on inflammation mediators and stimulates beta endorphin synthesis.",
+    "company_name": "SEPPIC INC",
+    "company_slug": "seppic-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708673462/production/Company/1405/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708673462/production/Product/83882/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Hair Care",
+            "Skin Care",
+            "Sun Care",
+            "Bath & Shower",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Skin Actives",
+            "Sensory Modifiers",
+            "Cosmetic Actives",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Magnesium Aspartate",
+            "Potassium Aspartate",
+            "Sarcosine",
+            "Sodium Cocoyl Amino Acids"
+        ],
+        "End Uses": [
+            "After Shaves",
+            "Tanning Products",
+            "After Sun Products",
+            "Shampoos & Rinses"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Potassium Aspartate",
+            "Sarcosine",
+            "Sodium Cocoyl Amino Acids",
+            "Magnesium Aspartate"
+        ],
+        "Functions": [
+            "Anti-Inflammatory",
+            "Soothing Agent",
+            "Protective Agent",
+            "Anti-Irritant"
+        ],
+        "Ingredient Origin": [
+            "Plant Origin"
+        ],
+        "Labeling Claims": [
+            "Preservative-free"
+        ],
+        "Benefit Claims": [
+            "Anti-Inflammatory",
+            "Soothing"
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": 412635,
+    "brand": "fluroseal",
+    "name": "AI Technology ESP 7660-HK-DAF",
+    "slug": "ai-technology-esp-7660-hk-daf",
+    "description": "ESP7660-HK-DAF is a high-bond strength epoxy film adhesive laminated onto a UV release or controlled release dicing tape in designed wafer format. This new generation film incorporates wafer dicing tape and adhesive film into one DDAF (Dicing Die Attach Film). This DAF is mounted onto the back of the wafer, which is then diced into predetermined sizes. After a brief exposure to UV light (for UV releasing dicing tape), the diced chip is picked and placed directly onto a lead frame or substrate. It is designed for bonding component and substrate to substrate and carrier with matched thermal coefficients of expansion. ESP7660-HK-DAF has good thermal stability. The dry, tack-free handling of the film makes it suitable for an automated assembly.",
+    "company_name": "AI Technology",
+    "company_slug": "ai-technology",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697221725/production/Company/47026/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1637777015/production/CategoryImage/1496/category_image/PaperPulpWaterChemicals_ProductBanner_08.jpg",
+    "properties": {
+        "Applications": [
+            "Electronics Coatings",
+            "Tapes & Labels",
+            "Printed Circuit Boards (PCBs)",
+            "Packaging & Assembly",
+            "Parts & Components",
+            "Tapes, Labels & Adhesives"
+        ],
+        "Product Families": [
+            "Other Adhesives & Sealants",
+            "Adhesives & Sealants"
+        ]
+    },
+    "summary": {}
+}

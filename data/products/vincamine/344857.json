@@ -1,0 +1,26 @@
+{
+    "id": 344857,
+    "brand": "vincamine",
+    "name": "Vincamine",
+    "slug": "vincamine",
+    "description": "Vincamine is a natural occurring product found in the plant Vinca minor L., obtained by semi-synthesis. Used as a cerebral vasodilator for enhancing mental alertness, it increases blood flow to the brain and improves its oxygenation. The original use of this plant goes back to European traditional home remedy with a series of various applications. This herb is well known and widely used in popular medicine as an important component of herbal teas against nervousness in the elderly suffering from insomnia, anxiety and aggressiveness.",
+    "company_name": "Covex Pharma",
+    "company_slug": "covex-pharma",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704101802/production/Brand/25668/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608850/production/CategoryImage/582/category_image/HealthcarePharma_04.jpg",
+    "properties": {
+        "Applications": [
+            "API Manufacturing",
+            "Pharmaceutical Manufacturing"
+        ],
+        "Product Families": [
+            "Active Pharmaceutical Ingredients (APIs)",
+            "Pharmaceutical Actives & Precursors"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Vincamine"
+        ]
+    }
+}

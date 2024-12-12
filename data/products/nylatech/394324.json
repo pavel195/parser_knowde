@@ -1,0 +1,57 @@
+{
+    "id": 394324,
+    "brand": "nylatech",
+    "name": "Nylatech® Blue",
+    "slug": "nylatech-blue",
+    "description": "Nylatech® Blue is formulated for higher continuous operating temperatures, NYLATECH® BLUE is ideal for hotter environments. This heat-stabilized grade is commonly used as bushings, rollers, wear pads, and wear strips in ovens, kilns and industrial dryers.",
+    "company_name": "Nylatech",
+    "company_slug": "nylatech",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686149874/production/Brand/29797/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical & Industrial Manufacturing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Polyamides"
+        ],
+        "Polymer Name": [
+            "Polyamide (unspecified)"
+        ],
+        "End Uses": [
+            "Industrial Parts",
+            "Wear Strip",
+            "Bushings"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyamide (unspecified)"
+        ],
+        "Physical Form": [
+            "Plates",
+            "Rods",
+            "Sheets",
+            "Tube",
+            "Bars"
+        ],
+        "Features": [
+            "High Temperature Application",
+            "Heat Stabilized",
+            "Enhanced Physical Properties"
+        ],
+        "Density": [
+            "1150.0 - 1150.0 kg/m³"
+        ],
+        "Tensile Modulus": [
+            "3169.4 - 3169.4 MPa"
+        ],
+        "Color": [
+            "Blue"
+        ]
+    }
+}

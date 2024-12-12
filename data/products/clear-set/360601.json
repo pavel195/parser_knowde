@@ -1,0 +1,27 @@
+{
+    "id": 360601,
+    "brand": "clear-set",
+    "name": "One Step™",
+    "slug": "one-step",
+    "description": "One Step™ is a high-performance, polymer-modified thinset mortar used in the installation of ceramic, porcelain, quarry, marble, pavers, and other natural stone tile. The first one-component thin-set mortar created for bonding tile to properly prepared wood subflooring.",
+    "company_name": "Super-Tek Products",
+    "company_slug": "super-tek-products",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1694073653/production/Brand/27087/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608477/production/CategoryImage/562/category_image/BuildingConstruction_06.jpg",
+    "properties": {
+        "Applications": [
+            "Other Building & Construction Applications",
+            "Other Flooring & Surface Applications",
+            "Interior Fixtures",
+            "Pavement, Highways, Roads & Bridges",
+            "Building Materials",
+            "Flooring & Surfaces",
+            "Infrastructure, Roads & Paving"
+        ],
+        "Product Families": [
+            "Mortar & Grouts",
+            "Construction Materials"
+        ]
+    },
+    "summary": {}
+}

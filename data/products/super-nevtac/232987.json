@@ -1,0 +1,63 @@
+{
+    "id": 232987,
+    "brand": "super-nevtac",
+    "name": "NEVCHEM® 200",
+    "slug": "nevchem-200",
+    "description": "NEVCHEM®200 is a thermoplastic low molecular weight, C9 hydrocarbon resin produced by catalytic polymerization of mixed aromatic monomers derived from petroleum feedstocks.",
+    "company_name": "Neville",
+    "company_slug": "neville",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691739498/production/Company/16401/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608422/production/CategoryImage/558/category_image/BuildingConstruction_02.jpg",
+    "properties": {
+        "Applications": [
+            "Construction Adhesives",
+            "Aerospace & Aviation",
+            "Commercial",
+            "Rail & Mass Transit",
+            "Decorative Paints, Coatings & Stains",
+            "Architectural Coatings",
+            "Furniture",
+            "Adhesives",
+            "Metal Coatings",
+            "Industrial Coatings",
+            "Furniture Coatings",
+            "Coil Coatings",
+            "Wood Coatings & Finishes",
+            "Infrastructure, Roads & Paving",
+            "Decorative Paints",
+            "Vehicle Refinish",
+            "Rail & Mass Transit Coatings",
+            "Other Automotive & Transportation Applications",
+            "Off Road & Commercial Vehicle Coatings",
+            "Marine",
+            "Automotive OEM Coatings",
+            "Aerospace Coatings",
+            "Other Infrastructure Applications",
+            "Coatings & Markings",
+            "Other Coatings & Finishes",
+            "Marine Coatings",
+            "Other Adhesives & Sealants Applications",
+            "Building & Construction",
+            "Coatings & Finishes",
+            "Building Materials",
+            "Construction Chemicals",
+            "Automotive & Transportation",
+            "Building Envelope & Roofing",
+            "Decorative Materials & Finishes",
+            "Transportation",
+            "Building Envelope"
+        ],
+        "Product Families": [
+            "Other Resins & Binders",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Hydrocarbons"
+        ],
+        "End Uses": [
+            "Solventborne Coating",
+            "Hot Melt Adhesive"
+        ]
+    },
+    "summary": {}
+}

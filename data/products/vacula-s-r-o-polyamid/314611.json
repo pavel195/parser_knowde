@@ -1,0 +1,46 @@
+{
+    "id": 314611,
+    "brand": "vacula-s-r-o-polyamid",
+    "name": "Polyamid 66",
+    "slug": "polyamid-66",
+    "description": "Polyamid 66 abbreviated as PA 66.",
+    "company_name": "VACULA s.r.o.",
+    "company_slug": "vacula-s-r-o",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691742147/production/Product/314611/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607988/production/CategoryImage/537/category_image/HomePersonalCare_03.jpg",
+    "properties": {
+        "Applications": [
+            "Interior",
+            "Exterior & Body",
+            "Non-Food Consumer Packaging",
+            "Equipment & Parts",
+            "Sports & Recreation",
+            "Belts & Conveyers",
+            "Terminal Blocks, Plugs & Sockets",
+            "Other Automotive Applications",
+            "Parts & Components",
+            "Packaging",
+            "Chemical & Industrial Manufacturing",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Polyamides",
+            "Engineering & Specialty Polymers"
+        ],
+        "Chemical Family": [
+            "Polyamides"
+        ],
+        "Polymer Name": [
+            "Polyamide 66 (PA 66)"
+        ],
+        "End Uses": [
+            "Automotive Interior Parts",
+            "Automotive Exterior Parts",
+            "Cosmetic Packaging",
+            "Plugs",
+            "Conveyors",
+            "Automotive Components"
+        ]
+    },
+    "summary": {}
+}

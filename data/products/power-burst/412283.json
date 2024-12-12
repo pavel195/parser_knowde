@@ -1,0 +1,39 @@
+{
+    "id": 412283,
+    "brand": "power-burst",
+    "name": "Theochem Laboratories Power Cleanse",
+    "slug": "theochem-laboratories-power-cleanse",
+    "description": "Power Cleanse is a concentrated, neutral emulsion detergent for laundries. It is strong enough for commercial laundries, yet safe for domestic use. It is recommended to use in high efficiency and standard machines.",
+    "company_name": "Theochem Laboratories",
+    "company_slug": "theochem-laboratories",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292426/production/Company/41714/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515647/production/CategoryImage/1055/category_image/HII_07.jpg",
+    "properties": {
+        "Applications": [
+            "Home Care",
+            "Institutional & Industrial Care",
+            "Laundry & Fabric Care",
+            "Commercial Laundry"
+        ],
+        "Product Families": [
+            "Cleaners",
+            "Commercial Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Detergents",
+            "Cleaner"
+        ],
+        "Application Areas": [
+            "Commercial Laundry Applications"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Fibers & Fabrics"
+        ],
+        "Features": [
+            "High Performance",
+            "Effective Soil Removal"
+        ]
+    }
+}

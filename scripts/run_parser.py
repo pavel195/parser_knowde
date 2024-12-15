@@ -16,6 +16,14 @@ def main():
         storage = BrandStorage()
         parser = BrandParser(storage)
 
+        # Авторизация
+        email = os.getenv('KNOWDE_EMAIL')
+        password = os.getenv('KNOWDE_PASSWORD')
+        
+        if not parser.login(email, password):
+            print("Ошибка авторизации")
+            return
+            
         # Сбор ссылок на бренды
         brand_links = parser.collect_brand_links()
         print(f"\nСобрано {len(brand_links)} уникальных ссылок на бренды")

@@ -25,7 +25,8 @@ class BrandParser:
     def setup_chrome_options(self):
         """Настройка опций Chrome для антидетекта"""
         self.chrome_options = Options()
-        self.chrome_options.add_argument("--headless")
+        # Временно отключаем headless режим для отладки
+        # self.chrome_options.add_argument("--headless")
         self.chrome_options.add_argument("--no-sandbox")
         self.chrome_options.add_argument("--disable-gpu")
         

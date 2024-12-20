@@ -17,9 +17,9 @@ from typing import Set, Optional, Dict
 from src.storage.brand_storage import BrandStorage
 
 class BrandParser:
-    def __init__(self, storage: BrandStorage):
+    def __init__(self, storage: BrandStorage, session: Dict):
         self.storage = storage
-        self.user_agent = UserAgent()
+        self.session = session
         self.setup_chrome_options()
 
     def setup_chrome_options(self):
@@ -32,7 +32,7 @@ class BrandParser:
         
         # Антидетект настройки
         self.chrome_options.add_argument("--disable-blink-features=AutomationControlled")
-        self.chrome_options.add_argument(f'--user-agent={self.user_agent.random}')
+        self.chrome_options.add_argument(f'--user-agent={self.session["user_agent"]}')
         self.chrome_options.add_argument('--disable-infobars')
         self.chrome_options.add_argument('--disable-dev-shm-usage')
         self.chrome_options.add_argument('--disable-browser-side-navigation')
@@ -75,6 +75,12 @@ class BrandParser:
                    renderer="Intel Iris OpenGL Engine",
                    fix_hairline=True,
                    )
+            
+            # Применяем cookies из сессии
+            browser.get("https://www.knowde.com")
+            for cookie in self.session['cookies']:
+                browser.add_cookie(cookie)
+            browser.refresh()  # Обновляем страницу после установки cookies
             
             category_links = self._extract_category_links(browser)
             for url in category_links:
@@ -148,7 +154,7 @@ class BrandParser:
 
                 session = requests.Session()
                 session.headers.update({
-                    'User-Agent': self.user_agent.random,
+                    'User-Agent': self.session["user_agent"],
                     'Accept': 'application/json, text/plain, */*',
                     'Accept-Language': 'en-US,en;q=0.9',
                     'Accept-Encoding': 'gzip, deflate, br',

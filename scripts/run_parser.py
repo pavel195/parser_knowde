@@ -9,20 +9,26 @@ sys.path.append(str(project_root))
 
 from src.parser.brand_parser import BrandParser
 from src.storage.brand_storage import BrandStorage
+from src.auth.knowde_auth import KnowdeAuth
 
 def main():
     """Основная функция для запуска парсера"""
     try:
         storage = BrandStorage()
-        parser = BrandParser(storage)
-
-        # Авторизация
+        
+        # Инициализация авторизации
+        auth = KnowdeAuth()
         email = os.getenv('KNOWDE_EMAIL')
         password = os.getenv('KNOWDE_PASSWORD')
         
-        if not parser.login(email, password):
-            print("Ошибка авторизации")
+        # Получение сессии
+        session = auth.get_auth_session(email, password)
+        if not session:
+            print("Ошибка получения сессии")
             return
+            
+        # Инициализация парсера с сессией
+        parser = BrandParser(storage, session)
             
         # Сбор ссылок на бренды
         brand_links = parser.collect_brand_links()

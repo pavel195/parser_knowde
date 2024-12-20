@@ -42,22 +42,36 @@ class BrandParser:
                 return set()
 
             category_links = self._extract_category_links()
+            #url - это ссылка на категорию .../brands
             for url in category_links:
                 try:
                     self._random_delay()  # Задержка между запросами
-                    self.driver.get(url)
+                    self.driver.get(url) # переходим на страницу с .../brands
                     
-                    # Используем XPath для поиска брендов
-                    WebDriverWait(self.driver, 10).until(
-                        EC.presence_of_all_elements_located((By.XPATH, "//a[contains(text(), 'View Brand')]"))
-                    )
+                    pagination_links = self.driver.find_elements(By.CSS_SELECTOR,  'a[class^="pagination-action_button"]')
+                    # Извлекаем числа из href ссылок и находим максимальное
+                    numbers = [int(link.text) for link in pagination_links if link.text.isdigit()]
                     
-                    elements = self.driver.find_elements(By.XPATH, "//a[contains(text(), 'View Brand')]")
-                    for element in elements:
-                        link = element.get_attribute('href')
-                        if link not in brand_links:
-                            brand_links.add(link)
-                            print(f"Найдена новая ссылка на бренд: {link}")
+                    max_number = max(numbers) if numbers else 10
+                    for i in range(1, max_number + 1):
+                        link = (f"{url}/{i}")
+                        try:
+                            self.driver.get(link)
+                            # Используем XPath для поиска брендов
+                            WebDriverWait(self.driver, 10).until(
+                                EC.presence_of_all_elements_located((By.XPATH, "//a[contains(text(), 'View Brand')]"))
+                            )
+                        
+                            elements = self.driver.find_elements(By.XPATH, "//a[contains(text(), 'View Brand')]")
+                            for element in elements:
+                                link_brand = element.get_attribute('href')
+                                if link_brand not in brand_links:
+                                    brand_links.add(link_brand)
+                                    print(f"Найдена новая ссылка на бренд: {link_brand}")
+                        except Exception as e:
+                            print(f"Ошибка при обработке {url}: {e}")
+                            self._random_delay(5.0, 10.0)  # Увеличенная задержка при ошибке
+                            continue
                             
                 except Exception as e:
                     print(f"Ошибка при обработке {url}: {e}")
@@ -75,14 +89,17 @@ class BrandParser:
         WebDriverWait(self.driver, 10).until(
             EC.presence_of_all_elements_located((By.XPATH, "//*[starts-with(@class, 'homepage-categories_tilesList')]//a"))
         )
-        
+        # element - это ссылка на категорию
         elements = self.driver.find_elements(By.XPATH, "//*[starts-with(@class, 'homepage-categories_tilesList')]//a")
         links = []
+
         for element in elements:
+            """Получение ссылок на по типу /markets-adhesives-sealants/brands/{1,2,3...}"""
             link = element.get_attribute('href')
             links.append(f"{link}/brands")
-            for i in range(2, 11):  # Пагинация
-                links.append(f"{link}/brands/{i}")
+            
+            # for i in range(2, 10+ 1):
+            #     links.append(f"{link}/brands/{i}")
                 
         print(f"Собрано {len(links)} ссылок на категории с пагинацией")
         return links

@@ -1,10 +1,5 @@
 """Модуль для авторизации на сайте Knowde."""
 import os
-import json
-import pickle
-from datetime import datetime, timedelta
-from pathlib import Path
-from typing import Optional, Dict
 import time
 from faker import Faker
 from selenium import webdriver
@@ -13,14 +8,12 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium_stealth import stealth
+from typing import Optional, Dict
 
 class KnowdeAuth:
-    def __init__(self, session_dir: str = "data/sessions"):
+    def __init__(self):
         self.faker = Faker()
         self.driver = None
-        self.session_dir = Path(session_dir)
-        self.session_dir.mkdir(parents=True, exist_ok=True)
-        self.session_file = self.session_dir / "knowde_session.pkl"
         self.setup_chrome_options()
         
     def setup_chrome_options(self):
@@ -35,75 +28,30 @@ class KnowdeAuth:
         self.chrome_options.add_experimental_option("excludeSwitches", ["enable-automation"])
         self.chrome_options.add_experimental_option('useAutomationExtension', False)
 
-    def load_session(self) -> Optional[Dict]:
-        """Загрузка сохраненной сессии"""
-        try:
-            if not self.session_file.exists():
-                return None
-                
-            with open(self.session_file, 'rb') as f:
-                session_data = pickle.load(f)
-                
-            # Проверяем срок действия сессии (24 часа)
-            if datetime.now() - session_data['timestamp'] > timedelta(hours=24):
-                return None
-                
-            return session_data
-        except Exception as e:
-            print(f"Ошибка при загрузке сессии: {e}")
-            return None
+        # Дополнительные настройки для обхода блокировок
+        self.chrome_options.add_argument('--disable-infobars')
+        self.chrome_options.add_argument('--disable-dev-shm-usage')
+        self.chrome_options.add_argument('--disable-browser-side-navigation')
+        self.chrome_options.add_argument('--disable-features=IsolateOrigins,site-per-process')
+        
+        # Настройка языка и разрешения
+        self.chrome_options.add_argument('--lang=en-US,en;q=0.9')
+        self.chrome_options.add_argument('--window-size=1920,1080')
 
-    def save_session(self, session_data: Dict) -> None:
-        """Сохранение сессии"""
-        try:
-            session_data['timestamp'] = datetime.now()
-            with open(self.session_file, 'wb') as f:
-                pickle.dump(session_data, f)
-        except Exception as e:
-            print(f"Ошибка при сохранении сессии: {e}")
-
-    def get_auth_session(self, email: str, password: str, force_new: bool = False) -> Optional[Dict]:
+    def get_auth_session(self, email: str, password: str) -> Optional[Dict]:
         """
-        Получение авторизованной сессии.
+        Выполнение авторизации и получение сессии.
         Args:
             email: Email для входа
             password: Пароль
-            force_new: Принудительное создание новой сессии
         Returns:
             Dict: Данные сессии и драйвер или None при ошибке
         """
-        if not force_new:
-            session = self.load_session()
-            if session:
-                print("Используется сохраненная сессия")
-                # Создаем новый драйвер с сохраненными куками
-                if self._init_driver():
-                    self.driver.get("https://www.knowde.com")
-                    for cookie in session['cookies']:
-                        self.driver.add_cookie(cookie)
-                    self.driver.refresh()
-                    return {'driver': self.driver, **session}
-                return None
-
-        try:
-            auth_data = self._perform_login(email, password)
-            if auth_data:
-                self.save_session(auth_data)
-                return {'driver': self.driver, **auth_data}
-            return None
-            
-        except Exception as e:
-            print(f"Ошибка при получении сессии: {e}")
-            if self.driver:
-                self.driver.quit()
-            return None
-
-    def _perform_login(self, email: str, password: str) -> Optional[Dict]:
-        """Выполнение процесса авторизации"""
         try:
             if not self._init_driver():
                 return None
 
+            print("Начинаем процесс авторизации...")
             self.driver.get("https://www.knowde.com")
             self._random_delay(1.5, 3.0)
             
@@ -144,16 +92,17 @@ class KnowdeAuth:
                 EC.presence_of_element_located((By.CSS_SELECTOR, "button[data-testid='account-pill']"))
             )
             
+            print("Авторизация успешно выполнена")
+            
             # Получаем cookies и user-agent
             cookies = self.driver.get_cookies()
             user_agent = self.driver.execute_script("return navigator.userAgent")
             
-            auth_data = {
+            return {
+                'driver': self.driver,
                 'cookies': cookies,
                 'user_agent': user_agent
             }
-            
-            return auth_data
             
         except Exception as e:
             print(f"Ошибка при авторизации: {e}")

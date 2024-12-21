@@ -1,0 +1,105 @@
+{
+                                        "id": 321810,
+                                        "uuid": "eb4f51e5-e9da-48be-9cf9-da703a0da869",
+                                        "description": "Akulon® CO-KGV4/A JN.00.86 is a polyamide 6 (PA 6) composite material that is 20% glass-reinforced, heat stabilized, and flame retardant without the use of halogen or phosphorous. It is characterized by its lightweight nature and UL flame rating. This material is applied in the automotive and transportation industries for both exterior and interior components, as well as in the electrical and electronics sectors for parts and components, including circuit breakers.",
+                                        "slug": "akulon-co-kgv4-a-jn-00-86",
+                                        "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708531641/production/Company/30097/card_banner/image",
+                                        "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708531641/production/Company/30097/logo/image",
+                                        "display_name": null,
+                                        "name": "Akulon® CO-KGV4/A JN.00.86",
+                                        "summary": [
+                                            {
+                                                "key": "Polymer Name",
+                                                "name": "Polymer Name",
+                                                "items": [
+                                                    "Polyamide 6 (PA 6)"
+                                                ]
+                                            },
+                                            {
+                                                "key": "Chemical Family",
+                                                "name": "Chemical Family",
+                                                "items": [
+                                                    "Polyamides"
+                                                ]
+                                            },
+                                            {
+                                                "key": "Reinforcement Material",
+                                                "name": "Reinforcement Material",
+                                                "items": [
+                                                    "Glass Fibers"
+                                                ]
+                                            },
+                                            {
+                                                "key": "Additives Included",
+                                                "name": "Additives Included",
+                                                "items": [
+                                                    "Heat Stabilizer"
+                                                ]
+                                            },
+                                            {
+                                                "key": "Fillers Included",
+                                                "name": "Fillers Included",
+                                                "items": [
+                                                    "Glass Fiber"
+                                                ]
+                                            },
+                                            {
+                                                "key": "Processing Methods",
+                                                "name": "Processing Methods",
+                                                "items": [
+                                                    "Injection Molding"
+                                                ]
+                                            }
+                                        ],
+                                        "properties": [
+                                            {
+                                                "key": "Applications",
+                                                "name": "Applications",
+                                                "items": [
+                                                    "Interior",
+                                                    "Exterior & Body",
+                                                    "Circuit Breakers",
+                                                    "Automotive",
+                                                    "Parts & Components"
+                                                ]
+                                            },
+                                            {
+                                                "key": "Product Families",
+                                                "name": "Product Families",
+                                                "items": [
+                                                    "Thermoplastic Resins",
+                                                    "Polyamides",
+                                                    "Polymers & Resins",
+                                                    "Engineering & Specialty Polymers"
+                                                ]
+                                            },
+                                            {
+                                                "key": "Chemical Family",
+                                                "name": "Chemical Family",
+                                                "items": [
+                                                    "Polyamides"
+                                                ]
+                                            },
+                                            {
+                                                "key": "Polymer Name",
+                                                "name": "Polymer Name",
+                                                "items": [
+                                                    "Polyamide 6 (PA 6)"
+                                                ]
+                                            },
+                                            {
+                                                "key": "End Uses",
+                                                "name": "End Uses",
+                                                "items": [
+                                                    "Wheel Housing Parts",
+                                                    "Flooring",
+                                                    "Door Panel",
+                                                    "Molded Case Circuit Breakers"
+                                                ]
+                                            }
+                                        ],
+                                        "company_responsiveness_status": "",
+                                        "company_name": "Envalior",
+                                        "company_slug": "envalior",
+                                        "company_id": 30097
+                                    }

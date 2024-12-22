@@ -1,0 +1,37 @@
+{
+    "id": 361120,
+    "brand": "sonlok",
+    "name": "PARLITE® 4130",
+    "slug": "parlite-4130",
+    "description": "PARLITE® 4130 is suitable for wide variety of industrial applications. It has strong adhesion to wide variety of metals.",
+    "company_name": "Parson Adhesives",
+    "company_slug": "parson-adhesives",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1685601148/production/Brand/27002/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608953/production/CategoryImage/586/category_image/AdhesivesSealants_03.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial & Assembly Adhesives",
+            "Other Industrial & Assembly Applications",
+            "Other Adhesives & Sealants Applications",
+            "Industrial Adhesives & Sealants",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Contact Adhesives"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Radiation Curable Adhesive",
+            "1K (1 component) Adhesive"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Glass",
+            "Metal"
+        ],
+        "Cure Method": [
+            "Radiation Cure"
+        ]
+    }
+}

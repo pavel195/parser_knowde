@@ -1,0 +1,42 @@
+{
+    "id": 359156,
+    "brand": "scigrip",
+    "name": "SCIGRIP® SG230HV",
+    "slug": "scigrip-sg230hv",
+    "description": "SCIGRIP® SG230HV is a two-component, 10:1 mix ratio product for bonding composite and other plastic parts with little to no surface preparation1,2. The adhesive is designed to work with a selection of activators to provide a wide range of working times from 30 to 120 minutes. SG230 HV is mostly used in marine, transportation and construction applications. It is especially suited for bonding large structural parts requiring long working times and for filling deep irregular gaps up to 1.5 inches (39 mm). SG230 HV is available in 490 ml cartridges and 5 and 50 gallon (19 and 189 liters) in bulk containers for application with meter-mix dispense equipment. The combination of SG230 HV A with SG220 B activator is recommended only for use above 85°F (29°C) ambient temperature.",
+    "company_name": "SCIGRIP Adhesives",
+    "company_slug": "scigrip-adhesives",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520031/production/Brand/26826/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608730/production/CategoryImage/574/category_image/AutomotiveTransportation_02.jpg",
+    "properties": {
+        "Applications": [
+            "Marine",
+            "Other Transportation Applications",
+            "Other Building & Construction Applications",
+            "Transportation"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Structural Adhesives"
+        ],
+        "Chemical Family": [
+            "Methacrylates"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Structural Adhesive",
+            "2K (2 component) Adhesive"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Aluminum",
+            "Metal",
+            "Coated Surfaces",
+            "Steel",
+            "Composites"
+        ],
+        "Chemical Family": [
+            "Methacrylates"
+        ]
+    }
+}

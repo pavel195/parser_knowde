@@ -1,0 +1,45 @@
+{
+    "id": 391022,
+    "brand": "riasorb",
+    "name": "RIASORB® UV-292",
+    "slug": "riasorb-uv-292",
+    "description": "RIASORB® UV-292 is a light stabilizer belonging to the HALS class.",
+    "company_name": "Rianlon Corporation",
+    "company_slug": "rianlon-chemical",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708686352/production/Company/27542/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607403/production/CategoryImage/516/category_image/ElectricalElectronics_01.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial Coatings",
+            "Wood Coatings & Finishes",
+            "Automotive OEM Coatings",
+            "Coatings & Finishes",
+            "Automotive & Transportation",
+            "Building & Construction"
+        ],
+        "Product Families": [
+            "Functional Additives",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Hindered Amine Light Stabilizer (HALS)"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Light Stabilizer",
+            "UV Absorber"
+        ],
+        "Chemical Family": [
+            "Hindered Amine Light Stabilizer (HALS)"
+        ],
+        "Features": [
+            "Low Volatility",
+            "Crack Resistance",
+            "Good Gloss Retention",
+            "Good Heat Stability",
+            "Weather Resistance",
+            "Low Blistering"
+        ]
+    }
+}

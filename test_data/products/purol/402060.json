@@ -1,0 +1,43 @@
+{
+    "id": 402060,
+    "brand": "purol",
+    "name": "Purol® R-06",
+    "slug": "purol-r-06",
+    "description": "Purol® R-06 has Phthalic Andydride base used as adhesives, PUR hot melts, PU coatings, PU rigid foam, Elastomers.",
+    "company_name": "Baalbaki Chemical Industries",
+    "company_slug": "baalbaki-chemical-industries",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686149128/production/Brand/30661/logo/image",
+    "banner_url": "https://static.knowde.com/card-banners/knowde-card-for-raw-materials-8.jpg",
+    "properties": {
+        "Applications": [
+            "Other Adhesives & Sealants Applications",
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Monomers & Intermediates",
+            "Prepolymers & Polyols",
+            "Monomers"
+        ],
+        "Chemical Family": [
+            "Polyols (Polyester)",
+            "Polyols",
+            "Aromatics"
+        ],
+        "End Uses": [
+            "Hot Melt Adhesive"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Polyols",
+            "Aromatics",
+            "Polyols (Polyester)"
+        ],
+        "Hydroxyl Value": [
+            "240.0 - 240.0 mg KOH/g"
+        ],
+        "Features": [
+            "Flame Resistance"
+        ]
+    }
+}

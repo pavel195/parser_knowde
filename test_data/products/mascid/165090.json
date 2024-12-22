@@ -1,0 +1,87 @@
+{
+    "id": 165090,
+    "brand": "mascid",
+    "name": "MASESTER® E7000",
+    "slug": "masester-e7000",
+    "description": "MASESTER® E7000 is a versatile, palm-based ingredient derived from fractionated fatty acids (mainly caprylic and capric acids) and refined glycerine. This odorless product finds applications across the flavor, food, and beverage sectors, as well as the pharmaceutical industry. Serving as a solubilizer, clouding agent, excipient, and wetting agent, MASESTER® E7000 seamlessly enhances formulations.\r\n",
+    "company_name": "Musim Mas Group",
+    "company_slug": "musim-mas-group",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1713788874/production/Brand/9228/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1713788874/production/Product/165090/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Hair Care",
+            "Skin Care",
+            "Bath & Shower",
+            "Nutraceuticals & Supplements",
+            "Sports Drinks",
+            "Beverage",
+            "Nutrition & Well Being",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Stabilizers",
+            "Rheology Modifiers",
+            "Conditioners & Emollients",
+            "Functionals",
+            "Texture & Consistency"
+        ],
+        "Chemical Family": [
+            "Glycerides"
+        ],
+        "INCI Name": [
+            "Caprylic/Capric Triglyceride"
+        ],
+        "End Uses": [
+            "Massage Products",
+            "Shampoos & Rinses",
+            "Hair Masks",
+            "Sports Drinks",
+            "Dietary Supplements",
+            "Lip Care Products"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Caprylic/Capric Triglyceride"
+        ],
+        "Functions": [
+            "Conditioner",
+            "Viscosity Modifier",
+            "Emollient",
+            "Clouding Agent"
+        ],
+        "Labeling Claims": [
+            "Kosher",
+            "Halal",
+            "Non-GMO",
+            "Credo Clean Standard",
+            "Clean at Sephora",
+            "Allergen-free",
+            "Ulta Beauty's Conscious Beauty",
+            "Organic",
+            "PHO (Partially Hydrogenated Oil)-Free"
+        ],
+        "Certifications & Compliance": [
+            "ECOCERT",
+            "United States Pharmacopeia (USP)",
+            "CosIng Listed",
+            "RSPO MassBalance Certified",
+            "Halal",
+            "GMP",
+            "Non-GMO Project Verified",
+            "ISO 14001",
+            "COSMOS",
+            "FSSC 22000",
+            "Organic Certified",
+            "Kosher",
+            "Gluten-free",
+            "Prop 65 Compliant",
+            "EU Cosmetic Regulation 1223/2009 Compliant",
+            "Vegan",
+            "ISO 9001",
+            "EFfCI GMP Certified",
+            "REACH (Europe)"
+        ]
+    }
+}

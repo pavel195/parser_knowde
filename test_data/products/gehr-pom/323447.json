@@ -1,0 +1,50 @@
+{
+    "id": 323447,
+    "brand": "gehr-pom",
+    "name": "GEHR PPSU®",
+    "slug": "gehr-ppsu",
+    "description": "GEHR PPSU® is an amorphous material, with improved impact and hydrolysis resistance compared to PSU. This amber-colored, transparent material is usually used in a black color, which is why we only offer it in this color version so far. The usual operating temperature is approx. +170 °C. The extremely high notch impact strength remains also after a heat aging.",
+    "company_name": "GEHR",
+    "company_slug": "gehr",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691740844/production/Brand/23068/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Medical Devices & Assemblies",
+            "Equipment & Parts",
+            "Pumps, Turbines & Compressors",
+            "Other Medical Applications",
+            "Food & Beverage Manufacturing",
+            "Other Parts & Components",
+            "Pipes & Plumbing",
+            "Other Automotive Applications",
+            "Housewares",
+            "Building Materials",
+            "Parts & Components",
+            "Processing & Packaging",
+            "Medical",
+            "Chemical & Industrial Manufacturing",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Polyphenylene Sulfide (PPS)"
+        ],
+        "Polymer Name": [
+            "Polyphenylene Sulfide (PPS)"
+        ],
+        "End Uses": [
+            "Medical Devices",
+            "Pump Parts",
+            "Microwave Cookware",
+            "Medical/Healthcare Applications"
+        ]
+    },
+    "summary": {
+        "Density": [
+            "1290.0 - 1290.0 kg/m³"
+        ]
+    }
+}

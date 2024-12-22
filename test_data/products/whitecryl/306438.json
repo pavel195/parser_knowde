@@ -1,0 +1,46 @@
+{
+    "id": 306438,
+    "brand": "whitecryl",
+    "name": "BRANCOCRYL AS 2012",
+    "slug": "brancocryl-as-2012",
+    "description": "Brancocryl AS 2012 is a Soft acrylic copolymer in aqueous dispersion free of plasticizers and solvents.",
+    "company_name": "Brancotex",
+    "company_slug": "brancotex",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708688637/production/Product/306438/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Textile Manufacturing",
+            "Screen Printing",
+            "Other Paints & Coatings Applications",
+            "Other Industrial Applications",
+            "Chemical & Industrial Manufacturing",
+            "Printing & Inks",
+            "Leather & Textiles"
+        ],
+        "Product Families": [
+            "Finishing Additives & Treatments",
+            "Acrylics",
+            "Resins & Binders",
+            "Textile & Leather Chemicals"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ],
+        "End Uses": [
+            "Textiles"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Binder",
+            "Binder & Resin"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ],
+        "Features": [
+            "Excellent Adhesion"
+        ]
+    }
+}

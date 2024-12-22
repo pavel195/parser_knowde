@@ -1,0 +1,59 @@
+{
+    "id": 136062,
+    "brand": "perlast",
+    "name": "Precision Polymer™ V70SW",
+    "slug": "precision-polymer-v70sw",
+    "description": "V70SW is a peroxide-cured FDA-compliant, fluoroelastomer (FKM) material developed to withstand steam-in-place (SIP) and clean-in-place (CIP) procedures within pipe work and vessels.Unlike other FDA-compliant fluoroelastomers, V70SW provides superior steam resistance, ideal for use in Stage II Sterilization processes which require exposure to steam up to 200°C (392°F).V70SW can be used for all types of applications requiring FDA and USP Class VI compliance. It is suitable for use in all product contact applications including dry, aqueous and fatty media.Key Attributes Excellent steam resistance up to 200°C Superior resistance to a wide range of solvents & chemicals Superior mechanical properties FDA compliant - extraction tested to CFR 21 § 177.2600(e,f) USP Class VI compliant 3-A Standard 18-03 Class 1 compliant Free from Animal Derived Ingredients Typical ApplicationsRecommended for use hygienic sealing in pharmaceutical, bio-analytical and food processing applications. O-rings Gaskets Hygienic/sanitary couplings & pipe connectors Ball segment valve seals (inflatable seals)",
+    "company_name": "Precision Polymer Engineering",
+    "company_slug": "precision-polymer-engineering",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1703115600/production/Company/2831/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1703115600/production/Company/2831/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Equipment & Parts",
+            "Cooling & Climate",
+            "Other Industrial Applications",
+            "Other Parts & Components",
+            "Appliances & Electronics",
+            "Fuel Systems",
+            "Pipes & Tanks",
+            "Connectors",
+            "Pipes & Hoses",
+            "Pipes & Plumbing",
+            "Agricultural Films",
+            "Automotive",
+            "Building Materials",
+            "Parts & Components",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Fluoroelastomers",
+            "Specialty Elastomers"
+        ],
+        "Chemical Family": [
+            "Fluoropolymers"
+        ],
+        "Polymer Name": [
+            "Fluoroelastomer (FKM)"
+        ],
+        "End Uses": [
+            "Valve Parts",
+            "Connectors",
+            "Valves",
+            "Piping",
+            "Pipe Seals"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Fluoroelastomer (FKM)"
+        ],
+        "Features": [
+            "Solvent Resistant",
+            "Chemical Resistant",
+            "Food Contact Acceptable",
+            "No Animal Derived Components",
+            "Steam Resistant"
+        ]
+    }
+}

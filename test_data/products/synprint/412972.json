@@ -1,0 +1,43 @@
+{
+    "id": 412972,
+    "brand": "synprint",
+    "name": "SYNTRAN® AC 4101",
+    "slug": "syntran-ac-4101",
+    "description": "SYNTRAN® AC 4101 is a water-based, cationic acrylic copolymer solution. SYNTRAN® AC 4101 is recommended for stain-blocking paints and primers. It shows excellent performance in blocking wood and cork extractives, nicotine, graffiti, soot and water stains. SYNTRAN® AC 4101 is also recommended for the formulation of coatings with excellent adhesion properties on critical substrates, such as glass, ceramic tiles, zinc, aged alkyd paints, etc. SYNTRAN® AC 4101 is recommended for interior use.\r\n\r\nFeatures and Benefits:\r\n\r\n\r\n\tExcellent, universal stain-blocking properties\r\n\tVery good blocking of wood extractives\r\n\tVery good nicotine barrier properties\r\n\tExcellent adhesion to a wide variety of substrates\r\n\tReactive pigments are not required\r\n\tFree of APEO and co-solvents\r\n\r\n",
+    "company_name": "Zschimmer & Schwarz: Paints & Coatings",
+    "company_slug": "zschimmer-schwarz-paints-coatings",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697223262/production/Brand/32229/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1697223262/production/Product/412972/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Architectural Coatings",
+            "Floor Coatings",
+            "Furniture Coatings",
+            "Furniture",
+            "Wood Flooring",
+            "Primers & Lacquers",
+            "Interior Fixtures",
+            "Wood Coatings & Finishes",
+            "Building Materials",
+            "Flooring & Surfaces",
+            "Building & Construction",
+            "Industrial Coatings",
+            "Packaging Coatings",
+            "Building Envelope & Roofing"
+        ],
+        "Product Families": [
+            "Acrylics",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates",
+            "Cationics"
+        ],
+        "End Uses": [
+            "Isolation Primer",
+            "Top Coat",
+            "Primer"
+        ]
+    },
+    "summary": {}
+}

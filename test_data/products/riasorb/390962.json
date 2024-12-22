@@ -1,0 +1,42 @@
+{
+    "id": 390962,
+    "brand": "riasorb",
+    "name": "RIANOX® 168",
+    "slug": "rianox-168",
+    "description": "RIANOX® 168 is an organo-phosphite antioxidant that exhibits excellent hydrolytic stability.",
+    "company_name": "Rianlon Corporation",
+    "company_slug": "rianlon-chemical",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708700259/production/Brand/21635/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607403/production/CategoryImage/516/category_image/ElectricalElectronics_01.jpg",
+    "properties": {
+        "Product Families": [
+            "Antioxidants & Stabilizers",
+            "Polymer Additives",
+            "Elastomer Additives"
+        ],
+        "Chemical Family": [
+            "Phosphites"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Phosphites"
+        ],
+        "Functions": [
+            "Secondary Antioxidant",
+            "Antioxidant"
+        ],
+        "Compatible Polymers & Resins": [
+            "Polyesters",
+            "Polyolefins",
+            "Acrylonitrile Butadiene Styrene (ABS)",
+            "Polycarbonates (PC)"
+        ],
+        "Features": [
+            "Crystalline",
+            "High Hydrolytic Stability",
+            "High Temperature Application",
+            "Low Volatility"
+        ]
+    }
+}

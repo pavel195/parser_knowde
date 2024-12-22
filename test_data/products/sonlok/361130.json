@@ -1,0 +1,44 @@
+{
+    "id": 361130,
+    "brand": "sonlok",
+    "name": "SONLOK® 3660",
+    "slug": "sonlok-3660",
+    "description": "SONLOK® 3660 is a fast curing; paste like consistency, high strength anaerobic retaining compound for cylindrical fitting parts particularly where bond gaps can approach 0.50mm. This product offers very good gap cure properties. SONLOK® 3660 retaining compound is a single component anaerobic adhesive, which develops high strength rapidly when confined in the absence of air between close fitting metal surfaces to prevent loosening and leakage from shock and vibration.",
+    "company_name": "Parson Adhesives",
+    "company_slug": "parson-adhesives",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1685601164/production/Brand/27003/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608953/production/CategoryImage/586/category_image/AdhesivesSealants_03.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial & Assembly Adhesives",
+            "Other Industrial & Assembly Applications",
+            "Industrial Adhesives & Sealants",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Anaerobic Adhesives"
+        ],
+        "Chemical Family": [
+            "Methacrylates"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "1K (1 component) Adhesive",
+            "Anaerobic Adhesive"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal"
+        ],
+        "Chemical Family": [
+            "Methacrylates"
+        ],
+        "Features": [
+            "High Strength",
+            "Fast Cure",
+            "Good Gap Filling Capabilities",
+            "Chemical Resistant"
+        ]
+    }
+}

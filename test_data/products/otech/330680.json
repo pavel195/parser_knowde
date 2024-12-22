@@ -1,0 +1,39 @@
+{
+    "id": 330680,
+    "brand": "otech",
+    "name": "OTech Platinum TF721",
+    "slug": "otech-platinum-tf721",
+    "description": "OTech Platinum TF721 is the world’s first platinum particle-free conductive ink that allows metallization into a full-coverage smooth platinum layer. This form of platinum can find an application as a coating for medical components or even decorative (plated) purposes. OrelTech’s unique process allows the deposition of highly conductive thin metallic films. The thin layers undergo short development using cold plasma treatment resulting in a fine metal structure. OrelTech’s technology enables the deposition of the ink with many different methods and on various substrates, from plastics to fabrics. OTech inks do not contain nanoparticles, and as such enable the material economy of precious metals while being significantly more environmentally friendly than the existing alternatives on the market.",
+    "company_name": "OrelTech",
+    "company_slug": "oreltech",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1690449659/production/Brand/24046/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1690449659/production/Product/330680/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Batteries",
+            "Other Coatings & Finishes",
+            "Implants & Prosthetics",
+            "Inkjet Printing",
+            "Medical Devices & Assemblies",
+            "Sensors & Actuators",
+            "Cathode Materials",
+            "Anode Materials",
+            "Coatings & Finishes",
+            "Battery Materials",
+            "Parts & Components",
+            "Medical",
+            "Printing & Inks"
+        ],
+        "Product Families": [
+            "Inkjet Inks",
+            "Inks & Pastes"
+        ],
+        "Chemical Family": [
+            "Platinum Compounds"
+        ],
+        "End Uses": [
+            "Electrodes"
+        ]
+    },
+    "summary": {}
+}

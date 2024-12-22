@@ -1,0 +1,49 @@
+{
+    "id": 427680,
+    "brand": "sensyn",
+    "name": "Sentinel Canada Sent-46150",
+    "slug": "sentinel-canada-sent-46150",
+    "description": "Sentinel CanadaSENT-46150 is a light tan color synthetic based semi-fluid grease with a lithium stearate thickener. It is a fortified blend of high performance additives providing antioxidation, anticorrosion, antirust and antiwear properties. The extra PTFE added to the product makes it extremely abrasion resistant and adaptable to the harshest environments. SENT-46150 may also be considered for used in worm drive and planetary gearboxes operating in extreme cold or harsh environments.",
+    "company_name": "Sentinel Canada",
+    "company_slug": "sentinel-canada",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1673943870/production/Company/12372/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Military & Defense",
+            "Other Military & Defense Applications"
+        ],
+        "Product Families": [
+            "Greases",
+            "Fluids & Lubricants"
+        ],
+        "End Uses": [
+            "Drivetrain",
+            "Worm Drive Gearboxes"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Grease"
+        ],
+        "Application Areas": [
+            "Drivetrain",
+            "Worm Drive Gearboxes"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal"
+        ],
+        "Features": [
+            "High Performance",
+            "Oxidation Resistant",
+            "Corrosion Resistant",
+            "Wide Temperature Operating Range",
+            "Abrasion Resistant",
+            "Improved Shear Stability",
+            "Wear Resistant"
+        ],
+        "Thickener Type": [
+            "Lithium Complex"
+        ]
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "id": 441757,
+    "brand": "pecti-lyte",
+    "name": "KuroGel™",
+    "slug": "kurogel",
+    "description": "KuroGel™ is a fiber source for animals with digestive challenge.",
+    "company_name": "Bio-Vet",
+    "company_slug": "bio-vet",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708690747/production/Company/57629/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708690747/production/Company/57629/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Other Animal Health & Nutrition",
+            "Ruminants",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Fiber Sources",
+            "Nutritional Ingredients"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Fiber Source"
+        ],
+        "Features": [
+            "Promotes Digestive Health",
+            "Improves Digestability & Intestinal Health"
+        ]
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "id": 504287,
+    "brand": "bcfoods",
+    "name": "Culinary Farms Pure Sun Dried™ Tomatoes CMI Blend, 101 Blend Coarse Diced",
+    "slug": "culinary-farms-pure-sun-dried-tomatoes-cmi-blend-101-blend",
+    "description": null,
+    "company_name": "BCFoods & Culinary Farms",
+    "company_slug": "bcfoods",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1712254026/production/Company/37431/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1712254026/production/Product/504287/card_banner/image",
+    "properties": {
+        "Product Families": [
+            "Vegetable Products & Extracts",
+            "Whole Foods, Extracts & Premixes"
+        ],
+        "Ingredient Name": [
+            "Tomatoes, Dehydrated"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Tomatoes, Dehydrated"
+        ],
+        "Physical Form": [
+            "Dices"
+        ],
+        "Labeling Claims": [
+            "Clean Label",
+            "Colorants-free",
+            "Preservative-free",
+            "Artificial Flavor-Free",
+            "GMO-free",
+            "Halal",
+            "Additive-free",
+            "Kosher",
+            "Sulphite-free",
+            "Salt-free"
+        ],
+        "Certifications & Compliance": [
+            "USDA Certified",
+            "Kosher",
+            "FDA Compliant",
+            "Hazard Analysis Critical Control Point (HACCP)",
+            "Halal",
+            "GMP",
+            "cGMP",
+            "SQF Certified",
+            "SQF Level II"
+        ],
+        "Features": [
+            "Sun Dried",
+            "Free of Major Allergens"
+        ]
+    }
+}

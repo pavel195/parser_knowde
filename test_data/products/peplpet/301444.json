@@ -1,0 +1,48 @@
+{
+    "id": 301444,
+    "brand": "peplpet",
+    "name": "PEPLPET B 105C PET",
+    "slug": "peplpet-b-105c-pet",
+    "description": "PEPLPET B 105C PET is a Pet Bottle Grade.",
+    "company_name": "Pearl Engineering",
+    "company_slug": "pearl-engineering",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708530471/production/Company/24289/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609117/production/CategoryImage/596/category_image/PrintingPackaging_07.jpg",
+    "properties": {
+        "Applications": [
+            "Food & Beverage Packaging",
+            "Non-Food Consumer Packaging",
+            "Packaging"
+        ],
+        "Product Families": [
+            "Polyesters",
+            "Basic Thermoplastics"
+        ],
+        "Chemical Family": [
+            "Polyesters",
+            "Polyethylene Terephthalate (PET)"
+        ],
+        "Polymer Name": [
+            "Polyethylene Terephthalate Glycol (PETG)"
+        ],
+        "End Uses": [
+            "Food Packaging",
+            "Bottles",
+            "Rigid Food Packaging"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyethylene Terephthalate Glycol (PETG)"
+        ],
+        "End Uses": [
+            "Food Packaging",
+            "Rigid Food Packaging",
+            "Bottles"
+        ],
+        "Features": [
+            "Thermally Conductive",
+            "Low Moisture Content"
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "id": 412316,
+    "brand": "adhere",
+    "name": "Adhere™",
+    "slug": "adhere",
+    "description": "Adhere is a new and unique combination of readily biodegradable, non-hazardous adjuvants for use with residual herbicides pre and post emergence to enhance their efficacy. Containing a blend of fatty acid methyl esters combined with rosin and resin esters and emulsifiers, Adhere reduces the number of spray droplets under 100 microns, decreasing spray drift and ensuring even deposition over the soil surface. The rosin and resin esters are tackifiers which stick and increase the adsorption of the herbicide onto soil particles, reducing leaching through the soil profile. Adhere improves the performance of residual herbicides, reducing phytotoxicity and increasing the level of weed control, but is significantly less toxic to soil biota than other adjuvants.",
+    "company_name": "IntraCrop",
+    "company_slug": "intracrop",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292442/production/Brand/32174/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608150/production/CategoryImage/545/category_image/AgricultureFeed_01.jpg",
+    "properties": {
+        "Applications": [
+            "Agricultural Crops",
+            "Other Agricultural Crops"
+        ],
+        "Product Families": [
+            "Adjuvants & Formulation Ingredients",
+            "Oils"
+        ]
+    },
+    "summary": {
+        "Application Technique": [
+            "Sprayers",
+            "Post-Emergence",
+            "Hydraulic Nozzles",
+            "Pre-Emergence"
+        ],
+        "Features": [
+            "Controls Weed",
+            "Low Phytotoxicity",
+            "Reduces Leaching"
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "id": 412108,
+    "brand": "duocel",
+    "name": "Duocel® Aluminum Foam",
+    "slug": "duocel-aluminum-foam",
+    "description": "Duocel® Aluminum Foam is a rigid, three-dimensional network of interconnected aluminum ligaments that form cells with open pores. Duocel® Aluminum Foam contains completely solid ligaments (as opposed to hollow ligaments) and its properties are fully customizable, which allows its performance characteristics to be optimized for a broad range of applications. Aluminum is ERG’s most popular Duocel® foam and is commonly used in applications that benefit from a lightweight structure, very high surface area, and from the nature-mimicking morphology of the rigid cellular structure.\r\n",
+    "company_name": "ERG Aerospace",
+    "company_slug": "erg-aerospace",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1702444507/production/Brand/32159/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608744/production/CategoryImage/575/category_image/AutomotiveTransportation_03.jpg",
+    "properties": {
+        "Applications": [
+            "Equipment & Parts",
+            "Aerospace & Aviation",
+            "Transportation",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Foams"
+        ],
+        "Chemical Family": [
+            "Aluminum Compounds"
+        ],
+        "End Uses": [
+            "Spacecraft",
+            "Satellite"
+        ]
+    },
+    "summary": {
+        "Foam Type": [
+            "Open Cell Foam"
+        ],
+        "Chemical Family": [
+            "Aluminum Compounds"
+        ],
+        "End Uses": [
+            "Spacecraft",
+            "Satellite"
+        ],
+        "Physical Form": [
+            "Foam"
+        ]
+    }
+}

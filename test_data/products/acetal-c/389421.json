@@ -1,0 +1,74 @@
+{
+    "id": 389421,
+    "brand": "acetal-c",
+    "name": "Smiths Metal Centres Nylon 6G+MoS2, black",
+    "slug": "smiths-metal-centres-nylon-6g-mos2-black",
+    "description": "Smiths Metal Centers Nylon 6G+MoS2, Black is a high-quality wear resistant engineering plastic material. It is a polyamide with MoS2. The casting process allows the production of larger material sections virtually free from residual stress. It may also be cast into customer shapes that reduce material waste and machining time.",
+    "company_name": "Smiths Metal Centres",
+    "company_slug": "smiths-metal-centres",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686149902/production/Company/48114/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Parts & Components",
+            "Exterior & Body",
+            "Interior",
+            "Powertrain & UTH",
+            "Other Automotive Applications",
+            "Chemical & Industrial Manufacturing",
+            "Automotive",
+            "Other Parts & Components",
+            "Other Industrial Applications",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Polyamides"
+        ],
+        "Polymer Name": [
+            "Polyamide 6 (PA 6)"
+        ],
+        "End Uses": [
+            "Conveyor Parts",
+            "Automotive Under The Hood",
+            "Automotive Applications",
+            "Automotive Exterior Parts",
+            "Bearings",
+            "Automotive Interior Parts",
+            "Gears",
+            "Pulleys",
+            "Coil Insulation"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Polyamide 6 (PA 6)"
+        ],
+        "Physical Form": [
+            "Rods",
+            "Sheets",
+            "Bars"
+        ],
+        "Features": [
+            "Excellent Mechanical Strength",
+            "Food Contact Acceptable",
+            "Good Abrasion Resistance",
+            "Good Impact Strength",
+            "Good Sliding Properties",
+            "Wear Resistant",
+            "Chemical Resistant",
+            "Noise Damping"
+        ],
+        "Density": [
+            "1150.0 - 1150.0 kg/m³"
+        ],
+        "Tensile Modulus": [
+            "3500.0 - 3500.0 MPa"
+        ],
+        "Color": [
+            "Black"
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "id": 331109,
+    "brand": "amarillo",
+    "name": "Target® 6.6",
+    "slug": "target-6-6",
+    "description": "Target® 6.6 is a MSMA Liquid for selective postemergent control of weeds and grasses.",
+    "company_name": "Luxembourg-Pamol",
+    "company_slug": "luxembourg-pamol",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708688940/production/Brand/24102/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608224/production/CategoryImage/551/category_image/AgricultureFeed_07.jpg",
+    "properties": {
+        "Applications": [
+            "Agricultural Pest Control",
+            "Fiber Crops",
+            "Industrial Weed & Vegetation Control",
+            "Agricultural Crops",
+            "Pest Control",
+            "Turf, Ornamentals & Landscape"
+        ],
+        "Product Families": [
+            "Herbicides",
+            "Crop Protection & Pest Control"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Herbicide"
+        ],
+        "Herbicide Target Species": [
+            "Grasses"
+        ],
+        "Application Technique": [
+            "Post-Emergence"
+        ]
+    }
+}

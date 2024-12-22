@@ -1,0 +1,53 @@
+{
+    "id": 505680,
+    "brand": "dragonox",
+    "name": "Flyaro - Eucalyptol",
+    "slug": "guangzhou-flying-dragon-chemical-ltd-eucalyptol",
+    "description": null,
+    "company_name": "Guangzhou Flying Dragon Chemical Ltd.",
+    "company_slug": "guangzhou-flying-dragon-chemical",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1713790794/production/Company/38164/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1632515657/production/CategoryImage/1056/category_image/HII_08.jpg",
+    "properties": {
+        "Applications": [
+            "Oral Care",
+            "Beauty & Care"
+        ],
+        "Product Families": [
+            "Phytochemicals & Plant Extracts",
+            "Flavors & Taste Maskers",
+            "Aroma Ingredients",
+            "Functionals",
+            "Excipients",
+            "Nutraceuticals & Supplements"
+        ],
+        "Flavor Family": [
+            "Herb Flavors"
+        ],
+        "INCI Name": [
+            "Eucalyptol"
+        ],
+        "Ingredient Name": [
+            "Eucalyptol"
+        ],
+        "End Uses": [
+            "Mouthwash"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Eucalyptol"
+        ],
+        "Ingredient Name": [
+            "Eucalyptol"
+        ],
+        "Flavor": [
+            "Eucalyptus"
+        ],
+        "Functions": [
+            "Fragrance",
+            "Anti-Inflammatory",
+            "Flavoring Agent"
+        ]
+    }
+}

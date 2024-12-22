@@ -1,0 +1,42 @@
+{
+    "id": 390964,
+    "brand": "riasorb",
+    "name": "RIANOX® 245FF",
+    "slug": "rianox-245ff",
+    "description": "RIANOX® 245FF is a high molecular weight hindered phenolic antioxidant that provides very low volatility and excellent resistance to extraction from polymer compounds.",
+    "company_name": "Rianlon Corporation",
+    "company_slug": "rianlon-chemical",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708698429/production/Brand/21635/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607403/production/CategoryImage/516/category_image/ElectricalElectronics_01.jpg",
+    "properties": {
+        "Product Families": [
+            "Performance Additives",
+            "Antioxidants & Stabilizers",
+            "Polymer Additives"
+        ],
+        "Chemical Family": [
+            "Phenols & Phenolics"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Phenols & Phenolics"
+        ],
+        "Functions": [
+            "Primary Antioxidant",
+            "Chain Terminating Agent",
+            "Antioxidant"
+        ],
+        "Compatible Polymers & Resins": [
+            "Acrylonitrile Butadiene Styrene (ABS)",
+            "Methyl Methacrylate-Butadiene-Styrene(MBS)",
+            "Polyurethanes (PU)",
+            "Polyoxymethylene (POM)",
+            "Polyamides",
+            "Polystyrenes (PS)",
+            "Polyesters",
+            "Styrene Butadiene Rubber (SBR)",
+            "Polyvinyl Chloride (PVC)"
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "id": 460077,
+    "brand": "imsil",
+    "name": "AFCONA 6700",
+    "slug": "dar-tech-inc-afcona-6700",
+    "description": "AFCONA 6700 is an anti-gel additive for air- drying alkyds and heat-cured coating systems. In air-drying alkyd paints, the ketoxime in AFCONA 6700 forms a protective layer on the surface of the paint to reduce the oxidation caused by oxygen in the air.",
+    "company_name": "Dar-Tech Inc.",
+    "company_slug": "dar-tech-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1713790215/production/Brand/36291/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1713790215/production/Company/75921/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Automotive OEM Coatings",
+            "Coatings & Finishes",
+            "Automotive & Transportation"
+        ],
+        "Product Families": [
+            "Rheology Modifiers & Stabilizers",
+            "Functional Additives",
+            "Additives"
+        ],
+        "End Uses": [
+            "Solventborne Coating"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Anti-Gelling Agent",
+            "Stabilizer"
+        ],
+        "Compatible Polymers & Resins": [
+            "Alkyds",
+            "Melamines & Melamine Formaldehydes (MF)"
+        ],
+        "Physical Form": [
+            "Liquid"
+        ]
+    }
+}

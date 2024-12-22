@@ -1,0 +1,31 @@
+{
+    "id": 412319,
+    "brand": "adhere",
+    "name": "IntraCrop Mica AF",
+    "slug": "intracrop-mica-af",
+    "description": "Mica AF contains three effective adjuvant components for use with protectant fungicides to increase spray droplet spread and retention, improving disease control and yield. A combination of non-ionic wetters, including organocilicones, ensures complete coverage of the target surface, whilst latex polymers reduce wash-off in wet weather and protect fungicides from UV degradation.",
+    "company_name": "IntraCrop",
+    "company_slug": "intracrop",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708683342/production/Company/54991/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608150/production/CategoryImage/545/category_image/AgricultureFeed_01.jpg",
+    "properties": {
+        "Applications": [
+            "Other Agricultural Crops",
+            "Agricultural Crops"
+        ],
+        "Product Families": [
+            "UV Protectants",
+            "Stickers, Surfactants & Wetting Agents",
+            "Adjuvants & Formulation Ingredients"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "UV Protectant",
+            "Wetting Agent"
+        ],
+        "Labeling Claims": [
+            "Non-Flammable"
+        ]
+    }
+}

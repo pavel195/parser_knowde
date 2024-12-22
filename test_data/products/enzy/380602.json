@@ -1,0 +1,36 @@
+{
+    "id": 380602,
+    "brand": "enzy",
+    "name": "Avixanthin 100",
+    "slug": "avixanthin-100",
+    "description": "Avixanthin 100  is a stabilized and microgranulated red pigment containing 10% canthaxanthin for use in poultry and aquaculture. It is known from the scientific literature that canthaxanthin like many other carotenoids performs several important biological functions in addition to coloring. Avixanthin 100 is a Canthaxanthin is a red carotenoid that occurs naturally in mushrooms and algae, but also in wild birds. Canthaxanthin has been produced industrially for more than 40 years based on the natural model.",
+    "company_name": "Kaesler Nutrition GmbH",
+    "company_slug": "kaesler-nutrition-gmbh",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708686728/production/Brand/28482/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608161/production/CategoryImage/546/category_image/AgricultureFeed_02.jpg",
+    "properties": {
+        "Applications": [
+            "Birds & Poultry",
+            "Aquaculture",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Colorants & Pigments",
+            "Production Aids and Processing Additives"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Canthaxanthin"
+        ],
+        "Functions": [
+            "Colorant"
+        ],
+        "Labeling Claims": [
+            "Natural"
+        ],
+        "Color": [
+            "Red"
+        ]
+    }
+}

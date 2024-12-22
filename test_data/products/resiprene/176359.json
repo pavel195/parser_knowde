@@ -1,0 +1,40 @@
+{
+    "id": 176359,
+    "brand": "resiprene",
+    "name": "Resirene® HH 104",
+    "slug": "resirene-hh-104",
+    "description": "Resirene® HH 104 by Resirene is comprised of General Purpose Polystyrene. It is commonly used Resirene® HH 104 is certified as UL Flame Rated. It is available in Granules form.",
+    "company_name": "Resirene",
+    "company_slug": "resirene",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708531546/production/Company/4435/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607988/production/CategoryImage/537/category_image/HomePersonalCare_03.jpg",
+    "properties": {
+        "Applications": [
+            "Housewares"
+        ],
+        "Product Families": [
+            "Styrenics",
+            "Basic Thermoplastics"
+        ],
+        "Chemical Family": [
+            "Styrenics"
+        ],
+        "Polymer Name": [
+            "General Purpose Polystyrene (GPPS)"
+        ],
+        "End Uses": [
+            "Disposable Tableware"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "General Purpose Polystyrene (GPPS)"
+        ],
+        "Processing Methods": [
+            "Injection Molding"
+        ],
+        "Melt Flow Index": [
+            "4.0 - 4.0 g/10 min"
+        ]
+    }
+}

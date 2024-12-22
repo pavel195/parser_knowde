@@ -1,0 +1,39 @@
+{
+    "id": 419269,
+    "brand": "problend",
+    "name": "ProFLEX",
+    "slug": "proflex",
+    "description": "ProFlex by SWT Group is a water based highly flexible white reflective roof coating specially formulated to create a durable protective barrier against all types of weather conditions. In addition to providing blinding initial reflectance measurements of over 75%, ProFlex also provides excellent UV, impact and algae resistance while preventing crack propagation and granule loss in climates with large temperature swings. The viscosity, solids, and overall rheology of ProFlex have been optimized to be easily sprayed or roller applied over granular, built-up or modified bitumen roofing substrates. Superior substrate adhesion and a quick-dry formulation makes ProFlex from SWT Group an excellent choice for new or refurbished roofing systems.",
+    "company_name": "SWT Group",
+    "company_slug": "swt-group",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1687520368/production/Brand/32885/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608611/production/CategoryImage/569/category_image/PaintingsCoatings_05.jpg",
+    "properties": {
+        "Applications": [
+            "Roofing",
+            "Roof Coatings"
+        ],
+        "Product Families": [
+            "Paints & Coatings",
+            "Protective Coatings"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "Waterborne Coating"
+        ],
+        "Features": [
+            "Good Weather Stability",
+            "Impact Resistance",
+            "UV Resistant",
+            "Durable",
+            "Crack Resistant",
+            "Excellent Flexibility",
+            "Excellent Substrate Adhesion"
+        ],
+        "Application Method": [
+            "Roller",
+            "Spray"
+        ]
+    }
+}

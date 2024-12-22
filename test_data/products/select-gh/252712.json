@@ -1,0 +1,22 @@
+{
+    "id": 252712,
+    "brand": "select-gh",
+    "name": "GUARDIAN™",
+    "slug": "guardian",
+    "description": "Guardian™ is Alltech’s newest technology, aiming at improving the safety of animal feed and its components. The research shows that Guardian promotes better feed safety and feed hygiene by mitigating potential risks. It gives producers peace of mind that their herds are safe from outside risks and threats.",
+    "company_name": "Alltech",
+    "company_slug": "alltech",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697222936/production/Company/19217/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608161/production/CategoryImage/546/category_image/AgricultureFeed_02.jpg",
+    "properties": {
+        "Applications": [
+            "Swine",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Other Health & Well-Being Products",
+            "Health & Well-Being"
+        ]
+    },
+    "summary": {}
+}

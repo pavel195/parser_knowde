@@ -1,0 +1,35 @@
+{
+    "id": 332074,
+    "brand": "entero-chronic",
+    "name": "Palbio 50 RD",
+    "slug": "palbio-50-rd",
+    "description": "Palbio 50 RD is a source of high-quality protein obtained from fluid-bed dried hydrolisate from porcine intestinal mucosa. It aids in increasing feed intake and diet digestibility thanks to its exceptional characteristics, improving the production parameters and health of the animals.",
+    "company_name": "Bioiberica",
+    "company_slug": "bioiberica",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672822/production/Brand/24356/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608173/production/CategoryImage/547/category_image/AgricultureFeed_03.jpg",
+    "properties": {
+        "Applications": [
+            "Swine",
+            "Birds & Poultry",
+            "Aquaculture",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Amino Acids & Proteins",
+            "Nutritional Ingredients"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Protein"
+        ],
+        "Functions": [
+            "Protein Source"
+        ],
+        "Features": [
+            "Improves Feed Intake",
+            "Improves Digestability & Intestinal Health"
+        ]
+    }
+}

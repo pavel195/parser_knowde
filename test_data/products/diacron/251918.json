@@ -1,0 +1,72 @@
+{
+    "id": 251918,
+    "brand": "diacron",
+    "name": "jER™ YX7105",
+    "slug": "jer-yx7105",
+    "description": "jER™ YX7105 is a liquid-type epoxy resin with toughness, flexibility, and high stretchability. It is used as an impact modifier for semiconductor, printed electronics and wearable devices to avoid bending and warpage. jER™ YX7105 is an adduct formed from the reaction of epichlorohydrin and an aliphatic and aromatic polyol.FeaturesExcellent adhesionGood toughnessGood mechanical, impact and crack resistanceExcellent elasticity and flexibilityApplicationsPrinted electronics (resist ink, build-up wire board, flexible printed wire board, metal core printed circuit board)Semiconductor manufacturing (liquid mold compound, underfill, sidefill, diebonding, ACF, NCF, ACP, NCP)Base film and sheet for wearable devicesCoatingsAdhesives *jER™ is provided by Mitsubishi Chemical Corporation, a member of the Mitsubishi Chemical Group.",
+    "company_name": "Mitsubishi Chemical Group Corporation",
+    "company_slug": "mitsubishi-chemical",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1657554823/production/Brand/16954/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1614175018/production/Product/251918/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Semiconductor Manufacturing",
+            "Electronics Coatings",
+            "Appliances & Electronics",
+            "Consumer Electronics",
+            "Printed Circuit Boards (PCBs)",
+            "Other Devices & Assemblies",
+            "Other Packaging & Assembly Applications",
+            "Potting Compounds",
+            "Other Paints & Coatings Applications",
+            "Adhesives & Sealants",
+            "Devices & Assemblies",
+            "Packaging & Assembly",
+            "Parts & Components",
+            "Specialty Coatings"
+        ],
+        "Product Families": [
+            "Functional Additives",
+            "Epoxies",
+            "Thermoset Resins",
+            "Resins & Binders",
+            "Additives",
+            "Polymers & Resins"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ],
+        "Polymer Name": [
+            "Epoxy Resins & Compounds"
+        ],
+        "End Uses": [
+            "Semiconductor Applications"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Epoxy Resins & Compounds"
+        ],
+        "Functions": [
+            "Impact Modifier",
+            "Coupling Agent",
+            "Binder & Resin",
+            "Adhesion Promoter",
+            "Resin",
+            "Resins, Binders & Matrix Materials"
+        ],
+        "Chemical Family": [
+            "Epoxy & Epoxy Derivatives"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Ceramic",
+            "Fibers & Fabrics",
+            "Glass",
+            "Aluminum",
+            "Concrete",
+            "Steel",
+            "Plastics",
+            "Metal"
+        ]
+    }
+}

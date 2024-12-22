@@ -1,0 +1,42 @@
+{
+    "id": 306441,
+    "brand": "whitecryl",
+    "name": "TEXCOLA VA 55",
+    "slug": "texcola-va-55",
+    "description": "TEXCOLA VA 55 is a Vinylic homopolymer in aqueous dispersion free of plasticizers and solvents.",
+    "company_name": "Brancotex",
+    "company_slug": "brancotex",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708691745/production/Product/306441/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Textile Manufacturing",
+            "Other Adhesives & Sealants Applications",
+            "Textiles & Nonwovens",
+            "Leather & Textiles"
+        ],
+        "Product Families": [
+            "Finishing Additives & Treatments",
+            "Mortar & Gypsum Additives",
+            "Cement & Concrete Additives",
+            "Other Additives",
+            "Additives",
+            "Construction Chemicals",
+            "Textile & Leather Chemicals"
+        ],
+        "End Uses": [
+            "Textiles"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Sizing Agent",
+            "Other CASE Function"
+        ],
+        "Labeling Claims": [
+            "Plasticizer-free",
+            "Other Labeling Claims",
+            "Solvent-free"
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "id": 385007,
+    "brand": "flav-r-bites",
+    "name": "CII Clusters",
+    "slug": "cii-clusters",
+    "description": "Clusters of granola, crisps, fruit or flavor that can be used in flaked cereal, trail mix.",
+    "company_name": "CII",
+    "company_slug": "cii",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686109149/production/Company/21217/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608224/production/CategoryImage/551/category_image/AgricultureFeed_07.jpg",
+    "properties": {
+        "Applications": [
+            "Food",
+            "Cereals & Snacks"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Fruit Products & Extracts",
+            "Flours & Grains Products"
+        ],
+        "End Uses": [
+            "Breakfast Cereals"
+        ]
+    },
+    "summary": {
+        "Labeling Claims": [
+            "Non-GMO",
+            "Kosher",
+            "Sugar-free",
+            "Gluten-free",
+            "Dairy-free",
+            "Organic",
+            "Allergen-free"
+        ],
+        "Certifications & Compliance": [
+            "Kosher"
+        ],
+        "Features": [
+            "Imparts Flavor",
+            "Enhanced Flavour"
+        ]
+    }
+}

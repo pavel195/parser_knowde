@@ -1,0 +1,34 @@
+{
+    "id": 250434,
+    "brand": "alquernat",
+    "name": "AVAL Premium",
+    "slug": "aval-premium",
+    "description": "AVAL Premium is a general restorative and intestinal conditioner. It is intended as a growth promoter in cases of nutritional deficiencies, diarrhea, sudden temperature changes or periods of high production. Pronutrients act optimize the physiology of the target organs (intestine, liver and immune system).",
+    "company_name": "Biovet",
+    "company_slug": "biovet",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708672788/production/Company/19207/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708672788/production/Company/19207/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Swine",
+            "Ruminants",
+            "Birds & Poultry",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Vitamins",
+            "Nutritional Ingredients"
+        ],
+        "Chemical Family": [
+            "Amino Acids"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Vitamin Source"
+        ],
+        "Features": [
+            "Improves Growth Performance"
+        ]
+    }
+}

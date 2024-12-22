@@ -1,0 +1,41 @@
+{
+    "id": 300924,
+    "brand": "resiester",
+    "name": "RESIESTER N 35",
+    "slug": "resiester-n-35",
+    "description": "RESIESTER N 35 is a Glycol ester of stabilized gum resin",
+    "company_name": "Luresa",
+    "company_slug": "luresa",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112336/production/Company/24256/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608640/production/CategoryImage/572/category_image/PaintingsCoatings_08.jpg",
+    "properties": {
+        "Applications": [
+            "Packaging Coatings",
+            "Primers & Lacquers",
+            "Other Adhesives & Sealants Applications",
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Polyesters",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Polyesters",
+            "Esters",
+            "Rosins"
+        ],
+        "End Uses": [
+            "Lacquers"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Esters",
+            "Rosins",
+            "Polyesters"
+        ],
+        "End Uses": [
+            "Lacquers"
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "id": 381917,
+    "brand": "polytech",
+    "name": "POLYTECH® High-Density Polyurethane Foam Grade (PHU)",
+    "slug": "polytech-high-density-polyurethane-foam-grade-phu",
+    "description": "POLYTECH® High-Density Polyurethane Foam Grade (PHU) is a low modulus open cell polyurethane foam. It behaves like a closed cell foam product when compressed and is an excellent gasket seal. This material has a significantly lower compression set than typical closed cell foam gaskets.",
+    "company_name": "Polymer Technologies",
+    "company_slug": "polymer-technologies",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1702444512/production/Brand/28650/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608744/production/CategoryImage/575/category_image/AutomotiveTransportation_03.jpg",
+    "properties": {
+        "Applications": [
+            "Interior Fixtures",
+            "Building Materials"
+        ],
+        "Product Families": [
+            "Foams"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ]
+    },
+    "summary": {
+        "Foam Type": [
+            "Open Cell Foam"
+        ],
+        "Density": [
+            "240.0 - 240.0 kg/m³"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ],
+        "Physical Form": [
+            "Foam"
+        ]
+    }
+}

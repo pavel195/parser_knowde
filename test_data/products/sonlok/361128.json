@@ -1,0 +1,36 @@
+{
+    "id": 361128,
+    "brand": "sonlok",
+    "name": "SONLOK® 3641",
+    "slug": "sonlok-3641",
+    "description": "Sonlok® 3641 is a medium strength anaerobic bearing compound for continuous working temperatures up to 300°F.",
+    "company_name": "Parson Adhesives",
+    "company_slug": "parson-adhesives",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1674229797/production/Brand/27003/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608953/production/CategoryImage/586/category_image/AdhesivesSealants_03.jpg",
+    "properties": {
+        "Applications": [
+            "Other Adhesives & Sealants Applications"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Anaerobic Adhesives"
+        ],
+        "Chemical Family": [
+            "Methacrylates"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Anaerobic Adhesive"
+        ],
+        "Chemical Family": [
+            "Methacrylates"
+        ],
+        "Features": [
+            "Medium Viscosity",
+            "Medium Strength",
+            "Chemical Resistant"
+        ]
+    }
+}

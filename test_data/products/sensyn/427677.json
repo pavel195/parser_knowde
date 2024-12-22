@@ -1,0 +1,42 @@
+{
+    "id": 427677,
+    "brand": "sensyn",
+    "name": "Sensyn 7566",
+    "slug": "sensyn-7566",
+    "description": "Sentinel CanadaSenSyn 7566 is a blend of mineral base stock with unique additives to provide excellent low temperature fluidity, oxidation-corrosion inhibition, shear stability and antiwear properties. It is dyed red for identification and leak detection purposes. The product is especially developed for the severe duty demands of aerospace and industrial equipment. SenSyn 7566 is a SuperClean Fluid meeting all requirements and is approved under military specification MIL-PRF-5606H.",
+    "company_name": "Sentinel Canada",
+    "company_slug": "sentinel-canada",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1682593301/production/Brand/33897/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Lubricants & Functional Fluids",
+            "Aerospace Fluids & Lubricants",
+            "Military & Defense",
+            "Other Military & Defense Applications",
+            "Chemical & Industrial Manufacturing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Lubricants & Oils",
+            "Fluids & Lubricants"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Hydraulic Fluids"
+        ],
+        "Application Area": [
+            "Aerospace Applications",
+            "Hydraulic Circuits",
+            "Truck"
+        ],
+        "Features": [
+            "Corrosion Resistant",
+            "Improved Shear Stability",
+            "Low Temperature Performance",
+            "Wear Resistant",
+            "Oxidation Resistant"
+        ]
+    }
+}

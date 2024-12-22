@@ -1,0 +1,32 @@
+{
+    "id": 318017,
+    "brand": "s-glass",
+    "name": "E-Glass 1080",
+    "slug": "e-glass-1080",
+    "description": "E-glass 1080 is also known as electrical glass—is the standard glass composition used for most glass fibers. It is made from the oxides of silicon, aluminum, calcium, magnesium, and boron.",
+    "company_name": "JPS COMPOSITE MATERIALS",
+    "company_slug": "jps-composite-materials",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697222772/production/Product/318017/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608693/production/CategoryImage/573/category_image/AutomotiveTransportation_01.jpg",
+    "properties": {
+        "Applications": [
+            "Equipment & Parts",
+            "Sports & Recreation",
+            "Marine",
+            "Aerospace & Aviation",
+            "Transportation",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Glass Fiber",
+            "Reinforcements"
+        ],
+        "Chemical Family": [
+            "Glass Beads & Fibers"
+        ],
+        "End Uses": [
+            "Surfboards"
+        ]
+    },
+    "summary": {}
+}

@@ -1,0 +1,49 @@
+{
+    "id": 458992,
+    "brand": "dar-tech-portaryte",
+    "name": "Magris Talc Select A Sorb R",
+    "slug": "magris-talc-select-a-sorb-r",
+    "description": "Magris Talc Select A Sorb R is a versatile functional mineral that finds its application in a multitude of industries including paper, paints, ceramics, plastics, and others. The product comprises primarily of talc (hydrous magnesium silicate), chlorite, dolomite, and magnesite. It has an odorless nature and appears in a white or off-white to light gray color.",
+    "company_name": "Dar-Tech Inc.",
+    "company_slug": "dar-tech-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1713790002/production/Brand/36139/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1713790002/production/Company/75921/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Pulping & Processing",
+            "Ceramics & Refractory",
+            "Chemical & Industrial Manufacturing",
+            "Paper & Pulp"
+        ],
+        "Product Families": [
+            "Fillers & Extenders",
+            "Glass & Ceramic Additives",
+            "Finishing Additives & Treatments",
+            "Additives",
+            "Polymer Additives",
+            "Paper & Pulp Chemicals",
+            "Processing Aids"
+        ],
+        "Chemical Family": [
+            "Silicates"
+        ],
+        "End Uses": [
+            "Paper & Pulp",
+            "Ceramics"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Filler"
+        ],
+        "Chemical Family": [
+            "Silicates"
+        ],
+        "Features": [
+            "Odorless"
+        ],
+        "Synonyms": [
+            "Agalite, Talc (Mg3H2(SiO3)4), Talcum"
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": 393071,
+    "brand": "dinase-30-15",
+    "name": "Dinase 30-30®",
+    "slug": "dinase-30-30",
+    "description": "Dinase 30-30® is a naturally concentrated extract of the Yucca Schidigera plant and is technologically advanced, super concentrated source of saponin.",
+    "company_name": "Dinatec",
+    "company_slug": "dinatec",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686135072/production/Brand/29617/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608224/production/CategoryImage/551/category_image/AgricultureFeed_07.jpg",
+    "properties": {
+        "Applications": [
+            "Animal Health & Nutrition",
+            "Feed Production & Processing",
+            "Ruminants",
+            "Swine",
+            "Other Animal Health & Nutrition",
+            "Pets",
+            "Birds & Poultry",
+            "Aquaculture"
+        ],
+        "Product Families": [
+            "Production Aids and Processing Additives",
+            "Other Production & Processing Aids"
+        ]
+    },
+    "summary": {
+        "Features": [
+            "Improves Feed Conversion Ratio",
+            "Reduces Mortality",
+            "Improves Body Weight Gain",
+            "Reduces Feed Cost"
+        ]
+    }
+}

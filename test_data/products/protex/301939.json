@@ -1,0 +1,33 @@
+{
+    "id": 301939,
+    "brand": "protex",
+    "name": "Protex JH3100 C5",
+    "slug": "protex-jh3100-c5",
+    "description": "Protex JH3100 C5 is a petroleum resins used for Hot Melt Road Marking, Printing Inks.",
+    "company_name": "PROMAX Industries",
+    "company_slug": "promax-industries",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1693580752/production/Company/24309/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608422/production/CategoryImage/558/category_image/BuildingConstruction_02.jpg",
+    "properties": {
+        "Applications": [
+            "Other Printing Applications",
+            "Other Printing & Packaging Applications",
+            "Other Adhesives & Sealants Applications",
+            "Infrastructure, Roads & Paving",
+            "Coatings & Markings",
+            "Building & Construction",
+            "Printing & Inks"
+        ],
+        "Product Families": [
+            "Other Resins & Binders",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Hydrocarbons"
+        ],
+        "End Uses": [
+            "Hot Melt Adhesive"
+        ]
+    },
+    "summary": {}
+}

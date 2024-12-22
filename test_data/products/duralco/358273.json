@@ -1,0 +1,30 @@
+{
+    "id": 358273,
+    "brand": "duralco",
+    "name": "Durabond™ 4701",
+    "slug": "durabond-4701",
+    "description": "Durabond™ 4701 is a one component, toughened adhesive and casting compound that has excellent adhesion to metals, glass, ceramics and most plastics.",
+    "company_name": "Cotronics",
+    "company_slug": "cotronics",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1698256899/production/Brand/26686/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608693/production/CategoryImage/573/category_image/AutomotiveTransportation_01.jpg",
+    "properties": {
+        "Applications": [
+            "Adhesives & Sealants",
+            "Consumer Electronics",
+            "Appliances & Electronics",
+            "Other Adhesives & Sealants Applications",
+            "Other Electrical & Electronics Applications",
+            "Aerospace & Aviation",
+            "Other Automotive & Transportation Applications",
+            "Transportation",
+            "Devices & Assemblies",
+            "Packaging & Assembly"
+        ],
+        "Product Families": [
+            "Structural Adhesives",
+            "Adhesives & Sealants"
+        ]
+    },
+    "summary": {}
+}

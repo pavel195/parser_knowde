@@ -1,0 +1,46 @@
+{
+    "id": 331111,
+    "brand": "amarillo",
+    "name": "Catamaran®",
+    "slug": "catamaran",
+    "description": "Catamaran® is a combination fungicide for the control and prevention of diseases on vegetables, field crops, grasses grown for seed and sod farms.",
+    "company_name": "Luxembourg-Pamol",
+    "company_slug": "luxembourg-pamol",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708673391/production/Brand/24103/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608224/production/CategoryImage/551/category_image/AgricultureFeed_07.jpg",
+    "properties": {
+        "Applications": [
+            "Oilseeds",
+            "Fodder & Forage",
+            "Herbs & Spice Crops",
+            "Sugar & Starch Crops",
+            "Legumes",
+            "Agricultural Pest Control",
+            "Vegetables",
+            "Industrial Weed & Vegetation Control",
+            "Fruits",
+            "Agricultural Crops",
+            "Pest Control",
+            "Turf, Ornamentals & Landscape"
+        ],
+        "Product Families": [
+            "Fungicides",
+            "Crop Protection & Pest Control"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Fungicide"
+        ],
+        "Fungicide Target Species": [
+            "Drechslera",
+            "Rhizoctonia",
+            "Alternaria",
+            "Botrytis",
+            "Phytophthora",
+            "Cercospora",
+            "Pythium",
+            "Biopolaris"
+        ]
+    }
+}

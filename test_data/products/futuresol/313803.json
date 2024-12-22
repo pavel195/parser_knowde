@@ -1,0 +1,49 @@
+{
+    "id": 313803,
+    "brand": "futuresol",
+    "name": "FUTURESOL® Refined Glycerin",
+    "slug": "futuresol-refined-glycerin",
+    "description": "FutureSol® Refined Glycerin is a high purity, water white, viscous liquid prepared from renewable resources.",
+    "company_name": "Future Fuel Corp.",
+    "company_slug": "future-fuel-corp",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704100278/production/Product/313803/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Other Industrial Applications",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Diols & Polyols",
+            "Monomers & Oligomers"
+        ],
+        "Chemical Family": [
+            "Triols",
+            "Polyols"
+        ],
+        "End Uses": [
+            "Polyurethane"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Glycerin"
+        ],
+        "CAS Number": [
+            "56-81-5"
+        ],
+        "Chemical Family": [
+            "Triols",
+            "Polyols"
+        ],
+        "Molecular Weight": [
+            "92.05 - 92.05 g/mol"
+        ],
+        "Labeling Claims": [
+            "High Purity"
+        ],
+        "Synonyms": [
+            "Glycerine, Glyceritol, Glycerol, Glycyl Alcohol, Glyrol, Glysanin, Propane-1,2,3-triol, Propanetriol, Trihydroxypropane"
+        ]
+    }
+}

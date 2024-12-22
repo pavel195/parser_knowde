@@ -1,0 +1,33 @@
+{
+    "id": 332063,
+    "brand": "entero-chronic",
+    "name": "CONDROVET® for Puppies",
+    "slug": "condrovet-for-puppies",
+    "description": "CONDROVET® for Puppies is a dietary supplement recommended to provide nourishment for growing joints, particularly for large dog breeds. Chondroitin sulfate is a fundamental component of joint cartilage and helps to maintain joint function and mobility.",
+    "company_name": "Bioiberica",
+    "company_slug": "bioiberica",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708531925/production/Brand/24350/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608173/production/CategoryImage/547/category_image/AgricultureFeed_03.jpg",
+    "properties": {
+        "Applications": [
+            "Pets",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Feed Supplements",
+            "Nutritional Ingredients"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Chondroitin Sulfate"
+        ],
+        "Animal Species": [
+            "Pets",
+            "Dogs"
+        ],
+        "Features": [
+            "Improves Growth Performance"
+        ]
+    }
+}

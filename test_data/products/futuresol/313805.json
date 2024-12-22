@@ -1,0 +1,32 @@
+{
+    "id": 313805,
+    "brand": "futuresol",
+    "name": "FUTURESOL® MME",
+    "slug": "futuresol-mme",
+    "description": "FutureSol® MME is produced from a mixture of renewable triglyceride feedstocks. The material is refined by distillation to provide a product free of particulates and insoluble matter.",
+    "company_name": "Future Fuel Corp.",
+    "company_slug": "future-fuel-corp",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1683728650/production/Product/313805/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Institutional & Industrial Care",
+            "Industrial Cleaning",
+            "Other Paints & Coatings Applications",
+            "Chemical & Industrial Manufacturing",
+            "Other Industrial Applications",
+            "Fluids & Lubricants"
+        ],
+        "Product Families": [
+            "Solvents",
+            "Esters"
+        ],
+        "Chemical Family": [
+            "Esters"
+        ],
+        "End Uses": [
+            "Cleaning Agent"
+        ]
+    },
+    "summary": {}
+}

@@ -1,0 +1,41 @@
+{
+    "id": 301449,
+    "brand": "peplpet",
+    "name": "PEPLPET F096H",
+    "slug": "peplpet-f096h",
+    "description": "PEPLPET F096H is a film grade Resin.",
+    "company_name": "Pearl Engineering",
+    "company_slug": "pearl-engineering",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1697223424/production/Company/24289/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609117/production/CategoryImage/596/category_image/PrintingPackaging_07.jpg",
+    "properties": {
+        "Applications": [
+            "Food & Beverage Packaging",
+            "Industrial & Transport Packaging",
+            "Food Films & Packaging",
+            "Other Agricultural Films",
+            "Agricultural Films",
+            "Flexible Packaging",
+            "Packaging"
+        ],
+        "Product Families": [
+            "Parts, Shapes & Films"
+        ],
+        "Chemical Family": [
+            "Polyesters",
+            "Polyethylene Terephthalate (PET)"
+        ],
+        "Polymer Name": [
+            "Polyethylene Terephthalate (PET)"
+        ],
+        "End Uses": [
+            "Film",
+            "Stretch Films"
+        ]
+    },
+    "summary": {
+        "Density": [
+            "1330.0 - 1350.0 kg/m³"
+        ]
+    }
+}

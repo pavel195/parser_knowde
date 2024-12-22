@@ -1,0 +1,41 @@
+{
+    "id": 93294,
+    "brand": "emulgen",
+    "name": "FARMIN® DM 2098",
+    "slug": "farmin-dm-2098",
+    "description": "FARMIN® DM 2098 is used in starting materials for cationic and amphoteric surfactants, germicides &amp; bactericides, leveling agents, wood preservatives, oil recovery agents, amine oxide, corrosion inhibitors, hair care ingredients is used in.",
+    "company_name": "Kao Chemicals",
+    "company_slug": "kao-chemicals",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704106767/production/Company/1283/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1704106767/production/Company/1283/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Chemical Manufacturing",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Amines",
+            "Intermediates"
+        ],
+        "Chemical Family": [
+            "Amines"
+        ],
+        "End Uses": [
+            "Surfactants"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Dodecyldimethylamine"
+        ],
+        "CAS Number": [
+            "112-18-5"
+        ],
+        "Chemical Family": [
+            "Amines"
+        ],
+        "Synonyms": [
+            "(Dimethylamino)dodecane, 1-Dimethylaminododecane, Antioxidant DDA, DDA, Lauryldimethylamine, Monolauryl dimethylamine, N-Dodecyl-N,N-dimethylamine, N-Dodecyldimethylamine, N-Lauryldimethylamine, N,N-Dimethyl-1-dodecanamine, N,N-Dimethyl-n-dodecylamine, N,N-Dimethyldodecylamine, N,N-Dimethyllaurylamine, NSC 7332"
+        ]
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "id": 322098,
+    "brand": "akulon",
+    "name": "Arnitel® HT8027",
+    "slug": "arnitel-ht8027",
+    "description": "Arnitel® HT8027 is a high-performance thermoplastic copolyester (TPC) known for its exceptional combination of flexibility, high temperature resistance, and strength, complemented by excellent processing characteristics. In industries spanning from automotive to E&amp;E, it is gaining prominence as a more sustainable and efficient alternative to traditional rubbers, leading to reduced environmental impact and lower system costs. This material can be processed using both blow molding and extrusion technologies and is notable for its heat-resistant properties, making it well-suited for demanding applications.",
+    "company_name": "Envalior",
+    "company_slug": "envalior",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708529617/production/Company/30097/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708529617/production/Company/30097/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Cooling & Climate",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Thermoplastic Polyester Elastomers (TPE-E)",
+            "Thermoplastic Elastomers"
+        ],
+        "Chemical Family": [
+            "Polyesters"
+        ],
+        "Polymer Name": [
+            "Thermoplastic Copolyester Elastomer (TPC-ET)"
+        ],
+        "End Uses": [
+            "Air Ducts"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Thermoplastic Copolyester Elastomer (TPC-ET)"
+        ],
+        "Processing Methods": [
+            "Extrusion",
+            "Blow Molding"
+        ],
+        "End Uses": [
+            "Air Ducts"
+        ],
+        "Density": [
+            "1270.0 - 1270.0 kg/m³"
+        ],
+        "Strain at Break": [
+            "630.0 - 630.0 %"
+        ],
+        "Flexural Modulus": [
+            "305.0 - 305.0 MPa"
+        ]
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "id": 511190,
+    "brand": "glycomega",
+    "name": "Pharm-Rx Tauroursodeoxycholic Acid Sodium",
+    "slug": "pharm-rx-chemical-corp-tauroursodeoxycholic-acid-sodium",
+    "description": null,
+    "company_name": "Pharm-Rx Chemical Corp.",
+    "company_slug": "pharm-rx",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto/v1724133389/production/Company/102900/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1724133389/production/Company/102900/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Nutraceuticals & Supplements",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Supplements & Functional Ingredients",
+            "Functional Ingredients",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "Ingredient Name": [
+            "Tudca Powder"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Tudca Powder"
+        ]
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "id": 313797,
+    "brand": "futuresol",
+    "name": "FUTURESOL® EG LiSIP",
+    "slug": "futuresol-eg-lisip",
+    "description": "FUTURESOL® EG LiSIP is a clear to yellow liquid used as an additive in polyester and polyamide applications.",
+    "company_name": "Future Fuel Corp.",
+    "company_slug": "future-fuel-corp",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704100278/production/Product/313797/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Textile Manufacturing",
+            "Chemical Manufacturing",
+            "Other Industrial Applications",
+            "Other Textile Applications",
+            "Chemical & Industrial Manufacturing",
+            "Textiles & Nonwovens",
+            "Leather & Textiles"
+        ],
+        "Product Families": [
+            "Other Monomers & Oligomers",
+            "Monomers & Oligomers"
+        ],
+        "Chemical Family": [
+            "Unsaturated Polyester (UPE)",
+            "Isophthalics"
+        ],
+        "End Uses": [
+            "Polyester",
+            "Polyamide"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "1,3-Benzenedicarboxylic Acid, 5-sulfo-, 1,3-bis(2- hydroxyethyl) Ester, Lithium Salt (1:1)"
+        ],
+        "CAS Number": [
+            "150099-94-8"
+        ],
+        "Chemical Family": [
+            "Isophthalics",
+            "Unsaturated Polyester (UPE)"
+        ],
+        "Molecular Weight": [
+            "340.23 - 340.23 g/mol"
+        ],
+        "Labeling Claims": [
+            "Odor-free"
+        ]
+    }
+}

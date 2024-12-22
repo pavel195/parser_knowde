@@ -22,12 +22,14 @@ def test_parser(limit: int = 100):
     Args:
         limit: Максимальное количество брендов для тестирования
     """
-    # Создаем тестовую директорию
+    # Создаем тестовые директории
     test_dir = Path("test_data")
+    brands_dir = test_dir / "brands"
     test_dir.mkdir(exist_ok=True)
+    brands_dir.mkdir(exist_ok=True)
     
-    # Инициализируем хранилище для тестовых данных
-    storage = BrandStorage(data_dir=str(test_dir))
+    # Инициализируем хранилище для тестовых данных брендов
+    storage = BrandStorage(data_dir=str(brands_dir))
     
     try:
         # Авторизация
@@ -80,7 +82,7 @@ def test_parser(limit: int = 100):
         
         print(f"\nНайдено {len(brand_links)} ссылок на бренды")
         
-        # Получаем и сохраняем JSON данные
+        # Получаем и сохраняем JSON данные брендов
         print("\nПолучаем JSON данные брендов...")
         successful = 0
         failed = 0
@@ -92,6 +94,7 @@ def test_parser(limit: int = 100):
                 
                 if json_data:
                     brand_name = brand_url.split('/')[-1]
+                    # Сохраняем в директорию brands
                     storage.save_brand_data(brand_name, json_data)
                     successful += 1
                     print("Данные сохранены успешно")
@@ -113,9 +116,10 @@ def test_parser(limit: int = 100):
         print(f"Ошибок: {failed}")
         
         # Проверяем сохраненные файлы
-        files = list(test_dir.glob('*.json'))
-        total_size = sum(f.stat().st_size for f in files)
-        print(f"Сохранено файлов: {len(files)}")
+        brand_files = list(brands_dir.glob('*.json'))
+        total_size = sum(f.stat().st_size for f in brand_files)
+        print(f"\nСтатистика файлов:")
+        print(f"Сохранено файлов брендов: {len(brand_files)}")
         print(f"Общий размер данных: {total_size / 1024 / 1024:.2f} MB")
         
     except Exception as e:

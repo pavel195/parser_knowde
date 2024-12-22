@@ -1,0 +1,46 @@
+{
+    "id": 253540,
+    "brand": "anthem",
+    "name": "Topogard®",
+    "slug": "topogard",
+    "description": "350 g/litre terbutryn plus 150 g/litre terbuthylazine Glyphosate as the isopropylamine salt 360 g/litreFor the selective post-emergent control of annual broadleaf weeds in peas and potatoes.",
+    "company_name": "Orion Agroscience",
+    "company_slug": "orion-agroscience",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708683575/production/Company/19294/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708683575/production/Company/19294/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Vegetables",
+            "Agricultural Pest Control",
+            "Sugar & Starch Crops",
+            "Legumes",
+            "Agricultural Crops",
+            "Pest Control"
+        ],
+        "Product Families": [
+            "Herbicides",
+            "Crop Protection & Pest Control"
+        ],
+        "Chemical Family": [
+            "Triazines"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Herbicide"
+        ],
+        "Herbicide Target Species": [
+            "Broadleafs"
+        ],
+        "HRAC/WSSA Group": [
+            "5"
+        ],
+        "Application Technique": [
+            "Sprayers",
+            "Post-Emergence"
+        ],
+        "Formulation Type": [
+            "Suspension Concentrates "
+        ]
+    }
+}

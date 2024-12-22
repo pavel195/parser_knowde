@@ -1,0 +1,48 @@
+{
+    "id": 259422,
+    "brand": "technirez",
+    "name": "Resicure® EMI-24",
+    "slug": "resicure-emi-24",
+    "description": "Resicure® EMI-24 is commonly used as a sole curing agent or as a dicy and anhydride cure accelerator in epoxy resin based formulations. Typical loading level as a sole curing agent is about 1-5 phr and as a dicy and anhydride cure accelerator is about 0.5 – 3.0 phr. Resicure EMI-24 LV is a lower viscosity version of Resicure EMI-24.",
+    "company_name": "A&C Catalysts",
+    "company_slug": "a-c-catalysts",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708673487/production/Company/20521/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608760/production/CategoryImage/576/category_image/AutomotiveTransportation_04.jpg",
+    "properties": {
+        "Applications": [
+            "Electronics Adhesives",
+            "Adhesives & Sealants",
+            "Appliances & Electronics",
+            "Aerospace & Aviation",
+            "Industrial & Assembly Adhesives",
+            "Transportation",
+            "Packaging & Assembly"
+        ],
+        "Product Families": [
+            "Chain Extenders & Crosslinkers",
+            "Functional Additives",
+            "Additives",
+            "Monomers & Intermediates"
+        ],
+        "Chemical Family": [
+            "Amines"
+        ],
+        "End Uses": [
+            "1K (1 Component) Adhesive"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Curing Agent"
+        ],
+        "Chemical Family": [
+            "Amines"
+        ],
+        "Compatible Polymers & Resins": [
+            "Epoxies (EP)"
+        ],
+        "Features": [
+            "Chemical Resistance"
+        ]
+    }
+}

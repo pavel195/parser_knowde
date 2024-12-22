@@ -1,0 +1,68 @@
+{
+    "id": 394771,
+    "brand": "ecoagra",
+    "name": "ecoClean™",
+    "slug": "ecoclean",
+    "description": "ecoClean™ is formulated from 100% bio-based ingredients to make a highly concentrated colloidal cleaner/degreaser. This efficient cleaner uses the power of nanotechnology and colloidal micelles to tackle the most challenging cleaning situations. One gallon of eC16 makes 16 gallons of RTU medium-purpose cleaner. eC16 is an extremely effective cleaning solution, capable of removing all hydro-carbon soils (petroleum derivatives, fats, oils, greases, lipids, proteins, and sugars). eC16 is safe for use on any surface including metal, vinyl, aluminum, fabrics, rubber, painted surfaces, leather, etc.",
+    "company_name": "ecoSolv Technologies",
+    "company_slug": "ecosolv-technologies",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1682593040/production/Company/49368/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608224/production/CategoryImage/551/category_image/AgricultureFeed_07.jpg",
+    "properties": {
+        "Applications": [
+            "Institutional & Industrial Care",
+            "Laundry & Fabric Care",
+            "Surface Care",
+            "Industrial Cleaning",
+            "Institutional & Catering",
+            "Vehicle & Machinery",
+            "Home Care"
+        ],
+        "Product Families": [
+            "Industrial Cleaners",
+            "Commercial Cleaners",
+            "Cleaners"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Cleaner",
+            "Degreasers",
+            "Stain Removers"
+        ],
+        "Certifications & Compliance": [
+            "NSF Approved",
+            "USDA Certified",
+            "Occupational Safety & Health Administration (OSHA)"
+        ],
+        "Application Area": [
+            "Machine Parts",
+            "Furniture",
+            "Carpets",
+            "Wall",
+            "Equipment",
+            "Ovens",
+            "Floor",
+            "Coils"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Metal",
+            "Elastomers & Rubbers",
+            "Vinyl",
+            "Concrete",
+            "Glass",
+            "Wood",
+            "Tile",
+            "Aluminum",
+            "Stainless Steel",
+            "Fibers & Fabrics",
+            "Grout",
+            "Painted Surfaces"
+        ],
+        "Features": [
+            "Degreasing",
+            "Low Foaming",
+            "Heavy Duty"
+        ]
+    }
+}

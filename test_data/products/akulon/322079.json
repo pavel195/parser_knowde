@@ -1,0 +1,100 @@
+{
+    "id": 322079,
+    "brand": "akulon",
+    "name": "Arnitel® EM400",
+    "slug": "arnitel-em400",
+    "description": "Arnitel® EM400 is a high-performance thermoplastic copolyester (TPC) recognized for its exceptional blend of flexibility, high temperature resistance, and strength, complemented by outstanding processing characteristics. In various industries, from automotive to E&amp;E, it is gaining popularity as a more sustainable and efficient alternative to traditional rubbers, resulting in reduced environmental impact and lower system costs. This material can be processed using extrusion and injection molding technologies, including film extrusion, and meets the requirements for food contact quality.",
+    "company_name": "Envalior",
+    "company_slug": "envalior",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708530863/production/Company/30097/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708530863/production/Company/30097/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Industrial Automation",
+            "Exterior & Body",
+            "Cooling & Climate",
+            "Other Industrial Applications",
+            "Equipment & Parts",
+            "Belts & Conveyers",
+            "Housings & Enclosures",
+            "Consumer Electronics",
+            "Sports & Recreation",
+            "Other Consumer Goods Applications",
+            "Housewares",
+            "Furniture",
+            "Appliances & Electronics",
+            "Rail & Mass Transit",
+            "Automotive",
+            "Transportation",
+            "Devices & Assemblies",
+            "Parts & Components",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Thermoplastic Polyester Elastomers (TPE-E)",
+            "Thermoplastic Elastomers"
+        ],
+        "Chemical Family": [
+            "Polyesters"
+        ],
+        "Polymer Name": [
+            "Thermoplastic Copolyester Elastomer (TPC-ET)"
+        ],
+        "End Uses": [
+            "Robotics",
+            "Boilers",
+            "Air Suspension Boots",
+            "Screw Drivers",
+            "Plyers",
+            "Cooling Hoses",
+            "Radiator",
+            "Railway Pads",
+            "Chair Carriers",
+            "Seating Suspension Fabrics",
+            "Wine Taps",
+            "Support Springs",
+            "Arnitel Spring In Monitor Arm",
+            "Knobs",
+            "Kitchenware",
+            "Flexible Grips",
+            "Electronic Accessory Cases",
+            "Conveyors"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "Thermoplastic Copolyester Elastomer (TPC-ET)"
+        ],
+        "Processing Methods": [
+            "Injection Molding",
+            "Film Extrusion",
+            "Extrusion"
+        ],
+        "End Uses": [
+            "Railway Pads",
+            "Conveyors",
+            "Air Suspension Boots",
+            "Kitchenware",
+            "Plyers",
+            "Support Springs",
+            "Arnitel Spring In Monitor Arm",
+            "Robotics",
+            "Radiator",
+            "Seating Suspension Fabrics",
+            "Wine Taps",
+            "Boilers",
+            "Chair Carriers",
+            "Flexible Grips",
+            "Knobs",
+            "Electronic Accessory Cases",
+            "Cooling Hoses",
+            "Screw Drivers"
+        ],
+        "Density": [
+            "1110.0 - 1110.0 kg/m³"
+        ],
+        "Strain at Break": [
+            "825.0 - 825.0 %"
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "id": 406798,
+    "brand": "rugged",
+    "name": "RUGGED™ Drip Oil",
+    "slug": "rugged-drip-oil",
+    "description": "RUGGED™ Drip Oil is a light colored premium anti-wear oil made from paraffin distillate stocks with excellent stability. In addition to the effective anti-wear additives, it is rust and oxidation inhibited and contains a select anti-foam additive. RUGGED Drip Oil has a natural high viscosity index and a low pour point to accommodate the most severe of temperature ranges.",
+    "company_name": "Colorado Petroleum Products",
+    "company_slug": "colorado-petroleum-products",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680109072/production/Brand/31358/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical & Industrial Manufacturing",
+            "Equipment & Parts"
+        ],
+        "Product Families": [
+            "Lubricants & Oils",
+            "Fluids & Lubricants"
+        ],
+        "Chemical Family": [
+            "Very High Viscosity Index Oils (VHVI)"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Oil"
+        ],
+        "Features": [
+            "High Viscosity Index",
+            "Good Stability",
+            "Oxidation Resistant",
+            "Corrosion Resistant",
+            "Wide Temperature Operating Range"
+        ],
+        "Chemical Family": [
+            "Very High Viscosity Index Oils (VHVI)"
+        ]
+    }
+}

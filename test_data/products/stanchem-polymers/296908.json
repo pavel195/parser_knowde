@@ -1,0 +1,39 @@
+{
+    "id": 296908,
+    "brand": "stanchem-polymers",
+    "name": "Deltech Monomers para-tertiary-Butyl Styrene (TBS)",
+    "slug": "deltech-monomers-para-tertiary-butyl-styrene-tbs",
+    "description": "Deltech para-tertiary-butyl Styrene (TBS) is a versatile substitute for styrene monomer, offering improved properties and fewer handling restrictions. It exhibits low volume shrinkage during polymerization, a high affinity for oils, high solvent receptivity, and improved water resistance in copolymers. From an environmental perspective, TBS has a low vapor pressure and high flash point, reducing emissions from storage or handling and minimizing the flammability hazard. Moreover, its low volatility decreases monomer fumes in the workplace, and it is not classified as a listed air toxic, thus avoiding many environmental use requirements.",
+    "company_name": "Deltech",
+    "company_slug": "deltech",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1693229973/production/Product/296908/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608311/production/CategoryImage/553/category_image/Industrial_01.jpg",
+    "properties": {
+        "Applications": [
+            "Chemical Manufacturing",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Styrenics",
+            "Monomers & Oligomers"
+        ],
+        "Chemical Family": [
+            "Styrenics"
+        ],
+        "End Uses": [
+            "Hydrocarbon Resins",
+            "Unsaturated Polyesters",
+            "Polyester"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "3-tert-butyl-styrene",
+            "(1,1-Dimethylethyl)ethylbenzene",
+            "4-tert-Butylstyrene"
+        ],
+        "Chemical Family": [
+            "Styrenics"
+        ]
+    }
+}

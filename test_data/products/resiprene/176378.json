@@ -1,0 +1,45 @@
+{
+    "id": 176378,
+    "brand": "resiprene",
+    "name": "Resirene® 6470",
+    "slug": "resirene-6470",
+    "description": "Resirene® 6470 by Resirene is comprised of High Impact Polystyrene. It is commonly used Resirene® 6470 is certified as UL Flame Rated. It is available in Granules form.",
+    "company_name": "Resirene",
+    "company_slug": "resirene",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708518990/production/Company/4435/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607988/production/CategoryImage/537/category_image/HomePersonalCare_03.jpg",
+    "properties": {
+        "Applications": [
+            "Food & Beverage Packaging",
+            "Packaging"
+        ],
+        "Product Families": [
+            "Styrenics",
+            "Basic Thermoplastics"
+        ],
+        "Chemical Family": [
+            "Styrenics",
+            "High-Impact Polystyrene (HIPS)"
+        ],
+        "Polymer Name": [
+            "High Impact Polystyrene (HIPS)"
+        ],
+        "End Uses": [
+            "Thermoformed Trays",
+            "Thermoformed Cups",
+            "Side Spoiler",
+            "Front Spoiler"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "High Impact Polystyrene (HIPS)"
+        ],
+        "Processing Methods": [
+            "Thermoforming"
+        ],
+        "Melt Flow Index": [
+            "3.0 - 3.0 g/10 min"
+        ]
+    }
+}

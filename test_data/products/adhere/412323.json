@@ -1,0 +1,32 @@
+{
+    "id": 412323,
+    "brand": "adhere",
+    "name": "IntraCrop KPA-R100",
+    "slug": "intracrop-kpa-r100",
+    "description": "KPA-R100 is designed to be applied to arable and fruit crops to supplement potassium levels at key times. Potassium is involved in many critical processes, including sugar transport, carbohydrate metabolism, turgor pressure and stomatal opening. Pidolic acid has a significant biostimulant effect on root and shoot development comparable to phosphite. It helps maximize growth in optimum conditions and when the crop is under abiotic stress. R100 boosts foliar nutrient uptake and increases cytokinin levels in tissues to stimulate growth.",
+    "company_name": "IntraCrop",
+    "company_slug": "intracrop",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708683835/production/Company/54991/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608150/production/CategoryImage/545/category_image/AgricultureFeed_01.jpg",
+    "properties": {
+        "Applications": [
+            "Oilseeds",
+            "Fodder & Forage",
+            "Cereals",
+            "Fruits",
+            "Agricultural Crops"
+        ],
+        "Product Families": [
+            "Other Plant Health, Nutrients & Soil Management Products",
+            "Plant Health, Nutrients & Soil Management"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Growth Stimulant"
+        ],
+        "Application Technique": [
+            "Foliage Applied"
+        ]
+    }
+}

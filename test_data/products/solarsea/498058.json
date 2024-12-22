@@ -1,0 +1,82 @@
+{
+    "id": 498058,
+    "brand": "solarsea",
+    "name": "SolarSea® AC",
+    "slug": "solarsea-ac",
+    "description": "SolarSea® AC is a high-potency, standardized natural mineral and trace mineral complex. This product is presented in a very fine powder form and is free from additives. As a pure mineral blend, it exhibits high hygroscopicity and deliquescence properties. SolarSea® AC is carefully formulated to include ideal ratios of beneficial minerals, all while enabling your product to meet the criteria for a low-sodium claim.",
+    "company_name": "Mineral Resources International",
+    "company_slug": "mineral-resources-international",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1714167206/production/Company/35216/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1714167206/production/Product/498058/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Nutraceuticals & Supplements",
+            "Functional Foods",
+            "Nutrition & Well Being"
+        ],
+        "Product Families": [
+            "Minerals",
+            "Nutrition & Fortification",
+            "Nutraceuticals & Supplements"
+        ],
+        "End Uses": [
+            "Nutritional Bars",
+            "Functional Foods"
+        ],
+        "Labeling Claims": [
+            "Halal",
+            "Kosher",
+            "Vegan",
+            "Herbicide-free",
+            "Pesticide-free",
+            "Preservative-free",
+            "Colorants-free",
+            "Solvent-free",
+            "Not Tested on Animals",
+            "Gluten-free",
+            "Irradiation-free",
+            "Non-GMO",
+            "Ethylene Oxide-free",
+            "GMO-free",
+            "Allergen-free",
+            "Natural",
+            "Additive-free"
+        ]
+    },
+    "summary": {
+        "Mineral Type": [
+            "Magnesium",
+            "Sodium",
+            "Potassium",
+            "Chloride"
+        ],
+        "Functions": [
+            "Mineral Source",
+            "Supplement"
+        ],
+        "Labeling Claims": [
+            "Additive-free",
+            "Non-GMO",
+            "Irradiation-free",
+            "Not Tested on Animals",
+            "Halal",
+            "Ethylene Oxide-free",
+            "Allergen-free",
+            "Colorants-free",
+            "Solvent-free",
+            "Kosher",
+            "Vegan",
+            "Natural",
+            "Preservative-free",
+            "GMO-free",
+            "Herbicide-free",
+            "Gluten-free",
+            "Pesticide-free"
+        ],
+        "Features": [
+            "Low Sodium",
+            "Hygroscopic",
+            "Sewage Sludge Free"
+        ]
+    }
+}

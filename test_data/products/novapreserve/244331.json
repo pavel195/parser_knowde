@@ -1,0 +1,65 @@
+{
+    "id": 244331,
+    "brand": "novapreserve",
+    "name": "Novaguard PCS",
+    "slug": "novaguard-pcs",
+    "description": "NOVAGUARD PCS can be used in a variety of cosmetic formulations. Due to the contained sorbic acid, NOVAGUARD PCS performs best in formulations with a slightly acidic pH value (pH 6 or below). This product is effective as a stand alone system and functions well with other preservatives. NOVAGUARD PCS is free if parabens, organic helogens, formaldehyde and formaldehyde donors. This product functions particularly well in slightly acidic formulations, and is globally approved. Consisting of Phe- noxyethanol (an aromatic ether alcohol), Sorbic Acid (a natural acid that offers protection from yeast, fungus and mold) and Caprylyl Glycol (an emollient base). NOVAGUARD PCS consisits of an active blend of Phenoxyeth- anol,Caprylyl Glycol and sorbic acid. An additional booster in- creases the broad spectrum activity against micro-organisms.",
+    "company_name": "Novaphene Specialities Pvt Ltd",
+    "company_slug": "novaphene-specialities-pvt-ltd",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708688389/production/Product/244331/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708688389/production/Product/244331/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Wipes, Tissue & Towel",
+            "Bath & Shower",
+            "Hair Care",
+            "Skin Care",
+            "Beauty & Care",
+            "Personal Hygiene"
+        ],
+        "Product Families": [
+            "Antioxidants & Preservatives",
+            "Functionals"
+        ],
+        "INCI Name": [
+            "Sorbic Acid",
+            "Caprylyl Glycol",
+            "Phenoxyethanol"
+        ],
+        "End Uses": [
+            "Face Wash",
+            "Hair Conditioner",
+            "Shampoos & Rinses",
+            "Body Wash",
+            "Wet Wipes",
+            "Skin Gel",
+            "Body Lotion",
+            "Body Cream"
+        ]
+    },
+    "summary": {
+        "INCI Name": [
+            "Caprylyl Glycol",
+            "Sorbic Acid",
+            "Phenoxyethanol"
+        ],
+        "Functions": [
+            "Anti-Microbial Agent"
+        ],
+        "Benefit Claims": [
+            "Compatibility",
+            "Emolliency",
+            "Thermal Stability",
+            "Antimicrobial"
+        ],
+        "Labeling Claims": [
+            "Paraben-free",
+            "Halogen-free",
+            "Formaldehyde-free",
+            "Isothiazolinone-free",
+            "Credo Clean Standard",
+            "Formaldehyde releasing substances-free",
+            "Ulta Beauty's Conscious Beauty"
+        ]
+    }
+}

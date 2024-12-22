@@ -1,0 +1,50 @@
+{
+    "id": 329801,
+    "brand": "omegaequis",
+    "name": "OmegaEquis® Fish Oil",
+    "slug": "omegaequis-fish-oil",
+    "description": "OmegaEquis® fish oil is a highly-refined long-chain omega-3 fish oil specifically formulated as a feed ingredient or as a supplement to the horse’s daily diet. It is is flavor enhanced to encourage palatability and feed intake. Our menhaden fish oil contains 34% total omega-3 fatty acids with a balanced concentration of EPA and DHA. This highly refined fish oil is alkali refined to reduce free fatty acids, bleached to reduce color and remove oxidative precursors, and then fractioned to produce a clear, fluid liquid. The final step of refining sets OmegaEquis® fish oil apart by adding a fruity flavor horses love.",
+    "company_name": "Omega Protein",
+    "company_slug": "omega-protein",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708687406/production/Brand/23811/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608200/production/CategoryImage/549/category_image/AgricultureFeed_05.jpg",
+    "properties": {
+        "Applications": [
+            "Other Animal Health & Nutrition",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Fats & Oils",
+            "Nutritional Ingredients"
+        ],
+        "Chemical Family": [
+            "Fatty Acids",
+            "Fish Oils & Lipids"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Fish Oil"
+        ],
+        "Features": [
+            "Rich In Omega 3 Fatty Acids",
+            "Improve Feed Palatability ",
+            "Improves Bone Growth & Strength",
+            "Improves Feed Intake",
+            "Improves Performance"
+        ],
+        "Functions": [
+            "Fat & Oil"
+        ],
+        "Labeling Claims": [
+            "Natural",
+            "Sustainable",
+            "Naturally Derived"
+        ],
+        "Certifications & Compliance": [
+            "AFIA International Safe Feed/Safe Food",
+            "GMP",
+            "Hazard Analysis Critical Control Point (HACCP)"
+        ]
+    }
+}

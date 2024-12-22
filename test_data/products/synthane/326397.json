@@ -1,0 +1,56 @@
+{
+    "id": 326397,
+    "brand": "synthane",
+    "name": "Accuapur 4502",
+    "slug": "accuapur-4502",
+    "description": "ACCUAPUR 4502 aliphatic polyurethane aqueous dispersion, polyether base and solvent free.",
+    "company_name": "Synthecoat",
+    "company_slug": "synthecoat",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708687793/production/Company/31011/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608600/production/CategoryImage/568/category_image/PaintingsCoatings_04.jpg",
+    "properties": {
+        "Applications": [
+            "Leather Manufacturing",
+            "Textile Manufacturing",
+            "Other Printing Applications",
+            "Wood Coatings & Finishes",
+            "Other Building & Construction Applications",
+            "Other Adhesives & Sealants Applications",
+            "Textiles & Nonwovens",
+            "Building & Construction",
+            "Printing & Inks",
+            "Leather & Textiles"
+        ],
+        "Product Families": [
+            "Finishing Additives & Treatments",
+            "Polyurethanes (PU)",
+            "Functional Additives",
+            "Additives",
+            "Resins & Binders",
+            "Textile & Leather Chemicals"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ],
+        "End Uses": [
+            "Textiles",
+            "Leather"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Coupling Agent",
+            "Binder & Resin",
+            "Adhesion Promoter"
+        ],
+        "Chemical Family": [
+            "Polyurethanes (PU)"
+        ],
+        "Labeling Claims": [
+            "Solvent-free"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Wood"
+        ]
+    }
+}

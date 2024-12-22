@@ -1,0 +1,48 @@
+{
+    "id": 330295,
+    "brand": "prevasyn",
+    "name": "FLORADUO® B",
+    "slug": "floraduo-b",
+    "description": "FloraDuo® B is part of FloraDuo®, an easy to use two-part fertilizer. With only two bottles, it is possible to obtain a large range of different nutrient blends to meet the needs of all plants through every phase, from seedling through harvest. The ratios of nutrients adjust as you mix in different amounts of A and B, thus tailoring your nutrient blends to meet your plants needs. FloraDuo can be used for all plants in hydroponics, prepared soil mixes, coco blends and garden soils.",
+    "company_name": "General Hydroponics",
+    "company_slug": "general-hydroponics",
+    "logo_url": null,
+    "banner_url": "https://media.knowde.com/image/upload/v1625608200/production/CategoryImage/549/category_image/AgricultureFeed_05.jpg",
+    "properties": {
+        "Applications": [
+            "Ornamentals",
+            "Fiber Crops",
+            "Other Agricultural Crops",
+            "Herbs & Spice Crops",
+            "Vegetables",
+            "Fruits",
+            "Agricultural Crops",
+            "Turf, Ornamentals & Landscape"
+        ],
+        "Product Families": [
+            "Fertilizers & Nutrients",
+            "Plant Health, Nutrients & Soil Management"
+        ],
+        "Chemical Family": [
+            "Sulfur-based Compounds",
+            "Potassium Salts",
+            "Magnesium & Magnesium Compounds",
+            "Ammonium Compounds"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Fertilizer"
+        ],
+        "Chemical Family": [
+            "Sulfur-based Compounds",
+            "Magnesium & Magnesium Compounds",
+            "Potassium Salts",
+            "Ammonium Compounds"
+        ],
+        "Application Technique": [
+            "Hydroponics",
+            "Ground Soil Applied"
+        ]
+    }
+}

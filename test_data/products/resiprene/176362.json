@@ -1,0 +1,43 @@
+{
+    "id": 176362,
+    "brand": "resiprene",
+    "name": "Resirene® HF 777",
+    "slug": "resirene-hf-777",
+    "description": "Resirene® HF 777 by Resirene is comprised of General Purpose Polystyrene. It is commonly used Resirene® HF 777 is certified as UL Flame Rated. It is available in Granules form.",
+    "company_name": "Resirene",
+    "company_slug": "resirene",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708525883/production/Company/4435/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625607988/production/CategoryImage/537/category_image/HomePersonalCare_03.jpg",
+    "properties": {
+        "Applications": [
+            "Sports & Recreation",
+            "Housewares"
+        ],
+        "Product Families": [
+            "Styrenics",
+            "Basic Thermoplastics"
+        ],
+        "Chemical Family": [
+            "Styrenics"
+        ],
+        "Polymer Name": [
+            "General Purpose Polystyrene (GPPS)"
+        ],
+        "End Uses": [
+            "Cookware",
+            "Toys"
+        ]
+    },
+    "summary": {
+        "Polymer Name": [
+            "General Purpose Polystyrene (GPPS)"
+        ],
+        "Processing Methods": [
+            "Injection Molding",
+            "Coextrusion"
+        ],
+        "Melt Flow Index": [
+            "8.0 - 8.0 g/10 min"
+        ]
+    }
+}

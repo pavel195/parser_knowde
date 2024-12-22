@@ -1,0 +1,41 @@
+{
+    "id": 359153,
+    "brand": "scigrip",
+    "name": "SCIGRIP® SG200-10",
+    "slug": "scigrip-sg200-10",
+    "description": "SCIGRIP® SG200-10 Methacrylate Adhesives are two-component, 10:1 mix ratio products for bonding composites, thermoplastics1 , metals2 and combinations thereof. Minimal surface preparation1, 2 combined with a choice of 10, 20 and 40 minute working times, provide reduced labor and production cycle time. These products are widely used for marine, transportation and general plastic bonding applications. Packaging options include 490 ml cartridges and 5 and 50 gallon (19 and 189 liters) in bulk containers for application with meter-mix dispense equipment.",
+    "company_name": "SCIGRIP Adhesives",
+    "company_slug": "scigrip-adhesives",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664291096/production/Brand/26826/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608730/production/CategoryImage/574/category_image/AutomotiveTransportation_02.jpg",
+    "properties": {
+        "Applications": [
+            "Marine",
+            "Other Transportation Applications",
+            "Transportation"
+        ],
+        "Product Families": [
+            "Structural Adhesives",
+            "Adhesives & Sealants"
+        ],
+        "Chemical Family": [
+            "Methacrylates"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Structural Adhesive",
+            "2K (2 component) Adhesive"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Aluminum",
+            "Metal",
+            "Coated Surfaces",
+            "Steel",
+            "Composites"
+        ],
+        "Chemical Family": [
+            "Methacrylates"
+        ]
+    }
+}

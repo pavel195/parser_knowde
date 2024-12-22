@@ -1,0 +1,52 @@
+{
+    "id": 385006,
+    "brand": "flav-r-bites",
+    "name": "CII Texturized Plant-Proteins (TPP)",
+    "slug": "cii-texturized-plant-proteins-tpp",
+    "description": "Texturized Plant-Based Proteins – TPP is a texturized &amp; extruded dry plant based protein particulate used in meat-free burgers, nuggets, etc.\r\n",
+    "company_name": "CII",
+    "company_slug": "cii",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686635156/production/Company/21217/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608224/production/CategoryImage/551/category_image/AgricultureFeed_07.jpg",
+    "properties": {
+        "Applications": [
+            "Food",
+            "Convenience Foods",
+            "Meat Substitutes"
+        ],
+        "Product Families": [
+            "Nutrition & Fortification",
+            "Whole Foods, Extracts & Premixes",
+            "Plant Proteins",
+            "Proteins & Amino Acids",
+            "Alternates & Replacements"
+        ],
+        "End Uses": [
+            "Burgers & Patty",
+            "Plant-based Meat",
+            "Meat Substitutes"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Plant Protein, Texturized"
+        ],
+        "Ingredient Origin": [
+            "Natural Origin",
+            "Plant Origin"
+        ],
+        "Labeling Claims": [
+            "Non-GMO",
+            "Dairy-free",
+            "Kosher",
+            "Plant-Based",
+            "Gluten-free",
+            "Naturally Derived",
+            "Organic",
+            "Sugar-free"
+        ],
+        "Certifications & Compliance": [
+            "Kosher"
+        ]
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "id": 326395,
+    "brand": "synthane",
+    "name": "Accuacril 2010",
+    "slug": "accuacril-2010",
+    "description": "ACCUACRIL 2010 is self-crosslinking modified acrylic copolymer emulsion. APEO free.",
+    "company_name": "Synthecoat",
+    "company_slug": "synthecoat",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686112280/production/Company/31011/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608600/production/CategoryImage/568/category_image/PaintingsCoatings_04.jpg",
+    "properties": {
+        "Applications": [
+            "Building & Construction",
+            "Industrial Coatings",
+            "Wood Coatings & Finishes",
+            "Other Paints & Coatings Applications"
+        ],
+        "Product Families": [
+            "Resins & Binders",
+            "Acrylics"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ],
+        "End Uses": [
+            "Varnishes"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ],
+        "End Uses": [
+            "Varnishes"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Wood"
+        ],
+        "Features": [
+            "Improved Hardness",
+            "Fast Drying",
+            "Chemical Resistance",
+            "Transparency",
+            "Self Crosslinking"
+        ]
+    }
+}

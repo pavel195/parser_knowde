@@ -1,0 +1,50 @@
+{
+    "id": 216388,
+    "brand": "crestafix",
+    "name": "Texicryl® 13-601",
+    "slug": "scott-bader-texicryl-13-601",
+    "description": "Texicryl® 13-601 is a pure acrylic copolymer emulsion designed for use in both interior and exterior coating applications. It is designed for use in the formulation of solvent free decorative coatings with excellent durability and low dirt pick up. Other applications include artist’s colors and hobby paints.",
+    "company_name": "Scott Bader",
+    "company_slug": "scott-bader",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1625045992/production/Product/216388/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1625685341/production/Product/216388/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Decorative Paints, Coatings & Stains",
+            "Architectural Coatings",
+            "Decorative Paints",
+            "Building Envelope",
+            "Building Materials",
+            "Building & Construction",
+            "Building Envelope & Roofing",
+            "Decorative Materials & Finishes"
+        ],
+        "Product Families": [
+            "Acrylics",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ],
+        "End Uses": [
+            "Waterborne Coating",
+            "Top Coat"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ],
+        "End Uses": [
+            "Top Coat",
+            "Waterborne Coating"
+        ],
+        "Glass Transition Temperature (Tg):": [
+            "8.0 - 8.0 °C"
+        ],
+        "Features": [
+            "High Durability",
+            "Less Dirt Pick Up Potential"
+        ]
+    }
+}

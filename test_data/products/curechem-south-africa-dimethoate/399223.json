@@ -1,0 +1,28 @@
+{
+    "id": 399223,
+    "brand": "curechem-south-africa-dimethoate",
+    "name": "Atrazine 500 gl SC",
+    "slug": "atrazine-500-gl-sc",
+    "description": "Atrazine 500 gl SC is a flowing white/cream suspension concentrate.",
+    "company_name": "Curechem South Africa",
+    "company_slug": "curechem-south-africa",
+    "logo_url": null,
+    "banner_url": "https://media.knowde.com/image/upload/v1625608161/production/CategoryImage/546/category_image/AgricultureFeed_02.jpg",
+    "properties": {
+        "Applications": [
+            "Agricultural Pest Control",
+            "Other Agricultural Crops",
+            "Agricultural Crops",
+            "Pest Control"
+        ],
+        "Product Families": [
+            "Herbicides",
+            "Crop Protection & Pest Control"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Herbicide"
+        ]
+    }
+}

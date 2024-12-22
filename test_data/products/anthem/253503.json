@@ -1,0 +1,46 @@
+{
+    "id": 253503,
+    "brand": "anthem",
+    "name": "Bash™",
+    "slug": "bash",
+    "description": "200 g/litre glufosinate-ammonium 780 g/l alkyl phenol ethoxylate. Also contains 18% 2 - (2 -bytoxyethoxl) ethanol 500g/litre simazine in the form of a suspension concentrate.A non-selective herbicide for the control of a wide range of grasses, broad-leaved weeds and clover.",
+    "company_name": "Orion Agroscience",
+    "company_slug": "orion-agroscience",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708683434/production/Company/19294/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708683434/production/Company/19294/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Vegetables",
+            "Agricultural Pest Control",
+            "Other Agricultural Crops",
+            "Fruits",
+            "Agricultural Crops",
+            "Pest Control"
+        ],
+        "Product Families": [
+            "Herbicides",
+            "Crop Protection & Pest Control"
+        ],
+        "Chemical Family": [
+            "Phosphinic acids"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Herbicide"
+        ],
+        "Herbicide Target Species": [
+            "Grasses",
+            "Broadleafs"
+        ],
+        "HRAC/WSSA Group": [
+            "10"
+        ],
+        "Application Technique": [
+            "Sprayers"
+        ],
+        "Formulation Type": [
+            "Concentrate Solutions"
+        ]
+    }
+}

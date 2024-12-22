@@ -1,0 +1,41 @@
+{
+    "id": 427684,
+    "brand": "sensyn",
+    "name": "Sentinel Canada SL-10924",
+    "slug": "sentinel-canada-sl-10924",
+    "description": "Sentinel CanadaSL-10924 is an advanced lithium-complex, multi-purpose grease. It is an NLGI Grade 2 grease. This unique product is composed of synthetic and natural base fluids. The exceptional additive package contains anti-oxidants and corrosion inhibitors. The benefits of this grease include water resistance.",
+    "company_name": "Sentinel Canada",
+    "company_slug": "sentinel-canada",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1664292906/production/Company/12372/logo/image.png",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608330/production/CategoryImage/555/category_image/Industrial_03.jpg",
+    "properties": {
+        "Applications": [
+            "Lubricants & Functional Fluids",
+            "Automotive Fluids & Lubricants",
+            "Aerospace Fluids & Lubricants",
+            "Military & Defense",
+            "Other Military & Defense Applications"
+        ],
+        "Product Families": [
+            "Fluids & Lubricants",
+            "Greases"
+        ]
+    },
+    "summary": {
+        "Ready to Use Product Type": [
+            "Grease"
+        ],
+        "Application Areas": [
+            "Aerospace Applications"
+        ],
+        "Features": [
+            "Water Resistant",
+            "Oxidation Resistant",
+            "Corrosion Resistant",
+            "Wide Temperature Operating Range"
+        ],
+        "Thickener Type": [
+            "Lithium Complex"
+        ]
+    }
+}

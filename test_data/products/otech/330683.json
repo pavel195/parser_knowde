@@ -1,0 +1,43 @@
+{
+    "id": 330683,
+    "brand": "otech",
+    "name": "OTech Aero",
+    "slug": "otech-aero",
+    "description": "OTech Aero is a particle-free silver conductive ink developed specially for aerosol spray coating. It enables coating of complex 3D objects and non-flat surfaces.OrelTech’s unique process allows the deposition of highly conductive thin metallic films. The thin layers undergo short development using cold plasma treatment resulting in a fine metal structure. OrelTech’s technology enables the deposition of the ink with many different methods and on various substrates, from plastics to fabrics. OTech inks do not contain nanoparticles, and as such enable the material economy of precious metals while being significantly more environmentally friendly than the existing alternatives on the market.",
+    "company_name": "OrelTech",
+    "company_slug": "oreltech",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1691737779/production/Brand/24046/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1691737779/production/Product/330683/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Batteries",
+            "Coated Paper & Paperboard",
+            "Appliances & Electronics",
+            "Apparel",
+            "Aerospace & Aviation",
+            "Interior",
+            "Electrical & Electronic Systems",
+            "Connectors",
+            "Other Devices & Assemblies",
+            "Consumer Electronics",
+            "Automotive Electronics",
+            "Sensors & Actuators",
+            "Cathode Materials",
+            "Anode Materials",
+            "Battery Materials",
+            "Parts & Components",
+            "Paper & Pulp",
+            "Devices & Assemblies",
+            "Transportation",
+            "Automotive"
+        ],
+        "Product Families": [
+            "Functional Inks & Pastes",
+            "Inks & Pastes"
+        ],
+        "Chemical Family": [
+            "Silver & Silver Compounds"
+        ]
+    },
+    "summary": {}
+}

@@ -1,0 +1,50 @@
+{
+    "id": 459045,
+    "brand": "imsil",
+    "name": "Syntran® 3211",
+    "slug": "syntran-3211",
+    "description": "Syntran® 3211 is based on shell-core technology. This technology creates a film with very high gloss, block resistance, rub resistance, and printability with multiple ink types. This technology also allows for excellent adhesion over multiple substrate types. This milky dispersion is used in label, board, and packaging coatings (OPV).",
+    "company_name": "Dar-Tech Inc.",
+    "company_slug": "dar-tech-inc",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1713789962/production/Brand/36200/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1713789962/production/Company/75921/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Tape & Label Adhesives",
+            "Tapes & Labels",
+            "Overprint Varnishes",
+            "Packaging & Paper",
+            "Packaging Coatings",
+            "Tapes, Labels & Adhesives"
+        ],
+        "Product Families": [
+            "Acrylics",
+            "Resins & Binders"
+        ],
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ],
+        "End Uses": [
+            "Waterborne Coating",
+            "Varnishes"
+        ]
+    },
+    "summary": {
+        "Chemical Family": [
+            "Acrylics & Acrylates"
+        ],
+        "End Uses": [
+            "Varnishes",
+            "Waterborne Coating"
+        ],
+        "Features": [
+            "Good Printability",
+            "Multi-Substrate Adhesion",
+            "Good Compatibility",
+            "Abrasion Resistance",
+            "High Gloss",
+            "Good Film Former",
+            "Blocking Resistance"
+        ]
+    }
+}

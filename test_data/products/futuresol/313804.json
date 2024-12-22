@@ -1,0 +1,41 @@
+{
+    "id": 313804,
+    "brand": "futuresol",
+    "name": "FUTURESOL® DMM",
+    "slug": "futuresol-dmm",
+    "description": "FutureSol® DMM Technical Grade is a low boiling solvent containing methanol and water. Its strong solvent properties and good water solubility make the material an excellent candidate for formulated cleaning applications.",
+    "company_name": "Future Fuel Corp.",
+    "company_slug": "future-fuel-corp",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704100121/production/Product/313804/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608320/production/CategoryImage/554/category_image/Industrial_02.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial Cleaning",
+            "Other Industrial Applications",
+            "Other Battery Materials",
+            "Other Paints & Coatings Applications",
+            "Battery Materials",
+            "Chemical & Industrial Manufacturing",
+            "Institutional & Industrial Care"
+        ],
+        "Product Families": [
+            "Other Solvents",
+            "Solvents"
+        ],
+        "End Uses": [
+            "Fuel Cells",
+            "Cleaning Agent"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "Dimethoxymethane"
+        ],
+        "CAS Number": [
+            "109-87-5"
+        ],
+        "Synonyms": [
+            "2,4-dioxapentane, Bis(methoxy)methane, Bis(methyloxy)methane, Dimethyl Formal, Formaldehyde Dimethyl Acetal, Methylal, Methylene Dimethyl Ether, Methylene Glycol Dimethylether"
+        ]
+    }
+}

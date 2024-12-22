@@ -1,0 +1,32 @@
+{
+    "id": 441748,
+    "brand": "pecti-lyte",
+    "name": "Calf GoldLyte®",
+    "slug": "calf-goldlyte",
+    "description": "Calf GoldLyte® is a supplement designed to replenish important electrolytes, energy and microbial activity in calves undergoing diarrhea or during hot weather.\r\n",
+    "company_name": "Bio-Vet",
+    "company_slug": "bio-vet",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708522500/production/Company/57629/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708522500/production/Company/57629/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Ruminants",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Feed Supplements",
+            "Nutritional Ingredients"
+        ]
+    },
+    "summary": {
+        "Animal Species": [
+            "Calves"
+        ],
+        "Features": [
+            "Vitamin Rich",
+            "Improves Body Weight Gain",
+            "Prevents Dehydration",
+            "Improves Digestability & Intestinal Health"
+        ]
+    }
+}

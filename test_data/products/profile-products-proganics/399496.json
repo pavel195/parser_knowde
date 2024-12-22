@@ -1,0 +1,37 @@
+{
+    "id": 399496,
+    "brand": "profile-products-proganics",
+    "name": "Flexterra® HP-FGM™",
+    "slug": "profile-products-flexterra-hp-fgm",
+    "description": "Flexterra® HP-FGM™ is a biodegradable, High Performance-Flexible Growth Medium (HP-FGM) composed of 100% recycled, Thermally Refined™ virgin wood fibers, crimped biodegradable interlocking fibers derived from regenerated cellulose sourced from sustainably harvested wood, micro-pore granules, naturally derived cross-linked biopolymers and water absorbents. The HP-FGM is patented, made in the US, plastic-free, and phytosanitized to eliminate potential weed seeds and pathogens. Flexterra requires no curing period and upon application forms an intimate bond with the soil surface to create a continuous, porous, absorbent and flexible erosion resistant blanket that allows for rapid germination and accelerated plant growth.",
+    "company_name": "Profile Products",
+    "company_slug": "profile-products",
+    "logo_url": null,
+    "banner_url": "https://media.knowde.com/image/upload/v1625608238/production/CategoryImage/552/category_image/AgricultureFeed_08.jpg",
+    "properties": {
+        "Applications": [
+            "Ornamentals",
+            "Turf Management",
+            "Turf, Ornamentals & Landscape"
+        ],
+        "Product Families": [
+            "Soil Amendments & Conditioners",
+            "Plant Growth Regulators (PGR) & Harvest Aids",
+            "Plant Health, Nutrients & Soil Management"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Plant Growth Regulator (PGR)"
+        ],
+        "Labeling Claims": [
+            "Recycled",
+            "Bio-based",
+            "Plastic-free",
+            "Sustainable",
+            "Biodegradable",
+            "Environmentally Friendly",
+            "Non-Toxic"
+        ]
+    }
+}

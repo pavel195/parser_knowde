@@ -1,0 +1,45 @@
+{
+    "id": 385008,
+    "brand": "flav-r-bites",
+    "name": "CII Granola",
+    "slug": "cii-granola",
+    "description": "Granola is a oats with slurry coating, used in a cereal or just as a snack.",
+    "company_name": "CII",
+    "company_slug": "cii",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1686105103/production/Company/21217/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608224/production/CategoryImage/551/category_image/AgricultureFeed_07.jpg",
+    "properties": {
+        "Applications": [
+            "Food",
+            "Cereals & Snacks"
+        ],
+        "Product Families": [
+            "Whole Foods, Extracts & Premixes",
+            "Flours & Grains Products"
+        ],
+        "End Uses": [
+            "Snacks",
+            "Breakfast Cereals"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Oats"
+        ],
+        "Labeling Claims": [
+            "Sugar-free",
+            "Non-GMO",
+            "Dairy-free",
+            "Kosher",
+            "Gluten-free",
+            "Allergen-free",
+            "Organic"
+        ],
+        "Certifications & Compliance": [
+            "Kosher"
+        ],
+        "Features": [
+            "Enhanced Flavour"
+        ]
+    }
+}

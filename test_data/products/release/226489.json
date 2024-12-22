@@ -1,0 +1,55 @@
+{
+    "id": 226489,
+    "brand": "release",
+    "name": "Antiox AHM",
+    "slug": "antiox-ahm",
+    "description": "ANTIOX AHM is a synergistic blend of various antioxidant systems, including primary phenolic stabilizers, thio-esters for the long term stability and phosphites for high temperature protection. Its physical form ensures very low dust formation in handling and good flowing properties. The physical form of the components is primarily (but not completely) dusty in order to facilitate the dissolution / melting of the product.",
+    "company_name": "ichemco",
+    "company_slug": "ichemco",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708686888/production/Company/15814/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609103/production/CategoryImage/595/category_image/PrintingPackaging_06.jpg",
+    "properties": {
+        "Applications": [
+            "Tape & Label Adhesives",
+            "Other Paints & Coatings Applications",
+            "Tapes & Labels",
+            "Other Adhesives & Sealants Applications",
+            "Packaging & Paper",
+            "Tapes, Labels & Adhesives"
+        ],
+        "Product Families": [
+            "Functional Additives",
+            "Additives"
+        ],
+        "Chemical Family": [
+            "Blends & Combinations",
+            "Esters",
+            "Thioesters",
+            "Phosphorous-based Compounds",
+            "Phenols & Phenolics"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Antioxidant"
+        ],
+        "Chemical Family": [
+            "Thioesters",
+            "Phenols & Phenolics",
+            "Esters",
+            "Blends & Combinations",
+            "Phosphorous-based Compounds"
+        ],
+        "Compatible Polymers & Resins": [
+            "Polyurethanes (PU)",
+            "Synthetic Rubbers",
+            "Polyamides",
+            "Ethylene Co-terpolymers"
+        ],
+        "Features": [
+            "Temperature Resistance",
+            "Low Dusting",
+            "Excellent Flow"
+        ]
+    }
+}

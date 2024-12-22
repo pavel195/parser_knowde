@@ -1,0 +1,57 @@
+{
+    "id": 317584,
+    "brand": "meracryl",
+    "name": "MERACRYL™ i-BMA",
+    "slug": "meracryl-i-bma",
+    "description": "MERACRYL™ i-BMA provides flexibility due to its softening temperatures of 50 °C.",
+    "company_name": "Rohm GmbH",
+    "company_slug": "rohm-gmbh-fb0149c2-4634-49a5-b073-262e633f155b",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1704100173/production/Product/317584/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608953/production/CategoryImage/586/category_image/AdhesivesSealants_03.jpg",
+    "properties": {
+        "Applications": [
+            "Sealants & Caulks",
+            "Construction Adhesives",
+            "Resin Manufacturing",
+            "Infrastructure, Roads & Paving",
+            "Industrial Coatings",
+            "Wood Coatings & Finishes",
+            "Coatings & Markings",
+            "Adhesives",
+            "Building & Construction",
+            "Building Materials",
+            "Construction Chemicals",
+            "Roofing",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Monomers",
+            "Acrylics, Acrylates & Methacrylates",
+            "Monomers & Intermediates",
+            "Monomers & Oligomers"
+        ],
+        "Chemical Family": [
+            "Methacrylates"
+        ],
+        "End Uses": [
+            "Resins",
+            "Acrylic Resins",
+            "Waterborne Coating",
+            "Solventborne Coating"
+        ]
+    },
+    "summary": {
+        "Chemical Name": [
+            "i-Butyl methacrylate"
+        ],
+        "CAS Number": [
+            "97-86-9"
+        ],
+        "Chemical Family": [
+            "Methacrylates"
+        ],
+        "Molecular Weight": [
+            "142.2 - 142.2 g/mol"
+        ]
+    }
+}

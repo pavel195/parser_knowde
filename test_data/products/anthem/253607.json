@@ -1,0 +1,41 @@
+{
+    "id": 253607,
+    "brand": "anthem",
+    "name": "SYNERGY™ BRUSHKILLER",
+    "slug": "synergy-brushkiller",
+    "description": "750 g/litre MCPA as the dimethylamine salt in the form of an soluable concentrate.Mecoprop 600 g/litre + MCPA 150 g/litre + dicamba 18.7 g/litre 375 g/litre MCPB and 25 g/litre MCPA as the sodium salts in the form of a soluble concentrate.A selective herbicide for the control of many annual and broad leaf weeds in established pasture, cereal and seed crops, amenity turf and waste areas.",
+    "company_name": "Orion Agroscience",
+    "company_slug": "orion-agroscience",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708684407/production/Company/19294/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708684407/production/Company/19294/card_banner/image",
+    "properties": {
+        "Applications": [
+            "Agricultural Pest Control",
+            "Pest Control"
+        ],
+        "Product Families": [
+            "Herbicides",
+            "Crop Protection & Pest Control"
+        ],
+        "Chemical Family": [
+            "Pyridine Carboxylic Acids"
+        ]
+    },
+    "summary": {
+        "Functions": [
+            "Herbicide"
+        ],
+        "Herbicide Target Species": [
+            "Broadleafs"
+        ],
+        "HRAC/WSSA Group": [
+            "4"
+        ],
+        "Application Technique": [
+            "Sprayers"
+        ],
+        "Formulation Type": [
+            "Emulsifiable Concentrates"
+        ]
+    }
+}

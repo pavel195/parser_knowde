@@ -1,0 +1,37 @@
+{
+    "id": 416410,
+    "brand": "castseal",
+    "name": "CastSeal™",
+    "slug": "castseal",
+    "description": "CastSeal™ is a uniquely formulated, 2 part, VOC free Brush-On-Sealant™. The very low viscosity ( 3-5 mPa-s 8-10 cps at 25° C) provides excellent wetting, and enables CastSeal™ to wick (through capillary action) into pores, welds, and seams and between close-fitting metal surfaces. Mixing the sealant’s two components creates a VOC-free liquid that can be easily applied by brush.",
+    "company_name": "IMPCO",
+    "company_slug": "impco",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1685601170/production/Brand/32507/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608953/production/CategoryImage/586/category_image/AdhesivesSealants_03.jpg",
+    "properties": {
+        "Applications": [
+            "Industrial & Assembly Adhesives",
+            "Other Industrial & Assembly Applications",
+            "Industrial Adhesives & Sealants",
+            "Chemical & Industrial Manufacturing"
+        ],
+        "Product Families": [
+            "Adhesives & Sealants",
+            "Caulks & Sealants"
+        ]
+    },
+    "summary": {
+        "Ready-to-Use Product Type": [
+            "2K (2 component) Sealant"
+        ],
+        "Compatible Substrates & Surfaces": [
+            "Aluminum",
+            "Metal",
+            "Steel",
+            "Iron"
+        ],
+        "Application Method": [
+            "Brush"
+        ]
+    }
+}

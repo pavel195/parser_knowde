@@ -1,0 +1,53 @@
+{
+    "id": 329799,
+    "brand": "omegaequis",
+    "name": "Menhaden Fish Oil®",
+    "slug": "menhaden-fish-oil",
+    "description": "Menhaden Fish Oil® is a natural, non-hydrogenated and structurally unaltered fish oil containing approximately 35% total omega-3 fatty acids with a balanced concentration of EPA (Eicosapentaenoic Acid) and DHA (Docosahexaenoic Acid). Menhaden Fish Oil is polished to reduce the moisture content.",
+    "company_name": "Omega Protein",
+    "company_slug": "omega-protein",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708688425/production/Brand/23809/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625608200/production/CategoryImage/549/category_image/AgricultureFeed_05.jpg",
+    "properties": {
+        "Applications": [
+            "Ruminants",
+            "Aquaculture",
+            "Swine",
+            "Birds & Poultry",
+            "Animal Health & Nutrition"
+        ],
+        "Product Families": [
+            "Fats & Oils",
+            "Nutritional Ingredients"
+        ],
+        "Chemical Family": [
+            "Fatty Acids",
+            "Fish Oils & Lipids"
+        ]
+    },
+    "summary": {
+        "Ingredient Name": [
+            "Fish Oil"
+        ],
+        "Features": [
+            "Reduces Feed Cost",
+            "Improves Growth Performance",
+            "Rich In Omega 3 Fatty Acids",
+            "Improved Reproductive Efficiency",
+            "Improves Immunity"
+        ],
+        "Functions": [
+            "Fat & Oil"
+        ],
+        "Labeling Claims": [
+            "Natural",
+            "Sustainable",
+            "Naturally Derived"
+        ],
+        "Certifications & Compliance": [
+            "AFIA International Safe Feed/Safe Food",
+            "GMP",
+            "Hazard Analysis Critical Control Point (HACCP)"
+        ]
+    }
+}

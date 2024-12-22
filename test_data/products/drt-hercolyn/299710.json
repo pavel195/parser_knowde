@@ -1,0 +1,31 @@
+{
+    "id": 299710,
+    "brand": "drt-hercolyn",
+    "name": "Endere S",
+    "slug": "drt-endere-s",
+    "description": "Endere S resin is a highly hydrogenated allergen-tested resin, particularly suited for use in skin-contact products.",
+    "company_name": "DRT",
+    "company_slug": "drt",
+    "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1680680211/production/Company/22776/logo/image",
+    "banner_url": "https://media.knowde.com/image/upload/v1625609091/production/CategoryImage/594/category_image/PrintingPackaging_05.jpg",
+    "properties": {
+        "Applications": [
+            "Medical Adhesives",
+            "Medical",
+            "Medical Tapes & Adhesives",
+            "Other Adhesives & Sealants Applications",
+            "Other Medical Adhesives"
+        ],
+        "Product Families": [
+            "Additives",
+            "Surface Modifiers"
+        ]
+    },
+    "summary": {
+        "Features": [
+            "Low Odor",
+            "Good Heat Stability",
+            "Color Retention"
+        ]
+    }
+}

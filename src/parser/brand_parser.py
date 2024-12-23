@@ -133,29 +133,29 @@ class BrandParser:
                 json_url = f"https://www.knowde.com/_next/data/{hash_value}{brand_path}.json"
 
                 # Используем куки из авторизованной сессии
-                cookies = {cookie['name']: cookie['value'] for cookie in self.driver.get_cookies()}
+                # cookies = {cookie['name']: cookie['value'] for cookie in self.driver.get_cookies()}
                 
                 response = requests.get(
                     json_url,
-                    cookies=cookies,
-                    headers={
-                        'User-Agent': self.session['user_agent'],
-                        'Accept': 'application/json',
-                        'Referer': brand_url
-                    },
-                    timeout=30
+                    # cookies=cookies,
+                #     headers={
+                #         'User-Agent': self.session['user_agent'],
+                #         'Accept': 'application/json',
+                #         'Referer': brand_url
+                #     },
+                #     timeout=30
                 )
                 
                 if response.status_code == 200:
                     return response.json()
                 elif response.status_code in [403, 429]:
                     print(f"Получен статус {response.status_code}, ждем перед повторной попыткой...")
-                    self._random_delay(30.0, 60.0)
-                    
+                    self._random_delay(5, 10)
+                self._random_delay(1, 2)    
             except Exception as e:
                 print(f"Попытка {attempt + 1} из {max_retries} не удалась для {brand_url}: {str(e)}")
                 if attempt < max_retries - 1:
-                    self._random_delay(10.0, 20.0)
+                    self._random_delay(5, 10)
                 continue
                 
         return None

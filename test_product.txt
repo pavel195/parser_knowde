@@ -1,105 +1,89 @@
-{
-                                        "id": 321810,
-                                        "uuid": "eb4f51e5-e9da-48be-9cf9-da703a0da869",
-                                        "description": "Akulon® CO-KGV4/A JN.00.86 is a polyamide 6 (PA 6) composite material that is 20% glass-reinforced, heat stabilized, and flame retardant without the use of halogen or phosphorous. It is characterized by its lightweight nature and UL flame rating. This material is applied in the automotive and transportation industries for both exterior and interior components, as well as in the electrical and electronics sectors for parts and components, including circuit breakers.",
-                                        "slug": "akulon-co-kgv4-a-jn-00-86",
-                                        "banner_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_512/v1708531641/production/Company/30097/card_banner/image",
-                                        "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1708531641/production/Company/30097/logo/image",
-                                        "display_name": null,
-                                        "name": "Akulon® CO-KGV4/A JN.00.86",
+"id": 482568,
+                                        "name": "DYNOCEL® 900 (28 x 48 mesh)",
+                                        "slug": "dynocel-900-28-x-48-mesh",
+                                        "uuid": "645a5c53-d2ae-43c5-982b-07a44523ce07",
                                         "summary": [
                                             {
-                                                "key": "Polymer Name",
-                                                "name": "Polymer Name",
+                                                "key": "Chemical Name",
+                                                "name": "Chemical Name",
                                                 "items": [
-                                                    "Polyamide 6 (PA 6)"
+                                                    "Aluminum Oxide"
                                                 ]
                                             },
                                             {
                                                 "key": "Chemical Family",
                                                 "name": "Chemical Family",
                                                 "items": [
-                                                    "Polyamides"
+                                                    "Oxides",
+                                                    "Aluminum Compounds"
                                                 ]
                                             },
                                             {
-                                                "key": "Reinforcement Material",
-                                                "name": "Reinforcement Material",
+                                                "key": "Functions",
+                                                "name": "Functions",
                                                 "items": [
-                                                    "Glass Fibers"
+                                                    "Adsorbent",
+                                                    "Desiccant",
+                                                    "Odor Neutralizing Agent"
                                                 ]
                                             },
                                             {
-                                                "key": "Additives Included",
-                                                "name": "Additives Included",
+                                                "key": "Features",
+                                                "name": "Features",
                                                 "items": [
-                                                    "Heat Stabilizer"
+                                                    "High Surface Area",
+                                                    "High Porosity"
                                                 ]
                                             },
                                             {
-                                                "key": "Fillers Included",
-                                                "name": "Fillers Included",
+                                                "key": "Synonyms",
+                                                "name": "Synonyms",
                                                 "items": [
-                                                    "Glass Fiber"
-                                                ]
-                                            },
-                                            {
-                                                "key": "Processing Methods",
-                                                "name": "Processing Methods",
-                                                "items": [
-                                                    "Injection Molding"
+                                                    "Alumina, Aluminium Oxide, Aluminum Trioxide, Dialuminum Trioxide"
                                                 ]
                                             }
                                         ],
+                                        "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1714497264/production/Company/16227/logo/image",
+                                        "banner_url": "https://static.knowde.com/card-banners/knowde-card-for-raw-materials-8.jpg",
+                                        "company_id": 16227,
                                         "properties": [
                                             {
                                                 "key": "Applications",
                                                 "name": "Applications",
                                                 "items": [
-                                                    "Interior",
-                                                    "Exterior & Body",
-                                                    "Circuit Breakers",
-                                                    "Automotive",
-                                                    "Parts & Components"
+                                                    "Water Treatment",
+                                                    "Power, Water & Utilities"
                                                 ]
                                             },
                                             {
                                                 "key": "Product Families",
                                                 "name": "Product Families",
                                                 "items": [
-                                                    "Thermoplastic Resins",
-                                                    "Polyamides",
-                                                    "Polymers & Resins",
-                                                    "Engineering & Specialty Polymers"
+                                                    "Water Treatment Additives",
+                                                    "Adsorbents & Absorbents",
+                                                    "Catalyst Ingredients",
+                                                    "Water Treatment Chemicals"
                                                 ]
                                             },
                                             {
                                                 "key": "Chemical Family",
                                                 "name": "Chemical Family",
                                                 "items": [
-                                                    "Polyamides"
-                                                ]
-                                            },
-                                            {
-                                                "key": "Polymer Name",
-                                                "name": "Polymer Name",
-                                                "items": [
-                                                    "Polyamide 6 (PA 6)"
+                                                    "Oxides",
+                                                    "Aluminum Compounds"
                                                 ]
                                             },
                                             {
                                                 "key": "End Uses",
                                                 "name": "End Uses",
                                                 "items": [
-                                                    "Wheel Housing Parts",
-                                                    "Flooring",
-                                                    "Door Panel",
-                                                    "Molded Case Circuit Breakers"
+                                                    "Oxygen Concentrators"
                                                 ]
                                             }
                                         ],
-                                        "company_responsiveness_status": "",
-                                        "company_name": "Envalior",
-                                        "company_slug": "envalior",
-                                        "company_id": 30097
+                                        "description": "DYNOCEL® 900 is a 28 x 48 mesh granular alumina scavenger designed to eliminate process impurities from vapor or liquid phase streams, whether aqueous or hydrocarbon. It serves as a highly effective desiccant in all applications, with a particular advantage in removing low-level polar and/or ionic species. Its high porosity facilitates faster diffusion rates, while the extensive surface area offers enhanced capacity. This adsorbent is widely utilized for extracting impurities across a diverse range of applications.\r\n",
+                                        "company_name": "Evonik",
+                                        "company_slug": "evonik",
+                                        "display_name": null,
+                                        "company_responsiveness_status": "fast"
                                     }

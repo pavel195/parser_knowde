@@ -6,7 +6,7 @@ __pycache__/
 *.log
 error_categories.png
 .env.example
-
+brand_data/
 
 
 

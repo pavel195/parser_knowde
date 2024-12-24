@@ -17,6 +17,7 @@ class BrandParser:
         self.storage = storage
         self.session = session
         self.driver = session['driver']  # Используем уже авторизованный драйвер
+        self.hash_value = None  # Добавляем атрибут для хранения hash
 
     def _random_delay(self, min_delay: float = 2.0, max_delay: float = 5.0):
         """Случайная задержка между запросами"""
@@ -134,7 +135,7 @@ class BrandParser:
             # for i in range(2, 10+ 1):
             #     links.append(f"{link}/brands/{i}")
                 
-        print(f"Собрано {len(links)} ссылок на категории с пагинацией")
+        print(f"Собрано {len(links)} ссылок на катего��ии с пагинацией")
         return links
 
     def process_brands(self, brand_links: Set[str]) -> None:
@@ -158,31 +159,26 @@ class BrandParser:
         """Получение JSON данных для бренда"""
         for attempt in range(max_retries):
             try:
-                hash_value = self._get_hash_from_brand_page(brand_url)
-                if not hash_value:
-                    return None
+                # Получаем hash только если он еще не получен
+                if not self.hash_value:
+                    self.hash_value = self._get_hash_from_brand_page(brand_url)
+                    if not self.hash_value:
+                        print("Не удалось получить hash значение")
+                        return None
 
                 brand_path = brand_url.split('knowde.com')[1]
-                json_url = f"https://www.knowde.com/_next/data/{hash_value}{brand_path}.json"
+                json_url = f"https://www.knowde.com/_next/data/{self.hash_value}{brand_path}.json"
 
-                # Используем куки из авторизованной сессии
-                # cookies = {cookie['name']: cookie['value'] for cookie in self.driver.get_cookies()}
-                
-                response = requests.get(
-                    json_url,
-                    # cookies=cookies,
-                #     headers={
-                #         'User-Agent': self.session['user_agent'],
-                #         'Accept': 'application/json',
-                #         'Referer': brand_url
-                #     },
-                #     timeout=30
-                )
+                response = requests.get(json_url)
                 
                 if response.status_code == 200:
                     return response.json()
                 elif response.status_code in [403, 429]:
                     print(f"Получен статус {response.status_code}, ждем перед повторной попыткой...")
+                    # Если получили 403 или 429, возможно hash устарел
+                    if attempt == 0:  # Пробуем получить новый hash только при первой ошибке
+                        print("Пробуем обновить hash значение...")
+                        self.hash_value = self._get_hash_from_brand_page(brand_url)
                     self._random_delay(5, 10)
                 self._random_delay(1, 2)    
             except Exception as e:
@@ -195,9 +191,9 @@ class BrandParser:
 
     def _get_hash_from_brand_page(self, url: str, max_retries: int = 3) -> Optional[str]:
         """Получение хэша со страницы бренда"""
+        print("Получение нового hash значения...")
         for attempt in range(max_retries):
             try:
-                # Используем авторизованный драйвер для получения хэша
                 self.driver.get(url)
                 WebDriverWait(self.driver, 10).until(
                     EC.presence_of_element_located((By.CSS_SELECTOR, "script[src*='/_next/static/']"))
@@ -208,7 +204,9 @@ class BrandParser:
                     src = script.get_attribute('src')
                     match = re.search(r'/_next/static/([a-f0-9]{40})/', src)
                     if match:
-                        return match.group(1)
+                        hash_value = match.group(1)
+                        print(f"Получен новый hash: {hash_value}")
+                        return hash_value
                 
             except Exception as e:
                 print(f"Попытка {attempt + 1} из {max_retries} не удалась для {url}: {str(e)}")

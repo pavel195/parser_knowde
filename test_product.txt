@@ -1,0 +1,89 @@
+"id": 482568,
+                                        "name": "DYNOCEL® 900 (28 x 48 mesh)",
+                                        "slug": "dynocel-900-28-x-48-mesh",
+                                        "uuid": "645a5c53-d2ae-43c5-982b-07a44523ce07",
+                                        "summary": [
+                                            {
+                                                "key": "Chemical Name",
+                                                "name": "Chemical Name",
+                                                "items": [
+                                                    "Aluminum Oxide"
+                                                ]
+                                            },
+                                            {
+                                                "key": "Chemical Family",
+                                                "name": "Chemical Family",
+                                                "items": [
+                                                    "Oxides",
+                                                    "Aluminum Compounds"
+                                                ]
+                                            },
+                                            {
+                                                "key": "Functions",
+                                                "name": "Functions",
+                                                "items": [
+                                                    "Adsorbent",
+                                                    "Desiccant",
+                                                    "Odor Neutralizing Agent"
+                                                ]
+                                            },
+                                            {
+                                                "key": "Features",
+                                                "name": "Features",
+                                                "items": [
+                                                    "High Surface Area",
+                                                    "High Porosity"
+                                                ]
+                                            },
+                                            {
+                                                "key": "Synonyms",
+                                                "name": "Synonyms",
+                                                "items": [
+                                                    "Alumina, Aluminium Oxide, Aluminum Trioxide, Dialuminum Trioxide"
+                                                ]
+                                            }
+                                        ],
+                                        "logo_url": "https://media.knowde.com/image/upload/f_auto,q_auto,w_128/v1714497264/production/Company/16227/logo/image",
+                                        "banner_url": "https://static.knowde.com/card-banners/knowde-card-for-raw-materials-8.jpg",
+                                        "company_id": 16227,
+                                        "properties": [
+                                            {
+                                                "key": "Applications",
+                                                "name": "Applications",
+                                                "items": [
+                                                    "Water Treatment",
+                                                    "Power, Water & Utilities"
+                                                ]
+                                            },
+                                            {
+                                                "key": "Product Families",
+                                                "name": "Product Families",
+                                                "items": [
+                                                    "Water Treatment Additives",
+                                                    "Adsorbents & Absorbents",
+                                                    "Catalyst Ingredients",
+                                                    "Water Treatment Chemicals"
+                                                ]
+                                            },
+                                            {
+                                                "key": "Chemical Family",
+                                                "name": "Chemical Family",
+                                                "items": [
+                                                    "Oxides",
+                                                    "Aluminum Compounds"
+                                                ]
+                                            },
+                                            {
+                                                "key": "End Uses",
+                                                "name": "End Uses",
+                                                "items": [
+                                                    "Oxygen Concentrators"
+                                                ]
+                                            }
+                                        ],
+                                        "description": "DYNOCEL® 900 is a 28 x 48 mesh granular alumina scavenger designed to eliminate process impurities from vapor or liquid phase streams, whether aqueous or hydrocarbon. It serves as a highly effective desiccant in all applications, with a particular advantage in removing low-level polar and/or ionic species. Its high porosity facilitates faster diffusion rates, while the extensive surface area offers enhanced capacity. This adsorbent is widely utilized for extracting impurities across a diverse range of applications.\r\n",
+                                        "company_name": "Evonik",
+                                        "company_slug": "evonik",
+                                        "display_name": null,
+                                        "company_responsiveness_status": "fast"
+                                    }

@@ -9,6 +9,8 @@
 # Создание виртуального окружения
 python -m venv .venv
 source .venv/bin/activate  # Linux/Mac
+# или
+.venv\Scripts\activate  # Windows
 
 # Установка зависимостей
 pip install -r requirements.txt
@@ -45,48 +47,52 @@ brew install --cask chromedriver
 1. Скачайте Chrome с официального сайта: https://www.google.com/chrome/
 2. Скачайте ChromeDriver с: https://chromedriver.chromium.org/downloads
    - Версия ChromeDriver должна соответствовать версии Chrome
-3. Распакуйте chromedriver.exe в удобную директорию
+3. Распакуйте chromedriver.exe в удобную ��иректорию
 4. Добавьте путь к ChromeDriver в переменную PATH
 
+### 3. Настройка окружения
+Создайте файл .env на основе .env.example:
+```bash
+cp .env.example .env
+```
 
-
-### 3. Запуск парсера
+### 4. Запуск парсера
 ```bash
 # Запуск парсера для сбора данных
-python main.py
+python scripts/run_parser.py
 ```
+
 Парсер выполнит:
 - Сбор ссылок на бренды
 - Получение данных о каждом бренде
 - Сохранение в JSON файлы в директории data/brand_data/
 
-### 4. Запуск API сервера
+### 5. Извлечение данных о продуктах
 ```bash
-# Запуск API сервера
-python scripts/run_api.py
+# Запуск извлечения продуктов
+python scripts/extract_products.py
 ```
 
-API будет доступен по адресу: http://localhost:8000
+Скрипт создаст отдельные JSON файлы для каждого продукта в директории data/products/{brand_name}/
 
-## API Endpoints
-
-# Список всех брендов
-GET /brands/
-
-# Данные конкретного бренда
-GET /brands/{brand_name}
-GET /brands/{brand_name}?include_products=true
-
-# Сводка о бренде
-GET /brands/{brand_name}/summary
-
-# Поиск продуктов
-GET /brands/{brand_name}/products
-GET /brands/{brand_name}/products?category=Surfactants&keyword=natural
-
-Swagger документация доступна по адресу: http://localhost:8000/docs
+## Структура проекта
+```
+knowde_parser/
+├── src/
+│   ├── api/              # API endpoints
+│   ├── parser/           # Парсер брендов
+│   ├── processor/        # Обработка данных
+│   ├── service/          # Бизнес-логика
+│   └── storage/          # Работа с хранилищем
+├── data/
+│   ├── brand_data/       # JSON файлы брендов
+│   └── products/         # JSON файлы продуктов
+├── scripts/              # Скрипты
+└── tests/                # Тесты
+```
 
 ## Примечания
-- Перед использованием API необходимо собрать данные с помощью парсера
-- Убедитесь, что версии Chrome и ChromeDriver совпадают
+- Перед запуском убедитесь, что Chrome и ChromeDriver установлены и доступны
+- Проверьте соответствие версий Chrome и ChromeDriver
 - При проблемах с доступом к ChromeDriver проверьте права доступа к файлу
+- Данные сохраняются в директории data/

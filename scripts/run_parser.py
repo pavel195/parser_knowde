@@ -31,11 +31,11 @@ def main():
         parser = BrandParser(storage, session)
             
         # Сбор ссылок на бренды
-        brand_links = parser.collect_brand_links()
-        print(f"\nСобрано {len(brand_links)} уникальных ссылок на бренды")
+        parser.collect_brand_links()
+        print(f"\nСобрано {len(parser.brand_links)} уникальных ссылок на бренды")
 
         # Обработка и сохранение данных брендов
-        parser.process_brands(brand_links)
+        parser.process_brands(parser.brand_links)
         print("\nПарсинг завершен успешно")
 
     except Exception as e:

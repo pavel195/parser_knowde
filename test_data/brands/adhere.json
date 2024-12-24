@@ -11,7 +11,7 @@
                         },
                         "dataUpdateCount": 1,
                         "dataUpdatedAt": 1734790699176,
-                        "error": null,
+                        "error": null,state.data.name
                         "errorUpdateCount": 0,
                         "errorUpdatedAt": 0,
                         "fetchFailureCount": 0,

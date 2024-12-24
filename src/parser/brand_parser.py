@@ -22,10 +22,10 @@ class BrandParser:
         """Случайная задержка между запросами"""
         time.sleep(random.uniform(min_delay, max_delay))
 
-    def collect_brand_links(self) -> Set[str]:
-        """Сбор ссылок на бренды"""
-        print("Начинаем сбор ссылок на бренды...")
-        brand_links = set()
+    def collect_brand_links(self) -> None:
+        """Сбор и обработка брендов"""
+        print("Начинаем сбор и обработку брендов...")
+        processed_brands = set()
 
         try:
             # Проверяем авторизацию
@@ -39,49 +39,82 @@ class BrandParser:
                 print("Авторизация подтверждена")
             except Exception:
                 print("Ошибка: Сессия не авторизована")
-                return set()
+                return
 
             category_links = self._extract_category_links()
-            #url - это ссылка на категорию .../brands
+            
             for url in category_links:
                 try:
-                    self._random_delay()  # Задержка между запросами
-                    self.driver.get(url) # переходим на страницу с .../brands
+                    self._random_delay()
+                    self.driver.get(url)
                     
-                    pagination_links = self.driver.find_elements(By.CSS_SELECTOR,  'a[class^="pagination-action_button"]')
-                    # Извлекаем числа из href ссылок и находим максимальное
+                    pagination_links = self.driver.find_elements(By.CSS_SELECTOR, 'a[class^="pagination-action_button"]')
                     numbers = [int(link.text) for link in pagination_links if link.text.isdigit()]
-                    
                     max_number = max(numbers) if numbers else 10
-                    for i in range(1, max_number + 1):
-                        link = (f"{url}/{i}")
+                    
+                    # Обрабатываем каждую страницу пагинации
+                    for page in range(1, max_number + 1):
+                        page_url = f"{url}/{page}"
+                        print(f"\nОбработка страницы {page} из {max_number}: {page_url}")
+                        
                         try:
-                            self.driver.get(link)
-                            # Используем XPath для поиска брендов
+                            self.driver.get(page_url)
+                            
+                            # Ждем загрузки брендов на странице
                             WebDriverWait(self.driver, 10).until(
                                 EC.presence_of_all_elements_located((By.XPATH, "//a[contains(text(), 'View Brand')]"))
                             )
-                        
+                            
+                            # Собираем все ссылки на бренды с текущей страницы
+                            current_page_brands = []
                             elements = self.driver.find_elements(By.XPATH, "//a[contains(text(), 'View Brand')]")
+                            
                             for element in elements:
-                                link_brand = element.get_attribute('href')
-                                if link_brand not in brand_links:
-                                    brand_links.add(link_brand)
-                                    print(f"Найдена новая ссылка на бренд: {link_brand}")
+                                brand_url = element.get_attribute('href')
+                                brand_name = brand_url.split('/')[-1]
+                                
+                                if brand_name not in processed_brands:
+                                    current_page_brands.append((brand_name, brand_url))
+                            
+                            # Обрабатываем все найденные бренды на текущей странице
+                            print(f"Найдено {len(current_page_brands)} новых брендов на странице {page}")
+                            
+                            for brand_name, brand_url in current_page_brands:
+                                try:
+                                    print(f"\nОбработка бренда: {brand_url}")
+                                    json_data = self._get_json_data_for_brand(brand_url)
+                                    
+                                    if json_data:
+                                        self.storage.save_brand_data(brand_name, json_data)
+                                        processed_brands.add(brand_name)
+                                        print(f"Бренд {brand_name} успешно обработан и сохранен")
+                                    else:
+                                        print(f"Не удалось получить данные для бренда {brand_name}")
+                                    
+                                    self._random_delay(1, 3)
+                                    
+                                except Exception as e:
+                                    print(f"Ошибка при обработке бренда {brand_name}: {e}")
+                                    self._random_delay(5.0, 10.0)
+                                    continue
+                            
+                            print(f"Завершена обработка страницы {page}")
+                            self._random_delay(2, 4)  # Задержка между страницами
+                            
                         except Exception as e:
-                            print(f"Ошибка при обработке {url}: {e}")
-                            self._random_delay(5.0, 10.0)  # Увеличенная задержка при ошибке
+                            print(f"Ошибка при обработке страницы {page_url}: {e}")
+                            self._random_delay(5.0, 10.0)
                             continue
                             
                 except Exception as e:
-                    print(f"Ошибка при обработке {url}: {e}")
-                    self._random_delay(5.0, 10.0)  # Увеличенная задержка при ошибке
+                    print(f"Ошибка при обработке категории {url}: {e}")
+                    self._random_delay(5.0, 10.0)
                     continue
 
+            print(f"\nВсего успешно обработано брендов: {len(processed_brands)}")
+
         except Exception as e:
-            print(f"Ошибка при сборе ссылок: {e}")
-        
-        return brand_links
+            print(f"Общая ошибка при сборе и обработке брендов: {e}")
 
     def _extract_category_links(self) -> list:
         """Получение ссылок на категории"""

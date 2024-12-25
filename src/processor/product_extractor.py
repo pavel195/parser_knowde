@@ -23,32 +23,40 @@ class ProductExtractor:
         if not brand_data:
             return []
 
-        all_products = []
+        processed_products = []
         
-        # Получаем данные по правильному пути
         try:
-            queries = brand_data.get('pageProps', {}).get('dehydratedState', {}).get('queries', [])
-            if len(queries) > 1:
-                most_viewed = queries[1].get('state', {}).get('data', {}).get('most_viewed_products', {}).get('data', [])
+            queries = brand_data['pageProps']['dehydratedState']['queries']
+            
+            # Ищем нужный query с продуктами
+            products_query = None
+            for query in queries:
+                if 'state' in query and 'data' in query['state']:
+                    if 'products' in query['state']['data']:
+                        products_query = query
+                        break
+            
+            if products_query and 'data' in products_query['state']['data']['products']:
+                all_products = products_query['state']['data']['products']['data']
                 
-                if most_viewed:
-                    print(f"Найдено {len(most_viewed)} продуктов в most_viewed_products для бренда {brand_name}")
+                if all_products:
+                    print(f"Найдено {len(all_products)} продуктов для бренда {brand_name}")
                     
-                    for product in most_viewed:
+                    for product in all_products:
                         processed_product = self._process_product(product, brand_name)
                         if processed_product:
-                            all_products.append(processed_product)
+                            processed_products.append(processed_product)
                             self._save_product(processed_product)
                             print(f"Обработан продукт: {processed_product['name']}")
                 else:
                     print(f"Продукты не найдены для бренда {brand_name}")
             else:
-                print(f"Недостаточно queries в данных бренда {brand_name}")
+                print(f"Структура данных продуктов не найдена для бренда {brand_name}")
                 
         except Exception as e:
             print(f"Ошибка при извлечении продуктов для бренда {brand_name}: {str(e)}")
 
-        return all_products
+        return processed_products
 
     def _process_product(self, product: Dict, brand_name: str) -> Optional[Dict]:
         """
@@ -69,9 +77,11 @@ class ProductExtractor:
                 'brand': brand_name,
                 'name': product.get('name'),
                 'slug': product.get('slug'),
+                'uuid': product.get('uuid'),
                 'description': product.get('description'),
                 'company_name': product.get('company_name'),
                 'company_slug': product.get('company_slug'),
+                'company_id': product.get('company_id'),
                 
                 # Изображения
                 'logo_url': product.get('logo_url'),
@@ -80,7 +90,7 @@ class ProductExtractor:
                 # Свойства продукта
                 'properties': {}
             }
-
+            
             # Обработка properties
             for prop in product.get('properties', []):
                 prop_name = prop.get('name', '')
@@ -95,23 +105,9 @@ class ProductExtractor:
                     summary_items = summary_item.get('items', [])
                     processed['summary'][summary_name] = summary_items
 
-            # Добавляем документы, если есть
-            if 'documents' in product:
-                processed['documents'] = product['documents']
-
-            # Добавляем дополнительные поля, если они есть
-            additional_fields = [
-                'manufacturer', 'specifications',
-                'features', 'applications', 'certifications'
-            ]
-            
-            for field in additional_fields:
-                if field in product:
-                    processed[field] = product[field]
-
             return processed
 
-        except Exception as e:
+        except (KeyError, TypeError, AttributeError) as e:
             print(f"Ошибка при обработке продукта {product.get('name', 'Unknown')}: {str(e)}")
             return None
 

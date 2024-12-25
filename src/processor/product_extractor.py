@@ -28,6 +28,9 @@ class ProductExtractor:
         try:
             queries = brand_data['pageProps']['dehydratedState']['queries']
             
+            # Получаем свойства бренда
+            brand_properties = self._extract_brand_properties(queries)
+            
             # Ищем нужный query с продуктами
             products_query = None
             for query in queries:
@@ -43,7 +46,7 @@ class ProductExtractor:
                     print(f"Найдено {len(all_products)} продуктов для бренда {brand_name}")
                     
                     for product in all_products:
-                        processed_product = self._process_product(product, brand_name)
+                        processed_product = self._process_product(product, brand_name, brand_properties)
                         if processed_product:
                             processed_products.append(processed_product)
                             self._save_product(processed_product)
@@ -58,13 +61,45 @@ class ProductExtractor:
 
         return processed_products
 
-    def _process_product(self, product: Dict, brand_name: str) -> Optional[Dict]:
+    def _extract_brand_properties(self, queries: List[Dict]) -> Dict:
+        """Извлекает свойства из блоков бренда."""
+        brand_properties = {}
+        
+        try:
+            for query in queries:
+                if 'state' in query and 'data' in query['state']:
+                    data = query['state']['data']
+                    if 'details' in data:
+                        for section in data['details']:
+                            for block in section.get('content_blocks', []):
+                                key = block.get('key')
+                                if key:
+                                    if block.get('type') == 'ContentBlockType.FiltersContentBlock':
+                                        brand_properties[key] = [
+                                            f.get('filter_name') for f in block.get('filters', [])
+                                            if f.get('filter_name')
+                                        ]
+                                    elif block.get('type') == 'ContentBlockType.GroupFilterContentBlock':
+                                        values = []
+                                        for group in block.get('group_filters', []):
+                                            if 'header_filter' in group:
+                                                values.append(group['header_filter'].get('filter_name'))
+                                            for f in group.get('filters', []):
+                                                values.append(f.get('filter_name'))
+                                        brand_properties[key] = [v for v in values if v]
+        except (KeyError, TypeError, AttributeError) as e:
+            print(f"Ошибка при извлечении свойств бренда: {str(e)}")
+        
+        return brand_properties
+
+    def _process_product(self, product: Dict, brand_name: str, brand_properties: Dict) -> Optional[Dict]:
         """
         Обрабатывает данные отдельного продукта.
         
         Args:
             product: Исходные данные продукта
             brand_name: Название бренда
+            brand_properties: Свойства бренда
         Returns:
             Dict: Обработанные данные продукта
         """
@@ -88,7 +123,8 @@ class ProductExtractor:
                 'banner_url': product.get('banner_url'),
                 
                 # Свойства продукта
-                'properties': {}
+                'properties': {},
+                'brand_properties': brand_properties
             }
             
             # Обработка properties

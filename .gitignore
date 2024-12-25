@@ -4,10 +4,10 @@ __pycache__/
 data/sessions/
 *.pyc
 *$py.class
-
+products/
 # C extensions
 *.so
-
+*.pyc
 *.log
 error_categories.png
 .env.example

@@ -73,7 +73,10 @@ class BrandParser:
                             for element in elements:
                                 brand_url = element.get_attribute('href')
                                 brand_name = brand_url.split('/')[-1]
-                                
+                                # WebDriverWait(self.driver, 10).until(
+                                #     EC.presence_of_all_elements_located((By.XPATH, "//a[contains(text(), 'View Product')]"))
+                                # )
+                                # product_links = self.driver.find_elements(By.XPATH, "//a[contains(text(), 'View Product')]")
                                 if brand_name not in processed_brands:
                                     current_page_brands.append((brand_name, brand_url))
                             

@@ -49,6 +49,7 @@ class KnowdeAuth:
         """
         try:
             if not self._init_driver():
+                print("Не удалось инициализировать драйвер")
                 return None
 
             print("Начинаем процесс авторизации...")
@@ -105,7 +106,9 @@ class KnowdeAuth:
             }
             
         except Exception as e:
-            print(f"Ошибка при авторизации: {e}")
+            print(f"Ошибка при авторизации: {str(e)}")
+            import traceback
+            print(traceback.format_exc())  # Выводим полный стек ошибки
             if self.driver:
                 self.driver.quit()
             return None

@@ -9,13 +9,22 @@ sys.path.append(str(project_root))
 from src.storage.brand_storage import BrandStorage
 from src.processor.brand_processor import BrandProcessor
 from src.service.brand_service import BrandService
+from src.auth.knowde_auth import KnowdeAuth
 
 def main():
     """Извлечение продуктов из JSON файлов брендов"""
     try:
+        # Инициализируем авторизацию и получаем драйвер
+        auth = KnowdeAuth()
+        session = auth.login()
+        
+        if not session:
+            print("Ошибка авторизации")
+            sys.exit(1)
+            
         storage = BrandStorage()
         processor = BrandProcessor(storage)
-        service = BrandService(storage, processor)
+        service = BrandService(storage, processor, driver=session['driver'])
 
         # Получаем список всех брендов
         brands = service.list_available_brands()
@@ -32,6 +41,10 @@ def main():
     except Exception as e:
         print(f"Ошибка при извлечении продуктов: {str(e)}")
         sys.exit(1)
+    finally:
+        # Закрываем браузер
+        if 'session' in locals() and session and 'driver' in session:
+            session['driver'].quit()
 
 if __name__ == "__main__":
     main() 

@@ -2,11 +2,15 @@
 import json
 from pathlib import Path
 from typing import Dict, List, Optional
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 from src.storage.brand_storage import BrandStorage
 
 class ProductExtractor:
-    def __init__(self, storage: BrandStorage, output_dir: str = "data/products"):
+    def __init__(self, storage: BrandStorage, driver=None, output_dir: str = "data/products"):
         self.storage = storage
+        self.driver = driver
         self.output_dir = Path(output_dir)
         self.output_dir.mkdir(parents=True, exist_ok=True)
 
@@ -118,13 +122,17 @@ class ProductExtractor:
                 'company_slug': product.get('company_slug'),
                 'company_id': product.get('company_id'),
                 'summary': product.get('summary'),
+                # URL продукта на Knowde
+                'product_url': f"https://www.knowde.com/stores/{product.get('company_slug')}/products/{product.get('slug')}",
                 # Изображения
                 'logo_url': product.get('logo_url'),
                 'banner_url': product.get('banner_url'),
                 
                 # Свойства продукта
                 'properties': {},
-                'brand_properties': brand_properties
+                'brand_properties': brand_properties,
+                # Добавляем поле для таблиц
+                'tables': []
             }
             
             # Обработка properties
@@ -141,11 +149,85 @@ class ProductExtractor:
                     summary_items = summary_item.get('items', [])
                     processed['summary'][summary_name] = summary_items
 
+            # Если есть драйвер, извлекаем таблицы
+            if self.driver:
+                tables = self._extract_product_tables(processed['product_url'])
+                if tables:
+                    processed['tables'] = tables
+
             return processed
 
         except (KeyError, TypeError, AttributeError) as e:
             print(f"Ошибка при обработке продукта {product.get('name', 'Unknown')}: {str(e)}")
             return None
+
+    def _extract_product_tables(self, product_url: str) -> List[Dict]:
+        """
+        Извлекает структурированные данные из таблиц на странице продукта.
+        
+        Args:
+            product_url: URL страницы продукта
+        Returns:
+            List[Dict]: Список таблиц в формате {'headers': [...], 'rows': [[...]]}
+        """
+        tables_data = []
+        try:
+            print(f"Загрузка страницы продукта: {product_url}")
+            self.driver.get(product_url)
+            
+            # Ждем загрузки таблиц
+            WebDriverWait(self.driver, 10).until(
+                EC.presence_of_element_located((By.CSS_SELECTOR, "table[class^='table-content_table']"))
+            )
+            
+            # Получаем все таблицы
+            table_elements = self.driver.find_elements(By.CSS_SELECTOR, "table[class^='table-content_table']")
+            
+            for table in table_elements:
+                # Извлекаем заголовки из первой строки thead
+                headers = []
+                header_row = table.find_element(By.CSS_SELECTOR, "thead tr")
+                header_cells = header_row.find_elements(By.CSS_SELECTOR, "td")
+                for cell in header_cells:
+                    headers.append(cell.text.strip())
+                
+                # Если заголовки не найдены через td, пробуем через th
+                if not headers:
+                    header_cells = header_row.find_elements(By.CSS_SELECTOR, "th")
+                    for cell in header_cells:
+                        headers.append(cell.text.strip())
+                
+                # Извлекаем строки данных
+                rows = []
+                row_elements = table.find_elements(By.CSS_SELECTOR, "tbody tr")
+                for row in row_elements:
+                    row_data = []
+                    cells = row.find_elements(By.CSS_SELECTOR, "td")
+                    for cell in cells:
+                        row_data.append(cell.text.strip())
+                    if row_data:  # Добавляем только непустые строки
+                        rows.append(row_data)
+                
+                # Добавляем структурированные данные таблицы
+                if headers or rows:
+                    table_name = ""
+                    # Пытаемся найти название таблицы в caption
+                    caption = table.find_elements(By.CSS_SELECTOR, "caption")
+                    if caption:
+                        table_name = caption[0].text.strip()
+                    
+                    tables_data.append({
+                        'name': table_name,
+                        'headers': headers,
+                        'rows': rows
+                    })
+                
+            print(f"Извлечено таблиц: {len(tables_data)}")
+            return tables_data
+            
+        except Exception as e:
+            print(f"Ошибка при извлечении таблиц для {product_url}: {str(e)}")
+            return []
 
     def _save_product(self, product: Dict) -> None:
         """

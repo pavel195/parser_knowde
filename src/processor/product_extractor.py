@@ -131,8 +131,10 @@ class ProductExtractor:
                 # Свойства продукта
                 'properties': {},
                 'brand_properties': brand_properties,
-                # Добавляем поле для таблиц
-                'tables': []
+                # Добавляем поля для таблиц, ссылок и документов
+                'tables': [],
+                'links': {},
+                'documents': {}
             }
             
             # Обработка properties
@@ -149,11 +151,12 @@ class ProductExtractor:
                     summary_items = summary_item.get('items', [])
                     processed['summary'][summary_name] = summary_items
 
-            # Если есть драйвер, извлекаем таблицы
+            # Если есть драйвер, извлекаем таблицы, ссылки и документы
             if self.driver:
-                tables = self._extract_product_tables(processed['product_url'])
-                if tables:
-                    processed['tables'] = tables
+                extracted_data = self._extract_product_tables(processed['product_url'])
+                processed['tables'] = extracted_data['tables']
+                processed['links'] = extracted_data['links']
+                processed['documents'] = extracted_data['documents']
 
             return processed
 
@@ -161,16 +164,21 @@ class ProductExtractor:
             print(f"Ошибка при обработке продукта {product.get('name', 'Unknown')}: {str(e)}")
             return None
 
-    def _extract_product_tables(self, product_url: str) -> List[Dict]:
+    def _extract_product_tables(self, product_url: str) -> Dict:
         """
-        Извлекает структурированные данные из таблиц на странице продукта.
+        Извлекает структурированные данные из таблиц и ссылок на странице продукта.
         
         Args:
             product_url: URL страницы продукта
         Returns:
-            List[Dict]: Список таблиц в формате {'headers': [...], 'rows': [[...]]}
+            Dict: Словарь с таблицами и ссылками
         """
-        tables_data = []
+        result = {
+            'tables': [],
+            'links': {},
+            'documents': {}
+        }
+        
         try:
             print(f"Загрузка страницы продукта: {product_url}")
             self.driver.get(product_url)
@@ -216,18 +224,32 @@ class ProductExtractor:
                     if caption:
                         table_name = caption[0].text.strip()
                     
-                    tables_data.append({
+                    result['tables'].append({
                         'name': table_name,
                         'headers': headers,
                         'rows': rows
                     })
+            
+            # Получаем все ссылки product-details
+            link_elements = self.driver.find_elements(By.CSS_SELECTOR, "a[class^='product-details_link']")
+            for link in link_elements:
+                link_text = link.text.strip()
+                if link_text:  # Сохраняем только ссылки с непустым текстом
+                    result['links'][link_text] = link.get_attribute('href')
+
+            # Получаем все ссылки на документы
+            doc_elements = self.driver.find_elements(By.CSS_SELECTOR, "a[class^='document-list-item_container']")
+            for doc in doc_elements:
+                doc_text = doc.text.strip()
+                if doc_text:  # Сохраняем только ссылки с непустым текстом
+                    result['documents'][doc_text] = doc.get_attribute('href')
                 
-            print(f"Извлечено таблиц: {len(tables_data)}")
-            return tables_data
+            print(f"Извлечено таблиц: {len(result['tables'])}, ссылок: {len(result['links'])}, документов: {len(result['documents'])}")
+            return result
             
         except Exception as e:
-            print(f"Ошибка при извлечении таблиц для {product_url}: {str(e)}")
-            return []
+            print(f"Ошибка при извлечении данных для {product_url}: {str(e)}")
+            return {'tables': [], 'links': {}, 'documents': {}}
 
     def _save_product(self, product: Dict) -> None:
         """

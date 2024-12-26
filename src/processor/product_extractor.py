@@ -117,7 +117,7 @@ class ProductExtractor:
                 'company_name': product.get('company_name'),
                 'company_slug': product.get('company_slug'),
                 'company_id': product.get('company_id'),
-                
+                'summary': product.get('summary'),
                 # Изображения
                 'logo_url': product.get('logo_url'),
                 'banner_url': product.get('banner_url'),

@@ -164,7 +164,7 @@ class ProductExtractor:
 
     def _extract_product_tables(self, product_url: str) -> Dict:
         """
-        Извлекает структурированные данные из таблиц и документов на странице продукта.
+        Извлекает данные из таблиц и документов на странице продукта.
         
         Args:
             product_url: URL страницы продукта

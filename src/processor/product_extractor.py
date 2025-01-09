@@ -155,6 +155,8 @@ class ProductExtractor:
                 extracted_data = self._extract_product_tables(processed['product_url'])
                 processed['tables'] = extracted_data['tables']
                 processed['documents'] = extracted_data['documents']
+                processed['img'] = extracted_data['img']
+                processed['info'] = extracted_data['info']
 
             return processed
 
@@ -169,77 +171,128 @@ class ProductExtractor:
         Args:
             product_url: URL страницы продукта
         Returns:
-            Dict: Словарь с таблицами и документами
+            Dict: Словарь с таблицами, документами, изображениями и информацией
         """
         result = {
             'tables': [],
-            'documents': {}
+            'documents': {},
+            'img': [],
+            'info': []
         }
-        
+
         try:
             print(f"Загрузка страницы продукта: {product_url}")
             self.driver.get(product_url)
             
-            # Ждем загрузки таблиц
+            # Ждем загрузки элементов
             WebDriverWait(self.driver, 10).until(
-                EC.presence_of_element_located((By.CSS_SELECTOR, "table[class^='table-content_table']"))
+                EC.presence_of_all_elements_located((By.CSS_SELECTOR, "table[class^='table-content_table']"))
             )
+
             
-            # Получаем все таблицы
+            # Извлечение таблиц из основного контента
             table_elements = self.driver.find_elements(By.CSS_SELECTOR, "table[class^='table-content_table']")
-            
             for table in table_elements:
-                # Извлекаем заголовки из первой строки thead
+                # Обработка таблиц первого типа
                 headers = []
                 header_row = table.find_element(By.CSS_SELECTOR, "thead tr")
-                header_cells = header_row.find_elements(By.CSS_SELECTOR, "td")
-                for cell in header_cells:
-                    headers.append(cell.text.strip())
+                header_cells = header_row.find_elements(By.CSS_SELECTOR, "td, th")
+                headers = [cell.text.strip() for cell in header_cells]
                 
-                # Если заголовки не найдены через td, пробуем через th
-                if not headers:
-                    header_cells = header_row.find_elements(By.CSS_SELECTOR, "th")
-                    for cell in header_cells:
-                        headers.append(cell.text.strip())
-                
-                # Извлекаем строки данных
                 rows = []
                 row_elements = table.find_elements(By.CSS_SELECTOR, "tbody tr")
                 for row in row_elements:
-                    row_data = []
-                    cells = row.find_elements(By.CSS_SELECTOR, "td")
-                    for cell in cells:
-                        row_data.append(cell.text.strip())
-                    if row_data:  # Добавляем только непустые строки
+                    row_data = [cell.text.strip() for cell in row.find_elements(By.CSS_SELECTOR, "td")]
+                    if row_data:
                         rows.append(row_data)
                 
-                # Добавляем структурированные данные таблицы
                 if headers or rows:
                     table_name = ""
-                    # Пытаемся найти название таблицы в caption
                     caption = table.find_elements(By.CSS_SELECTOR, "caption")
                     if caption:
                         table_name = caption[0].text.strip()
                     
                     result['tables'].append({
+                        'type': 'content',
                         'name': table_name,
                         'headers': headers,
                         'rows': rows
                     })
-
-            # Получаем все ссылки на документы
+            # Извлечение документов
             doc_elements = self.driver.find_elements(By.CSS_SELECTOR, "a[class^='document-list-item_container']")
             for doc in doc_elements:
                 doc_text = doc.text.strip()
-                if doc_text:  # Сохраняем только ссылки с непустым текстом
+                if doc_text:
                     result['documents'][doc_text] = doc.get_attribute('href')
-                
-            print(f"Извлечено таблиц: {len(result['tables'])}, документов: {len(result['documents'])}")
+
+            # Извлечение таблиц из div с классом html-content
+            html_content_divs = self.driver.find_elements(By.CSS_SELECTOR, "div[class^='html-content']")
+            for div in html_content_divs:
+                content_tables = div.find_elements(By.CSS_SELECTOR, "table")
+                for table in content_tables:
+                    rows = []
+                    all_rows = table.find_elements(By.CSS_SELECTOR, "tr")
+                    
+                    # Определяем, есть ли заголовок
+                    headers = []
+                    first_row = all_rows[0] if all_rows else None
+                    if first_row:
+                        header_cells = first_row.find_elements(By.CSS_SELECTOR, "th")
+                        if header_cells:
+                            headers = [cell.text.strip() for cell in header_cells]
+                            all_rows = all_rows[1:]  # Пропускаем первую строку, если это заголовок
+                    
+                    # Обработка строк
+                    for row in all_rows:
+                        cells = row.find_elements(By.CSS_SELECTOR, "td")
+                        row_data = [cell.text.strip() for cell in cells]
+                        if row_data:
+                            rows.append(row_data)
+                    
+                    if rows:
+                        result['tables'].append({
+                            'type': 'html_content',
+                            'headers': headers,
+                            'rows': rows
+                        })
+                        
+            # Обработка контента из div
+            for div in html_content_divs:
+                # Изображения с подписями
+                img_elements = div.find_elements(By.CSS_SELECTOR, "img")
+                if img_elements:
+                    for img in img_elements:
+                        img_data = {
+                            'src': img.get_attribute('src'),
+                            'caption': ''
+                        }   
+                        result['img'].append(img_data)
+                    continue
+                # Информационные блоки
+                info_elements = div.find_elements(By.CSS_SELECTOR, "p, ul")
+                for element in info_elements:
+                    if element.tag_name == 'ul':
+                        li_items = element.find_elements(By.CSS_SELECTOR, "li")
+                        list_items = [li.text.strip() for li in li_items if li.text.strip()]
+                        if list_items:
+                            result['info'].append({
+                                'type': 'list',
+                                'content': list_items
+                            })
+                    elif element.tag_name == 'p':
+                        p_text = element.text.strip()
+                        if p_text:
+                            result['info'].append({
+                                'type': 'text',
+                                'content': p_text
+                            })
+
+            print(f"Извлечено таблиц: {len(result['tables'])}, документов: {len(result['documents'])}, изображений: {len(result['img'])}, инфо-блоков: {len(result['info'])}")
             return result
-            
+
         except Exception as e:
             print(f"Ошибка при извлечении данных для {product_url}: {str(e)}")
-            return {'tables': [], 'documents': {}}
+            return {'tables': [], 'documents': {}, 'img': [], 'info': []}
 
     def _save_product(self, product: Dict) -> None:
         """

@@ -2,11 +2,15 @@
 import json
 from pathlib import Path
 from typing import Dict, List, Optional
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 from src.storage.brand_storage import BrandStorage
 
 class ProductExtractor:
-    def __init__(self, storage: BrandStorage, output_dir: str = "data/products"):
+    def __init__(self, storage: BrandStorage, driver=None, output_dir: str = "data/products"):
         self.storage = storage
+        self.driver = driver
         self.output_dir = Path(output_dir)
         self.output_dir.mkdir(parents=True, exist_ok=True)
 
@@ -23,40 +27,83 @@ class ProductExtractor:
         if not brand_data:
             return []
 
-        all_products = []
+        processed_products = []
         
-        # Получаем данные по правильному пути
         try:
-            queries = brand_data.get('pageProps', {}).get('dehydratedState', {}).get('queries', [])
-            if len(queries) > 1:
-                most_viewed = queries[1].get('state', {}).get('data', {}).get('most_viewed_products', {}).get('data', [])
+            queries = brand_data['pageProps']['dehydratedState']['queries']
+            
+            # Получаем свойства бренда
+            brand_properties = self._extract_brand_properties(queries)
+            
+            # Ищем нужный query с продуктами
+            products_query = None
+            for query in queries:
+                if 'state' in query and 'data' in query['state']:
+                    if 'products' in query['state']['data']:
+                        products_query = query
+                        break
+            
+            if products_query and 'data' in products_query['state']['data']['products']:
+                all_products = products_query['state']['data']['products']['data']
                 
-                if most_viewed:
-                    print(f"Найдено {len(most_viewed)} продуктов в most_viewed_products для бренда {brand_name}")
+                if all_products:
+                    print(f"Найдено {len(all_products)} продуктов для бренда {brand_name}")
                     
-                    for product in most_viewed:
-                        processed_product = self._process_product(product, brand_name)
+                    for product in all_products:
+                        processed_product = self._process_product(product, brand_name, brand_properties)
                         if processed_product:
-                            all_products.append(processed_product)
+                            processed_products.append(processed_product)
                             self._save_product(processed_product)
                             print(f"Обработан продукт: {processed_product['name']}")
                 else:
                     print(f"Продукты не найдены для бренда {brand_name}")
             else:
-                print(f"Недостаточно queries в данных бренда {brand_name}")
+                print(f"Структура данных продуктов не найдена для бренда {brand_name}")
                 
         except Exception as e:
             print(f"Ошибка при извлечении продуктов для бренда {brand_name}: {str(e)}")
 
-        return all_products
+        return processed_products
 
-    def _process_product(self, product: Dict, brand_name: str) -> Optional[Dict]:
+    def _extract_brand_properties(self, queries: List[Dict]) -> Dict:
+        """Извлекает свойства из блоков бренда."""
+        brand_properties = {}
+        
+        try:
+            for query in queries:
+                if 'state' in query and 'data' in query['state']:
+                    data = query['state']['data']
+                    if 'details' in data:
+                        for section in data['details']:
+                            for block in section.get('content_blocks', []):
+                                key = block.get('key')
+                                if key:
+                                    if block.get('type') == 'ContentBlockType.FiltersContentBlock':
+                                        brand_properties[key] = [
+                                            f.get('filter_name') for f in block.get('filters', [])
+                                            if f.get('filter_name')
+                                        ]
+                                    elif block.get('type') == 'ContentBlockType.GroupFilterContentBlock':
+                                        values = []
+                                        for group in block.get('group_filters', []):
+                                            if 'header_filter' in group:
+                                                values.append(group['header_filter'].get('filter_name'))
+                                            for f in group.get('filters', []):
+                                                values.append(f.get('filter_name'))
+                                        brand_properties[key] = [v for v in values if v]
+        except (KeyError, TypeError, AttributeError) as e:
+            print(f"Ошибка при извлечении свойств бренда: {str(e)}")
+        
+        return brand_properties
+
+    def _process_product(self, product: Dict, brand_name: str, brand_properties: Dict) -> Optional[Dict]:
         """
         Обрабатывает данные отдельного продукта.
         
         Args:
             product: Исходные данные продукта
             brand_name: Название бренда
+            brand_properties: Свойства бренда
         Returns:
             Dict: Обработанные данные продукта
         """
@@ -69,18 +116,26 @@ class ProductExtractor:
                 'brand': brand_name,
                 'name': product.get('name'),
                 'slug': product.get('slug'),
+                'uuid': product.get('uuid'),
                 'description': product.get('description'),
                 'company_name': product.get('company_name'),
                 'company_slug': product.get('company_slug'),
-                
+                'company_id': product.get('company_id'),
+                'summary': product.get('summary'),
+                # URL продукта на Knowde
+                'product_url': f"https://www.knowde.com/stores/{product.get('company_slug')}/products/{product.get('slug')}",
                 # Изображения
                 'logo_url': product.get('logo_url'),
                 'banner_url': product.get('banner_url'),
                 
                 # Свойства продукта
-                'properties': {}
+                'properties': {},
+                'brand_properties': brand_properties,
+                # Добавляем поля для таблиц и документов
+                'tables': [],
+                'documents': {}
             }
-
+            
             # Обработка properties
             for prop in product.get('properties', []):
                 prop_name = prop.get('name', '')
@@ -95,25 +150,149 @@ class ProductExtractor:
                     summary_items = summary_item.get('items', [])
                     processed['summary'][summary_name] = summary_items
 
-            # Добавляем документы, если есть
-            if 'documents' in product:
-                processed['documents'] = product['documents']
-
-            # Добавляем дополнительные поля, если они есть
-            additional_fields = [
-                'manufacturer', 'specifications',
-                'features', 'applications', 'certifications'
-            ]
-            
-            for field in additional_fields:
-                if field in product:
-                    processed[field] = product[field]
+            # Если есть драйвер, извлекаем таблицы и документы
+            if self.driver:
+                extracted_data = self._extract_product_tables(processed['product_url'])
+                processed['tables'] = extracted_data['tables']
+                processed['documents'] = extracted_data['documents']
+                processed['img'] = extracted_data['img']
+                processed['info'] = extracted_data['info']
 
             return processed
 
-        except Exception as e:
+        except (KeyError, TypeError, AttributeError) as e:
             print(f"Ошибка при обработке продукта {product.get('name', 'Unknown')}: {str(e)}")
             return None
+
+    def _extract_product_tables(self, product_url: str) -> Dict:
+        """
+        Извлекает данные из таблиц и документов на странице продукта.
+        
+        Args:
+            product_url: URL страницы продукта
+        Returns:
+            Dict: Словарь с таблицами, документами, изображениями и информацией
+        """
+        result = {
+            'tables': [],
+            'documents': {},
+            'img': [],
+            'info': []
+        }
+
+        try:
+            print(f"Загрузка страницы продукта: {product_url}")
+            self.driver.get(product_url)
+            
+            # Ждем загрузки элементов
+            WebDriverWait(self.driver, 10).until(
+                EC.presence_of_all_elements_located((By.CSS_SELECTOR, "table[class^='table-content_table']"))
+            )
+
+            
+            # Извлечение таблиц из основного контента
+            table_elements = self.driver.find_elements(By.CSS_SELECTOR, "table[class^='table-content_table']")
+            for table in table_elements:
+                # Обработка таблиц первого типа
+                headers = []
+                header_row = table.find_element(By.CSS_SELECTOR, "thead tr")
+                header_cells = header_row.find_elements(By.CSS_SELECTOR, "td, th")
+                headers = [cell.text.strip() for cell in header_cells]
+                
+                rows = []
+                row_elements = table.find_elements(By.CSS_SELECTOR, "tbody tr")
+                for row in row_elements:
+                    row_data = [cell.text.strip() for cell in row.find_elements(By.CSS_SELECTOR, "td")]
+                    if row_data:
+                        rows.append(row_data)
+                
+                if headers or rows:
+                    table_name = ""
+                    caption = table.find_elements(By.CSS_SELECTOR, "caption")
+                    if caption:
+                        table_name = caption[0].text.strip()
+                    
+                    result['tables'].append({
+                        'type': 'content',
+                        'name': table_name,
+                        'headers': headers,
+                        'rows': rows
+                    })
+            # Извлечение документов
+            doc_elements = self.driver.find_elements(By.CSS_SELECTOR, "a[class^='document-list-item_container']")
+            for doc in doc_elements:
+                doc_text = doc.text.strip()
+                if doc_text:
+                    result['documents'][doc_text] = doc.get_attribute('href')
+
+            # Извлечение таблиц из div с классом html-content
+            html_content_divs = self.driver.find_elements(By.CSS_SELECTOR, "div[class^='html-content']")
+            for div in html_content_divs:
+                content_tables = div.find_elements(By.CSS_SELECTOR, "table")
+                for table in content_tables:
+                    rows = []
+                    all_rows = table.find_elements(By.CSS_SELECTOR, "tr")
+                    
+                    # Определяем, есть ли заголовок
+                    headers = []
+                    first_row = all_rows[0] if all_rows else None
+                    if first_row:
+                        header_cells = first_row.find_elements(By.CSS_SELECTOR, "th")
+                        if header_cells:
+                            headers = [cell.text.strip() for cell in header_cells]
+                            all_rows = all_rows[1:]  # Пропускаем первую строку, если это заголовок
+                    
+                    # Обработка строк
+                    for row in all_rows:
+                        cells = row.find_elements(By.CSS_SELECTOR, "td")
+                        row_data = [cell.text.strip() for cell in cells]
+                        if row_data:
+                            rows.append(row_data)
+                    
+                    if rows:
+                        result['tables'].append({
+                            'type': 'html_content',
+                            'headers': headers,
+                            'rows': rows
+                        })
+                        
+            # Обработка контента из div
+            for div in html_content_divs:
+                # Изображения с подписями
+                img_elements = div.find_elements(By.CSS_SELECTOR, "img")
+                if img_elements:
+                    for img in img_elements:
+                        img_data = {
+                            'src': img.get_attribute('src'),
+                            'caption': ''
+                        }   
+                        result['img'].append(img_data)
+                    continue
+                # Информационные блоки
+                info_elements = div.find_elements(By.CSS_SELECTOR, "p, ul")
+                for element in info_elements:
+                    if element.tag_name == 'ul':
+                        li_items = element.find_elements(By.CSS_SELECTOR, "li")
+                        list_items = [li.text.strip() for li in li_items if li.text.strip()]
+                        if list_items:
+                            result['info'].append({
+                                'type': 'list',
+                                'content': list_items
+                            })
+                    elif element.tag_name == 'p':
+                        p_text = element.text.strip()
+                        if p_text:
+                            result['info'].append({
+                                'type': 'text',
+                                'content': p_text
+                            })
+
+            print(f"Извлечено таблиц: {len(result['tables'])}, документов: {len(result['documents'])}, изображений: {len(result['img'])}, инфо-блоков: {len(result['info'])}")
+            return result
+
+        except Exception as e:
+            print(f"Ошибка при извлечении данных для {product_url}: {str(e)}")
+            return {'tables': [], 'documents': {}, 'img': [], 'info': []}
 
     def _save_product(self, product: Dict) -> None:
         """

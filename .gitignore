@@ -1,14 +1,13 @@
 .venv/
 __pycache__/
 **/__pycache__/**
-
-
-*.py[cod]
+data/sessions/
+*.pyc
 *$py.class
-
+products/
 # C extensions
 *.so
-
+*.pyc
 *.log
 error_categories.png
 .env.example

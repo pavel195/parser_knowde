@@ -49,9 +49,10 @@ class KnowdeAuth:
         """
         try:
             if not self._init_driver():
+                print("Не удалось инициализировать драйвер")
                 return None
 
-            print("Начинаем процесс авторизации...")
+            print("Начинаем процесс ав��оризации...")
             self.driver.get("https://www.knowde.com")
             self._random_delay(1.5, 3.0)
             
@@ -105,7 +106,9 @@ class KnowdeAuth:
             }
             
         except Exception as e:
-            print(f"Ошибка при авторизации: {e}")
+            print(f"Ошибка при авторизации: {str(e)}")
+            import traceback
+            print(traceback.format_exc())  # Выводим полный стек ошибки
             if self.driver:
                 self.driver.quit()
             return None
@@ -136,3 +139,19 @@ class KnowdeAuth:
         for char in text:
             element.send_keys(char)
             self._random_delay(0.1, 0.3) 
+
+    def login(self) -> Optional[Dict]:
+        """
+        Выполняет вход в систему, используя учетные данные из переменных окружения.
+        
+        Returns:
+            Dict: Данные сессии и драйвер или None при ошибке
+        """
+        email = os.getenv('KNOWDE_EMAIL')
+        password = os.getenv('KNOWDE_PASSWORD')
+        
+        if not email or not password:
+            print("Ошибка: Не заданы переменные окружения KNOWDE_EMAIL и KNOWDE_PASSWORD")
+            return None
+            
+        return self.get_auth_session(email, password) 

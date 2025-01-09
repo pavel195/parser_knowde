@@ -1,0 +1,36 @@
+version: '3.8'
+
+services:
+  parser:
+    build: .
+    environment:
+      - KNOWDE_EMAIL=${KNOWDE_EMAIL}
+      - KNOWDE_PASSWORD=${KNOWDE_PASSWORD}
+      - PYTHONPATH=/app
+    volumes:
+      - ./data:/app/data
+    command: >
+      bash -c "Xvfb :99 -screen 0 1920x1080x24 > /dev/null 2>&1 & 
+      python scripts/run_parser.py"
+
+  api:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      - PYTHONPATH=/app
+    volumes:
+      - ./data:/app/data
+    command: uvicorn src.api.api:app --host 0.0.0.0 --port 8000
+
+  product_extractor:
+    build: .
+    environment:
+      - KNOWDE_EMAIL=${KNOWDE_EMAIL}
+      - KNOWDE_PASSWORD=${KNOWDE_PASSWORD}
+      - PYTHONPATH=/app
+    volumes:
+      - ./data:/app/data
+    command: >
+      bash -c "Xvfb :99 -screen 0 1920x1080x24 > /dev/null 2>&1 & 
+      python scripts/extract_products.py" 

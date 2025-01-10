@@ -138,7 +138,7 @@ class BrandParser:
             # for i in range(2, 10+ 1):
             #     links.append(f"{link}/brands/{i}")
                 
-        print(f"Собрано {len(links)} ссылок на катего��ии с пагинацией")
+        print(f"Собрано {len(links)} ссылок на категории с пагинацией")
         return links
 
     def process_brands(self, brand_links: Set[str]) -> None:

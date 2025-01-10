@@ -52,7 +52,7 @@ class KnowdeAuth:
                 print("Не удалось инициализировать драйвер")
                 return None
 
-            print("Начинаем процесс ав��оризации...")
+            print("Начинаем процесс автооризации...")
             self.driver.get("https://www.knowde.com")
             self._random_delay(1.5, 3.0)
             

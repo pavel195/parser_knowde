@@ -8,13 +8,13 @@ project_root = Path(__file__).parent.parent
 sys.path.append(str(project_root))
 
 from src.parser.brand_parser import BrandParser
-from src.storage.brand_storage import BrandStorage
+from src.storage.db_storage import DBStorage
 from src.auth.knowde_auth import KnowdeAuth
 
 def main():
     """Основная функция для запуска парсера"""
     try:
-        storage = BrandStorage()
+        storage = DBStorage()
         
         # Инициализация авторизации
         auth = KnowdeAuth()

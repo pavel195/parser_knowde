@@ -5,14 +5,12 @@ from typing import Dict, List, Optional
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from src.storage.brand_storage import BrandStorage
+from src.storage.db_storage import DBStorage
 
 class ProductExtractor:
-    def __init__(self, storage: BrandStorage, driver=None, output_dir: str = "data/products"):
+    def __init__(self, storage: DBStorage, driver=None):
         self.storage = storage
         self.driver = driver
-        self.output_dir = Path(output_dir)
-        self.output_dir.mkdir(parents=True, exist_ok=True)
 
     def extract_products_from_brand(self, brand_name: str) -> List[Dict]:
         """
@@ -53,7 +51,7 @@ class ProductExtractor:
                         processed_product = self._process_product(product, brand_name, brand_properties)
                         if processed_product:
                             processed_products.append(processed_product)
-                            self._save_product(processed_product)
+                            self.storage.save_product(processed_product)
                             print(f"Обработан продукт: {processed_product['name']}")
                 else:
                     print(f"Продукты не найдены для бренда {brand_name}")
@@ -292,21 +290,4 @@ class ProductExtractor:
 
         except Exception as e:
             print(f"Ошибка при извлечении данных для {product_url}: {str(e)}")
-            return {'tables': [], 'documents': {}, 'img': [], 'info': []}
-
-    def _save_product(self, product: Dict) -> None:
-        """
-        Сохраняет обработанный продукт в отдельный JSON файл.
-        
-        Args:
-            product: Обработанные данные продукта
-        """
-        if not product or 'id' not in product:
-            return
-
-        brand_dir = self.output_dir / product['brand']
-        brand_dir.mkdir(exist_ok=True)
-
-        file_path = brand_dir / f"{product['id']}.json"
-        with open(file_path, 'w', encoding='utf-8') as f:
-            json.dump(product, f, ensure_ascii=False, indent=4) 
+            return {'tables': [], 'documents': {}, 'img': [], 'info': []} 

@@ -6,7 +6,7 @@ from pathlib import Path
 project_root = Path(__file__).parent.parent
 sys.path.append(str(project_root))
 
-from src.storage.brand_storage import BrandStorage
+from src.storage.db_storage import DBStorage
 from src.processor.brand_processor import BrandProcessor
 from src.service.brand_service import BrandService
 from src.auth.knowde_auth import KnowdeAuth
@@ -22,7 +22,7 @@ def main():
             print("Ошибка авторизации")
             sys.exit(1)
             
-        storage = BrandStorage()
+        storage = DBStorage()
         processor = BrandProcessor(storage)
         service = BrandService(storage, processor, driver=session['driver'])
 

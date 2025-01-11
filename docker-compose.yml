@@ -1,4 +1,22 @@
+version: '3.8'
+
 services:
+  postgres:
+    image: postgres:13
+    environment:
+      POSTGRES_DB: knowde_db
+      POSTGRES_USER: knowde_user
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U knowde_user -d knowde_db"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
   parser:
     build: .
     restart: on-failure
@@ -6,8 +24,12 @@ services:
       - KNOWDE_EMAIL=${KNOWDE_EMAIL}
       - KNOWDE_PASSWORD=${KNOWDE_PASSWORD}
       - PYTHONPATH=/app
+      - DATABASE_URL=postgresql://knowde_user:${POSTGRES_PASSWORD}@postgres:5432/knowde_db
     volumes:
       - ./data:/app/data
+      depends_on:
+        postgres:
+          condition: service_healthy
     command: >
       bash -c "Xvfb :99 -screen 0 1920x1080x24 > /dev/null 2>&1 & 
       python scripts/run_parser.py"
@@ -19,8 +41,12 @@ services:
       - "8000:8000"
     environment:
       - PYTHONPATH=/app
+      - DATABASE_URL=postgresql://knowde_user:${POSTGRES_PASSWORD}@postgres:5432/knowde_db
     volumes:
       - ./data:/app/data
+      depends_on:
+        postgres:
+          condition: service_healthy
     command: uvicorn src.api.api:app --host 0.0.0.0 --port 8000
 
   product_extractor:
@@ -30,8 +56,15 @@ services:
       - KNOWDE_EMAIL=${KNOWDE_EMAIL}
       - KNOWDE_PASSWORD=${KNOWDE_PASSWORD}
       - PYTHONPATH=/app
+      - DATABASE_URL=postgresql://knowde_user:${POSTGRES_PASSWORD}@postgres:5432/knowde_db
     volumes:
       - ./data:/app/data
+      depends_on:
+        postgres:
+          condition: service_healthy
     command: >
       bash -c "Xvfb :99 -screen 0 1920x1080x24 > /dev/null 2>&1 & 
       python scripts/extract_products.py"
+
+volumes:
+  postgres_data:

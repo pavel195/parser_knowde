@@ -1,9 +1,9 @@
 """Модуль для обработки данных брендов."""
 from typing import Dict, List, Optional
-from src.storage.brand_storage import BrandStorage
+from src.storage.db_storage import DBStorage
 
 class BrandProcessor:
-    def __init__(self, storage: BrandStorage):
+    def __init__(self, storage: DBStorage):
         self.storage = storage
 
     def get_brand_summary(self, brand_name: str) -> Optional[Dict]:

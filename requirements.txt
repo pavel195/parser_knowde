@@ -19,6 +19,7 @@ lxml_html_clean==0.4.1
 outcome==1.3.0.post0
 packaging==24.2
 parse==1.20.2
+psycopg2-binary==2.9.9
 pydantic==1.10.20
 pyee==11.1.1
 pyppeteer==2.0.0
@@ -38,7 +39,7 @@ starlette==0.14.2
 tqdm==4.67.1
 trio==0.28.0
 trio-websocket==0.11.1
-typing_extensions==4.12.2
+typing_extensions==4.12.0
 urllib3==1.26.20
 uvicorn==0.15.0
 w3lib==2.2.1

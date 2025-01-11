@@ -6,6 +6,8 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from src.storage.db_storage import DBStorage
+from selenium.common.exceptions import TimeoutException
+import time
 
 class ProductExtractor:
     def __init__(self, storage: DBStorage, driver=None):
@@ -13,25 +15,23 @@ class ProductExtractor:
         self.driver = driver
 
     def extract_products_from_brand(self, brand_name: str) -> List[Dict]:
-        """
-        Извлекает все продукты из JSON файла бренда и сохраняет их отдельно.
+        """Извлекает все продукты из JSON файла бренда и сохраняет их отдельно."""
+        print(f"Начинаем извлечение продуктов для бренда: {brand_name}")
         
-        Args:
-            brand_name: Название бренда
-        Returns:
-            List[Dict]: Список обработанных продуктов
-        """
         brand_data = self.storage.load_brand_data(brand_name)
         if not brand_data:
+            print(f"Не найдены данные для бренда: {brand_name}")
             return []
 
         processed_products = []
         
         try:
             queries = brand_data['pageProps']['dehydratedState']['queries']
+            print(f"Найдено {len(queries)} queries для бренда {brand_name}")
             
             # Получаем свойства бренда
             brand_properties = self._extract_brand_properties(queries)
+            print(f"Извлечены свойства бренда: {brand_properties}")
             
             # Ищем нужный query с продуктами
             products_query = None
@@ -54,14 +54,15 @@ class ProductExtractor:
                             self.storage.save_product(processed_product)
                             print(f"Обработан продукт: {processed_product['name']}")
                 else:
-                    print(f"Продукты не найдены для бренда {brand_name}")
+                    print(f"Не найдено продуктов для бренда {brand_name}")
             else:
-                print(f"Структура данных продуктов не найдена для бренда {brand_name}")
-                
-        except Exception as e:
-            print(f"Ошибка при извлечении продуктов для бренда {brand_name}: {str(e)}")
+                print(f"Не найден query с продуктами для бренда {brand_name}")
 
-        return processed_products
+            return processed_products
+
+        except Exception as e:
+            print(f"Ошибка при обработке бренда {brand_name}: {str(e)}")
+            return []
 
     def _extract_brand_properties(self, queries: List[Dict]) -> Dict:
         """Извлекает свойства из блоков бренда."""
@@ -163,14 +164,7 @@ class ProductExtractor:
             return None
 
     def _extract_product_tables(self, product_url: str) -> Dict:
-        """
-        Извлекает данные из таблиц и документов на странице продукта.
-        
-        Args:
-            product_url: URL страницы продукта
-        Returns:
-            Dict: Словарь с таблицами, документами, изображениями и информацией
-        """
+        """Извлекает данные из таблиц и документов на странице продукта."""
         result = {
             'tables': [],
             'documents': {},
@@ -180,8 +174,17 @@ class ProductExtractor:
 
         try:
             print(f"Загрузка страницы продукта: {product_url}")
-            self.driver.get(product_url)
             
+            # Добавляем настройки для стабильной работы
+            self.driver.set_page_load_timeout(30)
+            self.driver.set_script_timeout(30)
+            
+            # Добавляем обработку ошибок загрузки страницы
+            try:
+                self.driver.get(product_url)
+            except TimeoutException:
+                self.driver.execute_script("window.stop();")
+
             # Ждем загрузки элементов
             WebDriverWait(self.driver, 10).until(
                 EC.presence_of_all_elements_located((By.CSS_SELECTOR, "table[class^='table-content_table']"))
@@ -291,3 +294,23 @@ class ProductExtractor:
         except Exception as e:
             print(f"Ошибка при извлечении данных для {product_url}: {str(e)}")
             return {'tables': [], 'documents': {}, 'img': [], 'info': []} 
+
+    def run(self):
+        """Основной цикл обработки"""
+        while True:
+            brand = self.queue.get_next_brand()
+            if not brand:
+                time.sleep(5)  # Ждем новые бренды
+                continue
+            
+            try:
+                print(f"Обработка бренда: {brand}")
+                products = self.extract_products_from_brand(brand)
+                self.storage.update_brand_status(
+                    brand, 
+                    'completed',
+                    products_count=len(products)
+                )
+            except Exception as e:
+                print(f"Ошибка обработки бренда {brand}: {e}")
+                self.storage.update_brand_status(brand, 'failed', str(e)) 

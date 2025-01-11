@@ -1,70 +1,94 @@
 version: '3.8'
 
+x-build-args: &build-args
+  context: .
+  dockerfile: Dockerfile
+  shm_size: '2gb'
+  network: host
+
 services:
+  redis:
+    image: redis:7-alpine
+    pull_policy: if_not_present
+
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+    command: redis-server --appendonly yes
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 5s
+      timeout: 3s
+      retries: 5
+    deploy:
+      resources:
+        limits:
+          memory: 512M
+
   postgres:
     image: postgres:13
+    pull_policy: if_not_present
     environment:
-      POSTGRES_DB: knowde_db
-      POSTGRES_USER: knowde_user
+      POSTGRES_DB: postgres
+      POSTGRES_USER: postgres
       POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
     volumes:
       - postgres_data:/var/lib/postgresql/data
+      - ./docker/postgres/init.sql:/docker-entrypoint-initdb.d/init.sql
     ports:
       - "5432:5432"
     healthcheck:
-      test: ["CMD-SHELL", "pg_isready -U knowde_user -d knowde_db"]
+      test: ["CMD-SHELL", "pg_isready -U postgres"]
       interval: 10s
       timeout: 5s
       retries: 5
+    deploy:
+      resources:
+        limits:
+          memory: 1G
 
-  parser:
-    build: .
-    restart: on-failure
+  brand_collector:
+    build:
+      <<: *build-args
+    restart: unless-stopped
     environment:
       - KNOWDE_EMAIL=${KNOWDE_EMAIL}
       - KNOWDE_PASSWORD=${KNOWDE_PASSWORD}
       - PYTHONPATH=/app
-      - DATABASE_URL=postgresql://knowde_user:${POSTGRES_PASSWORD}@postgres:5432/knowde_db
+      - DATABASE_URL=${DATABASE_URL}
+      - REDIS_URL=redis://redis:6379/0
     volumes:
       - ./data:/app/data
-      depends_on:
-        postgres:
-          condition: service_healthy
+    depends_on:
+      redis:
+        condition: service_healthy
+      postgres:
+        condition: service_healthy
+    deploy:
+      resources:
+        limits:
+          memory: 2G
     command: >
-      bash -c "Xvfb :99 -screen 0 1920x1080x24 > /dev/null 2>&1 & 
-      python scripts/run_parser.py"
-
-  api:
-    build: .
-    restart: on-failure
-    ports:
-      - "8000:8000"
-    environment:
-      - PYTHONPATH=/app
-      - DATABASE_URL=postgresql://knowde_user:${POSTGRES_PASSWORD}@postgres:5432/knowde_db
-    volumes:
-      - ./data:/app/data
-      depends_on:
-        postgres:
-          condition: service_healthy
-    command: uvicorn src.api.api:app --host 0.0.0.0 --port 8000
+      bash -c "
+        python scripts/wait_for_db.py &&
+        python scripts/run_collector.py
+      "
 
   product_extractor:
-    build: .
-    restart: on-failure
-    environment:
-      - KNOWDE_EMAIL=${KNOWDE_EMAIL}
-      - KNOWDE_PASSWORD=${KNOWDE_PASSWORD}
-      - PYTHONPATH=/app
-      - DATABASE_URL=postgresql://knowde_user:${POSTGRES_PASSWORD}@postgres:5432/knowde_db
-    volumes:
-      - ./data:/app/data
-      depends_on:
-        postgres:
-          condition: service_healthy
+    build:
+      <<: *build-args
+    restart: unless-stopped
+    deploy:
+      replicas: 3
+    depends_on:
+      - brand_collector
     command: >
-      bash -c "Xvfb :99 -screen 0 1920x1080x24 > /dev/null 2>&1 & 
-      python scripts/extract_products.py"
+      bash -c "
+        python scripts/wait_for_db.py &&
+        python scripts/run_extractor.py
+      "
 
 volumes:
   postgres_data:
+  redis_data:

@@ -4,6 +4,7 @@ import json
 from typing import Dict, List, Optional
 import psycopg2
 from psycopg2.extras import Json
+import time
 
 class DBStorage:
     def __init__(self):
@@ -14,12 +15,30 @@ class DBStorage:
 
     def connect(self):
         """Подключение к базе данных"""
-        try:
-            self.conn = psycopg2.connect(os.getenv('DATABASE_URL'))
-            self.cur = self.conn.cursor()
-        except Exception as e:
-            print(f"Ошибка подключения к базе данных: {e}")
-            raise
+        max_retries = 5
+        retry_delay = 2
+
+        for attempt in range(max_retries):
+            try:
+                self.conn = psycopg2.connect(
+                    os.getenv('DATABASE_URL'),
+                    connect_timeout=10
+                )
+                self.cur = self.conn.cursor()
+                
+                # Проверяем подключение
+                self.cur.execute('SELECT 1')
+                print("Успешное подключение к базе данных")
+                return
+                
+            except Exception as e:
+                print(f"Попытка {attempt + 1}/{max_retries}: Ошибка подключения к базе данных: {e}")
+                if self.conn:
+                    self.conn.close()
+                if attempt < max_retries - 1:
+                    time.sleep(retry_delay)
+                else:
+                    raise
 
     def create_tables(self):
         """Создание необходимых таблиц"""
@@ -92,6 +111,53 @@ class DBStorage:
         except Exception as e:
             print(f"Ошибка сохранения продукта {product.get('id')}: {e}")
             self.conn.rollback()
+
+    def update_brand_status(self, brand_name: str, status: str, error: str = None) -> None:
+        """Обновление статуса бренда"""
+        try:
+            self.cur.execute("""
+                UPDATE brands 
+                SET status = %s, 
+                    error_message = %s,
+                    updated_at = CURRENT_TIMESTAMP
+                WHERE brand_name = %s;
+            """, (status, error, brand_name))
+            self.conn.commit()
+        except Exception as e:
+            print(f"Ошибка обновления статуса бренда {brand_name}: {e}")
+            self.conn.rollback()
+
+    def update_extraction_status(self, brand_name: str, status: str, 
+                               products_count: int = None, error: str = None) -> None:
+        """Обновление статуса извлечения продуктов"""
+        try:
+            self.cur.execute("""
+                UPDATE brands 
+                SET products_extracted = %s,
+                    products_count = COALESCE(%s, products_count),
+                    last_processed_at = CURRENT_TIMESTAMP,
+                    updated_at = CURRENT_TIMESTAMP,
+                    error_message = %s
+                WHERE brand_name = %s;
+            """, (status == 'completed', products_count, error, brand_name))
+            self.conn.commit()
+        except Exception as e:
+            print(f"Ошибка обновления статуса извлечения для {brand_name}: {e}")
+            self.conn.rollback()
+
+    def is_brand_products_extracted(self, brand_name: str) -> bool:
+        """Проверка, извлечены ли продукты для бренда"""
+        try:
+            self.cur.execute("""
+                SELECT products_extracted 
+                FROM brands 
+                WHERE brand_name = %s;
+            """, (brand_name,))
+            result = self.cur.fetchone()
+            return result[0] if result else False
+        except Exception as e:
+            print(f"Ошибка проверки статуса извлечения для {brand_name}: {e}")
+            return False
 
     def __del__(self):
         """Закрытие соединения при удалении объекта"""

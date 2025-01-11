@@ -29,7 +29,7 @@ class BrandService:
 
     def list_available_brands(self) -> List[str]:
         """Получение списка брендов"""
-        return self.storage.list_cbrands()
+        return self.storage.list_brands()
 
     def extract_brand_products(self, brand_name: str) -> List[Dict]:
         """

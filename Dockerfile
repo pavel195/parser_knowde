@@ -1,34 +1,28 @@
-FROM python:3.9
+FROM python:3.9-slim
 
-# Установка Chrome и ChromeDriver
-RUN apt-get update && apt-get install -y \
-    wget \
-    gnupg \
-    unzip \
-    xvfb \
-    && wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | apt-key add - \
-    && echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google.list \
-    && apt-get update \
-    && apt-get install -y google-chrome-stable
-
-# Установка ChromeDriver
-RUN CHROME_DRIVER_VERSION=`curl -sS chromedriver.storage.googleapis.com/LATEST_RELEASE` \
-    && wget -q -O /tmp/chromedriver.zip https://chromedriver.storage.googleapis.com/$CHROME_DRIVER_VERSION/chromedriver_linux64.zip \
-    && unzip /tmp/chromedriver.zip -d /usr/local/bin \
-    && rm /tmp/chromedriver.zip \
-    && chmod +x /usr/local/bin/chromedriver
+# Установка необходимых пакетов одной командой для уменьшения слоев
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    chromium \
+    chromium-driver \
+    && apt-get clean \
+    && rm -rf /var/lib/apt/lists/* \
+    && rm -rf /var/cache/apt/*
 
 WORKDIR /app
 
-# Копируем requirements.txt и устанавливаем зависимости
+# Копируем только requirements.txt сначала для кэширования слоя с зависимостями
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
 # Копируем код приложения
 COPY . .
 
-# Создаем директории для данных
-RUN mkdir -p data/brand_data data/products
+# Создаем пользователя без прав root
+RUN useradd -m myuser && \
+    chown -R myuser:myuser /app
+USER myuser
 
-# Запускаем Xvfb для headless браузера
-ENV DISPLAY=:99
+# Настройка переменных окружения
+ENV CHROME_BIN=/usr/bin/chromium
+ENV CHROMEDRIVER_PATH=/usr/bin/chromedriver
+ENV PYTHONUNBUFFERED=1

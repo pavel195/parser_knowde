@@ -1,4 +1,4 @@
-CREATE USER knowde_user WITH PASSWORD 'Kn0wdePass2024';
+CREATE USER knowde_user WITH PASSWORD 'postgres';
 CREATE DATABASE knowde_db;
 GRANT ALL PRIVILEGES ON DATABASE knowde_db TO knowde_user;
 
@@ -24,17 +24,6 @@ CREATE TABLE IF NOT EXISTS products (
     status VARCHAR(50) NOT NULL DEFAULT 'active',
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
     updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
-);
-
-CREATE TABLE IF NOT EXISTS extraction_jobs (
-    id SERIAL PRIMARY KEY,
-    brand_name VARCHAR(255) REFERENCES brands(brand_name),
-    status VARCHAR(50) NOT NULL DEFAULT 'pending',
-    started_at TIMESTAMP,
-    completed_at TIMESTAMP,
-    error_message TEXT,
-    worker_id VARCHAR(255),
-    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 
 -- Даем права на таблицы

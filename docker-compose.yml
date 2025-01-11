@@ -31,7 +31,7 @@ services:
     environment:
       POSTGRES_DB: postgres
       POSTGRES_USER: postgres
-      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+      POSTGRES_PASSWORD: postgres
     volumes:
       - postgres_data:/var/lib/postgresql/data
       - ./docker/postgres/init.sql:/docker-entrypoint-initdb.d/init.sql
@@ -68,7 +68,7 @@ services:
       resources:
         limits:
           memory: 2G
-    command: python -u scripts/run_parser.py
+    command: python -u scripts/run_collector.py
 
   product_extractor:
     build:
@@ -93,7 +93,7 @@ services:
         condition: service_healthy
       redis:
         condition: service_healthy
-    command: python -u scripts/extract_products.py
+    command: python -u scripts/run_extractor.py
 
 volumes:
   postgres_data:

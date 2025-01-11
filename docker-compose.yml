@@ -10,7 +10,6 @@ services:
   redis:
     image: redis:7-alpine
     pull_policy: if_not_present
-
     ports:
       - "6379:6379"
     volumes:
@@ -61,19 +60,15 @@ services:
     volumes:
       - ./data:/app/data
     depends_on:
-      redis:
-        condition: service_healthy
       postgres:
+        condition: service_healthy
+      redis:
         condition: service_healthy
     deploy:
       resources:
         limits:
           memory: 2G
-    command: >
-      bash -c "
-        python scripts/wait_for_db.py &&
-        python scripts/run_collector.py
-      "
+    command: python -u scripts/run_parser.py
 
   product_extractor:
     build:
@@ -81,13 +76,24 @@ services:
     restart: unless-stopped
     deploy:
       replicas: 3
+      resources:
+        limits:
+          memory: 2G
+    environment:
+      - KNOWDE_EMAIL=${KNOWDE_EMAIL}
+      - KNOWDE_PASSWORD=${KNOWDE_PASSWORD}
+      - PYTHONPATH=/app
+      - DATABASE_URL=${DATABASE_URL}
+      - REDIS_URL=redis://redis:6379/0
+      - WORKER_ID={{.Task.Name}}-{{.Node.ID}}
+    volumes:
+      - ./data:/app/data
     depends_on:
-      - brand_collector
-    command: >
-      bash -c "
-        python scripts/wait_for_db.py &&
-        python scripts/run_extractor.py
-      "
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+    command: python -u scripts/extract_products.py
 
 volumes:
   postgres_data:

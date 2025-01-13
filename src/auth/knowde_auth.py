@@ -19,24 +19,29 @@ class KnowdeAuth:
     def setup_chrome_options(self):
         """Настройка опций Chrome"""
         self.chrome_options = Options()
-        self.chrome_options.add_argument("--no-sandbox")
-        self.chrome_options.add_argument("--disable-gpu")
+        
+        # Основные настройки для headless режима
+        self.chrome_options.add_argument('--headless')
+        self.chrome_options.add_argument('--no-sandbox')
+        self.chrome_options.add_argument('--disable-dev-shm-usage')
+        
+        # Оптимизация для контейнера
+        self.chrome_options.add_argument('--disable-gpu')
+        self.chrome_options.add_argument('--window-size=1920,1080')
+        self.chrome_options.add_argument('--start-maximized')
+        self.chrome_options.add_argument('--single-process')
+        self.chrome_options.add_argument('--disable-infobars')
         
         # Антидетект настройки
-        self.chrome_options.add_argument("--disable-blink-features=AutomationControlled")
         self.chrome_options.add_argument(f'--user-agent={self.faker.chrome()}')
+        self.chrome_options.add_argument('--disable-blink-features=AutomationControlled')
         self.chrome_options.add_experimental_option("excludeSwitches", ["enable-automation"])
         self.chrome_options.add_experimental_option('useAutomationExtension', False)
-
-        # Дополнительные настройки для обхода блокировок
-        self.chrome_options.add_argument('--disable-infobars')
-        self.chrome_options.add_argument('--disable-dev-shm-usage')
-        self.chrome_options.add_argument('--disable-browser-side-navigation')
-        self.chrome_options.add_argument('--disable-features=IsolateOrigins,site-per-process')
         
-        # Настройка языка и разрешения
-        self.chrome_options.add_argument('--lang=en-US,en;q=0.9')
-        self.chrome_options.add_argument('--window-size=1920,1080')
+        # Дополнительные настройки производительности
+        self.chrome_options.add_argument('--disable-extensions')
+        self.chrome_options.add_argument('--disable-default-apps')
+        self.chrome_options.add_argument('--disable-notifications')
 
     def get_auth_session(self, email: str, password: str) -> Optional[Dict]:
         """
@@ -52,7 +57,7 @@ class KnowdeAuth:
                 print("Не удалось инициализировать драйвер")
                 return None
 
-            print("Начинаем процесс ав��оризации...")
+            print("Начинаем процесс автооризации...")
             self.driver.get("https://www.knowde.com")
             self._random_delay(1.5, 3.0)
             

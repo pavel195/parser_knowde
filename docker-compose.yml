@@ -1,0 +1,100 @@
+version: '3.8'
+
+x-build-args: &build-args
+  context: .
+  dockerfile: Dockerfile
+  shm_size: '2gb'
+  network: host
+
+services:
+  redis:
+    image: redis:7-alpine
+    pull_policy: if_not_present
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+    command: redis-server --appendonly yes
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 5s
+      timeout: 3s
+      retries: 5
+    deploy:
+      resources:
+        limits:
+          memory: 512M
+
+  postgres:
+    image: postgres:13
+    pull_policy: if_not_present
+    environment:
+      POSTGRES_DB: postgres
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./docker/postgres/init.sql:/docker-entrypoint-initdb.d/init.sql
+    ports:
+      - "5432:5432"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    deploy:
+      resources:
+        limits:
+          memory: 1G
+
+  brand_collector:
+    build:
+      <<: *build-args
+    restart: unless-stopped
+    environment:
+      - KNOWDE_EMAIL=${KNOWDE_EMAIL}
+      - KNOWDE_PASSWORD=${KNOWDE_PASSWORD}
+      - PYTHONPATH=/app
+      - DATABASE_URL=${DATABASE_URL}
+      - REDIS_URL=redis://redis:6379/0
+    volumes:
+      - ./data:/app/data
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+    deploy:
+      resources:
+        limits:
+          memory: 2G
+    command: python -u scripts/run_collector.py
+
+  product_extractor:
+    build:
+      <<: *build-args
+    restart: unless-stopped
+    deploy:
+      replicas: 3
+      resources:
+        limits:
+          memory: 2G
+    environment:
+      - KNOWDE_EMAIL=${KNOWDE_EMAIL}
+      - KNOWDE_PASSWORD=${KNOWDE_PASSWORD}
+      - PYTHONPATH=/app
+      - DATABASE_URL=${DATABASE_URL}
+      - REDIS_URL=redis://redis:6379/0
+      - WORKER_ID={{.Task.Name}}-{{.Node.ID}}
+    volumes:
+      - ./data:/app/data
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+    command: python -u scripts/run_extractor.py
+
+volumes:
+  postgres_data:
+  redis_data:

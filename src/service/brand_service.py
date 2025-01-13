@@ -1,12 +1,12 @@
 """Сервисный слой для работы с брендами."""
 from typing import Dict, List, Optional
 from selenium.webdriver.remote.webdriver import WebDriver
-from src.storage.brand_storage import BrandStorage
+from src.storage.db_storage import DBStorage
 from src.processor.brand_processor import BrandProcessor
 from src.processor.product_extractor import ProductExtractor
 
 class BrandService:
-    def __init__(self, storage: BrandStorage, processor: BrandProcessor, driver: Optional[WebDriver] = None):
+    def __init__(self, storage: DBStorage, processor: BrandProcessor, driver: Optional[WebDriver] = None):
         self.storage = storage
         self.processor = processor
         self.product_extractor = ProductExtractor(storage, driver=driver)

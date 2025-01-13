@@ -10,10 +10,10 @@ import requests
 from requests_html import HTMLSession
 import re
 from typing import Set, Optional, Dict
-from src.storage.brand_storage import BrandStorage
+from src.storage.db_storage import DBStorage
 
 class BrandParser:
-    def __init__(self, storage: BrandStorage, session: Dict):
+    def __init__(self, storage: DBStorage, session: Dict):
         self.storage = storage
         self.session = session
         self.driver = session['driver']  # Используем уже авторизованный драйвер
@@ -138,7 +138,7 @@ class BrandParser:
             # for i in range(2, 10+ 1):
             #     links.append(f"{link}/brands/{i}")
                 
-        print(f"Собрано {len(links)} ссылок на катего��ии с пагинацией")
+        print(f"Собрано {len(links)} ссылок на категории с пагинацией")
         return links
 
     def process_brands(self, brand_links: Set[str]) -> None:

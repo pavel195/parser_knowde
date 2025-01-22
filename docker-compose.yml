@@ -1,3 +1,5 @@
+version: '3.8'
+
 services:
   parser:
     build: .
@@ -35,3 +37,16 @@ services:
     command: >
       bash -c "Xvfb :99 -screen 0 1920x1080x24 > /dev/null 2>&1 & 
       python scripts/extract_products.py"
+
+  translator:
+    image: libretranslate/libretranslate:latest
+    ports:
+      - "5000:5000"
+    environment:
+      - LT_LOAD_ONLY=en,ru
+    volumes:
+      - libretranslate_data:/home/libretranslate
+    restart: unless-stopped
+
+volumes:
+  libretranslate_data:

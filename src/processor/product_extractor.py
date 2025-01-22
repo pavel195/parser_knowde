@@ -6,6 +6,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from src.storage.brand_storage import BrandStorage
+from src.translator.text_translator import TextTranslator
 
 class ProductExtractor:
     def __init__(self, storage: BrandStorage, driver=None, output_dir: str = "data/products"):
@@ -13,6 +14,13 @@ class ProductExtractor:
         self.driver = driver
         self.output_dir = Path(output_dir)
         self.output_dir.mkdir(parents=True, exist_ok=True)
+        self.translator = TextTranslator()
+
+    def _translate_text(self, text: str) -> str:
+        return self.translator.translate_text(text)
+
+    def _translate_list(self, items: List) -> List:
+        return self.translator.translate_list(items)
 
     def extract_products_from_brand(self, brand_name: str) -> List[Dict]:
         """
@@ -111,56 +119,81 @@ class ProductExtractor:
             return None
 
         try:
+            # Поля, которые не нужно переводить
+            no_translate_fields = {'id', 'slug', 'uuid', 'company_name', 'company_slug', 
+                                 'company_id', 'product_url', 'logo_url', 'banner_url'}
+
             processed = {
                 'id': product.get('id'),
                 'brand': brand_name,
                 'name': product.get('name'),
                 'slug': product.get('slug'),
                 'uuid': product.get('uuid'),
-                'description': product.get('description'),
+                'description': self._translate_text(product.get('description')),
                 'company_name': product.get('company_name'),
                 'company_slug': product.get('company_slug'),
                 'company_id': product.get('company_id'),
-                'summary': product.get('summary'),
-                # URL продукта на Knowde
+                'summary': self._translate_text(product.get('summary')),
                 'product_url': f"https://www.knowde.com/stores/{product.get('company_slug')}/products/{product.get('slug')}",
-                # Изображения
                 'logo_url': product.get('logo_url'),
                 'banner_url': product.get('banner_url'),
-                
-                # Свойства продукта
                 'properties': {},
-                'brand_properties': brand_properties,
-                # Добавляем поля для таблиц и документов
+                'brand_properties': {
+                    key: self._translate_list(values) 
+                    for key, values in brand_properties.items()
+                },
                 'tables': [],
                 'documents': {}
             }
             
-            # Обработка properties
+            # Обработка properties с переводом
             for prop in product.get('properties', []):
-                prop_name = prop.get('name', '')
-                prop_items = prop.get('items', [])
+                prop_name = self._translate_text(prop.get('name', ''))
+                prop_items = self._translate_list(prop.get('items', []))
                 processed['properties'][prop_name] = prop_items
 
             # Обработка summary если есть
             if 'summary' in product:
                 processed['summary'] = {}
                 for summary_item in product.get('summary', []):
-                    summary_name = summary_item.get('name', '')
-                    summary_items = summary_item.get('items', [])
+                    summary_name = self._translate_text(summary_item.get('name', ''))
+                    summary_items = self._translate_list(summary_item.get('items', []))
                     processed['summary'][summary_name] = summary_items
 
             # Если есть драйвер, извлекаем таблицы и документы
             if self.driver:
                 extracted_data = self._extract_product_tables(processed['product_url'])
+                # Переводим данные таблиц
+                for table in extracted_data['tables']:
+                    if table['type'] == 'content':
+                        table['name'] = self._translate_text(table['name'])
+                        table['headers'] = self._translate_list(table['headers'])
+                        table['rows'] = [self._translate_list(row) for row in table['rows']]
+                    elif table['type'] == 'html_content':
+                        table['headers'] = self._translate_list(table['headers'])
+                        table['rows'] = [self._translate_list(row) for row in table['rows']]
+                
                 processed['tables'] = extracted_data['tables']
-                processed['documents'] = extracted_data['documents']
-                processed['img'] = extracted_data['img']
-                processed['info'] = extracted_data['info']
+                processed['documents'] = extracted_data['documents']  # Не переводим
+                processed['img'] = extracted_data['img']  # Не переводим
+                
+                # Переводим информационные блоки
+                processed['info'] = []
+                for info_block in extracted_data['info']:
+                    if info_block['type'] == 'text':
+                        processed['info'].append({
+                            'type': 'text',
+                            'content': self._translate_text(info_block['content'])
+                        })
+                    elif info_block['type'] == 'list':
+                        processed['info'].append({
+                            'type': 'list',
+                            'content': self._translate_list(info_block['content'])
+                        })
 
             return processed
 
-        except (KeyError, TypeError, AttributeError) as e:
+        except Exception as e:
             print(f"Ошибка при обработке продукта {product.get('name', 'Unknown')}: {str(e)}")
             return None
 

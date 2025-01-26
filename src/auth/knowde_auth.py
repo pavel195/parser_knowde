@@ -53,7 +53,7 @@ class KnowdeAuth:
                 return None
 
             print("Начинаем процесс автооризации...")
-            self.driver.get("https://www.knowde.com")
+            self.driver.get("https://www.knowde.com/marketplace")
             self._random_delay(1.5, 3.0)
             
             # Нажимаем кнопку Sign In

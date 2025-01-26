@@ -48,5 +48,16 @@ services:
       - libretranslate_data:/home/libretranslate
     restart: unless-stopped
 
+  product_translator:
+    build: .
+    restart: on-failure
+    environment:
+      - PYTHONPATH=/app
+    volumes:
+      - ./data:/app/data
+    depends_on:
+      - translator
+    command: python scripts/translate_products.py
+
 volumes:
   libretranslate_data:

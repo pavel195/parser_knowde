@@ -11,7 +11,7 @@ sys.path.append(str(project_root))
 
 import json
 import time
-from typing import Dict, List, Optional
+from typing import Dict
 from src.translator.text_translator import TextTranslator
 
 class ProductTranslator:
@@ -69,22 +69,30 @@ class ProductTranslator:
             print(f"Найдено продуктов: {total_products}")
 
             for idx, product_file in enumerate(product_files, 1):
+                output_file = output_brand_dir / product_file.name
+                
+                # Пропускаем уже переведенные файлы
+                if output_file.exists():
+                    print(f"\nПропуск {idx}/{total_products}: {product_file.name} (уже переведен)")
+                    continue
+
+                print(f"\nПеревод продукта {idx}/{total_products}: {product_file.name}")
+                
                 try:
-                    print(f"\nПеревод продукта {idx}/{total_products}: {product_file.name}")
-                    
                     # Загрузка данных продукта
                     with open(product_file, 'r', encoding='utf-8') as f:
                         product_data = json.load(f)
 
                     # Перевод данных
-                    translated_product = self.translator.translate_json(product_data)
+                    translated_product = self.translator.translate(product_data)
                     
-                    # Сохранение результата
-                    output_file = output_brand_dir / product_file.name
-                    with open(output_file, 'w', encoding='utf-8') as f:
-                        json.dump(translated_product, f, ensure_ascii=False, indent=4)
-                    
-                    print(f"Успешно переведен и сохранен: {product_file.name}")
+                    if translated_product:
+                        # Сохранение результата
+                        with open(output_file, 'w', encoding='utf-8') as f:
+                            json.dump(translated_product, f, ensure_ascii=False, indent=4)
+                        print(f"Успешно переведен и сохранен: {product_file.name}")
+                    else:
+                        print(f"Ошибка: Получен пустой перевод для {product_file.name}")
                     
                     # Небольшая задержка между запросами
                     if idx < total_products:

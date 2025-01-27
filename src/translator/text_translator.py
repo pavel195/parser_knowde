@@ -5,12 +5,12 @@ from typing import Dict, Any
 from openai import OpenAI
 from dotenv import load_dotenv
 
-# Загрузка переменных окружения
+
 load_dotenv()
 
 class TextTranslator:
     def __init__(self):
-        # Получение ключа API из переменных окружения
+
         api_key = os.getenv("OPENAI_API_KEY")
         if not api_key:
             raise ValueError("OPENAI_API_KEY не найден в переменных окружения")
@@ -18,8 +18,8 @@ class TextTranslator:
         # Инициализация клиента OpenAI
         self.client = OpenAI(api_key=api_key)
         
-        # Используем gpt-4 или gpt-3.5-turbo как fallback
-        self.model = os.getenv("OPENAI_MODEL", "gpt-3.5-turbo")
+
+        self.model = os.getenv("OPENAI_MODEL", "gpt-4o")
         print(f"Используется модель: {self.model}")
 
         # Базовый промпт для перевода
@@ -33,14 +33,6 @@ class TextTranslator:
         )
 
     def translate(self, data: Any) -> Any:
-        """
-        Универсальный метод перевода данных любого типа.
-        
-        Args:
-            data: Данные для перевода (любого типа)
-        Returns:
-            Any: Переведенные данные того же типа
-        """
         if not data:
             return data
 
@@ -75,5 +67,5 @@ class TextTranslator:
 
         except Exception as e:
             print(f"Ошибка при переводе: {str(e)}")
-            raise  # Пробрасываем ошибку выше для корректной обработки
+            raise  
 

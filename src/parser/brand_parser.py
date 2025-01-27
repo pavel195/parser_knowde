@@ -30,7 +30,7 @@ class BrandParser:
 
         try:
             # Проверяем авторизацию
-            self.driver.get("https://www.knowde.com")
+            self.driver.get("Начинаем сбор и обработку брендов...")
             self._random_delay(1, 2)
             
             try:
@@ -122,7 +122,7 @@ class BrandParser:
 
     def _extract_category_links(self) -> list:
         """Получение ссылок на категории"""
-        self.driver.get("https://www.knowde.com")
+        self.driver.get("https://www.knowde.com/marketplace")
         WebDriverWait(self.driver, 10).until(
             EC.presence_of_all_elements_located((By.XPATH, "//*[starts-with(@class, 'homepage-categories_tilesList')]//a"))
         )

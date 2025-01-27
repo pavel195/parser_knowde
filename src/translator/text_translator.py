@@ -1,191 +1,108 @@
-"""Модуль для перевода текста с поддержкой нескольких переводчиков."""
-import time
 import os
-import requests
-from typing import List, Optional
-from enum import Enum
-from deep_translator import (
-    GoogleTranslator,
-    MyMemoryTranslator
-)
+import json
+import openai
+from dotenv import load_dotenv
+from typing import Dict, List
 
-class TranslatorType(Enum):
-    LIBRE = "libre"
-    GOOGLE = "google"
-
+load_dotenv()
 
 class TextTranslator:
-    # Маппинг языковых кодов для разных переводчиков
-    LANGUAGE_CODES = {
-        'en': {
-            'google': 'en',
-            'mymemory': 'en-GB',
-            'libre': 'en'
-        },
-        'ru': {
-            'google': 'ru',
-            'mymemory': 'ru-RU',
-            'libre': 'ru'
-        }
-    }
+    def __init__(self):
+        # Получаем ключ API из переменных окружения
+        api_key = os.getenv('OPENAI_API_KEY')
+        if not api_key:
+            raise ValueError("OPENAI_API_KEY не найден в переменных окружения")
 
-    # Символы, которые не нужно переводить
-    SKIP_CHARS = {'-', '%', '°', '®', '™', '©'}
-
-    def __init__(self, source_lang: str = 'en', target_lang: str = 'ru', libre_host: str = 'http://localhost:5000'):
-        """
-        Инициализация переводчика.
         
-        Args:
-            source_lang: Исходный язык
-            target_lang: Целевой язык
-            libre_host: Адрес LibreTranslate сервера
-        """
-        self.source_lang = source_lang
-        self.target_lang = target_lang
-        self.libre_host = libre_host
-        self._initialize_translators()
-        self.current_translator_idx = 0
-        self.retry_delay = 1  # секунды между попытками
-        self.max_retries = 3  # максимальное количество попыток для каждого переводчика
+        openai.api_key = api_key
 
-    def _get_language_code(self, lang: str, translator_type: str) -> str:
-        """Возвращает правильный код языка для конкретного переводчика."""
-        return self.LANGUAGE_CODES.get(lang, {}).get(translator_type, lang)
-
-    def _initialize_translators(self):
-        """Инициализация всех доступных переводчиков."""
-        self.translators = []
-
-        # LibreTranslate (локальный сервер)
-        try:
-            # Проверяем доступность сервера
-            response = requests.get(f"{self.libre_host}/languages")
-            if response.status_code == 200:
-                self.translators.append({
-                    'type': TranslatorType.LIBRE,
-                    'instance': None  # Не нужен инстанс, будем использовать API напрямую
-                })
-                print("Инициализирован локальный LibreTranslate сервер")
-        except Exception as e:
-            print(f"Ошибка инициализации LibreTranslate: {str(e)}")
         
-        # Google Translator
-        try:
-            self.translators.append({
-                'type': TranslatorType.GOOGLE,
-                'instance': GoogleTranslator(
-                    source=self._get_language_code(self.source_lang, 'google'),
-                    target=self._get_language_code(self.target_lang, 'google')
-                )
-            })
-        except Exception as e:
-            print(f"Ошибка инициализации Google переводчика: {str(e)}")
+        self.model = os.getenv('OPENAI_MODEL', 'gpt-4')
 
-        # MyMemory Translator
-        try:
-            self.translators.append({
-                'type': TranslatorType.MYMEMORY,
-                'instance': MyMemoryTranslator(
-                    source=self._get_language_code(self.source_lang, 'mymemory'),
-                    target=self._get_language_code(self.target_lang, 'mymemory')
-                )
-            })
-        except Exception as e:
-            print(f"Ошибка инициализации MyMemory переводчика: {str(e)}")
-
-    def _translate_with_libre(self, text: str) -> Optional[str]:
-        """
-        Переводит текст с помощью локального LibreTranslate сервера.
         
-        Args:
-            text: Текст для перевода
-        Returns:
-            Optional[str]: Переведенный текст или None в случае ошибки
-        """
-        try:
-            response = requests.post(
-                f"{self.libre_host}/translate",
-                json={
-                    "q": text,
-                    "source": self._get_language_code(self.source_lang, 'libre'),
-                    "target": self._get_language_code(self.target_lang, 'libre')
-                }
-            )
-            if response.status_code == 200:
-                return response.json()['translatedText']
-        except Exception as e:
-            print(f"Ошибка перевода через LibreTranslate: {str(e)}")
-        return None
-
-    def _should_skip_translation(self, text: str) -> bool:
-        """Проверяет, нужно ли пропустить перевод текста."""
-        return (
-            not text or 
-            not isinstance(text, str) or 
-            text.strip() in self.SKIP_CHARS or
-            all(char in self.SKIP_CHARS for char in text.strip())
+        self.system_message = os.getenv('TRANSLATOR_MESSAGE', 
+            "Hey, we are going translating chemical raw material description from English to Russian. "
+            "I will send you one-by-one JSONs containing material description. Your aim is to respond with JSONs "
+            "where keys are the same as in input, and the values are translated data. Use chemical professional vocabulary."
         )
 
-    def _try_translate(self, text: str, translator_info: dict) -> Optional[str]:
+    def translate_json(self, data: Dict) -> Dict:
         """
-        Пытается перевести текст с помощью конкретного переводчика.
-        
-        Args:
-            text: Текст для перевода
-            translator_info: Информация о переводчике
-        Returns:
-            Optional[str]: Переведенный текст или None в случае ошибки
-        """
-        if self._should_skip_translation(text):
-            return text
+        Переводит JSON данные о химическом продукте.
 
-        for attempt in range(self.max_retries):
+        Args:
+            data: JSON данные для перевода
+        Returns:
+            Dict: Переведенные данные с сохранением структуры
+        """
+        if not data:
+            return data
+
+        try:
+            # Преобразуем данные в строку JSON
+            data_json = json.dumps(data, ensure_ascii=False)
+
+            # Отправляем запрос в OpenAI
+            response = openai.ChatCompletion.create(
+                model=self.model,
+                messages=[
+                    {"role": "system", "content": self.system_message},
+                    {"role": "user", "content": data_json}
+                ],
+                temperature=0.3
+            )
+
+            # Получаем ответ
+            translated_json = response['choices'][0]['message']['content'].strip()
+            
             try:
-                if translator_info['type'] == TranslatorType.LIBRE:
-                    return self._translate_with_libre(text)
-                else:
-                    return translator_info['instance'].translate(text)
-            except Exception as e:
-                print(f"Ошибка перевода ({translator_info['type'].value}, попытка {attempt + 1}): {str(e)}")
-                if attempt < self.max_retries - 1:
-                    time.sleep(self.retry_delay)
-        return None
+                return json.loads(translated_json)
+            except json.JSONDecodeError as e:
+                print(f"Ошибка при парсинге JSON ответа: {str(e)}")
+                return data
+
+        except Exception as e:
+            print(f"Ошибка при переводе JSON: {str(e)}")
+            return data
 
     def translate_text(self, text: str) -> str:
         """
-        Переводит текст, используя доступные переводчики.
-        
+        Переводит отдельный текст, оборачивая его в JSON.
+
         Args:
-            text: Исходный текст
+            text: Текст для перевода
         Returns:
             str: Переведенный текст
         """
-        if self._should_skip_translation(text):
+        if not text or not isinstance(text, str):
             return text
 
-        # Пробуем все доступные переводчики
-        for _ in range(len(self.translators)):
-            translator_info = self.translators[self.current_translator_idx]
-            result = self._try_translate(text, translator_info)
-            
-            if result:
-                return result
-            
-            # Переключаемся на следующий переводчик
-            self.current_translator_idx = (self.current_translator_idx + 1) % len(self.translators)
-            time.sleep(self.retry_delay)  # Пауза перед использованием следующего переводчика
-
-        print(f"Не удалось перевести текст после всех попыток: {text}")
-        return text
+        try:
+            # Оборачиваем текст в JSON
+            data = {"text": text}
+            translated = self.translate_json(data)
+            return translated.get("text", text)
+        except Exception as e:
+            print(f"Ошибка при переводе текста: {str(e)}")
+            return text
 
     def translate_list(self, items: List) -> List:
         """
-        Переводит список значений.
-        
+        Переводит список, оборачивая его в JSON.
+
         Args:
             items: Список для перевода
         Returns:
             List: Переведенный список
         """
-        return [self.translate_text(item) for item in items] 
+        if not items or not isinstance(items, list):
+            return items
+
+        try:
+            # Оборачиваем список в JSON
+            data = {"items": items}
+            translated = self.translate_json(data)
+            return translated.get("items", items)
+        except Exception as e:
+            print(f"Ошибка при переводе списка: {str(e)}")
+            return items

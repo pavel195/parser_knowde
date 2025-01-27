@@ -23,7 +23,8 @@ var/
 # Virtual Environment
 .venv/
 ENV/
-
+.env
+.venv/
 # IDE
 .idea/
 .vscode/

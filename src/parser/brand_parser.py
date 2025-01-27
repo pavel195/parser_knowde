@@ -30,7 +30,7 @@ class BrandParser:
 
         try:
             # Проверяем авторизацию
-            self.driver.get("Начинаем сбор и обработку брендов...")
+            self.driver.get("https://www.knowde.com/marketplace")
             self._random_delay(1, 2)
             
             try:

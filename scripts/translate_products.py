@@ -32,7 +32,7 @@ class ProductTranslator:
             self.output_dir = Path(output_dir)
             self.output_dir.mkdir(parents=True, exist_ok=True)
             
-            # Создаем директорию для логов
+            
             self.log_dir = Path("data/logs/translation")
             self.log_dir.mkdir(parents=True, exist_ok=True)
             
@@ -109,27 +109,27 @@ class ProductTranslator:
 
             print(f"Найдено продуктов: {len(product_files)}")
             
-            # Используем tqdm для отображения прогресса
+            
             with tqdm(total=len(product_files), desc=f"Перевод {brand_dir.name}") as pbar:
                 for product_file in product_files:
                     output_file = output_brand_dir / product_file.name
                     
-                    # Пропускаем уже переведенные файлы
+                   
                     if output_file.exists():
                         stats['skipped'] += 1
                         pbar.update(1)
                         continue
 
                     try:
-                        # Загрузка данных продукта
+                        
                         with open(product_file, 'r', encoding='utf-8') as f:
                             product_data = json.load(f)
 
-                        # Перевод данных
+                       
                         translated_product = self.translator.translate(product_data)
                         
                         if translated_product:
-                            # Сохранение результата
+                            
                             with open(output_file, 'w', encoding='utf-8') as f:
                                 json.dump(translated_product, f, ensure_ascii=False, indent=4)
                             stats['translated'] += 1
@@ -143,7 +143,7 @@ class ProductTranslator:
                         continue
                     finally:
                         pbar.update(1)
-                        # Небольшая задержка между запросами
+                        
                         time.sleep(1)
 
         except Exception as e:

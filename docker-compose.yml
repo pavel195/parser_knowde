@@ -1,19 +1,6 @@
 version: '3.8'
 
 services:
-  parser:
-    build: .
-    restart: on-failure
-    environment:
-      - KNOWDE_EMAIL=${KNOWDE_EMAIL}
-      - KNOWDE_PASSWORD=${KNOWDE_PASSWORD}
-      - PYTHONPATH=/app
-    volumes:
-      - ./data:/app/data
-    command: >
-      bash -c "Xvfb :99 -screen 0 1920x1080x24 > /dev/null 2>&1 & 
-      python scripts/run_parser.py"
-
   api:
     build: .
     restart: on-failure
@@ -24,40 +11,56 @@ services:
     volumes:
       - ./data:/app/data
     command: uvicorn src.api.api:app --host 0.0.0.0 --port 8000
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "200m"
+        max-file: "10"
 
-  product_extractor:
+  # product_translator:
+  #   build: .
+  #   restart: on-failure
+  #   environment:
+  #     - PYTHONPATH=/app
+  #   volumes:
+  #     - ./data:/app/data
+  #   command: python scripts/translate_products.py
+  #   logging:
+  #     driver: "json-file"
+  #     options:
+  #       max-size: "200m"
+  #       max-file: "10"
+
+  pipeline:
     build: .
-    restart: on-failure
+    volumes:
+      - ./data:/app/data
     environment:
       - KNOWDE_EMAIL=${KNOWDE_EMAIL}
       - KNOWDE_PASSWORD=${KNOWDE_PASSWORD}
       - PYTHONPATH=/app
-    volumes:
-      - ./data:/app/data
-    command: >
-      bash -c "Xvfb :99 -screen 0 1920x1080x24 > /dev/null 2>&1 & 
-      python scripts/extract_products.py"
-
-  translator:
-    image: libretranslate/libretranslate:latest
-    ports:
-      - "5000:5000"
-    environment:
-      - LT_LOAD_ONLY=en,ru
-    volumes:
-      - libretranslate_data:/home/libretranslate
+      - DISPLAY=:99
+      - HEADLESS=1
+      - PYTHONUNBUFFERED=1
+      - SELENIUM_DRIVER_CHROME_ARGS=--no-sandbox --headless --disable-gpu --disable-dev-shm-usage
+    deploy:
+      resources:
+        limits:
+          memory: 4G
+        reservations:
+          memory: 2G
+    security_opt:
+      - seccomp=unconfined
+    shm_size: '2gb'
     restart: unless-stopped
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "200m"
+        max-file: "10"
+    command: >
+      bash -c "
+      mkdir -p /app/data/brand_data /app/data/products /app/data/pipeline /app/data/logs &&
+      Xvfb :99 -screen 0 1920x1080x24 > /dev/null 2>&1 & 
+      python scripts/pipeline.py"
 
-  product_translator:
-    build: .
-    restart: on-failure
-    environment:
-      - PYTHONPATH=/app
-    volumes:
-      - ./data:/app/data
-    depends_on:
-      - translator
-    command: python scripts/translate_products.py
-
-volumes:
-  libretranslate_data:

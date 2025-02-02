@@ -1,0 +1,20 @@
+KNOWDE_EMAIL=contract@recapill.ru
+KNOWDE_PASSWORD=VeryDifficultPass!0!
+
+TEST_KNOWDE_EMAIL=contract@recapill.ru
+TEST_KNOWDE_PASSWORD=VeryDifficultPass!0!
+
+# Storage Settings
+DATA_DIR=data/brand_data
+
+# Kluster.ai Settings
+KLUSTER_API_KEY=kluster_api_key_here
+
+# OpenAI Settings
+OPENAI_API_KEY=openai_api_key_here
+OPENAI_MAX_RETRIES=5
+OPENAI_RETRY_DELAY=3
+OPENAI_MAX_TOKENS=5000
+OPENAI_MAX_WAIT_TIME=10
+TRANSLATOR_MESSAGE="Можешь ли перевести значения на русский в файле без потери контекста химической тематики: перевести нужно будет только values, ключи пусть останутся на английском их не трогай."
+

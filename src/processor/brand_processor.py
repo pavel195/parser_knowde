@@ -24,8 +24,3 @@ class BrandProcessor:
             'location': company_info.get('hq_address')
         }
 
-    def search_products(self, brand_name: str, 
-                       category: Optional[str] = None,
-                       keyword: Optional[str] = None) -> List[Dict]:
-        """Поиск продуктов"""
-        # Код поиска продуктов (оставляем текущую реализацию) 

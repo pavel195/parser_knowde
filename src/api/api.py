@@ -1,22 +1,4 @@
-"""
-API endpoints для доступа к данным брендов.
-Предоставляет endpoints для получения JSON-данных.
 
-Примеры использования:
-    Получение списка брендов:
-    GET /brands/
-
-    Получение данных бренда:
-    GET /brands/accor
-    GET /brands/accor?include_products=true
-
-    Получение сводки:
-    GET /brands/accor/summary
-
-    Поиск продуктов:
-    GET /brands/accor/products
-    GET /brands/accor/products?category=Surfactants&keyword=natural
-"""
 from fastapi import FastAPI, HTTPException
 from typing import List, Optional
 import uvicorn

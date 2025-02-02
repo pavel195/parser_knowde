@@ -14,7 +14,7 @@ from src.auth.knowde_auth import KnowdeAuth
 def main():
     """Извлечение продуктов из JSON файлов брендов"""
     try:
-        # Инициализируем авторизацию и получаем драйвер
+        
         auth = KnowdeAuth()
         session = auth.login()
         
@@ -26,7 +26,7 @@ def main():
         processor = BrandProcessor(storage)
         service = BrandService(storage, processor, driver=session['driver'])
 
-        # Получаем список всех брендов
+        
         brands = service.list_available_brands()
         
         total_products = 0

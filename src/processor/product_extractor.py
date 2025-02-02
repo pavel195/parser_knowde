@@ -32,10 +32,8 @@ class ProductExtractor:
         try:
             queries = brand_data['pageProps']['dehydratedState']['queries']
             
-            # Получаем свойства бренда
             brand_properties = self._extract_brand_properties(queries)
             
-            # Ищем нужный query с продуктами
             products_query = None
             for query in queries:
                 if 'state' in query and 'data' in query['state']:
@@ -131,13 +129,11 @@ class ProductExtractor:
                 'documents': {}
             }
             
-            # Обработка properties без перевода
             for prop in product.get('properties', []):
                 prop_name = prop.get('name', '')
                 prop_items = prop.get('items', [])
                 processed['properties'][prop_name] = prop_items
 
-            # Обработка summary если есть
             if 'summary' in product:
                 processed['summary'] = {}
                 for summary_item in product.get('summary', []):
@@ -145,7 +141,6 @@ class ProductExtractor:
                     summary_items = summary_item.get('items', [])
                     processed['summary'][summary_name] = summary_items
 
-            # Если есть драйвер, извлекаем таблицы и документы
             if self.driver:
                 extracted_data = self._extract_product_tables(processed['product_url'])
                 processed['tables'] = extracted_data['tables']
@@ -179,12 +174,10 @@ class ProductExtractor:
             print(f"Загрузка страницы продукта: {product_url}")
             self.driver.get(product_url)
             
-            # Ждем загрузки элементов
             WebDriverWait(self.driver, 10).until(
                 EC.presence_of_all_elements_located((By.CSS_SELECTOR, "table[class^='table-content_table']"))
             )
 
-            # Извлечение таблиц из основного контента
             table_elements = self.driver.find_elements(By.CSS_SELECTOR, "table[class^='table-content_table']")
             for table in table_elements:
                 headers = []

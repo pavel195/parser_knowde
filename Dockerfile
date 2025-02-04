@@ -4,30 +4,34 @@ FROM python:3.10-slim
 RUN apt-get update && apt-get install -y \
     wget \
     gnupg \
-    build-essential \
-    python3-dev \
-    xdg-utils \
+    unzip \
+    curl \
     && rm -rf /var/lib/apt/lists/*
 
+# Установка Google Chrome
+RUN wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | apt-key add - \
+    && echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google.list \
+    && apt-get update \
+    && apt-get install -y google-chrome-stable \
+    && rm -rf /var/lib/apt/lists/*
 
+# Установка pipenv
+RUN pip install pipenv
 
+# Создание рабочей директории
 WORKDIR /app
 
-# Копирование файлов зависимостей
+# Копирование файлов проекта
 COPY Pipfile Pipfile.lock ./
+COPY scripts ./scripts/
+COPY src ./src/
+COPY .env ./
 
-# Установка pipenv и зависимостей
-RUN pip install --no-cache-dir pipenv && \
-    pipenv install --deploy --system
+# Установка зависимостей через pipenv
+RUN pipenv install --deploy --system
 
-# Копирование кода приложения
-COPY src/ src/
-COPY scripts/ scripts/
-COPY .env .
+# Создание необходимых директорий
+RUN mkdir -p /app/data/brand_data /app/data/products /app/data/pipeline /app/data/logs
 
-# Настройка переменных окружения
-ENV PYTHONPATH=/app
-ENV DISPLAY=:99
-ENV HEADLESS=1
-ENV PYTHONUNBUFFERED=1
-ENV SELENIUM_DRIVER_CHROME_ARGS="--no-sandbox --headless --disable-gpu --disable-dev-shm-usage"
+# Запуск pipeline.py
+CMD ["python", "scripts/pipeline.py"] 

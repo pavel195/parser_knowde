@@ -1,36 +1,6 @@
 version: '3.8'
 
 services:
-  api:
-    build: .
-    restart: on-failure
-    ports:
-      - "8000:8000"
-    environment:
-      - PYTHONPATH=/app
-    volumes:
-      - ./data:/app/data
-    command: uvicorn src.api.api:app --host 0.0.0.0 --port 8000
-    logging:
-      driver: "json-file"
-      options:
-        max-size: "200m"
-        max-file: "10"
-
-  # product_translator:
-  #   build: .
-  #   restart: on-failure
-  #   environment:
-  #     - PYTHONPATH=/app
-  #   volumes:
-  #     - ./data:/app/data
-  #   command: python scripts/translate_products.py
-  #   logging:
-  #     driver: "json-file"
-  #     options:
-  #       max-size: "200m"
-  #       max-file: "10"
-
   pipeline:
     build: .
     volumes:
@@ -39,28 +9,44 @@ services:
       - KNOWDE_EMAIL=${KNOWDE_EMAIL}
       - KNOWDE_PASSWORD=${KNOWDE_PASSWORD}
       - PYTHONPATH=/app
-      - DISPLAY=:99
-      - HEADLESS=1
       - PYTHONUNBUFFERED=1
-      - SELENIUM_DRIVER_CHROME_ARGS=--no-sandbox --headless --disable-gpu --disable-dev-shm-usage
+      - CHROME_HEADLESS=1
     deploy:
       resources:
         limits:
-          memory: 4G
+          memory: 10G
         reservations:
-          memory: 2G
+          memory: 5G
     security_opt:
       - seccomp=unconfined
-    shm_size: '2gb'
+    shm_size: '4gb'
     restart: unless-stopped
     logging:
       driver: "json-file"
       options:
         max-size: "200m"
         max-file: "10"
-    command: >
-      bash -c "
-      mkdir -p /app/data/brand_data /app/data/products /app/data/pipeline /app/data/logs &&
-      Xvfb :99 -screen 0 1920x1080x24 > /dev/null 2>&1 & 
-      python scripts/pipeline.py"
+    command: python scripts/pipeline.py
 
+  api:
+    build: .
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./data:/app/data
+    environment:
+      - PYTHONPATH=/app
+      - PYTHONUNBUFFERED=1
+    deploy:
+      resources:
+        limits:
+          memory: 2G
+        reservations:
+          memory: 512M
+    restart: unless-stopped
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "200m"
+        max-file: "10"
+    command: uvicorn src.api.api:app --host 0.0.0.0 --port 8000 --reload 

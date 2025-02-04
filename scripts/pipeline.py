@@ -5,7 +5,6 @@
 """
 import os
 import sys
-import time
 import luigi
 from pathlib import Path
 from datetime import datetime

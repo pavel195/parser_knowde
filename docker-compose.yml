@@ -26,7 +26,11 @@ services:
       options:
         max-size: "200m"
         max-file: "10"
-    command: python scripts/pipeline.py
+    command: >
+      bash -c "
+      mkdir -p /app/data/brand_data /app/data/products /app/data/pipeline /app/data/logs &&
+      chmod -R 777 /app/data &&
+      python scripts/pipeline.py"
 
   api:
     build: .

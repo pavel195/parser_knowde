@@ -146,5 +146,59 @@ async def search_all_products(
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
 
+@app.get("/pipeline/status", tags=["Пайплайн"])
+async def get_pipeline_status():
+    """
+    Получение текущего статуса выполнения пайплайна.
+    
+    Returns:
+        Dict: Статистика обработки брендов
+    """
+    try:
+        status = processor.get_pipeline_status()
+        return status
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+@app.post("/pipeline/reset", tags=["Пайплайн"])
+async def reset_pipeline_progress():
+    """
+    Сброс прогресса выполнения пайплайна.
+    
+    Returns:
+        Dict: Результат операции
+    """
+    try:
+        success = processor.clear_pipeline_progress()
+        if success:
+            return {"status": "success", "message": "Прогресс пайплайна успешно сброшен"}
+        else:
+            raise HTTPException(status_code=500, detail="Не удалось сбросить прогресс пайплайна")
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+@app.get("/pipeline/failed-brands", tags=["Пайплайн"])
+async def get_failed_brands():
+    """
+    Получение списка брендов, при обработке которых произошли ошибки.
+    
+    Returns:
+        List[Dict]: Список брендов с ошибками
+    """
+    try:
+        status = processor.get_pipeline_status()
+        failed_brands = [
+            {
+                'name': name,
+                'error': info['error'],
+                'timestamp': info['timestamp']
+            }
+            for name, info in status['brands'].items()
+            if info['status'] == 'failed'
+        ]
+        return failed_brands
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
 if __name__ == "__main__":
     uvicorn.run(app, host="0.0.0.0", port=8000) 

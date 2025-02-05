@@ -180,9 +180,12 @@ class TextTranslator:
                 logging.debug(f"\nНачало обработки чанка {i}/{len(chunks)}:")
                 logging.debug(f"  - Размер JSON: {len(data_json)} символов")
                 logging.debug(f"  - Содержимое: {data_json[:200]}...")
+        except Exception as e:
+            logging.error(f"Ошибка при переводе данных: {str(e)}")
+            raise
 
-                for attempt in range(self.max_retries):
-                    try:
+        for attempt in range(self.max_retries):
+            try:
                         logging.debug(f"\nПопытка {attempt + 1}/{self.max_retries} для чанка {i}:")
                         start_time = time.time()
                         response = self.client.chat.completions.create(
@@ -227,7 +230,7 @@ class TextTranslator:
                         
                         break
 
-                    except Exception as e:
+            except Exception as e:
                         response_headers = getattr(e, 'response', None)
                         headers = response_headers.headers if response_headers else {}
                         logging.debug(f"\nОшибка при попытке {attempt + 1}:")
@@ -242,8 +245,8 @@ class TextTranslator:
                         if attempt == self.max_retries - 1:
                             raise
 
-                if not chunk_translated:
-                    raise Exception(f"Не удалось перевести часть {i} после {self.max_retries} попыток")
+            if not chunk_translated:
+                raise Exception(f"Не удалось перевести часть {i} после {self.max_retries} попыток")
 
             # Объединяем все переведенные части
             if len(translated_chunks) == 1:
@@ -260,8 +263,6 @@ class TextTranslator:
                         else:
                             result[key] = value
                 return result
+        
 
-        except Exception as e:
-            logging.exception(f"Критическая ошибка при переводе: {str(e)}")
-            raise
 

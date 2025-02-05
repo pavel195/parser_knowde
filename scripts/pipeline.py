@@ -9,16 +9,12 @@ import luigi
 from pathlib import Path
 from datetime import datetime
 import json
+import logging
+from logging.handlers import RotatingFileHandler
 
-
+# Настройка путей
 project_root = Path(__file__).parent.parent
 sys.path.append(str(project_root))
-
-from src.parser.brand_parser import BrandParser
-from src.storage.brand_storage import BrandStorage
-from src.processor.brand_processor import BrandProcessor
-from src.service.brand_service import BrandService
-from src.auth.knowde_auth import KnowdeAuth
 
 # Базовые пути проекта
 DATA_DIR = project_root / "data"
@@ -30,6 +26,39 @@ LOGS_DIR = DATA_DIR / "logs"
 # Создаем все необходимые директории
 for directory in [DATA_DIR, BRAND_DATA_DIR, PRODUCTS_DIR, PIPELINE_DIR, LOGS_DIR]:
     directory.mkdir(parents=True, exist_ok=True)
+
+# Настройка логирования
+log_file = LOGS_DIR / "pipeline.log"
+max_bytes = 1024 * 1024 * 1024  # 1 GB
+backup_count = 5  # Количество файлов бэкапа
+
+# Создаем форматтер для логов
+formatter = logging.Formatter('%(asctime)s [%(levelname)s] %(message)s')
+
+# Настраиваем RotatingFileHandler
+file_handler = RotatingFileHandler(
+    log_file,
+    maxBytes=max_bytes,
+    backupCount=backup_count,
+    encoding='utf-8'
+)
+file_handler.setFormatter(formatter)
+
+# Настраиваем вывод в консоль
+console_handler = logging.StreamHandler(sys.stdout)
+console_handler.setFormatter(formatter)
+
+# Настраиваем корневой логгер
+logger = logging.getLogger()
+logger.setLevel(logging.INFO)
+logger.addHandler(file_handler)
+logger.addHandler(console_handler)
+
+from src.parser.brand_parser import BrandParser
+from src.storage.brand_storage import BrandStorage
+from src.processor.brand_processor import BrandProcessor
+from src.service.brand_service import BrandService
+from src.auth.knowde_auth import KnowdeAuth
 
 class SaveBrandTask(luigi.Task):
     """Задача для парсинга и сохранения данных бренда"""
@@ -43,33 +72,50 @@ class SaveBrandTask(luigi.Task):
     def run(self):
         try:
             storage = BrandStorage()
+            processor = BrandProcessor(storage)
             auth = KnowdeAuth()
             
-            print(f"\nНачало сохранения бренда: {self.brand_name}")
+            logger.info(f"Начало сохранения бренда: {self.brand_name}")
+            processor.save_pipeline_progress(self.brand_name, "processing")
             
             email = os.getenv('KNOWDE_EMAIL')
             password = os.getenv('KNOWDE_PASSWORD')
+            
+            if not email or not password:
+                error_msg = "Не заданы учетные данные KNOWDE_EMAIL и KNOWDE_PASSWORD"
+                processor.save_pipeline_progress(self.brand_name, "failed", error_msg)
+                raise Exception(error_msg)
+            
+            logger.info("Получение авторизованной сессии...")
             session = auth.get_auth_session(email, password)
             
             if not session:
-                raise Exception("Ошибка получения сессии")
+                error_msg = "Ошибка получения сессии"
+                processor.save_pipeline_progress(self.brand_name, "failed", error_msg)
+                raise Exception(error_msg)
             
             try:
                 parser = BrandParser(storage, session)
-                print(f"Парсинг бренда: {self.brand_name}")
+                logger.info(f"Парсинг бренда: {self.brand_name} ({self.brand_url})")
                 json_data = parser._get_json_data_for_brand(self.brand_url)
+                
                 if json_data:
                     storage.save_brand_data(self.brand_name, json_data)
-                    print(f"Бренд {self.brand_name} успешно сохранен")
+                    processor.save_pipeline_progress(self.brand_name, "completed")
+                    logger.info(f"Бренд {self.brand_name} успешно сохранен")
                 else:
-                    raise Exception(f"Не удалось получить данные для бренда {self.brand_name}")
+                    error_msg = f"Не удалось получить данные для бренда {self.brand_name}"
+                    processor.save_pipeline_progress(self.brand_name, "failed", error_msg)
+                    raise Exception(error_msg)
                 
             finally:
                 if session and 'driver' in session:
                     session['driver'].quit()
                     
         except Exception as e:
-            print(f"Ошибка при сохранении бренда {self.brand_name}: {str(e)}")
+            error_msg = f"Ошибка при сохранении бренда {self.brand_name}: {str(e)}"
+            logger.error(error_msg)
+            processor.save_pipeline_progress(self.brand_name, "failed", str(e))
             raise
 
 class ExtractProductsTask(luigi.Task):
@@ -91,35 +137,40 @@ class ExtractProductsTask(luigi.Task):
     def run(self):
         try:
             storage = BrandStorage()
+            processor = BrandProcessor(storage)
             auth = KnowdeAuth()
             
-            print(f"\nНачало извлечения продуктов для бренда: {self.brand_name}")
+            logger.info(f"Начало извлечения продуктов для бренда: {self.brand_name}")
+            processor.save_pipeline_progress(self.brand_name, "extracting_products")
             
             email = os.getenv('KNOWDE_EMAIL')
             password = os.getenv('KNOWDE_PASSWORD')
             session = auth.get_auth_session(email, password)
             
             if not session:
-                raise Exception("Ошибка получения сессии")
+                error_msg = "Ошибка получения сессии"
+                processor.save_pipeline_progress(self.brand_name, "failed", error_msg)
+                raise Exception(error_msg)
             
             try:
-                processor = BrandProcessor(storage)
                 service = BrandService(storage, processor, driver=session['driver'])
-                print(f"Извлечение продуктов для бренда: {self.brand_name}")
+                logger.info(f"Извлечение продуктов для бренда: {self.brand_name}")
                 products = service.extract_brand_products(self.brand_name)
-                print(f"Извлечено продуктов: {len(products)}")
-                
+                logger.info(f"Извлечено продуктов: {len(products)}")
                 
                 with self.output().open('w') as f:
                     f.write(json.dumps(products, indent=2))
-                print(f"Продукты бренда {self.brand_name} сохранены\n")
+                processor.save_pipeline_progress(self.brand_name, "completed")
+                logger.info(f"Продукты бренда {self.brand_name} сохранены")
                 
             finally:
                 if session and 'driver' in session:
                     session['driver'].quit()
                     
         except Exception as e:
-            print(f"Ошибка при извлечении продуктов для бренда {self.brand_name}: {str(e)}")
+            error_msg = f"Ошибка при извлечении продуктов для бренда {self.brand_name}: {str(e)}"
+            logger.error(error_msg)
+            processor.save_pipeline_progress(self.brand_name, "failed", str(e))
             raise
 
 class CollectBrandsTask(luigi.Task):
@@ -127,20 +178,34 @@ class CollectBrandsTask(luigi.Task):
     date = luigi.DateParameter(default=datetime.now())
     
     def output(self):
-        return luigi.LocalTarget(str(PIPELINE_DIR / f"brands_collected_{self.date}.json"))
+        output_path = str(PIPELINE_DIR / f"brands_collected_{self.date}.json")
+        logger.info(f"Путь для сохранения брендов: {output_path}")
+        return luigi.LocalTarget(output_path)
     
     def run(self):
         try:
             storage = BrandStorage()
+            processor = BrandProcessor(storage)
             auth = KnowdeAuth()
+            
+            logger.info(f"Проверка директорий:")
+            logger.info(f"PIPELINE_DIR exists: {PIPELINE_DIR.exists()}")
+            logger.info(f"PIPELINE_DIR path: {PIPELINE_DIR}")
+            
+            processor.save_pipeline_progress("collect_brands", "processing")
+            
+            logger.info("Начало процесса аутентификации...")
             session = auth.get_auth_session(os.getenv('KNOWDE_EMAIL'), os.getenv('KNOWDE_PASSWORD'))
             
             if not session:
-                raise Exception("Ошибка получения сессии")
+                error_msg = "Ошибка получения сессии"
+                processor.save_pipeline_progress("collect_brands", "failed", error_msg)
+                logger.error(error_msg)
+                raise Exception(error_msg)
             
             try:
                 parser = BrandParser(storage, session)
-                print("\nНачинаем сбор брендов...")
+                logger.info("Начинаем сбор брендов...")
                 parser.collect_brand_links()
                 
                 # Сохраняем список брендов в JSON
@@ -152,16 +217,26 @@ class CollectBrandsTask(luigi.Task):
                         "url": brand_url
                     })
                 
+                logger.info(f"Собрано брендов: {len(brands_data)}")
+                logger.info(f"Сохранение в файл: {self.output().path}")
+                
+                # Создаем директорию если её нет
+                os.makedirs(os.path.dirname(self.output().path), exist_ok=True)
+                
                 with self.output().open('w') as f:
                     json.dump(brands_data, f, indent=2)
-                print(f"Собрано брендов: {len(brands_data)}\n")
+                
+                processor.save_pipeline_progress("collect_brands", "completed")
+                logger.info(f"Данные успешно сохранены в {self.output().path}")
                         
             finally:
                 if session and 'driver' in session:
                     session['driver'].quit()
                     
         except Exception as e:
-            print(f"Ошибка при сборе списка брендов: {str(e)}")
+            error_msg = f"Ошибка при сборе списка брендов: {str(e)}"
+            logger.error(error_msg)
+            processor.save_pipeline_progress("collect_brands", "failed", str(e))
             raise
 
 class KnowdePipeline(luigi.Task):
@@ -169,21 +244,14 @@ class KnowdePipeline(luigi.Task):
     date = luigi.DateParameter(default=datetime.now())
     
     def requires(self):
-        """
-        Определяет зависимости для пайплайна:
-        1. Сначала собираем бренды
-        2. Затем для каждого бренда запускаем извлечение продуктов
-        """
-        
         collect_task = CollectBrandsTask(date=self.date)
         
-        
         if collect_task.output().exists():
-            
+            logger.info("Загрузка списка собранных брендов...")
             with collect_task.output().open('r') as f:
                 brands_data = json.load(f)
             
-            
+            logger.info(f"Запуск обработки для {len(brands_data)} брендов")
             return {
                 'collect': collect_task,
                 'extract': [
@@ -195,7 +263,7 @@ class KnowdePipeline(luigi.Task):
                 ]
             }
         else:
-            
+            logger.info("Запуск сбора брендов...")
             return {'collect': collect_task}
     
     def output(self):
@@ -204,10 +272,10 @@ class KnowdePipeline(luigi.Task):
     def run(self):
         with self.output().open('w') as f:
             f.write(f'Pipeline completed successfully at {datetime.now()}')
-        print("\nПайплайн успешно завершен!")
+        logger.info("Пайплайн успешно завершен!")
 
 if __name__ == "__main__":
-    print("\nЗапуск пайплайна...")
+    logger.info("Запуск пайплайна...")
     luigi.build(
         [KnowdePipeline()], 
         local_scheduler=True, 

@@ -9,25 +9,60 @@ from selenium.webdriver.support import expected_conditions as EC
 import requests
 from requests_html import HTMLSession
 import re
-from typing import Set, Optional, Dict
+from typing import Set, Optional, Dict, List, Tuple
 from src.storage.brand_storage import BrandStorage
+from src.processor.brand_processor import BrandProcessor
 
 class BrandParser:
     def __init__(self, storage: BrandStorage, session: Dict):
         self.storage = storage
         self.session = session
-        self.driver = session['driver']  # Используем уже авторизованный драйвер
-        self.hash_value = None  # Добавляем атрибут для хранения hash
+        self.driver = session['driver']
+        self.hash_value = None
+        self.processor = BrandProcessor(storage)
+        self.brand_links = set()
 
     def _random_delay(self, min_delay: float = 2.0, max_delay: float = 5.0):
         """Случайная задержка между запросами"""
         time.sleep(random.uniform(min_delay, max_delay))
 
-    def collect_brand_links(self) -> None:
-        """Сбор и обработка брендов"""
+    def _get_progress(self) -> Tuple[Dict[str, Dict], List[str], str]:
+        """
+        Получает текущий прогресс обработки брендов.
+        
+        Returns:
+            Tuple[Dict, List, str]: (прогресс, список брендов с ошибками, последняя категория)
+        """
+        progress = self.processor.get_pipeline_status()
+        brands_data = progress.get('brands', {})
+        
+        # Получаем список брендов с ошибками
+        failed_brands = [
+            name for name, data in brands_data.items()
+            if data.get('status') == 'failed'
+        ]
+        
+        # Находим последнюю обработанную категорию
+        last_category = None
+        for brand_data in brands_data.values():
+            if 'category' in brand_data:
+                last_category = brand_data['category']
+        
+        return brands_data, failed_brands, last_category
+
+    def collect_brand_links(self, retry_failed: bool = True) -> None:
+        """
+        Сбор и обработка брендов.
+        
+        Args:
+            retry_failed: Повторять ли обработку брендов с ошибками
+        """
         print("Начинаем сбор и обработку брендов...")
         processed_brands = set()
-
+        
+        # Получаем текущий прогресс
+        progress_data, failed_brands, last_category = self._get_progress()
+        
         try:
             # Проверяем авторизацию
             self.driver.get("https://www.knowde.com/marketplace")
@@ -40,10 +75,48 @@ class BrandParser:
                 print("Авторизация подтверждена")
             except Exception:
                 print("Ошибка: Сессия не авторизована")
+                self.processor.save_pipeline_progress("collect_brands", "failed", "Ошибка авторизации")
                 return
 
+            # Получаем список категорий
             category_links = self._extract_category_links()
             
+            # Если есть последняя категория, начинаем с неё
+            if last_category:
+                start_idx = next((i for i, url in enumerate(category_links) 
+                                if last_category in url), 0)
+                category_links = category_links[start_idx:]
+                print(f"Продолжаем с категории: {last_category}")
+            
+            # Сначала обрабатываем бренды с ошибками, если нужно
+            if retry_failed and failed_brands:
+                print(f"\nПовторная обработка {len(failed_brands)} брендов с ошибками...")
+                for brand_name in failed_brands:
+                    brand_url = progress_data[brand_name].get('url')
+                    if brand_url:
+                        try:
+                            print(f"Повторная обработка бренда: {brand_url}")
+                            self.processor.save_pipeline_progress(brand_name, "processing")
+                            
+                            json_data = self._get_json_data_for_brand(brand_url)
+                            if json_data:
+                                self.storage.save_brand_data(brand_name, json_data)
+                                processed_brands.add(brand_name)
+                                self.processor.save_pipeline_progress(brand_name, "completed")
+                                print(f"Бренд {brand_name} успешно обработан")
+                            else:
+                                error_msg = f"Не удалось получить данные для бренда {brand_name}"
+                                self.processor.save_pipeline_progress(brand_name, "failed", error_msg)
+                                print(error_msg)
+                            
+                            self._random_delay(1, 3)
+                        except Exception as e:
+                            error_msg = f"Ошибка при повторной обработке бренда {brand_name}: {e}"
+                            self.processor.save_pipeline_progress(brand_name, "failed", error_msg)
+                            print(error_msg)
+                            self._random_delay(5.0, 10.0)
+            
+            # Продолжаем обработку остальных категорий
             for url in category_links:
                 try:
                     self._random_delay()
@@ -53,72 +126,117 @@ class BrandParser:
                     numbers = [int(link.text) for link in pagination_links if link.text.isdigit()]
                     max_number = max(numbers) if numbers else 10
                     
-                    # Обрабатываем каждую страницу пагинации
+                    category_name = url.split('/')[-2]  # Получаем имя категории из URL
+                    
                     for page in range(1, max_number + 1):
                         page_url = f"{url}/{page}"
                         print(f"\nОбработка страницы {page} из {max_number}: {page_url}")
+                        self.processor.save_pipeline_progress(
+                            "collect_brands",
+                            "processing",
+                            f"Категория: {category_name}, Страница {page} из {max_number}"
+                        )
                         
                         try:
                             self.driver.get(page_url)
                             
-                            # Ждем загрузки брендов на странице
                             WebDriverWait(self.driver, 10).until(
                                 EC.presence_of_all_elements_located((By.XPATH, "//a[contains(text(), 'View Brand')]"))
                             )
                             
-                            # Собираем все ссылки на бренды с текущей страницы
                             current_page_brands = []
                             elements = self.driver.find_elements(By.XPATH, "//a[contains(text(), 'View Brand')]")
                             
                             for element in elements:
                                 brand_url = element.get_attribute('href')
                                 brand_name = brand_url.split('/')[-1]
-                                # WebDriverWait(self.driver, 10).until(
-                                #     EC.presence_of_all_elements_located((By.XPATH, "//a[contains(text(), 'View Product')]"))
-                                # )
-                                # product_links = self.driver.find_elements(By.XPATH, "//a[contains(text(), 'View Product')]")
                                 if brand_name not in processed_brands:
                                     current_page_brands.append((brand_name, brand_url))
+                                    self.brand_links.add(brand_url)
                             
-                            # Обрабатываем все найденные бренды на текущей странице
                             print(f"Найдено {len(current_page_brands)} новых брендов на странице {page}")
                             
                             for brand_name, brand_url in current_page_brands:
+                                # Пропускаем уже успешно обработанные бренды
+                                if progress_data.get(brand_name, {}).get('status') == 'completed':
+                                    print(f"Пропуск уже обработанного бренда: {brand_name}")
+                                    continue
+                                    
                                 try:
                                     print(f"\nОбработка бренда: {brand_url}")
+                                    self.processor.save_pipeline_progress(
+                                        brand_name,
+                                        "processing",
+                                        category=category_name,
+                                        url=brand_url
+                                    )
+                                    
                                     json_data = self._get_json_data_for_brand(brand_url)
                                     
                                     if json_data:
                                         self.storage.save_brand_data(brand_name, json_data)
                                         processed_brands.add(brand_name)
+                                        self.processor.save_pipeline_progress(
+                                            brand_name,
+                                            "completed",
+                                            category=category_name,
+                                            url=brand_url
+                                        )
                                         print(f"Бренд {brand_name} успешно обработан и сохранен")
                                     else:
-                                        print(f"Не удалось получить данные для бренда {brand_name}")
+                                        error_msg = f"Не удалось получить данные для бренда {brand_name}"
+                                        self.processor.save_pipeline_progress(
+                                            brand_name,
+                                            "failed",
+                                            error_msg,
+                                            category=category_name,
+                                            url=brand_url
+                                        )
+                                        print(error_msg)
                                     
                                     self._random_delay(1, 3)
                                     
                                 except Exception as e:
-                                    print(f"Ошибка при обработке бренда {brand_name}: {e}")
+                                    error_msg = f"Ошибка при обработке бренда {brand_name}: {e}"
+                                    self.processor.save_pipeline_progress(
+                                        brand_name,
+                                        "failed",
+                                        error_msg,
+                                        category=category_name,
+                                        url=brand_url
+                                    )
+                                    print(error_msg)
                                     self._random_delay(5.0, 10.0)
                                     continue
                             
                             print(f"Завершена обработка страницы {page}")
-                            self._random_delay(2, 4)  # Задержка между страницами
+                            self._random_delay(2, 4)
                             
                         except Exception as e:
-                            print(f"Ошибка при обработке страницы {page_url}: {e}")
+                            error_msg = f"Ошибка при обработке страницы {page_url}: {e}"
+                            self.processor.save_pipeline_progress("collect_brands", "failed", error_msg)
+                            print(error_msg)
                             self._random_delay(5.0, 10.0)
                             continue
                             
                 except Exception as e:
-                    print(f"Ошибка при обработке категории {url}: {e}")
+                    error_msg = f"Ошибка при обработке категории {url}: {e}"
+                    self.processor.save_pipeline_progress("collect_brands", "failed", error_msg)
+                    print(error_msg)
                     self._random_delay(5.0, 10.0)
                     continue
 
             print(f"\nВсего успешно обработано брендов: {len(processed_brands)}")
+            self.processor.save_pipeline_progress(
+                "collect_brands",
+                "completed",
+                f"Обработано брендов: {len(processed_brands)}"
+            )
 
         except Exception as e:
-            print(f"Общая ошибка при сборе и обработке брендов: {e}")
+            error_msg = f"Общая ошибка при сборе и обработке брендов: {e}"
+            self.processor.save_pipeline_progress("collect_brands", "failed", error_msg)
+            print(error_msg)
 
     def _extract_category_links(self) -> list:
         """Получение ссылок на категории"""

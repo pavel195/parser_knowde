@@ -1,6 +1,25 @@
 version: '3.8'
 
 services:
+  db:
+    image: postgres:16
+    environment:
+      - POSTGRES_DB=knowde_parser
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+      - PGDATA=/var/lib/postgresql/data/pgdata
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 10s
+    restart: unless-stopped
+
   pipeline:
     build: .
     volumes:
@@ -11,6 +30,11 @@ services:
       - PYTHONPATH=/app
       - PYTHONUNBUFFERED=1
       - CHROME_HEADLESS=1
+      - DB_HOST=db
+      - DB_PORT=5432
+      - DB_NAME=knowde_parser
+      - DB_USER=postgres
+      - DB_PASSWORD=postgres
     deploy:
       resources:
         limits:
@@ -21,6 +45,9 @@ services:
       - seccomp=unconfined
     shm_size: '4gb'
     restart: unless-stopped
+    depends_on:
+      db:
+        condition: service_healthy
     logging:
       driver: "json-file"
       options:
@@ -41,6 +68,11 @@ services:
     environment:
       - PYTHONPATH=/app
       - PYTHONUNBUFFERED=1
+      - DB_HOST=db
+      - DB_PORT=5432
+      - DB_NAME=knowde_parser
+      - DB_USER=postgres
+      - DB_PASSWORD=postgres
     deploy:
       resources:
         limits:
@@ -48,9 +80,16 @@ services:
         reservations:
           memory: 512M
     restart: unless-stopped
+    depends_on:
+      db:
+        condition: service_healthy
     logging:
       driver: "json-file"
       options:
         max-size: "200m"
         max-file: "10"
-    command: uvicorn src.api.api:app --host 0.0.0.0 --port 8000 --reload 
+    command: uvicorn src.api.api:app --host 0.0.0.0 --port 8000 --reload
+
+volumes:
+  postgres_data:
+    driver: local 

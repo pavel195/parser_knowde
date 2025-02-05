@@ -16,6 +16,9 @@ requests-html = "*"
 lxml-html-clean = "*"
 faker = "*"
 selenium-stealth = "*"
+sqlalchemy = "*"
+psycopg2-binary = "*"
+alembic = "*"
 
 [dev-packages]
 

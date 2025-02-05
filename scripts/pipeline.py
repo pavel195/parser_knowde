@@ -59,6 +59,12 @@ from src.storage.brand_storage import BrandStorage
 from src.processor.brand_processor import BrandProcessor
 from src.service.brand_service import BrandService
 from src.auth.knowde_auth import KnowdeAuth
+from src.database.db import init_db
+
+# Инициализация базы данных
+logger.info("Инициализация базы данных...")
+init_db()
+logger.info("База данных инициализирована")
 
 class SaveBrandTask(luigi.Task):
     """Задача для парсинга и сохранения данных бренда"""

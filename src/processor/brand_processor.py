@@ -1,17 +1,16 @@
 """Модуль для обработки данных брендов."""
-from typing import Dict, List, Optional, Set
-import json
-from pathlib import Path
+from typing import Dict, List, Optional, Any
 from datetime import datetime
+from sqlalchemy.orm import Session
+from sqlalchemy import and_
+
 from src.storage.brand_storage import BrandStorage
+from src.database.db import get_db
+from src.database.models import Brand, Product, PipelineProgress, ProcessStatus
 
 class BrandProcessor:
     def __init__(self, storage: BrandStorage):
         self.storage = storage
-        self.data_dir = Path("data")
-        self.products_dir = self.data_dir / "products"
-        self.pipeline_dir = self.data_dir / "pipeline"
-        self.pipeline_dir.mkdir(parents=True, exist_ok=True)
 
     def save_pipeline_progress(self, brand_name: str, status: str = "completed", 
                              error: Optional[str] = None, **kwargs) -> None:
@@ -22,65 +21,33 @@ class BrandProcessor:
             brand_name: Название бренда
             status: Статус обработки (completed/failed/processing)
             error: Описание ошибки, если есть
-            **kwargs: Дополнительные параметры для сохранения (category, url и т.д.)
+            **kwargs: Дополнительные параметры (category, url и т.д.)
         """
         try:
-            progress_file = self.pipeline_dir / "brands_progress.json"
-            
-            # Загружаем текущий прогресс
-            progress = {}
-            if progress_file.exists():
-                with open(progress_file, 'r', encoding='utf-8') as f:
-                    progress = json.load(f)
-            
-            # Добавляем информацию о бренде
-            progress[brand_name] = {
-                'status': status,
-                'timestamp': datetime.now().isoformat(),
-                'error': error,
-                **kwargs  # Добавляем все дополнительные параметры
-            }
-            
-            # Сохраняем обновленный прогресс
-            with open(progress_file, 'w', encoding='utf-8') as f:
-                json.dump(progress, f, indent=2, ensure_ascii=False)
+            with get_db() as db:
+                # Получаем или создаем бренд
+                brand = self._get_or_create_brand(db, brand_name, **kwargs)
+                
+                # Получаем или создаем запись о прогрессе
+                progress = db.query(PipelineProgress).filter(
+                    PipelineProgress.brand_id == brand.id
+                ).first()
+                
+                if not progress:
+                    progress = PipelineProgress(brand_id=brand.id)
+                    db.add(progress)
+                
+                # Обновляем статус
+                progress.status = ProcessStatus[status.upper()]
+                progress.error = error
+                progress.updated_at = datetime.utcnow()
+                
+                db.commit()
                 
         except Exception as e:
             print(f"Ошибка при сохранении прогресса для бренда {brand_name}: {str(e)}")
 
-    def get_unprocessed_brands(self, brand_urls: List[str]) -> List[str]:
-        """
-        Получение списка необработанных брендов.
-        
-        Args:
-            brand_urls: Список URL брендов для обработки
-            
-        Returns:
-            List[str]: Список необработанных брендов
-        """
-        try:
-            progress_file = self.pipeline_dir / "brands_progress.json"
-            if not progress_file.exists():
-                return brand_urls
-            
-            with open(progress_file, 'r', encoding='utf-8') as f:
-                progress = json.load(f)
-            
-            # Фильтруем бренды, которые не были успешно обработаны
-            unprocessed = []
-            for url in brand_urls:
-                brand_name = url.split('/')[-1]
-                brand_status = progress.get(brand_name, {}).get('status')
-                if brand_status != 'completed':
-                    unprocessed.append(url)
-            
-            return unprocessed
-            
-        except Exception as e:
-            print(f"Ошибка при получении списка необработанных брендов: {str(e)}")
-            return brand_urls
-
-    def get_pipeline_status(self) -> Dict:
+    def get_pipeline_status(self) -> Dict[str, Any]:
         """
         Получение статуса выполнения пайплайна.
         
@@ -88,36 +55,40 @@ class BrandProcessor:
             Dict: Статистика обработки брендов
         """
         try:
-            progress_file = self.pipeline_dir / "brands_progress.json"
-            if not progress_file.exists():
+            with get_db() as db:
+                # Получаем все записи о прогрессе
+                progress_records = db.query(PipelineProgress).join(Brand).all()
+                
+                # Считаем статистику
+                total = len(progress_records)
+                completed = sum(1 for p in progress_records if p.status == ProcessStatus.COMPLETED)
+                failed = sum(1 for p in progress_records if p.status == ProcessStatus.FAILED)
+                
+                # Находим время последнего обновления
+                last_update = max(
+                    (p.updated_at for p in progress_records),
+                    default=None
+                )
+                
+                # Формируем детальную информацию по брендам
+                brands = {}
+                for progress in progress_records:
+                    brands[progress.brand.name] = {
+                        'status': progress.status.value,
+                        'timestamp': progress.updated_at.isoformat() if progress.updated_at else None,
+                        'error': progress.error,
+                        'category': progress.brand.category,
+                        'url': progress.brand.url
+                    }
+                
                 return {
-                    'total': 0,
-                    'completed': 0,
-                    'failed': 0,
-                    'last_update': None,
-                    'brands': {}
+                    'total': total,
+                    'completed': completed,
+                    'failed': failed,
+                    'last_update': last_update.isoformat() if last_update else None,
+                    'brands': brands
                 }
-            
-            with open(progress_file, 'r', encoding='utf-8') as f:
-                progress = json.load(f)
-            
-            completed = sum(1 for brand in progress.values() if brand['status'] == 'completed')
-            failed = sum(1 for brand in progress.values() if brand['status'] == 'failed')
-            
-            # Находим время последнего обновления
-            last_update = max(
-                (brand['timestamp'] for brand in progress.values()),
-                default=None
-            )
-            
-            return {
-                'total': len(progress),
-                'completed': completed,
-                'failed': failed,
-                'last_update': last_update,
-                'brands': progress
-            }
-            
+                
         except Exception as e:
             print(f"Ошибка при получении статуса пайплайна: {str(e)}")
             return {
@@ -128,6 +99,34 @@ class BrandProcessor:
                 'brands': {}
             }
 
+    def get_unprocessed_brands(self) -> List[Dict[str, str]]:
+        """
+        Получение списка необработанных брендов.
+        
+        Returns:
+            List[Dict[str, str]]: Список брендов для обработки
+        """
+        try:
+            with get_db() as db:
+                # Получаем бренды без прогресса или с ошибками
+                unprocessed = db.query(Brand).outerjoin(
+                    PipelineProgress
+                ).filter(
+                    and_(
+                        PipelineProgress.id.is_(None) |
+                        (PipelineProgress.status == ProcessStatus.FAILED)
+                    )
+                ).all()
+                
+                return [
+                    {'name': brand.name, 'url': brand.url}
+                    for brand in unprocessed
+                ]
+                
+        except Exception as e:
+            print(f"Ошибка при получении списка необработанных брендов: {str(e)}")
+            return []
+
     def clear_pipeline_progress(self) -> bool:
         """
         Очистка прогресса пайплайна.
@@ -136,24 +135,39 @@ class BrandProcessor:
             bool: True если очистка успешна, False в случае ошибки
         """
         try:
-            progress_file = self.pipeline_dir / "brands_progress.json"
-            if progress_file.exists():
-                progress_file.unlink()
-            return True
+            with get_db() as db:
+                db.query(PipelineProgress).delete()
+                db.commit()
+                return True
         except Exception as e:
             print(f"Ошибка при очистке прогресса пайплайна: {str(e)}")
             return False
 
-    def get_brand_summary(self, brand_name: str) -> Optional[Dict]:
+    def _get_or_create_brand(self, db: Session, brand_name: str, **kwargs) -> Brand:
         """
-        Формирование сводки о бренде.
+        Получение или создание записи о бренде.
         
         Args:
+            db: Сессия базы данных
             brand_name: Название бренда
+            **kwargs: Дополнительные параметры бренда
             
         Returns:
-            Dict: Сводка о бренде или None, если бренд не найден
+            Brand: Объект бренда
         """
+        brand = db.query(Brand).filter(Brand.name == brand_name).first()
+        
+        if not brand:
+            brand = Brand(
+                name=brand_name,
+                url=kwargs.get('url', ''),
+                category=kwargs.get('category')
+            )
+            db.add(brand)
+            db.flush()
+        
+        return brand
+
         data = self.storage.load_brand_data(brand_name)
         if not data:
             return None

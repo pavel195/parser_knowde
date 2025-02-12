@@ -39,7 +39,7 @@ class Product(Base):
     name = Column(String(255))
     url = Column(String(500))
     description = Column(Text)
-    data = Column(JSON)  # Все данные продукта в JSON
+    data = Column(JSON)  
     created_at = Column(DateTime, default=datetime.utcnow)
     updated_at = Column(DateTime, default=datetime.utcnow, onupdate=datetime.utcnow)
     

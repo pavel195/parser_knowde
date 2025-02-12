@@ -32,10 +32,10 @@ log_file = LOGS_DIR / "pipeline.log"
 max_bytes = 1024 * 1024 * 1024  # 1 GB
 backup_count = 5  # Количество файлов бэкапа
 
-# Создаем форматтер для логов
+
 formatter = logging.Formatter('%(asctime)s [%(levelname)s] %(message)s')
 
-# Настраиваем RotatingFileHandler
+
 file_handler = RotatingFileHandler(
     log_file,
     maxBytes=max_bytes,
@@ -44,11 +44,11 @@ file_handler = RotatingFileHandler(
 )
 file_handler.setFormatter(formatter)
 
-# Настраиваем вывод в консоль
+
 console_handler = logging.StreamHandler(sys.stdout)
 console_handler.setFormatter(formatter)
 
-# Настраиваем корневой логгер
+
 logger = logging.getLogger()
 logger.setLevel(logging.INFO)
 logger.addHandler(file_handler)
@@ -61,7 +61,7 @@ from src.service.brand_service import BrandService
 from src.auth.knowde_auth import KnowdeAuth
 from src.database.db import init_db
 
-# Инициализация базы данных
+
 logger.info("Инициализация базы данных...")
 init_db()
 logger.info("База данных инициализирована")

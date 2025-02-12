@@ -1,41 +1,76 @@
-# Knowde Brand Parser
 
-Парсер и анализатор данных о брендах с платформы Knowde.com.
 
-## Установка и запуск
+## Сервисы
 
-### 1. Установка зависимостей
+- `knowdie_parser` - Сервис для парсинга и обработки данных
+- `ai_translator` - Сервис для перевода текста
+
+## Команды
+
+### Общие команды
+
 ```bash
-# Создание виртуального окружения
-python -m venv .venv
-source .venv/bin/activate  # Linux/Mac
-# или
-.venv\Scripts\activate  # Windows
+# Сборка всех сервисов
+make build
 
-# Установка зависимостей
-pip install -r requirements.txt
+# Запуск всех сервисов
+make up
+
+# Остановка всех сервисов
+make down
+
+# Просмотр логов всех сервисов
+make logs
+
+# Проверка статуса сервисов
+make ps
 ```
 
-### 2. Установка WebDriver Manager
+### Команды для knowdie_parser
+
 ```bash
-# Установка webdriver_manager
-pip install webdriver_manager
+# Сборка сервиса
+make parser-build
+
+# Запуск сервиса
+make parser-up
+
+# Остановка сервиса
+make parser-down
+
+# Просмотр логов сервиса
+make parser-logs
+
+# Запуск парсера брендов
+make run-parser
+
+# Запуск извлечения продуктов
+make extract-products
+
+# Запуск тестов
+make test
+
+# Проверка кода линтером
+make lint
+
+# Очистка временных файлов
+make clean
 ```
 
-### 3. Запуск скриптов
+### Команды для ai_translator
+
 ```bash
-# Сбор данных о брендах
-python scripts/run_parser.py
+# Сборка сервиса
+make translator-build
 
-# Извлечение данных о продуктах
-python scripts/extract_products.py
+# Запуск сервиса
+make translator-up
+
+# Остановка сервиса
+make translator-down
+
+# Просмотр логов сервиса
+make translator-logs
 ```
 
-## Структура проекта
-```
-knowde_parser/
-├── src/              # Исходный код
-├── data/             # Собранные данные
-├── scripts/          # Скрипты запуска
-└── tests/            # Тесты
-```
+
